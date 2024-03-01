@@ -54,6 +54,8 @@ l) Determinar a instrução de processos de contraordenação e designar o respe
 
 m) Praticar outros atos e formalidades de caráter instrumental necessários ao exercício da competência decisória do delegante ou subdelegante.
 
+n) As competências previstas no artigo 5.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual.
+
 4 - A delegação ou subdelegação da competência prevista na alínea a) do n.º 1 do artigo 35.º depende da prática de ato especialmente dirigido a cada uma das representações em causa.
 
 5 - Às delegações e subdelegações previstas no presente artigo é aplicável, com as devidas adaptações, o disposto nos n.os 2 e 3 do artigo 34.º
