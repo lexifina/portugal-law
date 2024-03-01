@@ -4,7 +4,7 @@
 
 1 - Os notários estão sujeitos ao poder disciplinar do membro do Governo responsável pela área da justiça e da Ordem dos Notários.
 
-2 - O membro do Governo responsável pela área da justiça exerce a ação disciplinar através do Conselho do Notariado.
+2 - (Revogado.)
 
 3 - A suspensão ou o cancelamento da inscrição na Ordem dos Notários não faz cessar a responsabilidade disciplinar por infrações anteriormente praticadas pelo notário enquanto tal.
 

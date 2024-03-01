@@ -12,7 +12,7 @@
 
 Para adquirir a qualidade de notário em Portugal, são requisitos indispensáveis os seguintes:
 
-a) Ser português ou nacional de um Estado membro da União Europeia ou de outro Estado signatário de acordo com Portugal visando o reconhecimento mútuo de qualificações profissionais para o exercício da função notarial em regime de reciprocidade;
+a) (Revogada.)
 
 b) Ser maior de idade;
 
@@ -26,4 +26,4 @@ ii) Grau académico superior estrangeiro em Direito a que tenha sido conferida e
 
 e) Ter frequentado o estágio notarial;
 
-f) Ter obtido aprovação em concurso promovido nos termos dos artigos 31.º e 32.º do presente Estatuto.
+f) Ter obtido aprovação no exame final de estágio, nos termos do presente Estatuto.

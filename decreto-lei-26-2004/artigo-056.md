@@ -2,4 +2,6 @@
 
 ### Apoio administrativo e financeiro
 
-Cabe ao Instituto dos Registos e do Notariado, I. P., fornecer o apoio administrativo e financeiro ao Conselho do Notariado, bem como apoio ao exercício da ação disciplinar do membro do Governo responsável pela área da justiça e do Conselho do Notariado.
+1 - Cabe ao IRN, I. P., e à Ordem dos Notários fornecer o apoio administrativo e financeiro ao Conselho do Notariado, bem como apoio ao exercício da sua ação disciplinar.
+
+2 - O apoio dado por cada uma das entidades referidas no número anterior é fixado por protocolo homologado pelo membro do Governo responsável pela área da justiça.

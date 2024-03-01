@@ -20,7 +20,7 @@ e) Interdição definitiva do exercício da atividade profissional.
 
 2 - A aplicação das sanções previstas nas alíneas a) a c) do número anterior é da competência do Conselho do Notariado e da Ordem dos Notários.
 
-3 - Sem prejuízo do disposto no número seguinte, a aplicação das sanções previstas nas alíneas d) e e) do n.º 1 é da competência exclusiva do membro do Governo responsável pelas áreas da justiça, sob proposta do Conselho do Notariado.
+3 - Sem prejuízo do disposto no número seguinte, a aplicação das sanções previstas nas alíneas d) e e) do n.º 1 é da competência exclusiva do Conselho do Notariado.
 
 4 - A aplicação das sanções previstas nas alíneas d) e e) do n.º 1 é, no entanto, da competência da Ordem dos Notários nos casos em que, nos termos do n.º 10 do artigo 83.º, a Ordem dos Notários tenha competência exclusiva para instruir e decidir o processo disciplinar.
 
@@ -38,7 +38,7 @@ e) Interdição definitiva do exercício da atividade profissional.
 
 11 - A tentativa é punível com a sanção aplicável à infração consumada, especialmente atenuada.
 
-12 - O produto das multas reverte a favor do Estado, nos casos em que a multa tenha sido aplicada pelo Conselho do Notariado ou pelo membro do Governo responsável pela área da justiça, ou a favor do fundo de compensação previsto no Estatuto da Ordem dos Notários, nas proporções de 80 % e 20 %, respetivamente, nos casos em que a multa tenha sido aplicada pela Ordem.
+12 - O produto das multas reverte a favor do Estado, nos casos em que a multa tenha sido aplicada pelo Conselho do Notariado, ou a favor do fundo de compensação previsto no Estatuto da Ordem dos Notários, nas proporções de 80 % e 20 %, respetivamente, nos casos em que a multa tenha sido aplicada pela Ordem.
 
 13 - Sempre que a infração resulte da violação de um dever por omissão, o cumprimento das sanções aplicadas não dispensa o infrator do cumprimento daquele, se tal ainda for possível.
 

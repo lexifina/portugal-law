@@ -6,4 +6,6 @@
 
 ### Início de estágio
 
-Quem possuir os requisitos previstos nas alíneas a) a d) do artigo anterior pode requerer à Ordem dos Notários a inscrição no estágio notarial.
+1 - Quem possuir os requisitos previstos nas alíneas b) a d) do artigo anterior pode requerer à Ordem dos Notários a inscrição no estágio notarial.
+
+2 - A inscrição no estágio pode ocorrer a todo o tempo.

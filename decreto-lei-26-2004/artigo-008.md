@@ -9,3 +9,5 @@
 3 - A autorização referida no n.º 1 deve ser expressa e o respectivo texto afixado no cartório notarial em local acessível ao público, devendo ainda ser registada e permanentemente actualizada por via electrónica junto da Ordem dos Notários.
 
 4 - O registo referido no número anterior constitui requisito de validade da intervenção do colaborador e do documento em causa, devendo ser publicitado no sítio da Ordem dos Notários, com acesso livre.
+
+5 - O conselho supervisor da Ordem dos Notários fiscaliza o cumprimento das condições a que se refere o n.º 1, podendo determinar a recusa ou o cancelamento do registo referido no n.º 3, nos casos de falta de idoneidade do trabalhador para a prática dos atos mencionados no n.º 1.

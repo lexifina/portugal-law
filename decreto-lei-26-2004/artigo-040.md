@@ -6,4 +6,6 @@
 
 2 - (Revogado.)
 
-3 - No caso referido nos números anteriores, a vaga correspondente é preenchida pelo candidato graduado imediatamente a seguir, de harmonia com o disposto no n.º 3 do artigo 34.º
+3 - (Revogado.)
+
+4 - A perda da licença nos termos do n.º 1 impede o notário, no ano subsequente, de se apresentar novamente a concurso.

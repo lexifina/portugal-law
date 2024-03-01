@@ -2,13 +2,13 @@
 
 ### Estágio
 
-1 - O estágio tem a duração máxima de 18 meses e é realizado sob orientação de notário com, pelo menos, cinco anos de exercício de funções notariais, livremente escolhido pelo estagiário ou designado pela Ordem dos Notários.
+1 - O estágio tem a duração máxima de 12 meses, contados da data de inscrição no estágio e até à inscrição na Ordem como notário, e é realizado sob orientação de notário com, pelo menos, cinco anos de exercício de funções notariais, livremente escolhido pelo estagiário ou designado pela Ordem dos Notários.
 
-2 - O estágio encontra-se dividido em duas fases, sendo que:
+2 - O estágio destina-se a habilitar os estagiários com os conhecimentos técnico-profissionais e deontológicos essenciais para a prática dos atos da função notarial, encontrando-se dividido em duas fases, sendo que:
 
-a) A fase inicial tem a duração de seis meses e destina-se a garantir a iniciação aos aspetos técnicos da profissão e um adequado conhecimento das suas regras e exigências deontológicas, de forma a assegurar que os estagiários, ao transitarem para a fase complementar, estão aptos à prática dos atos da função notarial, no âmbito das suas competências;
+a) A fase inicial destina-se a garantir a iniciação aos aspetos técnicos da profissão e um adequado conhecimento das suas regras e exigências deontológicas, de forma a assegurar que os estagiários, ao transitarem para a fase complementar, estão aptos à prática dos atos da função notarial, no âmbito das suas competências;
 
-b) A fase complementar tem a duração de 12 meses e visa o desenvolvimento e aprofundamento das exigências práticas e deontológicas da profissão, intensificando o contacto pessoal do estagiário com o funcionamento dos cartórios, seus utentes e trabalhadores, e com todos os aspetos e instituições relevantes para a função notarial.
+b) A fase complementar visa o desenvolvimento e aprofundamento das exigências práticas e deontológicas da profissão, intensificando o contacto pessoal do estagiário com o funcionamento dos cartórios, seus utentes e trabalhadores, e com todos os aspetos e instituições relevantes para a função notarial.
 
 3 - A duração do estágio, bem como de cada uma das fases previstas no número anterior, são reduzidas a metade se o estagiário for:
 
@@ -21,7 +21,5 @@ c) Conservador de registos, desde que não tenha tido avaliação final de desem
 d) Advogado inscrito na Ordem dos Advogados durante pelo menos cinco anos.
 
 e) Colaborador de notário em exercício de funções com competências delegadas há pelo menos um ano.
-
-3 - O estágio é igualmente reduzido a metade se o estagiário for ajudante ou escriturário dos registos e do notariado, desde que não tenha tido classificação inferior a Bom.
 
 4 - A duração do estágio e das respetivas fases é igualmente reduzida a metade se o estagiário for ajudante ou escriturário dos registos e do notariado, desde que não tenha tido avaliação final de desempenho inferior a 'adequado'.

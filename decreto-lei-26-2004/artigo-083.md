@@ -16,7 +16,7 @@
 
 7 - Recebida a comunicação prevista no n.º 5 e com vista a informar a tomada de decisão a que alude o número anterior, o Conselho do Notariado pode solicitar ao instrutor nomeado pela Ordem dos Notários a realização de qualquer diligência instrutória.
 
-8 - Concluída a instrução do processo por instrutor nomeado pela Ordem dos Notários, e caso este proponha, no relatório final, a aplicação de sanção que, nos termos do n.º 3 do artigo 70.º, só possa ser aplicada pelo membro do Governo responsável pela área da justiça, é o processo remetido ao Conselho do Notariado.
+8 - Concluída a instrução do processo por instrutor nomeado pela Ordem dos Notários, e caso este proponha, no relatório final, a aplicação de sanção que, nos termos do n.º 3 do artigo 70.º, só possa ser aplicada pelo Conselho do Notariado, é o processo remetido a esta entidade.
 
 9 - Nos casos em que o instrutor proponha, no relatório final, a aplicação de alguma das sanções previstas nas alíneas a) a c) do n.º 1 do artigo 70.º ou o arquivamento dos autos, é o processo remetido à entidade que o instaurou, para que seja proferida decisão.
 

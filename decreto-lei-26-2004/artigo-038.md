@@ -2,8 +2,8 @@
 
 ### Posse
 
-1 - O notário inicia a actividade com a tomada de posse mediante juramento perante o Ministro da Justiça e o bastonário da Ordem dos Notários.
+1 - O notário inicia a atividade com a tomada de posse mediante juramento perante o bastonário da Ordem dos Notários e o presidente do Conselho do Notariado.
 
-2 - No acto da tomada de posse é entregue ao notário o selo branco e a autorização de uso do seu correspondente digital.
+2 - No ato da tomada de posse é entregue ao notário o selo branco e a autorização de uso do selo eletrónico.
 
-3 - O início da actividade deve ser publicitado, por iniciativa e a expensas do empossado, num jornal da localidade, com menção do nome do notário e do local de exercício da actividade.
+3 - (Revogado.)

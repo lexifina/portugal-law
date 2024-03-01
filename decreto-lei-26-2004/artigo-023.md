@@ -26,6 +26,6 @@ j) Denunciar os crimes de que tomar conhecimento no exercício das suas funçõe
 
 l) Não solicitar ou angariar clientes, por si ou por interposta pessoa;
 
-m) Contratar e manter seguro de responsabilidade civil profissional de montante não inferior a (euro) 100000.
+m) Contratar e manter seguro de responsabilidade civil profissional, cujas condições mínimas são fixadas por portaria dos membros do Governo responsáveis pelas áreas da justiça e das finanças.
 
 2 - Os factos e elementos cobertos pelo sigilo profissional só podem ser revelados nos termos previstos nas disposições legais pertinentes e, ainda, por decisão do órgão competente da Ordem dos Notários, ponderados os interesses em conflito.

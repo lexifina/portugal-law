@@ -1,7 +1,13 @@
 # Artigo 32.º
 
-### Prestação de provas
+### Júri do exame
 
-1 - O concurso consiste na prestação de provas públicas de avaliação da capacidade para o exercício da função notarial.
+1 - A avaliação final do estágio é da responsabilidade de um júri independente.
 
-2 - As provas têm uma parte escrita e uma parte oral e são realizadas nos termos de normas próprias, constantes do aviso do concurso.
+2 - O júri é designado pelo conselho supervisor da Ordem dos Notários e integra:
+
+a) Um notário, com pelo menos cinco anos de exercício da profissão, que preside;
+
+b) Um membro designado pelo membro do Governo responsável pela área da justiça;
+
+c) Uma personalidade de reconhecido mérito com qualificação no domínio do direito privado, administrativo, fiscal, notarial e registal, que não seja membro da Ordem dos Notários.

@@ -8,7 +8,7 @@
 
 3 - A sanção de interdição definitiva do exercício da atividade profissional só pode ser aplicada às infrações muito graves, não podendo ter origem no incumprimento pelo notário do dever de pagar quotas.
 
-4 - O incumprimento pelo notário do dever de pagar quotas pode dar lugar à aplicação de sanção disciplinar de suspensão quando se apure que é culposo e se prolongue por período superior a 12 meses, cessando ou extinguindo-se a sanção quando ocorra o pagamento voluntário.
+4 - O incumprimento pelo notário do dever de pagar quotas e de contribuir para o fundo de compensação pode dar lugar à aplicação de sanção disciplinar de suspensão quando se apure que é culposo e se prolongue por período superior a 12 meses, cessando ou extinguindo-se a sanção quando ocorra o pagamento voluntário.
 
 5 - (Revogado.)
 

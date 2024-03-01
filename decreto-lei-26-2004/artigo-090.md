@@ -4,7 +4,7 @@
 
 1 - No caso de aplicação de sanção de interdição definitiva do exercício da atividade profissional, o notário pode ser reabilitado, mediante requerimento devidamente fundamentado para a entidade que proferiu a decisão e desde que se preencham cumulativamente os seguintes requisitos:
 
-a) Tenham decorrido mais de 15 anos desde que a decisão que aplicou a sanção se tornou irrecorrível;
+a) Tenham decorrido mais de cinco anos desde que a decisão que aplicou a sanção se tornou irrecorrível;
 
 b) O reabilitando tenha revelado boa conduta, podendo, para o demonstrar, utilizar quaisquer meios de prova legalmente admissíveis.
 
