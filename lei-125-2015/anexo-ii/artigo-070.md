@@ -1,0 +1,19 @@
+# Artigo 70.º
+
+### Independência da responsabilidade disciplinar dos membros da Ordem
+
+1 - A responsabilidade disciplinar é independente da responsabilidade civil e criminal decorrente da prática do mesmo facto.
+
+2 - A responsabilidade disciplinar perante a Ordem coexiste com qualquer outra prevista por lei.
+
+3 - O processo disciplinar é promovido independentemente da promoção de qualquer outro.
+
+4 - Quando, com fundamento nos mesmos factos, tiver sido instaurado processo penal contra membro da Ordem e, para se conhecer da existência de uma infração disciplinar, for necessário julgar qualquer questão que não possa ser convenientemente resolvida no processo disciplinar, pode ser ordenada a suspensão do processo disciplinar por um período máximo de um ano.
+
+5 - A suspensão do processo disciplinar, nos termos do número anterior, é comunicada pela Ordem à autoridade judiciária competente, a qual deve ordenar a remessa à Ordem de cópia do despacho de acusação e, se a ela houver lugar, da decisão instrutória.
+
+6 - Decorrido o prazo fixado nos termos do n.º 4 sem que a questão tenha sido resolvida, a questão é decidida no processo disciplinar.
+
+7 - Sempre que, em processo penal contra membro da Ordem, for designado dia para a audiência de julgamento, o tribunal deve ordenar a remessa à Ordem, preferencialmente por via eletrónica, do despacho de acusação, do despacho de pronúncia e da contestação, se tiver sido apresentada, bem como de quaisquer outros elementos solicitados pelo conselho diretivo ou pelo bastonário.
+
+8 - A responsabilidade disciplinar dos membros perante a Ordem decorrente da prática de infrações é independente da responsabilidade disciplinar perante os respetivos empregadores, por infração aos deveres emergentes de relações de trabalho.
