@@ -1,0 +1,17 @@
+# Artigo 2.º
+
+### Âmbito e sede
+
+1 - As atribuições da Ordem respeitam a todo o território nacional.
+
+2 - A Ordem tem sede em Lisboa.
+
+3 - A Ordem compreende as seguintes estruturas regionais, denominadas delegações:
+
+a) Delegação Regional do Norte, compreendendo as áreas correspondentes aos distritos de Aveiro, Braga, Bragança, Castelo Branco, Coimbra, Guarda, Leiria, Porto, Viana do Castelo e Viseu;
+
+b) Delegação Regional do Sul, compreendendo as áreas correspondentes aos distritos de Beja, Évora, Faro, Lisboa, Portalegre, Santarém e Setúbal;
+
+c) Delegação Regional dos Açores, compreendendo as áreas correspondentes aos concelhos da Região Autónoma dos Açores;
+
+d) Delegação Regional da Madeira, compreendendo as áreas correspondentes aos concelhos da Região Autónoma da Madeira.
