@@ -1,0 +1,5 @@
+# Artigo 96.º
+
+### Unidade e acumulação de infrações
+
+Sem prejuízo da aplicação das sanções acessórias referidas no artigo anterior, não pode aplicar-se ao mesmo membro mais do que uma sanção disciplinar por cada facto punível.

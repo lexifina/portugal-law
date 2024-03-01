@@ -1,0 +1,5 @@
+# Artigo 7.º
+
+### Entrada em vigor
+
+A presente lei entra em vigor 120 dias após a sua publicação.
