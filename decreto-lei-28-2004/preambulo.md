@@ -1,0 +1,31 @@
+A Lei n.º 32/2002, de 20 de Dezembro, que aprovou as bases da segurança social, visa erigir um sistema de segurança social moderno e adequado, assente numa cultura de partilha de riscos sociais e de co-responsabilização. Nesse sentido, constata-se que o regime jurídico de protecção social na eventualidade doença, consubstanciado no Decreto-Lei n.º 132/88, de 20 de Abril, com a redacção que lhe foi dada pelos Decretos-Leis n.os 287/90, de 19 de Setembro, e 165/99, de 13 de Maio, encontra-se desfasado desse novo contexto, não obstante as alterações pontuais que tem vindo a sofrer ao longo da sua vigência.
+
+A natureza avulsa das medidas introduzidas no referido regime, bem como as alterações legislativas subsequentes, não se revelou suficientemente adequada ao acompanhamento desejável da evolução social, antes pelo contrário, originou uma certa opacidade e incoerência no sistema, gerando iniquidades no seio do mesmo, que urge presentemente corrigir.
+
+Impõe-se, assim, a revisão do regime jurídico de protecção social na eventualidade doença, adaptando-o à nova realidade social, no quadro dos princípios da lei de bases da segurança social, clarificando normas e conceitos, inibindo a verificação de situações indevidas, pugnando por um aperfeiçoamento formal e material do conteúdo da prestação, bem como pelo incremento da articulação entre as diversas áreas envolvidas.
+
+Num outro plano, as normas ora criadas visam prevenir e reforçar os mecanismos efectivos de combate à fraude na obtenção do subsídio de doença, tendo em conta os reflexos significativos de tais práticas na sustentabilidade financeira do sistema público de segurança social.
+
+Na realidade, os montantes envolvidos na efectivação da protecção social na doença pelo subsistema previdencial provêm das contribuições sobre os salários ou sobre os rendimentos de trabalho, quer da responsabilidade dos empregadores quer dos próprios trabalhadores, pelo que se impõe um rigor acrescido no acesso à protecção desta eventualidade que garanta sempre os direitos legalmente reconhecidos ao mesmo tempo que previne as práticas abusivas, socialmente censuráveis e que jamais beneficiam os legítimos titulares.
+
+O presente diploma procede ainda à integração global das normas de protecção na eventualidade doença dos beneficiários do regime geral dos trabalhadores por conta de outrem, dos trabalhadores independentes e do regime de inscrição facultativa, superando os inconvenientes da actual dispersão legislativa. Desta forma o Governo reforça a justiça social, assegura a coerência do sistema e preserva a unidade jurídica do ordenamento, concretizando uma uniformização das normas aplicáveis aos beneficiários do regime dos independentes e do seguro social voluntário no domínio da escolha e do registo das remunerações convencionais.
+
+No âmbito do índice de profissionalidade, o presente diploma procede à flexibilização para 60 dias, em vez dos actuais 30, do período que medeia entre a ocorrência de incapacidades por doença, com recurso ao registo de remunerações por equivalência, dado que irão ser beneficiadas as situações de doenças crónicas e prolongadas.
+
+A prestação concretizada no âmbito da protecção social na eventualidade doença visa compensar a perda de remuneração de trabalho do beneficiário e pressupõe a conexão deste com o sistema de segurança social e uma ligação mínima ao subsistema previdencial, cuja natureza contributiva que lhe é inerente não pode ser descurada, e por isso determinou a fixação de um novo período de 20 dias de trabalho efectivo.
+
+É propósito expresso e assumido do XV Governo Constitucional proceder a uma diferenciação do regime do subsídio de doença, privilegiando a protecção social das doenças graves e longas e moralizando a atribuição de baixas de curta duração. Nesse sentido, foram fixadas novas percentagens de cálculo da prestação em obediência a critérios de duração da incapacidade temporária por doença, introduzindo melhorias significativas no nível de protecção das doenças de longa duração.
+
+Tendo presente que a prestação conferida traduz uma compensação da perda de remuneração de trabalho, o regime instituído pelo presente diploma visa não só compensar essa perda mas também atenuar as consequências dessa adversidade, promovendo a adequação da protecção social na eventualidade doença em função da presumida gravidade e duração da doença do beneficiário, bem como da composição da respectiva família.
+
+O regime de certificação havia sido objecto de aperfeiçoamento durante os últimos anos e por isso mantém-se, não obstante a coerência e compatibilidade que é necessário desenvolver numa perspectiva integradora e global deste aspecto concreto do regime, assim como também é um imperativo de modernidade fomentar o recurso a mecanismos de transferência electrónica de dados entre as áreas da saúde e da segurança social, a fim de agilizar o processo de atribuição do subsídio de doença.
+
+A articulação entre os empregadores e os serviços do sistema de segurança social constitui um avanço relevante no fomento da cultura de co-responsabilização que caracteriza o actual sistema de segurança social e consubstancia um contributo decisivo para a prevenção e para o controlo das situações abusivas, concorrendo para uma melhor protecção aos trabalhadores com efectiva incapacidade por doença.
+
+Considerando as alterações introduzidas pelo presente diploma, bem como as inovações operacionais que as mesmas comportam, e tendo em conta a natureza substitutiva, compensatória, e por isso essencial, desta prestação para os beneficiários e para as suas famílias, é criada uma comissão de acompanhamento da aplicação do regime de protecção na doença, no sentido de promover a melhoria da eficácia das respostas sociais.
+
+O presente diploma foi objecto de discussão pública mediante publicação no Boletim de Trabalho e do Emprego, nos termos das Leis n.os 16/99 e 36/99, de 26 de Maio, e foram ouvidos os parceiros sociais no âmbito da Comissão Permanente de Concertação Social, do Conselho Económico e Social.
+
+Assim:
+
+No desenvolvimento da Lei n.º 32/2002, de 20 de Dezembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
