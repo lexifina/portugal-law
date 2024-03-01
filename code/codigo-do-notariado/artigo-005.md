@@ -1,3 +1,11 @@
+## Capítulo II
+
+## Competência funcional
+
+## Secção I
+
+## Atribuições dos notários
+
 ## Secção II
 
 ## Impedimentos
