@@ -26,4 +26,10 @@ b) Uma conferência procedimental em que todos os órgãos, serviços e pessoas 
 
 8 - O prazo referido no número anterior pode ser prorrogado por igual período, por uma única vez, mediante deliberação da assembleia municipal, sendo obrigatoriamente prorrogado se as operações urbanísticas possuírem o título necessário à sua realização.
 
-9 - (Revogado).
+9 - O procedimento previsto no presente artigo aplica-se, com as devidas adaptações, à reclassificação de solo rústico para solo urbano destinado a habitação a custos controlados ou uso habitacional, desde que previsto em:
+
+a) Estratégia local de habitação;
+
+b) Carta municipal de habitação; ou
+
+c) Bolsa de habitação.

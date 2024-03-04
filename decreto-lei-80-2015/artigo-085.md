@@ -6,7 +6,7 @@
 
 2 - O parecer referido no número anterior é acompanhado pela ata da comissão consultiva, contendo as posições finais das entidades nela representadas e deve pronunciar-se sobre os seguintes aspetos:
 
-a) Cumprimento das normas legais e regulamentares aplicáveis;
+a) (Revogada.)
 
 b) Conformidade ou compatibilidade da proposta de plano com os programas territoriais existentes.
 

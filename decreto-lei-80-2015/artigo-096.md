@@ -45,3 +45,5 @@ r) O prazo de vigência, o sistema de monitorização e as condições de revis�
 a) Tenha decorrido o prazo de cinco anos sobre a data da entrada em vigor do plano diretor municipal, sem que haja sido aprovado o plano de urbanização ou o plano de pormenor;
 
 b) Os índices e os parâmetros de referência estabelecidos no plano diretor municipal definam os usos e a altura total das edificações ou a altura das fachadas, bem como os indicadores relativos à definição da rede viária e do estacionamento.
+
+3 - A caracterização dos sistemas de recolha, depósito e tratamento de resíduos a que se refere a alínea a) do n.º 1 implica a definição de áreas reservadas às respetivas instalações, já existentes ou a construir, segundo as normas de planificação das redes nacional e municipais de gestão de resíduos, organizadas segundo os princípios da hierarquia, suficiência e da proximidade, como definidos no regime geral de gestão de resíduos.

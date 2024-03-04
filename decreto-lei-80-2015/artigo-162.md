@@ -18,7 +18,7 @@ d) Ajustar a dimensão e a configuração do solo à estrutura fundiária defini
 
 e) Distribuir equitativamente, entre os proprietários, os benefícios e encargos resultantes do plano intermunicipal ou plano municipal;
 
-f) Localizar as áreas a ceder obrigatoriamente pelos proprietários destinadas à implantação de infraestruturas, de espaços verdes ou de outros espaços e equipamentos de utilização coletiva.
+f) Localizar as áreas a ceder obrigatoriamente pelos proprietários destinadas à implantação de infraestruturas, de espaços verdes ou de outros espaços e equipamentos de utilização coletiva, bem como para habitação pública, a custos controlados ou para arrendamento acessível.
 
 4 - As operações de reestruturação em solo urbano são promovidas pela câmara municipal, por associação de municípios ou pelos proprietários dos solos urbanos.
 

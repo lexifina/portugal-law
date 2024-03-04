@@ -14,13 +14,13 @@ b) Demonstração do impacto da carga urbanística proposta, no sistema de infra
 
 c) Demonstração da viabilidade económico-financeira da proposta, incluindo a identificação dos sujeitos responsáveis pelo financiamento, a demonstração das fontes de financiamento contratualizadas e de investimento público.
 
-4 - A reclassificação do solo processa-se através dos procedimentos de elaboração, de revisão ou de alteração de planos de pormenor com efeitos registais, acompanhado do contrato previsto no n.º 2, e nos termos previstos no decreto regulamentar que estabelece os critérios uniformes de classificação e reclassificação do solo.
+4 - A reclassificação do solo processa-se através dos procedimentos de elaboração, de revisão ou de alteração de planos de pormenor com efeitos registais, acompanhado do contrato previsto no n.º 2, e nos termos previstos no decreto regulamentar que estabelece os critérios uniformes de classificação e reclassificação do solo, ou através dos procedimentos de reclassificação dos solos, previstos nos artigos seguintes.
 
 5 - O plano deve delimitar a área objeto de reclassificação e definir o prazo para execução das obras de urbanização e das obras de edificação, o qual deve constar expressamente da certidão do plano a emitir para efeitos de inscrição no registo predial.
 
-6 - A reclassificação do solo que se destine exclusivamente à execução de infraestruturas e de equipamentos de utilização coletiva obedece aos critérios previstos nos n.os 1 e 3 e processa-se através de procedimentos de elaboração, de revisão ou de alteração de planos territoriais, nos quais é fixado o respetivo prazo de execução.
+6 - A reclassificação do solo que se destine exclusivamente à execução de infraestruturas e de equipamentos de utilização coletiva obedece aos critérios previstos nos n.os 1 e 3 e processa-se através de procedimentos de elaboração, de revisão, de alteração de planos territoriais, ou através do procedimento de reclassificação dos solos previstos nos artigos 72.º-A e 72.º-B, nos quais é fixado o respetivo prazo de execução.
 
-7 - A reclassificação do solo, na contiguidade de solo urbano, que se destine à instalação de atividades de natureza industrial, de armazenagem ou logística e aos respetivos serviços de apoio, pode ser realizada através da elaboração, revisão ou alteração de plano territorial, de acordo com os critérios estabelecidos nos n.os 1 a 3, sendo o respetivo prazo de execução definido no plano territorial objeto de elaboração, alteração ou revisão.
+7 - A reclassificação do solo que se destine à instalação de atividades de natureza industrial, de armazenagem ou logística e aos respetivos serviços de apoio, pode ser realizada através da elaboração, revisão ou alteração de plano territorial, de acordo com os critérios estabelecidos nos n.os 1 a 3, ou através do procedimento de reclassificação dos solos previsto nos artigos 72.º-A e 72.º-B, sendo o respetivo prazo de execução definido no plano territorial objeto de elaboração, alteração ou revisão.
 
 8 - A reclassificação do solo a que se refere o número anterior fica sujeita à delimitação de uma unidade de execução e à garantia da provisão de infraestruturas e de serviços associados, mediante contratualização dos encargos urbanísticos e inscrição no programa de execução, nos planos de atividades e nos orçamentos municipais.
 

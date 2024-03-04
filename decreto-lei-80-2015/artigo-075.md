@@ -22,7 +22,7 @@ d) A base de uma gestão programada do território municipal;
 
 e) A definição da estrutura ecológica para efeitos de proteção e de valorização ambiental municipal;
 
-f) Os princípios e as regras de garantia da qualidade ambiental, da integridade paisagística e da preservação do património cultural;
+f) Os princípios e as regras de garantia da qualidade ambiental, da integridade paisagística, da preservação do património cultural e de transição energética;
 
 g) Os princípios e os critérios subjacentes a opções de localização de infraestruturas, de equipamentos, de serviços e de funções;
 
