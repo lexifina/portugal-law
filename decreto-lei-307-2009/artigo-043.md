@@ -16,7 +16,7 @@ b) A preparação dos processos expropriativos que se revelem necessários para 
 
 c) A repartição dos encargos decorrentes das indemnizações devidas pelas expropriações;
 
-d) A obrigação de preparar os projectos de operações urbanísticas a submeter a controlo prévio, de os submeter a controlo prévio, de promover as operações urbanísticas compreendidas nas acções de reabilitação e de requerer as respectivas autorizações de utilização;
+d) A obrigação de preparar os projetos de operações urbanísticas a submeter a controlo prévio, quando aplicável, de os submeter a controlo prévio, de promover as operações urbanísticas compreendidas nas ações de reabilitação.
 
 e) Os prazos em que as obrigações das partes devem ser cumpridas;
 

@@ -16,7 +16,7 @@
 
 1 - A entidade gestora da operação de reabilitação urbana pode exercer, para efeitos de execução da operação de reabilitação urbana e nos termos do disposto nos artigos seguintes, os seguintes poderes:
 
-a) Licenciamento e admissão de comunicação prévia de operações urbanísticas e autorização de utilização;
+a) Licenciamento e admissão de comunicação prévia de operações urbanísticas;
 
 b) Inspecções e vistorias;
 

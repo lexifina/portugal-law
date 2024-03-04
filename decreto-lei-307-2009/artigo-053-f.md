@@ -14,4 +14,4 @@ b) Fundamentar a não observância dessas normas.
 
 4 - (Revogado).
 
-5 - O modelo do termo de responsabilidade referido nos n.os 2 e 3 é aprovado por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais, da economia e do ordenamento do território.
+5 - O modelo do termo de responsabilidade referido nos n.os 2 e 3 é aprovado por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da economia, da habitação, das autarquias locais e do ordenamento do território.
