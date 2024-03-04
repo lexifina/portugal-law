@@ -8,7 +8,7 @@
 
 3 - Quando respeite a mais de um dos tipos de operações urbanísticas referidos no artigo 2.º directamente relacionadas, devem ser identificadas todas as operações abrangidas, aplicando-se neste caso a forma de procedimento correspondente a cada tipo de operação, sem prejuízo da tramitação e apreciação conjunta.
 
-4 - O pedido ou comunicação é acompanhado dos elementos instrutórios previstos em portaria aprovada pelos membros do Governo responsáveis pelas obras públicas e pelo ordenamento do território, para além dos documentos especialmente referidos no presente diploma.
+4 - O pedido ou comunicação são acompanhados dos elementos instrutórios previstos em portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da construção, das autarquias locais e do ordenamento do território.
 
 5 - (Revogado.)
 
@@ -23,3 +23,29 @@
 10 - A substituição do requerente ou comunicante, do titular do alvará de construção ou do título de registo emitidos pelo Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), do responsável por qualquer dos projectos apresentados, do director de obra ou do director de fiscalização de obra deve ser comunicada ao gestor do procedimento para que este proceda ao respectivo averbamento no prazo de 15 dias a contar da data da substituição.
 
 11 - Cabe ao gestor do procedimento verificar a adequação das habilitações do titular do alvará de construção ou do título de registo emitidos pelo InCI, I. P., à natureza e à estimativa de custo da operação urbanística.
+
+12 - A portaria prevista no n.º 4 não pode prever como elementos instrutórios que devam acompanhar o pedido ou comunicação nem os municípios podem determinar a apresentação de:
+
+a) Formas de autenticação, de reconhecimento ou de certificação das assinaturas de qualquer documento;
+
+b) Cópias de documentos na posse da câmara como, designadamente títulos de operações ou registos;
+
+c) A caderneta predial;
+
+d) Cópias de certidões permanentes, bastando, neste caso, a indicação do número da certidão permanente;
+
+e) Reenvio ou envio de certidão permanente ou do seu código por o seu prazo de validade ter expirado, quando o mesmo era válido no momento da apresentação do pedido;
+
+f) Reenvio ou envio de qualquer certidão, documento ou certificado por a validade do mesmo ter expirado, quando o mesmo seja válido no momento da apresentação do pedido;
+
+g) O plano de segurança, podendo ser solicitada a exibição do mesmo em sede de fiscalização, quando aplicável;
+
+h) O relatório de segurança;
+
+i) O livro de obra digitalizado;
+
+j) Cópias de cartão do cidadão, bilhete de identidade ou cédulas profissionais;
+
+k) Declaração de capacidade profissional dos técnicos responsáveis pelos projetos, emitida por qualquer entidade, incluindo ordens profissionais;
+
+l) Termo de responsabilidade de técnico responsável que ateste que a execução da operação se conforma com o Regulamento Geral do Ruído.

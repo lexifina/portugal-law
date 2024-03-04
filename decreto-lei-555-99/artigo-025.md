@@ -6,7 +6,7 @@
 
 2 - (Revogado.)
 
-3 - Em caso de deferimento nos termos do n.º 1, o requerente deve, antes da emissão do alvará, celebrar com a câmara municipal contrato relativo ao cumprimento das obrigações assumidas e prestar caução adequada, beneficiando de redução proporcional ou isenção das taxas por realização de infra-estruturas urbanísticas, nos termos a fixar em regulamento municipal.
+3 - Em caso de deferimento nos termos do n.º 1, o requerente deve, antes do pagamento das taxas, celebrar com a câmara municipal contrato relativo ao cumprimento das obrigações assumidas e prestar caução adequada, beneficiando de redução proporcional ou isenção das taxas por realização de infraestruturas urbanísticas, nos termos a fixar em regulamento municipal.
 
 4 - A prestação da caução referida no número anterior, bem como a execução ou manutenção das obras de urbanização que o interessado se compromete a realizar ou a câmara municipal entenda indispensáveis, devem ser mencionadas expressamente como condição do deferimento do pedido.
 

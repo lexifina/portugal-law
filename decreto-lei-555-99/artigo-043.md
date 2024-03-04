@@ -1,8 +1,8 @@
 # Artigo 43.º
 
-### Áreas para espaços verdes e de utilização colectiva, infra-estruturas e equipamentos
+### Áreas para espaços verdes e de utilização coletiva, infraestruturas, equipamentos e habitação
 
-1 - Os projectos de loteamento devem prever áreas destinadas à implantação de espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos.
+1 - Os projetos de loteamento devem prever áreas destinadas à implantação de espaços verdes e de utilização coletiva, infraestruturas viárias, equipamentos e habitação pública, de custos controlados ou para arrendamento acessível.
 
 2 - Os parâmetros para o dimensionamento das áreas referidas no número anterior são os que estiverem definidos em plano municipal ou intermunicipal de ordenamento do território.
 

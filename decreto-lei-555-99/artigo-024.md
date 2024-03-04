@@ -4,11 +4,13 @@
 
 1 - O pedido de licenciamento é indeferido quando:
 
-a) Violar plano municipal e intermunicipal de ordenamento do território, plano especial de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidão administrativa, restrição de utilidade pública ou quaisquer outras normas legais e regulamentares aplicáveis;
+a) Violar plano municipal e intermunicipal de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidão administrativa ou restrição de utilidade pública;
 
-b) Existir declaração de utilidade pública para efeitos de expropriação que abranja o prédio objecto do pedido de licenciamento, salvo se tal declaração tiver por fim a realização da própria operação urbanística;
+b) Violar norma legal ou regulamentar relativa aos aspetos referidos no n.º 1 do artigo 20.º que disponha sobre matéria que possa ser objeto de regulamento municipal à luz do artigo 3.º;
 
-c) Tiver sido objecto de parecer negativo ou recusa de aprovação ou autorização de qualquer entidade consultada nos termos do presente diploma cuja decisão seja vinculativa para os órgãos municipais.
+c) Existir declaração de utilidade pública para efeitos de expropriação que abranja o prédio objecto do pedido de licenciamento, salvo se tal declaração tiver por fim a realização da própria operação urbanística;
+
+d) Tiver sido objecto de parecer negativo ou recusa de aprovação ou autorização de qualquer entidade consultada nos termos do presente diploma cuja decisão seja vinculativa para os órgãos municipais.
 
 2 - Quando o pedido de licenciamento tiver por objeto a realização das operações urbanísticas referidas nas alíneas a) a e) e i) do n.º 2 do artigo 4.º, o indeferimento pode ainda ter lugar com fundamento em:
 
@@ -20,8 +22,10 @@ c) A operação urbanística implicar a demolição de fachadas revestidas a azu
 
 3 - (Revogado.)
 
-4 - Quando o pedido de licenciamento tiver por objecto a realização das obras referidas nas alíneas c) e d) do n.º 2 do artigo 4.º, pode ainda ser indeferido quando a obra seja susceptível de manifestamente afectar o acesso e a utilização de imóveis classificados de interesse nacional ou interesse público, a estética das povoações, a sua adequada inserção no ambiente urbano ou a beleza das paisagens, designadamente em resultado da desconformidade com as cérceas dominantes, a volumetria das edificações e outras prescrições expressamente previstas em regulamento.
+4 - Quando o pedido de licenciamento tiver por objeto a realização das obras referidas nas alíneas c) e d) do n.º 2 do artigo 4.º, pode ainda ser indeferido quando a obra seja suscetível de manifestamente afetar o acesso e a utilização de imóveis classificados de interesse nacional, interesse público ou interesse municipal, a estética das povoações, a sua adequada inserção no ambiente urbano ou a beleza das paisagens, designadamente em resultado da desconformidade com as cérceas dominantes e a volumetria das edificações.
 
 5 - O pedido de licenciamento das obras referidas na alínea c) do n.º 2 do artigo 4.º deve ser indeferido na ausência de arruamentos ou de infra-estruturas de abastecimento de água e saneamento ou se a obra projectada constituir, comprovadamente, uma sobrecarga incomportável para as infra-estruturas existentes.
 
 6 - (Revogado.)
+
+7 - Para efeitos da alínea a) do n.º 2, quando se trate de pedido de licenciamento de imóvel classificado como de interesse nacional ou interesse público e for solicitado parecer do Património Cultural, I. P., ou às CCDR, I. P., ficam as câmaras municipais impedidas de solicitar novos pareceres em matéria de património cultural, incluindo aos seus serviços internos.

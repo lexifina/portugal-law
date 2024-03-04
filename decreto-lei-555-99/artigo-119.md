@@ -30,6 +30,12 @@ m) Zonas de protecção estabelecidas pelo Decreto-Lei n.º 173/2006, de 24 de A
 
 2 - As câmaras municipais mantêm igualmente actualizada a relação dos regulamentos municipais referidos no artigo 3.º, dos programas de acção territorial em execução, bem como das unidades de execução delimitadas.
 
-3 - A informação referida nos números anteriores deve ser disponibilizada no sítio da Internet do município.
+3 - A informação referida nos números anteriores deve ser disponibilizada no sítio na Internet do município assim como na plataforma dos procedimentos, devendo ser disponibilizada a função de gerar plantas de localização de forma automática, com visualização da incidência territorial dos instrumentos de gestão territorial vinculativos dos particulares e das servidões e restrições de utilidade pública, referentes à localização pretendida e assinalada para o efeito.
 
-4 - Para efeitos do disposto no Decreto-Lei n.º 151-B/2013, de 31 de outubro, alterado pelo Decreto-Lei n.º 47/2014, de 24 de março, que aprova o regime de avaliação de impacte ambiental, sempre que esteja em causa a realização de operação urbanística sujeita a avaliação de impacte ambiental (AIA), não pode ser emitida licença ou apresentada comunicação prévia ao abrigo do presente decreto-lei sem previamente ter sido emitida declaração de impacte ambiental (DIA) favorável ou condicionalmente favorável ou, no caso de o procedimento de AIA ter decorrido em fase de estudo prévio ou de anteprojeto, emitida decisão favorável sobre a conformidade do projeto de execução com a DIA.
+4 - Para efeitos do disposto no Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual, que aprova o regime de avaliação de impacte ambiental, sempre que esteja em causa a realização de operação urbanística sujeita a avaliação de impacte ambiental (AIA), o pedido de licenciamento ou a apresentação da comunicação prévia pode ser feito previamente ao pedido de AIA.
+
+5 - As condições previstas na declaração de impacte ambiental (DIA), podem determinar a alteração ao projeto de operação urbanística sem necessidade de qualquer formalidade ou pedido adicional junto da câmara municipal, nas seguintes situações:
+
+a) Em caso de ter sido emitida DIA condicionalmente favorável;
+
+b) Quando tenha sido emitida decisão de conformidade condicionada do projeto de execução com a DIA, no caso de o procedimento de AIA ter sido realizado em fase de estudo prévio ou de anteprojeto.

@@ -10,4 +10,4 @@
 
 ### Requisitos
 
-A validade das licenças ou das autorizações de utilização depende da sua conformidade com as normas legais e regulamentares aplicáveis em vigor à data da sua prática, sem prejuízo do disposto no artigo 60.º
+A validade das licenças depende da sua conformidade com as normas legais e regulamentares aplicáveis em vigor à data da sua prática, sem prejuízo do disposto no artigo 60.º

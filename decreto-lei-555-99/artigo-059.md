@@ -12,6 +12,10 @@
 
 5 - (Revogado.)
 
-6 - Admitida a execução por fases, o alvará abrange apenas a primeira fase das obras, implicando cada fase subsequente um aditamento ao alvará.
+6 - Admitida a execução por fases, a licença abrange apenas a primeira fase das obras, implicando cada fase subsequente um aditamento à mesma.
 
 7 - Quando se trate de operação urbanística sujeita a comunicação prévia, o interessado identifica na comunicação as fases em que pretende proceder à execução da obra, aplicando-se com as necessárias adaptações o disposto nos n.ºs 1 e 2.
+
+8 - Tratando-se de obra sujeita a comunicação prévia, pode o interessado remeter o projeto de arquitetura numa primeira comunicação prévia e, em comunicações prévias subsequentes, os demais trabalhos a realizar.
+
+9 - No caso previsto no número anterior, o interessado pode realizar os trabalhos correspondentes a cada uma das comunicações, nos termos do disposto no artigo 34.º

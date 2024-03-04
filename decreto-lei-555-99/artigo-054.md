@@ -17,3 +17,7 @@ b) Reduzido, nos mesmos termos, em conformidade com o andamento dos trabalhos a 
 5 - O conjunto das reduções efectuadas ao abrigo do disposto na alínea b) do número anterior não pode ultrapassar 90% do montante inicial da caução, sendo o remanescente libertado com a recepção definitiva das obras de urbanização.
 
 6 - O reforço ou a redução da caução, nos termos do n.º 4, não dá lugar à emissão de novo alvará ou a nova comunicação.
+
+7 - Quando tiver sido prestada garantia bancária por empreiteiro ao interessado, a câmara municipal e os emitentes da garantia estão obrigados a aceitar a cessão da posição contratual do interessado a favor do município, ficando o mesmo dispensado de prestação de nova caução.
+
+8 - Não existe a obrigação de prestação de caução pelas pessoas coletivas públicas e entidades do setor empresarial do Estado referidas no artigo 7.º

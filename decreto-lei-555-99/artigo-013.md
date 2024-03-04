@@ -31,3 +31,7 @@
 a) Obter comprovativo eletrónico da promoção ou não promoção da consulta das entidades externas pela câmara municipal;
 
 b) Promover diretamente a consulta das entidades externas.
+
+14 - Quando as consultas, pareceres ou autorizações tiverem lugar, o procedimento administrativo deve continuar durante o lapso temporal que medeia entre o pedido de parecer, autorização ou consulta e a sua emissão ou o decurso do respetivo prazo.
+
+15 - Quando as consultas, pareceres ou autorizações previstas no presente artigo incidirem sobre áreas geográficas que não sejam abrangidas pelo regime jurídico que motivou o pedido de consulta, de parecer ou autorização, as mesmas devem ser desconsideradas e o procedimento prosseguir, considerando-se haver concordância da entidade consultada.

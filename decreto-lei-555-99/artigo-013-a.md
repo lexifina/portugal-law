@@ -10,11 +10,7 @@
 
 4 - (Revogado.)
 
-5 - Os prazos referidos nos números anteriores suspendem-se, por uma única vez, nas seguintes situações:
-
-a) Quando as entidades consultadas verificarem que existem omissões ou irregularidades no requerimento e nos elementos instrutórios cuja junção é obrigatória e requererem à CCDR, no prazo de 8 dias, que convide o requerente a supri-las, no prazo de 15 dias, retomando o seu curso com a receção pela entidade consultada dos elementos adicionais solicitados ou com o indeferimento do requerimento de aperfeiçoamento pela CCDR;
-
-b) Quando as entidades consultadas estejam, por força de compromissos assumidos no âmbito de tratados internacionais, ou de obrigação decorrente da legislação comunitária, sujeitas à obtenção de parecer prévio de entidade sediada fora do território nacional, devendo essa circunstância ser comunicada à CCDR e não podendo a suspensão ter uma duração superior a 20 dias.
+5 - (Revogado.)
 
 6 - Caso não existam posições divergentes entre as entidades consultadas, a CCDR toma a decisão final no prazo de cinco dias a contar do fim do prazo previsto no n.º 3.
 

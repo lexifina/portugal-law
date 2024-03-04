@@ -10,7 +10,7 @@
 
 ### Início dos trabalhos
 
-1 - A execução das obras e trabalhos sujeitos a licença nos termos do presente diploma só pode iniciar-se depois de emitido o respectivo alvará, com excepção das situações referidas no artigo seguinte e salvo o disposto no artigo 113.º
+1 - A execução das obras e trabalhos sujeitos a licença nos termos do presente diploma só pode iniciar-se depois de emitida a respetiva licença, com exceção das situações referidas no artigo seguinte e salvo o disposto no n.º 1 do artigo 23.º
 
 2 - As obras e os trabalhos sujeitos ao regime da comunicação prévia podem iniciar-se nos termos do disposto no n.º 2 do artigo 34.º
 

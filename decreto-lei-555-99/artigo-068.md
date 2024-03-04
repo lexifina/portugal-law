@@ -8,4 +8,4 @@ a) Violem o disposto em plano municipal ou intermunicipal de ordenamento do terr
 
 b) (Revogada.)
 
-c) Não tenham sido precedidas de consulta das entidades cujos pareceres, autorizações ou aprovações sejam legalmente exigíveis, bem como quando não estejam em conformidade com esses pareceres, autorizações ou aprovações.
+c) Não tenham sido precedidas de consulta das entidades cujos pareceres, autorizações ou aprovações sejam legalmente exigíveis, bem como quando não estejam em conformidade com esses pareceres, autorizações ou aprovações, desde que os pareceres tenham sido emanados dentro do prazo legalmente previsto.

@@ -8,7 +8,7 @@
 
 3 - (Revogado.)
 
-4 - Os elementos instrutórios da comunicação prévia são regulados por portaria dos membros do Governo responsáveis pelas áreas do ordenamento do território e da administração local, neles se incluindo obrigatoriamente o termo de responsabilidade subscrito por técnico legalmente habilitado que ateste o cumprimento das normas legais e regulamentares aplicáveis.
+4 - Os elementos instrutórios da comunicação prévia constam de portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da construção, das autarquias locais e do ordenamento do território.
 
 5 - As operações urbanísticas objeto de comunicação prévia são disponibilizadas diariamente através da plataforma eletrónica referida no n.º 1 do artigo 8.º-A que emite o comprovativo eletrónico da sua apresentação.
 

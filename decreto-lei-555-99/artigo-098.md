@@ -8,7 +8,7 @@
 
 1 - Sem prejuízo da responsabilidade civil, criminal ou disciplinar, são puníveis como contra-ordenação:
 
-a) A realização de quaisquer operações urbanísticas sujeitas a prévio licenciamento sem o respectivo alvará de licenciamento, excepto nos casos previstos nos artigos 81.º e 113.º;
+a) (Revogada.)
 
 b) A realização de quaisquer operações urbanísticas em desconformidade com o respetivo projeto ou com as condições do licenciamento ou da comunicação prévia;
 

@@ -4,19 +4,19 @@
 
 1 - Compete ao presidente da câmara municipal, por sua iniciativa ou por indicação do gestor do procedimento, decidir as questões de ordem formal e processual que possam obstar ao conhecimento de qualquer pedido ou comunicação apresentados no âmbito do presente diploma.
 
-2 - No prazo de oito dias a contar da apresentação do requerimento, o presidente da câmara municipal profere despacho:
+2 - Após a apresentação do requerimento o presidente da câmara municipal pode proferir despacho:
 
 a) De aperfeiçoamento do pedido, sempre que o requerimento não contenha a identificação do requerente, do pedido ou da localização da operação urbanística a realizar, bem como no caso de faltar documento instrutório exigível que seja indispensável ao conhecimento da pretensão e cuja falta não possa ser oficiosamente suprida;
 
 b) De rejeição liminar, oficiosamente ou por indicação do gestor do procedimento, quando da análise dos elementos instrutórios resultar que o pedido é manifestamente contrário às normas legais ou regulamentares aplicáveis;
 
-c) De extinção do procedimento, nos casos em que a operação urbanística em causa está isenta de controlo prévio ou sujeita a comunicação prévia exceto se o interessado estiver a exercer a faculdade prevista no n.º 6 do artigo 4.º
+c) De extinção do procedimento, nos casos em que a operação urbanística em causa está isenta de controlo prévio ou sujeita a comunicação prévia.
 
-3 - No caso previsto na alínea a) do número anterior, o requerente é notificado, por uma única vez, para no prazo de 15 dias corrigir ou completar o pedido, ficando suspensos os termos ulteriores do procedimento, sob pena de rejeição liminar.
+3 - No caso previsto na alínea a) do número anterior, o requerente é notificado, por uma única vez para, no prazo de 15 dias, corrigir ou completar o pedido, apenas ficando suspensos os termos ulteriores do procedimento nos termos do n.º 4 do artigo 117.º do Código do Procedimento Administrativo, sob pena de rejeição liminar.
 
 4 - (Revogado.)
 
-5 - Não ocorrendo rejeição liminar ou convite para corrigir ou completar o pedido ou comunicação, no prazo previsto no n.º 2, presume-se que o requerimento ou comunicação se encontram corretamente instruídos.
+5 - Não ocorrendo rejeição liminar ou convite para corrigir ou completar o pedido ou comunicação, no prazo previsto de 15 dias, considera-se que o requerimento ou comunicação se encontram corretamente instruídos, não podendo ser solicitados ao interessado quaisquer correções ou informações adicionais, nem indeferida a pretensão com fundamento na incompleta instrução do pedido.
 
 6 - Sem prejuízo do disposto nos números anteriores, o gestor do procedimento deve dar a conhecer ao presidente da câmara municipal, até à decisão final, qualquer questão que prejudique o desenvolvimento normal do procedimento ou impeça a tomada de decisão sobre o objecto do pedido, nomeadamente a ilegitimidade do requerente e a caducidade do direito que se pretende exercer.
 

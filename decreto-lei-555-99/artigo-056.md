@@ -10,6 +10,8 @@
 
 4 - O requerimento é decidido no prazo de 30 dias a contar da data da sua apresentação.
 
-5 - Admitida a execução por fases, o alvará abrange apenas a primeira fase das obras de urbanização, implicando cada fase subsequente um aditamento ao alvará.
+5 - Admitida a execução por fases, a licença abrange apenas a primeira fase das obras de urbanização, implicando cada fase subsequente um aditamento à licença.
 
 6 - Quando se trate de operação efectuada ao abrigo de comunicação prévia, o interessado identifica na comunicação as fases em que pretende proceder à execução das obras de urbanização, aplicando-se, com as necessárias adaptações, o disposto nos n.ºs 1, 2 e 3.
+
+7 - Em caso de execução por fases, o alvará ou título exigido à empresa construtora refere-se a cada uma das fases e não ao conjunto de todas elas.
