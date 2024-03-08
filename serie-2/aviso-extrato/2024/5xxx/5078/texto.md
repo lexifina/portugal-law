@@ -1,0 +1,5 @@
+Aviso n.º 5078/2024/2
+
+Torna-se público que por deliberação do Conselho Diretivo de 30 de novembro de 2023, foi aprovado o Regulamento de Teletrabalho do Instituto dos Vinhos do Douro e do Porto, I. P., com entrada em vigor a 1 de janeiro de 2024, disponível na página eletrónica em www.ivdp.pt. Neste âmbito, foi realizada a consulta pública a todos os trabalhadores, pelo prazo de 30 dias, nos termos e para os efeitos do disposto nas disposições conjugadas do artigo 75.º da Lei Geral do Trabalho em Funções Públicas (aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na versão atual) com os artigos 100.º e 101.º do Código do Procedimento Administrativo (aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro), assim como ao Sindicato dos Trabalhadores em Funções Públicas e Sociais do Norte e ao Sindicato dos Trabalhadores da Administração Pública e de Entidades com Fins Públicos.
+16 de fevereiro de 2024. - O Presidente do Conselho Diretivo do Instituto dos Vinhos do Douro e do Porto, I. P., Gilberto Paulo Peixoto Igrejas.
+317374788
