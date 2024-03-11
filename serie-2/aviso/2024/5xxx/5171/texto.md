@@ -1,0 +1,9 @@
+Aviso n.º 5171/2024/2
+
+Projeto de alteração ao Regulamento Municipal de Cedência de Lotes de Terreno Integrados no Loteamento de São Sebastião
+Consulta pública
+Miguel Alexandre Silva Costa Santos Marques, Presidente da Câmara Municipal de Oleiros, no uso da competência prevista na alínea b) do n.º 1 do artigo 35.º do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, na sua redação atual, torna público que a Câmara Municipal de Oleiros, em reunião ordinária de 09 de fevereiro de 2024, deliberou aprovar o “Projeto de Alteração ao Regulamento Municipal de Cedência de Lotes de Terreno Integrados no Loteamento de São Sebastião”.
+Mais torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, que o referido projeto de regulamento municipal está disponível para consulta pública, pelo prazo de 30 dias úteis, contados da publicação do presente Aviso na 2.ª série do Diário da República.
+Durante o período de consulta pública, qualquer interessado poderá consultar o texto do presente projeto de regulamento na internet, no sítio institucional do Município de Oleiros, em www.cm-oleiros.pt, e no balcão de atendimento do Município de Oleiros e, se assim o entender, formular as observações ou sugestões que entenda por convenientes, as quais devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Câmara Municipal de Oleiros, podendo ser remetidas por via postal, para a morada: Praça do Município, 6160-409 Oleiros, por correio eletrónico, para o endereço geral@cm-oleiros.pt, ou entregues no balcão de atendimento do Município de Oleiros, sito na Praça do Município, durante o período normal de expediente.
+14 de fevereiro de 2024. - O Presidente da Câmara Municipal de Oleiros, Miguel Alexandre Silva Costa Santos Marques.
+317372316
