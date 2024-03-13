@@ -1,0 +1,9 @@
+Aviso n.º 5356/2024/2
+
+Revogação do Plano de Pormenor da Artilharia Um
+Nos termos da subdelegação de competências conferida através do Despacho n.º 20/DMU/CML/2023, de 23 de novembro de 2023, publicado no 2.º Suplemento ao Boletim Municipal n.º 1553, de 23 de novembro de 2023, torna-se público, de acordo com o artigo 56.º da Lei n.º 75/2013, de 12 de setembro (Regime Jurídico das Autarquias Locais), e da alínea f) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), que a Assembleia Municipal de Lisboa deliberou, ao abrigo do disposto nos artigos 127.º e 90.º do RJIGT, em reunião de 30 de janeiro de 2024, através da Deliberação n.º 34/AML/2024, proceder à Revogação total do Plano de Pormenor da Artilharia UM, ratificado através da Resolução do Conselho de Ministros n.º 69, de 20 de janeiro de 2005, publicada no Diário da República n.º 54, Série I-B, de 17 de março de 2005.
+14 de fevereiro de 2024. - O Diretor do Departamento de Planeamento Urbano, Paulo Alexandre Neves Pardelha.
+Deliberação
+Através da Deliberação da Assembleia Municipal de Lisboa n.º 34/AML/2024, de 30 de janeiro de 2024, foi aprovada, por maioria, a Proposta n.º 817/CM/2023, relativa à Revogação do Plano de Pormenor da Artilharia Um, com a consequente aplicabilidade da disciplina estabelecida no PDM em vigor, ao abrigo do disposto nos artigos 127.º e 90.º do Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial, com a seguinte votação: Favor - PS/ PSD/ CDS-PP/ IL/ CHEGA/ PAN/ MPT/ ALIANÇA; Contra - PCP/ BE/ PEV/ LIVRE/ Deputados não inscritos - Daniela Serralha e Miguel Graça.
+14 de fevereiro de 2024. - A Presidente da Assembleia Municipal de Lisboa, Rosário Farmhouse.
+617385106
