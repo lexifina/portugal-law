@@ -24,4 +24,4 @@ d) Iniciação à prática profissional, incluindo a prática de ensino supervis
 
 3 - Para efeitos do disposto na alínea a) do número anterior, os estabelecimentos de ensino superior consideram os créditos obtidos no ciclo de estudos conducentes aos graus de mestre ou doutor na área científica abrangida pelo respetivo grupo de recrutamento, em função do respetivo plano de estudos.
 
-4 - Sem prejuízo da autonomia dos estabelecimentos de ensino superior, a organização do ciclo de estudos a que se refere o n.º 2 tem a duração de um ano escolar.
+4 - Sem prejuízo da autonomia dos estabelecimentos de ensino superior, a organização do ciclo de estudos a que se refere o n.º 2 pode ter uma duração de três semestres.

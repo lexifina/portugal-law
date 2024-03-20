@@ -53,3 +53,5 @@ b) 22 horas letivas nos 2.º e 3.º Ciclos do Ensino Básico e Ensino Secundári
 13 - Sem prejuízo da autonomia dos estabelecimentos de ensino superior, no âmbito da organização da prática de ensino supervisionada, designadamente quanto à frequência, assiduidade e avaliação, à cessação do contrato de estágio previsto no presente artigo aplica-se, com as necessárias adaptações, o disposto no artigo 11.º-B do Decreto-Lei n.º 18/2010, de 19 de março, na sua redação atual.
 
 14 - A atribuição de serviço prevista nos n.os 2 a 6 não pode originar insuficiência ou inexistência de componente letiva dos docentes do quadro do agrupamento de escola ou da escola não agrupada.
+
+15 - Para efeitos de realização da prática de ensino supervisionada compete aos estabelecimentos de ensino superior selecionar os estudantes e proceder à sua distribuição pelos respetivos núcleos de estágio.
