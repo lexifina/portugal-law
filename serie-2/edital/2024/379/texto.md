@@ -1,0 +1,9 @@
+Edital n.º 379/2024
+
+Alterações ao Projeto de Regulamento de Criação e Aplicação de Taxa Turística para o Município de Vila Franca do Campo
+Ricardo Manuel de Amaral Rodrigues, Presidente da Câmara Municipal de Vila Franca do Campo, torna público que, em reunião ordinária pública de 28 de fevereiro de 2024, através da Deliberação n.º 30/2024, deliberou aprovar as alterações ao Projeto de Regulamento de Criação e Aplicação de Taxa Turística para o Município de Vila Franca do Campo, e submetê-lo a consulta pública, por um período de 30 dias, para a recolha de observações, reclamações ou sugestões, nos termos do disposto nos números 1 e 2 do artigo 101.º do Código do Procedimento Administrativo, na sua atual redação.
+O período de Consulta Pública de 30 (trinta) dias úteis, terá inicio no dia a seguir à data da publicação do presente Edital no Diário da República, para a formulação de observações, reclamações ou sugestões por escrito de todos os interessados, dirigidas ao Presidente da Câmara Municipal de Vila Franca do Campo, sobre quaisquer questões que possam ser consideradas no âmbito das Alterações ao Projeto de Regulamento de Criação e Aplicação de Taxa Turística para o Município de Vila Franca do Campo.
+Durante este prazo, os interessados poderão consultar o Regulamento na página da Câmara Municipal de Vila Franca do Campo (www.cmvfc.pt) e participar através do endereço eletrónico geral@cmvfc.pt, ou por suporte físico escrito, através de via postal ou de entrega pessoal na Câmara Municipal de Vila Franca do Campo, sita na Praça da República, s/n, 9680-115 Vila Franca do Campo, sob a referência em epígrafe.
+E, para que conste, mandei publicar este Aviso no Diário da República e outros de igual teor, que serão afixados nos locais de estilo e publicitados na página da intranet da Câmara Municipal de Vila Franca do Campo.
+29 de fevereiro de 2024. - O Presidente da Câmara Municipal, Ricardo Manuel de Amaral Rodrigues.
+317417239
