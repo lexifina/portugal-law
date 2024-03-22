@@ -1,0 +1,6 @@
+Edital n.º 394/2024
+
+Paulo Jorge Lúcio Arsénio, Presidente da Câmara Municipal de Beja, torna público que, nos termos e para efeitos do disposto no artigo 25.º n.º 1 alínea g) da Lei n.º 75/2013, de 12 de novembro, por deliberação da Assembleia Municipal de 28 de fevereiro de 2024, foi aprovada a versão definitiva da Terceira alteração ao Regulamento de Atribuição de Bolsas de Estudo a Alunos do Ensino Superior do Município de Beja de Famílias Numerosas e Carenciadas, a qual entrará em vigor no dia seguinte ao da publicação no Diário da República, nos termos do disposto no artigo 140.º do Código do Procedimento Administrativo, encontrando-se disponível no sítio da internet do Município de Beja e no Boletim Municipal Eletrónico. Mais se torna público que o projeto da terceira alteração ao regulamento foi objeto de consulta pública, nos termos previstos no artigo 101.º do Código do Procedimento Administrativo.
+Para constar e devidos efeitos se lavrou o presente edital e outros de igual teor que vão ser afixados nos lugares de estilo e publicado no sítio da internet do Município de Beja.
+29 de fevereiro de 2024. - O Presidente da Câmara Municipal de Beja, Paulo Jorge Lúcio Arsénio.
+317422585
