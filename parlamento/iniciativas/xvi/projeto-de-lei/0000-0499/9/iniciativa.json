@@ -1,0 +1,62 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "9",
+  "id": "263494",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-03-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5459784e6a4178595459744e4467794f4330304f5459774c5746685a6a4974596a55774d6a51335a47457a4e5468694c6d52765933673d&fich=161601a6-4828-4960-aaf2-b50247da358b.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa - versão 1"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d51314e444e6b4e5441744e7a417a4d6930304d5746684c574a6a5a5463744d7a59354e44466d4f47457a4d5467324c6e426b5a673d3d&fich=2d543d50-7032-41aa-bce7-36941f8a3186.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PAN",
+        "idCadastro": "6864",
+        "nome": "Inês de Sousa Real"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PAN"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263494",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f44426d4f4442694d445174596d5a68596930305a6a5a684c5468694d6d4d744e575a6d5a574a6a5a6a417a4d5745314c6d52765933673d&fich=80f80b04-bfab-4f6a-8b2c-5ffebcf031a5.docx&Inline=true",
+    "IniNr": "9",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do título da iniciativa a pedido do autor em 2024-04-02.",
+    "IniTipo": "J",
+    "IniTitulo": "Reduz o número de círculos eleitorais e cria um círculo nacional de compensação no âmbito das eleições para a Assembleia da República, por forma a assegurar uma maior conversão dos votos em mandatos e evitar a existência de “votos desperdiçados”, alterando a Lei Eleitoral para a Assembleia da República",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
