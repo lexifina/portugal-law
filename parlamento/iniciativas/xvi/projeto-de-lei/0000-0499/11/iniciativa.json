@@ -1,0 +1,319 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "11",
+  "id": "263500",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-03-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f544e6b5a5451794e6d45745a446330595330304e5751344c57466b4e4749745a5749785a5445334e4749784d444e684c6d52765933673d&fich=93de426a-d74a-45d8-ad4b-eb1e174b103a.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa - versão 1"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a5577596a4a6d4e4441745a6a566b5a4330304f575a694c57466b4e4449744d4451314d5749355a444d35595751784c6d52765933673d&fich=350b2f40-f5dd-49fb-ad42-0451b9d39ad1.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa - versão 2"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d5978596d45774e4749744d5467794d7930304d4441344c546732595449744d7a59334d4463354d44566a4f4451354c6d52765933673d&fich=bf1ba04b-1823-4008-86a2-36707905c849.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa - versão 3"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5751785957566c596a41745a5755794e6930304d7a56694c5746694d4745744d6a49354e7a6b77595455334d7a457a4c6d52765933673d&fich=1d1aeeb0-ee26-435b-ab0a-229790a57313.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa - versão 4"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e32526a4d5445775a5749745a6a68695979303059546b774c5467354e475174596d526c5a574d334e6a49784e5751784c6e426b5a673d3d&fich=7dc110eb-f8bc-4a90-894d-bdeec76215d1.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "CH",
+        "idCadastro": "6535",
+        "nome": "André Ventura"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8256",
+        "nome": "António Pinto Pereira"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8269",
+        "nome": "Armando Grave"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8736",
+        "nome": "Bernardo Pessanha"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7338",
+        "nome": "Bruno Nunes"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7948",
+        "nome": "Carlos Barbosa"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "6547",
+        "nome": "Cristina Rodrigues"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8832",
+        "nome": "Daniel Teixeira"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "6858",
+        "nome": "Diogo Pacheco de Amorim"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8856",
+        "nome": "Diva Ribeiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "2576",
+        "nome": "Eduardo Teixeira"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8465",
+        "nome": "Eliseu Neves"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8017",
+        "nome": "Felicidade Vital"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7332",
+        "nome": "Filipe Melo"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "4223",
+        "nome": "Francisco Gomes"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7340",
+        "nome": "Gabriel Mithá Ribeiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "1641",
+        "nome": "Henrique Rocha de Freitas"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7358",
+        "nome": "João Paulo Graça"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8591",
+        "nome": "João Ribeiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8596",
+        "nome": "João Tilly"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7330",
+        "nome": "Jorge Galveias"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7723",
+        "nome": "José Barreira Soares"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8353",
+        "nome": "José Carvalho"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8359",
+        "nome": "José Dias Fernandes"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7353",
+        "nome": "Luís Paulo Fernandes"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8414",
+        "nome": "Luísa Areosa"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8418",
+        "nome": "Madalena Cordeiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7347",
+        "nome": "Manuel Magno"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "4365",
+        "nome": "Manuela Tender"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7965",
+        "nome": "Marcus Santos"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8613",
+        "nome": "Maria José Aguiar"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7385",
+        "nome": "Marta Martins da Silva"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8660",
+        "nome": "Miguel Arruda"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8693",
+        "nome": "Nuno Gabriel"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8778",
+        "nome": "Nuno Simões de Melo"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7355",
+        "nome": "Patrícia Carvalho"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7346",
+        "nome": "Pedro Correia"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7345",
+        "nome": "Pedro dos Santos Frazão"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7391",
+        "nome": "Pedro Pessanha"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "9007",
+        "nome": "Raul Melo"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8918",
+        "nome": "Ricardo Dias Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7390",
+        "nome": "Rita Matias"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7363",
+        "nome": "Rodrigo Alves Taxa"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7344",
+        "nome": "Rui Afonso"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "5693",
+        "nome": "Rui Cristina"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7342",
+        "nome": "Rui Paulo Sousa"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7373",
+        "nome": "Sandra Ribeiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8091",
+        "nome": "Sónia Monteiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7369",
+        "nome": "Vanessa Barata"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CH"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263500",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a557a4e54686a4e7a67744e7a4d314e4330304f544a6a4c5749784e6a63744f44526c4f4451784d44466b4d6a67304c6d52765933673d&fich=f5358c78-7354-492c-b167-84e84101d284.docx&Inline=true",
+    "IniNr": "11",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituições a pedido do autor: do título e do texto da iniciativa em 2024-04-01. Substituição do texto da iniciativa em 2024-04-04. Substituição do título e do texto da iniciativa em 2024-06-25. Substituição do texto da iniciativa em 2024-07-02.",
+    "IniTipo": "J",
+    "IniTitulo": "Determina a aplicação do regime de atribuição do suplemento de missão criado pelo Decreto-Lei n.º 139-C/2023, de 29 de dezembro, à Guarda Nacional Republicana, à Polícia de Segurança Pública e ao Corpo da Guarda Prisional",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
