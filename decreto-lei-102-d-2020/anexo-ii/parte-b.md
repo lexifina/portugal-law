@@ -76,7 +76,7 @@ a) Resíduos urbanos classificados como não perigosos no capítulo 20 da LER;
 
 b) As frações de resíduos urbanos não perigosas recolhidas seletivamente;
 
-c) Os resíduos não perigosos de outras origens, especificamente, do comércio, da indústria e dos serviços, equiparados aos resíduos urbanos.
+c) Os resíduos não perigosos de outras origens, nomeadamente do comércio a retalho, de serviços, de restauração, de administração pública, escolar, hospitalar, hoteleiros, ou outras origens cujos resíduos sejam semelhantes em termos de natureza e composição aos das habitações.
 
 3.1.2 - Não podem ser admitidos resíduos que não tenham sido sujeitos a um tratamento prévio de acordo com o estabelecido no artigo 5.º ou que apresentem um nível de contaminação que aumente o risco associado aos resíduos já depositados, suficiente para justificar a sua eliminação noutras instalações.
 
@@ -177,3 +177,9 @@ Outros valores-limite para aterros de resíduos perigosos
 4.2 - Valores-limite de lixiviação para resíduos monolíticos:
 
 Os resíduos monolíticos admissíveis em aterros para resíduos perigosos devem cumprir os valores-limite constantes das tabelas n.os 8 e 9, até que sejam definidos a nível nacional critérios específicos ou estabelecidos critérios a nível comunitário.
+
+4.3 - Resíduos de amianto:
+
+4.3.1 - Os resíduos com amianto adequados podem ser depositados, sem necessidade de ensaios para caracterização básica, em aterros para resíduos perigosos desde que não contenham outras substâncias perigosas para além de amianto ligado, incluindo fibras ligadas por um agente aglutinante ou embaladas em plástico;
+
+4.3.2 - No que diz respeito à deposição de resíduos de amianto em aterros para resíduos perigosos devem ser cumpridos os requisitos estabelecidos nas alíneas c), d), e), f), g) e h) do n.º 3.5.2 da parte B do presente anexo.

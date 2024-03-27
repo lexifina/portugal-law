@@ -24,7 +24,7 @@ i) «Detentor», o produtor de resíduos ou a pessoa singular ou coletiva que te
 
 j) «Eliminação», qualquer operação de tratamento de resíduos que não seja de valorização, nomeadamente as incluídas no anexo i ao presente regime, ainda que se verifique como consequência secundária a recuperação de substâncias ou de energia;
 
-k) 'Enchimento', qualquer operação de valorização em que, para efeitos de recuperação em zonas escavadas ou para fins de engenharia paisagística, são empregues exclusivamente materiais provenientes da atividade extrativa mineral ou da sua transformação, incluindo Resíduos de Construção e Demolição (RCD), que não apresentem características de perigosidade, testados segundo os valores de referência estabelecidos no Guia Técnico da APA, I. P., para Solos Contaminados (2019), limitando-se às quantidades estritamente necessárias para esses efeitos;
+k) ‘Enchimento’, qualquer operação de valorização em que, para efeitos de recuperação em zonas escavadas ou para fins de engenharia paisagística, são empregues resíduos não perigosos adequados para esse fim em substituição de outros materiais que não são resíduos, limitando-se às quantidades estritamente necessárias para esse efeito;
 
 l) «Entidade coordenadora», a entidade a quem compete, nos termos da legislação aplicável, a coordenação do procedimento de licenciamento ou autorização de estabelecimentos onde são efetuadas atividades de tratamento de resíduos abrangidos por outros regimes específicos de licenciamento de atividades económicas e a emissão da autorização ou da licença para a instalação, alteração e exploração desses estabelecimentos;
 
@@ -70,7 +70,7 @@ aa) «Resíduos», quaisquer substâncias ou objetos de que o detentor se desfaz
 
 bb) «Resíduos alimentares», todos os géneros alimentícios na aceção do artigo 2.º do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que se tornaram resíduos;
 
-cc) «Resíduo de construção e demolição», o resíduo proveniente de atividades de construção, reconstrução, ampliação, alteração, conservação e demolição e da derrocada de edificações;
+cc) ‘Resíduo de construção e demolição’, o resíduo proveniente de atividades de construção, reconstrução, ampliação, alteração, conservação e demolição e da derrocada de edificações incluindo os resíduos provenientes de pequenas atividades de bricolagem que envolvam atividades de construção e demolição em habitações particulares, correspondendo aos tipos de resíduos incluídos no capítulo 17 da lista de resíduos estabelecida pela Decisão 2014/955/UE da Comissão, de 18 de dezembro de 2014, na sua redação atual;
 
 dd) «Resíduo perigoso», o resíduo que apresenta uma ou mais características de perigosidade constantes do Regulamento (UE) n.º 1357/2014, da Comissão, de 18 de dezembro de 2014;
 
@@ -78,9 +78,9 @@ ee) «Resíduo urbano», o resíduo:
 
 i) De recolha indiferenciada e de recolha seletiva das habitações, incluindo papel e cartão, vidro, metais, plásticos, biorresíduos, madeira, têxteis, embalagens, resíduos de equipamentos elétricos e eletrónicos, resíduos de pilhas e acumuladores, bem como resíduos volumosos, incluindo colchões e mobiliário; e
 
-ii) De recolha indiferenciada e de recolha seletiva provenientes de outras origens, caso sejam semelhantes aos resíduos das habitações na sua natureza e composição;
+ii) De recolha indiferenciada e de recolha seletiva provenientes de outras origens, como de estabelecimentos de comércio a retalho, serviços e restauração, de estabelecimentos escolares, de unidades de prestação de cuidados de saúde e de empreendimentos turísticos, ou outras, caso sejam semelhantes aos resíduos das habitações pela sua natureza e composição e correspondem aos resíduos classificados no subcapítulo 15 01 e no capítulo 20, com exceção dos códigos 20 02 02, 20 03 04 e 20 03 06, da Lista Europeia de Resíduos (LER) estabelecida pela Decisão 2014/955/UE da Comissão, de 18 de dezembro de 2014, na sua redação atual, incluindo-se ainda os resíduos urbanos após tratamento classificados com os códigos enumerados no capítulo 19 da LER;
 
-ff) «Resíduo urbano indiferenciado», o resíduo urbano que permanece após as frações específicas de resíduos terem sido recolhidas seletivamente na origem;
+ff) (Revogada.)
 
 gg) «Resíduo agrícola», o resíduo proveniente de exploração agrícola e/ou pecuária ou similar;
 
@@ -125,3 +125,25 @@ rr) «Valorização material», qualquer operação de valorização, que não s
 a) «Estabelecimento», «instalação» e «licença de exploração», as mesmas expressões, tal como definidas no Regime de Licenciamento Único de Ambiente (LUA), aprovado pelo Decreto-Lei n.º 75/2015, de 11 de maio, na sua redação atual;
 
 b) «Melhores técnicas disponíveis», as melhores técnicas disponíveis, tal como definidas no Decreto-Lei n.º 127/2013, de 30 de agosto.
+
+3 - Os resíduos urbanos referidos na alínea ee) do n.º 1 não incluem os:
+
+a) Resíduos do processo produtivo;
+
+b) Resíduos da agricultura;
+
+c) Resíduos da silvicultura;
+
+d) Resíduos das pescas;
+
+e) Resíduos de fossas séticas ou redes de saneamento e tratamento, incluindo as lamas de depuração;
+
+f) Os veículos em fim de vida;
+
+g) Resíduos de construção e demolição;
+
+h) Resíduos da indústria;
+
+i) Resíduos do comércio grossista; e
+
+j) Resíduos de outras atividades não previstos na subalínea ii) da alínea ee) do n.º 1.

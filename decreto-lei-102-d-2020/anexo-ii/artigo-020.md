@@ -2,7 +2,7 @@
 
 ### Garantia financeira
 
-1 - Previamente ao início da exploração, o operador deve entregar comprovativo de prestação de garantia financeira, nos termos do definido no presente artigo, destinada a garantir o integral cumprimento das condições impostas na respetiva licença, incluindo as relativas ao encerramento, controlo e manutenção pós-encerramento.
+1 - Juntamente com o pedido de emissão da licença de exploração, o operador deve entregar comprovativo de prestação de garantia financeira, nos termos do definido no presente artigo, destinada a garantir o integral cumprimento das condições impostas na respetiva licença, incluindo as relativas ao encerramento, controlo e manutenção pós-encerramento.
 
 2 - A garantia, contratada com instituição financeira autorizada na União Europeia ou no Espaço Económico Europeu, deve ser autónoma, incondicional, irrevogável, interpelável à primeira solicitação pela entidade licenciadora, e liquidável no prazo de três dias, podendo revestir a forma de caução, garantia bancária ou de certificado emitido por fundo de indemnização ou seguro-caução, desde que satisfaça todas as finalidades referidas no número anterior.
 

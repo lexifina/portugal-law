@@ -2,7 +2,7 @@
 
 ### Critérios de admissão de resíduos por classes de aterros
 
-1 - Nos aterros para resíduos inertes só podem ser depositados resíduos inertes que satisfaçam os critérios de admissão estabelecidos no n.º 2 da parte B do anexo ii ao presente regime, sendo, contudo, interdita a deposição de solos provenientes de locais contaminados.
+1 -Nos aterros para resíduos inertes só podem ser depositados resíduos inertes que satisfaçam os critérios de admissão estabelecidos no n.º 2 da parte B do anexo II ao presente regime, sendo interdita a deposição de solo contaminado.
 
 2 - Nos aterros para resíduos não perigosos só podem ser depositados:
 

@@ -10,6 +10,6 @@ b) Redução a 50 % do seu valor inicial, após a conclusão das operações de 
 
 c) Cancelamento integral, após um período mínimo de manutenção e controlo da fase pós-encerramento, fixado na licença.
 
-2 - As reduções parciais e o cancelamento da garantia referidos no número anterior dependem da realização de vistoria prévia, pela entidade licenciadora, no prazo de 30 dias contados da data de receção do requerimento, destinada a verificar o cumprimento das condições da licença.
+2 - As reduções parciais e o cancelamento da garantia referidos no número anterior dependem da realização, pela entidade licenciadora, de vistoria de conformidade, no prazo de 30 dias contados da data de receção do requerimento, destinada a verificar o cumprimento das condições da licença.
 
 3 - A decisão da entidade licenciadora é notificada ao operador nos 15 dias subsequentes à realização da vistoria referida no número anterior.

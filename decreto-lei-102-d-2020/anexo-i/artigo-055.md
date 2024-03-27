@@ -10,7 +10,7 @@ a) A caracterização sumária da obra a efetuar, com descrição dos métodos c
 
 b) A metodologia de prevenção de RCD, se aplicável, com identificação e estimativa dos materiais a reutilizar na própria obra ou noutros destinos;
 
-c) Informação relativa à avaliação da eventual contaminação do solo;
+c) Informação relativa à avaliação da eventual contaminação do solo, em caso de existência de indícios ou evidências de que o solo se encontra contaminado, tendo em consideração, nomeadamente, atividades poluentes preexistentes ou atuais;
 
 d) Informação relativa à incorporação de materiais reciclados ou de produtos que incorporem materiais reciclados;
 

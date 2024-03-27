@@ -6,4 +6,4 @@
 
 2 - Para efeitos das transferências para Portugal abrangidas pelos n.os 2 e 4 do artigo 3.º do Regulamento MTR, sujeitas aos requisitos processuais do artigo 18.º do mesmo, a instalação de valorização fica obrigada ao reporte dessas transferências através do SIRER.
 
-3 - As regras relativas à utilização do SIRER encontram-se publicitadas no sítio na Internet da ANR.
+3 - (Revogado.)

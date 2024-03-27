@@ -26,7 +26,7 @@ d) A substância ou objeto cumprir os requisitos relevantes como produto em mat�
 
 6 - A ANR, em articulação com as entidades da administração com responsabilidade no licenciamento dos processos produtivos em questão, nomeadamente a Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), define o procedimento de qualificação de substâncias ou objetos como subprodutos.
 
-7 - Quando se demonstre que a utilização da substância ou objeto como subproduto não respeita os requisitos mencionados no n.º 1, a ANR pode cancelar no SIRER a declaração a que se refere o n.º 4, após audiência prévia do produtor.
+7 - Quando se demonstre que a utilização da substância ou objeto como subproduto não respeita os requisitos mencionados no n.º 1, a ANR pode cancelar no SIRER a declaração a que se refere os n.os 4 e 9, após a audiência prévia do produtor.
 
 8 - Sempre que o operador não encaminhe o subproduto diretamente para a sua utilização final, todos os intervenientes na cadeia de mercado devem registar os dados do subproduto no SIRER.
 
@@ -36,4 +36,6 @@ d) A substância ou objeto cumprir os requisitos relevantes como produto em mat�
 
 11 - Pode ser autorizada pela ANR, mediante requerimento das entidades interessadas, a constituição de espaços de experimentação e de inovação para testar a utilização de subprodutos previamente à aplicação do procedimento de qualificação de substâncias ou objetos como subprodutos, desde que constituída com os laboratórios colaborativos reconhecidos pela FCT, I. P., ou centros tecnológicos que atuem no âmbito do processo produtivo do subproduto.
 
-12 - Os subprodutos qualificados como tal segundo critérios nacionais provenientes de outros países da União Europeia podem ser qualificados como subprodutos em Portugal desde que cumpram os mesmos critérios estabelecidos a nível nacional e desde que o mesmo subproduto classificado como tal a nível nacional possa ser considerado subproduto nesses países.
+12 - O requerimento referido no número anterior é apreciado pela ANR, no prazo de 45 dias.
+
+13 - Os subprodutos qualificados como tal segundo critérios nacionais provenientes de outros países da União Europeia podem ser qualificados como subprodutos em Portugal desde que cumpram os mesmos critérios estabelecidos a nível nacional e desde que o mesmo subproduto classificado como tal a nível nacional possa ser considerado subproduto nesses países.

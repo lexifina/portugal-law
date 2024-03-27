@@ -6,7 +6,7 @@
 
 2 - A obrigação prevista no número anterior não se aplica aos produtos cuja recuperação de material seja proibida, cuja eliminação seja obrigatória ou cuja reutilização envolva sérios riscos para a saúde ou segurança.
 
-3 - Para efeitos da aplicação do n.º 1 é fixada uma lista pela ANR com os produtos abrangidos, previamente acordada com as associações setoriais.
+3 - (Revogado.)
 
 4 - As entidades públicas devem procurar doar equipamentos ou materiais que já não utilizem, nomeadamente, a associações e estruturas da economia social e solidária.
 

@@ -14,7 +14,7 @@ c) Prevenção de Acidentes Graves, aprovado pelo Decreto-Lei n.º 150/2015, de 
 
 d) Todos os demais estabelecimentos ou instalações não abrangidos pelo número seguinte.
 
-3 - Estão sujeitas ao procedimento de licenciamento simplificado as operações de remediação de solos e a exploração dos estabelecimentos ou instalações de tratamento de resíduos não perigosos nos quais se desenvolvam as operações seguintes:
+3 - Estão sujeitas ao procedimento de licenciamento simplificado as operações de remediação de solos e a exploração dos estabelecimentos ou instalações de tratamento de resíduos nos quais se desenvolvam as operações seguintes:
 
 a) A valorização energética de resíduos não abrangidos pelo disposto no capítulo iv do Decreto-Lei n.º 127/2013, de 30 de agosto;
 
@@ -22,6 +22,8 @@ b) O tratamento de resíduos relativo a situações pontuais, dotadas de caráte
 
 c) A valorização de resíduos realizada a título experimental, destinada a fins de investigação, desenvolvimento e ensaio de medidas de aperfeiçoamento dos processos de gestão de resíduos, por um período máximo de um ano prorrogável até dois anos;
 
-d) A valorização de resíduos, com exceção da valorização orgânica.
+d) A valorização de resíduos não perigosos, com exceção da valorização orgânica e da valorização agrícola, e da recuperação de áreas de atividade extrativa sem licenciamento ou autorização, com solos e rochas não contaminados, provenientes de obras de escavação resultantes de atividades de construção, não passíveis de reutilização na própria obra de origem, encontrando-se esta última operação excluída da obrigação de cumprimento dos requisitos técnicos exigíveis para a deposição de resíduos em aterro.
 
-4 - Ao licenciamento de estabelecimentos ou instalações onde se realizem operações de tratamento de resíduos abrangidas pelos procedimentos de licenciamento geral e simplificado aplica-se sempre o regime do licenciamento geral.
+4 - Ao licenciamento simultâneo de instalações de tratamento de resíduos abrangidas pelos procedimentos de licenciamento geral e simplificado aplica-se sempre o regime do licenciamento geral.
+
+5 - Os estabelecimentos de tratamento de resíduos que não possuam TUA desmaterializado no âmbito do Sistema Integrado de Licenciamento do Ambiente procedem ao preenchimento de formulário eletrónico acessível no módulo LUA, no prazo de seis meses antes do término da data de validade da licença de exploração.

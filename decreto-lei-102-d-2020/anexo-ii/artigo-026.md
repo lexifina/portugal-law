@@ -18,4 +18,4 @@ e) Garantir que as análises necessárias à verificação da admissibilidade do
 
 3 - Considera-se acreditado, para efeitos da alínea e) do n.º 1, o laboratório a quem tenha sido concedida a acreditação nos termos do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008, para efetuar ensaios no âmbito do presente regime, sendo a acreditação a laboratórios situados no território nacional efetuada pelo Instituto Português de Acreditação, I. P., nos termos do Decreto-Lei n.º 23/2011, de 11 de fevereiro.
 
-4 - Independentemente de efeitos negativos sobre o ambiente detetados durante as operações de acompanhamento e controlo, o operador deve comunicar de forma circunstanciada qualquer ocorrência, anomalia ou acidente suscetível de afetar os recursos hídricos, aplicando-se o disposto na alínea c) do n.º 1.
+4 - Independentemente da eventual ocorrência de efeitos negativos sobre o ambiente detetados durante as operações de acompanhamento e controlo, o operador deve comunicar de forma circunstanciada qualquer ocorrência, anomalia ou acidente suscetível de afetar os recursos hídricos, nos termos do disposto na alínea c) do n.º 1.

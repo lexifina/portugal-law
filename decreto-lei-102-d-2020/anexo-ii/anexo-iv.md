@@ -164,23 +164,11 @@ c) O programa de reposição das condições ambientais anteriores ao incidente,
 
 10 - Controlo do estado do solo
 
-10.1 - Antes do início das operações de exploração, e no sentido de dispor de um referencial para futuras análises, o operador do aterro deve proceder à colheita de amostras de solo, mediante a implementação de um plano de amostragem que caracterize o solo em três níveis, na área a ocupar pelo aterro e na sua envolvente direta, onde se localizam as infraestruturas de apoio:
+10.1 - (Revogado).
 
-a) Entre 0,25 m e 1 m de profundidade;
+10.2 - (Revogado).
 
-b) Entre 2 m e 3 m de profundidade; e
-
-c) Na camada geológica subjacente, à cota a que fica a base do aterro.
-
-10.2 - Os parâmetros a medir, sem prejuízo de outros que possam vir a ser definidos pela APA, I. P., são os indicados na tabela n.º 3
-
-TABELA N.º 3
-
-Avaliação do estado inicial do solo
-
-(ver documento original)
-
-10.3 - Os resultados devem ser comparados com a tabela adequada do guia de valores de referência divulgados no sítio na Internet da APA, I. P..
+10.3 - (Revogado).
 
 10.4 - Durante a fase de exploração da instalação, o operador do aterro deve monitorizar a qualidade dos solos, realizando análises aos mesmos parâmetros na envolvente direta do aterro, com uma periodicidade de cinco anos, e comparando os resultados obtidos com os resultados da avaliação inicial do estado do solo.
 
@@ -329,3 +317,9 @@ f) Caso o aterro seja a causa da alteração da qualidade observada nas águas s
 g) Caso o operador não leve a cabo as medidas atrás discriminadas, a entidade licenciadora realiza os estudos, a manutenção da instalação, os controlos, as medidas corretivas e a reposição das condições ambientais anteriores ao incidente;
 
 h) As operações supracitadas devem ser custeadas pelo operador.
+
+10.1 — Durante a fase de encerramento e pós-encerramento da instalação, o operador do aterro
+
+deve monitorizar a qualidade dos solos, realizando análises aos mesmos parâmetros que foram analisados nas fases de licenciamento e de exploração do aterro, na envolvente direta deste e nas restantes áreas do estabelecimento, como sejam zonas da ETAR, triagem de resíduos, unidade de tratamento orgânico, posto de abastecimento de combustível e separador de hidrocarbonetos, oficinas, entre outras, com uma periodicidade de cinco anos, e comparando os resultados obtidos com os resultados da avaliação inicial do estado do solo.
+
+10.2 — É aplicável o disposto nos n.os 10.5, 10.6 10.7 e 10.8 da parte A.

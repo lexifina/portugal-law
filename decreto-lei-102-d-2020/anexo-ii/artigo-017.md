@@ -12,7 +12,7 @@
 
 3 - No caso de aterros constituídos por mais de uma célula, a licença de exploração pode abranger a totalidade das células do aterro, devendo nesse caso o operador:
 
-a) Requerer, previamente ao início da exploração de uma nova célula, a realização de uma vistoria prévia;
+a)a) Requerer, previamente ao início da exploração de uma nova célula, a realização de uma vistoria prévia, ao abrigo do artigo 73.º do RGGR;
 
 b) Proceder, previamente à construção de uma nova célula já licenciada, à declaração de início da construção, indicando eventuais alterações face ao projeto aprovado para efeitos de avaliação da existência de alteração à instalação que careça de licenciamento.
 

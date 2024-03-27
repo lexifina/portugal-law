@@ -24,9 +24,7 @@ TR 15310-4 - embalagem, armazenagem, preservação e transporte;
 
 TR 15310-5 - guia para a definição do plano de amostragem.
 
-b) Propriedades gerais dos resíduos:
-
-EN 13137 - determinação do COT nos resíduos, lamas e sedimentos;
+b) b) EN 13137 - determinação do COT nos resíduos, lamas e sedimentos;
 
 EN 14346 - cálculo da matéria seca por determinação do resíduo seco ou do teor de água;
 
@@ -37,6 +35,8 @@ EN 15227:2008 - determinação de PAH no solo, lamas e resíduos;
 EN 15308 - determinação de PCB;
 
 CEN/TS 15364 - determinação da CNA (capacidade de neutralização ácida);
+
+EN 15527:2008 - determinação de PAH no solo, lamas e resíduos;
 
 c) Ensaios de lixiviação:
 
@@ -68,4 +68,4 @@ EN 16192 - análise de eluatos - determinação de amónio, AOX, condutividade, 
 
 EN 14039 - determinação do teor de hidrocarbonetos na gama C10-C40 através de cromatografia gasosa.
 
-4 - Podem ser utilizados outros métodos para o mesmo propósito que resultem de normas CEN.
+5 - Podem ser utilizados outros métodos para o mesmo propósito que resultem de normas CEN.

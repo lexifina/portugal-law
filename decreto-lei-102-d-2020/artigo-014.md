@@ -6,4 +6,4 @@
 
 2 - O disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 152-D/2017, de 11 de dezembro, na redação que lhe foi introduzida pelo presente decreto-lei, não se aplica às entidades gestoras cuja licença tenha sido emitida ou que tenham submetido pedido de licenciamento em momento anterior à data de entrada em vigor do presente decreto-lei.
 
-3 - A exceção prevista no n.º 2 do artigo 22.º do Decreto-Lei n.º 152-D/2017, de 11 de dezembro, na redação que lhe foi introduzida pelo presente decreto-lei, para as embalagens primárias, secundárias e terciárias, de cuja utilização resulte a produção de resíduos não urbanos, aplica-se até 31 de dezembro de 2021.
+3 - (Revogado).

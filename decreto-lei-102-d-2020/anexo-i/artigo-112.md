@@ -4,7 +4,7 @@
 
 1 - As entidades gestoras de sistemas individuais ou integrados de gestão de fluxos específicos de resíduos abrangidos pela responsabilidade alargada do produtor estão sujeitas à TGR com vista à concretização dos objetivos identificados no n.º 1 do artigo 110.º
 
-2 - As entidades responsáveis por sistemas integrados de gestão de fluxos específicos de resíduos asseguram a repercussão da TGR junto dos produtores dos produtos aderentes através da sua repercussão nas prestações financeiras cobradas.
+2 - As entidades responsáveis por sistemas integrados de gestão de fluxos específicos de resíduos asseguram a repercussão da TGR nas prestações financeiras cobradas aos produtores dos produtos aderentes.
 
 3 - A TGR referida neste artigo é liquidada anualmente e é determinada pela soma de um valor mínimo e sujeita a um fator de aumento progressivo de acordo com a seguinte fórmula:
 
@@ -40,6 +40,18 @@ d) 1,6 para o quinto ano e seguintes de vigência da licença, se aplicável);
 
 «(delta)» corresponde ao desvio em relação ao cumprimento da meta (t).
 
-4 - A repercussão junto dos produtores do produto da TGR relativa ao desvio das metas estabelecidas na licença tem de explicitar a sua natureza.
+4 - A partir do exercício referente ao ano de 2025, a fórmula de cálculo da TGR prevista no número anterior é a seguinte:
 
-5 - Uma entidade gestora não pode ser penalizada por apresentar um desempenho de recolha superior a 100 %, devendo as metas que incidem nestas quantidades ser calculadas com o limite estabelecido.
+TGR = TGR EG × (delta)
+
+em que:
+
+‘TGR’ corresponde ao valor de TGR a pagar pela entidade;
+
+‘TGR EG’ corresponde ao custo médio incorrido, em cada fluxo específico, pelas entidades responsáveis por sistemas integrados ou individuais, no ano da liquidação, por recolher ou recolher e tratar cada tonelada de resíduo;
+
+‘(delta)’ corresponde ao desvio em relação ao cumprimento da meta (t).
+
+5 - A repercussão junto dos produtores do produto da TGR relativa ao desvio das metas estabelecidas na licença ou na autorização tem de explicitar a sua natureza.
+
+6 - Uma entidade gestora não pode ser penalizada por apresentar um desempenho de recolha superior a 100 %, devendo as metas que incidem nestas quantidades ser calculadas com o limite estabelecido.
