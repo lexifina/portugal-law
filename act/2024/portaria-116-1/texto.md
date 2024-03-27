@@ -1,0 +1,55 @@
+Portaria n.º 116/2024/1
+de 26 de março
+A orgânica da Direção-Geral da Administração e do Emprego Público (DGAEP) foi aprovada pelo Decreto Regulamentar n.º 27/2012, de 29 de fevereiro.
+Em 2021, na sequência da extinção da Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas e da reformulação de atribuições da Direção-Geral da Administração e do Emprego Público, operada pelo Decreto-Lei n.º 19/2021, de 15 de março, foi alterada a sua estrutura orgânica nuclear, através da Portaria n.º 100-A/2021, de 11 de maio, e flexível, conforme os Despachos n.<sup>os </sup>5472/2021, de 1 de junho, e 6745/2021, de 9 de julho.
+Com a entrada em vigor da Portaria n.º 100-A/2021, de 11 de maio, o então Departamento de Relações Coletivas de Trabalho (DRCT), que era uma unidade orgânica nuclear desde 2012, foi degradado em unidade orgânica flexível mantendo embora todas as suas competências.
+Ora, um dos eixos fundamentais da reforma dos vínculos, carreiras e remunerações (LVCR) e do regime do contrato de trabalho em funções públicas (RCTFP) - mantido pela Lei Geral do Trabalho em Funções Públicas (LTFP) - foi o reconhecimento expresso dos direitos coletivos dos trabalhadores em funções públicas, cabendo à DGAEP assegurar o apoio às competências neste domínio atribuídas ao membro do Governo responsável pela área da Administração Pública.
+As competências próprias da DGAEP consagradas na LTFP no âmbito do Direito Coletivo revestem, assim, natureza permanente.
+Acresce que o membro do Governo responsável pela área da Administração Pública delega tradicionalmente várias competências na DGAEP neste domínio, nomeadamente, no âmbito do direito à greve e definição de serviços mínimos, ou da constituição e extinção de comissões de trabalhadores. Estas competências envolvem a representação do membro do Governo responsável pela área da Administração Pública e da DGAEP junto das direções das associações sindicais e dos empregadores públicos, bem como dos membros dos colégios arbitrais, designadamente dos árbitros presidentes, designados de entre juízes e magistrados do Ministério Público.
+Saliente-se que esta é uma área estratégica e de relevante importância reconhecida, quer no regime laboral comum, quer no vínculo de emprego público. Ainda recentemente, a Agenda do Trabalho Digno, que alterou o Código do Trabalho e a LTFP, proclama como um dos seus principais objetivos conferir maior dinamismo à negociação coletiva, bem como reforçar as relações coletivas de trabalho. Isto porque é reconhecido o papel desempenhado pela negociação coletiva na promoção dos direitos dos trabalhadores e na criação da paz social.
+Face ao exposto, afigura-se essencial a reestruturação da DGAEP e a recuperação do Departamento de Relações Coletivas de Trabalho para assegurar as competências relevantemente atribuídas pela lei e pelo membro do Governo responsável pela Administração Pública à DGAEP nesta área, retomando a solução orgânica que vigorou até ao início da vigência da Portaria n.º 100-A/2021, de 11 de maio.
+Por outro lado, o aumento das responsabilidades da DGAEP nas atividades de recrutamento e de recolha, tratamento, divulgação e disponibilização de informação relativa à caracterização dos empregadores públicos e ao número global dos respetivos recursos humanos exige o reforço da estrutura orgânica da DGAEP, dotando-a de mais uma unidade orgânica flexível.
+Assim:
+Ao abrigo dos n.<sup>os </sup>4 e 5 do artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pelo Ministro das Finanças e pela Secretária de Estado da Administração Pública, o seguinte:
+Artigo 1.º
+Os artigos 1.º e 7.º da Portaria n.º 100-A/2021, de 11 de maio, passam a ter a seguinte redação:
+"Artigo 1.º
+[...]
+1 - [...]
+a) [...]
+b) [...]
+c) [...]
+d) [...]
+e) [...]
+f) Departamento de Relações Coletivas de Trabalho.
+2 - [...]
+Artigo 7.º
+[...]
+1 - O número máximo de unidades orgânicas flexíveis da DGAEP é fixado em nove.
+2 - [...]"
+Artigo 2.º
+É revogado o n.º 3 do artigo 7.º da Portaria n.º 100-A/2021, de 11 de maio.
+Artigo 3.º
+É aditado um novo artigo à Portaria n.º 100-A/2021, de 11 de maio, com a seguinte redação:
+"Artigo 6.º-A
+Departamento de Relações Coletivas de Trabalho
+Ao Departamento de Relações Coletivas de Trabalho, abreviadamente designado por DRCT, compete:
+a) Assegurar e acompanhar a execução das políticas referentes às relações coletivas de trabalho na Administração Pública;
+b) Apoiar o membro do Governo responsável pela área da Administração Pública no processo de negociação coletiva;
+c) Efetuar o depósito e promover a publicação dos acordos coletivos de trabalho, da respetiva revogação, dos acordos de adesão, das decisões arbitrais e das deliberações das comissões paritárias;
+d) Proceder à publicação de avisos sobre a data da cessação da vigência de acordos coletivos de trabalho;
+e) Fornecer às partes, na preparação da proposta de acordo coletivo e respetiva resposta, bem como aos árbitros, no âmbito dos processos de resolução de conflitos coletivos e de arbitragem de serviços mínimos, a informação necessária de que disponha e que lhe seja requerida;
+f) Prestar assessoria aos árbitros, no âmbito dos respetivos processos de resolução de conflitos coletivos de trabalho;
+g) Prestar apoio técnico e administrativo ao funcionamento da arbitragem, nos termos da lei;
+h) Promover as diligências e preparar os atos que, no âmbito da greve, sejam delegados na DGAEP pelo membro do Governo responsável pela área da Administração Pública;
+i) Elaborar e publicitar as listas de árbitros para resolução de conflitos coletivos de trabalho e arbitragem de serviços mínimos e proceder ao respetivo sorteio;
+j) Praticar os atos relativos às comissões de trabalhadores, atribuídos por lei à área governativa responsável pela área da Administração Pública;
+k) Manter atualizados os mecanismos de acompanhamento e controlo do sistema de créditos de horas legalmente atribuídos aos membros das direções das associações sindicais;
+l) Acompanhar a regulamentação coletiva do trabalho e as organizações representativas dos trabalhadores, designadamente organizando e mantendo bases de dados nestas matérias e produzindo, em colaboração com o DRJE, estudos que analisem a articulação entre o diálogo social e os princípios de equidade, coerência e sustentabilidade da organização e funcionamento da Administração Pública;
+m) Prestar o apoio técnico previsto na lei no processo de contratação coletiva."
+Artigo 4.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 18 de março de 2024.
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira.
+117513775
