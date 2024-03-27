@@ -1,0 +1,8 @@
+Aviso (extrato)  n.º 6755/2024/2
+
+Discussão Pública dos Projetos de Regulamento Geral de Taxas e Regulamento Geral de Preços da Câmara Municipal de Ponte da Barca
+Augusto Manuel dos Reis Marinho, Presidente da Câmara Municipal de Ponte da Barca, torna público, nos termos do artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, em conformidade com a deliberação da Câmara Municipal datada de 22 de fevereiro de 2024, se submete a discussão pública pelo prazo de 30 dias úteis, a contar do dia seguinte ao da publicação do presente aviso na 2.ª série do Diário da República os projetos de Regulamento Geral de Taxas e Regulamento Geral de Preços da Câmara Municipal de Ponte da Barca.
+Os referidos Projetos de Regulamento encontram-se disponíveis para consulta nos dias úteis na Secção de Atendimento ao Público da Câmara Municipal, na Praça Dr. António Lacerda, 4980-620 Ponte da Barca, com o horário das 9h00 às 12h30 e das 14h00 às 17.30 h, bem como na página do Município www.cmpb.pt.
+As sugestões ou observações aos referidos Projetos de Regulamento deverão ser formuladas por escrito, dirigidas ao Presidente da Câmara Municipal de Ponte da Barca dentro do prazo de discussão pública.
+7 de março de 2024. - O Presidente da Câmara, Augusto Manuel dos Reis Marinho.
+317444828
