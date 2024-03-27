@@ -10,7 +10,7 @@ b) Assegurar uma adequada receção, acondicionamento e armazenagem preliminar d
 
 c) Solicitar a recolha dos resíduos aos operadores responsáveis, nos termos acordados;
 
-d) Zelar pelo correto funcionamento e disponibilidade dos equipamentos de recolha, implementando os mecanismos necessários à resolução, no mais curto espaço de tempo, de quaisquer avarias que impeçam o seu normal funcionamento, nos termos acordados com as entidades gestoras do SDR;
+d) Zelar pelo correto funcionamento e disponibilidade dos equipamentos de recolha, implementando os mecanismos necessários à resolução, no mais curto espaço de tempo, de quaisquer avarias que impeçam o seu normal funcionamento, nos termos acordados com a EG do SDR;
 
 e) Aceitar a devolução dos resíduos de embalagens, nos termos previstos no presente decreto-lei;
 

@@ -8,4 +8,4 @@
 
 3 - As obrigações previstas nos números anteriores aplicam-se igualmente aos estabelecimentos de comércio a retalho que comercializam produtos a granel.
 
-4 - Os estabelecimentos a que se referem os n.os 1 e 2 podem recusar embalagens que considerem ser suscetíveis de provocar deterioração dos alimentos e/ou representar um risco de contaminação.
+4 - Os estabelecimentos a que se referem os n.os 1 e 3 podem recusar embalagens que considerem ser suscetíveis de provocar deterioração dos alimentos ou representar um risco de contaminação.

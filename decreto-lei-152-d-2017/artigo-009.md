@@ -12,7 +12,7 @@
 
 3 - A caução prevista no número anterior é constituída de acordo com o modelo aprovado e divulgado no sítio na Internet da APA, I. P.
 
-4 - A caução prevista no n.º 2 para o primeiro ano de vigência da licença deve ser prestada até 30 dias após a atribuição da autorização prevista no n.º 11.
+4 - A caução prevista no n.º 2 para o primeiro ano de vigência da autorização referida no n.º 11 deve ser prestada até 30 dias após a atribuição da mesma.
 
 5 - O valor da caução pode ser revisto anualmente, por iniciativa da APA, I. P., e da Direção-Geral das Atividades Económicas (DGAE) ou do produtor do produto, embalador ou fornecedor de embalagens de serviço, consoante o caso, desde que o valor utilizado como referência para a determinação do seu montante sofra uma alteração superior a 10 %.
 
@@ -26,7 +26,7 @@
 
 10 - A responsabilidade do produtor do produto, do embalador e do fornecedor de embalagens de serviço pelo destino adequado dos resíduos só cessa mediante declaração de assunção de responsabilidade nos termos do n.º 6 do artigo 9.º do RGGR.
 
-11 - O sistema individual de gestão de resíduos está sujeito a autorização atribuída por despacho dos membros do Governo responsáveis pelas áreas da economia e do ambiente, por período não superior a cinco anos, prorrogável excecionalmente por um ano, no máximo por duas vezes, por decisão devidamente fundamentada dos referidos membros do Governo, e estabelece as condições de gestão do fluxo, designadamente as relativas:
+11 - O sistema individual de gestão de resíduos está sujeito a autorização atribuída pela APA, I. P., e pela DGAE, e homologada pelos membros do Governo responsáveis pelas áreas da economia e do ambiente, por período não superior a 10 anos, excecionalmente, prorrogável por um ano, por decisão das referidas entidades, e deve estabelecer as condições de gestão do fluxo, designadamente, as relativas:
 
 a) Aos resíduos abrangidos;
 
@@ -42,13 +42,17 @@ f) Às relações com os operadores de tratamento de resíduos e outros interven
 
 g) À monitorização da atividade do sistema individual e prestação de informação;
 
-h) Às condições da caução.
+h) Às condições da caução;
+
+i) Aos custos associados relativos à limpeza urbana, no que respeita ao fluxo específico das embalagens e resíduos de embalagens e aos fluxos específicos de resíduos abrangidos pelo Decreto-Lei n.º 78/2021, de 24 de setembro, na sua redação atual.
 
 12 - A autorização é concedida desde que o produtor do produto, o embalador ou o fornecedor de embalagens de serviço demonstre ter capacidade técnica e financeira para implementar uma rede de recolha dos resíduos e o seu encaminhamento para tratamento, com vista ao cumprimento das metas fixadas no presente decreto-lei e na respetiva autorização.
 
-13 - O requerimento para atribuição de autorização é submetido, de forma desmaterializada, através de uma plataforma eletrónica da APA, I. P., à qual a DGAE tem acesso direto, competindo à APA, I. P., coordenar o processo de autorização e transmitir a decisão final.
+13 - O período de vigência da autorização é determinado em função da complexidade do modelo de gestão, designadamente se é apenas financeiro ou operacional e financeiro.
 
-14 - O requerimento a que se refere o número anterior é acompanhado do caderno de encargos, o qual deve conter, pelo menos, a seguinte informação:
+14 - O requerimento para atribuição de autorização é submetido, de forma desmaterializada, à APA, I. P., e à DGAE, competindo à APA, I. P., coordenar o processo de autorização e notificar a decisão final.
+
+15 - O requerimento a que se refere o número anterior é acompanhado do caderno de encargos, o qual deve conter, pelo menos, a seguinte informação:
 
 a) Tipos e características técnicas dos produtos abrangidos;
 
@@ -70,10 +74,12 @@ i) Circuito económico concebido para o tratamento, evidenciando os termos da re
 
 15 - A APA, I. P., e a DGAE emitem parecer conjunto sobre o requerimento previsto no n.º 13, dirigido aos membros do Governo responsáveis pelas áreas da economia e do ambiente, no prazo máximo de 120 dias consecutivos, mediante parecer prévio das regiões autónomas.
 
-16 - No caso de se tratar de requerimento para renovação de licença, o prazo previsto no número anterior é de 90 dias consecutivos.
+16 - A APA, I. P., e a DGAE emitem decisão de atribuição da autorização, no prazo máximo de 120 dias consecutivos, mediante parecer prévio das Regiões Autónomas, e publicitam-na nos seus sítios na Internet.
 
-17 - A APA, I. P., e a DGAE podem solicitar esclarecimentos adicionais ao requerente, suspendendo-se nesse caso os prazos previstos nos números anteriores.
+17 - No caso de se tratar de requerimento para renovação de licença, o prazo previsto no número anterior é de 90 dias consecutivos.
 
-18 - Após a pronúncia da APA, I. P., e da DGAE, os membros do Governo responsáveis pelas áreas da economia e do ambiente emitem a decisão quanto à atribuição da autorização no prazo de 30 dias.
+18 - A APA, I. P., e a DGAE podem solicitar esclarecimentos adicionais ao requerente.
 
 19 - O produtor do produto, o embalador ou o fornecedor de embalagens de serviço que obtenha a autorização prevista no presente artigo fica obrigado ao cumprimento das condições nela fixadas, bem como às que decorrem do RGGR, designadamente a inscrição e registo de dados no sistema integrado de registo eletrónico de resíduos (SIRER).
+
+20 - O disposto no presente artigo não se aplica ao sistema de depósito e reembolso de embalagens de bebidas não reutilizáveis.

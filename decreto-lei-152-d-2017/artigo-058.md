@@ -12,4 +12,4 @@
 
 5 - Para efeitos do previsto nos números anteriores, a APA, I. P., e a DGAE elaboram especificações técnicas que devem ser publicitadas nos respetivos sítios na Internet.
 
-6 - As entidades gestoras de sistemas integrados devem, em conjunto, apresentar à APA, I. P., e à DGAE, até 30 de setembro de 2021, um estudo de viabilidade de implementação de um sistema de incentivo ou de depósito para o fluxo de REEE, coordenado pelo presidente da CAGER, acompanhado, se for o caso, de propostas de medidas.
+6 - As entidades gestoras de sistemas integrados devem, em conjunto, apresentar à APA, I. P., e à DGAE, até 30 de junho de 2024, um estudo de viabilidade de implementação de um sistema de incentivo ou de depósito para o fluxo de REEE, acompanhado, se tecnicamente viável, de propostas de medidas.

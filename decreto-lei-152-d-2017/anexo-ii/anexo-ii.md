@@ -1,8 +1,8 @@
 # Anexo II
 
-### [a que se refere a alínea r) do n.º 1 do artigo 3.º]
+### Critérios auxiliares para a definição de embalagem e exemplos ilustrativos
 
-Critérios auxiliares para a definição de embalagem e exemplos ilustrativos
+[a que se refere a alínea u) do n.º 1 do artigo 3.º]
 
 1 - Critérios auxiliares para a definição de embalagem:
 

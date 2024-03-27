@@ -2,7 +2,7 @@
 
 ### Sensibilização, comunicação e educação
 
-1 - As entidades gestoras do SDR devem definir planos de sensibilização, comunicação e educação nos termos previstos na alínea h) do artigo 12.º, que suporte o desenvolvimento do SDR e que permitam, no mínimo:
+1 - A EG do SDR deve definir um plano de sensibilização, comunicação e educação nos termos previstos na alínea i) do artigo 12.º, que suporte o desenvolvimento do SDR e que permita, no mínimo:
 
 a) Informar o consumidor final sobre boas práticas de gestão de embalagens e resíduos de embalagens e sobre os impactes negativos para a saúde e para o ambiente decorrentes da sua gestão inadequada;
 
@@ -14,6 +14,6 @@ d) Assegurar uma adequada formação dos vários intervenientes no SDR, segmenta
 
 e) Recolher informações relevantes do contexto sociocultural da rede dos pontos de recolha, caracterização dos participantes e suas motivações, bem como das dificuldades e eventuais reclamações.
 
-2 - As entidades gestoras do SDR e os responsáveis dos pontos de recolha devem colaborar nas ações de sensibilização, comunicação e educação no âmbito dos planos previstos no número anterior.
+2 - A EG do SDR e os responsáveis dos pontos de recolha devem colaborar nas ações de sensibilização, comunicação e educação no âmbito do plano previsto no número anterior.
 
-3 - Previamente à entrada em funcionamento operacional do SDR, as entidades gestoras do SDR e as entidades gestoras do SIGRE promovem e executam uma campanha de sensibilização, comunicação e educação dirigida ao consumidor final e aos profissionais dos setores envolvidos, nos termos aprovados pela APA, I. P., e pela DGAE, mediante consulta à Direção-Geral do Consumidor que contribua para clarificar o funcionamento dos diferentes sistemas de gestão de resíduos de embalagens e a participação de cada interveniente para o seu sucesso.
+3 - Previamente à entrada em funcionamento operacional do SDR, a EG do SDR e as entidades gestoras do SIGRE promovem e executam uma campanha de sensibilização, comunicação e educação dirigida ao consumidor final e aos profissionais dos setores envolvidos, nos termos aprovados pela APA, I. P., e pela DGAE, mediante consulta à Direção-Geral do Consumidor que contribua para clarificar o funcionamento dos diferentes sistemas de gestão de resíduos de embalagens e a participação de cada interveniente para o seu sucesso.

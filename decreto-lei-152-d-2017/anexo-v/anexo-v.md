@@ -1,8 +1,8 @@
 # Anexo V
 
-### [a que se refere a alínea b) do n.º 6 do artigo 19.º]
+### Informações para o registo de REEE
 
-Informações para o registo de REEE
+[a que se refere a alínea a) do n.º 7 do artigo 19.º]
 
 A. Informações a apresentar pelo produtor no ato do registo:
 

@@ -18,7 +18,9 @@ iii) Reciclagem de 50 %, em massa, de outros resíduos de pilhas e de acumulador
 
 a) A receção de resíduos de pilhas e acumuladores classificados como perigosos por operadores de gestão de resíduos que não atuem ao abrigo de um contrato com os respetivos sistemas individuais ou integrados de gestão previstos no n.º 1 do artigo 7.º;
 
-b) A eliminação por deposição em aterro ou por incineração de resíduos de baterias e acumuladores industriais e para veículos automóveis.
+b) A eliminação por deposição em aterro ou por incineração de resíduos de baterias e acumuladores industriais e para veículos automóveis;
+
+c) O encaminhamento de pilhas e acumuladores para o sistema integrado de gestão de embalagens.
 
 3 - A eliminação em aterro ou armazenamento subterrâneo de resíduos de pilhas e de acumuladores portáteis que contenham mercúrio, cádmio ou chumbo só é admissível nos seguintes casos:
 

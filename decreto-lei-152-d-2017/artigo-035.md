@@ -2,7 +2,7 @@
 
 ### Circulação
 
-1 - A circulação de sacos de plástico leves efetua-se sem que seja exigível a contribuição:
+1 - A circulação de sacos de plástico leves e muito leves efetua-se sem que seja exigível a contribuição:
 
 a) Entre um entreposto fiscal e um local de exportação;
 

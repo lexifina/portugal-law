@@ -2,15 +2,15 @@
 
 ### Estatuto dos sujeitos passivos
 
-1 - Os sujeitos passivos devem ser detentores do estatuto de depositário autorizado, entendendo-se como tal a pessoa singular ou coletiva autorizada pela alfândega competente a produzir, armazenar, receber, expedir e exportar, num entreposto fiscal, sacos de plástico leves.
+1 - Os sujeitos passivos devem ser detentores do estatuto de depositário autorizado, entendendo-se como tal a pessoa singular ou coletiva autorizada pela alfândega competente a produzir, armazenar, receber, expedir e exportar, num entreposto fiscal, sacos de plástico leves e muito leves.
 
-2 - O depositário autorizado é responsável pelas obrigações declarativas, que inclui as relativas a sacos de plástico leves de que não seja proprietário.
+2 - O depositário autorizado é responsável pelas obrigações declarativas, que inclui as relativas a sacos de plástico leves e muito leves de que não seja proprietário.
 
 3 - O depositário autorizado está ainda sujeito às seguintes obrigações:
 
 a) Manter atualizada, no entreposto fiscal, uma contabilidade das existências em sistema de inventário permanente, com indicação da sua proveniência, destino e elementos relevantes para o cálculo da contribuição;
 
-b) Introduzir os sacos de plástico leves no entreposto fiscal e proceder ao seu registo na contabilidade de existências, aquando da armazenagem;
+b) Introduzir os sacos de plástico leves e muito leves no entreposto fiscal e proceder ao seu registo na contabilidade de existências, aquando da armazenagem;
 
 c) Prestar-se aos varejos e outros controlos determinados pela alfândega competente;
 
@@ -24,4 +24,4 @@ d) Cumprir os demais procedimentos prescritos pela alfândega competente.
 
 7 - O incumprimento reiterado das obrigações previstas no n.º 3 constitui fundamento para a revogação do estatuto.
 
-8 - Excetuam-se da obrigação prevista no n.º 1 os importadores que procedam à introdução em livre prática e consumo de sacos de plástico leves.
+8 - Excetuam-se da obrigação prevista no n.º 1 os importadores que procedam à introdução em livre prática e consumo de sacos de plástico leves e muito leves.

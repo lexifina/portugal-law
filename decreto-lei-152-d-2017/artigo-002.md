@@ -30,6 +30,10 @@ f) Às pilhas e acumuladores colocados no mercado, independentemente da sua form
 
 g) Aos veículos e veículos em fim de vida, seus componentes e materiais, independentemente do modo como o veículo tenha sido mantido ou reparado e de estar equipado com componentes fornecidos pelo fabricante ou com outros componentes, como peças sobresselentes ou de substituição cuja montagem cumpra o disposto na legislação aplicável.
 
+h) Às mobílias colocadas no mercado, colchões e respetivos resíduos;
+
+i) Aos produtos e resíduos de autocuidados de saúde no domicílio.
+
 2 - A lista indicativa dos EEE referidos na alínea e) do número anterior consta do anexo i ao presente decreto-lei e do qual faz parte integrante.
 
 3 - São aplicáveis a outros veículos, nos termos da definição constante do artigo seguinte, as disposições constantes do artigo 6.º, do n.º 1 do artigo 80.º, dos n.os 1, 2, 4 e 5 do artigo 81.º, dos n.os 7 e 8 do artigo 83.º, do artigo 85.º, do artigo 86.º e do artigo 87.º, com as necessárias adaptações.
@@ -65,3 +69,5 @@ k) Os dispositivos médicos implantáveis ativos.
 a) Aparelhos associados à defesa e segurança do Estado, designadamente as armas, as munições e o material bélico desde que destinados a fins exclusivamente militares;
 
 b) Aparelhos concebidos exclusivamente para serem enviados e utilizados no espaço.
+
+7 - Excluem-se do âmbito de aplicação do presente decreto-lei, no que se refere ao fluxo específico de veículos a que se refere a alínea g) do n.º 1, os veículos ferroviários, náuticos e aeronáuticos.

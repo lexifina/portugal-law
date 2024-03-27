@@ -10,7 +10,7 @@ b) Até 31 de dezembro de 2027, a recolha de 80 %, em peso, das embalagens coloc
 
 c) Até 31 de dezembro de 2029, a recolha de 90 %, em peso, das embalagens colocadas no mercado.
 
-2 - As metas a assegurar no período compreendido entre 2026 e 2029 são fixadas nas licenças a que se refere o artigo 16.º e obedecem a uma evolução anual crescente.
+2 - As metas a assegurar no período compreendido entre 2026 e 2029 são fixadas na licença a que se refere o artigo 16.º e obedecem a uma evolução anual crescente.
 
 3 - As metas constantes dos números anteriores podem ser revistas sempre que se considere necessário com base em razões tecnológicas, de mercado ou em resultado da evolução do direito da União Europeia.
 

@@ -12,6 +12,6 @@
 
 5 - Os produtores podem acordar com os distribuidores condições de recolha de REEE recebidos nos termos das alíneas a) e b) do n.º 4 do artigo 13.º, em função de determinados quantitativos mínimos e/ou da sua distância aos centros de receção.
 
-6 - As plataformas eletrónicas de venda e distribuição de bens são responsáveis pelo financiamento dos custos de gestão de resíduos provenientes de todos os produtos que comercializem através de um sistema individual ou integrado de gestão.
+6 - (Revogado.)
 
-7 - A condição referida no número anterior deve ser regulada por portaria do Governo, no prazo de um ano a contar da entrada em vigor do presente diploma, em observância dos princípios das bases da política de ambiente, definidas na Lei n.º 19/2014, de 14 de abril, que define as bases da política de ambiente.
+7 - (Revogado.)

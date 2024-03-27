@@ -1,8 +1,8 @@
 # Anexo VI
 
-### (a que se refere o n.º 5 do artigo 19.º)
+### Informações para o registo de pilhas e acumuladores
 
-Informações para o registo de pilhas e acumuladores
+(a que se refere o n.º 8 do artigo 19.º)
 
 1 - Nome do produtor, número de identificação fiscal (nacional ou europeu), código de atividade económica (CAE) e contactos (morada, telefone, fax, correio eletrónico, página de internet, pessoa de contacto e os respetivos números de fax e endereço de e-mail, se disponíveis);
 

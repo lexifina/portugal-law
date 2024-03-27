@@ -18,6 +18,6 @@ a) A reutilização e a valorização de todos os VFV no mínimo de 95 % em peso
 
 b) A reutilização e a reciclagem de todos os VFV no mínimo de 85 % em peso, em média, por veículo e por ano.
 
-3 - Para efeitos do cumprimento dos objetivos de gestão definidos nos números anteriores, todos os VFV devem ser transferidos para centros de receção ou operadores de desmantelamento.
+3 - Para efeitos do cumprimento dos objetivos de gestão definidos nos números anteriores, os Veículos em Fim de Vida (VFV) devem ser transferidos para operadores que efetuam armazenagem ou para operadores de tratamento de VFV.
 
 4 - O disposto no n.os 1 e 2 não é aplicável aos veículos destinados a fins especiais, designadamente as autocaravanas, as ambulâncias, os veículos funerários e os veículos blindados, previstos e definidos no Decreto-Lei n.º 16/2010, de 12 de março, nem aos veículos a motor de três rodas previstos no Decreto-Lei n.º 30/2002, de 16 de fevereiro, na sua redação atual.

@@ -32,7 +32,7 @@ l) A receção de VFV em incumprimento da proibição prevista na alínea f) do 
 
 a) A recolha ou o transporte de óleos usados sem observância dos procedimentos de amostragem, nos termos do n.º 3 do artigo 6.º;
 
-b) O transporte de VFV não acompanhado do respetivo certificado de destruição ou do documento único, nos termos do n.º 7 do artigo 6.º;
+b) O transporte de VFV não acompanhado do respetivo certificado de destruição ou do documento único, nos termos do n.º 7 do artigo 6.º ou o transporte de REEE por entidades não autorizadas nos termos do n.º 11 do artigo 6.º;
 
 c) O transporte de VFV sem observância dos requisitos técnicos, nos termos do n.º 8 do artigo 6.º;
 
@@ -40,7 +40,7 @@ d) O exercício da atividade de tratamento de resíduos por parte de operadores 
 
 e) O incumprimento pelos produtores de produtos ou pelos fornecedores de embalagens de serviço, do pagamento dos valores de prestação financeira a que se refere o n.º 2 do artigo 10.º;
 
-f) A celebração de contratos com operadores de gestão de resíduos que impeçam o livre acesso à atividade de gestão de resíduos por parte de outros operadores, em violação do disposto no n.º 18 do artigo 11.º;
+f) A celebração de contratos com operadores de gestão de resíduos que impeçam o livre acesso à atividade de gestão de resíduos por parte de outros operadores, em violação do disposto no n.º 20 do artigo 11.º;
 
 g) O incumprimento pelos comerciantes de EEE das obrigações estabelecidas no n.º 4 do artigo 13.º;
 
@@ -58,11 +58,11 @@ m) O incumprimento das condições da autorização ou licença atribuídas nos 
 
 n) (Revogada.)
 
-o) O incumprimento das obrigações da entidade gestora previstas nas alíneas h) a l), n) e o) do n.º 1 do artigo 12.º, bem como o incumprimento da obrigação prevista no n.º 5 do artigo 18.º;
+o) O incumprimento das obrigações da entidade gestora previstas no n.º 1 do artigo 12.º, bem como o incumprimento da obrigação prevista no n.º 7 do artigo 18.º;
 
-p) O incumprimento do dever de assegurar o pagamento das compensações financeiras nos termos do n.º 8 do artigo 18.º;
+p) O incumprimento do dever de assegurar o pagamento das compensações financeiras, bem como de reposição dos montantes executados à caução, nos termos dos n.os 10 e 12 do artigo 18.º;
 
-q) O incumprimento por parte do comerciante da obrigação de cobrança e reembolso do depósito de embalagens reutilizáveis, nos termos dos n.os 2 e 3 do artigo 23.º;
+q) O incumprimento da obrigação de cobrança e reembolso do depósito de embalagens reutilizáveis ou da obrigação de recolha de embalagens, nos termos do disposto nos n.os 2, 3, 6 e 7 do artigo 23.º;
 
 r) A introdução de embalagens reutilizáveis no circuito municipal de recolha de resíduos em violação do disposto no n.º 9 do artigo 23.º;
 
@@ -70,129 +70,157 @@ s) O incumprimento da obrigação prevista no artigo 23.º-B;
 
 t) O incumprimento dos termos e critérios do sistema de depósito previstos no n.º 3 do artigo 23.º-C;
 
-u) A violação da proibição prevista no n.º 4 do artigo 25.º;
+u) O incumprimento da obrigação de recolha das embalagens reutilizáveis, nos termos do disposto no n.º 2 do artigo 23.º-D;
 
-v) A inobservância por parte dos produtores detentores de óleos usados das obrigações relativas à armazenagem e integração no circuito de gestão dos óleos usados, nos termos do n.º 2 do artigo 46.º e do artigo 48.º;
+v) A violação da proibição prevista no n.º 4 do artigo 25.º;
 
-w) A inobservância por parte dos produtores detentores de óleos usados das obrigações relativas à armazenagem e integração no circuito de gestão dos óleos usados, nos termos do n.º 2 do artigo 46.º e do artigo 48.º;
+w) O incumprimento pelos embaladores da adoção das medidas previstas nos termos do disposto nos n.os 5, 7 e 8 do artigo 28.º;
 
-x) A inobservância por parte dos operadores de tratamento de óleos usados das especificações técnicas e dos procedimentos de amostragem nos termos do n.º 2 do artigo 49.º;
+x) O incumprimento das metas de gestão nos termos do disposto no artigo 30.º-D;
 
-y) A operação de gestão de óleos usados ou de resíduos resultantes dessas operações sem a respetiva autorização, nos termos do disposto na alínea c) do n.º 3 do artigo 49.º;
+y) A falta de reembolso do valor de depósito nos termos do disposto nos n.os 1 e 2 do artigo 30.º-F;
 
-z) A gestão de óleos usados suscetível de provocar emissões atmosféricas que ultrapassem os valores limite aplicáveis, nos termos da alínea d) n.º 3 do artigo 49.º;
+z) O incumprimento das obrigações relativas ao valor de depósito nos termos do disposto nos n.os 3 e 6 do artigo 30.º-F;
 
-aa) A valorização energética de óleos usados na indústria alimentar em violação do disposto na alínea e) do n.º 3 do artigo 49.º;
+aa) O incumprimento da obrigação de instalação de pontos de recolha, nos termos do n.º 1 do artigo 30.º-H;
 
-bb) A mistura de óleos usados de diferentes características ou com outros resíduos ou substâncias, em violação do disposto na alínea f) do n.º 3 do artigo 49.º;
+bb) O incumprimento das obrigações relativas ao valor de depósito nos termos do n.º 2 do artigo 30.º-I;
 
-cc) A inobservância por parte dos operadores de regeneração de óleos usados das obrigações fixadas nos n.os 1 e 2 do artigo 50.º;
+cc) O encaminhamento dos resíduos de embalagens em violação do disposto no n.º 1 do artigo 30.º-K;
 
-dd) A inobservância por parte dos operadores de reciclagem das obrigações relativas ao procedimento de amostragem nos termos do n.º 2 do artigo 50.º;
+dd) A falta de pagamento do valor de manuseamento nos termos do disposto no artigo 30.º-P;
 
-ee) O incumprimento por parte dos operadores de gestão de óleos usados da obrigação de assegurar um sistema de controlo nos termos do disposto no artigo 51.º;
+ee) O incumprimento por parte da EG do SDR das obrigações previstas no artigo 30.º-S;
 
-ff) O incumprimento por parte dos distribuidores e dos comerciantes da obrigação de aceitar pneus usados nos termos fixados no n.º 1 do artigo 53.º;
+ff) O incumprimento, por parte dos embaladores, das obrigações previstas no artigo 30.º-V;
 
-gg) O incumprimento, por parte das entidades que asseguram a preparação para reutilização de pneus usados, das normas técnicas, nos termos do n.º 1 do artigo 54.º;
+gg) O incumprimento por parte dos responsáveis pelos pontos de recolha das obrigações previstas no artigo 30.º-X;
 
-hh) O abandono de pneus usados, nos termos da alínea b) do n.º 4 do artigo 54.º;
+hh) O incumprimento das obrigações relativas à colocação e disponibilização no mercado de embalagens, nos termos do disposto no artigo 30.º-Z;
 
-ii) A deposição em aterro de pneus usados em violação do disposto na alínea c) do n.º 4 do artigo 54.º;
+ii) A inobservância por parte dos produtores detentores de óleos usados das obrigações relativas à armazenagem e integração no circuito de gestão dos óleos usados, nos termos do n.º 2 do artigo 46.º;
 
-jj) O incumprimento por parte dos produtores de EEE da obrigação de aplicação dos requisitos de conceção ecológica, nos termos do n.º 2 do artigo 55.º;
+jj) O incumprimento dos requisitos de armazenagem de óleos usados previstas no artigo 48.º;
 
-kk) O incumprimento, por parte dos fabricantes nacionais, do dever de evidenciar as medidas tomadas de acordo com o previsto no n.º 5 do artigo 55.º e no n.º 2 do artigo 77.º;
+kk) A inobservância por parte dos operadores de tratamento de óleos usados das especificações técnicas e dos procedimentos de amostragem nos termos do n.º 2 do artigo 49.º;
 
-ll) O incumprimento por parte dos produtores de EEE das obrigações de manutenção de registos dos EEE, nos termos do n.º 5 do artigo 57.º;
+ll) A operação de gestão de óleos usados ou de resíduos resultantes dessas operações sem a respetiva autorização, nos termos do disposto na alínea c) do n.º 3 do artigo 49.º;
 
-mm) O incumprimento por parte dos produtores de EEE da obrigação de assegurar a rastreabilidade dos REEE nos termos do n.º 6 do artigo 57.º;
+mm) A gestão de óleos usados suscetível de provocar emissões atmosféricas que ultrapassem os valores limite aplicáveis, nos termos da alínea d) n.º 3 do artigo 49.º;
 
-nn) O transporte de REEE por entidades não autorizadas nos termos do previsto no n.º 1 do artigo 59.º;
+nn) A valorização energética de óleos usados na indústria alimentar em violação do disposto na alínea e) do n.º 3 do artigo 49.º;
 
-oo) A realização de operações de tratamento de REEE sem observância dos requisitos fixados no n.º 2 do artigo 60.º;
+oo) A mistura de óleos usados de diferentes características ou com outros resíduos ou substâncias, em violação do disposto na alínea f) do n.º 3 do artigo 49.º;
 
-pp) A inobservância dos requisitos técnicos exigidos às instalações destinadas à armazenagem e tratamento de REEE nos termos do n.º 2 do artigo 61.º;
+pp) A inobservância por parte dos operadores de regeneração de óleos usados das obrigações fixadas nos n.os 1 e 2 do artigo 50.º;
 
-qq) O incumprimento das alíneas a) a e) e g) do n.º 4 do artigo 61.º;
+qq) A inobservância por parte dos operadores de reciclagem das obrigações relativas ao procedimento de amostragem nos termos do n.º 2 do artigo 50.º;
 
-rr) O incumprimento das obrigações de separação dos REEE pelos centros de receção nos termos do n.º 1 do artigo 62.º;
+rr) O incumprimento por parte dos operadores de gestão de óleos usados da obrigação de assegurar um sistema de controlo nos termos do disposto no artigo 51.º;
 
-ss) O incumprimento do encaminhamento de REEE por parte dos utilizadores particulares nos termos dos n.os 1 e 2 do artigo 65.º;
+ss) O incumprimento por parte dos distribuidores e dos comerciantes da obrigação de aceitar pneus usados nos termos fixados no n.º 1 do artigo 53.º;
 
-tt) O incumprimento da obrigação de encaminhamento de REEE por parte dos utilizadores não particulares nos termos do n.º 1 do artigo 66.º;
+tt) O incumprimento, por parte das entidades que asseguram a preparação para reutilização de pneus usados, das normas técnicas, nos termos do n.º 1 do artigo 54.º;
 
-uu) A colocação no mercado de REEE sem a devida marcação nos termos previstos nos n.os 4 e 5 do artigo 68.º;
+uu) O abandono de pneus usados, nos termos da alínea b) do n.º 4 do artigo 54.º;
 
-vv) O incumprimento pelos produtores da obrigação de informação nos termos dos n.os 1 a 4 do artigo 69.º;
+vv) A deposição em aterro de pneus usados em violação do disposto na alínea c) do n.º 4 do artigo 54.º;
 
-ww) A colocação no mercado de EEE sem marca, nos termos do n.º 5 do artigo 69.º;
+ww) O incumprimento por parte dos produtores de EEE da obrigação de aplicação dos requisitos de conceção ecológica, nos termos do n.º 2 do artigo 55.º;
 
-xx) O incumprimento por parte dos fabricantes de aparelhos que contenham pilhas e acumuladores das obrigações fixadas no n.º 2 do artigo 70.º;
+xx) O incumprimento por parte dos produtores de EEE das obrigações de manutenção de registos dos EEE, nos termos do n.º 5 do artigo 57.º;
 
-yy) A violação por parte dos produtores de pilhas e acumuladores de assegurar a instalação de pontos de recolha seletiva e suportar os custos da operação de recolha nos termos do disposto no n.º 2 do artigo 72.º;
+yy) O incumprimento por parte dos produtores de EEE da obrigação de assegurar a rastreabilidade dos REEE nos termos do n.º 6 do artigo 57.º;
 
-zz) O incumprimento da obrigação de entrega, por parte dos utilizadores finais particulares de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis, nos termos do disposto no n.º 1 do artigo 73.º;
+zz) A realização de operações de tratamento de REEE sem observância dos requisitos fixados no n.º 2 do artigo 60.º;
 
-aaa) O incumprimento por parte dos produtores de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis da obrigação de assegurar a existência de pontos de recolha seletiva e suportar os respetivos custos nos termos do n.º 2 do artigo 73.º;
+aaa) A inobservância dos requisitos técnicos exigidos às instalações destinadas à armazenagem e tratamento de REEE nos termos do n.º 2 do artigo 61.º;
 
-bbb) O incumprimento da obrigação de encaminhamento, por parte dos utilizadores finais não particulares de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis, nos termos do disposto no n.º 1 do artigo 74.º;
+bbb) O incumprimento das alíneas a) a e) e g) do n.º 4 do artigo 61.º;
 
-ccc) O incumprimento por parte dos produtores de pilhas e acumuladores da obrigação de assegurar a recolha e suportar os respetivos custos nos termos do n.º 2 do artigo 74.º;
+ccc) O incumprimento das obrigações de separação dos REEE pelos centros de receção nos termos do n.º 1 do artigo 62.º;
 
-ddd) O incumprimento pelos produtores das obrigações de assegurar o tratamento, reciclagem e ou eliminação de pilhas e acumuladores nos termos do disposto no n.º 1 do artigo 76.º;
+ddd) O incumprimento do encaminhamento de REEE por parte dos utilizadores particulares nos termos dos n.os 1 e 2 do artigo 65.º;
 
-eee) A não observância pelos operadores do disposto no n.º 1 do artigo 76.º nos processos de tratamento e reciclagem;
+eee) O incumprimento da obrigação de encaminhamento de REEE por parte dos utilizadores não particulares nos termos do n.º 1 do artigo 66.º;
 
-fff) A eliminação por deposição em aterro ou por incineração em violação do disposto na alínea b) do n.º 2 do artigo 76.º e a eliminação em aterro ou armazenamento subterrâneo fora das situações admissíveis pelo n.º 3 do artigo 76.º;
+fff) A colocação no mercado de REEE sem a devida marcação nos termos previstos nos n.os 4 e 5 do artigo 68.º;
 
-ggg) O incumprimento pelos operadores de gestão de VFV das obrigações fixadas no n.º 2 do artigo 80.º;
+ggg) O incumprimento pelos produtores da obrigação de informação nos termos dos n.os 1 a 4 do artigo 69.º;
 
-hhh) O incumprimento da obrigação de transferência dos VFV para centros de receção ou para operadores de desmantelamento licenciados, nos termos do n.º 3 do artigo 80.º;
+hhh) A colocação no mercado de EEE sem marca, nos termos do n.º 5 do artigo 69.º;
 
-iii) O incumprimento por parte dos operadores de reparação e manutenção de veículos automóveis da obrigação de encaminhamento dos resíduos nos termos do n.º 1 do artigo 81.º;
+iii) O incumprimento por parte dos fabricantes de aparelhos que contenham pilhas e acumuladores das obrigações fixadas no n.º 2 do artigo 70.º;
 
-jjj) O incumprimento por parte dos proprietários ou detentores de VFV da obrigação de assegurar o seu encaminhamento para centros de receção ou para operadores de desmantelamento licenciados, nos termos do n.º 2 do artigo 81.º e do n.º 1 do artigo 84.º;
+jjj) A violação por parte dos produtores de pilhas e acumuladores de assegurar a instalação de pontos de recolha seletiva e suportar os custos da operação de recolha nos termos do disposto no n.º 2 do artigo 72.º;
 
-kkk) O incumprimento por parte dos produtores de veículos e dos fabricantes de materiais e de equipamentos para veículos das obrigações fixadas nos n.os 1 e 2 do artigo 82.º;
+kkk) O incumprimento da obrigação de entrega, por parte dos utilizadores finais particulares de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis, nos termos do disposto no n.º 1 do artigo 73.º;
 
-lll) O incumprimento por parte dos produtores de veículos das obrigações de rotulagem e informação fixadas nos n.os 1 e 2 do artigo 83.º;
+lll) O incumprimento por parte dos produtores de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis da obrigação de assegurar a existência de pontos de recolha seletiva e suportar os respetivos custos nos termos do n.º 2 do artigo 73.º;
 
-mmm) O incumprimento da obrigação de cancelamento da matrícula nos termos dos n.os 1 e 2 do artigo 85.º;
+mmm) O incumprimento da obrigação de encaminhamento, por parte dos utilizadores finais não particulares de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis, nos termos do disposto no n.º 1 do artigo 74.º;
 
-nnn) A não observância por parte do operador de desmantelamento das obrigações relativas à emissão de certificados de destruição nos termos dos n.os 4, 5, 6 e 8 do artigo 85.º;
+nnn) O incumprimento por parte dos produtores de pilhas e acumuladores da obrigação de assegurar a recolha e suportar os respetivos custos nos termos do n.º 2 do artigo 74.º;
 
-ooo) O incumprimento dos requisitos técnicos mínimos relativos às instalações de armazenagem de VFV nos termos do n.º 1 do artigo 87.º;
+ooo) O incumprimento pelos produtores das obrigações de assegurar o tratamento, reciclagem e ou eliminação de pilhas e acumuladores nos termos do disposto no n.º 1 do artigo 76.º;
 
-ppp) A realização de operações de desmantelamento e armazenagem em violação das obrigações fixadas no n.º 3 do artigo 87.º;
+ppp) A não observância pelos operadores do disposto no n.º 1 do artigo 76.º nos processos de tratamento e reciclagem;
 
-qqq) O incumprimento da obrigação de remoção de materiais e componentes de veículos automóveis fixada no n.º 4 do artigo 87.º;
+qqq) A eliminação por deposição em aterro ou por incineração em violação do disposto na alínea b) do n.º 2 do artigo 76.º e a eliminação em aterro ou armazenamento subterrâneo fora das situações admissíveis pelo n.º 3 do artigo 76.º;
 
-rrr) O incumprimento por parte dos operadores de desmantelamento da realização das operações nos termos dos n.os 5 e 7 do artigo 87.º e da satisfação dos requisitos técnicos nos termos do disposto no n.º 8 do mesmo artigo;
+rrr) O incumprimento pelos operadores de gestão de VFV das obrigações fixadas no n.º 2 do artigo 80.º;
 
-sss) O incumprimento de alguma das proibições referidas nas alíneas a) a e) do n.º 9 do artigo 87.º;
+sss) O incumprimento da obrigação de transferência dos VFV para centros de receção ou para operadores de desmantelamento licenciados, nos termos do n.º 3 do artigo 80.º;
 
-ttt) O incumprimento das proibições referidas nos n.os 1 a 4 do artigo 88.º
+tttt) O incumprimento por parte dos operadores de reparação e manutenção de veículos automóveis da obrigação de encaminhamento dos resíduos nos termos do n.º 1 do artigo 81.º;
+
+uuu) O incumprimento por parte dos proprietários ou detentores de VFV da obrigação de assegurar o seu encaminhamento para centros de receção ou para operadores de desmantelamento licenciados, nos termos do n.º 2 do artigo 81.º e do n.º 1 do artigo 84.º;
+
+vvv) O incumprimento por parte dos produtores de veículos e dos fabricantes de materiais e de equipamentos para veículos das obrigações fixadas nos n.os 1 e 2 do artigo 82.º;
+
+www) O incumprimento por parte dos produtores de veículos das obrigações de rotulagem e informação fixadas nos n.os 1 e 2 do artigo 83.º;
+
+xxx) O incumprimento da obrigação de cancelamento da matrícula nos termos dos n.os 1 e 2 do artigo 85.º;
+
+yyy) A não observância por parte do operador de desmantelamento das obrigações relativas à emissão de certificados de destruição nos termos dos n.os 4, 5, 7 e 9 do artigo 85.º;
+
+zzz) O incumprimento dos requisitos técnicos mínimos relativos às instalações de armazenagem de VFV nos termos do n.º 1 do artigo 87.º;
+
+aaaa) A realização de operações de desmantelamento e armazenagem em violação das obrigações fixadas no n.º 3 do artigo 87.º;
+
+bbbb) O incumprimento da obrigação de remoção de materiais e componentes de veículos automóveis fixada no n.º 4 do artigo 87.º;
+
+cccc) O incumprimento por parte dos operadores de desmantelamento da realização das operações nos termos dos n.os 5 e 7 do artigo 87.º e da satisfação dos requisitos técnicos nos termos do disposto no n.º 8 do mesmo artigo;
+
+dddd) O incumprimento de alguma das proibições referidas nas alíneas a) a d) do n.º 9 do artigo 87.º;
+
+eeee) O incumprimento das proibições referidas nos n.os 1 a 4 do artigo 88.º.
+
+ffff) O incumprimento por parte dos operadores económicos que procedam à publicitação e comercialização de peças ou componentes usados provenientes de VFV da obrigação da disponibilização no ato da venda do documento comprovativo das peças e ou componentes serem originadas de um desmantelador de VFV licenciado e da fatura com discriminação detalhada de todas as peças usadas e ou componentes e respetivo preço, nos termos do disposto no n.º 6 do artigo 81.º;
+
+gggg) O incumprimento por parte dos operadores económicos que procedam à publicitação e comercialização de peças ou componentes usados provenientes de VFV e que procedam a vendas à distância, da obrigação de dispor de modo visível, por peça ou por componente usada, da informação sobre a designação e o número de licença do operador de desmantelamento de VFV, nos termos do n.º 7 do artigo 81.º;
+
+hhhh) Incumprimento, por parte dos operadores de tratamento de resíduos que integram a rede de receção e recolha seletiva de uma entidade gestora do respetivo fluxo, na receção de resíduos de baterias e acumuladores industriais, entregues por particulares, conforme estabelecido nos termos do disposto no n.º 4 do artigo 73.º
 
 3 - Constitui contraordenação ambiental leve, punível nos termos da Lei-Quadro das Contraordenações Ambientais, a prática dos seguintes atos:
 
-a) O incumprimento das obrigações relativas ao sistema de contabilidade de gestão, nos termos do n.º 10 do artigo 11.º;
+a) O incumprimento das obrigações relativas ao sistema de contabilidade de gestão, nos termos do n.º 14 do artigo 11.º;
 
-b) A não observância por parte da entidade gestora da obrigação relativa ao fecho de contas no final da validade da licença, nos termos do n.º 11 do artigo 11.º;
+b) A não observância por parte da entidade gestora da obrigação relativa ao fecho de contas no final da validade da licença, nos termos do n.º 15 do artigo 11.º;
 
-c) O incumprimento da obrigação de discriminação na fatura do valor correspondente à prestação financeira nos termos dos n.os 7 e 8 do artigo 14.º e a discriminação na fatura do valor correspondente à prestação financeira em violação do n.º 10 do artigo 14.º;
+c) O incumprimento da obrigação de discriminação na fatura do valor correspondente à prestação financeira nos termos do n.º 8 do artigo 14.º e a discriminação na fatura do valor correspondente à prestação financeira em violação do n.º 10 do artigo 14.º;
 
-d) O incumprimento da obrigação de publicitação dos valores da prestação financeira pela entidade gestora, nos termos do n.º 8 do artigo 15.º;
+d) O incumprimento da obrigação de publicitação dos valores da prestação financeira pela entidade gestora, nos termos do disposto no n.º 11 do artigo 15.º;
 
-e) A violação de obrigação de comunicação à APA, I. P., e à DGAE, por parte da entidade gestora, da atualização dos valores da prestação financeira, nos termos do n.º 9 do artigo 15.º;
+e) (Revogada.)
 
-f) O incumprimento da obrigação de reporte periódico de dados e de manutenção de registos cronológicos por parte dos intervenientes na recolha de REEE, nos termos das alíneas c) e d) do n.º 6 do artigo 19.º;
+f) O incumprimento da obrigação de reporte periódico de dados e de manutenção de registos cronológicos por parte dos intervenientes na recolha de REEE, nos termos das alíneas c) e d) do n.º 7 do artigo 19.º;
 
-g) O incumprimento da obrigação de reporte da informação, por parte dos fabricantes e importadores de veículos, em violação do n.º 8 do artigo 19.º;
+g) O incumprimento da obrigação de reporte da informação, por parte dos fabricantes e importadores de veículos, em violação do disposto no n.º 9 do artigo 19.º;
 
-h) O não cumprimento da obrigação de comunicação à APA, I. P., das alterações do registo e do cancelamento do mesmo, nos termos do n.º 9 do artigo 19.º;
+h) O incumprimento da obrigação de comunicação das alterações do registo ou do respetivo cancelamento, nos termos do disposto n.º 10 do artigo 19.º;
 
-i) (Revogada.)
+i) A nomeação de representante autorizado sem observância dos requisitos estabelecidos nos n.os 4 e 5 do artigo 20.º;
 
 j) O incumprimento da obrigação de comunicação à APA, I. P., nos termos do n.º 6 do artigo 20.º;
 
@@ -200,35 +228,41 @@ k) O incumprimento da obrigação de fornecer informação nos termos da alínea
 
 l) O incumprimento de alguma das obrigações associadas ao valor de depósito previstas no n.º 4 do artigo 23.º;
 
-m) O não encaminhamento de REEE classificados como perigosos de acordo com o disposto no artigo 55.º-A;
+m) O incumprimento da obrigação de informação, nos termos do disposto no n.º 11 do artigo 23.º;
 
-n) O incumprimento por parte das entidades que desenvolvam ações ou campanhas de recolha de REEE da obrigação de solicitar autorização prévia à APA, I. P., nos termos dos n.os 2 e 3 do artigo 59.º;
+n) O não encaminhamento de REEE classificados como perigosos de acordo com o disposto no artigo 55.º-A;
 
-o) O incumprimento pelos operadores de tratamento que rececionam REEE da obrigação de adesão a um sistema integrado ou de designação por um sistema individual, nos termos do disposto no n.º 5 do artigo 61.º;
+o) O incumprimento, por parte das entidades gestoras, da apresentação de estudo de viabilidade, nos termos do disposto no n.º 6 do artigo 58.º;
 
-p) O incumprimento da obrigação de comunicação à APA, I. P., em violação do disposto no n.º 4 do artigo 62.º;
+p) O incumprimento por parte das entidades que desenvolvam ações ou campanhas de recolha de REEE da obrigação de solicitar autorização prévia à APA, I. P., nos termos dos n.os 2 e 3 do artigo 59.º;
 
-q) O incumprimento da obrigação de comunicação à APA, I. P., nos termos do n.º 4 do artigo 65.º;
+q) O incumprimento pelos operadores de tratamento que rececionam REEE da obrigação de adesão a um sistema integrado ou de designação por um sistema individual, nos termos do disposto no n.º 5 do artigo 61.º;
 
-r) O incumprimento pelos produtores da obrigação de informação aos utilizadores particulares nos termos do n.º 1 do artigo 68.º;
+r) O incumprimento da obrigação de comunicação à APA, I. P., em violação do disposto no n.º 4 do artigo 62.º;
 
-s) O incumprimento por parte dos SGRU da obrigação de contribuir para a sensibilização e informação dos utilizadores finais, nos termos do n.º 2 do artigo 68.º;
+s) O incumprimento da obrigação de comunicação à APA, I. P., nos termos do n.º 4 do artigo 65.º;
 
-t) O incumprimento, por parte dos distribuidores, comerciantes e SGRU, das obrigações relativas ao registo das ações de informação e sensibilização desenvolvidas, nos termos do n.º 3 do artigo 68.º;
+t) O incumprimento pelos produtores da obrigação de informação aos utilizadores particulares nos termos do n.º 1 do artigo 68.º;
 
-u) O não encaminhamento de resíduos de pilhas e acumuladores classificados como perigosos de acordo com o disposto no artigo 70.º-A;
+u) O incumprimento por parte dos SGRU da obrigação de contribuir para a sensibilização e informação dos utilizadores finais, nos termos do n.º 2 do artigo 68.º;
 
-v) O incumprimento das obrigações relativas ao acondicionamento e armazenagem fixados no n.º 3 do artigo 73.º;
+v) O incumprimento, por parte dos distribuidores, comerciantes e SGRU, das obrigações relativas ao registo das ações de informação e sensibilização desenvolvidas, nos termos do n.º 3 do artigo 68.º;
 
-w) O incumprimento das obrigações relativas ao acondicionamento e armazenagem fixados no n.º 3 do artigo 74.º;
+w) O não encaminhamento de resíduos de pilhas e acumuladores classificados como perigosos de acordo com o disposto no artigo 70.º-A;
 
-x) O incumprimento pelos produtores das obrigações de rotulagem nos termos do disposto no artigo 75.º;
+x) O incumprimento por parte das entidades gestoras da apresentação do estudo de viabilidade nos termos do disposto no n.º 4 do artigo 72.º;
 
-y) O incumprimento da obrigação de inclusão da informação prevista no n.º 2 do artigo 79.º;
+y) O incumprimento das obrigações relativas ao acondicionamento e armazenagem fixados no n.º 3 do artigo 73.º;
 
-z) O incumprimento por parte dos operadores de tratamento das obrigações de informação fixadas no n.º 3 do artigo 83.º;
+z) O incumprimento das obrigações relativas ao acondicionamento e armazenagem fixados no n.º 3 do artigo 74.º;
 
-aa) O incumprimento por parte dos produtores de veículos das obrigações de informação previstas no n.º 4 do artigo 83.º
+aa) O incumprimento pelos produtores das obrigações de rotulagem nos termos do disposto no artigo 75.º;
+
+bb) O incumprimento da obrigação de inclusão da informação prevista no n.º 2 do artigo 79.º;
+
+cc) O incumprimento por parte dos operadores de tratamento das obrigações de informação fixadas no n.º 3 do artigo 83.º;
+
+dd) O incumprimento por parte dos produtores de veículos das obrigações de informação previstas no n.º 4 do artigo 83.º
 
 4 - A negligência é punível nos termos do disposto na Lei-Quadro das Contraordenações Ambientais.
 
@@ -236,4 +270,4 @@ aa) O incumprimento por parte dos produtores de veículos das obrigações de in
 
 6 - A condenação pela prática das infrações muito graves e graves previstas nos n.os 1 e 2 pode ser objeto de publicidade quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável, nos termos do disposto na Lei-Quadro das Contraordenações Ambientais.
 
-7 - A condenação pela prática da infração prevista na alínea p) do n.º 2, relativa ao incumprimento do n.º 8 do artigo 18.º, pode, em função da culpa do agente, implicar a cassação da licença da entidade gestora.
+7 - A condenação pela prática da infração prevista na alínea p) do n.º 2, relativa ao incumprimento dos n.os 10 e 12 do artigo 18.º, pode, em função da culpa do agente, implicar a cassação da licença da entidade gestora.

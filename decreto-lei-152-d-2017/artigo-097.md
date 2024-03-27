@@ -2,7 +2,7 @@
 
 ### Dever de colaboração e apresentação de documentação
 
-1 - A APA, I. P., a DGAE e as entidades fiscalizadoras devem cooperar entre si de modo a assegurarem a aplicação do presente decreto-lei, nomeadamente através da cooperação técnica e da troca de informações.
+1 - A APA, I. P., a DGAE, a ERSAR e as entidades fiscalizadoras devem cooperar entre si de modo a assegurarem a aplicação do presente decreto-lei, nomeadamente através da cooperação técnica e da troca de informações.
 
 2 - A colaboração prevista no número anterior visa assegurar o controlo integrado e a monitorização das atividades desenvolvidas no âmbito do presente decreto-lei, alargando-se o dever de colaboração às demais entidades públicas intervenientes, designadamente aos organismos competentes das regiões autónomas.
 

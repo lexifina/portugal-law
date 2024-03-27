@@ -30,8 +30,8 @@ b) A introdução de resíduos nos VFV antes da sua sujeição às operações d
 
 c) A aceitação de VFV para efeitos de fragmentação que não tenham sido previamente sujeitos às operações descritas no n.º 2.1 e no n.º 2.2 do anexo xix;
 
-d) A fragmentação de VFV e seus componentes em equipamentos que não garantam uma adequada separação dos materiais metálicos e não metálicos, a partir de 1 de janeiro de 2018;
+d) A fragmentação de VFV e seus componentes em equipamentos que não garantam uma adequada separação dos materiais metálicos e não metálicos;
 
-e) A comercialização de peças usadas integradas em VFV para reutilização que não sejam provenientes de operadores de desmantelamento licenciados e não sejam acompanhadas de informação sobre o número da licença do operador de desmantelamento de proveniência, incluindo quando é usada uma técnica de comunicação à distância;
+e) A publicitação para venda ou a comercialização de peças e ou componentes usados que sejam procedentes de VFV, para reutilização, que não sejam provenientes de operadores de desmantelamento licenciados e não sejam acompanhadas de informação sobre o número da licença do operador de desmantelamento de proveniência, incluindo quando é usada uma técnica de comunicação à distância;
 
-f) A receção de VFV por operadores de gestão de resíduos que não atuem ao abrigo de um contrato com os respetivos sistemas individuais ou integrados de gestão previstos no n.º 1 do artigo 7.º
+f) A receção de VFV, classificados como perigosos, por operadores de tratamento de resíduos que não atuem ao abrigo de um contrato celebrado com os respetivos sistemas individuais ou integrados de gestão previstos no n.º 1 do artigo 7.º

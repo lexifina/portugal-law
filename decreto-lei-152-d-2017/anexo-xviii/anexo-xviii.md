@@ -1,8 +1,8 @@
 # Anexo XVIII
 
-### (a que se referem os n.os 5 e 9 do artigo 85.º)
+### Certificado de destruição de VFV
 
-Certificado de destruição de VFV
+(a que se referem os n.os 5 e 10 do artigo 85.º)
 
 1 - Entidade que emite o certificado de destruição:
 

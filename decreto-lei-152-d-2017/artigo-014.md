@@ -14,12 +14,12 @@
 
 6 - A não apresentação da declaração prevista no número anterior determina, quando aplicável, a obrigatoriedade de liquidação dos valores de prestação financeira em causa.
 
-7 - Sem prejuízo do disposto nos n.os 9 e 10, os produtores e distribuidores discriminam ao longo da cadeia, nas transações entre operadores económicos, num item específico a consagrar na respetiva fatura, o valor correspondente à prestação financeira fixada a favor da entidade gestora
+7 - (Revogado.)
 
-8 - No caso específico do fluxo de pneus e pneus usados, a obrigação prevista no número anterior aplica-se também nas transações com o consumidor final.
+8 - Os produtores e distribuidores discriminam ao longo da cadeia de valor dos pneus, nas transações entre operadores económicos e nas transações com o consumidor final, num item específico a consagrar na respetiva fatura, o valor correspondente à prestação financeira fixado a favor da entidade gestora.
 
-9 - O disposto no n.º 7 não é aplicável no caso específico do fluxo de embalagens e resíduos de embalagens.
+9 - (Revogado.)
 
-10 - No caso específico do fluxo de pilhas portáteis, os produtores e distribuidores não podem discriminar na fatura, ao longo da cadeia até ao consumidor final, o valor correspondente à prestação financeira fixada a favor da entidade gestora.
+10 - No caso específico do fluxo de pilhas portáteis, os produtores e os distribuidores não devem discriminar na fatura o valor correspondente à prestação financeira fixada a favor da entidade gestora, ao longo da cadeia entre operadores económicos e nas transações com o consumidor final.
 
 11 - Os produtores de óleos podem ser dispensados do pagamento da prestação financeira, através de despacho dos membros do Governo responsáveis pelas áreas da economia e do ambiente, quando esses óleos sejam totalmente consumidos nos processos a que se destinam.

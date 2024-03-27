@@ -30,18 +30,18 @@ d) Ser claramente identificado na embalagem e ou no suporte utilizado para a ind
 
 10 - A responsabilidade prevista no n.º 8 extingue-se de acordo com o previsto no n.º 6 do artigo 9.º do RGGR, mediante declaração de assunção de responsabilidade pela entidade a quem os resíduos de embalagens forem entregues.
 
-11 - Os embaladores que estabeleçam sistemas de reutilização devem informar a APA, I. P., sobre as condições de funcionamento do mesmo, preenchendo o formulário disponibilizado para o efeito, no prazo de 30 dias antes da entrada em funcionamento do sistema e, posteriormente, sempre que se verifiquem alterações das respetivas condições no prazo de 30 dias antes da sua ocorrência.
+11 - Os embaladores que estabeleçam sistemas de reutilização devem informar a APA, I. P., a DGAE, e, no caso do fluxo específico de embalagens e resíduos de embalagens, a ERSAR sobre as condições de funcionamento dos mesmos, preenchendo anualmente o formulário disponibilizado pela APA, I. P., no seu sítio na Internet, até ao dia 30 de abril do ano seguinte ao qual a informação diz respeito.
 
-12 - No caso de sistemas de reutilização que já se encontrem em funcionamento aquando da disponibilização do formulário, o mesmo deve ser preenchido no prazo de 60 dias após a referida disponibilização.
+12 - (Revogado.)
 
-13 - Os sistemas de reutilização devem evoluir no sentido de assegurar a retoma de todas as embalagens colocadas no mercado, podendo ficar sujeitos a mecanismos de compensação a definir pelo presidente da CAGER, com vista a compensar os sistemas de gestão de embalagens e resíduos de embalagens que assumam a responsabilidade pela gestão de resíduos com origem no sistema de reutilização.
+13 - Os sistemas de reutilização devem assegurar a retoma de todas as embalagens colocadas no mercado, podendo ficar sujeitos a mecanismos de compensação a definir pela ERSAR, com vista a compensar os sistemas de gestão de embalagens e resíduos de embalagens que assumam a responsabilidade pela gestão de resíduos com origem no sistema de reutilização.
 
 14 - Os embaladores que estabeleçam sistemas de reutilização estão obrigados a comunicar à APA, I. P., através do SIRER, a quantidade de embalagens reutilizáveis colocadas pela primeira vez no mercado por ano e o número de rotações que as embalagens efetuam por ano, bem como a quantidade de embalagens retomadas para reutilização face à quantidade de embalagens colocadas no mercado, sendo que estas informações devem ser desagregadas por categoria de embalagem e por material.
 
-15 - A APA, I. P., pode promover ou determinar a realização de auditorias com o objetivo de verificar a qualidade e a veracidade das informações transmitidas nos termos do número anterior.
+15 - A APA, I. P., pode promover ou determinar a realização de auditorias, em articulação com a ERSAR, no caso do fluxo específico de embalagens e resíduos de embalagens, com o objetivo de verificar a qualidade e a veracidade das informações transmitidas nos termos do número anterior.
 
 16 - Em linha com as melhores práticas a nível internacional e no sentido de melhorar o desempenho ambiental dos sistemas de reutilização de embalagens, os produtores de um mesmo setor devem privilegiar embalagens normalizadas.
 
-17 - Até 2030, 30 % das embalagens colocadas anualmente no mercado, independentemente do material em que são produzidas, são reutilizáveis.
+17 - (Revogado.)
 
-18 - O Governo regulamenta a estatuição prevista no número anterior, até 2025, garantindo a sua aplicação às empresas a partir de um determinado número de embalagens colocadas no mercado e com escalões crescentes para a sua aplicação.
+18 - (Revogado.)
