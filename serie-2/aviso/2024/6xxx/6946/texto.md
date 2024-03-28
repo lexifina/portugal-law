@@ -1,0 +1,8 @@
+Aviso n.º 6946/2024/2
+
+Consulta pública do projeto do Regulamento de Taxas, Licenças e Outras Receitas da União das Freguesias de Tornada e Salir do Porto
+João Filipe Pereira Lourenço, Presidente da União das Freguesias de Tornada e Salir do Porto, nos termos do disposto no n.º 1 do artigo 56.º do RJAL, aprovado no anexo I da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, em conjugação com o disposto no artigo 101.º do CPA, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 07 de janeiro, na sua redação atual, torna público o Projeto de Alteração ao Regulamento e Tabela de Taxas e Licenças, aprovado pela Junta de Freguesia em reunião de 28/03/2024, ao abrigo do disposto na alínea h) do n.º 1 do artigo 16.º do RJAL, o qual é submetido a consulta pública para recolha de sugestões, durante o prazo de 30 (trinta) dias a contar da data da publicação do presente Edital.
+Durante este período poderão os/as interessados/as consultar o mencionado projeto de Regulamento, através da página eletrónica da Junta de Freguesia (https://www.tornadaesalirdoporto.pt) onde estará disponível.
+Durante o período de consulta pública, os interessados deverão apresentar as suas sugestões, ou questões que possam ser consideradas relevantes no âmbito do presente procedimento, por escrito, de forma fundamentada e dirigidas ao Senhor Presidente da União das Freguesias, através de correio postal para o endereço Largo do Rossio, n.º 7 A, 2500-315 Tornada, ou através de correio eletrónico para junta@tornadaesalirdoporto.pt, no prazo acima indicado.
+8 de março de 2024. - O Presidente da União das Freguesias de Tornada e Salir do Porto, João Filipe Pereira Lourenço.
+317458339
