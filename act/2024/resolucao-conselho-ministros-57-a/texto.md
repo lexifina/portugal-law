@@ -1,0 +1,20 @@
+Resolução do Conselho de Ministros n.º 57-A/2024
+
+O Fundo Ambiental, criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, tem por finalidade apoiar políticas ambientais para a prossecução dos objetivos do desenvolvimento sustentável, contribuindo para o cumprimento de compromissos nacionais e internacionais, financiando entidades, atividades ou projetos que cumpram os objetivos enunciados no artigo 3.º do referido decreto-lei.
+Através da Resolução da Assembleia da República n.º 129/2018, de 21 de maio, foi recomendado ao Governo que, dando cumprimento à Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, designadamente quanto ao princípio da solidariedade nacional, previsto no n.º 6 do artigo 8.º da referida lei, tomasse medidas para a reposição da situação anterior à prática dos danos ambientais causados na ilha Terceira, em consequência do uso pelos Estados Unidos da América (EUA) de infraestruturas militares na Base das Lajes.
+De forma a concretizar essa recomendação, o Governo assegura a efetiva descontaminação, recuperação e regeneração das áreas, solos e aquíferos contaminados no concelho da Praia da Vitória, tendo em conta a sua consideração como interesse nacional, garantindo o financiamento das respetivas medidas através do Orçamento do Estado. O projeto enquadra-se nos compromissos do Governo da República com a ilha Terceira. Trata-se de um território e população, particularmente afetados pela contaminação de solos e respetivas consequências, necessitando por isso de investimento em infraestruturas físicas, que permitirão a construção de uma nova rede de abastecimento público de água à população do concelho de Praia da Vitória e consequente encerramento dos furos do Pico Celeiro, Areeiro e Barreiro.
+A Lei n.º 82/2023, de 29 de dezembro, prevê, na alínea b) do n.º 2 do artigo 50.º, com a epígrafe "Descontaminação na ilha Terceira", que o Governo fica autorizado a aplicar verbas inscritas no Fundo Ambiental para o projeto de execução do reforço do subsistema de abastecimento de água de Agualva/Praia da Vitória.
+Para a execução das transferências de verbas do Fundo Ambiental para o município da Praia da Vitória ou para a empresa municipal Praia Ambiente, E. M., torna-se necessário estabelecer um Protocolo de Colaboração Financeira, nos termos da alínea i) do n.º 2 do artigo 10.º-A do Decreto-Lei n.º 42-A/2016, de 12 de agosto.
+Pela dimensão do projeto, estima-se que o mesmo tenha uma duração de 36 meses, com encargos financeiros previstos entre 2024 e 2026, num montante de apoio máximo global de € 5 310 000, valor ao qual não acresce o imposto de valor acrescentado por se tratar de um apoio financeiro.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o Fundo Ambiental a realizar a despesa com o projeto de execução do reforço do subsistema de abastecimento de água de Agualva/Praia da Vitória, no período de 2024 a 2026, no montante global de € 5 310 000, valor ao qual não acresce o imposto de valor acrescentado por se tratar de um apoio financeiro.
+2 - Estabelecer que os encargos decorrentes do disposto no número anterior não podem exceder, em cada ano económico, os seguintes montantes:
+a) 2024 - € 1 593 000;
+b) 2025 - € 3 186 000;
+c) 2026 - € 531 000.
+3 - Estabelecer que a importância fixada para os anos de 2025 e 2026 pode ser acrescida do saldo que se apurar na execução orçamental dos anos anteriores.
+4 - Determinar que os encargos resultantes da presente resolução são satisfeitos por verbas adequadas inscritas ou a inscrever nos orçamentos do Fundo Ambiental.
+5 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 14 de março de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+117532064
