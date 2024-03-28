@@ -1,0 +1,8 @@
+Edital n.º 426/2024
+
+Serafim Dias Leal, Presidente da Junta de Freguesia da Freguesia de Meixomil, torna público, conforme deliberação tomada em reunião ordinária do Executivo, realizada em 27 de janeiro de 2024, nos termos da alínea h), do n.º 1, do artigo 16.º do Anexo I, da Lei n.º 75/2013, de 12 setembro e da alínea f) do n.º 1 do artigo 18.º, do referido diploma, conjugado com o artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que é submetido a consulta pública, o Projeto de Regulamento de Atribuição de Apoios a Estudantes Universitários que frequentem o Ensino Superior pela 1.ª Vez, da Freguesia de Meixomil, durante o prazo de 30 dias a contar da publicitação deste edital no Diário da República.
+Durante este período poderão os/as interessados/as consultar o mencionado projeto de Regulamento, através da página eletrónica da Freguesia (https://www.meixomil.pt) onde estará disponível.
+Qualquer interessado poderá apresentar, durante o período da consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do procedimento, conforme disposto no n.º 2 do artigo 101.º do CPA dirigido ao Senhor Presidente da Junta de Freguesia, via correio normal (Rua das Queimadas 97, 4595-263 Meixomil) ou via correio eletrónico (secretaria@meixomil.pt).
+E, para que conste, mandei publicar este Edital no Diário da República e outros de igual teor, que serão publicitados na Internet, no sítio institucional da Freguesia de Meixomil e nos lugares de estilo.
+11 de março de 2024. - O Presidente da Junta de Freguesia da Freguesia de Meixomil, Serafim Dias Leal.
+317463985
