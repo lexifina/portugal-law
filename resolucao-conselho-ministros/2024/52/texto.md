@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 52/2024
+
+A proteção da saúde constitui um direito dos indivíduos e da comunidade, cabendo ao Estado promover e garantir o acesso de todos os cidadãos aos cuidados de saúde nos limites dos recursos disponíveis.
+As estruturas existentes, no domínio da ortopedia, na região de Lisboa e Vale do Tejo têm sido insuficientes para responder às necessidades de saúde das populações, originando, também por isso, listas de espera naquela especialidade e, particularmente, em determinadas áreas de intervenção.
+A Santa Casa da Misericórdia de Lisboa (SCML) participa há longos anos, ativa e responsavelmente, designadamente através das suas unidades especializadas, na prestação de cuidados aos utentes do Serviço Nacional de Saúde (SNS).
+A participação da SCML assume especial expressão e excelência no domínio da ortopedia e da reabilitação pós-cirúrgica, quer a nível da atividade programada quer pela longa tradição de colaboração, desde há mais de 20 anos na prestação de serviço em urgência.
+O Hospital Ortopédico de Sant’Ana (HOSA), unidade hospitalar integrada na SCML, está vocacionado para a prevenção, tratamento e reabilitação na área da ortopedia, apresentando um histórico de capacidade instalada no que diz respeito à prestação de cuidados de saúde nessa área, que a torna um valioso parceiro do Ministério da Saúde. Neste enquadramento assume, desde há longos anos, papel crucial no auxílio ao cumprimento da função fundamental do Estado de proteção do direito à saúde.
+Na estrita medida das necessidades identificadas na região de Lisboa e Vale do Tejo e para as quais o SNS não oferece resposta em tempo adequado, a capacidade instalada no HOSA apresenta-se como um recurso muito relevante para garantir a complementaridade necessária ao setor público.
+A contratualização da prestação de cuidados de saúde com o HOSA contribui assim para assegurar a prestação de cuidados de saúde ajustados às necessidades da população e para a obtenção de ganhos em saúde na área da ortopedia, avaliação corroborada pela Direção Executiva do Serviço Nacional de Saúde, I. P.
+Face ao exposto, torna-se necessário autorizar a realização da despesa inerente ao acordo a celebrar entre a Administração Central do Sistema de Saúde, I. P., e a SCML, para a prestação de cuidados de saúde no HOSA.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2021, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), a realizar a despesa relativa à celebração de acordo com a Santa Casa da Misericórdia de Lisboa para a prestação de cuidados de saúde especializados de ortopedia, pelo Hospital Ortopédico de Sant’Ana, para o ano de 2024, no montante máximo de 4 999 289,74 EUR, isento do imposto sobre valor acrescentado.
+2 - Estabelecer que os encargos decorrentes da presente resolução são satisfeitos por verbas adequadas inscritas no orçamento da ACSS, I. P.
+3 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da saúde, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+4 - Determinar que a presente resolução produz efeitos a 1 de janeiro de 2024.
+Presidência do Conselho de Ministros, 21 de março de 2024. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+117522499
