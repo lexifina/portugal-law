@@ -22,6 +22,8 @@ g) Prestar toda a colaboração e informação solicitada pelo órgão de gestã
 
 h) Pronunciar-se sobre qualquer assunto da sua competência que lhe seja submetido pelo órgão de gestão.
 
+i) Remeter anualmente o respetivo relatório de atividades ao conselho de supervisão, previsto nos artigos 34.º-A e 34.º-B do Estatuto da Ordem dos Solicitadores e dos Agentes de Execução, aprovado em anexo à Lei n.º 154/2015, de 14 de setembro.
+
 3 - A comissão de disciplina exerce as suas competências de forma independente.
 
 4 - Compete às equipas referidas no n.º 5 do artigo anterior instruir os processos disciplinares ou contraordenacionais dos auxiliares da justiça e propor as respetivas sanções disciplinares, coimas ou sanções acessórias, propor a destituição dos agentes de execução nos processos para os quais tenham sido designados, bem como propor a aplicação de medidas cautelares que se mostrem necessárias ao bom funcionamento da atividade dos auxiliares da justiça sujeitos ao acompanhamento, fiscalização e disciplina da CAAJ.

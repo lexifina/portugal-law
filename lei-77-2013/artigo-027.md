@@ -22,7 +22,7 @@ c) Por renúncia;
 
 d) Por demissão, deliberada pelo órgão de gestão, em caso de violação dos deveres inerentes ao exercício das suas funções.
 
-5 - A organização e funcionamento da comissão de disciplina assegura a constituição de equipas, em número a definir pelo órgão de gestão, nos termos do regulamento interno previsto no artigo 16.º, integradas por três colaboradores, devendo um deles dispor de experiência profissional como auxiliar da justiça, na área da pessoa visada no processo.
+5 - A organização e funcionamento da comissão de disciplina assegura a constituição de equipas, em número a definir pelo órgão de gestão, nos termos do regulamento interno previsto no artigo 16.º, integradas por três colaboradores, devendo um deles ser uma personalidade de reconhecido mérito, com conhecimentos e experiência relevantes para a atividade dos agentes de execução e que não seja membro da Ordem dos Solicitadores e dos Agentes de Execução.
 
 6 - Os membros da comissão de disciplina são selecionados pelo órgão de gestão, nos termos do regulamento interno previsto no artigo 16.º, de entre pessoas com reconhecida idoneidade, independência e experiência em matéria disciplinar ou contraordenacional, devendo exercer as suas funções com total independência face aos restantes órgãos da CAAJ.
 
