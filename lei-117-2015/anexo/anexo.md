@@ -1,0 +1,5 @@
+# Anexo
+
+### Regras disciplinares
+
+(a que se referem o n.º 2 do artigo 63.º e o n.º 2 do artigo 68.º do Estatuto)
