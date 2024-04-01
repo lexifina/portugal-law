@@ -1,0 +1,9 @@
+# Artigo 212.º
+
+### Outros prestadores de serviços de advocacia
+
+1 - As empresas que se estabeleçam em território nacional para a prestação de serviços de advocacia através dos seus sócios, administradores, gerentes, empregados ou subcontratados que não se constituam sob a forma de sociedades de advogados nem se pretendam inscrever na Ordem dos Advogados nos termos do artigo anterior, carecem de registo na Ordem dos Advogados.
+
+2 - A violação do disposto no número anterior constitui contraordenação, punível com coima de (euro) 2 500 a (euro) 25 000, nos termos do regime geral das contraordenações.
+
+3 - (Revogado.)

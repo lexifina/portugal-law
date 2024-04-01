@@ -1,0 +1,9 @@
+# Artigo 145.º
+
+### Tramitação do processo
+
+1 - Na instrução do processo deve o relator procurar atingir a verdade material, removendo todos os obstáculos ao seu regular e rápido andamento e recusando, fundamentadamente, tudo o que for impertinente, inútil ou dilatório.
+
+2 - A forma dos atos, quando não esteja expressamente regulada, deve ajustar-se ao fim em vista e limitar-se ao indispensável para o alcançar.
+
+3 - As notificações no âmbito do processo são feitas preferencialmente por correio eletrónico, sendo enviadas para o endereço eletrónico registado na Ordem dos Advogados, no caso dos advogados inscritos, e para os endereços eletrónicos que tenham indicado nos respetivos processos, no caso dos restantes intervenientes processuais.
