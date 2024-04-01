@@ -28,6 +28,6 @@ g) Os indivíduos nascidos no território português e que não possuam outra na
 
 2 - Presumem-se nascidos no território português, salvo prova em contrário, os recém-nascidos que aqui tenham sido expostos.
 
-3 - A existência de laços de efetiva ligação à comunidade nacional, para os efeitos estabelecidos na alínea d) do n.º 1, verifica-se pelo conhecimento suficiente da língua portuguesa e depende da não condenação a pena de prisão igual ou superior a 3 anos, com trânsito em julgado da sentença, por crime punível segundo a lei portuguesa, e da não existência de perigo ou ameaça para a segurança ou a defesa nacional, pelo envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei.
+3 - A existência de laços de efetiva ligação à comunidade nacional, para os efeitos estabelecidos na alínea d) do n.º 1, verifica-se pelo conhecimento suficiente da língua portuguesa e depende da não condenação a pena de prisão igual ou superior a 3 anos, com trânsito em julgado da sentença, por crime punível segundo a lei portuguesa, e da não existência de perigo ou ameaça para a segurança ou a defesa nacional, nomeadamente pelo envolvimento em atividades relacionadas com a prática de terrorismo, criminalidade violenta, especialmente violenta ou altamente organizada.
 
 4 - A prova da residência legal referida na alínea f) do n.º 1 faz-se mediante a exibição do competente documento de identificação do pai ou da mãe no momento do registo.

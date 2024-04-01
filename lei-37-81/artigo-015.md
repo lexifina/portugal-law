@@ -8,4 +8,6 @@
 
 3 - Para os efeitos de contagem de prazos de residência legal previstos na presente lei, considera-se a soma de todos os períodos de residência legal em território nacional, seguidos ou interpolados, desde que os mesmos tenham decorrido num intervalo máximo de 15 anos.
 
-4 - Consideram-se igualmente como residindo legalmente no território português as crianças e jovens filhos de estrangeiros e acolhidos em instituição pública, cooperativa, social ou privada com acordo de cooperação com o Estado, na sequência de um processo de promoção e proteção.
+4 - Para os efeitos de contagem de prazos de residência legal previstos na presente lei, considera-se igualmente o tempo decorrido desde o momento em que foi requerida a autorização de residência temporária, desde que a mesma venha a ser deferida.
+
+5 - Consideram-se igualmente como residindo legalmente no território português as crianças e jovens filhos de estrangeiros e acolhidos em instituição pública, cooperativa, social ou privada com acordo de cooperação com o Estado, na sequência de um processo de promoção e proteção.

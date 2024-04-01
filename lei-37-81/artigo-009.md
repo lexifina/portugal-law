@@ -14,7 +14,7 @@ b) A condenação, com trânsito em julgado da sentença, com pena de prisão ig
 
 c) O exercício de funções públicas sem carácter predominantemente técnico ou a prestação de serviço militar não obrigatório a Estado estrangeiro.
 
-d) A existência de perigo ou ameaça para a segurança ou a defesa nacional, pelo seu envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei.
+d) A existência de perigo ou ameaça para a segurança ou a defesa nacional, nomeadamente pelo envolvimento em atividades relacionadas com a prática de terrorismo, criminalidade violenta, especialmente violenta ou altamente organizada.
 
 2 - A oposição à aquisição de nacionalidade com fundamento na alínea a) do número anterior não se aplica às situações de aquisição de nacionalidade em caso de casamento ou união de facto quando existam filhos comuns do casal com nacionalidade portuguesa.
 
