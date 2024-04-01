@@ -18,6 +18,8 @@ c) A aprovação de projetos de alteração do presente Estatuto;
 
 d) A aprovação dos regulamentos previstos no presente Estatuto;
 
-e) A aprovação de quotas e taxas;
+e) A aprovação de quotas e taxas, com exceção das taxas referentes às condições de acesso à inscrição na Ordem dos Advogados;
 
-f) Matérias da competência do bastonário ou do conselho geral, que lhes sejam submetidas, para decisão, pelo respetivo órgão competente.
+f) Matérias da competência do bastonário, do conselho geral ou do conselho de supervisão, que lhes sejam submetidas, para decisão, pelo respetivo órgão competente;
+
+g) A aprovação do regulamento sobre títulos de especialista.

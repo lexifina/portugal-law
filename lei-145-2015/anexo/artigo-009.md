@@ -26,7 +26,13 @@ e) O conselho superior;
 
 f) O conselho geral;
 
-g) O conselho fiscal.
+g) O conselho de supervisão;
+
+h) O conselho fiscal;
+
+i) O provedor dos destinatários dos serviços;
+
+j) Os colégios de especialidade, quando existam.
 
 3 - São órgãos regionais e locais da Ordem dos Advogados:
 
@@ -50,12 +56,16 @@ a) O bastonário;
 
 b) O presidente do conselho superior;
 
-c) O presidente do conselho fiscal;
+c) O presidente do conselho de supervisão;
 
-d) Os membros do conselho superior, do conselho geral e do conselho fiscal;
+d) O presidente do conselho fiscal;
 
-e) Os presidentes dos conselhos regionais e dos conselhos de deontologia;
+e) O provedor dos destinatários dos serviços;
 
-f) Os membros dos conselhos regionais e dos conselhos de deontologia;
+f) Os membros do conselho superior, do conselho geral, do conselho de supervisão e do conselho fiscal;
 
-g) Os presidentes das delegações e os delegados.
+g) Os presidentes dos conselhos regionais e dos conselhos de deontologia;
+
+h) Os membros dos conselhos regionais e dos conselhos de deontologia;
+
+i) Os presidentes das delegações e os delegados.

@@ -1,4 +1,4 @@
-## Secção XI
+## Secção XII
 
 ## Presidentes dos conselhos regionais
 
@@ -28,7 +28,7 @@ i) Assistir, querendo, às reuniões das assembleias locais e das delegações, 
 
 j) Resolver conflitos de competência entre delegações da respetiva região;
 
-k) Prorrogar o período de estágio dos advogados estagiários, nos termos previstos no presente Estatuto;
+k) (Revogada.)
 
 l) Autorizar a revelação de factos abrangidos pelo dever de guardar sigilo profissional, quando tal lhe seja requerido, nos termos previstos no presente Estatuto;
 
@@ -38,8 +38,12 @@ n) Conceder a autorização a que se reporta o n.º 2 do artigo 93.º;
 
 o) Em caso de urgência e de manifesta impossibilidade de reunir, exercer a competência atribuída ao conselho regional, devendo dar conhecimento do facto ao mesmo na primeira reunião seguinte;
 
-p) Exercer as demais atribuições que a lei e os regulamentos lhe confiram.
+p) Exercer as demais atribuições que a lei e os regulamentos lhe confiram;
 
-2 - O presidente do conselho regional pode delegar em um ou mais vice-presidentes a competência prevista na alínea k) do número anterior.
+q) Decidir sobre os requerimentos de redução, isenção, diferimento ou dispensa de pagamento de taxas apresentados por estagiários ou candidatos a estagiários, nos termos previstos na presente lei e no regulamento de estágio;
+
+r) Decidir sobre os requerimentos de suspensão do estágio nos termos previstos na presente lei e no regulamento de estágio.
+
+2 - (Revogado.)
 
 3 - O presidente do conselho regional pode, ainda, delegar qualquer uma das suas restantes competências em algum ou alguns dos seus membros, bem como nas delegações ou nos respetivos delegados, podendo os membros com poderes delegados funcionar em comissão.

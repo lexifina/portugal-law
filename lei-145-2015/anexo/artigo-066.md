@@ -10,7 +10,7 @@
 
 ### Exercício da advocacia em território nacional
 
-1 - Sem prejuízo do disposto no artigo 205.º, só os advogados com inscrição em vigor na Ordem dos Advogados podem, em todo o território nacional, praticar atos próprios da advocacia, nos termos definidos na Lei n.º 49/2004, de 24 de agosto.
+1 - A atribuição do título profissional de advogado, o seu uso e o exercício dos atos expressamente reservados pela lei aos advogados, nos termos do artigo 30.º da Lei n.º 2/2013, de 10 de janeiro, dependem de inscrição na Ordem dos Advogados.
 
 2 - Os atos praticados por advogado através de documento só são considerados como tal se por ele forem assinados ou certificados nos termos definidos pela Ordem dos Advogados.
 

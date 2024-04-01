@@ -2,7 +2,7 @@
 
 ### Mandato forense
 
-1 - Sem prejuízo do disposto na Lei n.º 49/2004, de 24 de agosto, considera-se mandato forense:
+1 - Sem prejuízo do disposto no Regime Jurídico dos Atos de Advogados e Solicitadores, considera-se mandato forense:
 
 a) O mandato judicial para ser exercido em qualquer tribunal, incluindo os tribunais ou comissões arbitrais e os julgados de paz;
 

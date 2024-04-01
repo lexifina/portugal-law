@@ -6,4 +6,4 @@
 
 2 - A violação do disposto no número anterior constitui contraordenação, punível com coima de (euro) 2 500 a (euro) 25 000, nos termos do regime geral das contraordenações.
 
-3 - Aos prestadores referidos no n.º 1 aplicam-se os limites resultantes do n.º 7 do artigo seguinte com as necessárias adaptações.
+3 - (Revogado.)

@@ -10,4 +10,4 @@
 
 2 - Podem ser convidados como observadores delegados de associações de juristas nacionais e estrangeiras e de organizações profissionais de advogados de outros países.
 
-3 - Os membros dos conselhos superior, geral, regionais e de deontologia, das delegações e os delegados participam no congresso, a título de observadores, podendo, nessa qualidade, intervir na discussão sem direito a voto.
+3 - Os membros dos conselhos superior, geral, de supervisão, regionais e de deontologia, das delegações e os delegados, e o provedor dos destinatários dos serviços participam no congresso, a título de observadores, podendo, nessa qualidade, intervir na discussão sem direito a voto.

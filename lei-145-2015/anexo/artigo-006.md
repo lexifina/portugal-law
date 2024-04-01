@@ -6,4 +6,4 @@
 
 2 - O prazo de interposição de recurso é de 15 dias, quando outro não se encontre especialmente previsto na lei.
 
-3 - Dos atos praticados pelos órgãos da Ordem dos Advogados cabe, ainda, recurso contencioso para os tribunais administrativos, nos termos gerais de direito.
+3 - Os atos praticados pelos órgãos da Ordem dos Advogados são impugnáveis nos termos do Código de Processo nos Tribunais Administrativos, aprovado em anexo à Lei n.º 15/2002, de 22 de fevereiro.

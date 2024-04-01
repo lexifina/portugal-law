@@ -1,21 +1,25 @@
-## Secção XV
+## Secção XVI
 
-## Provedor dos clientes
+## Provedor dos destinatários dos serviços
 
 # Artigo 65.º
 
 ### Designação e funções
 
-1 - O provedor dos clientes pode, nos termos legalmente previstos e se tal se justificar, ser designado por deliberação do conselho geral, sob proposta do bastonário.
+1 - Compete ao bastonário, sob proposta do conselho de supervisão, designar, de entre personalidades independentes e não inscritas na Ordem dos Advogados, um provedor dos destinatários dos serviços.
 
-2 - O provedor dos clientes é independente no exercício da sua função de defender os interesses dos destinatários dos serviços prestados pelos advogados e não pode ser destituído, salvo em consequência de decisão do conselho geral, por falta grave.
+2 - O provedor dos destinatários dos serviços é independente no exercício da sua função de defender os interesses dos destinatários dos serviços prestados pelos advogados e não pode ser destituído, salvo em consequência de decisão do conselho de supervisão, por falta grave.
 
-3 - Compete ao provedor dos clientes analisar as queixas apresentadas pelos destinatários dos serviços prestados pelos advogados e fazer recomendações, tanto para a resolução dessas queixas, como em geral para o aperfeiçoamento do desempenho da Ordem dos Advogados.
+3 - Sem prejuízo das demais competências previstas na lei ou nos estatutos, compete ao provedor dos destinatários dos serviços analisar as queixas apresentadas pelos destinatários dos serviços prestados pelos advogados, e emitir recomendações para a sua resolução e para o aperfeiçoamento do desempenho da Ordem dos Advogados.
 
-4 - O cargo de provedor dos clientes pode ser remunerado, nos termos do respetivo regimento.
+4 - O cargo de provedor dos destinatários dos serviços é remunerado nos termos do regulamento previsto no n.º 3 do artigo 15.º
 
-5 - No caso de ser advogado, a pessoa designada para o cargo de provedor dos clientes requer a suspensão da sua inscrição, nos termos do respetivo regimento.
+5 - (Revogado.)
 
-6 - O provedor dos clientes apresenta um relatório anual ao bastonário e à assembleia geral.
+6 - O provedor dos destinatários dos serviços apresenta um relatório anual ao bastonário e à assembleia geral.
 
-7 - Os advogados envolvidos em queixas analisadas pelo provedor dos clientes devem colaborar nas suas averiguações.
+7 - Os advogados envolvidos em queixas analisadas pelo provedor dos destinatários dos serviços devem colaborar nas suas averiguações.
+
+8 - O provedor dos destinatários dos serviços é, por inerência, membro do conselho de supervisão, sem direito de voto.
+
+9 - A forma de funcionamento, a duração do mandato e os meios do provedor dos destinatários dos serviços são determinados em regulamento aprovado pelo conselho de supervisão.

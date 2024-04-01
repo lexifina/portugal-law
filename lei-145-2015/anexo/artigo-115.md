@@ -2,7 +2,7 @@
 
 ### Infrações disciplinares
 
-1 - Comete infração disciplinar o advogado ou advogado estagiário que, por ação ou omissão, violar dolosa ou culposamente algum dos deveres consagrados no presente Estatuto, nos respetivos regulamentos e nas demais disposições legais aplicáveis.
+1 - Comete infração disciplinar quem, por ação ou omissão, violar dolosa ou culposamente algum dos deveres consagrados no presente Estatuto, nos respetivos regulamentos e nas demais disposições legais aplicáveis.
 
 2 - A tentativa é punível.
 

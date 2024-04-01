@@ -10,4 +10,6 @@ b) Velar pelo cumprimento, por parte dos advogados e advogados estagiários com 
 
 c) Submeter à aprovação da assembleia regional o orçamento para o ano civil seguinte e as contas do ano anterior, bem como o respetivo relatório de atividades;
 
-d) Exercer as demais atribuições que a lei e os regulamentos lhes confiram.
+d) Elaborar um relatório anual de atividades, a submeter ao conselho de supervisão;
+
+e) Exercer as demais atribuições que a lei e os regulamentos lhes confiram.

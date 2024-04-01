@@ -18,7 +18,7 @@ f) Pronunciar-se sobre as questões de carácter profissional;
 
 g) Tomar, quando necessário, as providências tidas por adequadas em relação a toda a documentação profissional existente no escritório do advogado com inscrição em vigor, nos casos em que este faleça ou seja declarado interdito;
 
-h) Promover a formação inicial e contínua dos advogados e advogados estagiários, designadamente organizando ou patrocinando conferências e sessões de estudo;
+h) Promover a formação inicial e contínua dos advogados e advogados estagiários, designadamente organizando ou patrocinando conferências e sessões de estudo, elaborando o respetivo relatório de atividades anual, dando deste conhecimento ao conselho de supervisão;
 
 i) Submeter à aprovação da assembleia regional o orçamento e o plano de atividades para o ano civil seguinte e as contas do ano anterior, bem como o respetivo relatório de atividades;
 
@@ -42,7 +42,7 @@ r) Elaborar e aprovar o regimento do respetivo conselho regional e o relativo à
 
 s) Solicitar informação dos resultados das inspeções efetuadas aos tribunais, serviços do Ministério Público, oficiais de justiça e serviços de registo e notariado instalados na área da sua competência territorial;
 
-t) Aplicar as multas a que se refere o n.º 4 do artigo 14.º;
+t) (Revogada.)
 
 u) Exercer as competências que lhe são conferidas por lei relativas aos processos de procuradoria ilícita na área da sua região;
 
