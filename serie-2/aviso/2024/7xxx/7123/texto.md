@@ -1,0 +1,10 @@
+Aviso n.º 7123/2024/2
+
+4.ª Alteração à 1.ª Revisão do PDM Pedrógão Grande - Abertura da Discussão Pública
+António José Ferreira Lopes, Presidente da Câmara Municipal do Município de Pedrógão Grande:
+Torna público que, em Reunião Ordinária de Executivo Municipal, de 28 de dezembro de 2023, foi aprovado por unanimidade, a proposta relativa à 4.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Pedrógão Grande, e nos termos do n.º 1 do artigo 89.º do Regime dos Instrumentos de Gestão (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 4 de maio, na sua atual redação, tendo sido determinada a abertura do período de discussão pública.
+Assim, e de acordo com o disposto n.º 2 do artigo 89.º do RJIGT procede-se à abertura do período de discussão pública da proposta de alteração do PDM de Pedrógão Grande pelo período de 30 (trinta) dias seguidos contados a partir do 5.º dia útil da publicação do presente aviso no Diário da República.
+Durante este período, os interessados poderão formular, por escrito e de acordo com formulário disponível na Câmara Municipal e no sítio da internet, as suas reclamações, observações ou sugestões, que possam ser consideradas no âmbito deste procedimento, as quais deverão ser dirigidas diretamente ao Presidente da Câmara Municipal de Pedrógão Grande e realizadas por uma das seguintes formas: apresentada presencialmente nas instalações do atendimento geral desta Câmara Municipal (nos dias úteis, das 09:00 às 12:30 e das 14:00 às 16:30) sita no Largo da Devesa, n.º 14, 3270-101 Pedrógão Grande, enviadas por via postal para a morada Largo da Devesa, n.º 14, 3270-101 Pedrógão Grande, ou por via eletrónica para geral@cm-pedrogaogrande.pt.
+Para constar, publica-se o presente aviso na 2.ª série do Diário da República, do qual foi dada a devida publicitação através do Edital n.º 1/2024, de 08/01/2024, divulgação na comunicação social, na plataforma colaborativa de gestão territorial e no sítio da Internet do Município.
+8 de janeiro de 2024. - O Presidente da Câmara Municipal, António José Ferreira Lopes.
+617473591
