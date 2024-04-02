@@ -1,0 +1,8 @@
+Aviso n.º 7090/2024/2
+
+Consulta Pública do Regulamento da Venda Ambulante e das Atividades de Comércio a Retalho Não Sedentárias no Município do Corvo
+José Manuel Alves da Silva, Presidente da Câmara Municipal do Corvo, torna público que a Câmara Municipal deliberou, em reunião ordinária de 07 de março de 2024, proceder à abertura do período de Consulta Pública ao Regulamento da Venda Ambulante e das Atividades de Comércio a Retalho não Sedentárias no Município do Corvo, de acordo com o disposto na alínea c) do n.º 3 do artigo 100.º e no artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+Mais se informa que o período de Consulta Pública é de 30 dias seguidos, contados a partir da data de publicação deste aviso na 2.ª Série do Diário da República, podendo todos os cidadãos interessados consultar a proposta de Regulamento da Venda Ambulante e das Atividades de Comércio a Retalho não Sedentárias no Município do Corvo, nos serviços de atendimento da Câmara Municipal do Corvo, todos os dias úteis, das 08h00 às 16h30.
+Os cidadãos interessados poderão apresentar as suas participações, reclamações, observações ou sugestões sobre o conteúdo da proposta, mediante o preenchimento de uma ficha de participação disponibilizada e a fornecer pelos serviços da Câmara Municipal do Corvo, as quais deverão ser remetidas ao Presidente da Câmara Municipal do Corvo, por correio eletrónico (geral@cm-corvo.pt), por carta (para a morada: Rua Jogo da Bola, 9980-024 Corvo), por fax (292 596 120) ou entregues nos serviços de expediente da Câmara Municipal do Corvo.
+13 de março de 2024. - O Presidente da Câmara Municipal do Corvo, José Manuel Alves da Silva.
+317475746
