@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "29",
+    "id": "263528",
+    "titulo": "Elimina a obrigatoriedade de afixação de informação relativa à existência de postos de trabalho permanentes que estejam disponíveis na empresa ou estabelecimento, alterando o Código do Trabalho"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-04-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75148",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-04-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2024-05-27",
+        "DatainicioApreciacaoPublica": "2024-04-27",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-09-12",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XVILeg/10CTSSI/Paginas/Iniciativas-em-Apreciacao-Publica-.aspx?t=4d533743716942545a584e7a77364e764945786c5a326c7a6247463061585a684c31424b544341794f563959566b6c664d533743716c394a54413d3d&Path=f3cYRPC370hOavVhCqYaesaAKIcOD76oRkRJIjTvFk%2b7i4sAnooUnAWRB1Ds%2f3YAzmPdx6SdWM9%2buQqXwX%2fNmxfOW1Ph%2bgn%2bu3rZi1CZC%2bS%2byKztbxcOmo6NeXhQrml4um62%2b%2frWaCFqHa53%2b2PmgAr433%2fCEnfZCiQQ3u%2fx%2fqxL%2bkFprna%2fFJyDJeLWJIwgPm2nvQCNKpTsOlFHqcmuzIcGvnz9IZJ92Xgy5%2b1Fn2EZ85JR5%2behAFo4rrQT84uyUkZUDP5Ea%2fS%2fYn2cXPcNFJO6n3O%2bbROcIb4gr28FcB%2fAqE4SNBALH6AqiUBTmmqMJzfCv7Bd77EfJHtvcbqfo0KB8bQno2Qo2Z%2fSlwAHIlrVL%2bCvDEa%2fO7MbgugvmTothPNxzShQ0aSLX11A8FK8uUJ533gDn0EDY2JlwWBwIbS0OV88MKWC6pYS9SWJsOToXMsDGmZ5HWwsCHH78145oQ9MYicNYsihOtlpANGzAA7G%2fmAcSuD2Pq7MMDdTu2q8"
+          },
+          {
+            "DataDocumento": "2026-02-13",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b597a56694d6a566b4e7930345a5467354c5452684e54457459575a6d59533169596d4e6d5a5455345a4459355a5755756347526d&fich=dc5b25d7-8e89-4a51-affa-bbcfe58d69ee.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8402",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8402",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-04-04",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1514657",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
