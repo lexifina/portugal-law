@@ -50,7 +50,7 @@
 
 3.7 - Pela prática dos atos compreendidos no regime especial de constituição online de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou ato constitutivo elaborado pelos interessados - (euro) 360;
 
-3.8 - Os emolumentos previstos nos n.os 3.5 e 3.6 têm um valor único e incluem a verificação da admissibilidade e aprovação de firma e ainda o custo da publicação obrigatória do registo.
+3.8 - Os emolumentos previstos nos n.os 3.6 e 3.7 têm um valor único e incluem o custo da aprovação eletrónica e automática da firma, nos termos do artigo 50.º-A do Decreto-Lei n.º 129/98, de 13 de maio, bem como a publicação obrigatória do registo.
 
 4 - Regime especial de criação imediata de representações permanentes:
 
