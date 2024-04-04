@@ -10,27 +10,29 @@ b) Prestar apoio técnico e consulta ao membro do Governo responsável pela áre
 
 c) Regulamentar a sua atividade;
 
-d) Pronunciar-se sobre os atos normativos relacionados com a atividade dos auxiliares da justiça, em todos os aspetos que estejam no âmbito das suas atribuições;
+d) Desenvolver e implementar as plataformas informáticas necessárias ao exercício da sua atividade;
 
-e) Apreciar quaisquer reclamações, queixas ou participações relativas à atividade dos auxiliares da justiça;
+e) Pronunciar-se sobre os atos normativos relacionados com a atividade dos auxiliares da justiça, em todos os aspetos que estejam no âmbito das suas atribuições;
 
-f) Aplicar medidas cautelares aos auxiliares da justiça, exceto quando o exercício do poder disciplinar esteja concretamente cometido à associação pública profissional em que se integrem;
+f) Apreciar quaisquer reclamações, queixas ou participações relativas à atividade dos auxiliares da justiça;
 
-g) Instruir os processos disciplinares e os processos de contraordenação relativos aos auxiliares da justiça, exceto quando o exercício do poder disciplinar esteja concretamente cometido à associação pública profissional em que se integrem;
+g) Aplicar medidas cautelares aos auxiliares da justiça, exceto quando o exercício do poder disciplinar esteja concretamente cometido à associação pública profissional em que se integrem;
 
-h) Aplicar sanções disciplinares e contraordenacionais aos auxiliares da justiça, exceto quando o exercício do poder disciplinar esteja concretamente cometido à associação pública profissional em que se integrem;
+h) Instruir os processos disciplinares e os processos de contraordenação relativos aos auxiliares da justiça, exceto quando o exercício do poder disciplinar esteja concretamente cometido à associação pública profissional em que se integrem;
 
-i) Destituir os agentes de execução nos processos para os quais tenham sido designados;
+i) Aplicar sanções disciplinares e contraordenacionais aos auxiliares da justiça, exceto quando o exercício do poder disciplinar esteja concretamente cometido à associação pública profissional em que se integrem;
 
-j) Regulamentar e gerir o fundo de garantia das execuções e outros fundos de garantia criados no âmbito da atividade dos auxiliares da justiça;
+j) Destituir os agentes de execução nos processos para os quais tenham sido designados;
 
-k) Aprovar o plano anual de atividades, o respetivo orçamento, bem como o relatório anual de atividades, o balanço e a conta anual de gerência;
+k) Regulamentar e gerir o fundo de garantia das execuções e outros fundos de garantia criados no âmbito da atividade dos auxiliares da justiça;
 
-l) Arrecadar as receitas e efetuar as despesas nos termos da lei;
+l) Aprovar o plano anual de atividades, o respetivo orçamento, bem como o relatório anual de atividades, o balanço e a conta anual de gerência;
 
-m) Emitir recomendações e pareceres genéricos sobre a atividade e formação dos auxiliares da justiça;
+m) Arrecadar as receitas e efetuar as despesas nos termos da lei;
 
-n) Desempenhar as demais funções que lhe sejam atribuídas por lei.
+n) Emitir recomendações e pareceres genéricos sobre a atividade e formação dos auxiliares da justiça;
+
+o) Desempenhar as demais funções que lhe sejam atribuídas por lei.
 
 2 - São atribuições da CAAJ relativamente aos auxiliares da justiça cuja atividade não esteja enquadrada por associação pública profissional:
 
@@ -40,12 +42,14 @@ b) Gerir o acesso à atividade, designadamente no que concerne à definição do
 
 c) Orientar e definir os termos em que decorre a formação inicial e contínua, emitindo a regulamentação adequada;
 
-d) Elaborar e manter permanentemente atualizadas as listas previstas na lei ou em regulamento da CAAJ;
+d) Desenvolver e implementar plataformas informáticas de suporte à atividade dos auxiliares da justiça que não esteja enquadrada por associação pública profissional;
 
-e) Verificar a existência de incompatibilidades, impedimentos ou suspeições, bem como a sua idoneidade, nos termos previstos na lei;
+e) Elaborar e manter permanentemente atualizadas as listas previstas na lei ou em regulamento da CAAJ;
 
-f) Aprovar códigos de conduta;
+f) Verificar a existência de incompatibilidades, impedimentos ou suspeições, bem como a sua idoneidade, nos termos previstos na lei;
 
-g) Organizar o processo de substituição em caso de suspensão, ou de encerramento da atividade, assegurando a transmissão eficaz e célere de valores e bens de que sejam depositários para os substitutos, salvo quando a lei disponha de modo diverso.
+g) Aprovar códigos de conduta;
+
+h) Organizar o processo de substituição em caso de suspensão, ou de encerramento da atividade, assegurando a transmissão eficaz e célere de valores e bens de que sejam depositários para os substitutos, salvo quando a lei disponha de modo diverso.
 
 3 - Nos casos em que a atividade dos auxiliares da justiça esteja enquadrada por associação pública profissional, compete a esta exercer, nos termos dos respetivos estatutos, as competências previstas no número anterior.
