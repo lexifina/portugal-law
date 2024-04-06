@@ -6,7 +6,7 @@ VI
 
 (Composição)
 
-1 - O conselho de administração é constituído por quatro membros efectivos, todos com direito a voto quando em exercício efectivo de funções, dois dos quais em representação do IEFP e outros dois em representação da CDC.
+1 - O conselho de administração é constituído por quatro membros efetivos, todos com direito a voto quando em exercício efetivo de funções, dois dos quais em representação do IEFP, I. P., e outros dois em representação dos segundos outorgantes.
 
 2 - Além destes, existirá um membro suplente por cada outorgante.
 

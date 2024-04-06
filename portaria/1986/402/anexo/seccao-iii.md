@@ -6,7 +6,7 @@ XI
 
 (Composição)
 
-1 - O conselho técnico-pedagógico é constituído por cinco membros: o director do Centro e dois representantes de cada outorgante.
+1 - O conselho técnico-pedagógico é constituído por quatro membros, o diretor do Centro e um representante de cada outorgante.
 
 2 - A presidência do conselho técnico-pedagógico cabe ao director do CEARTE, o qual será substituído, nas suas ausências ou impedimentos, por um dos outros membros do conselho, em quem delegará os necessários poderes.
 

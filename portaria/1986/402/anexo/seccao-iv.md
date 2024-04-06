@@ -6,7 +6,7 @@ XIV
 
 (Composição)
 
-1 - A comissão de fiscalização e verificação de contas é constituída por quatro membros, cabendo a cada um dos outorgantes a indicação de dois membros.
+1 - A comissão de fiscalização e verificação de contas é constituída por três membros, um em representação do IEFP, I. P., e os outros dois em representação dos segundos outorgantes.
 
 2 - A presidência da comissão de fiscalização e verificação de contas caberá a um dos membros que actua em representação do primeiro outorgante.
 
