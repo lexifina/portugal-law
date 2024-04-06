@@ -36,6 +36,10 @@ n) Facultar, em língua facilmente compreensível pelas autoridades de fiscaliza
 
 o) Cooperar com as autoridades de fiscalização do mercado, a seu pedido, em todas as ações de eliminação dos riscos decorrentes de equipamentos de rádio que tenha colocado no mercado.
 
+p) Assegurar que, quando coloca no mercado equipamentos de rádio a que se refere o n.º 4 do artigo 4.º, tais equipamentos contêm as informações previstas na alínea u) do n.º 1 do artigo 11.º exibidas num rótulo nos termos da alínea v) do n.º 1 do artigo 11.º;
+
+q) Assegurar que, quando disponibiliza a consumidores e a outros utilizadores finais equipamentos de rádio referidos no n.º 4 do artigo 4.º, a informação sobre se o equipamento inclui ou não um dispositivo de carregamento é indicada de forma gráfica, mediante um pictograma nos termos da alínea w) do n.º 1 do artigo 11.º
+
 3 - O importador é considerado fabricante para efeitos do presente decreto-lei, ficando sujeito aos deveres previstos no artigo 11.º, sempre que:
 
 a) Coloque no mercado equipamentos de rádio em seu nome ou ao abrigo de uma marca sua; ou

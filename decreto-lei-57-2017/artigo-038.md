@@ -22,6 +22,12 @@ h) As informações sobre a utilização prevista do equipamento de rádio, a de
 
 i) Os requisitos relativos à identificação dos operadores económicos, previstos no artigo 15.º não estejam preenchidos;
 
-j) A obrigação de registo prevista no artigo 6.º não tenha sido respeitada.
+j) A obrigação de disponibilização de equipamentos sem dispositivos de carregamento prevista no artigo 4.º-A e a obrigação de registo prevista no artigo 6.º não tenham sido respeitadas;
+
+k) O rótulo a que se refere a alínea v) do n.º 1 do artigo 11.º ou o pictograma a que se refere a alínea w) do n.º 1 do artigo 11.º não foi elaborado corretamente;
+
+l) O rótulo a que se refere a alínea v) do n.º 1 do artigo 11.º não acompanha o equipamento de rádio em causa;
+
+m) O rótulo ou o pictograma não foi aposto ou exibido nos termos da alínea v) do n.º 1 do artigo 11.º ou da alínea w) do n.º 1 do artigo 11.º, respetivamente.
 
 2 - Caso a não conformidade referida no número anterior persista, as autoridades de fiscalização devem adotar as medidas adequadas para restringir ou proibir a disponibilização dos equipamentos de rádio no mercado, ou para garantir que os mesmos são retirados ou recolhidos do mercado.

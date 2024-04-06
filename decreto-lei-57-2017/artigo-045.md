@@ -8,13 +8,19 @@ a) A falta de aviso que indique que o equipamento de rádio apresentado em açã
 
 2 - Constituem contraordenações graves:
 
-a) A violação de qualquer das obrigações estabelecidas na alínea b) do n.º 2 do artigo 13.º, exceto aquelas que são referidas na alínea c) do número seguinte;
+a) A colocação no mercado de equipamentos de rádio referidos no n.º 4 do artigo 4.º juntamente com um dispositivo de carregamento sem oferecer a possibilidade de os mesmos equipamentos serem adquiridos sem qualquer dispositivo de carregamento, em violação do disposto no artigo 4.º-A;
 
-b) A colocação no mercado de equipamento de rádio em que não estejam indicados o nome do importador, o seu nome comercial registado ou a sua marca registada e o seu endereço postal de contacto, no próprio equipamento, na respetiva embalagem ou em documento que o acompanhe, em violação do disposto na alínea f) do n.º 2 do artigo 13.º;
+b) A violação de qualquer das obrigações estabelecidas na alínea b) do n.º 2 do artigo 13.º, exceto aquelas que são referidas na alínea c) do número seguinte;
 
-c) A colocação no mercado de equipamento de rádio em que os dados de contacto indicados não sejam facilmente compreensíveis quer pelos utilizadores finais quer pelas autoridades de fiscalização do mercado, em violação do disposto na alínea g) do n.º 2 do artigo 13.º;
+c) A colocação no mercado de equipamento de rádio em que não estejam indicados o nome do importador, o seu nome comercial registado ou a sua marca registada e o seu endereço postal de contacto, no próprio equipamento, na respetiva embalagem ou em documento que o acompanhe, em violação do disposto na alínea f) do n.º 2 do artigo 13.º;
 
-d) A colocação no mercado de equipamento de rádio que não se encontre acompanhado de instruções, de informações de segurança redigidas em língua portuguesa e em linguagem clara, compreensível e inteligível para os consumidores e outros utilizadores finais, em violação do disposto na alínea h) do n.º 2 do artigo 13.º
+d) A colocação no mercado de equipamento de rádio em que os dados de contacto indicados não sejam facilmente compreensíveis quer pelos utilizadores finais quer pelas autoridades de fiscalização do mercado, em violação do disposto na alínea g) do n.º 2 do artigo 13.º;
+
+e) A colocação no mercado de equipamento de rádio que não se encontre acompanhado de instruções, de informações de segurança redigidas em língua portuguesa e em linguagem clara, compreensível e inteligível para os consumidores e outros utilizadores finais, em violação do disposto na alínea h) do n.º 2 do artigo 13.º
+
+f) A colocação no mercado de equipamentos de rádio sem as informações previstas na alínea u) do n.º 1 do artigo 11.º exibidas num rótulo nos termos da alínea v) do n.º 1 do artigo 11.º, em violação do disposto na alínea p) do n.º 2 do artigo 13.º;
+
+g) A colocação no mercado de equipamentos de rádio que não contenham a informação sobre se o equipamento inclui ou não um dispositivo de carregamento, indicada de forma gráfica, mediante um pictograma nos termos da alínea w) do n.º 1 do artigo 11.º, em violação do disposto na alínea q) do n.º 2 do artigo 13.º
 
 3 - Constituem contraordenações muito graves:
 
@@ -82,4 +88,4 @@ d) Se praticadas por média empresa, de (euro) 10 000 a (euro) 100 000;
 
 e) Se praticadas por grande empresa, de (euro) 25 000 a (euro) 250 000.
 
-7 - Sendo praticadas as contraordenações previstas nas alíneas a), b), c) e d) do n.º 2 e nas alíneas a), b), c), d), f) e h) do n.º 3 pode ser aplicada a sanção acessória de perda a favor do Estado dos equipamentos.
+7 - Sendo praticadas as contraordenações previstas nas alíneas a) a g) do n.º 2 e nas alíneas a), b), c), d), f) e h) do n.º 3, pode ser aplicada a sanção acessória de perda a favor do Estado dos equipamentos.

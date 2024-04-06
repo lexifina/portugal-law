@@ -1,8 +1,8 @@
 # Artigo 35.º
 
-### Procedimento aplicável aos equipamentos de rádio que representem riscos a nível nacional
+### Procedimento aplicável aos equipamentos de rádio que apresentam risco de não cumprir, ou não cumprem, requisitos essenciais
 
-1 - Quando as autoridades de fiscalização do mercado considerarem que um equipamento de rádio representa risco para a saúde ou segurança das pessoas ou para outros aspetos da proteção do interesse público previstos no presente decreto-lei, devem efetuar uma avaliação do equipamento de rádio em causa abrangendo todos os requisitos relevantes previstos no presente decreto-lei.
+1 - Quando as autoridades de fiscalização do mercado considerarem que um equipamento de rádio representa risco para a saúde ou segurança das pessoas ou para outros aspetos da proteção do interesse público previstos no presente decreto-lei, ou não cumpre, pelo menos, um dos requisitos essenciais aplicáveis previstos no artigo 4.º, devem efetuar uma avaliação do equipamento de rádio em causa abrangendo todos os requisitos relevantes previstos no presente decreto-lei.
 
 2 - Os operadores económicos envolvidos devem cooperar com as autoridades de fiscalização do mercado.
 

@@ -48,6 +48,12 @@ s) Facultar, em língua facilmente compreensível pelas autoridades de fiscaliza
 
 t) Cooperar com as autoridades de fiscalização do mercado, a pedido destas, em qualquer ação de eliminação dos riscos decorrentes de equipamentos de rádio por si colocados no mercado.
 
+u) Assegurar que as instruções dos equipamentos de rádio a que se refere o n.º 4 do artigo 4.º contêm informações sobre as especificações relativas às capacidades de carregamento do equipamento de rádio e aos dispositivos de carregamento compatíveis, nos termos do disposto na parte ii do anexo i-A do presente decreto-lei, redigidas em língua portuguesa, de forma clara, compreensível e inteligível;
+
+v) Assegurar que, quando coloca no mercado equipamentos de rádio a que se refere o n.º 4 do artigo 4.º, as informações previstas na alínea anterior são também exibidas num rótulo, nos termos do disposto na parte iv do anexo i-A do presente decreto-lei, de forma visível e legível e, no caso de venda à distância, próximo da indicação do preço, devendo o rótulo ser impresso nas instruções e na embalagem ou aposto na mesma sob a forma de autocolante ou, na ausência de embalagem, aposto nos equipamentos de rádio e, se as dimensões ou a natureza do equipamento de rádio não o permitirem de outra forma, impresso como um documento separado que acompanha o equipamento de rádio;
+
+w) Assegurar que, quando disponibiliza a consumidores e a outros utilizadores finais equipamentos de rádio referidos no n.º 4 do artigo 4.º, a informação sobre se o equipamento inclui ou não um dispositivo de carregamento está indicada de forma gráfica, mediante um pictograma de fácil acesso e compreensão, nos termos do disposto na parte iii do anexo i-A do presente decreto-lei, exibido de forma visível e legível e, em caso de venda à distância, próximo da indicação do preço, devendo o pictograma ser impresso na embalagem ou aposto na mesma sob a forma de autocolante.
+
 2 - Para efeitos do presente decreto-lei, os importadores ou os distribuidores são considerados fabricantes, ficando sujeitos aos mesmos deveres que estes, sempre que:
 
 a) Coloquem no mercado equipamentos de rádio em seu nome ou ao abrigo de uma marca sua; ou

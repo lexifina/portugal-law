@@ -8,7 +8,7 @@
 
 3 - Quando um equipamento de rádio assume diferentes configurações, a avaliação da conformidade deve confirmar se o equipamento cumpre os requisitos essenciais previstos no artigo 4.º, em todas as configurações possíveis.
 
-4 - A conformidade dos equipamentos de rádio com os requisitos essenciais previstos no n.º 1 do artigo 4.º deve ser demonstrada mediante um dos seguintes procedimentos de avaliação da conformidade:
+4 - A conformidade dos equipamentos de rádio com os requisitos essenciais previstos nos n.os 1 e 4 do artigo 4.º deve ser demonstrada mediante um dos seguintes procedimentos de avaliação da conformidade:
 
 a) Controlo interno da produção, previsto no anexo II ao presente decreto-lei, do qual faz parte integrante;
 
