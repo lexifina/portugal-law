@@ -1,0 +1,17 @@
+# Resolução do Conselho do Governo Regional n.º 138/2024
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 55/2024, suplemento, de 2024-04-08
+
+**Sumário:** Determina manter o Aval da Região Autónoma da Madeira à ASSICOM - Associação da Indústria, Associação da Construção - Região Autónoma da Madeira, atribuído através da Resolução n.º 378/2010, de 13 de abril, publicada no Suplemento do Jornal Oficial, I Série, n.º 28, para garantir a operação de crédito, junto da Caixa Geral de Depósitos, S.A., no montante remanescente de 3.554.605,56 EUR.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 138/2024
+Sumário: Determina manter o Aval da Região Autónoma da Madeira à ASSICOM - Associação da Indústria, Associação da Construção - Região Autónoma da Madeira, atribuído através da Resolução n.º 378/2010, de 13 de abril, publicada no Suplemento do Jornal Oficial, I Série, n.º 28, para garantir a operação de crédito, junto da Caixa Geral de Depósitos, S.A., no montante remanescente de 3.554.605,56 EUR.
+Texto: Resolução n.º 138/2024 Considerando que no âmbito do Processo Executivo n.º 1436/23.4T8FNC, foi em 10 de novembro de 2023 outorgada Transação entre a Caixa Geral de Depósitos, S.A., a ASSICOM - Associação da Indústria, Associação da Construção - Região Autónoma da Madeira, a Região Autónoma da Madeira e a Dilectus Residências Assistidas, S.A.; Considerando que nos termos da cláusula 14.ª daquele Contrato de Transação o certificado de aval se mantém em vigor, com exceção do valor máximo garantido que foi reduzido para 3 554 605,56 EUR (três milhões quinhentos e cinquenta e quatro mil seiscentos e cinco euros e cinquenta e seis cêntimos); Considerando que nos termos da citada cláusula a Região Autónoma da Madeira obrigou-se a emitir um anexo ao dito certificado de aval com a alteração ao mesmo quanto ao valor máximo garantido. O Conselho do Governo reunido em plenário em 4 de abril de 2024, resolve:
+1. Manter o Aval da Região Autónoma da Madeira à ASSICOM - Associação da Indústria, Associação da Construção - Região Autónoma da Madeira, atribuído através da Resolução do Governo n.º 378/2010, de 8 de abril, nos termos do disposto no Decreto Legislativo Regional n.º 24/2002/M de 23 de dezembro, na versão atualizada conferida pelo Decreto Legislativo Regional n.º 8/2011/M de 1 de abril e demais alterações subsequentes, para garantir a operação de crédito, junto da Caixa Geral de Depósitos, S.A., no montante remanescente de 3.554.605,56 EUR (três milhões quinhentos e cinquenta e quatro mil seiscentos e cinco euros e cinquenta e seis cêntimos), referente ao contrato de empréstimo n.º 2547.000352.991, nos termos do Contrato de Transação assinado em 10/11/2023 entre a “Caixa Geral de Depósitos, S.A.”, a “ASSICOM - Associação da Indústria, Associação da Construção - Região Autónoma da Madeira”, a “Região Autónoma da Madeira” e a “Dilectus Residências Assistidas, S.A.”.
+2. Manter a taxa de aval em 0,5% ao ano, calculada nos termos da Portaria n.º 80/2007, de 17 de agosto, da Secretaria Regional do Plano e Finanças.
+3. Mandatar o Secretário Regional das Finanças para outorgar a respetiva 5.ª alteração ao certificado de aval de 2010, onde constam as condições essenciais do aval, bem como todos os documentos necessários para tornar efetiva a manutenção desta garantia.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
