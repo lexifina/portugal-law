@@ -1,0 +1,58 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "42",
+  "id": "263550",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-04-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d3256684f4468694d5749744d4755324d79303059325a6d4c5749334e4463745a575133595452694d4745784e47497a4c6e426b5a673d3d&fich=3ea88b1b-0e63-4cff-b747-ed7a4b0a14b3.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PAN",
+        "idCadastro": "6864",
+        "nome": "Inês de Sousa Real"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PAN"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263550",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a686a596a686b4e5455744f546b7a4e793030593245344c546b34597a63744d6d5134596a52684e4455334d7a49354c6d52765933673d&fich=68cb8d55-9937-4ca8-98c7-2d8b4a457329.docx&Inline=true",
+    "IniNr": "42",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Valoriza os bombeiros e os seus direitos, reconhecendo aos bombeiros profissionais o estatuto de profissão de risco e de desgaste rápido e atribuindo aos bombeiros voluntários o direito à reforma antecipada, procedendo à alteração do Decreto-Lei n.º 106/2002, de 13 de abril, do Decreto-Lei n.º 87/2019, de 2 de julho, do Decreto-Lei n.º 55/2006, de 15 de março, e do Decreto-Lei n.º 241/2007, de 21 de junho",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
