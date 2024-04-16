@@ -1,0 +1,918 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34036",
+  "numero": "5",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-04-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-06-25",
+            "entidades": null,
+            "id": "148837",
+            "tipo": null,
+            "titulo": "Audição em 2024-06-25 com FENPROF – Federação Nacional dos Professores"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-07-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915211",
+                "obs": null,
+                "pag": [
+                  "21-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-05",
+                "pubLeg": "XVI",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/018/2024-07-05/21?pgs=21-23&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "PCP",
+                "L",
+                "CDS-PP"
+              ],
+              "data": "2024-07-03",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+              "id": "126858",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "11",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-05-08",
+        "DataArquivo": "2024-07-03",
+        "DataBaixaComissao": "2024-04-22",
+        "DataEnvioPAR": "2024-07-04",
+        "DataReaberta": "2024-05-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-05-08",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a63794d5456694e574d74596d59784e6930304e6d45304c5745794d3245745a6a51795a47457a4f5449355a47597a4c6e426b5a673d3d&fich=b7215b5c-bf16-46a4-a23a-f42da3929df3.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a44637a4e6d526d5a6a6b745a6d4e685a4330304f47526b4c5745354f446b7459574a6b5a4755305a574e6c4e324e6c4c6e426b5a673d3d&fich=d736dff9-fcad-48dd-a989-abdde4ece7ce.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a426a596a6734595451744f4464685a6930304d475a6b4c574a6d596a67745a6a5a69597a417a4e54426a596d4d794c6e426b5a673d3d&fich=b0cb88a4-87af-40fd-bfb8-f6bc0350cbc2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d7a49345a6a67324d7a637459325577595330304d32597a4c5468684f4751744f575130596d5a6b4e6d526b596d55794c6e426b5a673d3d&fich=328f8637-ce0a-43f3-8a8d-9d4bfd6ddbe2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a475131596d497a4f4467744e474e694e7930304d6d59334c5749344d6d59744e3249344d4441784d6d49324e4755334c6e426b5a673d3d&fich=dd5bb388-4cb7-42f7-b82f-7b80012b64e7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a546c6b4f47466a5a4467744e475a68596930304d544a694c5467774e3259744e44526c5a4445784f444d7a4d5759324c6e426b5a673d3d&fich=e9d8acd8-4fab-412b-807f-44ed118331f6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e3251344d6d497a596a6b744d6d457a4f5330305932526d4c546c6a4f474d74597a63324e5745314f474e6b4e7a55794c6e426b5a673d3d&fich=7d82b3b9-2a39-4cdf-9c8c-c765a58cd752.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d6d4531593259314d6d51744e6d49344e7930304d6a45354c546b33595449744e324532597a45784d5755774e5745334c6e426b5a673d3d&fich=2a5cf52d-6b87-4219-97a2-7a6c111e05a7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e7a4668596a4d324d7a6774596a59354e533030593255304c546735593255745a6a67785a6d59344d324d305a5755324c6e426b5a673d3d&fich=71ab3638-b695-4ce4-89ce-f81ff83c4ee6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d7a6b785a5463794f574d745932526a597930305a44646c4c5467344d6a41744d445a69595751784e7a4e694d44646c4c6e426b5a673d3d&fich=391e729c-cdcc-4d7e-8820-06bad173b07e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6d4d344f546330596d51744f5463785969303059544d354c574a6b596a45744d6a6b7a4e7a466a4e6d49794e6d4a6b4c6e426b5a673d3d&fich=6c8974bd-971b-4a39-bdb1-29371c6b26bd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f44646c4d545135595751744e574578597930304d4467314c574a6a5a6a41744d324e6d4f47566c597a426a596d55304c6e426b5a673d3d&fich=87e149ad-5a1c-4085-bcf0-3cf8eec0cbe4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a6a4d35596d4a684d544d744d7a63345a4330304d6a46694c546c6d4d4755745a44526d4e57566c4f5455314f54646d4c6e426b5a673d3d&fich=f39bba13-378d-421b-9f0e-d4f5ee95597f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-07-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e4745345a5449344f4445744e5441794e7930304e7a686d4c574a6d4e6a6b745a545978595467774d7a6c6c4e544d354c6e426b5a673d3d&fich=4a8e2881-5027-478f-bf69-e61a8039e539.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-05-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e544e6a5a57566c4d6a59745a4452685a6930305a444d7a4c546731595467744f574d7a4f474d784e6a55355a44646b4c6e426b5a673d3d&fich=53ceee26-d4af-4d33-85a8-9c38c1659d7d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6a63305a6a55344d546b744d4749775a4330304e6a5a6a4c546b7a4e4463744e6d51794d5755784d3249784e6a6b344c6e426b5a673d3d&fich=674f5819-0b0d-466c-9347-6d21e13b1698.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876595459335a5751324d7a63744f54497a5a5330305a6a5a6c4c546c695a574d745a444d314e6a4e6c4d544269596a42694c6e426b5a673d3d&fich=a67ed637-923e-4f6e-9bec-d3563e10bb0b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d7a6c694e446b784e574d74597a49794d7930304d6d526c4c5745774e7a49744f4456684d6a64684e5445314d5449304c6e426b5a673d3d&fich=39b4915c-c223-42de-a072-85a27a515124.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a4a6b4d7a4135595451744f44557a5a4330304d6a51324c546731595445744f474d78596d59314d446c695a6a4e694c6e426b5a673d3d&fich=b2d309a4-853d-4246-85a1-8c1bf509bf3b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6a413159324d784d4751745a54426c4d5330305954646d4c5745344d6a51744d4749305a545268595749325a44426c4c6e426b5a673d3d&fich=605cc10d-e0e1-4a7f-a824-0b4e4aab6d0e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d7a4531595451795a5749745a4468694f4330304f5463344c574a6c5a6a49744f4463784f44646c4d7a49344d325a6a4c6e426b5a673d3d&fich=315a42eb-d8b8-4978-bef2-87187e3283fc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d6a63324d6d466a595751744d6a67344d4330304e6d46684c5745344d5749744d3255784d475a694e54466b4d6d4e6a4c6e426b5a673d3d&fich=2762acad-2880-46aa-a81b-3e10fb51d2cc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d32566b4e7a63314e3251744f444d354d5330304e3256694c5745314f5755744e5463794e7a6c68596a4134597a63784c6e426b5a673d3d&fich=3ed7757d-8391-47eb-a59e-57279ab08c71.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8400",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Educação e Ciência ",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-07-03",
+            "dataNomeacao": "2024-06-12",
+            "gp": "PSD",
+            "id": "7388",
+            "motivoCessacao": "Relatório Final aprovado",
+            "nome": "Inês Barroso"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-03-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-04-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4d34596a457959546c684c5441304f4445744e47466b5a693035596a4d784c546378596d4530595446684d574531597935775a47593d&fich=38b12a9a-0481-4adf-9b31-71ba4a1a1a5c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "314453",
+      "314866",
+      "314885",
+      "314868",
+      "314453",
+      "314866"
+    ],
+    "Iniciativasoriginadas": [
+      "314453",
+      "314866",
+      "314885",
+      "314868"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/15"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435487",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/16"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435520",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/14?pgs=14&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença",
+            "Teor": "Pede a distribuição de parte do programa eleitoral do CH de 2019"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/17"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435522",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/18"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/15?pgs=15&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença",
+            "Teor": "Em resposta aos Pedidos de Esclarecimento de Joana Mortágua (BE) e Pedro Pinto (CH), sublinha que os documentos referidos são públicos"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/13"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435525",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/20"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435526",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/16?pgs=16&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/21"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/17?pgs=17&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/22"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/17?pgs=17&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/23"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435529",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/18?pgs=18&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/24"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435530",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/25"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435531",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/26"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/21?pgs=21&org=PLC"
+              }
+            ],
+            "Sumario": "Horários de trabalho justos, legais e adequados às funções docentes, melhorias das condições de trabalho e de aprendizagem nas escolas; Pela redução progressiva da componente letiva do trabalho semanal dos docentes da educação pré-escolar e do 1.º ciclo do ensino básico; Procede à revogação do atual sistema de acesso aos 5.º e 7.º escalões da carreira docente, procedendo à alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário; Por melhores horários de trabalho para educadores de infância e professores dos ensinos básico e secundário; Recomenda ao Governo a revisão e alteração do regime de mobilidade por doença",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34036",
+    "PetAssunto": "Horários de trabalho justos, legais e adequados às funções docentes. Melhorias das condições de trabalho e de aprendizagem nas escolas",
+    "PetDataEntrada": "2024-04-16",
+    "PeticoesAssociadas": null,
+    "PetId": "34036",
+    "PetLeg": "XVI",
+    "PetNr": "5",
+    "PetNrAssinaturas": "14047",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56687",
+        "obs": null,
+        "pag": [
+          "13-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-07",
+        "pubLeg": "XVI",
+        "pubNr": "97",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/13?pgs=13-21&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915251",
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-11",
+        "pubLeg": "XVI",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/009/2024-05-11/13?pgs=13-14&org=PLC"
+      }
+    ]
+  }
+}
