@@ -1,0 +1,790 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34039",
+  "numero": "8",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-04-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-06-25",
+            "entidades": null,
+            "id": "148840",
+            "tipo": null,
+            "titulo": "Audição em 2024-06-25 com FENPROF – Federação Nacional dos Professores"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-07-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915213",
+                "obs": null,
+                "pag": [
+                  "30-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-05",
+                "pubLeg": "XVI",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/018/2024-07-05/30?pgs=30-32&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "PCP",
+                "L",
+                "CDS-PP"
+              ],
+              "data": "2024-07-03",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+              "id": "126860",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "11",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-05-08",
+        "DataArquivo": "2024-07-03",
+        "DataBaixaComissao": "2024-04-22",
+        "DataEnvioPAR": "2024-07-04",
+        "DataReaberta": "2024-05-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-05-08",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a5957387659325a694d5441794d5755744d4452694e4330305a44686c4c54677a4e4745744f574e6a597a646d596d59304e54686d4c6e426b5a673d3d&fich=cfb1021e-04b4-4d8e-834a-9ccc7fbf458f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596d526d5a4446694f474d744e32526b5a4330304d474d774c546b35597a6774596a4a6b59546469596a63774e5751784c6e426b5a673d3d&fich=bdfd1b8c-7ddd-40c0-99c8-b2da7bb705d1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a51334d47517a595441744e3251304e7930304e6a45784c5749794d5441744e4749784e6d5a69597a51774e44526a4c6e426b5a673d3d&fich=b470d3a0-7d47-4611-b210-4b16fbc4044c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e7a51795a54677a4d6a4574595463354e6930304f474d344c546c6d4e6a6b744f4749785a54526a4d4455334d7a517a4c6e426b5a673d3d&fich=742e8321-a796-48c8-9f69-8b1e4c057343.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6d5a6d4d4445774d5451744d7a63344d6930304f5467354c5745305a444d74595459794f57457a4e47526d4e324d774c6e426b5a673d3d&fich=6ff01014-3782-4989-a4d3-a629a34df7c0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d5749324e7a67334e546774596a51324f5330305a6a68684c546b325a444d74596a63304e6a49335a54637a4e6a55304c6e426b5a673d3d&fich=1b678758-b469-4f8a-96d3-b74627e73654.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d5745324e7a4a6a4f4451745a6a45774d6930304f474a694c5749324e4755745a4445344e5755324d5441785a444a6b4c6e426b5a673d3d&fich=1a672c84-f102-48bb-b64e-d185e6101d2d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f474a6d4d4445314d5759744d3245784f433030595442684c546b30595759744e54686b4d5449334e6a4e694d7a45304c6e426b5a673d3d&fich=8bf0151f-3a18-4a0a-94af-58d12763b314.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765957566c595445304d4451745a6a4a6a4e5330305a5755354c5745324f4441744e7a4a6b4d4467315a5752684d445a6b4c6e426b5a673d3d&fich=aeea1404-f2c5-4ee9-a680-72d085eda06d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e545a6a4f445a6a4f4451744e475a6c4f5330304d7a426c4c546b344e7a45745a6a55314e32597a4f4455314e7a41334c6e426b5a673d3d&fich=56c86c84-4fe9-430e-9871-f557f3855707.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e7a4d784f544e6d4d7a4d745a4759324e693030595449314c5467795a4455744f5451784e574a6c4e5755314e54686b4c6e426b5a673d3d&fich=73193f33-df66-4a25-82d5-9415be5e558d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e575a6a4f475a6a59574574596a5a6c4e433030596a426b4c546c6c4e324d744e574d354d546b794d4459784d544d314c6e426b5a673d3d&fich=5fc8fcaa-b6e4-4b0d-9e7c-5c9192061135.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d575534596a51344d5745744d6a686b4e4330304d44526d4c546c6b4e7a5174596a6c6a59546732593246695a474a6b4c6e426b5a673d3d&fich=1e8b481a-28d4-404f-9d74-b9ca86cabdbd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d6a553359574669596a6b745a5451784e5330304d6a55774c57466a5a4755744f575a6a4d6a517a5957466c597a6b354c6e426b5a673d3d&fich=257aabb9-e415-4250-acde-9fc243aaec99.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f57526b59544d78596d59744f54597a596930305a6a45344c5467784e4451745a444d305a445a6b5a4451344e7a6b334c6e426b5a673d3d&fich=9dda31bf-963b-4f18-8144-d34d6dd48797.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a55774d4459334d474d744d7a41774e5330304e7a51344c5467774e545174593256694f474a6d5a4451305a546c6c4c6e426b5a673d3d&fich=b500670c-3005-4748-8054-ceb8bfd44e9e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d4445774e325a6c4d574d744e4745334e6930304e3255344c5467355a5441744e445a6c596a6b335a4445344f575a6b4c6e426b5a673d3d&fich=0107fe1c-4a76-47e8-89e0-46eb97d189fd.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-07-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e4441794d6a686c4d546b744d575a6a4e7930304e474a6c4c5746694e5745744d6d59354e4749345a6a41334d5464694c6e426b5a673d3d&fich=40228e19-1fc7-44be-ab5a-2f94b8f0717b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-05-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e5467775a57497a5a4755745a544530596930305a5449354c5749774e6a6b745a6a52684e5449325a6a6869596d517a4c6e426b5a673d3d&fich=580eb3de-e14b-4e29-b069-f4a526f8bbd3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a5463794d54466b5a474574596a49344e693030597a4e694c54686b5a446b744d474a6a4d574e6b596a637a5a5463784c6e426b5a673d3d&fich=e7211dda-b286-4c3b-8dd9-0bc1cdb73e71.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e5467304e54457a59544d74596d4e6b4e7930304e5463784c5749795a6d49745a5755784e6d51774e4751775a47566a4c6e426b5a673d3d&fich=584513a3-bcd7-4571-b2fb-ee16d04d0dec.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e54466a4d7a4a684e6a59744d574d794f4330305a445a6c4c57466d4f5451745954417a4d546b334d544535597a6b7a4c6e426b5a673d3d&fich=51c32a66-1c28-4d6e-af94-a03197119c93.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d6a41784d7a466a4f5451744e6a45324e693030596a4a694c5749354e6d49744f5455774f5755784e6d52695a444e6d4c6e426b5a673d3d&fich=20131c94-6166-4b2b-b96b-9509e16dbd3f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f474a6b4f475a6d4f474d744e574d334e4330304e6a4d324c546734597a45744e54517a596a51304f57566a4d4746694c6e426b5a673d3d&fich=8bd8ff8c-5c74-4636-88c1-543b449ec0ab.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f5745784e7a426c4f545174597a4d794f5330305a6a46694c57453259546b744e6d5a6d5a4455344d7a4933597a45304c6e426b5a673d3d&fich=9a170e94-c329-4f1b-a6a9-6ffd58327c14.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d7a49774d54466a4f444d744d5442684e433030597a41314c5467354e6a6b744d324a695a6d4a6c5957597a4f445a6a4c6e426b5a673d3d&fich=32011c83-10a4-4c05-8969-3bbfbeaf386c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f5759324e32557a4d6a59744f574978596930305a54637a4c57497a593259745a6a6c6d4d7a4e6c597a6c6a59546b794c6e426b5a673d3d&fich=9f67e326-9b1b-4e73-b3cf-f9f33ec9ca92.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6a4a684e445a694e4459744f44646d4f5330304e7a526a4c5749344f446b744e475a6c5a6d457a5a4755354d7a59784c6e426b5a673d3d&fich=62a46b46-87f9-474c-b889-4fefa3de9361.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a6a45345a545a6a4d4745744f545a6c4e6930304f4752694c546b79595445744e6a646b4e6a4933595751344e546c6d4c6e426b5a673d3d&fich=f18e6c0a-96e6-48db-92a1-67d627ad859f.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8400",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Educação e Ciência ",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-07-03",
+            "dataNomeacao": "2024-05-08",
+            "gp": "PSD",
+            "id": "1738",
+            "motivoCessacao": "Relatório Final aprovado",
+            "nome": "Pedro Alves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-03-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-04-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4130595467305a475a6c4c544130595449744e44597a5a5330354e575a6b4c54686c4f57557a4d6d466c595749304d7935775a47593d&fich=04a84dfe-04a2-463e-95fd-8e9e32aeab43.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "263490"
+    ],
+    "Iniciativasoriginadas": [
+      "263490"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435488",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira; Contabilização integral do tempo de serviço dos professores e educadores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/28"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira; Contabilização integral do tempo de serviço dos professores e educadores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/30"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435534",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira; Contabilização integral do tempo de serviço dos professores e educadores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435535",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira; Contabilização integral do tempo de serviço dos professores e educadores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435536",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira; Contabilização integral do tempo de serviço dos professores e educadores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435537",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira; Contabilização integral do tempo de serviço dos professores e educadores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435538",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira; Contabilização integral do tempo de serviço dos professores e educadores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435539",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira; Contabilização integral do tempo de serviço dos professores e educadores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435541",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira; Contabilização integral do tempo de serviço dos professores e educadores",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34039",
+    "PetAssunto": "Recuperação do tempo de serviço congelado e ainda não contabilizado para efeitos de carreira",
+    "PetDataEntrada": "2024-04-17",
+    "PeticoesAssociadas": null,
+    "PetId": "34039",
+    "PetLeg": "XVI",
+    "PetNr": "8",
+    "PetNrAssinaturas": "18894",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56688",
+        "obs": null,
+        "pag": [
+          "21-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-07",
+        "pubLeg": "XVI",
+        "pubNr": "97",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/21?pgs=21-29&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915253",
+        "obs": null,
+        "pag": [
+          "15-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-11",
+        "pubLeg": "XVI",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/009/2024-05-11/15?pgs=15&org=PLC"
+      }
+    ]
+  }
+}
