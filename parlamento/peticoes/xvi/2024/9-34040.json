@@ -1,0 +1,715 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34040",
+  "numero": "9",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-04-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-06-25",
+            "entidades": null,
+            "id": "148841",
+            "tipo": null,
+            "titulo": "Audição em 2024-06-25 com FENPROF – Federação Nacional dos Professores"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-07-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915214",
+                "obs": null,
+                "pag": [
+                  "32-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-05",
+                "pubLeg": "XVI",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/018/2024-07-05/32?pgs=32-39&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "PCP",
+                "L",
+                "CDS-PP"
+              ],
+              "data": "2024-07-03",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+              "id": "126861",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "11",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-05-08",
+        "DataArquivo": "2024-07-03",
+        "DataBaixaComissao": "2024-04-22",
+        "DataEnvioPAR": "2024-07-04",
+        "DataReaberta": "2024-05-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-05-08",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d6a4a6c4f574a6b4e7a45745a6a45794e5330304f546b344c546c6d4e6a4574593246684e6a56684f44466b4d6d4d334c6e426b5a673d3d&fich=22e9bd71-f125-4998-9f61-caa65a81d2c7.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f54426d4e6d51784e7a67744e5441784f43303059574a694c546c684f4459744d324d784e6d5a6a4d546c6a5a6a6b7a4c6e426b5a673d3d&fich=90f6d178-5018-4abb-9a86-3c16fc19cf93.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876595759775a4751335a5463744d6a5533595330304e7a6b334c57466b4e7a6b744d6a55775a4756684e4759335a6d497a4c6e426b5a673d3d&fich=af0dd7e7-257a-4797-ad79-250dea4f7fb3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a5957387659324e68595441784d6a63744e6a41354d7930304d4467324c57466b596d4974597a566b4f5451335a6a4d79597a4d774c6e426b5a673d3d&fich=ccaa0127-6093-4086-adbb-c5d947f32c30.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6a686b4e7a6c6c4e7a6b745a44566a4d533030597a677a4c546b785a4449744d544a6a4e7a566a4e545269597a526c4c6e426b5a673d3d&fich=68d79e79-d5c1-4c83-91d2-12c75c54bc4e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876595459774e5755314e6d59744e324d77597930304f5759314c5749324f5467744d6a453559544d774d7a5930597a46684c6e426b5a673d3d&fich=a605e56f-7c0c-49f5-b698-219a30364c1a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f575a6c4e5464694d6a41744e5445784f433030596d49314c574a6a5a4755745a4445344e6a67794d6a646a5a5446684c6e426b5a673d3d&fich=9fe57b20-5118-4bb5-bcde-d1868227ce1a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e574669596a42695a4749744d7a4d345a53303059546c6b4c5745324e44597459324d35595755775a6d49795a44566a4c6e426b5a673d3d&fich=5abb0bdb-338e-4a9d-a646-cc9ae0fb2d5c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a6a41774d5752694d6a4d74597a526a5a6930304d4449784c5749784e6d55744e7a56684e4459774f544a6c4d3245304c6e426b5a673d3d&fich=f001db23-c4cf-4021-b16e-75a46092e3a4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6d51344d6a41314d5463744e54646c4e533030597a41794c546b354d3251744d546b304f546b334d6d4533597a566b4c6e426b5a673d3d&fich=6d820517-57e5-4c02-993d-1949972a7c5d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d4467794d5755335a4455744e6d517a4e5330304e5459324c5745354e54637459575668593249344e7a413559546c6b4c6e426b5a673d3d&fich=0821e7d5-6d35-4566-a957-aeacb8709a9d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d6a4e694f446b334e5459744e6d55314f4330304e4759314c546b774f4751744d47553459574a684e6a46684e4755794c6e426b5a673d3d&fich=23b89756-6e58-44f5-908d-0e8aba61a4e2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d5755774d3245794e5459744e7a4934597930304e3251334c574a6a4e6d4d744d6d51785a6d4e6c4d6a59774e7a59794c6e426b5a673d3d&fich=1e03a256-728c-47d7-bc6c-2d1fce260762.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876597a686a4d47566a4f574d744d6a59794f5330304f4745324c5749314d6a4d744d324534595467775a575a6c597a45304c6e426b5a673d3d&fich=c8c0ec9c-2629-48a6-b523-3a8a80efec14.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876597a59794f5441314d574574596a5a694e433030596a426b4c5745794e4759745a5745344e5745324f444d344e6a4e6d4c6e426b5a673d3d&fich=c629051a-b6b4-4b0d-a24f-ea85a683863f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d57466a4d446331596d49744d6a4d784e7930304f4755774c574a6b593259744d3246694f475a6b4d6a4e684e6a51344c6e426b5a673d3d&fich=1ac075bb-2317-48e0-bdcf-3ab8fd23a648.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e3255794e32597a4e6a5974596a4d7a4f5330305a6d5a694c574a6c595749744d7a41794d5451784e5467324f574a6d4c6e426b5a673d3d&fich=7e27f366-b339-4ffb-beab-3021415869bf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e7a45345a6a63304f5463745a4751354f4330304d7a4d324c57466c4d545574597a637a4f5445314e474a6b4d6a6b784c6e426b5a673d3d&fich=718f7497-dd98-4336-ae15-c739154bd291.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6a51334f4455304e5445744e4756694f4330304f4468694c57466c5a6d4d744d546b7a5a6d49354d5445325a5455784c6e426b5a673d3d&fich=64785451-4eb8-488b-aefc-193fb9116e51.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-07-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596d4d774d545a6d4e6a6b744e6a63314d5330305a5442684c574a6c4e7a4574597a55354f4759795a6d59355a444e6c4c6e426b5a673d3d&fich=bc016f69-6751-4e0a-be71-c598f2ff9d3e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-05-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a5957387659544d794d546c6a4e5749744e3245314d793030596d45304c54677a593255744e4464694f446b784d7a67314d324a6a4c6e426b5a673d3d&fich=a3219c5b-7a53-4ba4-83ce-47b8913853bc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a5749334e7a6b354d7a49744f445935595330304d4451344c54686b4d6a6374596a646c4d325a6c596a4d305a4745784c6e426b5a673d3d&fich=eb779932-869a-4048-8d27-b7e3feb34da1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a6b304e444d785a574d744e6d5a6a4d6930304d7a55794c546735595745744e4449335957593359574e6c4f5455794c6e426b5a673d3d&fich=b94431ec-6fc2-4352-89aa-427af7ace952.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a68685a545a6b4f4459744f545577597930304f57466d4c57497a4e6a4d744e4759334d5463794d6d49315a5456684c6e426b5a673d3d&fich=b8ae6d86-950c-49af-b363-4f71722b5e5a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6a4178595441344d6a49744e544a6a5a533030596a5a694c546b324d6a59744d446b774f5456684f574d774d6a4e684c6e426b5a673d3d&fich=601a0822-52ce-4b6b-9626-09095a9c023a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765954517859574a6c4d6d55744e4746694d7930305a6d51324c5467355a6d51744d47466c4e544d31593251334d4455324c6e426b5a673d3d&fich=a41abe2e-4ab3-4fd6-89fd-0ae535cd7056.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d6d55354f475130596a6b745a546b785a4330304e446b7a4c574a6a4f5455744e44646d4e47526c4f5749344d575a684c6e426b5a673d3d&fich=2e98d4b9-e91d-4493-bc95-47f4de9b81fa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876595463794d6a51344f444d745a445132597930304f47457a4c5467794e5745744f4441344d6a4d35596d4d7a4e4745344c6e426b5a673d3d&fich=a7224883-d46c-48a3-825a-808239bc34a8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876593245334d6d466b593245744e7a45335a5330304d3246684c5746694e4749745a474e6c4d7a4d774d544a6d4e7a646c4c6e426b5a673d3d&fich=ca72adca-717e-43aa-ab4b-dce33012f77e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f44466b4d44426d5a5755744e6d526c4e7930304d5751774c5745344f5455744d5449325a47466c4d6a4177597a4a684c6e426b5a673d3d&fich=81d00fee-6de7-41d0-a895-126dae200c2a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a446c6d4d6a6c6b4e4441744d4745305a5330304d6d55314c5468694f4445744e5755355954597a4e6a45795a54426a4c6e426b5a673d3d&fich=d9f29d40-0a4e-42e5-8b81-5e9a63612e0c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a4751355a6a5131597a63745a5449354f433030597a67354c5749795a5759744d6a6b314e7a55344e6a686859544d324c6e426b5a673d3d&fich=dd9f45c7-e298-4c89-b2ef-29575868aa36.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e7a41314f446b304e6a63745a444134596930304d4745354c5745354d7a45744f5455794f574a6c596a4d7a4f544e6b4c6e426b5a673d3d&fich=70589467-d08b-40a9-a931-9529beb3393d.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8400",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Educação e Ciência ",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-07-03",
+            "dataNomeacao": "2024-05-08",
+            "gp": "PS",
+            "id": "6867",
+            "motivoCessacao": "Relatório Final aprovado",
+            "nome": "Rosário Gambôa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-03-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-04-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a646a4d6d4d795a5445334c546332595441744e44466c4f4331694e6d5a684c57466d4e6a55794e3251794d324d794d6935775a47593d&fich=7c2c2e17-76a0-41e8-b6fa-af6527d23c22.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "263771",
+      "314864",
+      "314877",
+      "263771"
+    ],
+    "Iniciativasoriginadas": [
+      "263771",
+      "314864",
+      "314877"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Eliminar a precariedade na profissão docente; Cria o regime de compensação a docentes deslocados; Vinculação extraordinária de todos os docentes com três ou mais anos de serviço; Eliminar a precariedade e promover o acesso aos mestrados em ensino e à profissionalização em serviço dos docentes com habilitação própria",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435542",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Eliminar a precariedade na profissão docente; Cria o regime de compensação a docentes deslocados; Vinculação extraordinária de todos os docentes com três ou mais anos de serviço; Eliminar a precariedade e promover o acesso aos mestrados em ensino e à profissionalização em serviço dos docentes com habilitação própria",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435543",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Eliminar a precariedade na profissão docente; Cria o regime de compensação a docentes deslocados; Vinculação extraordinária de todos os docentes com três ou mais anos de serviço; Eliminar a precariedade e promover o acesso aos mestrados em ensino e à profissionalização em serviço dos docentes com habilitação própria",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435544",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Eliminar a precariedade na profissão docente; Cria o regime de compensação a docentes deslocados; Vinculação extraordinária de todos os docentes com três ou mais anos de serviço; Eliminar a precariedade e promover o acesso aos mestrados em ensino e à profissionalização em serviço dos docentes com habilitação própria",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435545",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Eliminar a precariedade na profissão docente; Cria o regime de compensação a docentes deslocados; Vinculação extraordinária de todos os docentes com três ou mais anos de serviço; Eliminar a precariedade e promover o acesso aos mestrados em ensino e à profissionalização em serviço dos docentes com habilitação própria",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435546",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Eliminar a precariedade na profissão docente; Cria o regime de compensação a docentes deslocados; Vinculação extraordinária de todos os docentes com três ou mais anos de serviço; Eliminar a precariedade e promover o acesso aos mestrados em ensino e à profissionalização em serviço dos docentes com habilitação própria",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435547",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores) - Eliminar a precariedade na profissão docente; Cria o regime de compensação a docentes deslocados; Vinculação extraordinária de todos os docentes com três ou mais anos de serviço; Eliminar a precariedade e promover o acesso aos mestrados em ensino e à profissionalização em serviço dos docentes com habilitação própria",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34040",
+    "PetAssunto": "Eliminar a precariedade na profissão Docente",
+    "PetDataEntrada": "2024-04-17",
+    "PeticoesAssociadas": null,
+    "PetId": "34040",
+    "PetLeg": "XVI",
+    "PetNr": "9",
+    "PetNrAssinaturas": "13462",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56689",
+        "obs": null,
+        "pag": [
+          "29-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-07",
+        "pubLeg": "XVI",
+        "pubNr": "97",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/29?pgs=29-35&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915254",
+        "obs": null,
+        "pag": [
+          "15-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-11",
+        "pubLeg": "XVI",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/009/2024-05-11/15?pgs=15-16&org=PLC"
+      }
+    ]
+  }
+}
