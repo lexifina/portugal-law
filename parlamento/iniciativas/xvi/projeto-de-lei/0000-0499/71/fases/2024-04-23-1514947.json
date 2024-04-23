@@ -1,0 +1,159 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "71",
+    "id": "263612",
+    "titulo": "Alarga o período da época balnear e da vigilância e salvamento nas praias"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-04-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75250",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-04-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-05-22",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d544e6a4d44646d4e79316b5a4751334c5451344e475574596d5579596930324d32466d4e325a694d474e6c4d4755756347526d&fich=c13c07f7-ddd7-484e-be2b-63af7fb0ce0e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-06-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793831596a51784f4751785a6930794f44517a4c5451344d7a41744f446c6a4d53307a4d325132597a41784f474d325a5755756347526d&fich=5b418d1f-2843-4830-89c1-33d6c018c6ee.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-06-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d7a56685a6a457a5a43307859324d344c54526d4f5463744f5442694e6930354f4759794e6a68694f5463795a5441756347526d&fich=435af13d-1cc8-4f97-90b6-98f268b972e0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Federação Portuguesa de Nadadores Salvadores ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a474a694f5449334f5330785a44526b4c5451324e44517459574d304e69316d4f4463305a4745345a545a684d4749756347526d&fich=fdbb9279-1d4d-4644-ac46-f874da8e6a0b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Autoridade Marítima Nacional ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938355a5468684d7a4e6c4d7930324d6a4d354c54526b596a4174595445785a5330345a4455304f4455304d4449325a4445756347526d&fich=9e8a33e3-6239-4db0-a11e-8d54854026d1.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8405",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Poder Local e Coesão Territorial",
+        "Numero": "8405",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "8411",
+            "motivoCessacao": null,
+            "nome": "Luís Newton"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "IL",
+              "BE",
+              "L",
+              "PCP",
+              "CDS-PP",
+              "PAN"
+            ],
+            "data": "2024-06-11",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>, <I> PAN</I>",
+            "id": "126711",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "9",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-04-23",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1514947",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1018512",
+        "obs": null,
+        "pag": [
+          "2-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-06-11",
+        "pubLeg": "XVI",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/043/2024-06-11/2?pgs=2-5&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
