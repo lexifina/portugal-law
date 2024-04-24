@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "1",
+    "id": "263602",
+    "titulo": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares"
+  },
+  "fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+  "codigo_fase": "237",
+  "data_registo": "2024-04-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a557a4e5459334d4463745a47466a595330304e6d45794c5467794f545574595445304e7a466a4d4463354f5755314c6e426b5a673d3d&fich=35356707-daca-46a2-8295-a1471c0799e5.pdf&Inline=true",
+        "anexoNome": "Requerimento PSD"
+      }
+    ],
+    "CodigoFase": "237",
+    "Comissao": null,
+    "DataFase": "2024-04-24",
+    "EvtId": "122",
+    "Fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1514969",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1018250",
+        "obs": null,
+        "pag": [
+          "77-77"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-04-26",
+        "pubLeg": "XVI",
+        "pubNr": "10",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/010/2024-04-26/77?pgs=77&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2024-04-24",
+        "descricao": "Requerimento, apresentado pelo PSD solicitando a baixa à Comissão de Orçamento, Finanças e Administração Pública, sem votação, por 15 dias, da Proposta de Lei n.º 1/XVI/1.ª (GOV)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I><BR>Abstenção:<I>BE</I>, <I> L</I>",
+        "id": "126510",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "10",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
