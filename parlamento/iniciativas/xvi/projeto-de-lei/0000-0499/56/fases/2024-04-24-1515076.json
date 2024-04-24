@@ -1,0 +1,927 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "56",
+    "id": "263578",
+    "titulo": "Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença COVID-19"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2024-04-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "30114",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2024-04-24",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263569",
+        "leg": "XVI",
+        "nr": "50",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263579",
+        "leg": "XVI",
+        "nr": "57",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao país e premiar o esforço dado no âmbito da crise sanitária provocada pela COVID-19, alterando diversos diplomas"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263581",
+        "leg": "XVI",
+        "nr": "58",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Valorização profissional e remuneratória dos enfermeiros no SNS"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263584",
+        "leg": "XVI",
+        "nr": "60",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elimina as posições remuneratórias intermédias dos enfermeiros, alterando pela segunda vez o Decreto-Lei n.º 71/2019, de 27 de maio"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263571",
+        "leg": "XVI",
+        "nr": "35",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263585",
+        "leg": "XVI",
+        "nr": "39",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36552",
+            "obs": null,
+            "pag": [
+              "53-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-25",
+            "pubLeg": "XVI",
+            "pubNr": "23",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a contagem de pontos e reposição da paridade entre a Carreira de Enfermagem e a Carreira Técnica Superior da Administração Pública\n\n"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-04-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:21",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-25",
+                "pubLeg": "XVI",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/023/2024-05-25/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiando o esforço dado no âmbito da crise sanitária provocada pela covid-19; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros, alterando pela segunda vez o Decreto-Lei n.º 71/2019, de 27 de maio; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública\n",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1515076",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1018239",
+        "obs": null,
+        "pag": [
+          "75-75"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-04-26",
+        "pubLeg": "XVI",
+        "pubNr": "10",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/010/2024-04-26/75?pgs=75&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2024-04-24",
+        "descricao": null,
+        "detalhe": "A Favor: <I>CH</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> PAN</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>",
+        "id": "126519",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "10",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
