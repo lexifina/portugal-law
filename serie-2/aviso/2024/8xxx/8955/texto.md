@@ -1,0 +1,10 @@
+Aviso n.º 8955/2024/2
+
+Mandato 2021/2025
+Abertura de período de consulta pública - Projeto do Regulamento do Licenciamento e Fiscalização da Atividade de Guarda-Noturno no Município de Santa Cruz
+Filipe Martiniano Martins de Sousa, Presidente da Câmara Municipal de Santa Cruz, torna público, em cumprimento do disposto na alínea t) do n.º 1 do artigo 35.º conjugado com o n.º 1 do artigo 56.º, ambos, da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal de Santa Cruz, em decorrência da reunião ordinária realizada no dia 01 de fevereiro de 2024, deliberou dar início ao procedimento regulamentar para revisão e alteração do Regulamento Municipal do Licenciamento e da Fiscalização da Atividade de Guarda-Noturno do Município de Santa Cruz, nos termos e para os efeitos do n.º 1 do artigo 98.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro (doravante designado, apenas, por CPA).
+Uma vez decorrido o prazo para a constituição de interessados, n.º 1 do artigo 100.º do CPA, procede-se à consulta pública deste Projeto de Regulamento como previsto nos termos o artigo n.º 1 e 2 do artigo 101.º do CPA, para que os interessados possam dirigir, por escrito, as suas sugestões ao órgão com competência regulamentar, no prazo de 30 dias úteis, a contar da data da publicação na 2.ª série do Diário da República.
+O Projeto de Regulamento encontra-se disponível para consulta ao público no Balcão de Atendimento dos Paços do Concelho, na Loja do Munícipe na freguesia do Caniço, e nas respetivas Juntas de Freguesia do Concelho de Santa Cruz, durante o período normal de funcionamento, e na página institucional da Câmara Municipal de Santa Cruz (www.cm-santacruz.pt).
+Os contributos deverão ser formulados por escrito até ao final do período mencionado, em requerimento dirigido ao Senhor Presidente da Câmara Municipal, a apresentar no balcão de atendimento, ou através de correio eletrónico para o endereço geral@cm-santacruz.pt.
+8 de abril de 2024. - O Presidente da Câmara, Filipe Martiniano Martins de Sousa.
+317580179
