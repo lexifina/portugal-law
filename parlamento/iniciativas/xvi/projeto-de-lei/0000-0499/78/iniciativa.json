@@ -1,0 +1,97 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "78",
+  "id": "263626",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-04-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a426a4e6a4e6c4e7a55745a54417a4f53303059544e6b4c574530596a51745a5445794d57566d597a4a6a596a4d794c6e426b5a673d3d&fich=b0c63e75-e039-4a3d-a4b4-e121efc2cb32.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a63785a6a52684d474d745a47566b4d7930304e44466c4c5467354e446b744d6d59784d6a453159575134597a42684c6d52765933673d&fich=371f4a0c-ded3-441e-8949-2f1215ad8c0a.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa - versão 1"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "IL",
+        "idCadastro": "6945",
+        "nome": "Rodrigo Saraiva"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7393",
+        "nome": "Bernardo Blanco"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7343",
+        "nome": "Carlos Guimarães Pinto"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7339",
+        "nome": "Joana Cordeiro"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7973",
+        "nome": "Mariana Leitão"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "8636",
+        "nome": "Mário Amorim Lopes"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7349",
+        "nome": "Patrícia Gilvaz"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7331",
+        "nome": "Rui Rocha"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "IL"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263626",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a677a4f574933596a45745a6a5a684e4330304d4441344c574530596a4d744d54426b4f44686d4d5755344d4755784c6d52765933673d&fich=3839b7b1-f6a4-4008-a4b3-10d88f1e80e1.docx&Inline=true",
+    "IniNr": "78",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto da iniciativa a pedido do autor em 2024-05-02.",
+    "IniTipo": "J",
+    "IniTitulo": "Elimina o Dia de Reflexão e modifica os períodos de votação",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
