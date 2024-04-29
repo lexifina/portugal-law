@@ -1,0 +1,874 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34048",
+  "numero": "17",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-04-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-06-18",
+            "entidades": null,
+            "id": "148813",
+            "tipo": null,
+            "titulo": "Audição em 2024-06-18 com SINAPE - Sindicato Nacional dos Profissionais da Educação"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-07-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915215",
+                "obs": null,
+                "pag": [
+                  "40-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-05",
+                "pubLeg": "XVI",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/018/2024-07-05/40?pgs=40-43&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "PCP",
+                "L",
+                "CDS-PP"
+              ],
+              "data": "2024-07-03",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+              "id": "126862",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "11",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-05-14",
+        "DataArquivo": "2024-07-03",
+        "DataBaixaComissao": "2024-04-30",
+        "DataEnvioPAR": "2024-07-04",
+        "DataReaberta": "2024-05-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-05-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a677a4d7a4d305a5445745a5455304d4330304d7a67354c546c694d7a45744e6d526b4f54517a4e7a46684e57566a4c6e426b5a673d3d&fich=b83334e1-e540-4389-9b31-6dd94371a5ec.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a546334597a526a4f546b744e7a4a6c595330304d7a4d354c5467794f574d74595749305954646b597a4933596a64694c6e426b5a673d3d&fich=e78c4c99-72ea-4339-829c-ab4a7dc27b7b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a6a45344e6d4d774e4751744d474d774f5330305954686d4c54686a4d6a59744d44466a4e32566a4d7a4a684e4449784c6e426b5a673d3d&fich=f186c04d-0c09-4a8f-8c26-01c7ec32a421.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6a466b597a426d59325574596a55334e4330305a5455314c5745334d3249744f446b7a4e574a6b4d6d4e6a5a5759344c6e426b5a673d3d&fich=61dc0fce-b574-4e55-a73b-8935bd2ccef8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e54526c59544e6c4e6d4d7459324d35596930304e445a6d4c57466b4f474974596d59345a6a646a597a4d785a544d314c6e426b5a673d3d&fich=54ea3e6c-cc9b-446f-ad8b-bf8f7cc31e35.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d546c6b5a6d55314e6a4d74597a4a6c4d6930304f575a6d4c57457a4d5459745a5441354d6a55315a6d5a68596a56684c6e426b5a673d3d&fich=19dfe563-c2e2-49ff-a316-e09255ffab5a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f4755344d575530595749745a6a46684d7930304d324d774c5467334d6a4d7459544d774d6d45354d5445774e7a41344c6e426b5a673d3d&fich=8e81e4ab-f1a3-43c0-8723-a302a9110708.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d4446684d5467345a5459744f4745324d5330304f4451354c574a684d546b744f4745344e446b774e546c6d4e574a6c4c6e426b5a673d3d&fich=01a188e6-8a61-4849-ba19-8a849059f5be.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d7a566d4e47566a59544d744d545a695a53303059544e684c5749774f5455745a4441344d7a41774e4749324d6a4e694c6e426b5a673d3d&fich=35f4eca3-16be-4a3a-b095-d083004b623b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6d49785a544d785a6a55744e54677a4d6930304f5456684c5749784e575574596d45304d5455344e54566a4f5467304c6e426b5a673d3d&fich=6b1e31f5-5832-495a-b15e-ba415855c984.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e44426a4d32553459575974595467354d6930304e444a684c5467324e6a49745a445a6b59546778596a4e694e54566d4c6e426b5a673d3d&fich=40c3e8af-a892-442a-8662-d6da81b3b55f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a49775a5455324d6a51744d5449324d5330304d7a63304c5467305a4467744e4749794d5451354e444a6a4e7a51324c6e426b5a673d3d&fich=b20e5624-1261-4374-84d8-4b214942c746.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f475977596a63784d4467744e6a677a595330304d6a4d784c5745774e444174597a646a4e4759304e6a4d304d6a6b794c6e426b5a673d3d&fich=8f0b7108-683a-4231-a040-c7c4f4634292.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f546b7a5a47457a5a4751745932557a597930304d7a4e6c4c5467304f5455745a575a694d3245344e6a4e694f444d314c6e426b5a673d3d&fich=993da3dd-ce3c-433e-8495-efb3a863b835.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e54597a4d474e6c4f475974596d56695a6930304e5745774c54686d4e3251745a6a49305a6a63305a4445345a5456684c6e426b5a673d3d&fich=5630ce8f-bebf-45a0-8f7d-f24f74d18e5a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876597a5134597a6c6b596a67745954466a4e4330304e6a6b324c546c6b5a444d745a6d5979595751345a4751785a6a4a6a4c6e426b5a673d3d&fich=c48c9db8-a1c4-4696-9dd3-ff2ad8dd1f2c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e324e6b595751334f574d744e5459344e5330304e444e6c4c57497a4d3245744d6a51354d7a6c69593251334d5749334c6e426b5a673d3d&fich=7cdad79c-5685-443e-b33a-24939bcd71b7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596a5135595464684e3249744d6a597a5a43303059546c6d4c5467354e7a41744e7a59785a6a6332595467324d6d56684c6e426b5a673d3d&fich=b49a7a7b-263d-4a9f-8970-761f76a862ea.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d6a4d7a4e6a5932596d4d745a475a6d4d5330304d57517a4c5749324e5749744e444935595745794e4751794d6a4a684c6e426b5a673d3d&fich=233666bc-dff1-41d3-b65b-429aa24d222a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-07-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876595759784e54517a597a41744d44557a4f5330304e3259314c546b7a4d324d745a6d49795a6a4e6b5a444a6c5a574e6c4c6e426b5a673d3d&fich=af1543c0-0539-47f5-933c-fb2f3dd2eece.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-05-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e4459334d57526b4e3259744e3255344e7930304e544e6a4c546c694f5441744d6d49334f54686b4d6a49355a5455314c6e426b5a673d3d&fich=4671dd7f-7e87-453c-9b90-2b798d229e55.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6d557a4e7a59304e7a6b744e324d3559533030597a566c4c574930596a4d74597a51775a5467775a6a63774e5449314c6e426b5a673d3d&fich=6e376479-7c9a-4c5e-b4b3-c40e80f70525.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d545a684e545532596a59744d6d597a4d5330304d7a67304c546b35597a49744f5451344f4751314e6d59314e6a59354c6e426b5a673d3d&fich=16a556b6-2f31-4384-99c2-9488d56f5669.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a5957387659574d325a4751794e446b7459546b304e793030596a686b4c574a6b4e7a55745a4463314d4755794e6d52684d325a6d4c6e426b5a673d3d&fich=ac6dd249-a947-4b8d-bd75-d750e26da3ff.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d44426d4f4755774d7a6b744d7a59334e693030596a49794c57466a4e4749745a446b314d3249324e574d345a444e6a4c6e426b5a673d3d&fich=00f8e039-3676-4b22-ac4b-d953b65c8d3c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a4749345a6a63324e6a51744e544d7a4e4330304e444a6a4c5749774e5759745a6a41304f5749784f5745774d6d56694c6e426b5a673d3d&fich=db8f7664-5334-442c-b05f-f049b19a02eb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e3252684e6d457a4e4441744e6d51314f433030596d566a4c5467344e5467744f4459355932466b5a5745324f44417a4c6e426b5a673d3d&fich=7da6a340-6d58-4bec-8858-869cadea6803.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f4755344d6a63335a574974597a426c4e5330304e324e6d4c546b79595449744e5463775a444e6b5a446c6d4e4759774c6e426b5a673d3d&fich=8e8277eb-c0e5-47cf-92a2-570d3dd9f4f0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a5467334d57566d4e324d744d44426b597930305954686d4c574a6b59546b744f5464684d546b335a6a426d4e5463354c6e426b5a673d3d&fich=e871ef7c-00dc-4a8f-bda9-97a197f0f579.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a5451785a6a5a685a5467744d4467314f533030593255304c5467324d7a51744d6d59794f4749334d6a41784e6d466b4c6e426b5a673d3d&fich=e41f6ae8-0859-4ce4-8634-2f28b72016ad.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a545a6b5954466b4d324d744f44457a4e4330304e474d354c5467304d4751745a5751324e6a55304e6d566b4e6a41794c6e426b5a673d3d&fich=e6da1d3c-8134-44c9-840d-ed66546ed602.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8400",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Educação e Ciência ",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-07-03",
+            "dataNomeacao": "2024-05-14",
+            "gp": "CH",
+            "id": "8414",
+            "motivoCessacao": "Relatório Final aprovado",
+            "nome": "Luísa Areosa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-03-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-04-30",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a686d4e5459784e6d49334c5446694f4755744e4459335a53303459574d334c546c695954566859544e684f44526c5a4335775a47593d&fich=8f5616b7-1b8e-467e-8ac7-9ba5aa3a84ed.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "304148",
+      "294110",
+      "304264",
+      "314810",
+      "314858",
+      "314862",
+      "314869",
+      "314870",
+      "314881",
+      "294110"
+    ],
+    "Iniciativasoriginadas": [
+      "304148",
+      "294110",
+      "304264",
+      "314810",
+      "314858",
+      "314862",
+      "314869",
+      "314870",
+      "314881"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435491",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos \ntrabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos trabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos trabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos trabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/59"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos trabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos trabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos trabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/62"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos trabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos trabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação",
+            "Teor": "Apresenta a Defesa da Honra, contestando as afirmações que lhe foram dirigidas por Joana Mortágua (BE)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Sindicato Nacional dos Profissionais da Educação (SINAPE) - Pela criação da carreira de técnico auxiliar de educação; Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - Pela criação de carreiras especiais para os trabalhadores não docentes das escolas da rede pública e dotar as escolas dos trabalhadores efetivamente necessários à prossecução da sua função pública com qualidade e segurança; Cria a carreira especial de técnico auxiliar de educação; Recomenda ao Governo o incremento de formação adequada aos técnicos auxiliares não docentes no ensino escolar; Recomenda ao Governo a criação da carreira de técnico auxiliar de educação; Recomenda ao Governo que valorize os assistentes operacionais e os assistentes técnicos, revendo o rácio nas escolas e definindo os conteúdos funcionais adequados; Valorização profissional e reforço do número de trabalhadores não docentes na escola pública; Recomenda ao Governo a criação das carreiras especiais na área da educação; Pela criação da carreira de técnico auxiliar de educação e a sua respetiva valorização; Recomenda ao Governo a criação de carreiras especiais para os trabalhadores não docentes; Por uma carreira digna e justa para os técnicos auxiliares de educação",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": [
+      {
+        "DataDocumento": "2024-04-30",
+        "TipoDocumento": "Link",
+        "URL": "https://studio.youtube.com/video/g58j98Z9ewM/edit"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34048",
+    "PetAssunto": "Pela criação da carreira de Técnico Auxiliar de Educação",
+    "PetDataEntrada": "2024-04-29",
+    "PeticoesAssociadas": null,
+    "PetId": "34048",
+    "PetLeg": "XVI",
+    "PetNr": "17",
+    "PetNrAssinaturas": "8732",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56691",
+        "obs": null,
+        "pag": [
+          "44-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-07",
+        "pubLeg": "XVI",
+        "pubNr": "97",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/44?pgs=44-52&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915255",
+        "obs": null,
+        "pag": [
+          "30-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-18",
+        "pubLeg": "XVI",
+        "pubNr": "10",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/010/2024-05-18/30?pgs=30-31&org=PLC"
+      }
+    ]
+  }
+}
