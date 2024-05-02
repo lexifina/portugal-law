@@ -1,0 +1,786 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34059",
+  "numero": "22",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-05-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-06-11",
+            "entidades": null,
+            "id": "148801",
+            "tipo": null,
+            "titulo": "Audição em 2024-06-11 com Peticionários da Petição n.º 22/XVI/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-07-12",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915219",
+                "obs": null,
+                "pag": [
+                  "23-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-13",
+                "pubLeg": "XVI",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/020/2024-07-13/23?pgs=23-27&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-05-22",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-05-08",
+        "DataEnvioPAR": "2024-07-12",
+        "DataReaberta": "2024-05-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-05-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938354e3251774f54457a4d5330324f545a6d4c5451355a5751744f5745324e4330784f5752694e4459324d7a426b4e4467756347526d&fich=97d09131-696f-49ed-9a64-19db46630d48.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-11",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396959545a6d595442684d6931684f4445324c54517a595463744f5441354e793035596a45774d6a49785a546b354d6a55756347526d&fich=ba6fa0a2-a816-43a7-9097-9b10221e9925.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-07-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396a4f44566b5a6d56694d6931694d7a4a6b4c54526b59575574596d55324e433030597a5a6a4d444131597a4e6d4e7a6b756347526d&fich=c85dfeb2-b32d-4dae-be64-4c6c005c3f79.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-07-12",
+            "dataNomeacao": "2024-05-22",
+            "gp": "PS",
+            "id": "6962",
+            "motivoCessacao": "Aprovação do relatório em reunião de comissão de saúde",
+            "nome": "Susana Correia"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-06-26",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-05-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a526c5a475a6b4d546b344c5746694e5749744e474930595330355a546b774c5759344e5751314f5451314e444534596935775a47593d&fich=4edfd198-ab5b-4b4a-9e90-f85d5945418b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "263534",
+      "315136",
+      "315120",
+      "315125",
+      "315136"
+    ],
+    "Iniciativasoriginadas": [
+      "263534",
+      "315136",
+      "315120",
+      "315125"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/45"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": "Formulou um pedido de esclarecimento à deputada Paula Santos (PCP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Manifesto da insubmissão médica aos poderes político e económico; Reintegra o internato médico na carreira médica, alterando diversos diplomas; Valorização da carreira médica; Recomenda ao Governo a revisão do calendário de escolha das especialidades médicas; Recomenda ao Governo que crie uma bolsa de formação específica destinada a médicos internos",
+            "Teor": "Respondeu a pedido de esclarecimento do deputado Mário Amorim Lopes (IL)"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34059",
+    "PetAssunto": "Manifesto da Insubmissão Médica aos poderes político e económico",
+    "PetDataEntrada": "2024-05-02",
+    "PeticoesAssociadas": null,
+    "PetId": "34059",
+    "PetLeg": "XVI",
+    "PetNr": "22",
+    "PetNrAssinaturas": "9303",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56701",
+        "obs": null,
+        "pag": [
+          "30-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-06-27",
+        "pubLeg": "XVII",
+        "pubNr": "5",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/30?pgs=30-36&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915256",
+        "obs": null,
+        "pag": [
+          "24-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-25",
+        "pubLeg": "XVI",
+        "pubNr": "11",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/011/2024-05-25/24?pgs=24-29&org=PLC"
+      }
+    ]
+  }
+}
