@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "84",
+    "id": "263639",
+    "titulo": "Adita a Associação Nacional dos Deficientes Sinistrados no Trabalho como entidade beneficiária de 1% do montante das coimas aplicadas por violação das regras de segurança e saúde no trabalho ou resultantes do incumprimento de regras de reparação de acidentes de trabalho"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-05-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75284",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-05-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2024-06-07",
+        "DatainicioApreciacaoPublica": "2024-05-08",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-05-29",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XVILeg/10CTSSI/Paginas/Iniciativas-em-Apreciacao-Publica-.aspx?t=4d533743716942545a584e7a77364e764945786c5a326c7a6247463061585a684c31424b544341344e463959566b6c664d533743716c39515131413d&Path=lZg9h2Bbje%2f%2fkp16eyNURrm5n0S%2fe55ZgZDoVIPuWLrtFxELUE9gatwhxvqXVhm%2fteiXvusfMbgsJY3%2fIaT7YoGYjZeIgfek%2b5G4tojCS43Jk0Oq0xdVN1mqBGpkpARPbxXa9cD65b4%2bPedKTDj4GEPvR7gHQMnQ12Ge8O1PBHk1uH7%2bYkm98pTcM6%2f33MjaYCGWKOihOaLwsZKsFDXPoNQGosISkEhkyrGM2m3%2buqcKO3HPXBH1NdEu1hUslWEQdLAJkt6upg%2fddvBkCuAwtSzOUylG8FkUjnY3MgbVVgRLS7yBz%2fIjX7mhJvZi4XQOkR%2bcBix4ZE9pxqbaaRQCBGX%2fywvLu6CbRpY6tlC%2fMINn7SaUXPNmX%2fb60J4SjBjvuEbfYjPzIM95L0JZPXSijQGi6wiLjs27Gfgdmn3hqwyNLVaEOavZPKcKU7G%2bXY8L3l933ID5WNuOYazkG5Zre8xiigvYzU0V7ogmzWMsMGLf%2bEA84iX4%2bHpesX%2b2dP66"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8402",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8402",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7235",
+            "motivoCessacao": null,
+            "nome": "Cidália Abreu"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-05-02",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1515180",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
