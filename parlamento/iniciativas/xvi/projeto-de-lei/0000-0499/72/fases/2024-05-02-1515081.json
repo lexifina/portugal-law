@@ -1,0 +1,3523 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "72",
+    "id": "263613",
+    "titulo": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2024-05-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "29923",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2024-05-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263627",
+        "leg": "XVI",
+        "nr": "79",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263633",
+        "leg": "XVI",
+        "nr": "81",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Eliminação de portagens em autoestradas"
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263628",
+        "leg": "XVI",
+        "nr": "58",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT\n\n"
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263631",
+        "leg": "XVI",
+        "nr": "61",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263634",
+        "leg": "XVI",
+        "nr": "62",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263635",
+        "leg": "XVI",
+        "nr": "63",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Prevê a implementação de um plano gradual de isenção do pagamento de portagens"
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263641",
+        "leg": "XVI",
+        "nr": "66",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36530",
+            "obs": null,
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-05-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6884",
+                "nome": "Jorge Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/5"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-6&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7343",
+                "nome": "Carlos Guimarães Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/6"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/7?pgs=7-9&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/7"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/8"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/10?pgs=10-12&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6884",
+                "nome": "Jorge Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/9"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4300",
+                "nome": "Hugo Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/10"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/13"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4300",
+                "nome": "Hugo Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/12"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/11"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6119",
+                "nome": "Emília Cerqueira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/14"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/16?pgs=16&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5749",
+                "nome": "Sandra Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/15"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8783",
+                "nome": "Carlos Silva Santiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/16"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/17"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/19?pgs=19&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6884",
+                "nome": "Jorge Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/18"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/19"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/20"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/21?pgs=21-23&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7343",
+                "nome": "Carlos Guimarães Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/21"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2297",
+                "nome": "Cristóvão Norte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/23"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/24?pgs=24-27&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4210",
+                "nome": "José Rui Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/24"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/25"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/26"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/27"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2297",
+                "nome": "Cristóvão Norte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/28"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379255",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/33?pgs=33-35&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/29"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/30"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379257",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/31"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379258",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7723",
+                "nome": "José Barreira Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/32"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7723",
+                "nome": "José Barreira Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/34"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379262",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6532",
+                "nome": "Ana Mendes Godinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379263",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/37"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6532",
+                "nome": "Ana Mendes Godinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/38"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379265",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7353",
+                "nome": "Luís Paulo Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/39"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7353",
+                "nome": "Luís Paulo Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379268",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/47?pgs=47&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "9007",
+                "nome": "Raul Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379271",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8596",
+                "nome": "João Tilly"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4300",
+                "nome": "Hugo Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/51?pgs=51-55&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6878",
+                "nome": "Nuno Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/55?pgs=55-57&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/60?pgs=60&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6013",
+                "nome": "Hugo Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/12/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Elimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior (ex-SCUT) ou onde não existam vias alternativas que permitam um uso em qualidade e segurança; Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas; Recomenda ao Governo que avalie o custo-benefício de isentar de portagens as antigas SCUT; Pela redução gradual e financeiramente responsável de portagens no interior e nas grandes áreas metropolitanas; Recomenda ao Governo que na estrita defesa do interesse público proceda à renegociação dos contratos de parcerias público-privadas do sector rodoviário; Prevê a implementação de um plano gradual de isenção do pagamento de portagens; Recomenda ao Governo que isente de forma temporária as portagens nas autoestradas alternativas ao IC2 na localidade de Serém, Macinhata do Vouga, Águeda.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1515081",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1018352",
+        "obs": null,
+        "pag": [
+          "4-61"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-03",
+        "pubLeg": "XVI",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/4?pgs=4-61&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
