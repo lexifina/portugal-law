@@ -1,0 +1,182 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "81",
+    "id": "263633",
+    "titulo": "Eliminação de portagens em autoestradas"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2024-05-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "30027",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2024-05-02",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263627",
+        "leg": "XVI",
+        "nr": "79",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36531",
+            "obs": null,
+            "pag": [
+              "70-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-05-03",
+            "pubLeg": "XVI",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/70?pgs=70&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-05-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": null,
+                "nome": null
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:01",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-05-03",
+                "pubLeg": "XVI",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/70?pgs=70&org=PLC"
+              }
+            ],
+            "sumario": "Eliminação das portagens para as autoestradas de acesso às regiões do interior (A22, A23, A24, A25, A28, A29, A41, A42); Eliminação de portagens em autoestradas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1515230",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1018309",
+        "obs": null,
+        "pag": [
+          "63-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-03",
+        "pubLeg": "XVI",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/63?pgs=63&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024023",
+        "obs": null,
+        "pag": [
+          "70-70"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-03",
+        "pubLeg": "XVI",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/012/2024-05-03/70?pgs=70&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2024-05-02",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> PAN</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>",
+        "id": "126535",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "12",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
