@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "112",
+  "id": "263689",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-05-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4449785a5463355a5449744e5449794f5330305a5751794c546b774d446b745a444531595745314e7a6b354d4449354c6e426b5a673d3d&fich=421e79e2-5229-4ed2-9009-d15aa5799029.pdf&Inline=true",
+        "anexoNome": "A. I. G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5445304e446c684d7a41744e32466c4e4330304f44426b4c574a694e324d744f544578597a51345a6a686c4e6a45304c6d52765933673d&fich=91449a30-7ae4-480d-bb7c-911c48f8e614.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa - versão 1"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "BE",
+        "idCadastro": "4557",
+        "nome": "Mariana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "7040",
+        "nome": "Fabian Figueiredo"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5854",
+        "nome": "Isabel Pires"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "BE"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263689",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e47557a597a4d324e6a51744d546c6b597930304d32497a4c57457a4e5467744e4756684d545a684d7a6b324d5463324c6d52765933673d&fich=4e3c3664-19dc-43b3-a358-4ea16a396176.docx&Inline=true",
+    "IniNr": "112",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto da iniciativa a pedido do autor em 2024-05-10.",
+    "IniTipo": "J",
+    "IniTitulo": "Altera o regime jurídico da exploração dos estabelecimentos de alojamento local (Sexta alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto e segunda alteração à Lei n.º 56/2023 de 6 de outubro)\n\n",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
