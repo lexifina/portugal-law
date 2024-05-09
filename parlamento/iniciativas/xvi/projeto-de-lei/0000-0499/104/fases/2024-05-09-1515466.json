@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "104",
+    "id": "263677",
+    "titulo": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade individual (20.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho)"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-05-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75321",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-05-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2024-06-14",
+        "DatainicioApreciacaoPublica": "2024-05-15",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-05-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XVILeg/10CTSSI/Paginas/Iniciativas-em-Apreciacao-Publica-.aspx?t=4d533743716942545a584e7a77364e764945786c5a326c7a6247463061585a684c31424b544341784d44526657465a4a587a45757771706655454e51&Path=w1zp%2fH%2fLRhUeoMKrDsyT%2b4uak5kQjq%2bnQCDdRhMGqTQp45m0s9UdrEtbL5I1Lc5XKux%2bb%2fB8uGGlap6%2bNWvJFz5QFCABHAAQNViRhtSijd2w3Ij3%2fHOONrVDnMy0kN8NpUWFQ4ikFAT%2bUS344ktJtsQQs7gWNDNX6iZ3zm4lkhPP%2buK4aex4BDUqdIHbVKYqJX0ao8ajHo8lMHOHdWv9XzNhFoziltDUcKJIYWxLzisVJ4I7Qh9o58qIdreFCzOAAhb1JVgv14NlJPvLND2b4BXytmvOdcaQ33tA5cukdUoyRxjovWaLC%2fYHaQgYItzTMtNOF3M2UC2MqcHwJocTDxf5j8gv2sHFvYE5nP1Kuhg0p5O4AH8eSNdwNVXiAcqFCAyXll1G5reoYxYjjDp3M2CyTCP%2bzFKwhirtDWnhhea5u6BaYCPSThsWAzYvtXHUvTogOUG213gFDHw4SAAkLR%2br2v8H5V5ciif76MSrq38%3d"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8402",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8402",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "8710",
+            "motivoCessacao": null,
+            "nome": "Paula Margarido"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-05-09",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1515466",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
