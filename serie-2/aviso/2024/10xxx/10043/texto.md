@@ -1,0 +1,7 @@
+Aviso n.º 10043/2024/2
+
+Torna público e a todos os interessados faz saber que, de acordo com o estabelecido nas disposições conjugadas e previstas nas alíneas b) e t), do n.º 1, do artigo 35.º e no artigo 56.º, do Anexo I, à Lei n.º 75/2013, de 12 de setembro, na sua atual redação, nos termos e para os efeitos previstos no artigo 101.º, do Código do Procedimento Administrativo, durante o período de 30 dias, a contar do dia seguinte ao da publicação do presente edital no Diário da República 2.ª série, é submetido a apreciação pública o Projeto de Regulamento para Atribuição de Apoios a Juntas de Freguesia ou União de Freguesias do Município de Moimenta da Beira.
+O Projeto de Regulamento foi presente à reunião ordinária pública desta Câmara Municipal, realizada em 19 de abril de 2024, e encontra-se disponível para consulta nos serviços desta Câmara Municipal, sitos no Largo do Tabolado, durante o período de funcionamento (09h00-17h00), bem como no sítio do Município de Moimenta da Beira na internet, em www.cm-moimenta.pt.
+Mais informa que os interessados devem dirigir as suas sugestões, reclamações ou observações por escrito, ao Presidente da Câmara Municipal que delas dará conhecimento à Câmara Municipal, podendo ser remetidas por correio eletrónico, para o endereço geral@cm-moimenta.pt, ou entregues nos Serviços de Atendimento - Balcão Único da Câmara Municipal de Moimenta da Beira, durante o período normal de expediente.
+19 de abril de 2024. - O Presidente da Câmara Municipal, Paulo Alexandre de Matos Figueiredo.
+317621959
