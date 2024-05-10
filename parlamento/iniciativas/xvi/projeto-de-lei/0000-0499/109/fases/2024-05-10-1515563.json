@@ -1,0 +1,207 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "109",
+    "id": "263684",
+    "titulo": "Densifica o regime penal aplicável a titulares de cargos políticos e altos cargos públicos, prevendo a recuperação na totalidade do enriquecimento injustificado (6ª alteração à Lei n.º 52/2019, de 31 de julho) \n"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-05-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75345",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-05-10",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-05-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Mecanismo Nacional Anticorrupção - PJL 109/XVI/1ª (BE) e PJL 110/XVI/1ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6a5a6d457a4d574d324c57466b5a6d45744e474a695a5330344f4745334c575a6a5a574d354f5755314e7a45774d7935775a47593d&fich=2cfa31c6-adfa-4bbe-88a7-fcec99e57103.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-05-31",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Entidade para a Transparência  - PJL 109/XVI/1ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51774f545534597a646c4c546b335a5451744e4755335a4331694e4745304c5749344e7a6b324e6d51304f5449344d6935775a47593d&fich=40958c7e-97e4-4e7d-b4a4-b87966d49282.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-06-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Associação Cívica Transparência e Integridade - PJL 109/XVI/1ª (BE) e PJL 110/XVI/1ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259304f47466d596d55774c54526a4f5759744e4451344e4331684d6a67784c544932595759344d6a45324d3249334f5335775a47593d&fich=f48afbe0-4c9f-4484-a281-26af82163b79.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-06-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do CSM - PJL 109/XVI/1ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324577596a45344f5449784c5751334e6d55744e474e6c4f433035595752684c574e695a44686d4e474d794e324d7a5a4335775a47593d&fich=a0b18921-d76e-4ce8-9ada-cbd8f4c27c3d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-06-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Ordem dos Advogados - PJL 109/XVI/1ª (BE) e PJL 110/XVI/1ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466d5a6a5a6a5a6d4d334c5459774e4445744e44426c597931684e7a59324c5745324f4464695a446b784d57566a4d7935775a47593d&fich=1ff6cfc7-6041-40ec-a766-a687bd911ec3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-06-12",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da CTED - PJL 109/XVI/1ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a646c4d546b354f54646a4c54646c4d7a63744e4449335a4330354e4452684c5456694e7a4e6c4f5441354f544d32597935775a47593d&fich=7e19997c-7e37-427d-944a-5b73e909936c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-06-12",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e6d4e7a646d4f4759354c54466c4d5463744e4441794f4331694d4745334c5751774f5749354d574d314d4456684f5335775a47593d&fich=cf77f8f9-1e17-4028-b0a7-d09b91c505a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do CSMP - PJL 109/XVI/1ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41794e7a6c6a4d6d45784c574d354e6a41744e445131595331694d544d784c54426d4d5752694f545a694e445a6c4f5335775a47593d&fich=0279c2a1-c960-445a-b131-0f1db96b46e9.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8406",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Transparência e Estatuto dos Deputados",
+        "Numero": "8406",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-06-03"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2024-09-10"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-06-03"
+          },
+          {
+            "link": "",
+            "nome": "MENAC - Mecanismo Nacional Anticorrupção em 2024-05-21"
+          },
+          {
+            "link": "",
+            "nome": "Entidade para a Transparência em 2024-05-29"
+          },
+          {
+            "link": "",
+            "nome": "Associação Cívica Transparência e Integridade em 2024-05-31"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-05-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2024-05-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-05-15"
+          },
+          {
+            "link": "",
+            "nome": "MENAC - Mecanismo Nacional Anticorrupção em 2024-05-15"
+          },
+          {
+            "link": "",
+            "nome": "Entidade para a Transparência em 2024-05-15"
+          },
+          {
+            "link": "",
+            "nome": "Associação Cívica Transparência e Integridade em 2024-05-15"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-05-10",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1515563",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1018517",
+        "obs": null,
+        "pag": [
+          "3-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-06-12",
+        "pubLeg": "XVI",
+        "pubNr": "44",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/044/2024-06-12/3?pgs=3-12&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
