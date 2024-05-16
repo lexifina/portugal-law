@@ -10,7 +10,7 @@
 
 4 - São elegíveis as despesas que tenham sido realizadas e efetivamente pagas pelos beneficiários entre 1 de janeiro de 2014 e 31 de dezembro de 2023, sem prejuízo das demais regras de elegibilidade de despesas, designadamente as constantes da legislação europeia e nacional aplicável.
 
-5 - No âmbito dos sistemas de incentivos, a despesa só é elegível se, para além do disposto no número anterior, tiver sido reembolsada ao beneficiário, pelo organismo pagador, entre 1 de janeiro de 2014 e 29 de fevereiro de 2024.
+5 - No âmbito dos sistemas de incentivos, a despesa só é elegível se, para além do disposto no número anterior, tiver sido reembolsada ao beneficiário, pelo organismo pagador, entre 1 de janeiro de 2014 e 31 de agosto de 2024.
 
 6 - No caso de operações aprovadas no âmbito da Iniciativa para o Emprego dos Jovens, são elegíveis as despesas que tenham sido realizadas e efetivamente pagas pelos beneficiários entre 1 de setembro de 2013 e 31 de dezembro de 2023.
 
