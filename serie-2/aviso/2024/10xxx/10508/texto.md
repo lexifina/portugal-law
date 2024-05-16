@@ -1,0 +1,5 @@
+Aviso n.º 10508/2024/2
+
+José Bernardo Nunes, Presidente da Câmara Municipal do Cadaval, torna público que, em conformidade com a deliberação tomada pela Câmara na sua reunião ordinária de 20 de junho de 2023, nos termos e para os efeitos do artigo 100.º e 101.º do Código do Procedimento Administrativo, (aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro), encontra-se em consulta pública, pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República, alteração ao Regulamento Municipal para Atribuição de Bolsas de Estudo para o Ensino Superior. Durante esse período poderão os interessados consultar o referido regulamento na página da internet www.cm-cadaval.pt ou no Balcão único de Atendimento deste Município, sito no Edifício dos Paços do Concelho, na Avenida Dr. Francisco Sá Carneiro, 2550-103 Cadaval. As eventuais sugestões devem ser apresentadas, por escrito dentro do prazo referido, dirigidas ao Presidente da Câmara, e entregues na morada referida ou para o e-mail: accao.social@cm-cadaval.pt.
+18 de abril de 2024. - O Vice-Presidente, Ricardo Pinteus.
+317657356
