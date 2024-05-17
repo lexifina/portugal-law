@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=F9PDOHNFycB6%2fwHBIK8pxp90NHMVWRoPo7xRrSheCH%2bXxTqdPsHw6D6aNnw9iqXvKxrH0P9GJq%2b8nJ0ko5nPHKfPEL8708E670ha7An37sU4tGcztL8bhpHrCso2hm3iseZ4qeJi7bkbYKgyGvQIwxzddtmYuv4DcTC30HQKz79JFlOXvg03OoOS04yfZ68VYC28B4Y0zeq4kcV5KAu8QiQv5%2fFgUPsyig4aVYLHuh7fjhY7f5ZsHhjgiGjp5rJRhMiHrQ779WBR20oFU%2fl9o7E0tJ1VoRCT%2bJWMcMmsim85dzAqwb7dte5lqENalDhiAmRdnx%2freJJxlTxGDmPGNwxfjJ0%2fVlolAj0cWgs%2bJ8w%3d&fich=IntervencoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "642a74698e32955c3a685f799a9bc60770a614b0fea5fabf6e4055551add8069",
+  "legislatura": "XVI",
+  "id": "379905",
+  "tipo": "Interpelação à mesa",
+  "orador": "Fabian Figueiredo (BE)",
+  "data_registo": "2024-05-17",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "137207",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "137207",
+        "tipo": "DEB",
+        "titulo": "Debate com os Ministros - Debate sobre política setorial com a presença do Ministro das Infraestruturas e Habitação"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Em Interpelação à Mesa, questiona o facto de o PAR permitir que se usem expressões como as que usou André Ventura (CH), referindo-se ao povo turco.",
+        "duracao": "00:01:22.627",
+        "tipoIntervencao": "Interpelação à mesa",
+        "url": "https://av.parlamento.pt/videos/Plenary/16/1/19/24"
+      }
+    ],
+    "DataReuniaoPlenaria": "2024-05-17",
+    "Debate": null,
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "7040",
+      "nome": "Fabian Figueiredo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "379905",
+    "IdDebate": "26500",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "379905",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "25-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-18",
+        "pubLeg": "XVI",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/019/2024-05-18/25?pgs=25&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Questiona o facto de o PAR permitir que se usem expressões como as que usou André Ventura (CH), referindo-se ao povo turco",
+    "Sessao": "1",
+    "Sumario": "Debate sobre política setorial com a presença do Ministro das Infraestruturas e Habitação",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Interpelação à mesa"
+  }
+}
