@@ -1,0 +1,741 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34065",
+  "numero": "28",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-05-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8457",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Ambiente e Energia ",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-07-03",
+            "entidades": null,
+            "id": "148884",
+            "tipo": null,
+            "titulo": "Audição em 2024-07-03 com SOS Quinta dos Ingleses"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-02-11",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915245",
+                "obs": null,
+                "pag": [
+                  "17-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/058/2025-02-15/17?pgs=17-22&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "PCP",
+                "L",
+                "PAN"
+              ],
+              "data": "2025-02-11",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> PAN</I>",
+              "id": "128305",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "34",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-05-28",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-05-21",
+        "DataEnvioPAR": "2025-02-12",
+        "DataReaberta": "2024-05-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-05-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457851304646546b55765247396a6457316c626e52766331426c64476c6a59573876597a6b30597a4933595751744e444978595330304e6d557a4c5749784f5755744d5452684f574d7759574a6c5a54526b4c6e426b5a673d3d&fich=c94c27ad-421a-46e3-b19e-14a9c0abee4d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-02-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457851304646546b55765247396a6457316c626e52766331426c64476c6a595738764d5745334f444e6c593255744e7a5977595330305a6d5a6d4c5467345a6a4574595755335a6d4d35597a686a4d325a6d4c6e426b5a673d3d&fich=1a783ece-760a-4fff-88f1-ae7fc9c8c3ff.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8403",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Ambiente e Energia ",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-02-11",
+            "dataNomeacao": "2024-05-28",
+            "gp": "PS",
+            "id": "6706",
+            "motivoCessacao": null,
+            "nome": "Miguel Matos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-07-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2025-04-23",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51314d4463304d5759784c5759794e5441744e4449794e4331684d5463344c574d344e474d304e32597a4f4467795969356b62324d3d&fich=450741f1-f250-4224-a178-c84c47f3882b.doc&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-05-21",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324531596d566d5932466d4c5463774d544d744e474d794e6931684f44686c4c574e6b597a51315a445133596a6b355a5335775a47593d&fich=a5befcaf-7013-4c26-a88e-cdc45d47b99e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315283",
+      "315303",
+      "315314",
+      "315330"
+    ],
+    "Iniciativasoriginadas": [
+      "315283",
+      "315303",
+      "315314",
+      "315330"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/3"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/3?pgs=3-4&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/4"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/4?pgs=4&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/5"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/5?pgs=5&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/6"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/7"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/8"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/7?pgs=7&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/9"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/7?pgs=7&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/10"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/8?pgs=8&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/11"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/8?pgs=8-9&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/12"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "Sumario": "Pela proteção da mata da Quinta dos Ingleses; Pela preservação e salvaguarda da Quinta dos Ingleses e pela criação de um mecanismo destinado a apoiar os municípios na aquisição e preservação de espaços verdes de elevado valor ambiental e natural; Recomenda a proteção, valorização e classificação da Quinta dos Ingleses como paisagem protegida; Recomenda a defesa do património ambiental e a classificação da Quinta dos Ingleses (Cascais) como «paisagem protegida»; Pela preservação responsável, valorização ecológica e transparência na gestão da Quinta dos Ingleses",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34065",
+    "PetAssunto": "Pela Proteção da Mata da Quinta dos Ingleses",
+    "PetDataEntrada": "2024-05-17",
+    "PeticoesAssociadas": null,
+    "PetId": "34065",
+    "PetLeg": "XVI",
+    "PetNr": "28",
+    "PetNrAssinaturas": "7865",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56719",
+        "obs": null,
+        "pag": [
+          "3-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-17",
+        "pubLeg": "XVII",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/3?pgs=3-10&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915266",
+        "obs": null,
+        "pag": [
+          "18-19"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-06-01",
+        "pubLeg": "XVI",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/012/2024-06-01/18?pgs=18-19&org=PLC"
+      }
+    ]
+  }
+}
