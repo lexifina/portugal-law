@@ -66,4 +66,4 @@ f) A informação clara ao consumidor, no ato da compra do produto, da possibili
 
 16 - Sem prejuízo do disposto no número anterior, os comerciantes de EEE e de pneus que utilizem técnicas de venda à distância, incluindo as plataformas de vendas por via eletrónica ou à distância, podem, quando se trate de venda de produtos de pequena dimensão, recorrer a um serviço postal pré-pago com etiqueta de retorno.
 
-17 - Para efeitos do número anterior, o consumidor deve ser informado, de forma clara e no ato da compra do produto, das possibilidades de retoma à sua disposição.
+17 - Para efeitos dos n.os 15 e 16, o consumidor deve ser informado, de forma clara e no ato da compra do produto, das possibilidades de retoma à sua disposição.

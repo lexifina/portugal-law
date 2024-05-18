@@ -1,12 +1,12 @@
 # Artigo 14.º
 
-### Financiamento da entidade gestora
+### Financiamento das entidades gestoras
 
-1 - A entidade gestora é financiada, nomeadamente, através de uma prestação financeira a suportar pelos produtores do produto, pelos embaladores ou pelos fornecedores de embalagens de serviço.
+1 - As entidades gestoras são financiadas, nomeadamente, através de uma prestação financeira a suportar pelos produtores do produto, pelos embaladores ou pelos fornecedores de embalagens de serviço.
 
 2 - Os valores de prestações financeiras são estabelecidos em função da quantidade de produtos, ou de embalagens no caso do fluxo específico de embalagens e resíduos de embalagens, colocados anualmente no mercado nacional, características dos produtos ou das embalagens e materiais presentes nos resíduos, sendo os valores obtidos por via de aplicação do modelo a que se refere o artigo seguinte.
 
-3 - A entidade gestora pode prever condições específicas a acordar com os produtores, embaladores e fornecedores de embalagens de serviço, face à dimensão da atividade e nas situações pontuais de colocação de produtos no mercado, nos termos a definir na respetiva licença.
+3 - As entidades gestoras podem prever condições específicas a acordar com os produtores, embaladores e fornecedores de embalagens de serviço, face à dimensão da atividade e nas situações pontuais de colocação de produtos no mercado, nos termos a definir na respetiva licença.
 
 4 - As condições referidas no número anterior não devem onerar o produtor, o embalador ou o fornecedor de embalagens de serviço face ao valor que seria devido se a prestação financeira fosse calculada nos termos do n.º 2.
 

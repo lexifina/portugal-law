@@ -14,8 +14,8 @@ b) No caso dos pontos de recolha automática, através de formas de pagamento de
 
 4 - Excetuam-se do disposto nos números anteriores as situações em que existam dúvidas fundadas quanto à autenticidade ou regularidade do vale apresentado, casos em que pode ser recusado o reembolso do valor de depósito.
 
-5 - A EG do SDR pode determinar um prazo de validade para os vales previstos na alínea b) do n.º 1, o qual não pode ser inferior a 12 meses.
+5 - As entidades gestoras do SDR podem determinar um prazo de validade para os vales previstos na alínea b) do n.º 1, o qual não pode ser inferior a 12 meses.
 
-6 - O prazo de pagamento dos valores de depósito pela EG do SDR aos responsáveis pelos pontos de recolha referidos no artigo 30.º-H e estabelecimentos do setor HORECA referidos no artigo 30.º-I não pode ser superior a 30 dias seguidos, contados a partir da data de entrega dos resíduos de embalagens pelos referidos estabelecimentos nos centros de consolidação ou de triagem e contagem da EG do SDR.
+6 - O prazo de pagamento dos valores de depósito pelas entidades gestoras do SDR aos responsáveis pelos pontos de recolha referidos no artigo 30.º-H e estabelecimentos do setor HORECA referidos no artigo 30.º-I não pode ser superior a 30 dias seguidos, contados a partir da data de entrega dos resíduos de embalagens pelos referidos estabelecimentos nos centros de consolidação ou de triagem e contagem das entidades gestoras do SDR.
 
-7 - Não são sujeitas a reembolso as embalagens que se encontrem danificadas ou com rótulo ilegível de modo a impedir a correta identificação, nos termos a definir na licença do SDR.
+7 - Não são sujeitas a reembolso as embalagens que se encontrem danificadas ou com rótulo ilegível de modo a impedir a correta identificação, nos termos a definir nas licenças do SDR.

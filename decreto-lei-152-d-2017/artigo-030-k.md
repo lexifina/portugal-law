@@ -10,4 +10,4 @@
 
 4 - Os operadores de tratamento de resíduos selecionados para tratar os resíduos de embalagens nos termos do presente artigo ficam sujeitos à realização das auditorias previstas no artigo 104.º do RGGR.
 
-5 - A EG do SDR deve assegurar destinos finais adequados para todos os materiais, incluindo outros componentes de embalagens e os materiais rejeitados.
+5 - As entidades gestoras do SDR devem assegurar destinos finais adequados para todos os materiais, incluindo outros componentes de embalagens e os materiais rejeitados.

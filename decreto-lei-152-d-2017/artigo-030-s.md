@@ -2,7 +2,7 @@
 
 ### Obrigações
 
-1 - Sem prejuízo do cumprimento do disposto no artigo 12.º, a EG do SDR deve:
+1 - Sem prejuízo do cumprimento do disposto no artigo 12.º, as entidades gestoras do SDR devem:
 
 a) Assegurar a gestão do SDR minimizando a ocorrência de riscos para a saúde humana e para o ambiente;
 
@@ -30,7 +30,7 @@ l) Prestar a informação necessária aos intervenientes no SDR, designadamente 
 
 m) Reportar informação à APA, I. P., à DGAE e à ERSAR, nos termos e prazos definidos, e prestar atempadamente os esclarecimentos que lhe são solicitados.
 
-2 - No âmbito da responsabilidade financeira inerente à gestão do SDR, a EG do SDR deve ainda:
+2 - No âmbito da responsabilidade financeira inerente à gestão do SDR, as entidades gestoras do SDR devem ainda:
 
 a) Suportar os custos necessários à implementação e gestão do SDR, designadamente, os relacionados com a recolha, o transporte, incluindo por logística inversa, bem como, o tratamento dos resíduos de embalagens, incluindo o financiamento dos equipamentos de recolha, dos centros de consolidação e dos centros de contagem e triagem;
 

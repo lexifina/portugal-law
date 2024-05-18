@@ -8,7 +8,7 @@
 
 3 - A fim de facilitar a recolha, a reutilização e valorização, incluindo a reciclagem, as embalagens podem indicar a natureza do ou dos materiais de embalagem utilizados, para efeitos de identificação e classificação pela respetiva indústria, de acordo com o sistema de identificação estabelecido na Decisão n.º 97/129/CE, da Comissão, de 28 de janeiro, cujo regime consta do anexo IX ao presente decreto-lei, que dele faz parte integrante.
 
-4 - As embalagens geridas no âmbito do SDR a que se refere o artigo 23.º-C devem ser marcadas com o símbolo proposto pela EG do SDR e aprovado pela APA, I. P., e pela DGAE, nos termos do disposto no artigo 30.º-U.
+4 - As embalagens geridas no âmbito do SDR a que se refere o artigo 23.º-C devem ser marcadas com os símbolos propostos pelas entidades gestoras do SDR e aprovados pela APA, I. P., e pela DGAE, nos termos do disposto no artigo 30.º-U.
 
 5 - A fim de promover a correta separação de resíduos e aumentar os níveis e a qualidade da reciclagem, os embaladores cujas embalagens são geridas no âmbito do Sistema de Gestão Integrado de Embalagens e de Resíduos de Embalagens (SIGRE) devem adotar uma das seguintes medidas:
 

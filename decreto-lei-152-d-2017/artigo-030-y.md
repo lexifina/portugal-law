@@ -2,7 +2,7 @@
 
 ### Indicadores de acompanhamento e monitorização
 
-O funcionamento e o desempenho da EG do SDR são monitorizados pela APA, I. P., pela DGAE, pela ERSAR e pela Direção-Geral do Consumidor atendendo aos seguintes indicadores:
+O funcionamento e o desempenho das entidades gestoras do SDR são monitorizados pela APA, I. P., pela DGAE, pela ERSAR e pela Direção-Geral do Consumidor atendendo aos seguintes indicadores:
 
 a) Cumprimento das metas de recolha e reciclagem;
 
@@ -24,4 +24,4 @@ i) Níveis de fraude e eficácia das medidas de prevenção de fraude;
 
 j) Reclamações recebidas e teor das mesmas;
 
-k) Articulação da EG do SDR com as entidades gestoras do SIGRE, com os municípios e com os sistemas municipais e multimunicipais de gestão de resíduos urbanos.
+k) Articulação das entidades gestoras do SDR com as entidades gestoras do SIGRE, com os municípios e com os sistemas municipais e multimunicipais de gestão de resíduos urbanos.

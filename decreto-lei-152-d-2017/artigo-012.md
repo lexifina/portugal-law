@@ -1,8 +1,8 @@
 # Artigo 12.º
 
-### Obrigações da entidade gestora
+### Obrigações das entidades gestoras
 
-1 - São obrigações da entidade gestora do sistema integrado:
+1 - São obrigações das entidades gestoras do sistema integrado:
 
 a) Assegurar os objetivos de prevenção, recolha, reciclagem e valorização, caso aplicável;
 
@@ -52,7 +52,7 @@ r) Informar a APA, I. P., e a DGAE das situações de cessação de contratos co
 
 5 - A DGAE e a APA, I. P., publicam os critérios de elegibilidade, relativos às ações e/ou projetos de sensibilização, comunicação e educação, de investigação e desenvolvimento e de prevenção a desenvolver pelas entidades gestoras, a observar pelos respetivos planos previstos nas licenças.
 
-6 - Os membros do Governo responsáveis pelas áreas da economia e do ambiente, sob proposta da DGAE e da APA, I. P., podem determinar que uma entidade gestora cumpra prazos diferentes daqueles a que se referem as alíneas i), j) e m) do n.º 1 e o n.º 4 do artigo 18.º, no âmbito de um pedido de renúncia à licença apresentado pela mesma ou de outras formas de cessação da vigência da licença.
+6 - (Revogado.)
 
 7 - (Revogado.)
 
@@ -64,4 +64,4 @@ r) Informar a APA, I. P., e a DGAE das situações de cessação de contratos co
 
 11 - Para efeitos da alínea n) do n.º 1, a APA, I. P., determina anualmente, em articulação com a DGAE, o universo de produtores, embaladores e fornecedores de embalagens de serviço a auditar, com base em critérios mínimos a publicitar no seu sítio na Internet.
 
-12 - No âmbito de um pedido de renúncia à licença apresentado pela entidade gestora ou de outras formas de cessação da vigência da licença, são aplicáveis os prazos para o cumprimento das obrigações a que se referem as alíneas k), m) e o) do n.º 1 e o n.º 4 do artigo 18.º, podendo os membros do Governo responsáveis pelas áreas da economia e do ambiente determinar prazos diferentes, sob proposta da DGAE e da APA, I. P.
+12 - No âmbito de um pedido de renúncia à licença apresentado pela entidade gestora ou de outras formas de cessação da vigência da licença, são aplicáveis os prazos para o cumprimento das obrigações a que se referem as alíneas j), l) e o) do n.º 1 e os n.os 5 e 6 do artigo 18.º, podendo os membros do Governo responsáveis pelas áreas da economia e do ambiente determinar prazos diferentes, sob proposta da DGAE e da APA, I. P.
