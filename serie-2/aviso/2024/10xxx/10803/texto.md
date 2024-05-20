@@ -1,0 +1,9 @@
+Aviso n.º 10803/2024/2
+
+Consulta Pública de Proposta do Regulamento do Orçamento Participativo Jovem do Município de Vila Nova da Barquinha
+Fernando Manuel dos Santos Freire, Presidente da Câmara Municipal de Vila Nova da Barquinha, no uso da competência prevista na alínea a), do n.º 1, do artigo 35.º, da Lei n.º 75/2013 de 12 de setembro, na sua redação atual;
+Torna público que, por deliberação do Órgão Executivo Municipal, tomada em sua reunião ordinária de 24 de abril de 2024, é submetido a Consulta Pública, pelo prazo de 30 (trinta) dias úteis, contados a partir do dia seguinte da publicação de Aviso na 2.ª série do Diário da República, a Proposta do Regulamento do Orçamento Participativo Jovem do Município de Vila Nova da Barquinha, nos termos do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado e em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, para recolha de sugestões e/ou contributos.
+www.cm-vnbarquinha.pt e em suporte físico, no Edifício dos Serviços Técnicos do Município/Núcleo de Apoio Jurídico do Município, sito na Praça da República, S/N, 2260-411 Vila Nova da Barquinha, Serviços de Atendimento, no horário de expediente, compreendido entre as 09H00 e as 12H30, e entre as 14H00 e as 16H00.
+Assim, qualquer interessado pode apresentar, durante o período de Consulta Pública, por escrito, sugestões e/ou os contributos que entenderem pertinentes, através de requerimento dirigido ao Exmo. Senhor Presidente da Câmara, identificando devidamente o seu subscritor, podendo estes ser entregues presencialmente na morada e horário de expediente, acima indicados, via CTT para a morada: Praça da República, 2260-411 Vila Nova da Barquinha ou ainda, via correio eletrónico para o email: geral@cm-vnbarquinha.pt, até às 23h59 do último dia do prazo acima referido.
+3 de maio de 2024. - O Presidente da Câmara Municipal, Fernando Manuel dos Santos Freire.
+317666769
