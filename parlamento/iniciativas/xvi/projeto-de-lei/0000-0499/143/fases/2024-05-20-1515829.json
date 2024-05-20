@@ -1,0 +1,176 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "143",
+    "id": "263749",
+    "titulo": "Elevação da Povoação de Salir do Porto à Categoria de Vila"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-05-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75400",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-05-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-06-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Academia Portuguesa de História",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e6d59774f5441774d7930774f544d784c5451305a5455744f446c684d53316c5a474d794d7a566c595449795a4745756347526d&fich=16f09003-0931-44e5-89a1-edc235ea22da.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-06-27",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da União de Freguesias de Tornada e Salir do Porto",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e7a49784e57566b4f53316a5a6a686d4c5451795a544d7459545a6c5a69316c5a446b335a4751794e7a566c4e32597555455247&fich=57215ed9-cf8f-42e3-a6ef-ed97dd275e7f.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Câmara Municipal de Caldas da Rainha",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5a47526b4e546c684d7930314e4455324c54526c4e32557459545177595330324e54426a4f5749314f54566b4e544d756347526d&fich=dddd59a3-5456-4e7e-a40a-650c9b595d53.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Assembleia Municipal de Caldas da Rainha",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d6a637a4e544d785a6930774f44526c4c54526c595441744f444a69597930324e546c684d7a55304d324d785a6a6b756347526d&fich=f273531f-084e-4ea0-82bc-659a3543c1f9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-04",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d7a41774e4441784f5330304f4749314c5451304e5451744f444a6b4d69303359574a6a4e4449344d6a466b596a55756347526d&fich=93004019-48b5-4454-82d2-7abc42821db5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-17",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4f4745794f575531597930344d5455334c545133597a517459544a6d4e4330325a44646b4e7a64685a546b784f4441756347526d&fich=d8a29e5c-8157-47c4-a2f4-6d7d77ae9180.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "UF Tornada e Salir do Porto - 1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f5759334f545935595330794d5445304c5451334f5759744f5455774e7930784e6a6468595456695a6a566d4d4449756347526d&fich=59f7969a-2114-479f-9507-167aa5bf5f02.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "UF Tornada e Salir do Porto - 2",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e574d334e6d51794e433078595745334c54526c4d6a4d74596d4e695979316b4d6d51784e6a5a6b5a6d5531593245756347526d&fich=15c76d24-1aa7-4e23-bcbc-d2d166dfe5ca.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8405",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Poder Local e Coesão Territorial",
+        "Numero": "8405",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7494",
+            "motivoCessacao": null,
+            "nome": "Irene Costa"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "IL",
+              "BE",
+              "L",
+              "PCP",
+              "CDS-PP"
+            ],
+            "data": "2024-07-17",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+            "id": "126907",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "14",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-05-20",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1515829",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1018875",
+        "obs": null,
+        "pag": [
+          "14-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-07-17",
+        "pubLeg": "XVI",
+        "pubNr": "66",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/066/2024-07-17/14?pgs=14-16&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
