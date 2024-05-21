@@ -1,0 +1,694 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34067",
+  "numero": "30",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-05-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-07-11",
+            "entidades": null,
+            "id": "148898",
+            "tipo": null,
+            "titulo": "Audição em 2024-07-11 com Peticionários da Petição n.º 30/XVI/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915225",
+                "obs": null,
+                "pag": [
+                  "29-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-14",
+                "pubLeg": "XVI",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/031/2024-09-14/29?pgs=29-34&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-06-19",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-05-24",
+        "DataEnvioPAR": "2024-09-11",
+        "DataReaberta": "2024-06-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-06-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938794d6a426a4f4745304e79307a596d59774c545131595749744f5442685a5331684e5445325a6a67774e324e69596a55756347526d&fich=220c8a47-3bf0-45ab-90ae-a516f807cbb5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-07-11",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938334e6a55784e6a6b315a53316a593245774c5452684d325974595455314f4330344e6d526c4d5745794d6a63774d5463756347526d&fich=7651695e-cca0-4a3f-a558-86de1a227017.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-07-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939684e6d59784d7a4d794e43316a4e6a51344c54526b4d6a41744f446c6d4e5330785a544d304e7a55334e324535596a49756347526d&fich=a6f13324-c648-4d20-89f5-1e347577a9b2.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-09-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938794e5755305a6d557a59793077595445354c5452694e5751745954646b4f5331685a5451774d5455315a4745304e6a55756347526d&fich=25e4fe3c-0a19-4b5d-a7d9-ae40155da465.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-09-11",
+            "dataNomeacao": "2024-06-19",
+            "gp": "PSD",
+            "id": "8558",
+            "motivoCessacao": "Aprovação do relatório em reunião de comissão de saúde",
+            "nome": "Isabel Fernandes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-06-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-05-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325a6a4e54526b597a677a4c5456684d6a4d744e47457a4e4331685a474d344c54497a596a56694e7a55784f4745304d7935775a47593d&fich=fc54dc83-5a23-4a34-adc8-23b5b7518a43.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315134",
+      "315137",
+      "315106",
+      "315130",
+      "315134",
+      "315137"
+    ],
+    "Iniciativasoriginadas": [
+      "315134",
+      "315137",
+      "315106",
+      "315130"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/21"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467257",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação da carreira especial de Técnico de Secretariado Clínico (Sindicato dos Profissionais Administrativos da Saúde - SPAS); Aprova o estatuto da Carreira Especial Técnico Secretário Clínico; Cria a carreira especial de técnico de secretariado clínico; Recomenda ao Governo a criação da Carreira Especial de Técnico Secretário Clínico; Recomenda ao Governo que proceda à criação da carreira especial de Técnico de Secretariado Clínico.",
+            "Teor": "Apresenta o Projeto de Lei n.º 37/XVII/1ª e o Projeto de Resolução n.º 62/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/22"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467258",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/17?pgs=17&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação da carreira especial de Técnico de Secretariado Clínico (Sindicato dos Profissionais Administrativos da Saúde - SPAS); Aprova o estatuto da Carreira Especial Técnico Secretário Clínico; Cria a carreira especial de técnico de secretariado clínico; Recomenda ao Governo a criação da Carreira Especial de Técnico Secretário Clínico; Recomenda ao Governo que proceda à criação da carreira especial de Técnico de Secretariado Clínico.",
+            "Teor": "Apresenta o Projeto de Lei n.º 40/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/23"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação da carreira especial de Técnico de Secretariado Clínico (Sindicato dos Profissionais Administrativos da Saúde - SPAS); Aprova o estatuto da Carreira Especial Técnico Secretário Clínico; Cria a carreira especial de técnico de secretariado clínico; Recomenda ao Governo a criação da Carreira Especial de Técnico Secretário Clínico; Recomenda ao Governo que proceda à criação da carreira especial de Técnico de Secretariado Clínico.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 41/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/24"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/18?pgs=18&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação da carreira especial de Técnico de Secretariado Clínico (Sindicato dos Profissionais Administrativos da Saúde - SPAS); Aprova o estatuto da Carreira Especial Técnico Secretário Clínico; Cria a carreira especial de técnico de secretariado clínico; Recomenda ao Governo a criação da Carreira Especial de Técnico Secretário Clínico; Recomenda ao Governo que proceda à criação da carreira especial de Técnico de Secretariado Clínico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/25"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/19?pgs=19&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação da carreira especial de Técnico de Secretariado Clínico (Sindicato dos Profissionais Administrativos da Saúde - SPAS); Aprova o estatuto da Carreira Especial Técnico Secretário Clínico; Cria a carreira especial de técnico de secretariado clínico; Recomenda ao Governo a criação da Carreira Especial de Técnico Secretário Clínico; Recomenda ao Governo que proceda à criação da carreira especial de Técnico de Secretariado Clínico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/26"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467262",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação da carreira especial de Técnico de Secretariado Clínico (Sindicato dos Profissionais Administrativos da Saúde - SPAS); Aprova o estatuto da Carreira Especial Técnico Secretário Clínico; Cria a carreira especial de técnico de secretariado clínico; Recomenda ao Governo a criação da Carreira Especial de Técnico Secretário Clínico; Recomenda ao Governo que proceda à criação da carreira especial de Técnico de Secretariado Clínico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/27"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467263",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/20?pgs=20&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação da carreira especial de Técnico de Secretariado Clínico (Sindicato dos Profissionais Administrativos da Saúde - SPAS); Aprova o estatuto da Carreira Especial Técnico Secretário Clínico; Cria a carreira especial de técnico de secretariado clínico; Recomenda ao Governo a criação da Carreira Especial de Técnico Secretário Clínico; Recomenda ao Governo que proceda à criação da carreira especial de Técnico de Secretariado Clínico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/28"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação da carreira especial de Técnico de Secretariado Clínico (Sindicato dos Profissionais Administrativos da Saúde - SPAS); Aprova o estatuto da Carreira Especial Técnico Secretário Clínico; Cria a carreira especial de técnico de secretariado clínico; Recomenda ao Governo a criação da Carreira Especial de Técnico Secretário Clínico; Recomenda ao Governo que proceda à criação da carreira especial de Técnico de Secretariado Clínico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/29"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467265",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação da carreira especial de Técnico de Secretariado Clínico (Sindicato dos Profissionais Administrativos da Saúde - SPAS); Aprova o estatuto da Carreira Especial Técnico Secretário Clínico; Cria a carreira especial de técnico de secretariado clínico; Recomenda ao Governo a criação da Carreira Especial de Técnico Secretário Clínico; Recomenda ao Governo que proceda à criação da carreira especial de Técnico de Secretariado Clínico.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34067",
+    "PetAssunto": "Pela criação da carreira especial de Técnico de Secretariado Clínico",
+    "PetDataEntrada": "2024-05-21",
+    "PeticoesAssociadas": null,
+    "PetId": "34067",
+    "PetLeg": "XVI",
+    "PetNr": "30",
+    "PetNrAssinaturas": "7708",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56724",
+        "obs": null,
+        "pag": [
+          "16-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-06-28",
+        "pubLeg": "XVII",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/16?pgs=16-22&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915260",
+        "obs": null,
+        "pag": [
+          "37-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-06-22",
+        "pubLeg": "XVI",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/016/2024-06-22/37?pgs=37-38&org=PLC"
+      }
+    ]
+  }
+}
