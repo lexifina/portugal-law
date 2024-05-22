@@ -6,7 +6,7 @@
 
 a) Comunicar qualquer alteração de residência e de composição do seu agregado familiar;
 
-b) Apresentar todos os meios probatórios que sejam solicitados pela instituição gestora, nomeadamente para avaliação da situação patrimonial, financeira e económica dos membros do seu agregado familiar e dos agregados fiscais dos seus filhos;
+b) Apresentar todos os meios probatórios que sejam solicitados pela instituição gestora, nomeadamente para avaliação da situação patrimonial, financeira e económica dos membros do seu agregado familiar;
 
 c) (Revogada.)
 
