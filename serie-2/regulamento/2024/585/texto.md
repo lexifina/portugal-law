@@ -1,0 +1,103 @@
+Regulamento n.º 585/2024
+
+Regulamento do Cartão Jovem Municipal de Gavião
+Nota justificativa
+Reconhecendo como uma mais-valia e tendo o Município de Gavião assumido como uma prioridade, a implementação de medidas de apoio aos jovens do Município, acreditando desde logo que, a existência de uma estrutura local forte para o apoio aos jovens, na multiplicidade de aspetos que a compõem, potenciará o seu desenvolvimento, com reflexos nas vertentes humana, social, cultural e profissional, e, fará crescer neles a vontade de permanecer nas suas origens, é pretensão continuar a unir esforços nesse sentido.
+Destarte, pretende o Município de Gavião executar a criação de um Cartão Jovem Municipal, que facilite aos jovens do concelho o acesso a determinados bens de consumo ou serviços, potenciando a sua participação dinâmica em projetos e atividades de índole cultural, desportiva ou recreativa.
+A criação do Cartão Jovem Municipal irá resultar de uma parceria estabelecida entre o Município de Gavião e a entidade “Movijovem”, possibilitando assim aos jovens do concelho o usufruto de um conjunto alargado de vantagens de dimensão concelhia, regional, nacional e europeia, pelo que a criação de um instrumento legal, que estabeleça as normas de adesão e utilização, torna-se indispensável.
+O Cartão Jovem Municipal é emitido pela Movijovem, com o logótipo da Autarquia, concedendo assim benefícios, isenções e descontos na utilização e compra de bens, produtos e serviços públicos e privados, existentes no Concelho e estruturando um veículo de informação, divulgação e promoção, capaz de aglutinar a juventude e as suas famílias, em volta do Concelho e do seu comércio tradicional.
+Ora, de acordo com o disposto no artigo 99.º do Código do Procedimento Administrativo, na sua atual redação, quanto à ponderação dos custos e benefícios das medidas projetadas, dando cumprimento a esta exigência, é de frisar que o apoio em causa irá contribuir para a valorização local, mitigando os efeitos económicos próprios da região, como tal, os benefícios inerentes à execução e aplicação desta medida afiguram-se potencialmente superiores aos custos, considerando que tal medida promoverá a economia local e contribuirá para a participação dinâmica dos jovens em projetos e atividades no concelho de Gavião.
+Considerando que, de acordo com o disposto no artigo 241.º da Constituição da República Portuguesa, as autarquias locais dispõem de poder regulamentar próprio nos limites da Constituição, das leis e dos regulamentos emanados das autarquias de grau superior ou das autoridades com poder tutelar.
+Considerando que, constituem atribuições do município a promoção do património, cultura e ciência, de tempos livres e desporto e do desenvolvimento, de acordo com o disposto na alínea e), f) e m), do n.º 2, do artigo 23.º, do Anexo I, da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, torna-se fundamental a criação do presente instrumento regulamentar.
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+Artigo 1.º
+Lei habilitante
+O presente Regulamento é elaborado à luz do artigo 112.º e do artigo 241.º da Constituição da República Portuguesa, da alínea e), f) e m), do n.º 2, do artigo 23.º, da alínea g) do n.º 1 e alínea k), do n.º 2, do artigo 25.º e das alíneas k) e ff) do n.º 1, do artigo 33.º, da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, e do Código de Procedimento Administrativo.
+Artigo 2.º
+Objeto e âmbito de aplicação
+1 - O presente Regulamento estabelece as normas de adesão e utilização do Cartão Jovem Municipal de Gavião, adiante designado de Cartão Jovem Municipal.
+2 - O Cartão Jovem Municipal destina-se a todos os jovens, com idades compreendidas entre os 12 e os 29 anos (inclusive), residentes no concelho de Gavião, bem como a não residentes no concelho que tenham cartão de estudante válido em qualquer estabelecimento de ensino do concelho.
+3 - O Cartão Jovem será disponibilizado igualmente em formato físico, para além da versão digital, a todos os beneficiários entre os 12 e os 17 anos.
+4 - Relativamente ao formato físico o Cartão Jovem não terá a valência de dupla marca apresentada na versão digital, disponibilizada a todos os aderentes.
+Artigo 3.º
+Objetivos e vantagens
+1 - O Cartão Jovem Municipal tem por objetivos:
+a) Proporcionar vantagens e descontos em serviços e produtos a nível local, nacional e europeu;
+b) Possibilitar vantagens que promovam a mobilidade e a aquisição de serviços em áreas como o turismo, o desporto, a ocupação de tempos livres, as tecnologias de informação, entre outras;
+c) Possibilitar melhores condições de vida, contribuir para a sua realização pessoal, fomentar a uma participação ativa cívica e, ainda, contribuir para a sua atração e fixação no Concelho de Gavião.
+2 - Os portadores do Cartão Jovem Municipal, além das vantagens concedidas pelo Município de Gavião e constantes no Anexo 1, beneficiam de todas as vantagens concedidas pelas restantes modalidades de Cartão Jovem EYC, em Portugal e no estrangeiro, exceto as concedidas pelo Mega Cartão Jovem EYC que possui características de multibanco.
+3 - A lista das vantagens associadas ao Cartão Jovem Municipal está publicada no sítio da Câmara Municipal de Gavião, bem como no portal do Cartão Jovem em https://www.cartaojovem.pt/.
+4 - No âmbito do Cartão Jovem Municipal e sem prejuízo do exposto no n.º 1 e 2, do presente artigo, poderão excecionalmente e, sob proposta fundamentada do Presidente da Câmara Municipal ou do vereador com poderes delegados, e consequente deliberação e decisão da Câmara Municipal, ser alvo de desconto, eventos e acontecimentos específicos promovidos pelo Município.
+Artigo 4.º
+Validade do Cartão Jovem Municipal
+1 - O Cartão Jovem Municipal é válido pelo período de 1 (um) ano, a partir do momento em que é emitido e caduca no dia em que o beneficiário fizer 30 (trinta) anos.
+2 - O Cartão Jovem Municipal deverá ser renovado anualmente.
+3 - O Cartão Jovem Municipal é válido em todo o concelho.
+CAPÍTULO II
+UTILIZAÇÃO
+Artigo 5.º
+Emissão e custos
+1 - A emissão do Cartão Jovem Municipal é gratuita.
+2 - O Cartão Jovem Municipal resulta de uma parceria entre o Município de Gavião e a Movijovem, formalizada através de protocolo celebrado entre ambas as entidades.
+3 - Em caso de perda ou extravio, deverá ser emitido um novo cartão e repetição de todo o processo.
+4 - O Cartão Jovem Municipal é sempre emitido através da ligação para a plataforma, que estará disponível em https://gaviao.cartaojovem.pt.
+Artigo 6.º
+Documentos necessários à adesão ao Cartão Jovem Municipal
+1 - São documentos necessários à instauração, pela Câmara Municipal de Gavião, do processo de adesão ao Cartão Jovem Municipal:
+a) Cópia do Cartão de Cidadão, devidamente autorizada para o efeito;
+b) Formulário próprio devidamente preenchido;
+c) Comprovativo de residência;
+d) No caso de não residentes no concelho, declaração do estabelecimento de ensino do concelho ou cópia do cartão de estudante, válido.
+2 - Poderá ser feito um pré-registo no site da Câmara Municipal de Gavião, quando o serviço estiver disponível, sendo necessário entregar os documentos a anexar ao processo, no prazo de 5 (cinco) dias úteis a contar do pré-registo.
+Artigo 7.º
+Generalidades
+1 - Todos os portadores do Cartão Jovem Municipal farão parte de uma base de dados que possibilitará a emissão constante e correta de todas as atividades da Câmara Municipal vocacionadas para a juventude, salvaguardando-se, no entanto, as questões legais abrangidas pela proteção de Dados Pessoais Nominativos.
+2 - As vantagens do Cartão Jovem Municipal estarão disponíveis todo o ano, com exceção nos períodos de saldos, liquidações, promoções, campanhas ou outras vendas com reduções de preços dos estabelecimentos comerciais, de acordo com regulamentação e leis em vigor, e não é cumulativo com outras promoções, nomeadamente respeitantes a estabelecimentos comerciais e/ou eventos camarários.
+Artigo 7.º
+Parcerias
+1 - Compete à Câmara Municipal de Gavião aprovar parcerias com associações, empresas e comerciantes locais ou outras entidades, públicas ou privadas do Concelho que pretendam aderir ao projeto do Cartão Jovem Municipal, devendo o mesmo ser efetuado através do preenchimento de uma Declaração de Parceria.
+2 - As Declarações de Parceria são válidas até à sua denúncia, com uma antecedência mínima de 30 (trinta) dias, manifestada por escrito, mediante o envio de carta registada com aviso de receção.
+3 - As entidades aderentes concederão os descontos previstos nas respetivas Declarações de Parceria.
+4 - Podem ainda aderir como parceiros, ao Cartão Jovem Municipal outras entidades exteriores ao Concelho que, através de protocolo a celebrar com a Câmara Municipal de Gavião, se disponibilizem a conceder descontos sobre bens ou serviços, desde que as suas atividades sejam consideradas pelo Município de interesse relevante.
+5 - As associações, empresas ou estabelecimentos comerciais locais aderentes constam de uma lista divulgada no site do Município.
+6 - A Câmara Municipal reserva-se no direito de adicionar aos benefícios previstos outros que venha a obter por negociação com terceiros, passando os beneficiários do Cartão a usufruir automaticamente desses benefícios.
+Artigo 8.º
+Locais de utilização
+1 - O Cartão Jovem Municipal é validamente utilizável em todos os estabelecimentos que tenham na sua montra o autocolante do referido cartão, a editar e a fornecer pela Câmara Municipal ou por outra entidade legalmente autorizada.
+2 - O Cartão Jovem Municipal será validamente utilizável em todas as estruturas, equipamentos, serviços e espetáculos do Município de Gavião constantes do Anexo 1 do presente regulamento, bem como outros aderentes ao projeto.
+Artigo 9.º
+Intransmissibilidade
+1 - O Cartão Jovem Municipal é um título pessoal intransmissível.
+2 - O Cartão Jovem Municipal não pode, em caso algum, ser revendido ou emprestado.
+3 - As vantagens concedidas do Cartão Jovem Municipal destinam-se à aquisição de bens e serviços para uso exclusivo do titular do cartão e os descontos concedidos pelo cartão não são acumuláveis.
+4 - Os descontos apresentados não são acumuláveis com outras reduções atribuídas pelo Município de Gavião.
+5 - As entidades, associações ou empresas junto das quais é válido o Cartão Jovem Municipal podem solicitar a exibição de um documento de identificação ao seu portador, sempre que entenderem conveniente.
+Artigo 10.º
+Atribuição e/ou utilização fraudulenta
+1 - Em caso de utilização fraudulenta do Cartão Jovem Municipal, as empresas, associações e outras entidades aderentes podem reter o Cartão Jovem Municipal, comunicando o facto imediatamente ao Município de Gavião.
+2 - Sempre que os beneficiários constatem o desrespeito das empresas, associações e outras entidades aderentes, com os compromissos assumidos com o Cartão Jovem Municipal, devem comunicá-lo de imediato ao Município de Gavião.
+3 - As fraudes deliberadamente cometidas pelos beneficiários, em resultado das quais tenha resultado a concessão do cartão, implicam a interdição do acesso ao mesmo por um período mínimo de 3 (três) anos consecutivos.
+4 - A penalidade prevista no número anterior será decidida em processo de inquérito.
+CAPÍTULO III
+DISPOSIÇÕES FINAIS
+Artigo 11.º
+Proteção de dados
+1 - Relativamente aos documentos solicitados no presente Regulamento, no âmbito da proteção de dados, o Município de Gavião, enquanto entidade detentora dos mesmos, informa que de acordo com o disposto nos artigos 6.º e 13.º do Regulamento Geral de Proteção de Dados - UE 2016/679, de 27/4/2016 (RGPD), fará a sua recolha, conservação e tratamento no cumprimento do estipulado na alínea b) e c), do n.º 1, do artigo 6.º do referido diploma, adotando as medidas técnicas e organizativas adequadas, para garantir a conformidade com o RGPD, tendo o tratamento de dados a finalidade de gestão contabilística, fiscal e administrativa.
+2 - O Município de Gavião conserva os dados solicitados pelos prazos necessários e dá cumprimento a obrigações legais, comunicando-os, em parte ou na sua totalidade, a entidades públicas e ou privadas sempre que tal decorra de obrigação legal.
+3 - O titular dos dados possui o direito de reclamação sobre o tratamento dos mesmos, junto da autoridade de controlo.
+Artigo 12.º
+Dúvidas e omissões
+1 - A interpretação das normas do presente Regulamento deve ocorrer com base na legislação disposta no artigo 1.º e demais legislação complementar e vigente.
+2 - O presente regulamento sobrepõe-se a qualquer outro regulamento do Município de Gavião que o contrarie.
+3 - As dúvidas e omissões resultantes da aplicação do presente Regulamento são resolvidas pela Câmara Municipal de Gavião, de acordo com o estrito cumprimento dos normativos elencados no artigo 1.º
+4 - Poderão, a todo o tempo, por decisão da Câmara Municipal de Gavião, ser aditados, suprimidos ou alterados os benefícios estabelecidos no Anexo 1 do presente regulamento, sem necessidade de alteração do presente regulamento.
+5 - Qualquer aditamento, supressão ou alteração dos benefícios do número anterior, deve ser comunicada por edital e publicada no site institucional da Câmara Municipal de Gavião.
+Artigo 13.º
+Entrada em vigor
+O presente Regulamento entra em vigor no primeiro dia útil seguinte após a sua publicação no Diário da República.
+ANEXO I
+Descontos em infraestruturas e equipamentos
+<div class="tableContent" id="DR_TABLE1"><table id="table001" style=" border-collapse: collapse; border-width: 1px;"><tbody><tr style=" min-height: 18px;"><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 0px; border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;"><p style=" text-decoration: none;" >Entrada nas Piscinas Municipais (piscina coberta e Eco Laguna de Gavião)</p></td><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 1px; border-top-width: 1px; border-right-width: 0px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-left-style: solid; vertical-align: top;"><p style=" text-align: center;" >– 20 %</p></td></tr><tr style=" min-height: 18px;"><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 0px; border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;"><p style="" >Entrada em eventos e/ou espetáculos organizados pela Câmara Municipal de Gavião</p></td><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 1px; border-top-width: 1px; border-right-width: 0px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-left-style: solid; vertical-align: top;"><p style=" text-align: center;" >– 20 %</p></td></tr><tr style=" min-height: 28px;"><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 0px; border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;"><p style=" text-decoration: none;" >Conferências, seminários, palestras, congressos, colóquios e outros eventos similares organizados pelo Município de Gavião</p></td><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 1px; border-top-width: 1px; border-right-width: 0px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-left-style: solid; vertical-align: top;"><p style=" text-align: center;" >– 20 %</p></td></tr><tr style=" min-height: 18px;"><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 0px; border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;"><p style="" >Museus do concelho de Gavião</p></td><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 1px; border-top-width: 1px; border-right-width: 0px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-left-style: solid; vertical-align: top;"><p style=" text-align: center;" >– 50 %</p></td></tr><tr style=" min-height: 28px;"><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 0px; border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;"><p style="" >Todas as atividades de caráter desportivo, cultural ou outros organizadas pelo Município de Gavião</p></td><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 1px; border-top-width: 1px; border-right-width: 0px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-left-style: solid; vertical-align: top;"><p style=" text-align: center;" >– 10 %</p></td></tr><tr style=" min-height: 28px;"><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 0px; border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;"><p style=" text-decoration: none;" >O titular do Cartão Jovem Municipal e requerente de licença/comunicação prévia de construção para a construção/reconstrução de habitação própria unifamiliar</p></td><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 1px; border-top-width: 1px; border-right-width: 0px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-left-style: solid; vertical-align: top;"><p style=" text-align: center;" >– 10 % na emissão da licença</p></td></tr><tr style=" min-height: 18px;"><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 0px; border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;"><p style="" >Entidades parceiras da Câmara Municipal de Gavião</p></td><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 1px; border-top-width: 1px; border-right-width: 0px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-left-style: solid; vertical-align: top;"><p style=" text-decoration: none; text-align: center;" >A estabelecer em lista própria</p></td></tr><tr style=" min-height: 18px;"><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 0px; border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;"><p style="" >Vantagens locais</p></td><td style=" border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 1px; border-top-width: 1px; border-right-width: 0px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-left-style: solid; vertical-align: top;"><p style=" text-decoration: none; text-align: center;" >A estabelecer em lista própria</p></td></tr></tbody></table></div>
+2 de maio de 2024. - O Presidente da Câmara Municipal de Gavião, José Fernando da Silva Pio.
+317660733
