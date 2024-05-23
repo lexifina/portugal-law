@@ -1,0 +1,186 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "93",
+    "id": "263654",
+    "titulo": "Altera a Lei n.º 64/2014, de 26 de agosto, alargando o regime de concessão de crédito bonificado à habitação aos membros do agregado familiar que coabitam com a pessoa com deficiência"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2024-05-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f57526b5a544e685a574974597a67784f5330305a6d49354c546b7a5a5751745a57466a595751355a574e694e5467784c6e426b5a673d3d&fich=9dde3aeb-c819-4fb9-93ed-eacad9ecb581.pdf&Inline=true",
+        "anexoNome": "Despacho"
+      }
+    ],
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "75423",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-05-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-06-17",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59334e324e694e6d55314c574d7a4e7a51744e4751334d5330345a6a59774c574a6b596a686b4d6d4d774e6d5977595335775a47593d&fich=677cb6e5-c374-4d71-8f60-bdb8d2c06f0a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251344d5451784d44466a4c57566a5a4751744e44673459693035597a41334c546b7a5a44526d4f54686d597a41324d7935775a47593d&fich=d814101c-ecdd-488b-9c07-93d4f98fc063.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32497a4d6a526c4d3245334c5749335a6a67744e474a6c5a5331694e7a67344c5449774e3249784e6a4e6a4f4751774d5335775a47593d&fich=b324e3a7-b7f8-4bee-b788-207b163c8d01.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-26",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Requerimento GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e685a54426d4d6d55334c54417a4f444d744e4459335a5330354e324e6b4c5445345a47526b4f5449304d32526d5a4335775a47593d&fich=cae0f2e7-0383-467e-97cd-18ddd9243dfd.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8397",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "8397",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324532596d526a4f54426a4c57566c5a6a49744e44517a5a6930354d544a684c545934596d49325a5451784f4463304e5335775a47593d&fich=a6bdc90c-eef2-443f-912a-68bb6e418745.pdf&Inline=true",
+            "nome": "Banco de Portugal em 2024-07-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251354e6d4d774e6a49794c5446684e6d51744e474e684d7930344e5756694c5463334e6d59794d574a6a4d3256684d5335775a47593d&fich=d96c0622-1a6d-4ca3-85eb-776f21bc3ea1.pdf&Inline=true",
+            "nome": "APB - Associação Portuguesa de Bancos em 2024-07-01"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a695954426c5a4449324c57497a5a6d55744e4445334e4330355932566c4c54526b4e54593059546b34595449345a5335775a47593d&fich=6ba0ed26-b3fe-4174-9cee-4d564a98a28e.pdf&Inline=true",
+            "nome": "CNOD - Confederação Nacional de Organizações de Pessoas com Deficiência em 2024-07-01"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55345954526c4e5449304c5467344f546b744e475a6c4e5330355a6d51344c5445304e57497a4f5745355954646d596935775a47593d&fich=58a4e524-8899-4fe5-9fd8-145b39a9a7fb.pdf&Inline=true",
+            "nome": "APD - Associação Portuguesa de Deficientes em 2024-06-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249784d6a6b324f5467794c5451305a6d4d744e446c6c595330354e4467314c546b795a6d526b593259335954686c4f5335775a47593d&fich=b1296982-44fc-49ea-9485-92fddcf7a8e9.pdf&Inline=true",
+            "nome": "Associação Salvador em 2024-07-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56694d57457a4e7a41354c574d334f5445744e444a684d7930354d6a45324c54426c4e7a6b354d546b7a4d5459775a5335775a47593d&fich=5b1a3709-c791-42a3-9216-0e799193160e.pdf&Inline=true",
+            "nome": "Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF)      em 2025-03-14"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245784d7a417a4e3255354c5441324d7a4d744e4751344d7930355a6a6c6a4c574978596a6c6c5954597a4d54646d4d5335775a47593d&fich=a13037e9-0633-4d83-9f9c-b1b9ea6317f1.pdf&Inline=true",
+            "nome": "Mecanismo Nacional de Monitorização da Implementação da Convenção sobre os Direitos das Pessoas com Deficiência (Me-CDPD) em 2025-03-10"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324532596d526a4f54426a4c57566c5a6a49744e44517a5a6930354d544a684c545934596d49325a5451784f4463304e5335775a47593d&fich=a6bdc90c-eef2-443f-912a-68bb6e418745.pdf&Inline=true",
+            "nome": "Banco de Portugal em 2024-06-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251354e6d4d774e6a49794c5446684e6d51744e474e684d7930344e5756694c5463334e6d59794d574a6a4d3256684d5335775a47593d&fich=d96c0622-1a6d-4ca3-85eb-776f21bc3ea1.pdf&Inline=true",
+            "nome": "APB - Associação Portuguesa de Bancos em 2024-06-19"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Famílias para a Integração da Pessoa Deficiente em 2024-06-19"
+          },
+          {
+            "link": "",
+            "nome": "AADID - Associação dos Amigos das Deficiências Intelectuais e Desenvolvimentais em 2024-06-19"
+          },
+          {
+            "link": "",
+            "nome": "Nós - Nós Somos em 2024-06-19"
+          },
+          {
+            "link": "",
+            "nome": "CEDEMA - Associação de Pais e Amigos dos Deficientes Mentais Adultos em 2024-06-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a695954426c5a4449324c57497a5a6d55744e4445334e4330355932566c4c54526b4e54593059546b34595449345a5335775a47593d&fich=6ba0ed26-b3fe-4174-9cee-4d564a98a28e.pdf&Inline=true",
+            "nome": "CNOD - Confederação Nacional de Organizações de Pessoas com Deficiência em 2024-06-19"
+          },
+          {
+            "link": "",
+            "nome": "ADFA - Associação de Deficientes das Forças Armadas em 2024-06-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55345954526c4e5449304c5467344f546b744e475a6c4e5330355a6d51344c5445304e57497a4f5745355954646d596935775a47593d&fich=58a4e524-8899-4fe5-9fd8-145b39a9a7fb.pdf&Inline=true",
+            "nome": "APD - Associação Portuguesa de Deficientes em 2024-06-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249784d6a6b324f5467794c5451305a6d4d744e446c6c595330354e4467314c546b795a6d526b593259335954686c4f5335775a47593d&fich=b1296982-44fc-49ea-9485-92fddcf7a8e9.pdf&Inline=true",
+            "nome": "Associação Salvador em 2024-07-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56694d57457a4e7a41354c574d334f5445744e444a684d7930354d6a45324c54426c4e7a6b354d546b7a4d5459775a5335775a47593d&fich=5b1a3709-c791-42a3-9216-0e799193160e.pdf&Inline=true",
+            "nome": "Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF)      em 2025-02-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245784d7a417a4e3255354c5441324d7a4d744e4751344d7930355a6a6c6a4c574978596a6c6c5954597a4d54646d4d5335775a47593d&fich=a13037e9-0633-4d83-9f9c-b1b9ea6317f1.pdf&Inline=true",
+            "nome": "Mecanismo Nacional de Monitorização da Implementação da Convenção sobre os Direitos das Pessoas com Deficiência (Me-CDPD) em 2025-02-26"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-05-23",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Redistribuído à 5.ª Comissão por despacho de 2024-05-23.",
+    "OevId": "1515961",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
