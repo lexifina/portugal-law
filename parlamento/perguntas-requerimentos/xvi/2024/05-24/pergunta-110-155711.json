@@ -1,0 +1,71 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eHNElB5sAbInrUM%2b1CK3%2bZZa4TA9qAQPFf3pu38QAyPkvnwic8govNMKXbQNlbs2hEipvp7d%2bJTZ%2fEXuaVMsqH8PlGbuSUTPJBr%2boVxdG6Kf2Zpi44%2ba27Oq89l7REdmP%2bBA3defOQ893NSOao0aChocF4k45AVxJ78%2btG0ohXUXuO4Y%2bZIZFToQ4LzcKH05JzQXytw36hhukfq%2bltX9tVH%2fVlxInE1L3MbA9QHVtWzJy2E50PzKMqJf9sR0coFCykSRfPL2oeoHIUYESHnHo%2fHCYD%2fRDx4nh7oswP9bNvADk1%2fZBmrNYYAnk5%2biW00Uj9L%2fJC8v1jUaGVk112b6gEmaJhYEl%2f9y1W4PzI%2bLZx6dSRM%2fC%2fObwkktGczrUJ2rprAZUQsqTvRFDaVKMu3Qf9t%2figaPEsyan6ofqGlcTcU%3d&fich=RequerimentosXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "910d45d7aabe22385422e83c29132f9174a497a7d21d709f9bd70bcef3f9c95f",
+  "legislatura": "XVI",
+  "id": "155711",
+  "tipo": "Pergunta",
+  "numero": "110",
+  "data_registo": "2024-05-24",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "O 'desfasamento entre a procura e a oferta na habitação' e a intenção anunciada do Governo de alterar a legislação",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "817",
+        "nome": "Alfredo Maia"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "209",
+        "nome": "António Filipe"
+      }
+    ],
+    "DataEnvio": "2024-05-28",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2024-05-28",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro das Infraestruturas e Habitação",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2024-06-27",
+            "docRemetida": null,
+            "entidade": "Ministro das Infraestruturas e Habitação",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a59325954426a595451334c5467344d5759744e4441774d7931684e7a6b344c575a6c4d54426a4e7a67774d32566b4d6935775a47593d&fich=66a0ca47-881f-4003-a798-fe10c7803ed2.pdf&Inline=true"
+              },
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a4135596a67335a6a51774c5441784e546b744e4755344e5331695932526b4c5463794d6a526a5a57526d5954466b4d7935775a47593d&fich=09b87f40-0159-4e85-bcdd-7224cedfa1d3.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2024-05-24",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a49334d6a51784e5441344c5759324d5749744e4749785a693035596a51324c5745335a6a6c695a475a6d5954677a5a4335775a47593d&fich=27241508-f61b-4b1f-9b46-a7f9bdffa83d.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "155711",
+    "Legislatura": "XVI",
+    "Nr": "110",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
