@@ -1,0 +1,801 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34069",
+  "numero": "32",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-05-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-12-11",
+            "entidades": null,
+            "id": "159166",
+            "tipo": null,
+            "titulo": "Audição em 2024-12-11 com Peticionários da Petição n.º 32/XVI/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-03-12",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915257",
+                "obs": null,
+                "pag": [
+                  "27-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/063/2025-03-15/27?pgs=27-32&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-06-19",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-05-28",
+        "DataEnvioPAR": "2025-03-13",
+        "DataReaberta": "2024-06-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-12-11",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279387a4e6d466c4e6d4a6d597930775954677a4c5452684d5467744f54557a4d693031596d4d30596a5133596d4e6d596d45756347526d&fich=36ae6bfc-0a83-4a18-9532-5bc4b47bcfba.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396b4f4467314d6a6b785953316d4e546c694c5451774e6a67744f5751355a4330304d5745795a574e694f54686d4e3245756347526d&fich=d885291a-f59b-4068-9d9d-41a2ecb98f7a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-03-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279387a5a54646b5a6d4a69595331694d6a4d304c5451354d544d74596a493259693077596a59794d6a41785a6a49335a6d59756347526d&fich=3e7dfbba-b234-4913-b26b-0b62201f27ff.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-07-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396a5a474a6b4e47526c4e793079597a67334c54526b4d5445744f4449304f5330324e5449795a445a6d4e5745334d574d756347526d&fich=cdbd4de7-2c87-4d11-8249-6522d6f5a71c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-03-12",
+            "dataNomeacao": "2024-06-19",
+            "gp": "PSD",
+            "id": "5749",
+            "motivoCessacao": "Aprovação do relatório final",
+            "nome": "Sandra Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2026-04-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-05-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a45334d4745784e6a41304c5745344f4451744e446b325a5330344d4445304c5745324e4467334e57526d4d3245304d4335775a47593d&fich=170a1604-a884-496e-8014-a64875df3a40.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "356543",
+      "356443",
+      "356478",
+      "356527",
+      "356536"
+    ],
+    "Iniciativasoriginadas": [
+      "356543",
+      "356443",
+      "356478",
+      "356527",
+      "356536"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": "Apresenta o Projeto de Lei n.º 560/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 766/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 785/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 818/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/59"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 826/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/62"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Pela revisão da tabela salarial dos enfermeiros (Emanuel António Zambujo Boieiro e outros); Garante o pagamento integral dos retroativos devidos aos enfermeiros ao abrigo da Lei n.º 51/2025, de 7 de abril; Pela justiça remuneratória dos enfermeiros e pela resolução nacional dos retroativos em dívida (2018–2021); Valorização dos enfermeiros nas unidades públicas de Saúde; Atualização da tabela salarial e valorização da carreira de enfermagem.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": [
+      {
+        "DataDocumento": "2024-05-28",
+        "TipoDocumento": "Link",
+        "URL": "https://peticaopublica.com/pview.aspx?pi=PT119991"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34069",
+    "PetAssunto": "Pela Revisão da Tabela Salarial dos Enfermeiros",
+    "PetDataEntrada": "2024-05-25",
+    "PeticoesAssociadas": null,
+    "PetId": "34069",
+    "PetLeg": "XVI",
+    "PetNr": "32",
+    "PetNrAssinaturas": "76578",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura.",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56874",
+        "obs": null,
+        "pag": [
+          "39-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-04-24",
+        "pubLeg": "XVII",
+        "pubNr": "82",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/39?pgs=39-46&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915262",
+        "obs": null,
+        "pag": [
+          "39-39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-06-22",
+        "pubLeg": "XVI",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/016/2024-06-22/39?pgs=39&org=PLC"
+      }
+    ]
+  }
+}
