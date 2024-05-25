@@ -16,8 +16,22 @@ e) Promoção das publicações legais que sejam devidas, as quais se devem efec
 
 f) Promoção das restantes diligências que venham a ser fixadas por via regulamentar ou protocolar;
 
-g) Envio dos documentos à conservatória do registo comercial detentora da pasta da sociedade, para efeitos do disposto no n.º 1 do artigo 59.º do Código do Registo Comercial.
+g) (Revogada.)
 
-2 - O envio dos documentos previsto na alínea g) do número anterior só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica.
+2 - (Revogado.)
 
 3 - No caso de se tratar de um registo a efectuar por depósito, a respectiva menção pode ser efectuada pelo requerente.
+
+4 - Para além dos atos previsto no n.º 1, quando esteja em causa o registo online de representação permanente e o registo da designação, o serviço competente procede ainda aos seguintes atos:
+
+a) Registo da representação permanente e da designação dos respetivos representantes, que é imediatamente comunicado aos interessados através do sítio na Internet a que se refere o artigo 2.º;
+
+b) Comunicação aos interessados do número de identificação da representação permanente na segurança social;
+
+c) Comunicação aos interessados do código de acesso ao cartão eletrónico da empresa e envio posterior do cartão da empresa a título gratuito;
+
+d) Disponibilização gratuita de código de acesso à certidão permanente da representação permanente pelo período de três meses;
+
+e) Disponibilização aos serviços competentes, por via eletrónica, dos dados necessários para o controlo das obrigações tributárias à administração tributária, dos dados necessários para efeitos de comunicação do início de atividade da representação permanente à Autoridade para as Condições do Trabalho, bem como dos dados necessários à inscrição oficiosa da representação permanente nos serviços de segurança social e, quando for o caso, no cadastro comercial.
+
+5 - A firma ou denominação constante da matrícula da representação permanente deve incluir a designação ‘representação permanente’ ou ‘sucursal’, a escolher pelos interessados.

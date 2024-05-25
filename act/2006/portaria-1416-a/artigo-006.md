@@ -4,4 +4,6 @@
 
 1 - Para efeitos da promoção de actos de registo comercial online, a autenticação electrónica de advogados, solicitadores e notários deve fazer-se mediante certificado digital que comprove a qualidade profissional do utilizador.
 
-2 - Para os restantes utilizadores, a autenticação electrónica faz-se mediante a utilização de certificado digital qualificado, nos termos previstos no regime jurídico dos documentos electrónicos e da assinatura electrónica, aprovado pelo Decreto-Lei n.º 290-D/99, de 2 de Agosto, na redacção introduzida pelos Decretos-Leis n.os 62/2003, de 3 de Abril, 165/2004, de 6 de Julho, e 116-A/2006, de 16 de Junho.
+2 - Para os restantes utilizadores, a autenticação eletrónica efetua-se mediante a utilização de certificado digital qualificado, através do cartão de cidadão ou de Chave Móvel Digital (CMD).
+
+3 - Nos casos em que os interessados sejam cidadãos de outros Estados-Membros da União Europeia, é ainda admissível a utilização de meios de identificação eletrónica emitidos noutros Estados-Membros, desde que reconhecidos para efeitos de autenticação transfronteiriça, nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.
