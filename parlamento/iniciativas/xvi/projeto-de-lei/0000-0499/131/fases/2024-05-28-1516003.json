@@ -1,0 +1,153 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "131",
+    "id": "263726",
+    "titulo": "Aprova o regime jurídico de complemento de alojamento, alargando-o a estudantes deslocados não-bolseiros provenientes de agregados familiares de rendimento anual inferior aos constantes do limite do 6.º escalão de IRS"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2024-05-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a55304d544d324e3249744e546b774e693030593251354c57453159324d744d7a4d304d4463795a6a63305a6a56684c6e426b5a673d3d&fich=7541367b-5906-4cd9-a5cc-334072f74f5a.pdf&Inline=true",
+        "anexoNome": "Despacho"
+      }
+    ],
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "75430",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-05-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-06-04",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta dos contributos à Iniciativa",
+            "URL": "https://www.parlamento.pt/sites/COM/XVILeg/8CEC/Paginas/ContributosIniciativasII.aspx?ID_Ini=143"
+          },
+          {
+            "DataDocumento": "2024-06-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d6a64684d7a67304d43307a4e7a46694c5451774f44497459546b335a433034595745354e6a493359574e695a4451756347526d&fich=327a3840-371b-4082-a97d-8aa9627acbd4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d5451774e574a6b4f5330785a44426b4c54526b5a6d4574596d49794f5330314e5463324d4755314f4751334d5445756347526d&fich=f1405bd9-1d0d-4dfa-bb29-55760e58d711.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d6a426b4e44526d4e533078596a6b324c54526d4e475974595745334d53316c5a574d344d44686c4f444d345a6a49756347526d&fich=c20d44f5-1b96-4f4f-aa71-eec808e838f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e7a52694d444e695a5330795a5745344c54517a4d7a4574595451334e6930305a6a67314d6d497a5a6a6c694e7a59756347526d&fich=574b03be-2ea8-4331-a476-4f852b3f9b76.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-16",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938345a4749794d54426d4f53316b4f4455304c545131596a55745954677a5a6930795a57526a597a51784d6d5935596a6b756347526d&fich=8db210f9-d854-45b5-a83f-2edcc412f9b9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-16",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f474a694d5759335a533031593249344c5452684e574d74596d4d304d6930785a6a4d334d544d314e44426c4d5755756347526d&fich=58bb1f7e-5cb8-4a5c-bc42-1f3713540e1e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-15",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Gravação da reunião de discussão e votação na especialidade",
+            "URL": "https://media.parlamento.pt/site/XVILEG/SL1/COM/08_CEC/CEC_20240711.mp3"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8400",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência ",
+        "Numero": "8400",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-05-28",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Redistribuído à 8.ª Comissão por despacho de 2024-05-28.",
+    "OevId": "1516003",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1018832",
+        "obs": null,
+        "pag": [
+          "2-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-07-16",
+        "pubLeg": "XVI",
+        "pubNr": "65",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/065/2024-07-16/2?pgs=2-14&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
