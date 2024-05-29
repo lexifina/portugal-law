@@ -1,0 +1,153 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34070",
+  "numero": "33",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-05-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-09-25",
+            "entidades": null,
+            "id": "158967",
+            "tipo": null,
+            "titulo": "Audição em 2024-09-25 com 1.º Subscritor da Petição n.º33/XVI/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-10-09",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": "2024-10-09",
+              "descricao": null,
+              "detalhe": null,
+              "id": "127179",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "30",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-06-12",
+        "DataArquivo": "2024-10-09",
+        "DataBaixaComissao": "2024-05-31",
+        "DataEnvioPAR": "2024-10-09",
+        "DataReaberta": "2024-06-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-06-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a59573876595449324d5759305a5467744e7a55794e7930305a5459304c546b324e6d4574596d56694e444a6d4d5745304e445a6d4c6e426b5a673d3d&fich=a261f4e8-7527-4e64-966a-beb42f1a446f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-10-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a59573876596a677759544d314e4441745a6a4a6a4d5330305a6d5a6b4c5749324e546b745a574e685a6a49344f474978596a49354c6e426b5a673d3d&fich=b80a3540-f2c1-4ffd-b659-ecaf288b1b29.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a595738764f5759314e6a6b315a5759744f444a6c4d5330304d4751344c574a6c5a6a4174595463344d4755304f4755334d4451334c6e426b5a673d3d&fich=9f5695ef-82e1-40d8-bef0-a780e48e7047.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8402",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-10-09",
+            "dataNomeacao": "2024-06-12",
+            "gp": "CH",
+            "id": "7369",
+            "motivoCessacao": null,
+            "nome": "Vanessa Barata"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2024-06-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32517a5a4752684e5459354c574d334d3245744e445a6b4d5330355a6d59354c546c694e54466b597a6b77596a4d30595335775a47593d&fich=d3dda569-c73a-46d1-9ff9-9b51dc90b34a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34070",
+    "PetAssunto": "Criação do Dia de Respeito pelos Idosos",
+    "PetDataEntrada": "2024-05-29",
+    "PeticoesAssociadas": null,
+    "PetId": "34070",
+    "PetLeg": "XVI",
+    "PetNr": "33",
+    "PetNrAssinaturas": "2512",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915269",
+        "obs": null,
+        "pag": [
+          "34-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-09-14",
+        "pubLeg": "XVI",
+        "pubNr": "31",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/031/2024-09-14/34?pgs=34-35&org=PLC"
+      }
+    ]
+  }
+}
