@@ -1,0 +1,8 @@
+Aviso (extrato)  n.º 11675/2024/2
+
+Consulta Pública do Projeto de alteração do Regulamento da Componente de Apoio à Família
+Hugo Ferraz de Abreu Vieira da Silva, Presidente da Junta de Freguesia de Campo de Ourique, torna público, no uso das competências previstas nos artigos 100.º e 101.º do Código de Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que o órgão executivo da Freguesia, em cumprimento do n.º 1 do artigo 16.º da Lei n.º 75/2013, de 12 de setembro, deliberou, no dia 29 de abril de 2024, iniciar um procedimento regulamentar relativo à alteração do Regulamento da Componente de Apoio à Família da Freguesia de Campo de Ourique e, bem assim, submeter o mesmo a consulta pública, pelo prazo de trinta dias a contar do dia seguinte ao da publicação do presente aviso no Diário da República, de acordo com o disposto no artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro.
+O texto do Projeto de alteração ao Regulamento da Componente de Apoio à Família da Freguesia de Campo de Ourique poderá ser consultado no site oficial da Junta de Freguesia (www.jf-campodeourique.pt).
+Qualquer interessado poderá apresentar por escrito, durante o período de consulta pública, sugestões que possam ser consideradas relevantes no âmbito do presente procedimento (cf. n.º 2 do artigo 101.º do Código do Procedimento Administrativo), as quais deverão ser endereçadas ao Presidente da Junta de Freguesia de Campo de Ourique e entregues na Rua Azedo Gneco, 84, 2.º Esq., 1350-039 Lisboa, ou através do endereço eletrónico geral@jf-campodeourique.pt.
+20 de maio de 2024. - O Presidente da Junta de Freguesia de Campo de Ourique, Hugo Vieira da Silva.
+317715781
