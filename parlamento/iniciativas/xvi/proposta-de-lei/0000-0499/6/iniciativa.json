@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Proposta de Lei",
+  "numero": "6",
+  "id": "263810",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-06-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a466d4e544e6b4d6a51744e6d566b4d4330304f574e6a4c54686c4f4745744d4751354f44566a4e7a45324e4449794c6e426b5a673d3d&fich=f1f53d24-6ed0-49cc-8e8a-0d985c716422.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a54526b597a59335a6d45744d7a466c4d6930304d6a6b304c54686b59324d744f5755304d5449334f57593059546c6a4c6e426b5a673d3d&fich=e4dc67fa-31e2-4294-8dcc-9e41279f4a9c.pdf&Inline=true",
+        "anexoNome": "Parecer Assembleia Legislativa da Região Autónoma da Madeira"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d52685a4451794d6a6b744f5451344e4330304d4459784c574a684e7a6b745a546b344d7a49355a474533596a6b304c6e426b5a673d3d&fich=fdad4229-9484-4061-ba79-e98329da7b94.pdf&Inline=true",
+        "anexoNome": "Parecer Assembleia Legislativa da Região Autónoma dos Açores"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f475532597a51304e5445744d5755334d7930305a446b304c57466d5a546b744d44646a4e6a41784e7a6c684f4456684c6e426b5a673d3d&fich=8e6c4451-1e73-4d94-afe9-07c60179a85a.pdf&Inline=true",
+        "anexoNome": "Parecer Governo Regional da Madeira"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263810",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a686b596a4532595745744d6d566a4e7930304e4452684c546c6c4d6a51744d44566a4e7a45324d5441344d54557a4c6d52765933673d&fich=28db16aa-2ec7-444a-9e24-05c716108153.docx&Inline=true",
+    "IniNr": "6",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Autoriza o Governo a isentar de Imposto Municipal sobre as Transmissões Onerosas de Imóveis e Imposto de Selo a compra de habitação própria e permanente por jovens até aos 35 anos, através da alteração do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis e do Código do Imposto de Selo",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
