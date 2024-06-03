@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Proposta de Lei",
+  "numero": "5",
+  "id": "263809",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-06-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a444d355a4467354d7a59745a47466b59533030596d5a6a4c5749785a6d51745a5752684d544d7a4e3249324d7a4d774c6e426b5a673d3d&fich=d39d8936-dada-4bfc-b1fd-eda1337b6330.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659546c6b4f54566c5a474d745a54677a4f5330304d7a4d7a4c57457a59546b744d57517a4e4751304e44566a4e474d784c6e426b5a673d3d&fich=a9d95edc-e839-4333-a3a9-1d34d445c4c1.pdf&Inline=true",
+        "anexoNome": "Parecer Assembleia Legislativa da Região Autónoma da Madeira"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a54426b5a5451774e474d744f54417a4f5330304f47526d4c546c6c4d5455745a6a4132595759354e4759355a546c694c6e426b5a673d3d&fich=e0de404c-9039-48df-9e15-f06af94f9e9b.pdf&Inline=true",
+        "anexoNome": "Parecer Assembleia Legislativa da Região Autónoma dos Açores"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a544d794e546c6b4e4755744e474d304f4330304f44686c4c5467795a5749744f54466c4d3259345a574a6b4e5456694c6e426b5a673d3d&fich=e3259d4e-4c48-488e-82eb-91e3f8ebd55b.pdf&Inline=true",
+        "anexoNome": "Parecer Governo Regional da Madeira"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263809",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a426a4d6a46695a4459744e4755784f5330304d6a41344c574934596d4574593249774f5446684e32526d5a5752684c6d52765933673d&fich=60c21bd6-4e19-4208-b8ba-cb091a7dfeda.docx&Inline=true",
+    "IniNr": "5",
+    "IniObs": "Iniciativa retirada a pedido do(s) autor(es) em 2024-10-10.",
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Autoriza o Governo a alterar o IRS Jovem para uma taxa máxima de 15%, para jovens até aos 35 anos, através da alteração do Código de Imposto sobre o Rendimento das Pessoas Singulares",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
