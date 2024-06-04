@@ -1,0 +1,6 @@
+Aviso n.º 11768/2024/2
+
+Consulta Pública da Proposta de Regulamento Municipal de Incentivo à Natalidade do Município de Celorico da Beira
+Carlos Manuel da Fonseca Ascensão, Presidente da Câmara Municipal de Celorico da Beira, torna público que, nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo, está a decorrer a fase de consulta pública da “Proposta de Regulamento Municipal de Incentivo à Natalidade”, pelo período de 30 dias a contar da publicação do presente aviso no Diário da República, cujo início do período de consulta pública foi deliberado em reunião de Câmara Municipal do dia dezoito de abril do ano dois mil e vinte e quatro. Durante esse período, o projeto de regulamento encontra-se disponível para consulta no Balcão Único de Atendimento desta Câmara Municipal, durante o horário normal de expediente, nos dias úteis entre as 9h:00 e as 13h:00 e as 14h:00 e as 16h:00, bem como no site do Município, em www.cm-celoricodabeira.pt, devendo as eventuais sugestões, reclamações ou observações ser dirigidas, por escrito, ao Presidente da Câmara Municipal de Celorico da Beira, por correio postal, correio eletrónico ou entregues no Balcão Único da Câmara Municipal de Celorico da Beira.
+22 de abril de 2024. - O Presidente da Câmara Municipal, Carlos Manuel da Fonseca Ascensão.
+317691238
