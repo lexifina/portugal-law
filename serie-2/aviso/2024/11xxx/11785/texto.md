@@ -1,0 +1,9 @@
+Aviso n.º 11785/2024/2
+
+Período de Participação Pública
+Manuel António Natário Cordeiro, Presidente da Câmara Municipal de São João da Pesqueira, torna público, nos termos do n.º 3 do Artigo 127.º e Artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial - RJIGT), na sua atual redação, que a Câmara Municipal de São João da Pesqueira, na sua reunião de 25 de abril de 2024, deliberou dar início ao procedimento de participação pública de 20 dias úteis para formulação de observações e sugestões por escrito de todos os interessados sobre a do Plano de Pormenor e salvaguarda de Casais do Douro da Câmara Municipal de São João da Pesqueira.
+Torna-se ainda público que o mencionado período de divulgação pública terá início cinco dias após publicação do presente Aviso no Diário da República, 2.ª série, nos termos da alínea a) do n.º 4 do artigo 191.º do RJIGT.
+Os interessados podem consultar a proposta Revogação do Plano de Pormenor e salvaguarda de Casais do Douro da Câmara Municipal de São João da Pesqueira e demais documentação que a consubstanciou no sítio eletrónico da Câmara Municipal de S. João da Pesqueira, no endereço www.sjpesqueira.pt ou no Balcão Único de Atendimento, integrado da Câmara Municipal de S. João da Pesqueira, todos os dias úteis das 9:00 às 12:30 e das 14:00 às 17:30.
+Durante o período de discussão pública, qualquer interessado poderá apresentar as suas reclamações, observações ou sugestões, por escrito, em documento devidamente identificado, dirigido ao Presidente da Câmara Municipal de S. João da Pesqueira ou para o correio eletrónico cmsjp@sjpesqueira.pt, bem como por correio registado para a morada - Município de S. João da Pesqueira, Av.ª Marques do Soveral, n.º 67, 5130-321 S. João da Pesqueira, ou por entrega pessoal, Balcão Único de Atendimento.
+29 de abril de 2024. - O Presidente da Câmara Municipal, Manuel António Natário Cordeiro.
+317665561
