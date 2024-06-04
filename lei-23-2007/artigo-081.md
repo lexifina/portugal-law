@@ -18,6 +18,6 @@ c) A informação da UCFE prevista na alínea b) do n.º 2 do artigo 82.º concl
 
 5 - O requerente de uma autorização de residência pode solicitar simultaneamente o reagrupamento familiar.
 
-6 - Quando o requerimento simultâneo referido no número anterior ocorrer no âmbito da submissão de manifestação de interesse para concessão de autorização de residência para o exercício de uma atividade profissional, nos termos do disposto nos n.os 2 dos artigos 88.º e 89.º, o requerente pode identificar os membros da família que se encontrem em território nacional, os quais beneficiam da presunção de entrada legal do requerente, se aplicável, nos termos do n.º 6 do artigo 88.º e do n.º 5 do artigo 89.º
+6 - [Revogado.]
 
-7 - Para efeitos do disposto no número anterior, têm preferência na apresentação de pedidos de autorização de residência os requerentes cujo agregado familiar integre menores em idade escolar ou filhos maiores a cargo, em ambos os casos a frequentar estabelecimento de ensino em território nacional.
+7 - [Revogado.]
