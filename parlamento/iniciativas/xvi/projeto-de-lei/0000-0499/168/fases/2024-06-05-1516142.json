@@ -1,0 +1,140 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "168",
+    "id": "263812",
+    "titulo": "Compatibiliza a idade mínima para prestar trabalho com o termo da escolaridade obrigatória "
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-06-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75464",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-06-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2024-07-14",
+        "DatainicioApreciacaoPublica": "2024-06-14",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-07-08",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XVILeg/10CTSSI/Paginas/Iniciativas-em-Apreciacao-Publica-.aspx?t=4d533743716942545a584e7a77364e764945786c5a326c7a6247463061585a684c31424b544341784e6a686657465a4a587a457577717066516b553d&Path=IvuHu%2fpud717r%2fsRicLjrKl602xN8N79Ri5msJ0tu7Zjy4j4k53h5LkPJgg0zCSpn32Tka3FKSHQDSM5j10Q4fYxRaNF8ZLqMeVXwFsW2x72WVb%2fkjPUlwr%2brGZ3DOU05z4QiBXhh0JSQCiP7x9WZK5NJNtbBvaxDvh1zamSSKth5RH8oYScJSJaJybbTZ85dK4y89%2fxQnMCqr659E9mDXngZjrj7tzWCEMORDUYWliFPgHsZ%2fD3%2fQI%2b8Cuovj4YmXUaonJ2bP8TjApNY9Lj1UN5tD4e79owVMJH8SqinmOU7FuulKnBbrQZnJwvNq1dOfdhrKNXIOvbeaEyvRiq6YtSF3fO3jdqxiSWZkwLCryFbvwtAbpHHmEZDoZLOpkOVwA86JtV8uTI55yi3qf3ubjsO8uXGg9rZGSby%2fTmXKPE575m%2feMluTh9bJ2U7n9%2fpm0lrrRcDRBLJAT%2fMJpjU6m4FTwrmst6XWvMOo6Hvd%2fdnMltXRVvu4Ac8j%2fJMvgW"
+          },
+          {
+            "DataDocumento": "2025-01-29",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e7a4e6d4d6a686b4e5330774d6a63314c5452694e4445744f5463784e7930354d44646a4f4459794d6a41784e6a49756347526d&fich=e73f28d5-0275-4b41-9717-907c86220162.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-27",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684f4459324d6a457a5a5330344f5746684c54526d5a5451744f57597a4f53307a4d474d344d5745314e6a59784f5749756347526d&fich=a866213e-89aa-4fe4-9f39-30c81a56619b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8402",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8402",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7504",
+            "motivoCessacao": null,
+            "nome": "Paulo Edson Cunha"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2025-01-29",
+            "descricao": "Votos a favor dos GP do PSD, PS, CH, registando-se a ausência do BE, PCP, IL e L",
+            "detalhe": null,
+            "id": "128103",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "45",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-06-05",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1516142",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1021019",
+        "obs": null,
+        "pag": [
+          "3-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-29",
+        "pubLeg": "XVI",
+        "pubNr": "170",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/170/2025-01-29/3?pgs=3-4&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
