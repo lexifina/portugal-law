@@ -1,0 +1,20 @@
+# Portaria n.º 219/2024
+
+**Emissor:** SECRETARIA REGIONAL DE ECONOMIA, MAR E PESCAS
+
+**Publicação:** JORAM, I série, n.º 89/2024, 2.º suplemento, de 2024-06-06
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais relativos à execução do investimento C19-i05, subinvestimento C19-i05.01 - Transição Digital da Administração Pública da RAM - DRI, projeto P4.14 - Sector Portuário/Logística Criação de PCS (Port Community System), subprojecto P4.14.3 - Upgrade da Infraestrutura Tecnológica, financiado no âmbito do Plano de Recuperação e Resiliência, para a aquisição de ativos de rede para a APRAM, S.A. até ao montante global de 318.842,08 €.
+
+## Texto
+
+Portaria n.º 219/2024
+de 6 de junho
+Sumário: Autoriza a distribuição dos encargos orçamentais relativos à execução do investimento C19-i05, subinvestimento C19-i05.01 - Transição Digital da Administração Pública da RAM - DRI, projeto P4.14 - Sector Portuário/Logística - Criação de PCS (Port Community System), subprojecto P4.14.3 - Upgrade da Infraestrutura Tecnológica, financiado no âmbito do Plano de Recuperação e Resiliência, para a aquisição de ativos de rede para a APRAM, S.A. até ao montante global de 318.842,08 €.
+Texto: Com a publicação e entrada em vigor do Decreto Legislativo Regional n.º 2/2022/M, de 12 de janeiro, estatuiu-se um regime excecional de agilização e simplificação de procedimentos dos projetos aprovados no âmbito do Plano de Recuperação e Resiliência (PRR), que integram o Plano de Recuperação e Resiliência da Região Autónoma da Madeira (PRR-RAM), através de subvenções a fundo perdido e os procedimentos a adotar. Os encargos plurianuais objeto da presente portaria estão de acordo com o n.º 2 do artigo 5.º daquele diploma legal, previamente registados no Sistema Central de Encargos Plurianuais e são obrigatoriamente mantidos atualizados, de acordo com os procedimentos definidos. Assim, e dando cumprimento ao disposto no n.º 1 do artigo 32.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, por força do estipulado no artigo 15.º da Lei n.º 28/92, de 1 de setembro, e, ainda, em conjugação com o artigo 5.º do Decreto Legislativo Regional n.º 2/2022/M, de 12 de janeiro, manda o Governo Regional da Madeira, através do Secretário Regional de Economia, Mar e Pescas o seguinte:
+1. Autorizar a repartição dos encargos orçamentais relativos à execução do investimento C19-i05, subinvestimento C19-i05.01 - Transição Digital da Administração Pública da RAM - DRI, projeto P4.14 - Sector Portuário/Logística Criação de PCS (Port Community System), subprojecto P4.14.3 - Upgrade da Infraestrutura Tecnológica, financiado no âmbito do Plano de Recuperação e Resiliência, para a aquisição de ativos de rede para a APRAM, S.A. até ao montante global de 318.842,08 € (trezentos e dezoito mil oitocentos e quarenta e dois euros e oito cêntimos), acresce o IVA à taxa legal em vigor, da seguinte forma: a) Ano económico de 2024 ................................................................... 223.189,45 €; b) Ano económico de 2025 .................................................................. 95.652,63 €; c) Ano económico de 2026 .................................................................. 0 €; d) Ano económico de 2027 .................................................................. 0 €.
+2. Os encargos da presente portaria, para o ano de 2024, têm cabimento orçamental n.º PS1 24/229, de 22/04/2024, na Classificação Económica 070107 CS 00, do orçamento privativo da Administração dos Portos da Região Autónoma da Madeira, S.A., e nos anos seguintes por verbas adequadas a inscrever no orçamento do mesmo organismo sob o registo n.º 16615.
+3. O montante fixado para cada ano económico poderá ser acrescido do saldo apurado na execução orçamental do ano anterior.
+4. A presente portaria entra em vigor no dia seguinte ao da sua publicação. Secretaria Regional de Economia, Mar e Pescas.
+Assinada em 5 de junho de 2024.
+O SECRETÁRIO REGIONAL DE ECONOMIA, MAR E PESCAS, Rui Miguel da Silva Barreto
