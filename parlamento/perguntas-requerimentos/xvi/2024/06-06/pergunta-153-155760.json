@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eHNElB5sAbInrUM%2b1CK3%2bZZa4TA9qAQPFf3pu38QAyPkvnwic8govNMKXbQNlbs2hEipvp7d%2bJTZ%2fEXuaVMsqH8PlGbuSUTPJBr%2boVxdG6Kf2Zpi44%2ba27Oq89l7REdmP%2bBA3defOQ893NSOao0aChocF4k45AVxJ78%2btG0ohXUXuO4Y%2bZIZFToQ4LzcKH05JzQXytw36hhukfq%2bltX9tVH%2fVlxInE1L3MbA9QHVtWzJy2E50PzKMqJf9sR0coFCykSRfPL2oeoHIUYESHnHo%2fHCYD%2fRDx4nh7oswP9bNvADk1%2fZBmrNYYAnk5%2biW00Uj9L%2fJC8v1jUaGVk112b6gEmaJhYEl%2f9y1W4PzI%2bLZx6dSRM%2fC%2fObwkktGczrUJ2rprAZUQsqTvRFDaVKMu3Qf9t%2figaPEsyan6ofqGlcTcU%3d&fich=RequerimentosXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "910d45d7aabe22385422e83c29132f9174a497a7d21d709f9bd70bcef3f9c95f",
+  "legislatura": "XVI",
+  "id": "155760",
+  "tipo": "Pergunta",
+  "numero": "153",
+  "data_registo": "2024-06-06",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Solicitação de esclarecimentos sobre a necessidade urgente de Intervenção e preservação da Igreja da Graça em Évora",
+    "Autores": [
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7355",
+        "nome": "Patrícia Carvalho"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7330",
+        "nome": "Jorge Galveias"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8832",
+        "nome": "Daniel Teixeira"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8091",
+        "nome": "Sónia Monteiro"
+      }
+    ],
+    "DataEnvio": "2024-06-12",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2024-06-12",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministra da Cultura",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2024-07-11",
+            "docRemetida": null,
+            "entidade": "Ministra da Cultura",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a63355a444d7a5a4751354c5467775a5755744e474e6c597931694e544d794c5751344e5441775a6d51784d47526a4f4335775a47593d&fich=79d33dd9-80ee-4cec-b532-d8500fd10dc8.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2024-06-06",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a6c6b5a544978595755784c57466d4d6d51744e44686c4e6931694d6a59794c575532597a526d4d6d45354e5467774e7935775a47593d&fich=9de21ae1-af2d-48e6-b262-e6c4f2a95807.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "155760",
+    "Legislatura": "XVI",
+    "Nr": "153",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
