@@ -10,7 +10,7 @@ b) Assegurar, em articulação com as autoridades de gestão e em razão das mat
 
 c) Emitir orientações técnicas aplicáveis de forma transversal aos programas e acompanhar a respetiva aplicação;
 
-d) Emitir parecer e consolidar as propostas de plano anual de avisos apresentadas pelas autoridades de gestão, exceto no que se refere ao Programa Mar, para subsequente aprovação pela CIC Portugal 2030 plenária;
+d) Emitir parecer e consolidar as propostas de plano anual de avisos apresentadas pelas autoridades de gestão, após articulação funcional, quando aplicável, nas redes previstas nas alíneas e) a g) do n.º 2 do artigo 30.º, exceto no que se refere ao Programa Mar, para subsequente aprovação pela CIC Portugal 2030 plenária;
 
 e) Emitir parecer, no prazo de cinco dias úteis, sobre o conteúdo dos avisos para apresentação de candidaturas não integrados no plano anual de avisos, referidos na alínea f) do n.º 3 do artigo 9.º, mediante iniciativa das autoridades de gestão, para posterior envio, pelos respetivos membros do Governo responsáveis pela coordenação política específica, à CIC Portugal 2030 permanente;
 
@@ -18,7 +18,7 @@ f) Assegurar a função de autoridade nacional dos programas do objetivo coopera
 
 g) Emitir parecer sobre as propostas de reprogramação de cada programa, apresentadas pela autoridade de gestão;
 
-h) Efetuar a análise técnica sobre as metodologias de opções custos simplificados, definidas ao abrigo das alíneas a), c) e d) do n.º 3 do artigo 53.º e do artigo 94.º do Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho de 2021, propostas pelas autoridades de gestão, e proceder ao respetivo envio à autoridade de auditoria, para avaliação ex ante;
+h) Emitir parecer sobre as metodologias de opções custos simplificados, definidas ao abrigo das alíneas a), c) e d) do n.º 3 do artigo 53.º do Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho de 2021, propostas pelas autoridades de gestão, proceder ao respetivo envio à autoridade de auditoria, para avaliação ex ante, e posterior submissão a homologação pela CIC Portugal 2030 permanente;
 
 i) Emitir parecer e submeter a aprovação da CIC Portugal 2030 permanente propostas de sistemas de financiamento específicos, designadamente associados a opções de custos simplificados ou a percentagens de adiantamento, nos termos previstos na regulamentação geral de aplicação dos programas, apresentadas pelas autoridades de gestão;
 

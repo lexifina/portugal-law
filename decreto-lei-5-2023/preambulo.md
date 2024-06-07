@@ -1,3 +1,9 @@
+Decreto-Lei n.º 5/2023
+
+de 25 de janeiro
+
+Sumário: Estabelece o modelo de governação dos fundos europeus para o período de programação 2021-2027.
+
 Portugal conheceu, nas últimas décadas, avanços significativos na melhoria da qualidade de vida dos portugueses, para os quais muito contribuíram os fundos europeus e, em particular, os fundos da Política de Coesão. Muitos dos progressos registados, na coesão social, na saúde, na educação, na cultura, e na qualificação dos recursos humanos, na transformação do tecido económico, no acesso, disponibilidade e qualidade das infraestruturas e equipamentos coletivos, na valorização do património e na qualificação do espaço público, e também na sustentabilidade ambiental, resultaram da mobilização destes recursos, num quadro de políticas públicas direcionadas para o crescimento económico inclusivo, para o emprego de qualidade e para a transformação estrutural do País.
 
 Em 2020, na sequência da pandemia da doença COVID-19 e da crise sanitária, social e económica que lhe sucedeu, a União Europeia deu uma resposta concertada, robusta e sem precedentes, consubstanciada no acordo estabelecido no Conselho Europeu de julho de 2020, no qual, à manutenção do volume financeiro associado à Política de Coesão, adicionou o pacote Next Generation EU, onde se inclui o Mecanismo de Recuperação e Resiliência.
