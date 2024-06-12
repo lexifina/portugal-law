@@ -1,0 +1,23 @@
+Aviso n.º 12279/2024/2
+
+Abertura do procedimento de 2.ª Revisão do Plano Diretor Municipal de Pombal
+Pedro Navega Ferreira, Vereador do Ordenamento do Território da Câmara Municipal de Pombal, no uso da competência delegada:
+Torna público, nos termos e para efeitos do disposto na alínea c) do n.º 4 do artigo 191.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), estabelecido pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, que a Câmara Municipal de Pombal, na sua reunião pública realizada a 09 de maio de 2024, deliberou, em resultado do Relatório sobre o Estado do Ordenamento do Território e para efeitos do disposto no artigo 76.º do RJIGT, determinar a abertura do procedimento de 2.ª Revisão do Plano Diretor Municipal de Pombal, tendo por base o documento “Termos de referência, oportunidade e programação de trabalhos”, e estabelecer estabelecendo o prazo de 48 meses para a sua elaboração, contados a partir da publicação do presente Aviso no Diário da República.
+A Câmara Municipal deliberou, ainda, nos termos do previsto no n.º 2 do artigo 88.º do RJIGT, abrir um período de participação pública, com a duração de 30 (trinta) dias úteis, a contar da data de publicação do presente Aviso no Diário da República, para a formulação de sugestões e para a apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de Revisão do Plano.
+A deliberação da Câmara Municipal de Pombal, bem como a documentação de suporte, poderá ser consultada na Divisão de Urbanismo, Planeamento e Reabilitação Urbana, todos os dias úteis, durante a hora de expediente e na página da Internet, em www.cm-pombal.pt.
+As participações deverão ser apresentadas, preferencialmente, na página de internet do Município (www.cm-pombal.pt), podendo ainda ser formalizadas, por escrito e de forma fundamentada, através do preenchimento de requerimento disponível para o efeito, dirigido ao Vereador do Pelouro do Ordenamento do Território, a apresentar no Balcão de Atendimento dos Serviços Técnicos deste Município, enviadas por via postal para: Largo do Cardal-3100-440 Pombal, ou remetidas por correio eletrónico para o endereço pdm@cm-pombal.pt.
+Para constar, publica-se o presente aviso no Diário da República e outros de igual teor, que serão afixados e publicitados nos termos legalmente previstos.
+10 de maio de 2024. - O Vereador do Ordenamento, Pedro Navega Ferreira, arquiteto.
+Deliberação
+Deliberação tomada Reunião Ordinária da Câmara Municipal de Pombal n.º 0010/CMP/24, celebrada em 9 de maio de 2024 e aprovada em minuta para efeitos de imediata execução.
+“Ponto 2.12.1. 2.ª Revisão do PDM de Pombal - Termos de referência, oportunidade e programação de trabalhos
+[...]
+A Câmara deliberou, por unanimidade:
+1 - Determinar a abertura do procedimento de 2.ª revisão do Plano Diretor Municipal de Pombal, tendo subjacente o documento “Termos de referência, oportunidade e programação de trabalhos”, em anexo à presente informação, (cf. n.º 1 do artigo 76.º do RJIGT);
+2 - Estabelecer o prazo de 48 (quarenta e oito) meses para elaboração da 2.ª revisão do PDM de Pombal (cf. n.º 1 do artigo 76.º do RJIGT);
+3 - Determinar a abertura de um período de participação pública, a decorrer pelo prazo de 30 (trinta) dias, para a formulação de sugestões e observações, bem como para a apresentação de contributos e demais informações, sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de 2.ª Revisão do PDM (cf. n.º 1 do artigo 76.º, e artigo 88.º do RJIGT);
+4 - Sujeitar o procedimento de elaboração da 2.ª Revisão do PDM a Avaliação Ambiental Estratégica nos termos do n.º 2 do artigo 78.º do RJIGT e do disposto no Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação atual;
+5 - Publicar a deliberação da Câmara Municipal no Diário da República, bem como a respetiva divulgação na comunicação social, na plataforma colaborativa de gestão territorial (PCGT) e no sítio da Internet da Câmara Municipal (n.º 1 do artigo 76.º, e alínea c) do n.º 4, do artigo 191.º do RJIGT), acrescendo ainda a afixação de editais nos locais habituais; e
+6 - Comunicar à Comissão de Coordenação e Desenvolvimento Regional do Centro (CCDR-C) a deliberação da Câmara Municipal acompanhada do Relatório sobre o Estado do Ordenamento do Território (REOT - Monitorização de 2022), e solicitar o agendamento de uma reunião preparatória com vista à constituição da Comissão Consultiva (artigo 83.º do RJIGT e n.º 1 do artigo 3.º da Portaria n.º 277/2015, de 10 de setembro).”
+10 de maio de 2024. - O Vereador do Ordenamento, Pedro Navega Ferreira, arquiteto.
+617724034
