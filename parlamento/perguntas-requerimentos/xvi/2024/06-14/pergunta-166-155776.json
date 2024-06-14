@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eHNElB5sAbInrUM%2b1CK3%2bZZa4TA9qAQPFf3pu38QAyPkvnwic8govNMKXbQNlbs2hEipvp7d%2bJTZ%2fEXuaVMsqH8PlGbuSUTPJBr%2boVxdG6Kf2Zpi44%2ba27Oq89l7REdmP%2bBA3defOQ893NSOao0aChocF4k45AVxJ78%2btG0ohXUXuO4Y%2bZIZFToQ4LzcKH05JzQXytw36hhukfq%2bltX9tVH%2fVlxInE1L3MbA9QHVtWzJy2E50PzKMqJf9sR0coFCykSRfPL2oeoHIUYESHnHo%2fHCYD%2fRDx4nh7oswP9bNvADk1%2fZBmrNYYAnk5%2biW00Uj9L%2fJC8v1jUaGVk112b6gEmaJhYEl%2f9y1W4PzI%2bLZx6dSRM%2fC%2fObwkktGczrUJ2rprAZUQsqTvRFDaVKMu3Qf9t%2figaPEsyan6ofqGlcTcU%3d&fich=RequerimentosXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "910d45d7aabe22385422e83c29132f9174a497a7d21d709f9bd70bcef3f9c95f",
+  "legislatura": "XVI",
+  "id": "155776",
+  "tipo": "Pergunta",
+  "numero": "166",
+  "data_registo": "2024-06-14",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Acordo Plurianual de Valorização dos Trabalhadores da Administração Pública",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "7913",
+        "nome": "Ana Bernardo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1468",
+        "nome": "Sérgio Ávila"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1893",
+        "nome": "Pedro Coimbra"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5841",
+        "nome": "Miguel Cabrita"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6706",
+        "nome": "Miguel Matos"
+      }
+    ],
+    "DataEnvio": "2024-06-19",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2024-06-19",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro de Estado e das Finanças",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2024-07-22",
+            "docRemetida": null,
+            "entidade": "Ministro de Estado e das Finanças",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c325a6a4e546b335a444a6a4c5749774d3245744e4755314f5331685a474d354c574d344d5451795a6a51794e544e6c5a6935775a47593d&fich=fc597d2c-b03a-4e59-adc9-c8142f4253ef.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2024-06-14",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a4e6a4d47517a4e7a51344c544d315a474d744e446b784d433035597a63314c5467774f47466d5a4445794e574d314f4335775a47593d&fich=3c0d3748-35dc-4910-9c75-808afd125c58.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "155776",
+    "Legislatura": "XVI",
+    "Nr": "166",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
