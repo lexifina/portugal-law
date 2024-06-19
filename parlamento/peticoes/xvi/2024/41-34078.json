@@ -1,0 +1,728 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34078",
+  "numero": "41",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-06-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8456",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-10-03",
+            "entidades": null,
+            "id": "158989",
+            "tipo": null,
+            "titulo": "Audição em 2024-10-03 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915231",
+                "obs": null,
+                "pag": [
+                  "12-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-31",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/039/2024-10-31/12?pgs=12-15&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-07-03",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-06-24",
+        "DataEnvioPAR": "2024-10-30",
+        "DataReaberta": "2024-07-03",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8402",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2024-07-03",
+            "gp": "PSD",
+            "id": "6885",
+            "motivoCessacao": null,
+            "nome": "Ofélia Ramos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-07-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-06-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3255794e57466c5a444d354c5459304e6a59744e474978597930344f5451784c5759324e4451784e5451354f4441314d5335775a47593d&fich=e25aed39-6466-4b1c-8941-f64415498051.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315172",
+      "315173",
+      "315195",
+      "315213",
+      "315185",
+      "315191",
+      "315198",
+      "315204",
+      "315207",
+      "315218"
+    ],
+    "Iniciativasoriginadas": [
+      "315172",
+      "315173",
+      "315195",
+      "315213",
+      "315185",
+      "315191",
+      "315198",
+      "315204",
+      "315207",
+      "315218"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/19"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": "Apresenta os Projetos de Lei n.ºs 50, 51 e 58/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/20"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": "Apresenta os Projeto de Lei n.º 98/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/21"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/15?pgs=15&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": "Apresenta os Projeto de Lei n.º 62/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/22"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": "Apresenta os Projeto de Resolução n.º 92/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/23"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": "Apresenta os Projeto de Resolução n.º 94/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/24"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/17?pgs=17&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": "Apresenta os Projeto de Resolução n.º 104/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/25"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": "Apresenta os Projeto de Resolução n.º 106/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/26"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": "Apresenta os Projeto de Resolução n.º 112/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/27"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/28"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467313",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/20?pgs=20&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma rede pública de lares (INTER Reformados Nacional CGTP-IN e MURPI – Confederação Nacional de Reformados); Pela simplificação na instalação e licenciamento de equipamentos de apoio social geridos por entidades privadas; Altera o Decreto-Lei n.º 141/89 pelo reconhecimento dos Serviços de Apoio Domiciliário lucrativo; Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas; Cria uma Rede Pública de Equipamentos e Serviços de Apoio aos Idosos; Pela criação de uma Rede Pública de Lares; Pelo reforço rede pública e solidária de respostas sociais, com prioridade para os lares de idosos e centros de dia; Recomenda a criação do Programa de Alargamento da Rede de Equipamentos Sociais - Quarta Geração; Reforço de políticas públicas de resposta a pessoas idosas e garantia de proteção laboral e social a quem cuida; Por uma rede de cuidados que não deixe nenhum idoso para trás; Pelo aumento de vagas em respostas sociais destinadas a idosos, garantindo o cumprimento das metas do PRR e acelerando a sua execução.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34078",
+    "PetAssunto": "Por uma Rede Pública de Lares",
+    "PetDataEntrada": "2024-06-19",
+    "PeticoesAssociadas": null,
+    "PetId": "34078",
+    "PetLeg": "XVI",
+    "PetNr": "41",
+    "PetNrAssinaturas": "8480",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura\n",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56727",
+        "obs": null,
+        "pag": [
+          "13-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-04",
+        "pubLeg": "XVII",
+        "pubNr": "8",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/13?pgs=13-20&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915259",
+        "obs": null,
+        "pag": [
+          "43-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-07-05",
+        "pubLeg": "XVI",
+        "pubNr": "18",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/018/2024-07-05/43?pgs=43-44&org=PLC"
+      }
+    ]
+  }
+}
