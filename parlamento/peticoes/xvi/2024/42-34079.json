@@ -1,0 +1,180 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34079",
+  "numero": "42",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-06-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-10-23",
+            "entidades": null,
+            "id": "159049",
+            "tipo": null,
+            "titulo": "Audição em 2024-10-23 com Célio Sauer (1.º subscritor)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-12-04",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915235",
+                "obs": null,
+                "pag": [
+                  "19-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/045/2024-12-06/19?pgs=19-21&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "L",
+                "CDS-PP",
+                "PAN"
+              ],
+              "data": "2024-12-04",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> PCP</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> L</I>, <I> CDS-PP</I>, <I> PAN</I>",
+              "id": "127473",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "46",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-07-03",
+        "DataArquivo": "2024-12-04",
+        "DataBaixaComissao": "2024-06-24",
+        "DataEnvioPAR": "2024-12-04",
+        "DataReaberta": "2024-07-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-07-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d6d59354d47593259324d745a446b775a4330305a57526b4c5467774e6a51744f5749334f54686a4d7a4e694e4449784c6e426b5a673d3d&fich=2f90f6cc-d90d-4edd-8064-9b798c33b421.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-23",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a59573876597a51324e7a6868597a49744e47466c5a4330304e7a55774c5745774e5755744e5752694f4759305a54566a595455774c6e426b5a673d3d&fich=c4678ac2-4aed-4750-a05e-5db8f4e5ca50.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-12-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e5749334e7a55335a4749744d3259794e5330304e5467344c5467314e7a45745957517a4e6a4a684f4467354d32466a4c6e426b5a673d3d&fich=5b7757db-3f25-4588-8571-ad362a8893ac.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8393",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-12-04",
+            "dataNomeacao": "2024-07-03",
+            "gp": "PSD",
+            "id": "8895",
+            "motivoCessacao": null,
+            "nome": "Pedro Neves de Sousa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2024-06-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324d7a4f54466d4f54466a4c57466d5a6a4d744e474e68596930355a6d45774c5441334e6a466a595455775a5463334e6935775a47593d&fich=c391f91c-aff3-4cab-9fa0-0761ca50e776.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34079",
+    "PetAssunto": "Pelo desbloqueio do sistema de acesso ao registo no portal da CPLP para cidadãos não portadores de visto consular",
+    "PetDataEntrada": "2024-06-19",
+    "PeticoesAssociadas": null,
+    "PetId": "34079",
+    "PetLeg": "XVI",
+    "PetNr": "42",
+    "PetNrAssinaturas": "1346",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915277",
+        "obs": null,
+        "pag": [
+          "35-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-19",
+        "pubLeg": "XVI",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/037/2024-10-19/35?pgs=35-38&org=PLC"
+      }
+    ]
+  }
+}
