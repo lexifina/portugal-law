@@ -1,0 +1,158 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "181",
+    "id": "263837",
+    "titulo": "Aprova o regime do pessoal docente e de investigação dos estabelecimentos de ensino superior privados"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-06-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4451304e6a4533595759744e475a6c597930304e544d314c5749354e5449744e6d4d304d7a597a4d32497a5a444d314c6e426b5a673d3d&fich=844617af-4fec-4535-b952-6c43633b3d35.pdf&Inline=true",
+        "anexoNome": "Ofício de redistribuição"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75501",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-06-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2024-08-24",
+        "DatainicioApreciacaoPublica": "2024-07-25",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-07-08",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344f44426b5a446b7a4d7930794d7a6b334c54526d4d7a6b7459574d774f43316b4e444e6b4f474a6b5a6a55334d5467756347526d&fich=880dd933-2397-4f39-ac08-d43d8bdf5718.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-17",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório CEC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e475a6a4e3252685a5330775a5452694c5451354d6a55744f4452695a53316b5a54466b4d4755335a4751344e6d49756347526d&fich=14fc7dae-0e4b-4925-84be-de1d0e7dd86b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-07-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Apreciação Pública / Consulta Pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVILeg/8CEC/Paginas/ContributosIniciativasII.aspx?ID_Ini=146"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8400",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência ",
+        "Numero": "8400",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "IL",
+            "id": "7349",
+            "motivoCessacao": null,
+            "nome": "Patrícia Gilvaz"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2024-07-17",
+            "dataRemessa": "2024-07-17",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "BE",
+              "L",
+              "PCP",
+              "CDS-PP"
+            ],
+            "data": "2024-07-17",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> IL</I><BR>Ausência: <I>BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+            "id": "126911",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "14",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-06-20",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão à 10.ª comissão",
+    "OevId": "1516481",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1018878",
+        "obs": null,
+        "pag": [
+          "25-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-07-17",
+        "pubLeg": "XVI",
+        "pubNr": "66",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/066/2024-07-17/25?pgs=25-27&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
