@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2024-06-26, processo 01214/09.3BALSB 01214/09
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01214/09.3BALSB 01214/09
+
+**Data do Acordão:** 06/26/2024
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** HELENA MESQUITA RIBEIRO
+
+**Descritores:** SANÇÃO DISCIPLINAR; INACTIVIDADE; ESTATUTO; MINISTÉRIO PÚBLICO; LEI; AMNISTIA; INUTILIDADE SUPERVENIENTE DA LIDE
+
+**Nº Convencional:** JSTA000P32434
+
+**Nº do Documento:** SAP2024062601214/09
+
+**Recorrente:** AA E OUTROS
+
+**Recorrido 1:** OS MESMOS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - De acordo com o disposto nos artigos 1.º, 2.º e 6.º da Lei n.º 38-A/2023, de 2 de agosto, estão abrangidas pela amnistia aí estabelecida as sanções relativas a infrações disciplinares praticadas até às 00:00 horas de 19 de junho de 2023, desde que à prática destas não corresponda a aplicação de sanção superior a suspensão e que as mesmas não constituam simultaneamente ilícitos penais não amnistiados nos termos do art.º 7.º da referida lei.
+
+II - Ao abrigo do artigo 227º do novo EMP, aprovado pela Lei n.º 68/2019, de 27 de agosto, os magistrados do Ministério Público passaram a estar sujeitos, apenas, às seguintes sanções: a) Advertência; b) Multa; c) Transferência; d) Suspensão de exercício; e) Aposentação ou reforma compulsiva; f) Demissão.
+
+III - Atendendo a que a sanção disciplinar de inatividade pela qual o arguido foi sancionado, deixou de estar prevista no elenco das sanções disciplinares que constam do artigo 227.º do atual EMP, e tendo em consideração o disposto no artigo 2.º do Código Penal, subsidiariamente aplicável ao procedimento disciplinar por força do disposto no art.º 212.º do EMP, a sanção aplicada ao aqui recorrente Autor, de inatividade, não poderá considerar-se, atualmente, superior à sanção de suspensão de exercício, pelo que, está assim, abrangida no campo de previsão do art.º 6.º, da Lei n.º 38-A/2023.
+
+IV - A amnistia faz desaparecer retroativamente o objeto da ação onde se visa obter a anulação do ato que aplicou a sanção disciplinar, e dos recursos interpostos, cessando a responsabilidade disciplinar do recorrente Autor, o que determina, consequentemente, a inutilidade superveniente da lide, e a extinção da presente instância recursiva, nos termos do disposto no art. 277.º, al. e), do CPC, aplicável ex vi do art. 1º do CPTA.
+
+Sumário (elaborado pela relatora – art. 663º, n.º 7 do Cód. Proc. Civil).
