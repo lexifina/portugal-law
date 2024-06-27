@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Proposta de Lei",
+  "numero": "7",
+  "id": "263875",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-06-27",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e545931595751314e5745744f446332597930304d474e694c546c6d4e7a55744e546c6b5a6a526d5a6a55304e5759784c6e426b5a673d3d&fich=565ad55a-876c-40cb-9f75-59df4ff545f1.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595441304e446b344f446b745a5456684e433030596d51354c5749794e4455744d7a4d794e7a6b78595441335a544e694c6e426b5a673d3d&fich=a0449889-e5a4-4bd9-b245-332791a07e3b.pdf&Inline=true",
+        "anexoNome": "Anexo 1 - Iniciativa"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5455344d6a49334f545174593259794d533030596a67794c546c684e7a51744f475a69597a5a69597a597a593251774c6e426b5a673d3d&fich=55822794-cf21-4b82-9a74-8fbc6bc63cd0.pdf&Inline=true",
+        "anexoNome": "Anexo 2 - Relatório"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a6b3259546b30597a59744e6a49785a4330305a4749774c54686d596a51745a545933596a45794d574d775a6a4a6a4c6d52765933673d&fich=696a94c6-621d-4db0-8fb4-e67b121c0f2c.docx&Inline=true",
+        "anexoNome": "Anexo 3 - APP Lei 2-XIII"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a426b4d6a4e6c4d5441744d6a426c5a4330305957466c4c5749774f4751745a574d324d4441314e47566c5a446c6a4c6d52765933673d&fich=c0d23e10-20ed-4aae-b08d-ec60054eed9c.docx&Inline=true",
+        "anexoNome": "Anexo 4  -Relatório (word)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f444e6d5a475933597a59744f4751784d5330304e7a426a4c57466a4e546b74596a6b784d4745785954457a4e6a526d4c6e426b5a673d3d&fich=83fdf7c6-8d11-470c-ac59-b910a1a1364f.pdf&Inline=true",
+        "anexoNome": "Anexo 5  -Nota de Admissibilidade"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e544d794f546b774d4759744d7a63324f433030595756684c574a685a6d55744f544a6d4f54426d5a6d45795a6d526d4c6e426b5a673d3d&fich=5329900f-3768-4aea-bafe-92f90ffa2fdf.pdf&Inline=true",
+        "anexoNome": "Anexo 6 - Nota Técnica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765932566c4e6a4e6a4d6a67744e7a49304e5330304d4445324c546c6d5a4463744e4751335a6d4935597a6b77593256684c6e426b5a673d3d&fich=cee63c28-7245-4016-9fd7-4d7fb9c90cea.pdf&Inline=true",
+        "anexoNome": "Anexo 7 - Proposta de alteração"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d566a596a59344e7a5174595755774f5330305a4751354c5749334e5755744e4751304d444a695a446b334d4751304c6e426b5a673d3d&fich=fecb6874-ae09-4dd9-b75e-4d402bd970d4.pdf&Inline=true",
+        "anexoNome": "Anexo 8 - Proposta de alteração"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d59344e54646a4d5441744e6a6b794f4330304d4759784c546b304d5467745a474d344f4745334f44677a4d444e694c6e426b5a673d3d&fich=bf857c10-6928-40f1-9418-dc88a788303b.pdf&Inline=true",
+        "anexoNome": "Anexo 9 - Substituição integral"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d526c4e6a686b595755744d3249304d5330304e7a67794c574a684e7a45745954597a4d7a417a4e47566c4e6a4a6a4c6d52765933673d&fich=6de68dae-3b41-4782-ba71-a633034ee62c.docx&Inline=true",
+        "anexoNome": "Anexo 10 - Excerto do Diário da Sessão"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4445335a444668597a67744f4449795a5330304f4759344c5749785a5445744f4459334d6d45794f5463344e4455344c6e426b5a673d3d&fich=817d1ac8-822e-48f8-b1e1-8672a2978458.pdf&Inline=true",
+        "anexoNome": "Anexo 11 - Ofício"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Assembleia Legislativa da Região Autónoma dos Açores",
+      "sigla": "A"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263875",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a55304f4449344f444574596a67304d5330304e324a6a4c546b314e54637459545a6a4f5745344d6a646d4d7a6b334c6d52765933673d&fich=75482881-b841-47bc-9557-a6c9a827f397.docx&Inline=true",
+    "IniNr": "7",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Simplifica o modelo de atribuição do subsídio social de mobilidade a residentes na Região Autónoma dos Açores",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
