@@ -40,7 +40,7 @@ i) Criptoativos, tal como definidos nos n.os 17 e 18 do artigo 10.º do Código 
 
 a) O abono de família em dívida à morte do titular, os créditos provenientes de seguros de vida e as pensões e subsídios atribuídos, ainda que a título de subsídio por morte, por sistemas de segurança social;
 
-b) De valores aplicados em fundos de poupança-reforma, fundos de poupança-educação, fundos de poupança-reforma-educação, fundos de poupança-ações ou fundos de pensões;
+b) De valores aplicados em fundos de poupança-reforma, fundos de poupança-educação, fundos de poupança-reforma-educação, fundos de poupança-ações, fundos de pensões, planos poupança-reforma ou produtos individuais de reforma pan-europeus;
 
 c) Donativos efectuados nos termos da Lei do Mecenato;
 
