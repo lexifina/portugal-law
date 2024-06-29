@@ -96,7 +96,9 @@ mm) Fomentar a investigação, inquéritos e a observação dos fenómenos migra
 
 nn) Combater todas as formas de discriminação em razão da origem racial e étnica, cor, nacionalidade, língua, ascendência e território de origem, independentemente do meio em que ocorram, através de ações, campanhas ou eventos de sensibilização da opinião pública;
 
-oo) Promover e apoiar iniciativas para prevenção da discriminação interseccional, designadamente através de ações de sensibilização e formação acerca das desigualdades interseccionais.
+oo) Promover e apoiar iniciativas para prevenção da discriminação interseccional, designadamente através de ações de sensibilização e formação acerca das desigualdades interseccionais;
+
+pp) Promover a captação e retenção de imigrantes, atraindo fluxos migratórios de capital humano qualificado, em articulação com as entidades empregadoras e respetivos representantes, bem como com as entidades do Estado responsáveis pela área do emprego e formação profissional.
 
 3 - São atribuições da AIMA, I. P., no plano internacional:
 
@@ -112,7 +114,9 @@ e) Assegurar, por determinação do Governo, a representação do Estado portugu
 
 f) Cooperar com os serviços congéneres estrangeiros, sem prejuízo das competências próprias do Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI), nos termos do n.º 6 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual;
 
-g) Assegurar, através de oficiais de ligação de imigração, os compromissos assumidos no âmbito da cooperação internacional nos termos legalmente previstos.
+g) Assegurar, através de oficiais de ligação de imigração, os compromissos assumidos no âmbito da cooperação internacional nos termos legalmente previstos;
+
+h) Promover Portugal enquanto destino, de acordo com a definição de política migratória, desempenhando um papel proativo de captação de talento e de capital humano qualificado, designadamente em articulação e cooperação com as autoridades consulares.
 
 4 - A AIMA, I. P., pode celebrar protocolos com as autarquias locais, bem como com os órgãos e serviços das regiões autónomas e outras entidades da Administração Pública, com vista a facilitar e simplificar os procedimentos de receção e encaminhamento de pedidos, designadamente os previstos na alínea c) do n.º 2.
 
