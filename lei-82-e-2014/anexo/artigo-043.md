@@ -14,9 +14,19 @@ b) Apenas considerado em 50 % do seu valor, nos restantes casos.
 
 4 - Para efeitos do número anterior entende-se por micro e pequenas empresas as entidades definidas, nos termos do anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.
 
-5 - Para apuramento do saldo positivo ou negativo referido no n.º 1, respeitante às operações efetuadas por residentes previstas nas alíneas b), e), f), g) e k) do n.º 1 do artigo 10.º, não relevam as perdas apuradas quando a contraparte da operação estiver sujeita a um regime fiscal a que se referem o n.º 1 ou o n.º 5 do artigo 63.º-D da Lei Geral Tributária.
+5 - Quando respeitem a valores mobiliários admitidos à negociação ou a partes de organismos de investimento coletivo abertos, sob a forma contratual ou societária, o saldo referido no n.º 1, respeitante às operações previstas na alínea b) do n.º 1 do artigo 10.º, excluindo os rendimentos referidos no n.º 3 deste artigo e nas alíneas b) e c) do n.º 18 do artigo 72.º, quando positivo ou negativo, é considerado nos seguintes termos:
 
-6 - Para efeitos do número anterior, considera-se que:
+a) São excluídos da tributação 10 % do rendimento quando resultem de ativos detidos por um período superior a 2 anos e inferior a 5 anos;
+
+b) São excluídos da tributação 20 % do rendimento quando resultem de ativos detidos por um período igual ou superior a 5 anos e inferior a 8 anos;
+
+c) São excluídos da tributação 30 % do rendimento quando resultem de ativos detidos por um período igual ou superior a 8 anos.
+
+6 - O saldo a que se referem os n.os 1, 3 e 5, respeitantes às operações previstas na alínea b) do n.º 1 do artigo 10.º, quando positivo ou negativo, deve ser considerado para efeitos de determinação dos rendimentos líquidos de forma conjunta, sem prejuízo da opção pelo englobamento, quando aplicável.
+
+7 - Para apuramento do saldo positivo ou negativo referido no n.º 1, respeitante às operações efetuadas por residentes previstas nas alíneas b), e), f), g) e k) do n.º 1 do artigo 10.º, não relevam as perdas apuradas quando a contraparte da operação estiver sujeita a um regime fiscal a que se referem o n.º 1 ou o n.º 5 do artigo 63.º-D da Lei Geral Tributária.
+
+8 - Para efeitos do número anterior, considera-se que:
 
 a) A data de aquisição dos valores mobiliários cuja propriedade tenha sido adquirida pelo sujeito passivo por incorporação de reservas ou por substituição daqueles, designadamente por alteração do valor nominal ou modificação do objeto social da sociedade emitente, é a data de aquisição dos valores mobiliários que lhes deram origem;
 
@@ -32,10 +42,10 @@ f) O regime da alínea anterior é aplicável, com as necessárias adaptações,
 
 g) Tratando-se de criptoativos, os alienados são os adquiridos há mais tempo.
 
-7 - Para efeitos do disposto nas alíneas d) e g) do número anterior, quando os valores mobiliários ou criptoativos estejam depositados em mais do que uma instituição de crédito, sociedade financeira ou prestador de serviço de criptoativos, as regras aí previstas são aplicáveis por referência a cada uma dessas entidades.
+9 - Para efeitos do disposto nas alíneas d) e g) do número anterior, quando os valores mobiliários ou criptoativos estejam depositados em mais do que uma instituição de crédito, sociedade financeira ou prestador de serviço de criptoativos, as regras aí previstas são aplicáveis por referência a cada uma dessas entidades.
 
-8 - No caso de transferência de valores mobiliários, entre entidades referidas no número anterior, deve a entidade da qual os valores mobiliários são transferidos indicar, sempre que possível, à entidade que os receciona a data de aquisição e o valor histórico de aquisição dos valores mobiliários transferidos.
+10 - No caso de transferência de valores mobiliários, entre entidades referidas no número anterior, deve a entidade da qual os valores mobiliários são transferidos indicar, sempre que possível, à entidade que os receciona a data de aquisição e o valor histórico de aquisição dos valores mobiliários transferidos.
 
-9 - Para o apuramento das mais-valias ou menos-valias realizadas em operações entre um sujeito passivo e uma entidade com a qual esteja numa situação de relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, devem ser contratados, aceites e praticados termos ou condições substancialmente idênticos aos que normalmente seriam contratados, aceites e praticados entre entidades independentes em operações comparáveis, aplicando-se o regime previsto no artigo 63.º do Código do IRC, com as necessárias adaptações.
+11 - Para o apuramento das mais-valias ou menos-valias realizadas em operações entre um sujeito passivo e uma entidade com a qual esteja numa situação de relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, devem ser contratados, aceites e praticados termos ou condições substancialmente idênticos aos que normalmente seriam contratados, aceites e praticados entre entidades independentes em operações comparáveis, aplicando-se o regime previsto no artigo 63.º do Código do IRC, com as necessárias adaptações.
 
-10 - Nas situações previstas no n.º 22 do artigo 10.º, o rendimento é determinado pela diferença positiva entre o valor de mercado à data da perda da qualidade de residente e o valor de aquisição, acrescido das importâncias necessárias e efetivamente suportadas inerentes à aquisição.
+12 - Nas situações previstas no n.º 22 do artigo 10.º, o rendimento é determinado pela diferença positiva entre o valor de mercado à data da perda da qualidade de residente e o valor de aquisição, acrescido das importâncias necessárias e efetivamente suportadas inerentes à aquisição.

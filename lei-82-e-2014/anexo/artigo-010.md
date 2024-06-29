@@ -106,7 +106,9 @@ i) Contrato de seguro financeiro do ramo vida;
 
 ii) Adesão individual a um fundo de pensões aberto; ou
 
-iii) Contribuição para o regime público de capitalização;
+iii) Contribuição para o regime público de capitalização; ou
+
+iv) Produto Individual de Poupança Pan-Europeu.
 
 b) O sujeito passivo ou o respetivo cônjuge ou unido de facto, na data da transmissão do imóvel, se encontre, comprovadamente, em situação de reforma ou tenha, pelo menos, 65 anos de idade;
 

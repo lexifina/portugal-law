@@ -6,7 +6,7 @@
 
 2 - Para efeitos do disposto no número anterior, as respetivas importâncias integram-se como rendimento líquido na categoria B.
 
-3 - Constitui rendimento dos sujeitos passivos de IRS residentes em território português os lucros ou rendimentos obtidos por entidades não residentes em território português e aí submetidos a um regime fiscal claramente mais favorável, no caso em que, nos termos e condições do artigo 66.º do Código do IRC, os mesmos detenham, direta ou indiretamente, mesmo que através de mandatário, fiduciário ou interposta pessoa, pelo menos, 25 % ou 10 % das partes de capital, dos direitos de voto ou dos direitos sobre os rendimentos ou os elementos patrimoniais dessas entidades, consoante os casos, aplicando-se para o efeito, com as necessárias adaptações, o regime aí estabelecido.
+3 - Constitui rendimento dos sujeitos passivos de IRS residentes em território português os lucros ou rendimentos obtidos por entidades não residentes em território português e aí submetidos a um regime fiscal claramente mais favorável, no caso em que, nos termos e condições do artigo 66.º do Código do IRC, os mesmos detenham, direta ou indiretamente, mesmo que através de mandatário, fiduciário ou interposta pessoa, pelo menos, 25 % das partes de capital, dos direitos de voto ou dos direitos sobre os rendimentos ou os elementos patrimoniais dessas entidades, consoante os casos, aplicando-se para o efeito, com as necessárias adaptações, o regime aí estabelecido.
 
 4 - Para efeitos do disposto no número anterior, as respetivas importâncias integram-se como rendimento líquido na categoria B, nos casos em que as partes de capital ou os direitos estejam afetos a uma atividade empresarial ou profissional, ou na categoria E, nos restantes casos.
 
