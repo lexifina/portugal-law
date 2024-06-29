@@ -1,9 +1,3 @@
-Decreto-Lei n.º 10-A/2020
-
-de 13 de março
-
-Sumário: Estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID 19.
-
 Atendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação do vírus como uma pandemia, no dia 11 de março de 2020, importa acautelar, estrategicamente, a previsão de normas de contingência para a epidemia SARS-CoV-2, e, bem assim, assegurar o tratamento da doença COVID-19 no Serviço Nacional de Saúde (SNS), através de um regime legal adequado a esta realidade excecional, em especial no que respeita a matéria de contratação pública e de recursos humanos.
 
 A situação excecional que se vive no momento atual e a proliferação de casos registados de contágio de COVID-19 exige a aplicação de medidas extraordinárias e de caráter urgente. Neste sentido, no domínio da saúde, é prioritário que se garanta às entidades prestadoras de cuidados de saúde do SNS a possibilidade de aquisição, com a máxima celeridade, dos equipamentos, bens e serviços necessários à avaliação de casos suspeitos e ao tratamento de sintomas e complicações associadas ao COVID-19, e, ainda, a tomada de outras medidas consideradas urgentes e imprescindíveis, designadamente em matéria de gestão de recursos humanos.

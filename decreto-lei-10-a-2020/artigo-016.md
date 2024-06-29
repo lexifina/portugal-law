@@ -32,8 +32,8 @@
 
 7 - A validade das cartas de condução é determinada nos termos do Regulamento (UE) 2021/267 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2021.
 
-8 - Os documentos e vistos relativos à permanência em território nacional, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores, são aceites, nos mesmos termos, até 30 de junho de 2024.
+8 - Os documentos e vistos relativos à permanência em território nacional, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores, são aceites, nos mesmos termos, até 30 de junho de 2025.
 
-9 - Os documentos referidos no número anterior continuam a ser aceites, nos mesmos termos, após 30 de junho de 2024, desde que o seu titular faça prova de que já procedeu ao agendamento da respetiva renovação.
+9 - Os documentos referidos no número anterior continuam a ser aceites, nos mesmos termos, após 30 de junho de 2025, desde que o seu titular faça prova de que já procedeu ao agendamento da respetiva renovação.
 
 10 - O regime previsto nos n.os 8 e 9 não se aplica aos documentos relativos à permanência em território nacional emitidos ao abrigo da Resolução do Conselho de Ministros n.º 29-A/2022, de 1 de março, na sua redação atual, que estabelece os critérios específicos da concessão de proteção temporária a pessoas deslocadas da Ucrânia.
