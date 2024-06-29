@@ -1,6 +1,6 @@
 # Artigo 21.º
 
-### Fundos de poupança-reforma e planos de poupança-reforma
+### Produtos individuais de reforma
 
 1 - Ficam isentos de IRC os rendimentos dos fundos de poupança-reforma, poupança-educação e poupança-reforma/educação, que se constituam e operem nos termos da legislação nacional.
 
@@ -37,3 +37,5 @@ c) De acordo com as regras estabelecidas nas alíneas anteriores, nos casos em q
 9 - Para efeitos do n.º 2, considera-se a idade do sujeito passivo à data de 1 de Janeiro do ano em que efectue a aplicação.
 
 10 - Não são dedutíveis à colecta do IRS, nos termos do n.º 2, os valores aplicados pelos sujeitos passivos após a data da passagem à reforma.
+
+11 - O regime previsto nos números anteriores é igualmente aplicável aos produtos individuais de reforma pan-europeus, que se constituam e operem nos termos da legislação nacional ou que, não estando estabelecidos em território português, sejam domiciliados noutro Estado membro da União Europeia ou do Espaço Económico Europeu.

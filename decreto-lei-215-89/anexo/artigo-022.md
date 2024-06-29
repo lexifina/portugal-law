@@ -6,7 +6,7 @@
 
 ### Organismos de Investimento Coletivo
 
-1 - São tributados em IRC, nos termos previstos neste artigo, os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário que se constituam e operem de acordo com a legislação nacional.
+1 - São tributados em IRC, nos termos previstos neste artigo, os organismos de investimento coletivo que se constituam e operem de acordo com a legislação nacional.
 
 2 - O lucro tributável dos sujeitos passivos de IRC referidos no número anterior corresponde ao resultado líquido do exercício, apurado de acordo com as normas contabilísticas legalmente aplicáveis às entidades referidas no número anterior, sem prejuízo do disposto no número seguinte.
 
