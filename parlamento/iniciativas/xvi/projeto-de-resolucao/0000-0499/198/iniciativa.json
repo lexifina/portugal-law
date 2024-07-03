@@ -1,0 +1,123 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Resolução",
+  "numero": "198",
+  "id": "273901",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-07-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4396",
+        "nome": "Andreia Neto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1132",
+        "nome": "António Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3918",
+        "nome": "Paula Cardoso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8895",
+        "nome": "Pedro Neves de Sousa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8689",
+        "nome": "Nuno Jorge Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8175",
+        "nome": "Ana Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8710",
+        "nome": "Paula Margarido"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6119",
+        "nome": "Emília Cerqueira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8499",
+        "nome": "Flávio Martins"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7274",
+        "nome": "Hugo Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7317",
+        "nome": "João Antunes dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6885",
+        "nome": "Ofélia Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5749",
+        "nome": "Sandra Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1897",
+        "nome": "Teresa Morais"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "273901",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d324e6d4e7a4a6a596a49744f5449774d5330304d544e694c5745324e44637459544a684d7a63305a6a457a4d6a59334c6d52765933673d&fich=3cf72cb2-9201-413b-a647-a2a374f13267.docx&Inline=true",
+    "IniNr": "198",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Constituição de uma Comissão Eventual para o acompanhamento integrado da execução e monitorização da Agenda Anticorrupção ",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
