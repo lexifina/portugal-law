@@ -1,0 +1,25 @@
+## Capítulo VI
+
+## Da criação, reestruturação, fusão e extinção de serviços
+
+# Artigo 24.º
+
+### Natureza e conteúdo dos diplomas
+
+1 - A criação, reestruturação, fusão e extinção dos serviços da administração directa do Estado são aprovadas por decreto regulamentar e devem conter:
+
+a) A designação do novo serviço, dos serviços que lhe deram origem ou do serviço extinto, no caso, respectivamente, de criação, reestruturação ou fusão, ou extinção;
+
+b) (Revogada);
+
+c) A respectiva missão;
+
+d) A identificação das respectivas atribuições;
+
+e) A identificação do tipo de organização interna;
+
+f) A dotação de lugares de direcção superior e de direcção intermédia de grau 1;
+
+g) O estatuto remuneratório dos chefes de equipa multidisciplinar, se aplicável.
+
+2 - (Revogado).
