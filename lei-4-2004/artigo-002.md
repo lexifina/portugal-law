@@ -2,7 +2,7 @@
 
 ### Âmbito
 
-1 - Integram a administração directa do Estado os serviços centrais e periféricos que, pela natureza das suas competências e funções, devam estar sujeitos ao poder de direcção do respectivo membro do Governo.
+1 - Integram a Administração direta do Estado os órgãos e serviços, sem personalidade jurídica, que tenham a seu cargo atribuições do Estado e que estejam sujeitos, no exercício das suas competências, ao poder de direção de membros do Governo.
 
 2 - Incluem-se no disposto no número anterior os serviços de cujas atribuições decorra, designadamente, o exercício de poderes de soberania, autoridade e representação política do Estado ou o estudo e concepção, coordenação, apoio e controlo ou fiscalização de outros serviços administrativos.
 

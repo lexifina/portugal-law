@@ -2,20 +2,20 @@
 
 ### Sistemas de informação
 
-1 - A administração directa do Estado deve integrar um sistema de informação interna que permita:
+1 - A administração direta do Estado ou outra entidade administrativa a quem tal seja cometido devem dispor de um sistema integrado de informação interna que permita:
 
-a) A circulação da informação entre organismos por via electrónica, reduzindo tanto quanto possível o peso da informação em papel;
+a) O arquivo eletrónico, o acesso a informação completa e atualizada e a sua circulação por meios eletrónicos, reduzindo, tanto quanto possível, o peso da informação em papel;
 
-b) O fornecimento das informações necessárias à boa gestão dos recursos humanos, orçamentais e materiais;
+b) O fornecimento das informações necessárias à boa gestão dos recursos humanos, orçamentais e materiais, bem como à respetiva coordenação, controlo e avaliação.
 
-c) A coordenação, o controlo e avaliação pelos organismos competentes da gestão dos recursos humanos, orçamentais e materiais.
-
-2 - A administração directa do Estado deve potenciar a utilização dos instrumentos do governo electrónico na prestação de serviços directos aos cidadãos, comunidades e empresas, que permita:
+2 - Na prestação direta de serviços aos administrados, a administração direta do Estado deve partilhar informação internamente e promover a utilização de meios eletrónicos, por forma a:
 
 a) Fornecer todos os dados e informações relevantes;
 
-b) Facilitar o tratamento integrado das relações entre cidadão e Estado;
+b) Facilitar o tratamento integrado das relações entre os administrados e o Estado;
 
-c) Melhorar a eficiência e a eficácia de contratação pública de empreitadas, bens e serviços;
+c) Melhorar a eficiência e a eficácia da contratação pública de empreitadas, bens e serviços;
 
-d) Contribuir para melhorar o aproveitamento das oportunidades de desenvolvimento económico.
+d) Contribuir para um melhor aproveitamento das oportunidades de desenvolvimento económico.
+
+3 - Devem ser garantidos pelo sistema de informação interna e pelos meios eletrónicos empregues, a proteção e integridade dos dados pessoais e da informação classificada, nos termos da lei.

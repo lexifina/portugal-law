@@ -8,7 +8,7 @@
 
 1 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ser cometida a estruturas de missão, criadas por resolução do Conselho de Ministros.
 
-2 - As estruturas de missão têm uma duração temporal limitada e objectivos contratualizados e dependem do apoio logístico da secretaria-geral ou de outro serviço executivo.
+2 - As estruturas de missão têm uma duração temporal limitada e objetivos contratualizados e dependem do apoio administrativo e logístico do serviço designado para o efeito na resolução do Conselho de Ministros que proceda à respetiva criação.
 
 3 - A resolução do Conselho de Ministros deve estabelecer obrigatoriamente:
 
