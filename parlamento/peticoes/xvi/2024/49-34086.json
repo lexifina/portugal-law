@@ -1,0 +1,192 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34086",
+  "numero": "49",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-07-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-01-08",
+            "entidades": null,
+            "id": "159212",
+            "tipo": null,
+            "titulo": "Audição em 2025-01-08 com Sindicato de Trabalhadores das Empresas do grupo Caixa Geral de Depósitos (STEC)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-02-05",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915240",
+                "obs": null,
+                "pag": [
+                  "23-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-07",
+                "pubLeg": "XVI",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/056/2025-02-07/23?pgs=23-25&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "PCP",
+                "L",
+                "PAN"
+              ],
+              "data": "2025-02-05",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> CDS-PP</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> PAN</I>",
+              "id": "128258",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "62",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-07-17",
+        "DataArquivo": "2025-02-07",
+        "DataBaixaComissao": "2024-07-04",
+        "DataEnvioPAR": "2025-02-07",
+        "DataReaberta": "2024-07-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-07-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939694f44466d4e4467334f4330324e7a6c6b4c545131597a59744f544668596930354e7a6b78595745324e6d55794d446b756347526d&fich=b81f4878-679d-45c6-91ab-9791aa66e209.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-01-08",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938774d324d334f5449785a693031596a51794c5451774d7a5974595759794f4330794d57466c5a574d7a4e4449304e6a63756347526d&fich=03c7921f-5b42-4036-af28-21aeec342467.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-09-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938355a57497a5a5459784e4330334d544a6b4c54517a597a5574596a4178596930354e57557a597a5934597a49315a5451756347526d&fich=9eb3e614-712d-43c5-b01b-95e3c68c25e4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396a4d44646b4d574d31595330314e7a45344c5452685a6a6374596d4d7a4d69316b4d5451774e6d4d794f445a6a4f446b756347526d&fich=c07d1c5a-5718-4af7-bc32-d1406c286c89.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-02-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938304e5455304f5455775a4330315a6a6b354c5451785a6d557459544a694f5331684f4451784d6a686b5a6a5a6d5a4463756347526d&fich=4554950d-5f99-41fe-a2b9-a84128df6fd7.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8397",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-02-05",
+            "dataNomeacao": "2024-07-17",
+            "gp": "PS",
+            "id": "6661",
+            "motivoCessacao": "Apresentação do Relatório Final",
+            "nome": "Carlos Brás"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2024-07-05",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51334e6a4e6c595759304c5459304e5449744e4449315979303459574d314c5755354f4446684e44526a5a6d4e6c4e4335775a47593d&fich=4763eaf4-6452-425c-8ac5-e981a44cfce4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34086",
+    "PetAssunto": "Por uma Caixa Geral de Depósitos ao serviço do País que valorize os seus Trabalhadores",
+    "PetDataEntrada": "2024-07-04",
+    "PeticoesAssociadas": null,
+    "PetId": "34086",
+    "PetLeg": "XVI",
+    "PetNr": "49",
+    "PetNrAssinaturas": "2780",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Pedido de informação ao MEF a 23-09-2024  - resposta a 11.10.2024",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915265",
+        "obs": null,
+        "pag": [
+          "27-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-07-20",
+        "pubLeg": "XVI",
+        "pubNr": "21",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/021/2024-07-20/27?pgs=27&org=PLC"
+      }
+    ]
+  }
+}
