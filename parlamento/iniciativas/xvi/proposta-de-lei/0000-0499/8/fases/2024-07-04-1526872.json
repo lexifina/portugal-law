@@ -1,0 +1,339 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "8",
+    "id": "273900",
+    "titulo": "Aprova as Grandes Opções para 2024-2028"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75569",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-07-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-08-01",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49784e6a59304f475a6d4c54426a5a5441744e445a6b4e5331695932566c4c574a6b4e32566a5a544930597a457a4f4335775a47593d&fich=216648ff-0ce0-46d5-bcee-bd7ece24c138.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 1.ª CACDLG - área da administração interna",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41785a544d334d3249344c545a6b4e5455744e444d314e7931694d324a694c54566c5a574a6a5a5445315a4452684f4335775a47593d&fich=01e373b8-6d55-4357-b3bb-5eebce15d4a8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 1.ª CACDLG - área da igualdade e migrações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255354d4755774e3249334c57526c4f5751744e44566c597931694d324d324c5467774e545530596a41794f5452684e5335775a47593d&fich=e90e07b7-de9d-45ec-b3c6-80554b0294a5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 1.ª CACDLG - área da justiça",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6a4f474d33597a67304c5463784d4449744e4759794d7931694e3252684c546c694d6a4269593252685a6a67354e5335775a47593d&fich=9c8c7c84-7102-4f23-b7da-9b20bcdaf895.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 2.ª CNECP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3246684f445530596a55304c54466d4e6a55744e47466d4d793034597a59354c574a694e7a63794e54497a4e7a466c4d6935775a47593d&fich=aa854b54-1f65-4af3-8c69-bb77252371e2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 3.ª CDN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6d5a575a684d3245334c544d354e5455744e4755344e693034595745334c5449305a444a6c4d546c6d4e4445324f4335775a47593d&fich=9fefa3a7-3955-4e86-8aa7-24d2e19f4168.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 4.ª CAE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67794d6a6c6d4e5449314c57526d4d6a49744e446b7a4e4331694d6d557a4c5445354d44493259574935597a4e694e4335775a47593d&fich=8229f525-df22-4934-b2e3-19026ab9c3b4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 6.ª CEOPH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6d4e5759794e574a6a4c57466c4d7a63744e47466d4d433035595759354c574a6d4d4749315a6a426b5a574e6a597935775a47593d&fich=9f5f25bc-ae37-4af0-9af9-bf0b5f0deccc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 7ª CAPes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5533597a4a6c4e44686c4c545979595467744e444a6a596930345a5441334c57597a4e6a5a6c59544931596d4579595335775a47593d&fich=57c2e48e-62a8-42cb-8e07-f366ea25ba2a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 8.ª CEC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249334d545a6a4f5463304c54497a4d7a6b744e475a6b4f5331684f574e6d4c545a6a5a6a4e6d4f44646d5a47466d4e7935775a47593d&fich=b716c974-2339-4fd9-a9cf-6cf3f87fdaf7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6869597a6c6c4f5452694c574d304d324d744e4752684e5330345a4455324c57597859544e6b4f446c6c4f5755344d7935775a47593d&fich=8bc9e94b-c43c-4da5-8d56-f1a3d89e9e83.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 10.ª CTSSI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526d595746694d325a6d4c5452684e5449744e47466b5a6931694f44566d4c54646b596a51314d44417a4e6d4931596935775a47593d&fich=4faab3ff-4a52-4adf-b85f-7db450036b5b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 11.ª CAENE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251324e7a6b304e5441304c57526b596d51744e446335595330354d574d784c574d34595468684d4455324d324a68595335775a47593d&fich=d6794504-ddbd-479a-91c1-c8a8a0563baa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 12.ª CCCJD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e694e4467354d4455344c545577596a45744e475a684f4331694f474d784c57526b59546b344e6d45314e325a6b596935775a47593d&fich=cb489058-50b1-4fa8-b8c1-dda986a57fdb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 13.ª CPLCT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e6c4d7a646d5954497a4c546b304e5455744e4463315a5331694e5745324c5467774f57466b4e54553459574977597935775a47593d&fich=3e37fa23-9455-475e-b5a6-809ad558ab0c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 14.ª CTED",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6a59574a694e4445334c544d7a4d6d51744e4459334e7930354d6a63314c54457a59575133596d45774f445577595335775a47593d&fich=9cabb417-332d-4677-9275-13ad7ba0850a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Final 5.ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255775a6a6b355a5463334c5446684d6a67744e4749774e6930354d5446684c5463304d4455774d4449334e3251775a5335775a47593d&fich=e0f99e77-1a28-4b06-911a-740500277d0e.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8397",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "8397",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "8920",
+            "motivoCessacao": null,
+            "nome": "Ricardo Costa"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "7347",
+            "motivoCessacao": null,
+            "nome": "Manuel Magno"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7325",
+            "motivoCessacao": null,
+            "nome": "Carlos Cação"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "9006",
+            "motivoCessacao": null,
+            "nome": "Pedro Sousa"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1893",
+            "motivoCessacao": null,
+            "nome": "Pedro Coimbra"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7913",
+            "motivoCessacao": null,
+            "nome": "Ana Bernardo"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4452",
+            "motivoCessacao": null,
+            "nome": "Isabel Alves Moreira"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6867",
+            "motivoCessacao": null,
+            "nome": "Rosário Gambôa"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6371",
+            "motivoCessacao": null,
+            "nome": "Patrícia Faro"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4133",
+            "motivoCessacao": null,
+            "nome": "Isabel Oneto"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7460",
+            "motivoCessacao": null,
+            "nome": "Eduardo Pinheiro"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6710",
+            "motivoCessacao": null,
+            "nome": "Sofia Andrade"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6661",
+            "motivoCessacao": null,
+            "nome": "Carlos Brás"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7888",
+            "motivoCessacao": null,
+            "nome": "António Mendonça Mendes"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1735",
+            "motivoCessacao": null,
+            "nome": "João Paulo Rebelo"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "2576",
+            "motivoCessacao": null,
+            "nome": "Eduardo Teixeira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2024-09-26",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-07-04",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão com todas as Comissões Parlamentares Permanentes",
+    "OevId": "1526872",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1019261",
+        "obs": null,
+        "pag": [
+          "2-97"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2024-09-27",
+        "pubLeg": "XVI",
+        "pubNr": "101",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/101S1/2024-09-27/2?pgs=2-97&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
