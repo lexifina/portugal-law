@@ -8,7 +8,7 @@
 
 1 - A USIGraciosa utiliza os seguintes instrumentos de gestão económica e financeira:
 
-a) Os documentos de prestação de contas previstos no Plano Oficial de Contas dos Serviços de Saúde, aprovado pela Portaria n.º 898/2000, de 28 de Setembro;
+a) Os documentos de prestação de contas legalmente previstos;
 
 b) Plano anual de actividades;
 

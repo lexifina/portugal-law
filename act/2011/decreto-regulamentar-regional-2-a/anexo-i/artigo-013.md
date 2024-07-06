@@ -22,7 +22,7 @@ h) Assegurar a articulação entre os diversos serviços da USIGraciosa;
 
 i) Planear e coordenar as actividades de prestação de cuidados de saúde;
 
-j) Celebrar contratos-programa com a SAUDAÇOR, S. A., protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas actividades e visando atingir os seus objectivos;
+j) Celebrar contratos-programa com a direção regional competente em matéria da saúde, protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades e visando atingir os seus objetivos;
 
 k) Promover a formação do pessoal;
 

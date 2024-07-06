@@ -2,4 +2,4 @@
 
 ### Plano Oficial
 
-As receitas e as despesas da USIGraciosa são classificadas, orçamentadas e contabilizadas segundo o Plano Oficial de Contas dos Serviços de Saúde.
+As receitas e as despesas da USIGraciosa são classificadas, orçamentadas e contabilizadas segundo o normativo contabilístico em vigor, o Sistema de Normalização Contabilística para as Administrações Públicas.

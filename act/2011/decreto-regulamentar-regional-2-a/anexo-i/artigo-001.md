@@ -16,4 +16,4 @@
 
 3 - A USIGraciosa exerce a sua actividade sob a superintendência e tutela do membro do Governo Regional com competência na área da saúde.
 
-4 - A coordenação, orientação e avaliação do funcionamento da USIGraciosa compete à direcção regional competente em matéria de saúde, sem prejuízo das competências legalmente cometidas à SAUDAÇOR - Sociedade Gestora de Recursos e Equipamentos da Saúde dos Açores, S. A., e à Inspecção Regional de Saúde.
+4 - A coordenação, orientação e avaliação do funcionamento da USIGraciosa compete à direção regional competente em matéria da saúde e à Inspeção Regional da Saúde.
