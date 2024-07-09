@@ -1,0 +1,5 @@
+Aviso (extrato)  n.º 14107/2024/2
+
+Por despacho da Vice-reitora em substituição do Reitor da Universidade do Algarve, torna-se público que, nos termos do disposto nos artigos 97.º a 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º da Lei n.º 62/2007 de 10 de setembro, na sua atual redação, que aprova o Regime Jurídico das Instituições de Ensino Superior (RJIES) submete-se a consulta pública o projeto de Regulamento do PROGRAMA STARTUP@CRIA, com vista à recolha de contributos e sugestões, procedendo-se, para o efeito, à publicação do aviso na 2.ª série do Diário da República e à divulgação no sítio da internet https://www.ualg.pt/content/documentos-ualg, devendo os interessados apresentar as sugestões ou comentários por escrito, no prazo de 30 dias a contar da data da referida publicação, ao Reitor da Universidade do Algarve, utilizando o endereço eletrónico reitor@ualg.pt.
+18 de junho de 2024. - A Vice-Reitora, em substituição do Reitor, Ana de Freitas.
+317814544
