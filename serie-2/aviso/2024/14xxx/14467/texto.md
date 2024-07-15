@@ -1,0 +1,8 @@
+Aviso n.º 14467/2024/2
+
+Abertura do procedimento de elaboração do Regulamento Municipal da Urbanização e Edificação e de alteração do Regulamento Geral de Taxas Municipais
+Torna-se público que, nos termos e para os efeitos do n.º 1 do artigo 98.º do Decreto-Lei n.º 4/2015, de 7 de junho, que aprovou o Código do Procedimento Administrativo (CPA), a Câmara Municipal, em reunião ordinária realizada em 12 de junho de 2024, deliberou dar início ao procedimento de elaboração do Regulamento Municipal da Urbanização e Edificação e alteração ao Regulamento Geral de Taxas Municipais, com vista à concretização do disposto no artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, fixando o prazo de 10 (dez) dias úteis, contados da data de publicação do presente aviso, para a constituição de interessados no procedimento e para a apresentação de contributos para a elaboração e do referido alteração dos referidos Regulamentos.
+Os particulares podem constituir-se como interessados e apresentar os seus contributos mediante a apresentação de requerimento dirigido ao Exmo. Presidente da Câmara Municipal, do qual conste o nome, número de identificação fiscal, respetivo endereço de correio eletrónico e consentimento para que este seja utilizado para os efeitos previstos na alínea c) do n.º 1 do artigo 112.º do CPA.
+O requerimento poderá ser remetido para o endereço eletrónico obras@cm-sousel.pt ou entregue diretamente no serviço de atendimento do município sito na Praça da República em Sousel.
+13 de junho de 2024. - O Presidente da Câmara Municipal, Eng.º Manuel Valério.
+317796871
