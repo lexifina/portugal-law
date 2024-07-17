@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Proposta de Lei",
+  "numero": "13",
+  "id": "273945",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-07-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595459324d3245315a6a59745a57597959793030597a59354c574a6b5a6a6374595752695a57566a596a646c5a4441784c6e426b5a673d3d&fich=a663a5f6-ef2c-4c69-bdf7-adbeecb7ed01.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a63344d6a51775a6a51744f5445774e7930304e7a55354c5749354d6d49744f54513159545a6a4d5745344d4449344c6e426b5a673d3d&fich=c78240f4-9107-4759-b92b-945a6c1a8028.pdf&Inline=true",
+        "anexoNome": "Parecer da Ordem dos Advogados"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a49324d5751324d6d49744d6d49304d5330304d7a45334c5745304e4463744e6a457a4e546b344d445930595745334c6e426b5a673d3d&fich=7261d62b-2b41-4317-a447-613598064aa7.pdf&Inline=true",
+        "anexoNome": "Parecer do Conselho Superior da Magistratura"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5749315a6a5a684d6a6b745a44646b4e5330304d4467304c5746694e5751744e7a497a4e6a55314f4451354f5449334c6e426b5a673d3d&fich=9b5f6a29-d7d5-4084-ab5d-723655849927.pdf&Inline=true",
+        "anexoNome": "Parecer da Comissão para o Acompanhamento dos Auxiliares da Justiça"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d5931596d566d4e5459745a54426c4d4330304e57597a4c54686c4f4751744d6a55344d544d314e546330595449354c6e426b5a673d3d&fich=ff5bef56-e0e0-45f3-8e8d-258135574a29.pdf&Inline=true",
+        "anexoNome": "Parecer da Ordem dos Solicitadores e dos Agentes de Execução"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "273945",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5449794e44646b4e444974596d4e694e7930305a5749784c5746695a6a41744d7a51314e474d324e5446695a575a6a4c6d52765933673d&fich=12247d42-bcb7-4eb1-abf0-3454c651befc.docx&Inline=true",
+    "IniNr": "13",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Autoriza o Governo a regular a citação e notificação por via eletrónica das pessoas singulares e das pessoas coletivas, determinando que a citação e notificação das pessoas coletivas é, em regra, efetuada por via eletrónica",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
