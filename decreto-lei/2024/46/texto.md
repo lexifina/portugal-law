@@ -1,0 +1,52 @@
+Decreto-Lei n.º 46/2024
+de 17 de julho
+O Conselho Nacional de Saúde (CNS) é um órgão independente, que visa garantir a participação dos cidadãos utilizadores do Serviço Nacional de Saúde na definição das políticas de saúde, permitindo ter uma visão para o futuro da mesma e uma perspetiva de conjunto do sistema de saúde. Devem assim integrar o Conselho Nacional de Saúde as entidades representativas dos utentes e daqueles que contribuem para o funcionamento das entidades prestadoras de cuidados de saúde, "estabelecendo uma aliança de toda a sociedade para definir uma visão para o futuro e ter uma perspetiva de conjunto do Sistema".
+Neste contexto e tendo ainda presente que o Programa do XXIV Governo Constitucional, em linha com o que se verifica noutros países desenvolvidos, reconhece a relação de interdependência da saúde humana, animal e ambiental, assente nos princípios do conceito One Health (Uma Só Saúde), importa reavaliar a composição deste órgão.
+Com efeito, atentas as profundas relações entre o meio ambiente e a saúde, é cada vez mais indispensável adotar uma perspetiva colaborativa e multissetorial, fomentando o contacto com especialistas e intervenientes de diversas áreas do conhecimento, como é o caso dos médicos veterinários. A intervenção destes profissionais permitirá uma colaboração estreita na política de saúde e na investigação de temas relacionados com a saúde ambiental, a saúde animal e a segurança dos alimentos, criando um impacto positivo no bem-estar dos seres humanos, dos animais e do ambiente.
+Adicionalmente, e considerando a sua recente criação, em 2021, importa incluir no CNS a Ordem dos Fisioterapeutas, dado o contributo diário dos profissionais que representa na prestação de cuidados de saúde, em especial dos mais vulneráveis, promovendo um envelhecimento digno, sendo esta também uma preocupação constante do Programa do XXIV Governo Constitucional.
+Foram ouvidas as Ordens dos Fisioterapeutas e dos Médicos Veterinários.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente decreto-lei procede à primeira alteração ao Decreto-Lei n.º 49/2016, de 23 de agosto, que estabelece o regime jurídico do Conselho Nacional de Saúde.
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 49/2016, de 23 de agosto
+O artigo 5.º do Decreto-Lei n.º 49/2016, de 23 de agosto, passa a ter a seguinte redação:
+"Artigo 5.º
+[...]
+1 - O CNS é composto pelos membros a seguir identificados, nos seguintes termos:
+a) [...]
+b) [...]
+c) [...]
+i) [...]
+ii) [...]
+iii) [...]
+iv) [...]
+v) [...]
+vi) [...]
+vii) [...]
+viii) Ordem dos Fisioterapeutas;
+ix) Ordem dos Médicos Veterinários;
+d) [...]
+e) [...]
+f) [...]
+g) [...]
+h) [...]
+i) [...]
+j) [...]
+k) [...]
+2 - [...]
+3 - [...]
+4 - [...]
+5 - [...]"
+Artigo 3.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 25 de junho de 2024. - Luís Montenegro - Cristina Alexandra Rodrigues da Cruz Vaz Tomé.
+Promulgado em 10 de julho de 2024.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 11 de julho de 2024.
+O Primeiro-Ministro, Luís Montenegro.
+117906374
