@@ -1,0 +1,190 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "13",
+    "id": "273945",
+    "titulo": "Autoriza o Governo a regular a citação e notificação por via eletrónica das pessoas singulares e das pessoas coletivas, determinando que a citação e notificação das pessoas coletivas é, em regra, efetuada por via eletrónica"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-07-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75636",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-07-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e57466a4d444d33597930304d5459324c5452695a475174595749774f5330794f545131597a64685a6a49774d4451756347526d&fich=c5ac037c-4166-4bdd-ab09-2945c7af2004.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684e7a5532595755355a69316b5a54646c4c545131596a41744f4463314e433035597a466d4f4459334f57566d4f544d756347526d&fich=a756ae9f-de7e-45b0-8754-9c1f8679ef93.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer  - Comissão para o Acompanhamento dos Auxiliares da Justiça ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a6a63774d57466c4d5330774e5455334c5451344f5449745954686a4f53316b5a6a677a4e6a55354d6a63775a4759756347526d&fich=5f701ae1-0557-4892-a8c9-df83659270df.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e446b784e6a4e6b595331684d6a45784c5451315a6a4974596a51345a43316a593246684f5751334e5749774e6a41756347526d&fich=449163da-a211-45f2-b48d-ccaa9d75b060.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-13",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Solicitadores e dos Agentes de Execução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e5455324d3259334d7930314e4455774c5451324e545174596d466d4d4330784d7a56684e444d79595745354e5463756347526d&fich=85563f73-5450-4654-baf0-135a432aa957.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e7a52694f4455774d5331684d6a67784c5451344f5451744f4759314d4330314e6a49774f44497a4d4445784f5455756347526d&fich=374b8501-a281-4894-8f50-562082301195.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d597a6b315a6d59324f5330314d57557a4c5451784d444d744f5451775a6931684d3251785a4456694d5467314e544d756347526d&fich=fc95ff69-51e3-4103-940f-a3d1d5b18553.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8393",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8393",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "CSM - Conselho Superior de Magistratura em 2024-09-19"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-09-20"
+          },
+          {
+            "link": "",
+            "nome": "Comissão para o Acompanhamento dos Auxiliares da Justiça em 2024-09-17"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Solicitadores e dos Agentes de Execução em 2024-09-13"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "CSM - Conselho Superior de Magistratura em 2024-09-11"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-09-11"
+          },
+          {
+            "link": "",
+            "nome": "Comissão para o Acompanhamento dos Auxiliares da Justiça em 2024-09-11"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Solicitadores e dos Agentes de Execução em 2024-09-11"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "8888",
+            "motivoCessacao": null,
+            "nome": "Pedro Vaz"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2024-09-18",
+            "dataRemessa": "2024-09-18",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "PCP",
+              "CDS-PP",
+              "PAN"
+            ],
+            "data": "2024-09-18",
+            "descricao": null,
+            "detalhe": "Ausência: <I>PCP</I>, <I> L</I>, <I> CDS-PP</I>, <I> PAN</I>",
+            "id": "126971",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "24",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-07-17",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1527161",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
