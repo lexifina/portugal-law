@@ -1,0 +1,7 @@
+Edital n.º 977/2024
+
+Joaquim da Silva Azevedo Sousa, Presidente da Junta de Freguesia da Freguesia de Vila Nova da Telha, torna público, conforme deliberação tomada em reunião do Executivo, realizada em 28 de maio de 2024, nos termos da alínea f) do n.º 1 do artigo 18.º, da Lei n.º 75/2013, de 12 de setembro, conjugado com o artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que são submetidos a consulta pública os projetos de "Regulamento do Cemitério e Capela Mortuária" e "Regulamento e Tabela Geral de Taxas", durante o prazo de 30 dias a contar da publicitação no Diário da República, e que se encontra disponível para consulta no sítio institucional da Freguesia de Vila Nova da Telha em https://juntavilanovadatelha.pt/.
+Qualquer interessado poderá apresentar, durante o período da consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do procedimento, conforme disposto no n.º 2 do artigo 101.º do CPA dirigida ao Presidente da Junta de Freguesia, via correio normal (Rua da Igreja, n.º 10 4470-772) ou via correio eletrónico (geral@juntavilanovadatelha.pt).
+E, para que conste, mandei publicar este Edital no Diário da República e outros de igual teor, que serão publicitados na Internet, no sítio institucional da Freguesia de Vila Nova da Telha e nos lugares de estilo.
+14 de junho de 2024. - O Presidente da Junta de Freguesia de Vila Nova da Telha, Joaquim da Silva Azevedo Sousa.
+317802597
