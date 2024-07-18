@@ -1,0 +1,21 @@
+# Portaria n.º 293/2024
+
+**Emissor:** SECRETARIA REGIONAL DAS FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 110/2024, de 2024-07-18
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais referentes à celebração de um contrato de subarrendamento para fins não habitacionais, relativo às frações autónomas designadas pelas letras “E”, “F”, “G”, com a área bruta global de 150 m2, localizadas no rés do chão do prédio urbano localizado na Rua de Trás, n.º 10 e 16, na Vila da Calheta, freguesia e município da Calheta, inscrito na matriz predial respetiva sob o n.º 5416, que teve origem no artigo n.º 2964, descrito na Conservatória do Registo Predial da Calheta sob o n.º 5416/20071106, no valor apurado e global de 90.166,80 €, isento de IVA, nos termos do disposto no n.º 29 do artigo 9.º do Código do IVA.
+
+## Texto
+
+Portaria n.º 293/2024
+de 18 de julho
+Sumário: Autoriza a distribuição dos encargos orçamentais referentes à celebração de um contrato de subarrendamento para fins não habitacionais, relativo às frações autónomas designadas pelas letras “E”, “F”, “G”, com a área bruta global de 150 m2, localizadas no rés do chão do prédio urbano localizado na Rua de Trás, n.º 10 e 16, na Vila da Calheta, freguesia e município da Calheta, inscrito na matriz predial respetiva sob o n.º 5416, que teve origem no artigo n.º 2964, descrito na Conservatória do Registo Predial da Calheta sob o n.º 5416/20071106, no valor apurado e global de 90.166,80 €, isento de IVA, nos termos do disposto no n.º 29 do artigo 9.º do Código do IVA.
+Texto: Dando integral e estrito cumprimento ao artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual, e para efeitos do disposto no n.º 1 do artigo 29.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro de 2022, manda o Governo Regional, através do Secretário Regional das Finanças, o seguinte:
+1 - Os encargos orçamentais referentes à celebração de um contrato de subarrendamento para fins não habitacionais, relativo às frações autónomas designadas pelas letras “E”, “F”, “G”, com a área bruta global de 150 m2, localizadas no rés do chão do prédio urbano localizado na Rua de Trás, n.º 10 e 16, na Vila da Calheta, freguesia e concelho da Calheta, inscrito na matriz predial respetiva sob o n.º 5416, que teve origem no artigo n.º 2964, descrito na Conservatória do Registo Predial da Calheta sob o n.º 5416/20071106, no valor apurado e global de 90.166,80 € (noventa mil cento e sessenta e seis euros e oitenta cêntimos), isento de IVA, nos termos do disposto no n.º 29 do artigo 9.º do Código do IVA, encontram-se escalonados da seguinte forma:
+Ano 2024 ..............................................................................................................9.016,68 € Ano 2025 ............................................................................................................18.033,36 € Ano 2026 ............................................................................................................18.033,36 € Ano 2027 ............................................................................................................18.033,36 € Ano 2028 ............................................................................................................18.033,36 € Ano 2029 ..............................................................................................................9.016,68 €
+2 - A despesa relativa ao ano económico de 2024 tem cabimento na rubrica da Secretaria 45, Capítulo 01, Divisão 02, Subdivisão 04, Código de Classificação Económica 02.02.04.A0.00, Centro Financeiro M100333, Fonte de Financiamento 311, inscrita no Orçamento da RAM para 2024.
+3 - As verbas necessárias para os anos económicos seguintes serão inscritas na respetiva proposta de orçamento da Região Autónoma da Madeira, para os referidos anos.
+
+4 - O montante fixado para cada ano poderá ser acrescido do saldo do ano anterior. 5 - Aos valores fixados na presente portaria poderão acrescer os resultantes da atualização das rendas nos termos legais
+previstos. 6 - A presente Portaria entra em vigor no dia seguinte à sua publicação e produz efeitos reportados a 1 de julho de 2024. Assinada em 11 de julho de 2024. O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
