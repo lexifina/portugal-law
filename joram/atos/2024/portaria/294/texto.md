@@ -1,0 +1,21 @@
+# Portaria n.º 294/2024
+
+**Emissor:** SECRETARIA REGIONAL DE SAÚDE E PROTEÇÃO CIVIL
+
+**Publicação:** JORAM, I série, n.º 110/2024, de 2024-07-18
+
+**Sumário:** Redistribui e altera os encargos orçamentais previstos na Portaria n.º 993/2023, de 6 de dezembro, publicada no 3.º Suplemento do Jornal Oficial, I Série, n.º 224, referente à repartição dos encargos orçamentais relativos à execução do investimento C01-i05-RAM - Fortalecimento do Serviço Regional de Saúde da Região Autónoma da Madeira, sub-investimento C01-i05.01 - Expansão, Desenvolvimento e Melhoria da Rede de Cuidados Continuados Integrados, financiado no âmbito do Plano de Recuperação e Resiliência, para a construção de raiz, ampliação e/ou remodelação de infraestruturas para a criação de novas unidades residenciais, a nível dos Cuidados Continuados Integrados de Saúde Mental, no que respeita à Residência de Apoio Máximo, Residência Autónoma e Residência de Treino de Autonomia, até ao montante global de 5.135.150,00 €.
+
+## Texto
+
+Portaria n.º 294/2024
+de 18 de julho
+Sumário: Redistribui e altera os encargos orçamentais previstos na Portaria n.º 993/2023, de 6 de dezembro, publicada no 3.º Suplemento do Jornal Oficial, I Série, n.º 224, referente à repartição dos encargos orçamentais relativos à execução do investimento C01-i05-RAM - Fortalecimento do Serviço Regional de Saúde da Região Autónoma da Madeira, sub-investimento C01-i05.01 - Expansão, Desenvolvimento e Melhoria da Rede de Cuidados Continuados Integrados, financiado no âmbito do Plano de Recuperação e Resiliência, para a construção de raiz, ampliação e/ou remodelação de infraestruturas para a criação de novas unidades residenciais, a nível dos Cuidados Continuados Integrados de Saúde Mental, no que respeita à Residência de Apoio Máximo, Residência Autónoma e Residência de Treino de Autonomia, até ao montante global de 5.135.150,00 €.
+Texto: Dando cumprimento ao disposto no n.º 3 do artigo 32.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, na sua atual redação, por força do artigo 15.º da Lei n.º 28/92, de 01 de setembro, na sua atual redação, conjugado com o artigo 5.º do Decreto Legislativo Regional n.º 2/2022/M, de 12 de janeiro, manda o Governo Regional da Madeira, através do Secretário Regional de Saúde e Proteção Civil, o seguinte:
+1. Redistribuir e alterar os encargos orçamentais previstos na Portaria n.º 993/2023, de 06 de dezembro, publicada no JORAM, I Série, 3.º Suplemento, n.º 224, de 06 de dezembro, referente à repartição dos encargos orçamentais relativos à execução do investimento C01-i05-RAM - Fortalecimento do Serviço Regional de Saúde da Região Autónoma da Madeira, sub-investimento C01-i05.01 - Expansão, Desenvolvimento e Melhoria da Rede de Cuidados Continuados Integrados, financiado no âmbito do Plano de Recuperação e Resiliência, para a construção de raiz, ampliação e/ou remodelação de infraestruturas para a criação de novas unidades residenciais, a nível dos Cuidados Continuados Integrados de Saúde Mental, no que respeita à Residência de Apoio Máximo, Residência Autónoma e Residência de Treino de Autonomia, até ao montante global de 5.135.150,00€ (cinco milhões, cento e trinta e cinco mil, cento e cinquenta euros), na forma abaixo indicada:
+Ano económico de 2023 ............................................................................................ 0,00 €; Ano económico de 2024 .............................................................................. 2.550.000,00 €; Ano económico de 2025 .............................................................................. 2.585.150,00 €.
+2. Os encargos da presente portaria, para o ano de 2024, têm cabimento orçamental n.º 0000132, na Classificação Económica D.08.07.01.A0.O0, do orçamento privativo do Instituto de Administração da Saúde, IP-RAM, e nos anos seguintes por verbas adequadas a inscrever no orçamento do mesmo organismo.
+3. O montante fixado para cada ano económico poderá ser acrescido do saldo apurado na execução orçamental do ano anterior.
+4. A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário Regional de Saúde e Proteção Civil, aos 17 dias do mês de julho de 2024.
+O SECRETÁRIO REGIONAL DE SAÚDE E PROTEÇÃO CIVIL, Pedro Miguel da Câmara Ramos
