@@ -1,0 +1,455 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "131",
+    "id": "263726",
+    "titulo": "Aprova o regime jurídico de complemento de alojamento, alargando-o a estudantes deslocados não-bolseiros provenientes de agregados familiares de rendimento anual inferior aos constantes do limite do 6.º escalão de IRS"
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2024-07-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "30102",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a4578596a566a596d49744f4755784e7930305a6a646c4c5745334e445574596d55775932566c4e324d7a5a546b304c6e426b5a673d3d&fich=f11b5cbb-8e17-4f7e-a745-be0cee7c3e94.pdf&Inline=true",
+        "anexoNome": "Requerimento PS"
+      }
+    ],
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2024-07-18",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-07-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8613",
+                "nome": "Maria José Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/35/17"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-19",
+                "pubLeg": "XVI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/035/2024-07-19/13?pgs=13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico de complemento de alojamento, alargando-o a estudantes deslocados não-bolseiros provenientes de agregados familiares de rendimento anual inferior aos constantes do limite do 6.º escalão de IRS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8179",
+                "nome": "Ana Gabriela Cabilhas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/35/18"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-19",
+                "pubLeg": "XVI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/035/2024-07-19/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico de complemento de alojamento, alargando-o a estudantes deslocados não-bolseiros provenientes de agregados familiares de rendimento anual inferior aos constantes do limite do 6.º escalão de IRS ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/35/19"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-19",
+                "pubLeg": "XVI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/035/2024-07-19/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico de complemento de alojamento, alargando-o a estudantes deslocados não-bolseiros provenientes de agregados familiares de rendimento anual inferior aos constantes do limite do 6.º escalão de IRS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/35/20"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-19",
+                "pubLeg": "XVI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/035/2024-07-19/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico de complemento de alojamento, alargando-o a estudantes deslocados não-bolseiros provenientes de agregados familiares de rendimento anual inferior aos constantes do limite do 6.º escalão de IRS\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/35/21"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380031",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-19",
+                "pubLeg": "XVI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/035/2024-07-19/16?pgs=16&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico de complemento de alojamento, alargando-o a estudantes deslocados não-bolseiros provenientes de agregados familiares de rendimento anual inferior aos constantes do limite do 6.º escalão de IRS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/35/22"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380032",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-19",
+                "pubLeg": "XVI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/035/2024-07-19/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico de complemento de alojamento, alargando-o a estudantes deslocados não-bolseiros provenientes de agregados familiares de rendimento anual inferior aos constantes do limite do 6.º escalão de IRS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8559",
+                "nome": "Isabel Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/35/23"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-19",
+                "pubLeg": "XVI",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/035/2024-07-19/17?pgs=17&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico de complemento de alojamento, alargando-o a estudantes deslocados não-bolseiros provenientes de agregados familiares de rendimento anual inferior aos constantes do limite do 6.º escalão de IRS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1527173",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "37287",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "13-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-07-19",
+        "pubLeg": "XVI",
+        "pubNr": "35",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/035/2024-07-19/13?pgs=13-17&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2024-07-18",
+        "descricao": "Requerimento, apresentado pelo PS, de avocação pelo Plenário de uma proposta de alteração ao artigo 6.º do Texto Final apresentado pela Comissão de Educação e Ciência relativo ao Projeto de Lei n.º 131/XVI/1.ª (PS)",
+        "detalhe": "A Favor: <I>PS</I>, <I> CH</I>, <I> IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "126939",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "35",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
