@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=X%2fOs27UcXmXqXrkTZdfL2LZ2iL%2b8LfPU5risUt%2banzLb50y91w2e9sYMCBt7G54d0i09TGWTVJa%2fHKUSdYwUhy1DYDEYvdQ%2fo0DM8GKvWd4CF1C30N7C2Q%2b8L4mCnLeUxUBGHoOLLsJa2N6Lfuab7vOrGaceuulNl1kQMYAx%2bnVmJ5tuOY7SmGwI8DqFrhLlBIOotnASdbnSpoJfsEvV9UcN8Q4wcyIscqVzxUi%2bA27YjvbWDLKhV8X%2bG3uCtzdyUZC%2b9f51A%2boDC3%2bpNngtRATznLqNHz4et48de2tZQdqiDxWOvSHbUEiX78vkBTsWqhYtocWF7saPMhGPjzxTQv8fvQRn8cCYhbxM6Ful84I%3d&fich=DiplomasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "67bda4666699627c10b64120eddfe3e6d8a0d70035005a1633a75eaa77948e8b",
+  "legislatura": "XVI",
+  "id": "94462",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2024-07-19",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2024",
+    "Id": "94462",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "263825",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e474d354e4749344d5751744d44526d4d4330304f4759304c546b354f474d744d6d55344d544d324e5467344d4468684c6d52765933673d&fich=4c94b81d-04f0-48f4-998c-2e813658808a.docx&Inline=true",
+        "IniNr": "147",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XVI",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369396c597a526d4d444535597930304e6d55334c5451784e44557459574d335a43307a5a6a6b7a5a57566c4d3251794e5459755a47396a&fich=ec4f019c-46e7-4145-ac7d-3f93eee3d256.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997849",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-07-19",
+        "pubLeg": "XVI",
+        "pubNr": "68",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/068/2024-07-19/2?pgs=2&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo uma maior divulgação da possibilidade de prorrogação, por dois anos, da isenção de imposto municipal sobre imóveis na compra de casa própria, aprovada pela Lei n.º 56/2023, de 6 de outubro",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
