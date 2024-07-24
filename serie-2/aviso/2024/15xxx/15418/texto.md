@@ -1,0 +1,10 @@
+Aviso n.º 15418/2024/2
+
+João Carlos da Silva Simões, Presidente da União das Freguesias de Alcoutim e Pereiro, torna público, nos termos e para os efeitos previstos no n.º 1 do artigo 98.º do Código do Procedimento Administrativo (CPA) aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que a União das Freguesias de Alcoutim e Pereiro, deliberou aprovar o início do procedimento e participação procedimental, para alteração do regulamento de Cedência de Viaturas, nos seguintes termos e condições:
+a) Órgão que desencadeou o procedimento: Junta de Freguesia;
+b) Data de início do procedimento: 03/07/2024;
+c) Objeto do procedimento: Elaboração da alteração ao regulamento de Cedência de Viaturas da União das Freguesias de Alcoutim e Pereiro;
+d) Forma de constituição de interessados: aqueles que nos termos do n.º 1 do artigo 68.º do Código do Procedimento Administrativo, sejam titulares de direitos, interesses legalmente protegidos, deveres, encargos, ónus ou sujeições no âmbito das decisões que forem ou possam ser tomadas, bem como as associações, para defenderem interesses coletivos ou proceder à defesa coletiva de interesses individuais dos seus associados que caibam no âmbito dos respetivos fins;
+e) Apresentação de contributos para a elaboração do projeto de regulamento: termos do artigo 98.º do Código do Procedimento Administrativo, os interessados poderão, querendo, apresentar, no prazo de 20 dias úteis a contar da data da publicitação do início do procedimento no sítio institucional da Freguesia, na Internet, as suas sugestões para alteração do regulamento de Cedência de Viaturas da União das Freguesias de Alcoutim e Pereiro, as quais deverão ser formuladas, por escrito, até ao final do mencionado prazo, através de requerimento dirigido ao Presidente da Junta de Freguesia, Rua do Caminho Velho, Edifício da Antiga Escola Primária, 8970-065 Alcoutim, ou através do e-mail: ufap.geral@gmail.pt.
+3 de julho de 2024. - O Presidente da Junta, João Carlos da Silva Simões.
+317867892
