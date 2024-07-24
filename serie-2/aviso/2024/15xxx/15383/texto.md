@@ -1,0 +1,8 @@
+Aviso n.º 15383/2024/2
+
+Plano de Pormenor do Centro de Investigação de Olhão
+Período de Discussão Pública
+António Miguel Ventura Pina, Presidente da Câmara Municipal de Olhão, nos termos do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), estabelecido pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atualizada, torna público, que a Câmara Municipal de Olhão, em reunião ordinária pública, de 29 de maio de 2024, deliberou por unanimidade dos votos, aprovar a abertura de período de discussão pública do Plano de Pormenor do Centro de Investigação de Olhão, nos termos do disposto no n.º 1 do artigo 89 do Decreto-Lei n.º 80/2015, de 14 de maio.
+Deliberou ainda o órgão executivo municipal, por maioria dos votos, estabelecer um prazo de 20 dias úteis, a partir do 5.º dia útil de publicação no Diário da República, ao abrigo do n.º 2 do artigo 89 do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atualizada, para a formulação de sugestões e prestação de informações sobre questões que possam ser consideradas no âmbito do plano ora em discussão, por todos os interessados, que poderão apresentar em requerimento dirigido ao Presidente da Câmara Municipal de Olhão, devidamente identificado, diretamente nos serviços do Balcão Único da Câmara Municipal de Olhão, através dos correios ou para o seguinte endereço de correio eletrónico: geral@cm-olhao.pt. Os documentos relativos ao Plano de Pormenor podem ser consultados no sítio da Câmara Municipal de Olhão (www.cm-olhao.pt) ou diretamente nos serviços do Balcão Único da Câmara Municipal de Olhão, no Largo Sebastião Martins Mestre, 8700-349 Olhão.
+3 de junho de 2024. - O Presidente da Câmara Municipal de Olhão, António Miguel Ventura Pina.
+617769996
