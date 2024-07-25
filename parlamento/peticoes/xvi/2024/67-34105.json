@@ -1,0 +1,681 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34105",
+  "numero": "67",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-07-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-10-10",
+            "entidades": null,
+            "id": "158997",
+            "tipo": null,
+            "titulo": "Audição em 2024-10-10 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-10-23",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915230",
+                "obs": null,
+                "pag": [
+                  "27-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-26",
+                "pubLeg": "XVI",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/038/2024-10-26/27?pgs=27-29&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-09-11",
+        "DataArquivo": "2024-10-23",
+        "DataBaixaComissao": "2024-07-25",
+        "DataEnvioPAR": "2024-10-23",
+        "DataReaberta": "2024-09-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-08-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a595738764d7a4e695a44493259545974597a67334d4330304f544d7a4c546c69597a45745a44566c4d57566d4f4455795a5759334c6e426b5a673d3d&fich=33bd26a6-c870-4933-9bc1-d5e1ef852ef7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-10",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a595738765a6a51794d324e6c4e6a4174595451304f4330304f544d774c5746694e5441744e7a686a4d6a51324f474d354e7a426b4c6e426b5a673d3d&fich=f423ce60-a448-4930-ab50-78c2468c970d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-23",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a595738764f5459344e6a686b4d7a6b744e4452694e6930304d57526b4c57466b4e6d49744f4749325a544a6959544e6a4d5751304c6e426b5a673d3d&fich=96868d39-44b6-41dd-ad6b-8b6e2ba3c1d4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-10-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a595738764f5759325a6a426b4d444574597a6b774d4330304e6a426d4c546b775a5445744e5459784e3249794e5759355a5459794c6e426b5a673d3d&fich=9f6f0d01-c900-460f-90e1-5617b25f9e62.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8402",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-10-23",
+            "dataNomeacao": "2024-09-11",
+            "gp": "PSD",
+            "id": "5749",
+            "motivoCessacao": null,
+            "nome": "Sandra Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-01-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-07-30",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6b314e474d784f4745354c544131597a41744e474e685a5331695a6d5a684c546777596a566b595467784d6d4d7a597935775a47593d&fich=954c18a9-05c0-4cae-bffa-80b5da812c3c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "314500",
+      "314504",
+      "314529",
+      "314532",
+      "314533",
+      "314499",
+      "314510",
+      "314511",
+      "314514",
+      "314543",
+      "314500",
+      "314504",
+      "314529",
+      "314532",
+      "314533",
+      "314499",
+      "314511",
+      "314514"
+    ],
+    "Iniciativasoriginadas": [
+      "314500",
+      "314504",
+      "314529",
+      "314532",
+      "314533",
+      "314499",
+      "314510",
+      "314511",
+      "314514",
+      "314543"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/66"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414537",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam a correta contabilização de pontos no descongelamento de carreira - (Rosa Sandra do Souto Carvalho e Castro e outros); Enfermagem – profissão de alto risco e de desgaste rápido -  (Eduardo Bernardino e outros); Correta contabilização de pontos no descongelamento da carreira de enfermagem e criação de um estatuto de risco para profissionais de enfermagem do Serviço Nacional de Saúde; Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito à reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece o estatuto de desgaste rápido à profissão de enfermeiro; Contabilização de pontos para enfermeiros especialistas, chefe e supervisor promovidos por concurso entre 2006 e setembro de 2009, ao abrigo do Decreto-Lei n.º 437/91, de 8 de novembro; Reconhece a profissão de enfermeiro como de desgaste rápido e antecipa a idade de reforma; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros, que assegure a devida compensação pela penosidade e risco da profissão; Recomenda ao Governo que garanta os direitos de parentalidade das enfermeiras em cumprimento do Despacho n.º 7/2024, de 9 de agosto; Pela contabilização total do tempo de serviço aos enfermeiros prejudicados pela interpretação do Decreto-Lei n.º 80-B/2022; Recomenda ao Governo que assegure a remuneração dos estágios realizados no âmbito da componente de ensino clínico dos ciclos de estudos de licenciatura e mestrado em enfermagem; Recomenda ao Governo que cumpra o acordo histórico celebrado com os enfermeiros e dê continuidade às negociações.",
+            "Teor": "Apresenta o Projeto de Lei n.º 421/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/67"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414538",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam a correta contabilização de pontos no descongelamento de carreira - (Rosa Sandra do Souto Carvalho e Castro e outros); Enfermagem – profissão de alto risco e de desgaste rápido -  (Eduardo Bernardino e outros); Correta contabilização de pontos no descongelamento da carreira de enfermagem e criação de um estatuto de risco para profissionais de enfermagem do Serviço Nacional de Saúde; Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito à reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece o estatuto de desgaste rápido à profissão de enfermeiro; Contabilização de pontos para enfermeiros especialistas, chefe e supervisor promovidos por concurso entre 2006 e setembro de 2009, ao abrigo do Decreto-Lei n.º 437/91, de 8 de novembro; Reconhece a profissão de enfermeiro como de desgaste rápido e antecipa a idade de reforma; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros, que assegure a devida compensação pela penosidade e risco da profissão; Recomenda ao Governo que garanta os direitos de parentalidade das enfermeiras em cumprimento do Despacho n.º 7/2024, de 9 de agosto; Pela contabilização total do tempo de serviço aos enfermeiros prejudicados pela interpretação do Decreto-Lei n.º 80-B/2022; Recomenda ao Governo que assegure a remuneração dos estágios realizados no âmbito da componente de ensino clínico dos ciclos de estudos de licenciatura e mestrado em enfermagem; Recomenda ao Governo que cumpra o acordo histórico celebrado com os enfermeiros e dê continuidade às negociações.",
+            "Teor": "Apresenta o Projeto de Lei n.º 422/XVI/1ª e os Projetos de resolução n.º 533, 534 e 536/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414539",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/58?pgs=58&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam a correta contabilização de pontos no descongelamento de carreira - (Rosa Sandra do Souto Carvalho e Castro e outros); Enfermagem – profissão de alto risco e de desgaste rápido -  (Eduardo Bernardino e outros); Correta contabilização de pontos no descongelamento da carreira de enfermagem e criação de um estatuto de risco para profissionais de enfermagem do Serviço Nacional de Saúde; Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito à reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece o estatuto de desgaste rápido à profissão de enfermeiro; Contabilização de pontos para enfermeiros especialistas, chefe e supervisor promovidos por concurso entre 2006 e setembro de 2009, ao abrigo do Decreto-Lei n.º 437/91, de 8 de novembro; Reconhece a profissão de enfermeiro como de desgaste rápido e antecipa a idade de reforma; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros, que assegure a devida compensação pela penosidade e risco da profissão; Recomenda ao Governo que garanta os direitos de parentalidade das enfermeiras em cumprimento do Despacho n.º 7/2024, de 9 de agosto; Pela contabilização total do tempo de serviço aos enfermeiros prejudicados pela interpretação do Decreto-Lei n.º 80-B/2022; Recomenda ao Governo que assegure a remuneração dos estágios realizados no âmbito da componente de ensino clínico dos ciclos de estudos de licenciatura e mestrado em enfermagem; Recomenda ao Governo que cumpra o acordo histórico celebrado com os enfermeiros e dê continuidade às negociações.",
+            "Teor": "Apresenta os Projetos de Lei n.ºs 429 e 431/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414540",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam a correta contabilização de pontos no descongelamento de carreira - (Rosa Sandra do Souto Carvalho e Castro e outros); Enfermagem – profissão de alto risco e de desgaste rápido -  (Eduardo Bernardino e outros); Correta contabilização de pontos no descongelamento da carreira de enfermagem e criação de um estatuto de risco para profissionais de enfermagem do Serviço Nacional de Saúde; Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito à reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece o estatuto de desgaste rápido à profissão de enfermeiro; Contabilização de pontos para enfermeiros especialistas, chefe e supervisor promovidos por concurso entre 2006 e setembro de 2009, ao abrigo do Decreto-Lei n.º 437/91, de 8 de novembro; Reconhece a profissão de enfermeiro como de desgaste rápido e antecipa a idade de reforma; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros, que assegure a devida compensação pela penosidade e risco da profissão; Recomenda ao Governo que garanta os direitos de parentalidade das enfermeiras em cumprimento do Despacho n.º 7/2024, de 9 de agosto; Pela contabilização total do tempo de serviço aos enfermeiros prejudicados pela interpretação do Decreto-Lei n.º 80-B/2022; Recomenda ao Governo que assegure a remuneração dos estágios realizados no âmbito da componente de ensino clínico dos ciclos de estudos de licenciatura e mestrado em enfermagem; Recomenda ao Governo que cumpra o acordo histórico celebrado com os enfermeiros e dê continuidade às negociações.",
+            "Teor": "Apresenta o Projeto de Lei n.º432/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/70"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414541",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam a correta contabilização de pontos no descongelamento de carreira - (Rosa Sandra do Souto Carvalho e Castro e outros); Enfermagem – profissão de alto risco e de desgaste rápido -  (Eduardo Bernardino e outros); Correta contabilização de pontos no descongelamento da carreira de enfermagem e criação de um estatuto de risco para profissionais de enfermagem do Serviço Nacional de Saúde; Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito à reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece o estatuto de desgaste rápido à profissão de enfermeiro; Contabilização de pontos para enfermeiros especialistas, chefe e supervisor promovidos por concurso entre 2006 e setembro de 2009, ao abrigo do Decreto-Lei n.º 437/91, de 8 de novembro; Reconhece a profissão de enfermeiro como de desgaste rápido e antecipa a idade de reforma; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros, que assegure a devida compensação pela penosidade e risco da profissão; Recomenda ao Governo que garanta os direitos de parentalidade das enfermeiras em cumprimento do Despacho n.º 7/2024, de 9 de agosto; Pela contabilização total do tempo de serviço aos enfermeiros prejudicados pela interpretação do Decreto-Lei n.º 80-B/2022; Recomenda ao Governo que assegure a remuneração dos estágios realizados no âmbito da componente de ensino clínico dos ciclos de estudos de licenciatura e mestrado em enfermagem; Recomenda ao Governo que cumpra o acordo histórico celebrado com os enfermeiros e dê continuidade às negociações.",
+            "Teor": "Apresenta o Projeto de Resolução n.º526/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/71"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414542",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam a correta contabilização de pontos no descongelamento de carreira - (Rosa Sandra do Souto Carvalho e Castro e outros); Enfermagem – profissão de alto risco e de desgaste rápido -  (Eduardo Bernardino e outros); Correta contabilização de pontos no descongelamento da carreira de enfermagem e criação de um estatuto de risco para profissionais de enfermagem do Serviço Nacional de Saúde; Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito à reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece o estatuto de desgaste rápido à profissão de enfermeiro; Contabilização de pontos para enfermeiros especialistas, chefe e supervisor promovidos por concurso entre 2006 e setembro de 2009, ao abrigo do Decreto-Lei n.º 437/91, de 8 de novembro; Reconhece a profissão de enfermeiro como de desgaste rápido e antecipa a idade de reforma; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros, que assegure a devida compensação pela penosidade e risco da profissão; Recomenda ao Governo que garanta os direitos de parentalidade das enfermeiras em cumprimento do Despacho n.º 7/2024, de 9 de agosto; Pela contabilização total do tempo de serviço aos enfermeiros prejudicados pela interpretação do Decreto-Lei n.º 80-B/2022; Recomenda ao Governo que assegure a remuneração dos estágios realizados no âmbito da componente de ensino clínico dos ciclos de estudos de licenciatura e mestrado em enfermagem; Recomenda ao Governo que cumpra o acordo histórico celebrado com os enfermeiros e dê continuidade às negociações.",
+            "Teor": "Apresenta o Projeto de Resolução n.º557/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/72"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414543",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/61?pgs=61&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam a correta contabilização de pontos no descongelamento de carreira - (Rosa Sandra do Souto Carvalho e Castro e outros); Enfermagem – profissão de alto risco e de desgaste rápido -  (Eduardo Bernardino e outros); Correta contabilização de pontos no descongelamento da carreira de enfermagem e criação de um estatuto de risco para profissionais de enfermagem do Serviço Nacional de Saúde; Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito à reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece o estatuto de desgaste rápido à profissão de enfermeiro; Contabilização de pontos para enfermeiros especialistas, chefe e supervisor promovidos por concurso entre 2006 e setembro de 2009, ao abrigo do Decreto-Lei n.º 437/91, de 8 de novembro; Reconhece a profissão de enfermeiro como de desgaste rápido e antecipa a idade de reforma; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros, que assegure a devida compensação pela penosidade e risco da profissão; Recomenda ao Governo que garanta os direitos de parentalidade das enfermeiras em cumprimento do Despacho n.º 7/2024, de 9 de agosto; Pela contabilização total do tempo de serviço aos enfermeiros prejudicados pela interpretação do Decreto-Lei n.º 80-B/2022; Recomenda ao Governo que assegure a remuneração dos estágios realizados no âmbito da componente de ensino clínico dos ciclos de estudos de licenciatura e mestrado em enfermagem; Recomenda ao Governo que cumpra o acordo histórico celebrado com os enfermeiros e dê continuidade às negociações.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/73"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414544",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam a correta contabilização de pontos no descongelamento de carreira - (Rosa Sandra do Souto Carvalho e Castro e outros); Enfermagem – profissão de alto risco e de desgaste rápido -  (Eduardo Bernardino e outros); Correta contabilização de pontos no descongelamento da carreira de enfermagem e criação de um estatuto de risco para profissionais de enfermagem do Serviço Nacional de Saúde; Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito à reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece o estatuto de desgaste rápido à profissão de enfermeiro; Contabilização de pontos para enfermeiros especialistas, chefe e supervisor promovidos por concurso entre 2006 e setembro de 2009, ao abrigo do Decreto-Lei n.º 437/91, de 8 de novembro; Reconhece a profissão de enfermeiro como de desgaste rápido e antecipa a idade de reforma; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros, que assegure a devida compensação pela penosidade e risco da profissão; Recomenda ao Governo que garanta os direitos de parentalidade das enfermeiras em cumprimento do Despacho n.º 7/2024, de 9 de agosto; Pela contabilização total do tempo de serviço aos enfermeiros prejudicados pela interpretação do Decreto-Lei n.º 80-B/2022; Recomenda ao Governo que assegure a remuneração dos estágios realizados no âmbito da componente de ensino clínico dos ciclos de estudos de licenciatura e mestrado em enfermagem; Recomenda ao Governo que cumpra o acordo histórico celebrado com os enfermeiros e dê continuidade às negociações.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/74"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414545",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam a correta contabilização de pontos no descongelamento de carreira - (Rosa Sandra do Souto Carvalho e Castro e outros); Enfermagem – profissão de alto risco e de desgaste rápido -  (Eduardo Bernardino e outros); Correta contabilização de pontos no descongelamento da carreira de enfermagem e criação de um estatuto de risco para profissionais de enfermagem do Serviço Nacional de Saúde; Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito à reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece o estatuto de desgaste rápido à profissão de enfermeiro; Contabilização de pontos para enfermeiros especialistas, chefe e supervisor promovidos por concurso entre 2006 e setembro de 2009, ao abrigo do Decreto-Lei n.º 437/91, de 8 de novembro; Reconhece a profissão de enfermeiro como de desgaste rápido e antecipa a idade de reforma; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros, que assegure a devida compensação pela penosidade e risco da profissão; Recomenda ao Governo que garanta os direitos de parentalidade das enfermeiras em cumprimento do Despacho n.º 7/2024, de 9 de agosto; Pela contabilização total do tempo de serviço aos enfermeiros prejudicados pela interpretação do Decreto-Lei n.º 80-B/2022; Recomenda ao Governo que assegure a remuneração dos estágios realizados no âmbito da componente de ensino clínico dos ciclos de estudos de licenciatura e mestrado em enfermagem; Recomenda ao Governo que cumpra o acordo histórico celebrado com os enfermeiros e dê continuidade às negociações.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34105",
+    "PetAssunto": "Enfermagem - Profissão de Alto Risco e de Desgaste Rápido",
+    "PetDataEntrada": "2024-07-25",
+    "PeticoesAssociadas": null,
+    "PetId": "34105",
+    "PetLeg": "XVI",
+    "PetNr": "67",
+    "PetNrAssinaturas": "15247",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36647",
+        "obs": null,
+        "pag": [
+          "57-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-23",
+        "pubLeg": "XVI",
+        "pubNr": "78",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/57?pgs=57-63&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915271",
+        "obs": null,
+        "pag": [
+          "36-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-09-14",
+        "pubLeg": "XVI",
+        "pubNr": "31",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/031/2024-09-14/36?pgs=36-37&org=PLC"
+      }
+    ]
+  }
+}
