@@ -1,0 +1,20 @@
+Resolução do Conselho de Ministros n.º 96/2024
+
+A Comissão para o Acompanhamento dos Auxiliares da Justiça (CAAJ) criada pela Lei n.º 77/2013, de 21 de novembro, na sua redação atual, é responsável pelo acompanhamento, fiscalização, e disciplina dos auxiliares da justiça.
+Ao abrigo do disposto no n.º 4 do artigo 1.º da referida lei, um dos órgãos da CAAJ é o fiscal único, sendo este designado, nos termos do artigo 18.º do mesmo diploma, por resolução do Conselho de Ministros, por um período de três anos, não renovável, de entre pessoas com reconhecida idoneidade, independência e experiência em matéria de fiscalização de entidades públicas. O mandato do atual titular do órgão terminou no dia 12 de maio de 2024, tornando-se, pois, necessário proceder à designação do seu sucessor.
+Assim:
+Nos termos do n.º 1 do artigo 18.º da Lei n.º 77/2013, de 21 de novembro, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Designar como fiscal único da Comissão para o Acompanhamento dos Auxiliares da Justiça a sociedade de revisores oficiais de contas BDO & Associados, SROC, L.<sup>da</sup>, inscrita na Ordem dos Revisores Oficiais de Contas sob o n.º 29, registada na Comissão de Mercado de Valores Mobiliários sob o n.º 20161384, e com o número de pessoa coletiva 501340467, representada pela revisora oficial de contas Ana Gabriela Almeida, inscrita na referida Ordem com o n.º 1366 e na Comissão de Mercado de Valores Mobiliários sob o n.º 20160979, cuja reconhecida idoneidade, independência e experiência em matéria de fiscalização de entidades públicas é evidenciada na nota curricular em anexo à presente resolução e da qual faz parte integrante.
+2 - Determinar que a remuneração do fiscal único corresponde a metade do vencimento mensal previsto para um titular de cargo de direção superior de 1.º grau da Administração Pública, pago 12 vezes por ano.
+3 - Determinar que a presente resolução produz efeitos a partir de 13 de maio de 2024.
+Presidência do Conselho de Ministros, 11 de julho de 2024. - Pelo Primeiro-Ministro, Joaquim José Miranda Sarmento, Ministro de Estado e das Finanças.
+ANEXO
+(a que se refere o n.º 1)
+Nota curricular
+Nome: Ana Gabriela Barata de Almeida.
+Habilitações e experiência académicas:
+Licenciada em Gestão pelo Instituto Superior de Economia e Gestão - ISEG e assistente da UC de Auditoria Financeira no mestrado de Gestão da Universidade Autónoma de Lisboa nos anos letivos de 2008/2009 a 2011/2012
+Experiência profissional:
+Revisora oficial de contas desde 2008, inscrita na Ordem dos Revisores Oficiais de Contas, com o n.º 1366, e na Comissão do Mercado de Valores Mobiliários, com o n.º 20160976. Com experiência em auditoria a instituições de diversa dimensão e variados setores de atividade, integra há 30 anos a sociedade de revisores oficiais de contas BDO & Associados, SROC, L.<sup>da</sup>, na qual integra, atualmente, a Divisão de Auditoria com a categoria de "sócia".
+Ao longo dos anos prestou serviços de auditoria a diversos clientes, designadamente: Caixa Gestão de Ativos e Montepio Gestão de Ativos: auditoria aos Fundos de Investimento Mobiliário geridos por estas sociedades gestoras, Grupo Reditus, Grupo Glintt, Grupo Claranet, Centro Hospitalar de Lisboa Ocidental; Centro Hospitalar de Lisboa Central, Centro Hospitalar Lisboa Norte, Administração Regional de Saúde de Lisboa e Vale do Tejo, AIP - Associação Industrial Portuguesa; RTP - Radiotelevisão Portuguesa, S. A.; IAPMEI, entre outros. Atualmente desempenha funções de revisor oficial de contas, fora do conselho fiscal, da Unidade Local de Saúde de Amadora/Sintra, E. P. E., da Fundação Centro Cultural de Belém e de fiscal único do Instituto de Proteção e Assistência na Doença, I. P. (ADSE). Tem participado na revisão de trabalhos de reporte internacional em ambiente IFRS, designadamente: Key Plastics Group (USA); RP Global, Hidrocentrais Reunidas e RBA Revistas (Espanha); Kikocos (Itália), Claranet Group e Intersurgical (Inglaterra) e Bowe (Alemanha).
+117944233
