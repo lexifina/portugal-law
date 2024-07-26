@@ -12,7 +12,7 @@ c) Nos contratos de troca ou permuta de bens imóveis, qualquer que seja o títu
 
 d) Nos contratos de promessa de troca ou permuta com tradição de bens apenas para um dos permutantes, o imposto será desde logo devido pelo adquirente dos bens, como se de compra e venda se tratasse, sem prejuízo da reforma da liquidação ou da reversão do sujeito passivo, conforme o que resultar do contrato definitivo, procedendo-se, em caso de reversão, à anulação do imposto liquidado ao permutante adquirente;
 
-e) Nas situações previstas nas alíneas a) e b) do n.º 3 do artigo 2.º, o imposto é devido pelo primitivo promitente adquirente e por cada um dos sucessivos promitentes adquirentes, não lhes sendo aplicável qualquer isenção ou redução de taxa, ainda que a parte do preço paga ao promitente vendedor ou ao cedente corresponda a qualquer dos escalões previstos na alínea b) do n.º 1 do artigo 17.º, sem prejuízo do disposto no n.º 5 do artigo 17.º e no n.º 3 do artigo 22.º;
+e) Nas situações previstas nas alíneas a) e b) do n.º 3 do artigo 2.º, o imposto é devido pelo primitivo promitente adquirente e por cada um dos sucessivos promitentes adquirentes, não lhes sendo aplicável qualquer isenção ou redução de taxa, ainda que a parte do preço paga ao promitente vendedor ou ao cedente corresponda a qualquer dos escalões previstos na alínea c) do n.º 1 do artigo 17.º, sem prejuízo do disposto no n.º 5 do artigo 17.º e no n.º 3 do artigo 22.º;
 
 f) Nas situações previstas nas alíneas c) e d) do n.º 3 do artigo 2.º, o imposto é devido pelo procurador ou por quem tiver sido substabelecido, não lhe sendo aplicável qualquer isenção ou redução de taxa, sem prejuízo do disposto no n.º 3 do artigo 22.º;
 
