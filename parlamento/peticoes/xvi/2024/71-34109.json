@@ -1,0 +1,155 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34109",
+  "numero": "71",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-07-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-03-13",
+            "entidades": null,
+            "id": "159449",
+            "tipo": null,
+            "titulo": "Audição em 2025-03-13 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-09-11",
+        "DataArquivo": "2025-03-18",
+        "DataBaixaComissao": "2024-07-26",
+        "DataEnvioPAR": "2025-03-19",
+        "DataReaberta": "2024-09-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-09-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5547563061574e68627938304e44426b595755784e5331685a5749314c5451334e3249745954646a4f4330794d6a59315a54466b596a45334e3249756347526d&fich=440dae15-aeb5-477b-a7c8-2265e1db177b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-03-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5547563061574e686279396a4d544a694e544a6a4d5330324d6a67324c5451324f444d74596a4d775979316b4f444e684e4759794e7a566b595445756347526d&fich=c12b52c1-6286-4683-b30c-d83a4f275da1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8398",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Economia, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2024-09-19",
+            "gp": "PSD",
+            "id": "4090",
+            "motivoCessacao": null,
+            "nome": "Margarida Saavedra"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2024-07-30",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3251784e32566b4d6a646a4c5441324e7a6b744e47557a4d6930344e4467334c5449304e7a59334e4441304d5463354e4335775a47593d&fich=d17ed27c-0679-4e32-8487-247674041794.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2024-07-30",
+        "TipoDocumento": "Link",
+        "URL": "https://www.instagram.com/casaequitativa.pt/"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34109",
+    "PetAssunto": "Petição pela equidade na habitação. Por políticas sem limitação de idade.",
+    "PetDataEntrada": "2024-07-26",
+    "PeticoesAssociadas": null,
+    "PetId": "34109",
+    "PetLeg": "XVI",
+    "PetNr": "71",
+    "PetNrAssinaturas": "1075",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915306",
+        "obs": null,
+        "pag": [
+          "24-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-25",
+        "pubLeg": "XVI",
+        "pubNr": "54",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/054/2025-01-25/24?pgs=24-25&org=PLC"
+      }
+    ]
+  }
+}
