@@ -20,6 +20,10 @@ g) As subvenções, quotizações, doações, heranças ou legados de entidades 
 
 h) As comparticipações financeiras resultantes de fundos comunitários;
 
-i) A participação, nos termos legais, nas taxas e coimas devidas pela sua intervenção no exercício das competências a que se refere a alínea j) do n.º 3 do artigo 3.º do presente diploma;
+i) Os valores provenientes de serviços prestados no âmbito das suas atribuições;
 
-j) Quaisquer outras receitas que por lei, regulamento, contrato ou outro título lhe sejam atribuídas.
+j) Os valores provenientes da prestação de outros serviços, designadamente cursos, seminários ou outras ações de formação;
+
+k) A participação nas taxas e coimas a definir através de portaria a emitir pelos membros do Governo Regional responsáveis pelas áreas das finanças e proteção civil;
+
+l) Quaisquer outras receitas que por lei, regulamento, contrato ou outro título lhe sejam atribuídas.
