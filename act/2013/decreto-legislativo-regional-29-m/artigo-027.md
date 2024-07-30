@@ -1,6 +1,6 @@
 # Artigo 27.º
 
-### Suplementos de penosidade e risco
+### Suplemento de penosidade, risco e transporte
 
 1 - Por cada dia de permanência sucessiva nos locais a seguir indicados, os trabalhadores da carreira especial de guarda florestal têm direito a um suplemento de penosidade, com os seguintes valores:
 
@@ -12,4 +12,6 @@ c) Zona iii - considerada de baixa penosidade e que abrange os Postos Florestais
 
 2 - Os trabalhadores integrados na carreira especial de guarda florestal, bem como os mestres florestais coordenadores, têm direito a um suplemento de risco, não acumulável diariamente com o suplemento previsto no número anterior, que será pago por cada dia de execução de trabalhos que recorram a métodos e técnicas de alpinismo com cordas, no montante de 30,00 (euro) (trinta euros) por dia.
 
-3 - Os montantes dos suplementos de penosidade e risco referidos nos números anteriores serão atualizados nos termos do diploma que proceder à atualização dos montantes dos suplementos remuneratórios auferidos pelos trabalhadores da administração pública regional.
+3 - Aos trabalhadores de carreira especial da guarda-florestal é atribuído um suplemento de transporte aplicável segundo o regime geral dos trabalhadores da administração pública regional;
+
+4 - Os montantes dos suplementos de penosidade, risco e transporte referidos nos números anteriores, serão atualizados nos termos do diploma que proceder à atualização dos montantes dos suplementos remuneratórios auferidos pelos trabalhadores da administração pública regional.
