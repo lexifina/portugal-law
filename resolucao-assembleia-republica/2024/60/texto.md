@@ -1,0 +1,19 @@
+Resolução da Assembleia da República n.º 60/2024
+
+Comissão Parlamentar de Inquérito à gestão estratégica e financeira e à tutela política da Santa Casa da Misericórdia de Lisboa
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º e do n.º 1 do artigo 178.º da Constituição e da alínea a) do n.º 1 do artigo 2.º da Lei n.º 5/93, de 1 de março, alterada pelas Leis n.<sup>os </sup>126/97, de 10 de dezembro, 15/2007, de 3 de abril, e 29/2019, de 23 de abril, constituir uma Comissão Parlamentar de Inquérito à gestão estratégica e financeira e à tutela política da Santa Casa da Misericórdia de Lisboa (SCML) com o seguinte objeto:
+1 - Inquirir as decisões de gestão estratégica e financeira efetuadas por parte da SCML, associadas ou subsidiárias, desde 2011, que possam ter contribuído para o desequilíbrio financeiro da SCML.
+2 - Avaliar e esclarecer as decisões efetuadas pelas mesas da SCML em funções, os respetivos provedores e os membros das administrações das empresas subsidiárias quanto à diversificação das fontes de financiamento, avaliação do risco, apoio jurídico e financeiro aos negócios efetuados nesse contexto, nomeadamente relacionados com a internacionalização, novas áreas de negócio no âmbito do jogo ou compra de novos equipamentos.
+3 - Avaliar a definição das orientações gerais de gestão e de fiscalização da atividade de gestão da SCML por parte da tutela governativa no mesmo período (2011-2024).
+4 - Apurar as responsabilidades políticas, contratuais, legais e financeiras relativas à atual situação da Santa Casa da Misericórdia de Lisboa e aos atos de administração que a trouxeram até à referida situação, nomeadamente:
+i) Clarificar e escrutinar as decisões dos vários investimentos realizados ao longo dos últimos 13 (treze) anos, a avaliação de risco desses investimentos, o acompanhamento jurídico e financeiro e a fiscalização que estes mereceram ao longo deste período;
+ii) Escalpelizar as decisões de gestão no processo de internacionalização dos jogos sociais e que constituíram um risco para a sustentabilidade financeira da SCML;
+iii) Esclarecer quais serão, no total, os encargos para a SCML e para o Estado português dos investimentos realizados pela SCML (e suas subsidiárias) no período em análise.
+5 - Escrutinar o papel e a relação das diferentes tutelas políticas com a SCML e clarificar a intervenção dos XIX, XX, XXI, XXII, XXIII e XXIV Governos Constitucionais sobre a gestão política e financeira da SCML, designadamente no que respeita aos procedimentos para autorizações de investimentos, à partilha de informação entre os executivos e as sucessivas mesas e aos mecanismos de controlo jurídico e financeiro dos diversos atos de gestão da SCML e das suas subsidiárias.
+6 - Apurar a estratégia definida para os ativos líquidos da SCML, imobiliários ou mobiliários, designadamente através do conhecimento exaustivo do património da SCML, dos negócios em curso ou já concluídos neste domínio e documentos de suporte aos mesmos.
+7 - Escrutinar o processo de recrutamento de pessoal e de organização dos níveis superiores e intermédios, avaliando os termos da política de contratação pessoal nos últimos três mandatos da SCML.
+8 - Avaliar e clarificar a estratégia definida e as decisões tomadas relativas ao quadro de pessoal da SCML, do ponto de vista de carreiras e aumentos salariais, despedimentos e rescisões e ainda perspetiva futura para manutenção dos postos de trabalho.
+9 - Recolher e analisar toda a documentação que se considere relevante para os efeitos descritos nos pontos supra, nomeadamente relatórios e contas, atas, contratos, relatórios de progresso, auditorias e análises de risco, comunicações, entre outras.
+Aprovada em 21 de junho de 2024.
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+117960977
