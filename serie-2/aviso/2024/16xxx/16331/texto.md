@@ -1,0 +1,9 @@
+Aviso n.º 16331/2024/2
+
+António Domingos da Silva Tiago, presidente da Câmara Municipal da Maia:
+Torna público que, a Câmara Municipal, na reunião pública, realizada a 16 de julho de 2024, deliberou, por unanimidade, determinar a da abertura do período de discussão pública da 2.ª revisão do Plano Diretor municipal da Maia e respetiva proposta da Avaliação Ambiental Estratégica, nos termos previstos no n.º 1 do artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, e do n.º 6 do artigo 7.º do Decreto-Lei n.º 232/2007, de 15 de junho.
+A discussão pública ocorrerá por um período de 30 dias, decorrido que seja o prazo de 5 dias, contado desde a publicação do presente Aviso no Diário da República. Durante este período os interessados poderão, por escrito, formular reclamações, sugestões ou observações, mediante requerimento, dirigido ao Presidente da Câmara Municipal, onde deve constar identificação do subscritor, identificação do local, acompanhada sempre que possível de planta de localização, e fundamentação do objeto da exposição, através de submissão eletrónica no sítio da Internet da Câmara Municipal da Maia, por via postal ou entregue diretamente no Gabinete Municipal de Atendimento do município.
+Os interessados poderão consultar a proposta da 2.ª revisão do Plano Diretor municipal da Maia, Relatório Ambiental, Parecer final, ata da Comissão Consultiva e demais pareceres na página eletrónica do Município em www.cm-maia.pt, ou, presencialmente, na Divisão de Planeamento Territorial, sita no 15.º piso da Torre do Lidador da Câmara Municipal da Maia, todos os dias úteis, das 9h00 às 12h00 e das 14h00 às 17h00.
+Para constar se publica este e outros de igual teor que vão ser afixados nos lugares de estilo.
+23 de julho de 2024. - O Presidente da Câmara Municipal, António Domingos da Silva Tiago.
+617947352
