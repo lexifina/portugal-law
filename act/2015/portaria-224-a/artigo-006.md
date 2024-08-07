@@ -8,9 +8,9 @@
 
 3 - O contrato de patrocínio compreende dois ciclos de ensino, iniciando um no primeiro ano de vigência do contrato e o outro no segundo.
 
-4 - O contrato de patrocínio abrange, nos primeiro e segundo anos da sua vigência, alunos em início de ciclo e garante o financiamento dos mesmos até à conclusão dos respetivos ciclos de ensino.
+4 - O contrato de patrocínio abrange, no primeiro e no segundo anos da sua vigência, alunos em qualquer ano de escolaridade e garante o financiamento dos mesmos até à conclusão dos respetivos ciclos de ensino.
 
-5 - Quando um aluno financiado liberte a respetiva vaga, poderá a mesma ser mantida a benefício de outro aluno, desde que a respetiva frequência decorra no mesmo curso e regime e que o seu ciclo de ensino se conclua no prazo contratual e se contenha no valor contratual previsto.
+5 - Quando um aluno financiado libertar a respetiva vaga, poderá a mesma ser mantida a benefício de outro aluno de qualquer ano de escolaridade, desde que a vaga se contenha no prazo e no valor contratuais previstos.
 
 6 - O valor previsional máximo do contrato é o estabelecido no ano económico da sua celebração, em função das condições definidas no aviso de abertura do concurso e do número de alunos previstos.
 
