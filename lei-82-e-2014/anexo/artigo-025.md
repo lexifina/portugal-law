@@ -23,3 +23,5 @@ c) As quotizações sindicais, na parte em que não constituam contrapartida de 
 5 - (Revogado.)
 
 6 - (Revogado.)
+
+7 - O valor referido na alínea a) do n.º 1 é atualizado anualmente à taxa de atualização do IAS.
