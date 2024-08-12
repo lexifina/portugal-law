@@ -1,0 +1,8 @@
+Aviso n.º 17005/2024/2
+
+Consulta pública do Projeto de Alteração do Regulamento para Atribuição de Incentivos ao Investimento
+Nuno Alexandre Martins da Fonseca, Presidente da Câmara Municipal de Felgueiras, torna público, nos termos do disposto na alínea t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º, ambos do Anexo I da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, em reunião ordinária realizada em 18 de julho de 2024, deliberou submeter a consulta pública, nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, o Projeto de Alteração do Regulamento para Atribuição de Incentivos ao Investimento.
+Mais torna público, que aquele projeto de alteração do Regulamento se encontra em consulta pública pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República, podendo o mesmo ser consultado na íntegra nos Gabinetes de Atendimento Municipal, durante o período normal de funcionamento ou na página eletrónica do Município de Felgueiras, em www.cm-felgueiras.pt.
+As eventuais reclamações, observações ou sugestões poderão ser formuladas por escrito até ao final do mencionado período, em requerimento dirigido ao Presidente da Câmara Municipal de Felgueiras, Praça da República, 4610-116 Felgueiras, utilizando para o efeito o impresso próprio que pode ser obtido na Câmara Municipal de Felgueiras na mencionada página da Internet (http://www.cm-felgueiras.pt).
+19 de julho de 2024. - O Presidente da Câmara, Nuno Fonseca.
+317935145
