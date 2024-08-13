@@ -1,0 +1,8 @@
+Aviso n.º 17208/2024/2
+
+Abertura do Período de Discussão Pública da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Nelas
+Joaquim Augusto Alves de Amaral, Presidente da Câmara Municipal de Nelas, torna público que, nos termos e para os efeitos do disposto no artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), por deliberação da Câmara Municipal de Nelas, em reunião de 10 de julho de 2023, deliberou proceder à abertura do período de discussão pública da 2.ª Alteração da 1.ª Revisão do Plano Diretor Municipal de Nelas pelo prazo de 30(trinta) dias, contados a partir do 5.º dia após a data da publicação do respetivo aviso no Diário da República.
+A proposta de Alteração ao Plano e respetivo Relatório Ambiental, estarão disponíveis para consulta dos munícipes, no portal do Município e na Unidade Orgânica de Projetos, Obras e Ambiente, de segunda a sexta-feira, no horário normal de expediente, podendo os interessados apresentar no prazo estipulado para o efeito, reclamações, observações, sugestões e pedidos de esclarecimento, através de requerimento dirigido ao Sr. Presidente da Câmara Municipal de Nelas ou por correio eletrónico para geral@cm-nelas.pt.
+Para constar e para os devidos efeitos legais, se publica o presente aviso na 2.ª série do Diário da República e se procede à sua divulgação através da comunicação social, da Plataforma Colaborativa de Gestão Territorial e no sítio da Internet deste Município, para além da sua afixação nos lugares de estilo.
+17 de julho de 2024. - O Presidente da Câmara Municipal de Nelas, Dr. Joaquim Amaral.
+617930455
