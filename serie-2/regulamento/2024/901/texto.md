@@ -1,0 +1,84 @@
+Regulamento n.º 901/2024
+
+Regulamento do Programa Municipal Crescer com Braga - Projeto "As Minhas Primeiras Páginas"
+Ricardo Bruno Antunes Machado Rio, Presidente da Câmara Municipal de Braga: No uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, que estabelece o Regime Jurídico das Autarquias Locais, em cumprimento e para efeitos do disposto no artigo 56.º da mesma Lei, e ainda nos termos dos artigos 139.º e 140.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, que aprova o Código do Procedimento Administrativo: Faz saber que a Assembleia Municipal de Braga, em sessão extraordinária realizada no dia 12 de julho de 2024, sob proposta da Câmara Municipal de 29 de abril de 2024, deliberou aprovar o Regulamento do Programa Municipal Crescer com Braga - Projeto “As Minhas Primeiras Páginas”. Mais se torna público que, após publicação no Diário da República, o referido Regulamento se encontrará disponível para consulta no sítio de internet do Município de Braga (disponível em https://www.cm-braga.pt/pt), no separador Município/Apoio ao Cidadão/ Regulamentos.
+23 de julho de 2024. - O Presidente da Câmara, Ricardo Bruno Antunes Machado Rio.
+Regulamento do Programa Municipal Crescer com Braga - Projeto "As Minhas Primeiras Páginas"
+Nota Justificativa
+O projeto “As minhas primeiras páginas” assenta num ideal de promoção dos direitos de igualdade e de educação dedicado aos mais jovens. Numa intenção de promover a igualdade de oportunidades de acesso ao livro e à leitura, o Município de Braga estruturou este ambicioso projeto que pretende oferecer a todas as crianças e jovens residentes no concelho, um conjunto de livros, desde o seu nascimento até completarem 17 anos. Numa primeira fase, este projeto englobará apenas crianças até aos 10 anos de idade, sendo que, posteriormente, é intenção deste Município estender esta oferta até aos 17 anos, o que ocorrerá numa fase subsequente, após deliberação do executivo municipal.
+Isto porque ler é uma competência fundamental indispensável, sendo que os conhecimentos alcançados através do contacto com os livros e a leitura são muito importantes no desenvolvimento cognitivo, emocional e social das crianças e dos jovens. Com efeito, as ferramentas alcançadas através destes conhecimentos vão contribuir, gradualmente, para a “construção” de um cidadão informado, responsável, participativo e preocupado com os outros e com o mundo que o rodeia. Mostra-se, desta forma, que é imperativo construir políticas públicas de acesso à leitura. A garantia deste acesso é um indicador de bem-estar democrático e igualdade de oportunidade, cujo foco deverá ser a comunidade e os seus cidadãos (presentes e futuros). Sendo as autarquias locais o poder político mais próximo das famílias e, portanto, dos cidadãos, devem ser estas a acompanhar e perceber melhor as suas necessidades e o interesse e relevância das políticas públicas. Convicto da importância estratégica nesta matéria, o Município de Braga tem vindo a assumir um papel importante e relevante nesta área, implementando diversas medidas de apoio às famílias, pretendendo, com este regulamento implementar mais um incentivo, desta feita, à leitura. O Município de Braga, convicto da importância da construção destas políticas públicas, decidiu implementar o projeto “As minhas primeiras páginas” cujo objetivo central é garantir que todas as crianças e jovens cidadãos do concelho de Braga tenham o mesmo direito de acesso ao livro. Considerando que este acesso permitirá ao jovem cidadão adquirir uma maior motivação para a leitura, criando assim oportunidades para que tenham mais sucesso nas aprendizagens ao longo da vida. Todos os livros oferecidos ao abrigo deste Projeto serão criteriosamente selecionados por uma equipa de técnicos especializados na área do livro e da leitura, de acordo com a faixa etária e a tipologia de livros mais adequados para cada idade. Juntamente com estes livros serão também oferecidos folhetos informativos acerca dos benefícios da leitura e com algumas dicas para os pais terem em conta na altura de ler para os seus filhos ou de como os motivar para a leitura, sendo que a inscrição neste programa não implica qualquer tipo de custos. Numa visão global este Projeto Municipal teve em consideração os desígnios da Agenda 2030 e assenta no alcance dos ODS 4 - Educação de qualidade e ODS 10 - Reduzir as desigualdades.
+Mais, estima-se que este projeto, a curto prazo possa já:
+Proporcionar às crianças o contacto com livros de qualidade, criteriosamente selecionados de acordo com a faixa etária;
+Consciencializar os adultos da importância do livro e da leitura no desenvolvimento cognitivo da criança;
+Dotar os adultos de ferramentas/estratégias na utilização dos livros, de forma a promover a leitura junto das crianças e dos jovens e, consequentemente, o gosto pela leitura;
+Promover o tempo de convívio entre pais e filhos através de ações de dinamização do livro e da leitura;
+Incentivar as famílias e instituições de acolhimento de crianças e jovens a participar em iniciativas culturais, educativas e cívicas do Município.
+Já a longo prazo, prevê-se que este projeto tenha também benefícios em diversos âmbitos, como:
+No desenvolvimento das competências leitoras, melhorando a capacidade de interpretação, conhecimento do Eu e do mundo, bem como, da capacidade de expressão e compreensão verbal e escrita da criança;
+A capacitação parental para a realização de práticas de literacia familiar, por forma a favorecer o desenvolvimento das competências de literacia emergente da criança;
+Consciencializar as famílias da importância do envolvimento em práticas de promoção da leitura e do favorecimento destas no sucesso do percurso escolar da criança.
+Aumentar o gosto pelo livro e pela leitura (ler por prazer);
+No que concerne à ponderação dos custos e benefícios das medidas projetadas no presente Regulamento, nos termos do disposto no artigo 99.º do Código do Procedimento Administrativo (CPA), tratando-se de um incentivo à leitura que visa estimular o desenvolvimento das competências de literacia das crianças, fomentando a criatividade, a imaginação, o senso crítico, e amplia a habilidade na escrita, características fundamentais para o exercício da cidadania como pilar fundamental de uma sociedade desenvolvida, socialmente responsável e sustentável, considera-se que os benefícios sociais alcançados na prossecução do interesse público são manifestamente superiores ao custo anual a suportar ou internalizar pelo Município de Braga, que é de reduzida expressão financeira, no contexto global do orçamento municipal. Estima-se que a despesa associada à execução presente regulamento possa atingir o valor máximo anual de 120.000,00 euros. No que respeita à aquisição dos livros que irão ser oferecidos às crianças e jovens residentes no concelho de Braga, esta será feita pelo Município no estrito cumprimento das normas legais aplicáveis, designadamente, as disposições relativas contratação pública, previstas no Código dos Contratos Públicos. Em cumprimento do disposto no artigo 98.º do CPA foi publicitado, no sítio do Município de Braga, na Internet, o início do procedimento administrativo relativo ao presente Regulamento, para constituição dos interessados que entendessem apresentar os seus contributos. O projeto de Regulamento foi submetido a consulta pública, para recolha de sugestões, nos termos do artigo 101.º do Código do Procedimento Administrativo (CPA), através de publicação no Diário da República a 5/02/2024, pelo Aviso n.º 2802/2024, e na Internet, no sítio institucional do Município. Neste contexto, foi elaborado o presente projeto do Regulamento do Programa Municipal Crescer com Braga - Projeto “As minhas primeiras páginas” e submetido à aprovação da Assembleia Municipal, nos termos e para os efeitos previstos no artigo 25.º, n.º 1, alínea g), do Anexo I à Lei n.º 75/2013, de 12 de setembro.
+Artigo 1.º
+Lei Habilitante
+O Regulamento do Programa Municipal “Crescer com Braga” - Projeto “As minhas primeiras páginas”, adiante designado por Regulamento, é elaborado ao abrigo do disposto no n.º 7 do artigo 112.º e artigo 241.º da Constituição da República Portuguesa, conjugado com a alínea d) e e), do n.º 2, do artigo 23.º, alínea g), do n.º 1, do artigo 25.º e alínea k) e u), do n.º 1 do artigo 33.º ambos do Anexo I à Lei n.º 75/2013, de 12 de setembro, na sua atual redação.
+Artigo 2.º
+Objeto e beneficiários
+1 - O Regulamento visa fixar as condições de oferecer às crianças e jovens residentes no concelho de Braga um conjunto de livros, desde o seu nascimento até completarem 17 anos, destinado a promover a igualdade de oportunidades de acesso ao livro e à leitura, no Município de Braga.
+2 - São beneficiários desta oferta os indivíduos isolados ou inseridos em agregados familiares residentes no concelho de Braga, desde que preencham os requisitos necessários e obrigatórios, definidos no presente Regulamento.
+3 - Por deliberação da Câmara Municipal poderão ser aprovadas alterações à execução do presente projeto, designadamente, quanto aos procedimentos de candidatura e parceiros, sendo as mesmas devidamente publicitadas por edital a disponibilizar no site do Município.
+Artigo 3.º
+Fases do Projeto
+1 - Este Projeto será implementado em duas fases:
+a) Na 1.ª fase englobará apenas crianças dos 0 aos 10 anos, nas condições definidas no artigo 6.º;
+b) Na 2.ª fase passará a vigorar para as crianças e jovens dos 0 aos 17 anos, nas condições definidas no artigo 6.º
+2 - O início da 2.ª fase será devidamente publicitado por edital a disponibilizar no site do Município, após deliberação da Câmara Municipal.
+Artigo 4.º
+Legitimidade
+Podem requerer a oferta prevista no presente Regulamento as seguintes pessoas:
+a) Um dos progenitores, casados ou que vivam em união de facto, com quem a criança resida;
+b) O/A progenitor/a que tiver a guarda da criança e o possa provar;
+c) Qualquer pessoa singular a quem, por decisão judicial ou administrativa das entidades ou organismos legalmente competentes, a criança esteja confiada, nomeadamente por acolhimento familiar ou residencial, ou adoção.
+Artigo 5.º
+Candidatura
+1 - A candidatura à oferta dos livros prevista no presente Regulamento é efetuada através do preenchimento de formulário próprio, entregue presencialmente no Balcão Único da Câmara Municipal, ou remetido por via eletrónica através dos serviços online do Balcão Único.
+2 - O pedido deverá ser instruído com os seguintes documentos:
+a) Apresentação dos documentos de identificação de todos os elementos do agregado familiar (cartão de cidadão, bilhete de identidade, NIF ou outro documento comprovativo de identidade);
+b) Documento comprovativo do domicílio, atestando a residência da criança ou jovem no Concelho de Braga, emitido pela Junta de Freguesia ou União de Freguesias;
+c) Comprovativo da decisão judicial ou administrativa das entidades ou organismos legalmente competentes de que a criança lhe esteja confiada, nas situações aplicáveis.
+3 - O Município pode, complementarmente, solicitar outros documentos ou promover diligências que se revelem imprescindíveis à instrução, análise e avaliação da candidatura.
+4 - O pedido é liminarmente rejeitado se não for instruído nos termos dos números anteriores e não for regularizado no prazo que for concedido para o efeito.
+5 - A candidatura pode ser apresentada a qualquer momento, desde o nascimento da criança até que esta complete 17 anos, ficando inscrita na correspondente etapa em que se encontre e beneficiando das ofertas previstas para a idade que tiver no momento da candidatura.
+6 - O requerente fica responsável pela atualização dos dados da candidatura e comunicação de alterações, designadamente, a alteração de morada.
+Artigo 6.º
+Execução do Projeto
+1 - A oferta dos livros prevista neste Regulamento será feita da seguinte forma:
+a) Por altura do nascimento do bebé será feita a oferta do “kit novo leitor”;
+b) Dos 2 aos 18 meses de idade a oferta dos livros será feita de acordo com o Programa Nacional de Vacinação, sendo oferecido um livro por cada toma da vacina, ou seja, um livro aos 2, 4, 6, 12 e 18 meses, respetivamente;
+c) Dos 2 aos 5 anos de idade a oferta dos livros será feita por altura do aniversário de cada criança, em parceria com a Biblioteca Lúcio Craveiro da Silva;
+d) Dos 6 anos aos 17 anos de idade a oferta dos livros será feita a cada criança ou jovem por altura do seu aniversário, sendo os mesmos enviados diretamente para a sua morada.
+2 - Compete ao requerente informar, com antecedência não inferior a 30 dias, que não pretende continuar a usufruir da oferta prevista neste Regulamento, podendo ainda o Município, no final de cada uma das etapas referidas no número anterior, contactar os requerentes para confirmar a sua inscrição, por forma a garantir uma gestão adequada dos recursos.
+Artigo 7.º
+Parceiros
+São parceiros do Município neste projeto a Biblioteca Lúcio Craveiro da Silva, a Unidade Local de Saúde de Braga, os CTT, o Hospital Lusíadas de Braga, os Hospitais Trofa Saúde de Braga e a Universidade do Minho - Instituto de Educação.
+Artigo 8.º
+Falsas Declarações
+A prestação de falsas declarações por parte do requerente, bem como, a omissão de algum dado ou elemento relevante, para além de outras consequências legalmente previstas, obriga ao cancelamento da inscrição no projeto.
+Artigo 9.º
+Proteção de Dados
+1 - No ato de submissão da candidatura, o requerente deve declarar que autoriza expressamente a sua utilização para os fins contidos no presente Regulamento.
+2 - A recolha e o tratamento dos dados pessoais serão apenas os estritamente necessários à candidatura e execução da oferta prevista no presente Regulamento, no respeito pelas regras da privacidade e proteção de dados pessoais constantes do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (RGPD), bem como da legislação nacional aplicável.
+3 - Os dados pessoais recolhidos ao abrigo deste regulamento destinam-se única e exclusivamente a ser utilizados pelo Município de Braga e entidades parceiras referidas no artigo 7.º, na prossecução da finalidade indicada no número anterior, que tem como fundamento de licitude o interesse público.
+4 - Na aplicação do presente Regulamento são objeto de tratamento dados pessoais como o nome, morada, endereço eletrónico, contacto telefónico e outros que se mostrarem necessários para efeitos de aferição da legitimidade e os documentos instrutórios específicos necessários para efeitos de análise e decisão do procedimento.
+5 - Cada uma destas categorias de dados pessoais é objeto de tratamento adequado, pertinente e estritamente necessário à prossecução da finalidade indicada, garantindo que os dados inexatos serão apagados ou retificados sem demora.
+6 - O Município de Braga aplica, tanto no momento de definição dos meios de tratamento de dados como no momento próprio tratamento, as medidas técnicas e organizativas que possam assegurar os adequados níveis de segurança e de proteção dados pessoais dos titulares, nos termos dos artigos 25.º e 32.º do Regulamento (UE) n. 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016.
+7 - Esta obrigação aplica-se à quantidade de dados pessoais recolhidos, à extensão do seu tratamento, ao seu prazo de conservação e à sua acessibilidade, assegurando que os dados pessoais não sejam disponibilizados sem intervenção humana a um número indeterminado de pessoas singulares.
+8 - Os dados pessoais, por regra, serão conservados apenas pelo período de tempo necessário e no âmbito das finalidades para as quais são recolhidos.
+9 - Os titulares dos dados pessoais têm direito a aceder à informação sobre o(s) tratamento(s) dos seus dados, a retificá-la se não estiver correta, ou até apagá-la. Além destes direitos designados e protegidos no RGPD como Direito de Informação, Direito de Acesso, Direito de Retificação e Direito de Apagamento, os requerentes têm ainda Direito à Limitação de Finalidades, à Minimização dos Dados a Portabilidade e a Não Sujeição a Decisões Individuais Automatizadas, os quais podem ser exercidos no respeito pelos normativos aplicáveis junto do Responsável pelo Tratamento, ou então objeto de exposição ao Encarregado de Proteção de Dados, mediante pedido por escrito, a ser remetido para o e-mail dpo@cm-braga.pt ou reclamação à Autoridade Nacional de Controlo (concretamente, a Comissão Nacional de Proteção de Dados).
+Artigo 10.º
+Dúvidas ou Omissões
+Todas as dúvidas e omissões que eventualmente surjam na aplicação ou interpretação do presente Regulamento serão esclarecidas e decididas pelo Presidente da Câmara Municipal.
+Artigo 11.º
+Entrada em Vigor
+O presente Regulamento entrará em vigor no dia útil seguinte ao da sua publicação no Diário da República.
+317945498
