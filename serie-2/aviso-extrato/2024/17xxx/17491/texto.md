@@ -1,0 +1,11 @@
+Aviso (extrato)  n.º 17491/2024/2
+
+2.ª revisão do plano diretor municipal - Prorrogação de prazo
+Fernando Paulo Ferreira, Presidente da Câmara Municipal de Vila Franca de Xira, torna público que, nos termos do artigo 35.º-D do Decreto-Lei n.º 20/2020, de 1 de maio, a Câmara Municipal deliberou, na reunião ordinária de 10 de julho de 2024, a prorrogação do prazo estabelecido no Aviso n.º 15124/2022 no Diário da República, 2.ª série, n.º 147, de 1 de agosto de 2022 para a elaboração da 2.ª Revisão do Plano Diretor Municipal de Vila Franca de Xira, até 31 de dezembro de 2026. A deliberação sustenta-se no caráter de excecionalidade do presente procedimento de revisão do PDM, o qual visa a inclusão das regras de classificação e qualificação dos solos aprovadas pelo Decreto-Lei n.º 80/2015, de 14 de maio (que procedeu à revisão do RJIGT), em desenvolvimento das Bases Gerais da Política Pública de Solos, de Ordenamento do Território e de Urbanismo, estabelecidas pela Lei n.º 31/2014, de 30 de maio, (LBPPSOTU), e o manifesto interesse público na conclusão do procedimento de revisão do PDM de Vila Franca de Xira, sublinhando ainda que, foram cumpridos os prazos estabelecidos no artigo 199.º, n.º 3 do RJIGT (reunião da 1.ª reunião da comissão consultiva e conferência procedimental), fundamentado a prorrogação em razões não impotáveis ao município decorrente da recente publicação do Plano Geral dos Risco de Inundação - Tejo e das também recentemente disponibilizadas orientações para a delimitação das cabeceiras de linhas de água no âmbito da Redelimitação da Reserva Ecológica Nacional.
+21 de julho de 2024. - O Presidente da Câmara Municipal, Fernando Paulo Ferreira.
+Município de Vila Franca de Xira
+Deliberação
+A Câmara Municipal de Vila Franca de Xira deliberou, por unanimidade, em 10 de julho de 2024:
+Prorrogar o prazo estabelecido no Aviso n.º 15124/2022 no Diário da República, 2.ª série, n.º 147, de 1 de agosto de 2022 para a elaboração da 2.ª Revisão do Plano Diretor Municipal de Vila Franca de Xira, até 31 de dezembro de 2026, fundamentando a prorrogação em razões não impotáveis ao município.
+21 de julho de 2024. - O Presidente da Câmara Municipal, Fernando Paulo Ferreira.
+617946697
