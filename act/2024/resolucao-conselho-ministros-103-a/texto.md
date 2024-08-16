@@ -1,0 +1,22 @@
+Resolução do Conselho de Ministros n.º 103-A/2024
+
+O direito de todos os cidadãos ao acesso a uma rede de escolas gratuita e acessível, em condições de igualdade, bem como a liberdade de aprender e de ensinar, são pilares constitucionalmente consagrados, nos termos previstos nos artigos 43.º e 74.º da Constituição.
+Neste âmbito, o Estado deve ter igualmente em consideração, no ajustamento da rede escolar, as iniciativas e os estabelecimentos particulares e cooperativos, numa perspetiva de racionalização de meios, de aproveitamento de recursos e de garantia de qualidade, conforme previsto no n.º 2 do artigo 58.º da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, na sua redação atual.
+Nos termos conjugados da alínea a) do n.º 2 e do n.º 4 do artigo 8.º da Lei de Bases do Ensino Particular e Cooperativo, aprovada pela Lei n.º 9/79, de 19 de março, alterada pelas Leis n.<sup>os </sup>33/2012, de 23 de agosto, e 36/2021, de 14 de junho, é admitida a celebração de contratos com estabelecimentos particulares e cooperativos que, se integrando nos objetivos e nos planos do Sistema Nacional de Educação, se localizem em áreas carenciadas da rede pública escolar, sendo garantida a igualdade entre os alunos por aqueles abrangidos e os alunos do ensino oficial no que se refere a despesas com propinas e matrículas.
+Por seu turno, o regime dos contratos de associação, como modalidade de contrato prevista na alínea a) do n.º 2 e no n.º 4 do artigo 8.º da Lei n.º 9/79, de 19 de março, na sua redação atual, é concretizado por via do disposto nos artigos 9.º, 10.º e 16.º a 18.º do Estatuto do Ensino Particular e Cooperativo de nível não superior (EEPC), aprovado pelo Decreto-Lei n.º 152/2013, de 4 de novembro, e alterado pela Lei n.º 36/2021, de 14 de junho.
+Na sequência da análise da rede escolar para o ano letivo de 2024/2025, foram identificadas áreas geográficas que se mantêm carenciadas de oferta pública escolar, o que constitui uma omissão na rede que urge colmatar por via do recurso ao procedimento previsto na Portaria n.º 172-A/2015, de 5 de junho, na sua redação atual, que, em cumprimento do disposto no n.º 6 do artigo 10.º e no artigo 17.º do EEPC, fixa as regras e os procedimentos aplicáveis à atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino particular e cooperativo de nível não superior.
+Deste modo, a presente resolução autoriza a contratação para o ciclo de ensino compreendido entre os anos letivos de 2024/2025 a 2026/2027, com uma despesa máxima global de € 46 793 703,75, isenta de imposto sobre o valor acrescentado.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Direção-Geral da Administração Escolar (DGAE) a realizar a despesa relativa aos apoios decorrentes da celebração de contratos de associação para o ciclo de ensino compreendido nos anos letivos de 2024/2025, de 2025/2026 e de 2026/2027, até ao montante máximo global de € 46 793 703,75, isento de imposto sobre o valor acrescentado.
+2 - Determinar que os encargos financeiros resultantes dos contratos referidos no número anterior não podem exceder, em cada ano económico, os seguintes montantes:
+a) 2024 - € 5 946 161,25;
+b) 2025 - € 17 838 483,75;
+c) 2026 - € 15 597 901,25;
+d) 2027 - € 7 411 157,50.
+3 - Determinar que os encargos financeiros resultantes dos contratos referidos no n.º 1 são satisfeitos pelas verbas adequadas inscritas e a inscrever no orçamento da DGAE.
+4 - Estabelecer que os montantes fixados no n.º 2, para cada ano económico, podem ser acrescidos do saldo apurado no ano antecedente.
+5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da educação, ciência e inovação a competência para a prática de todos os atos subsequentes a realizar no âmbito previsto na presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 8 de agosto de 2024. - O Primeiro-Ministro, Luís Montenegro.
+118030043
