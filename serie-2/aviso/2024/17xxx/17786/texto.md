@@ -1,0 +1,13 @@
+Aviso n.º 17786/2024/2
+
+Revogação do Plano de Pormenor das Avessadas
+Hugo Renato Ferreira Cristóvão, Presidente da Câmara Municipal de Tomar, torna público, nos termos e para os efeitos previstos no artigo 127.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, que a Assembleia Municipal de Tomar, na sua reunião ordinária de 28 de junho de 2024, deliberou por unanimidade, sob proposta da Câmara Municipal de Tomar, de 8 de janeiro de 2024, proceder à revogação do Plano de Pormenor das Avessadas, publicado na 2.ª série do Diário da República, sob a Declaração n.º 325/1999, de 12 de setembro de 1999.
+Conforme disposto nos artigos 191.º e 192.º do RJIGT, e para constar, procede-se à publicação do presente aviso, e outros de igual teor que vão ser afixados nos lugares públicos do costume e publicitados na página eletrónica do município (www.cm-tomar.pt).
+10 de julho de 2024. - O Presidente da Câmara Municipal de Tomar, Hugo Renato Ferreira Cristóvão.
+2.ª Reunião, da 3.ª sessão ordinária, de 28 de junho de 2024
+Minuta de deliberação
+Entrando no Ponto Nove da Ordem de Trabalhos - Discussão e votação da Deliberação de Câmara, tomada em 08.01.2024, sobre a “Revogação do Plano de Pormenor das Avessadas”, de acordo com o definido no n.º 1, do artigo 90.º, por remissão do n.º 3, do artigo 127.º, do RJIGT, o Senhor Presidente da Assembleia Municipal, abriu inscrições para o uso da palavra, tendo-se verificado as seguintes intervenções: Américo Matos Fernandes Costa, do Partido CHEGA; Miguel José Costa Coelho Rodrigues, do Partido Social Democrata; Senhor Presidente da Câmara Municipal; Bruno Vítor Domingos Graça, da Coligação Democrática Unitária; Paulo Alexandre Martins Mendes, do Bloco de Esquerda; João Miguel da Silva Miragaia Tenreiro, do Partido Social Democrata; Susana Alexandra Ferreira Faria, do Partido Socialista; João Miguel da Silva Miragaia Tenreiro, do Partido Social Democrata (2.ª intervenção); Bruno Vítor Domingos Graça, da Coligação Democrática Unitária (2.ª intervenção) e Presidente da Câmara Municipal (2.ª intervenção).
+Não havendo mais inscrições o Senhor Presidente da Assembleia Municipal, passou à votação, tendo sido aprovado com dezassete votos a favor do Partido Socialista, Partido CHEGA, Bloco de Esquerda, CDS/Partido Popular e quinze abstenções do Partido Social Democrata, Coligação Democrática Unitária e do representante do Presidente da União de Freguesias de Serra e Junceira, dos Independentes do Nordeste.
+Esta Deliberação foi tomada em minuta.
+Tomar, 28 de junho de 2024. - O Presidente da Assembleia Municipal, Hugo Miguel Carvalheiro dos Santos Costa. - O Primeiro-Secretário, em exercício, Vasco Miguel dos Reis Marques.
+617956684
