@@ -20,7 +20,9 @@ Valor sobre que incide o IMT
 
 (*) No limite superior do escalão.
 
-c) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação, não abrangida pelas alíneas anteriores;
+c) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação, não abrangida pelas alíneas anteriores:
+
+Valor sobre que incide o IMT (em euros)Taxas percentuaisMarginalMédia (*)Até 101 917...11De mais de 101 917 e até 139 412...21,268 9De mais de 139 412 e até 190 086...52,263 6De mais de 190 086 e até 316 772...74, 157 8De mais de 316 772 e até 607 528...8-De mais de 607 528 e até 1 102 920...6 (taxa única)Superior a 1 102 920...7,5 (taxa única)(*) No limite superior do escalão.
 
 d) Aquisição de prédios rústicos - 5%;
 
