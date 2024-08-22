@@ -1,0 +1,8 @@
+Aviso n.º 18245/2024/2
+
+Abertura do período de consulta pública do projeto de "Regulamento que estabelece o conteúdo mínimo dos regulamentos de interfaces e terminais de passageiros para garantir condições de acesso e repartição de capacidade, transparentes, equitativos e não discriminatórios"
+Ana Paula Mendes Vitorino, Presidente do Conselho de Administração da Autoridade da Mobilidade e dos Transportes (AMT), torna público, nos termos do disposto ao abrigo do disposto nas alíneas a), h), n), q), e r) do n.º 1 do artigo 5.º, no artigo 6.º, na alínea d) do n.º 2, na alínea a) do n.º 3 e na alínea a) do n.º 4, todos do artigo 34.º dos respetivos Estatutos, da alínea f) do n.º 1 do artigo 7.º e do artigo 12.º do Decreto-Lei n.º 140/2019, de 18 de setembro, que o referido Conselho de Administração deliberou, na sua reunião de 8 de agosto de 2024, submeter a consulta pública o supra referenciado projeto de Regulamento, nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+Mais torna público que aquele projeto se encontra em consulta pública pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República, na página eletrónica da AMT, em www.amt-autoridade.pt.
+As eventuais observações ou sugestões deverão ser formuladas por escrito até ao final do mencionado período, em requerimento dirigido à Presidente do Conselho de Administração da AMT, Palácio Coimbra, Rua de Santa Apolónia, n.º 53, 1100-468 Lisboa, ou através do endereço de correio eletrónico: dr@amt-autoridade.pt.
+9 de agosto de 2024. - A Presidente do Conselho de Administração, Ana Paula Vitorino.
+318010206
