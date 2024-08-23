@@ -1,0 +1,23 @@
+# Resolução do Conselho do Governo Regional n.º 639/2024
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 131/2024, suplemento, de 2024-08-23
+
+**Sumário:** Autoriza tomar de arrendamento à sociedade comercial por quotas MHMA - Compra e venda de imóveis e gestão imobiliária Lda., os pisos 1, 2, 3 e 4, do prédio urbano situado no Largo do Phelps, n.º 6 e o prédio urbano situado na Travessa dos Reis n.ºs 12 a 18, freguesia da Sé, município do Funchal.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 639/2024
+Sumário: Autoriza tomar de arrendamento à sociedade comercial por quotas MHMA - Compra e venda de imóveis e gestão imobiliária Lda., os pisos 1, 2, 3 e 4, do prédio urbano situado no Largo do Phelps, n.º 6 e o prédio urbano situado na Travessa dos Reis n.ºs 12 a 18, freguesia da Sé, município do Funchal.
+Texto: Resolução n.º 639/2024 Considerando que, no âmbito do processo de regionalização do sistema fiscal na Região Autónoma da Madeira (RAM) e no sentido de prestar um serviço de qualidade e proximidade entre os cidadãos e a administração fiscal, foram desenvolvidos mecanismos de modernização e adequação das instalações dos Serviços de Finanças em toda a Região Autónoma, após identificadas as necessidades urgentes e imperiosas de tal intervenção; Considerando que o Serviço de Finanças do Funchal 2 é um dos serviços da RAM com maior número de atendimentos, especialmente devido à sua centralidade; Considerando que as atuais instalações se encontram obsoletas e exíguas, sendo necessário ampliá-las para melhorar o atendimento ao público e, consequentemente, as condições de trabalho dos funcionários públicos; Considerando que a Direção Regional de Economia, serviço da Secretaria Regional de Economia, Turismo e Cultura, cuja missão é assegurar a execução da política definida pelo Governo Regional para os setores do Comércio, Indústria, Qualidade e Metrologia, necessita de espaço para a instalação e funcionamento dos seus serviços;
+
+Considerando que os espaços localizados nos prédios urbanos situados ao Largo do Phelps n.º 6 e Travessa dos Reis n.º 12 a 18, propriedade da sociedade comercial por quotas MHMA - Compra e Venda de Imóveis e Gestão Imobiliária Lda., reúnem as caraterísticas necessárias aos fins pretendidos pelos serviços públicos em questão, aliados à localização privilegiada dos mesmos, que se encontram disponíveis para arrendamento;
+Considerando que a Região não possui, no imediato, imóvel situado no concelho do Funchal que reúna as condições necessárias para os fins pretendidos;
+Considerando que, desta forma, está plenamente salvaguardado o interesse público. O Conselho do Governo reunido em plenário em 22 de agosto de 2024, resolve:
+1) Autorizar, nos termos do disposto no artigo 9.º por remissão do n.º 1 do artigo 16.º, conjugado com o n.º 1 do artigo 15.º do Decreto Legislativo Regional n.º 7/2012/M, de 20 de abril, alterado e republicado pelo Decreto Legislativo Regional n.º 24/2017/M, de 3 de agosto, tomar de arrendamento à sociedade comercial por quotas MHMA - Compra e venda de imóveis e gestão imobiliária Lda., matriculada na Conservatória do Registo Comercial/Automóvel do Funchal, com o número único de matrícula e de pessoa coletiva 511 249 446, para instalação de serviços públicos: a) Os pisos 1, 2, 3 e 4, do prédio urbano situado no Largo do Phelps, n.º 6, freguesia da Sé, concelho do Funchal, inscrito na matriz predial urbana daquela freguesia, sob o artigo n.º 915, descrito na Conservatória do Registo Predial do Funchal sob o n.º 580/20001030; b) O prédio urbano situado na Travessa dos Reis n.ºs 12 a 18, freguesia da Sé, concelho do Funchal, inscrito na matriz predial urbana daquela freguesia, sob o artigo n.º 617, descrito na Conservatória do Registo Predial do Funchal sob o n.º 579/20001128.
+2) Aprovar a minuta do contrato de arrendamento, que faz parte integrante desta Resolução e fica arquivada na Secretaria - Geral da Presidência.
+3) Mandatar o Secretario Regional das Finanças para, em representação da Região Autónoma da Madeira, outorgar o respetivo contrato.
+4) A presente Resolução entra em vigor no dia seguinte à sua publicação e produz efeitos reportados a 1 de agosto de 2024.
+A despesa será suportada pelo Orçamento da Região Autónoma da Madeira, através da Classificação orgânica, Secretaria 45, Capítulo 01, Divisão 02, Subdivisão 04, Classificação Económica 02.02.04.A0.00, Centro Financeiro M100333, Fonte de Financiamento 311, Fundo 5311000010, N.º Cabimento CY42412068 e o N.º compromisso CY52412968
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
