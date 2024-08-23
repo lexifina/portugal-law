@@ -1,0 +1,8 @@
+Aviso n.º 18577/2024/2
+
+Abertura do período de discussão pública
+Revisão do Plano Diretor Municipal de Tábua
+Ricardo Manuel Oliveira da Silva Cruz, presidente da Câmara Municipal de Tábua, torna público que a Câmara Municipal deliberou, por unanimidade, na sua reunião ordinária de 25 de julho de 2024, determinar a abertura do período de discussão pública do procedimento de revisão do Plano Diretor Municipal de Tábua, por um prazo de 30 dias úteis, a contar do 5.º dia a seguir à publicação do presente aviso no Diário da República, em cumprimento do estabelecido nos artigos 89.º e 191.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015 de 14 de maio, na sua atual redação.
+Os interessados poderão consultar a proposta do Plano Diretor Municipal de Tábua e todos os documentos que integram o procedimento na Secção Administrativa da Divisão de Obras Particulares e Gestão Urbanística, nos dias úteis das 9h às 17h, e na página da internet do Município de Tábua, em www.cm-tabua.pt. Durante o referido período, os interessados poderão apresentar eventuais reclamações, observações ou sugestões através de formulário próprio, disponibilizado na página da internet do Município de Tábua, sendo que todas as participações deverão ser dirigidas ao Presidente da Câmara Municipal de Tábua, por via postal para Município de Tábua, Divisão de Obras Particulares e Gestão Urbanística, Praça da República, 3420-308 Tábua, ou por via eletrónica para o endereço pdm@cm-tabua.pt.
+31 de julho de 2024. - O Presidente da Câmara, Ricardo Manuel Oliveira da Silva Cruz.
+617992356
