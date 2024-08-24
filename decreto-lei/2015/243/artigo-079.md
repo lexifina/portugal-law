@@ -1,5 +1,3 @@
-## Secção III
-
 ## Subsecção II
 
 ## Carreira de oficial de polícia
