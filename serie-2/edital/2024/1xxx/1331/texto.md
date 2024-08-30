@@ -1,0 +1,7 @@
+Edital n.º 1331/2024
+
+Abertura de prazo de consulta pública ao projeto de regulamento da União de Freguesias de Zebreira e Segura - Atribuição de Bolsas de Mérito aos alunos da Escola Básica do 1.º Ciclo da Zebreira
+Paulo Sérgio Lameira Pinto, Presidente da União de Freguesias de Zebreira e Segura, torna público que, nos termos e para os efeitos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, é submetido a consulta pública o Projeto de Regulamento - atribuição de Bolsas de Mérito aos alunos da Escola Básica do 1.º Ciclo da Zebreira, para recolha de sugestões durante o prazo de 30 dias a contar da data da publicação do presente aviso no Diário da República.
+Durante este período poderão os interessados consultar o referido projeto regulamentar na página eletrónica da União de Freguesias de Zebreira e Segura, em uf-zebreiraesegura.pt ou, presencialmente, no Edifício da Junta de Freguesia, sito na Rua Professor António Martins Romão n.º 1, e formular as sugestões que entendam por convenientes, as quais deverão ser feitas por escrito com o assunto: “Projeto de Regulamento - Atribuição de Bolsas de Mérito aos alunos da Escola Básica do 1.º Ciclo da Zebreira”, dirigidas ao Presidente da União de Freguesias, e remetidas para o correio eletrónico: jfzebreira@hotmail.pt, via CTT ou entregues pessoalmente no serviço de expediente da União de Freguesias, durante o horário normal de funcionamento.
+6 de junho de 2024. - O Presidente da União de Freguesias, Paulo Sérgio Lameira Pinto.
+317989019
