@@ -1,0 +1,19 @@
+Resolução do Conselho de Ministros n.º 114/2024
+
+Sendo a pobreza menstrual uma das realidades que o XXIV Governo Constitucional pretende combater, nomeadamente entre os jovens, mas também como forma de prosseguir a igualdade de género, foi aprovada em Conselho de Ministros, de dia 23 de maio, a distribuição gratuita nas escolas e centros de saúde de produtos de higiene menstrual.
+Neste sentido, pretende o Governo garantir igualdade no acesso à saúde e a dignidade menstrual e, simultaneamente, aumentar a participação escolar e económica, na medida em que o acesso a produtos de higiene menstrual cria condições junto das populações economicamente mais frágeis para promover a frequência escolar e a participação em atividades económicas, perspetivando-se um aumento na produtividade escolar e no desenvolvimento económico a longo prazo.
+Neste sentido, prevê-se que a medida contribua para a melhoria da saúde menstrual da população, pois o acesso a produtos menstruais adequados ajuda a prevenir infeções e outras complicações de saúde e, deste modo, é apto a reduzir os custos de saúde que daí poderiam resultar.
+Atendendo à necessidade de garantir em tempo oportuno a adjudicação e celebração dos contratos de aquisição dos bens em causa, torna-se necessário autorizar a realização da correspondente despesa, mediante resolução do Conselho de Ministros.
+Os encargos orçamentais decorrentes da aquisição centralizada de produtos de higiene menstrual, a sua distribuição nas escolas e nas unidades de cuidados de saúde primários no continente e a entrega nas Regiões Autónomas, bem como os encargos com a comunicação da iniciativa, estimam-se em € 10 000 000, ao qual não acresce o imposto sobre o valor acrescentado.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os </sup>1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, na alínea a) do n.º 1 do artigo 20.º, no n.º 1 do artigo 36.º e no n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Direção-Geral da Saúde (DGS) a realizar a despesa relativa à aquisição e distribuição de produtos de higiene menstrual, para os anos de 2024 e 2025, até ao montante máximo global de € 10 000 000, ao qual não acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, com recurso ao procedimento de concurso público com publicação no Jornal Oficial da União Europeia.
+2 - Determinar que o encargo resultante da despesa referida no número anterior não pode exceder, em cada ano económico, os seguintes montantes, aos quais não acrescem o IVA, à taxa legal em vigor:
+a) 2024 - € 8 000 000;
+b) 2025 - € 2 000 000.
+3 - Estabelecer que o montante fixado no número anterior, para cada ano económico, pode ser acrescido do saldo que se apurar no ano que lhe antecede.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas inscritas e a inscrever no orçamento da DGS.
+5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da saúde a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 22 de agosto de 2024. - Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+118064794
