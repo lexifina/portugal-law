@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 116/2024
+
+O Programa do XXIV Governo Constitucional assume como compromisso o desenvolvimento de políticas especialmente dirigidas aos jovens. Em particular, prevê-se a necessidade de apostar na promoção da saúde mental, identificada como uma das maiores preocupações dos jovens portugueses.
+A saúde mental é de elevada importância para o sucesso académico dos estudantes. Acresce que a evidência científica corrobora que as idades onde se situa a maior parte destes estudantes revelam-se críticas a este nível. Com efeito, a procura por respostas de saúde e bem-estar tem vindo a aumentar, o que motiva a necessidade de criar respostas adicionais e adequadas que garantam qualidade de vida e sucesso académico dos jovens.
+Nesse sentido, o Conselho de Ministros, de 23 de maio de 2024, aprovou um conjunto de respostas de saúde e bem-estar para os jovens, com a introdução de cheques-psicólogos e cheques-nutricionistas para os estudantes do ensino superior, com vista à criação de uma resposta complementar àquela que é atualmente disponibilizada pelo Serviço Nacional de Saúde e garantindo um maior acesso por parte dos jovens a estes cuidados.
+Desta forma, importa aprovar a realização de despesa para a Direção-Geral do Ensino Superior, o qual deverá ser alocado a esta resposta, prevendo igualmente uma programação plurianual de despesa que garanta a previsibilidade da mesma e assegure a cabal execução do financiamento dos cheques-psicólogo e cheques-nutricionista, devidamente protocolados com as respetivas ordens profissionais.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, dos artigos 44.º e seguintes do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Direção-Geral do Ensino Superior (DGES) a realizar a despesa relativa ao pagamento dos profissionais de saúde que prestam serviço no âmbito da medida dos cheques-psicólogos e dos cheques-nutricionistas, protocolada entre o Ministério da Educação, Ciência e Inovação, o Ministério da Juventude e Modernização e as Ordens dos Psicólogos e Nutricionistas, para os anos de 2024 e 2025, até ao montante máximo global de € 7 875 000, isento do imposto sobre o valor acrescentado.
+2 - Estabelecer que os encargos financeiros resultantes dos encargos referidos no artigo anterior não podem exceder, em cada ano económico, os seguintes montantes:
+a) 2024 - € 2 250 000;
+b) 2025 - € 5 625 000.
+3 - Determinar que os valores fixados para cada ano económico podem ser acrescidos do saldo apurado no ano que lhe antecede.
+4 - Estabelecer que os encargos financeiros decorrentes da presente resolução são suportados pelas verbas adequadas inscritas ou a inscrever no orçamento da DGES.
+5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da juventude a competência para a prática de todos os atos subsequentes a realizar no âmbito previsto na presente resolução.
+6 - Determinar que a presente resolução entra em vigor no dia seguinte à sua publicação.
+Presidência do Conselho de Ministros, 22 de agosto de 2024. - Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+118064923
