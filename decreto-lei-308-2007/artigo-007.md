@@ -10,7 +10,7 @@ b) Nenhum dos jovens ou membros do agregado jovem ser proprietário ou arrendat�
 
 c) Nenhum dos jovens ou membros do agregado jovem ser parente ou afim do senhorio na linha reta ou linha colateral;
 
-d) O RM do jovem ou do agregado jovem não ser superior a quatro vezes o valor da renda máxima admitida;
+d) O RM do jovem ou do agregado jovem não ser superior a quatro vezes o valor da renda máxima de referência;
 
 e) A soma dos rendimentos brutos auferidos pelo jovem e por todos os membros do agregado jovem ser compatível com uma taxa de esforço máxima de 60 %;
 
@@ -18,9 +18,9 @@ f) Em qualquer caso, o RM do jovem ou do agregado, corrigido nos termos do n.º 
 
 2 - São, ainda, requisitos da candidatura:
 
-a) Ser titular de contrato de arrendamento registado no portal das finanças ou contrato-promessa de arrendamento, este último de acordo com o modelo aprovado por portaria;
+a) (Revogada.)
 
-b) Apresentar o contrato-promessa com a definição da futura renda, até ao valor da RMA na zona onde se localiza a habitação, nos termos a definir em portaria;
+b) (Revogada.)
 
 c) A tipologia da habitação ser adequada à composição do agregado jovem ou do número de jovens em coabitação, nos termos a definir em portaria.
 
@@ -36,6 +36,6 @@ b) Sempre a que a habitação arrendada ou a arrendar disponha de uma ou mais as
 
 6 - Nas áreas urbanas classificadas como históricas ou antigas nos termos legais ou regulamentares, nas áreas de reabilitação urbana e, ainda, nas áreas críticas de recuperação e reconversão urbanísticas, o critério da tipologia da habitação é combinado com a área da habitação, nos termos a definir em portaria.
 
-7 - No caso de apresentação de contrato-promessa de arrendamento, conforme previsto no n.º 2, o pagamento do primeiro mês de subvenção fica condicionado ao registo no portal das finanças do contrato de arrendamento, no prazo de 15 dias corridos a contar da data da publicação dos resultados da candidatura, sob pena de exclusão.
+7 - No caso de atribuição de apoio financeiro, o pagamento do mesmo fica condicionado ao registo no portal das finanças do contrato de arrendamento no prazo de dois meses após a data da publicação dos resultados da candidatura, sob pena de exclusão.
 
 8 - O beneficiário do apoio deve cumprir os requisitos a que se referem as alíneas a) e b) do n.º 1 durante todo o período em que recebe a subvenção, devendo comunicar ao IHRU, I. P., qualquer alteração.

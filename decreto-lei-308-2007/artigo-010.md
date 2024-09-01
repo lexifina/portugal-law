@@ -2,7 +2,7 @@
 
 ### Aprovação das candidaturas
 
-1 - As candidaturas formalizadas estão sujeitas a aprovação pelo IHRU, I. P., de acordo com a ordem de entrada, até ao limite das verbas fixadas anualmente.
+1 - As candidaturas formalizadas estão sujeitas a aprovação pelo IHRU, I. P., de acordo com os critérios definidos no artigo 7.º da Portaria n.º 277-A/2010, de 21 de maio, na sua redação atual, até ao limite da dotação orçamental anual.
 
 2 - (Revogado.)
 
