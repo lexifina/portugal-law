@@ -1,0 +1,37 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eHNElB5sAbInrUM%2b1CK3%2bZZa4TA9qAQPFf3pu38QAyPkvnwic8govNMKXbQNlbs2hEipvp7d%2bJTZ%2fEXuaVMsqH8PlGbuSUTPJBr%2boVxdG6Kf2Zpi44%2ba27Oq89l7REdmP%2bBA3defOQ893NSOao0aChocF4k45AVxJ78%2btG0ohXUXuO4Y%2bZIZFToQ4LzcKH05JzQXytw36hhukfq%2bltX9tVH%2fVlxInE1L3MbA9QHVtWzJy2E50PzKMqJf9sR0coFCykSRfPL2oeoHIUYESHnHo%2fHCYD%2fRDx4nh7oswP9bNvADk1%2fZBmrNYYAnk5%2biW00Uj9L%2fJC8v1jUaGVk112b6gEmaJhYEl%2f9y1W4PzI%2bLZx6dSRM%2fC%2fObwkktGczrUJ2rprAZUQsqTvRFDaVKMu3Qf9t%2figaPEsyan6ofqGlcTcU%3d&fich=RequerimentosXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "910d45d7aabe22385422e83c29132f9174a497a7d21d709f9bd70bcef3f9c95f",
+  "legislatura": "XVI",
+  "pergunta": {
+    "id": "156107",
+    "tipo": "Requerimento",
+    "numero": "249",
+    "assunto": "A execução da descentralização na Educação ",
+    "ficheiro_registo": "requerimento-249-156107.json"
+  },
+  "destinatario": "Câmara Municipal de Seixal",
+  "data_registo": "2024-09-04",
+  "data_registo_base": "record date = the answer day (Destinatarios[].respostas[].dataResposta) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "dataResposta": "2024-09-04",
+    "docRemetida": null,
+    "entidade": "Câmara Municipal de Seixal",
+    "ficheiro": "",
+    "ficheiroComTipo": [
+      {
+        "tipo": "Anexo",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a417a4d6a55344d6d4d324c5755785a5455744e4755795a6930354d5759354c57517a596a466c5a44637a4e445a6b5a6935775a47593d&fich=032582c6-e1e5-4e2f-91f9-d3b1ed7346df.pdf&Inline=true"
+      },
+      {
+        "tipo": "Anexo",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a6377596d457a4d5455324c5451335a546b744e474d30595330354d6d4a6c4c544a6c4e4441354d6a6868597a5179595335775a47593d&fich=70ba3156-47e9-4c4a-92be-2e40928ac42a.pdf&Inline=true"
+      },
+      {
+        "tipo": "Resposta",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c3245775a444d784d4463324c57466a5a6a45744e4445775a4330354e7a64694c544d335a6a6c6a5a474933595455785a5335775a47593d&fich=a0d31076-acf1-410d-977b-37f9cdb7a51e.pdf&Inline=true"
+      }
+    ],
+    "publicacao": null
+  }
+}
