@@ -1,0 +1,5 @@
+Aviso n.º 19875/2024/2
+
+José Carlos Martins Rolo, Presidente da Câmara Municipal de Albufeira, faz saber que, em cumprimento do disposto no n.º 1 do artigo 98.º do Código do Procedimento Administrativo, a Câmara Municipal de Albufeira deliberou, em reunião de 2 de abril de 2024, dar início ao procedimento de elaboração do Regulamento Municipal de Transportes de Índole Turística em Veículos Motociclos, Triciclos, Quadriciclos ou Ciclomotores. Mais faz saber que os interessados, em apresentar contributos para a elaboração do supra referido regulamento, devem como tal constituir-se, manifestando essa intenção enviando, no prazo de 10 dias úteis contados sobre a publicação do presente aviso, por correio eletrónico, para o endereço: regulamento.tuktuk@cm-albufeira.pt, por correio normal ou mediante documento entregue nos Serviços de Atendimento Geral, do Município de Albufeira. Mais faz-se saber que, no documento entregue/enviado, devem juntar cópia do documento de identificação.
+23 de agosto de 2024. - O Presidente da Câmara Municipal de Albufeira, José Carlos Martins Rolo.
+318050067
