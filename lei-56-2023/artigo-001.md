@@ -24,7 +24,7 @@ f) À aprovação de várias medidas fiscais de incentivo e apoio ao arrendament
 
 g) Ao incentivo à transferência de apartamentos em alojamento local para o arrendamento habitacional;
 
-h) À criação de uma contribuição extraordinária sobre apartamentos e estabelecimentos de hospedagem integrados numa fração autónoma de edifício em alojamento local;
+h) [Revogada.]
 
 i) À revogação das autorizações de residência para atividade de investimento imobiliário;
 
