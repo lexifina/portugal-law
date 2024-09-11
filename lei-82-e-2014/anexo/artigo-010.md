@@ -82,9 +82,9 @@ c) O sujeito passivo manifeste a intenção de proceder ao reinvestimento, ainda
 
 d) (Revogada.)
 
-e) O imóvel transmitido tenha sido destinado a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, comprovada através do respetivo domicílio fiscal, nos 24 meses anteriores à data da transmissão;
+e) O imóvel transmitido tenha sido destinado a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, comprovada através do respetivo domicílio fiscal, nos 12 meses anteriores à data da transmissão, ou, quando anterior, à data do reinvestimento previsto na alínea a), salvo se a inobservância deste período se tenha devido a circunstâncias excecionais, nos termos do n.º 23;
 
-f) Os sujeitos passivos não tenham beneficiado, no ano da obtenção dos ganhos e nos três anos anteriores, do presente regime de exclusão, sem prejuízo da comprovação pelo sujeito passivo, efetuada em procedimento de liquidação, de que a não observância da presente condição se deveu a circunstâncias excecionais.
+f) (Revogada.)
 
 6 - Não haverá lugar ao benefício referido no número anterior quando:
 
@@ -155,3 +155,5 @@ b) A exigência dos elementos de prova previstos nos n.os 5 e 6 do artigo 78.º 
 21 - O disposto nos n.os 19 e 20 não se aplica aos rendimentos auferidos por sujeitos passivos ou devidos por qualquer pessoa ou entidade quando uns ou outros não forem residentes para efeitos fiscais noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu ou noutro Estado ou jurisdição com o qual esteja em vigor convenção para evitar a dupla tributação internacional, acordo bilateral ou multilateral que preveja a troca de informações para fins fiscais.
 
 22 - Para efeitos do disposto na alínea k) do n.º 1, a perda da qualidade de residente em território português é equiparada a uma alienação onerosa.
+
+23 - Para efeitos da alínea e) do n.º 5 consideram-se circunstâncias excecionais, nomeadamente, as alterações da composição do respetivo agregado familiar por motivo de casamento ou união de facto, dissolução do casamento ou união de facto, ou aumento do número de dependentes.
