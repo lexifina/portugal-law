@@ -14,7 +14,7 @@ a) Pelo Instituto Diplomático, um membro efetivo de entre trabalhadores do Mini
 
 b) Pela Secretaria-Geral do Ministério dos Negócios Estrangeiros, um membro efetivo e um membro suplente, de entre trabalhadores do Ministério dos Negócios Estrangeiros, com comprovada habilitação e experiência em funções similares no estrangeiro.
 
-5 - Os membros efetivo e suplente da comissão de seleção e avaliação indicados pelo Ministério das Finanças são designados pela Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas (INA) de entre os seus trabalhadores.
+5 - Os membros efetivo e suplente da comissão de seleção e avaliação indicados pelo Ministério das Finanças são designados pela Direção-Geral da Administração e do Emprego Público (DGAEP) de entre os seus trabalhadores.
 
 6 - Compete às comissões de seleção e avaliação:
 

@@ -2,7 +2,7 @@
 
 ### Informação sobre o estágio
 
-Compete ao Ministério dos Negócios Estrangeiros registar no sítio do PEPAC-MNE, em área apenas acessível ao INA e ao MNE, todos os dados relevantes para o acompanhamento e avaliação dos estágios, nomeadamente:
+Compete ao MNE registar no sítio do Programa, em área apenas acessível ao MNE e à DGAEP, todos os dados relevantes para o acompanhamento e avaliação dos estágios, nomeadamente:
 
 a) Data de início dos estágios;
 

@@ -14,11 +14,13 @@ b) Subsídio de refeição, no valor correspondente ao praticado para a generali
 
 4 - Aos estagiários são ainda concedidos os seguintes apoios:
 
-a) Seguro que cubra os riscos de eventualidades que possam ocorrer e por causa das atividades correspondentes ao estágio profissional, bem como nas deslocações entre a residência e o local de estágio;
+a) Seguro de saúde, quando colocados fora da UE, que cubra a totalidade do tempo de permanência em posto, deslocações entre a residência e o local de estágio e as atividades correspondentes ao estágio profissional;
 
-b) Viagem de ida e volta entre Portugal e o local onde se realiza o estágio;
+b) Viagem de ida e volta entre Portugal e o país de destino, por via aérea e/ou outro transporte público em classe económica;
 
 c) Consulta de medicina para viajantes e vacinas.
+
+d) Emissão e concessão de passaporte especial, nos casos admitidos por lei, quando necessário para assegurar a entrada e permanência no país de colocação.
 
 5 - A bolsa de estágio e o subsídio de refeição não são devidos em caso de:
 

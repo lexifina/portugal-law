@@ -16,7 +16,7 @@ c) Competência linguística: 20%.
 
 4 - Na experiência profissional são avaliados os seguintes elementos:
 
-a) Experiência de estágio ou voluntariado no Ministério dos Negócios Estrangeiros ou organização internacional;
+a) Experiência de estágio no Ministério dos Negócios Estrangeiros ou voluntariado/estágio em organização internacional;
 
 b) Experiência de trabalho no estrangeiro;
 
@@ -24,7 +24,7 @@ c) Outra experiência laboral ou de voluntariado.
 
 5 - Na competência linguística é avaliado o domínio das línguas portuguesa e inglesa, bem como de outras línguas estrangeiras.
 
-6 - A ordenação dos candidatos na lista a que se refere o n.º 2 do artigo 11.º e que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:
+6 - A ordenação dos candidatos na lista a que se refere o artigo 11.º e que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial é efetuada de forma decrescente:
 
 a) Em função da titularidade de grau académico mais elevado;
 
