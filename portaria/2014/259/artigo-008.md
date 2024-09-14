@@ -2,7 +2,7 @@
 
 ### Entrevista de seleção
 
-1 - A entrevista de seleção tem a ponderação de 40% da valoração final e visa avaliar, de forma objetiva e sistemática, a experiência profissional, a competência linguística e aspetos comportamentais do candidato, nomeadamente, a capacidade de comunicação e de relacionamento interpessoal.
+1 - A entrevista de seleção tem a ponderação de 40 % da valoração final e visa avaliar, de forma objetiva e sistemática, a experiência profissional, a fluência linguística oral em língua portuguesa e aspetos comportamentais do candidato, nomeadamente, a capacidade de comunicação e de relacionamento interpessoal.
 
 2 - As entrevistas de seleção são conduzidas por uma comissão de seleção e avaliação, designada para cada uma das áreas de estágio, nos termos do artigo 15.º.
 
@@ -16,6 +16,6 @@ b) Demonstração de apetência pela vida em missão e experiência em ambientes
 
 c) Apresentação e clareza na exposição oral.
 
-5 - No contexto da entrevista, são ainda aferidas as competências nas línguas em que o candidato alegou fluência.
+5 - (Revogado.)
 
 6 - A entrevista de seleção ocorre presencialmente, sem possibilidade de ser substituída por recurso a meios de comunicação à distância.
