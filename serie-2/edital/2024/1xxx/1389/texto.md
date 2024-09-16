@@ -1,0 +1,8 @@
+Edital n.º 1389/2024
+
+Projeto de Regulamento sobre Programas de Pós-Doutoramento da Faculdade de Medicina da Universidade de Lisboa
+João Eurico Cortez Cabral da Fonseca, Diretor da Faculdade de Medicina da Universidade de Lisboa (FMUL), torna público o Projeto de Regulamento sobre Programas de Pós-Doutoramento da Faculdade de Medicina da Universidade de Lisboa, resultante da necessidade de regulamentar esta matéria nesta escola, após a aprovação da referida proposta pelo Conselho Científico da FMUL na sua reunião de 19.12.2023, submetendo-se a mesma, nos termos do artigo 101.º do Código do Procedimento Administrativo (CPA) e do n.º 3 do artigo 110.º do Regime Jurídico das Instituições de Ensino Superior (RJIES), a consulta pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente edital no Diário da República.
+O Projeto de Regulamento sobre Programas de Pós-Doutoramento da Faculdade de Medicina da Universidade de Lisboa pode ser consultado no sítio institucional da Escola, em www.medicina.ulisboa.pt. Durante o período de consulta pública podem os interessados formular sugestões dirigidas ao Diretor da Faculdade de Medicina da Universidade de Lisboa, as quais podem ser remetidas por correio eletrónico para o seguinte endereço: avancada@medicina.ulisboa.pt.
+O presente aviso é publicado no Diário da República e na página da internet da Faculdade de Medicina da Universidade de Lisboa.
+12 de abril de 2024. - O Diretor da Faculdade de Medicina da Universidade de Lisboa, João Eurico Cortez Cabral da Fonseca.
+318102847
