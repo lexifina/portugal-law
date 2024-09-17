@@ -1,0 +1,197 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "264",
+  "id": "284083",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-09-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d54597a596d45325a6a4d744f544130596930304e6a41784c5749784f574d74596d4e684e4445304d54566c5a6d49794c6e426b5a673d3d&fich=163ba6f3-904b-4601-b19c-bca41415efb2.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a47466b4f474931596a63744d325a6a59693030596d45774c574a68596a41745a57466a4f44646a5a54677859574d334c6d52765933673d&fich=dad8b5b7-3fcb-4ba0-bab0-eac87ce81ac7.docx&Inline=true",
+        "anexoNome": "Texto - versão 1"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "2051",
+        "nome": "Pedro Nuno Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6543",
+        "nome": "Alexandra Leitão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4452",
+        "nome": "Isabel Alves Moreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6706",
+        "nome": "Miguel Matos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2445",
+        "nome": "Tiago Barbosa Ribeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4405",
+        "nome": "João Torres"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6870",
+        "nome": "Marina Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6934",
+        "nome": "Mariana Vieira da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8559",
+        "nome": "Isabel Ferreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5677",
+        "nome": "Luís Graça"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6893",
+        "nome": "Maria Begonha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6013",
+        "nome": "Hugo Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7018",
+        "nome": "Mara Lagriminha Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4209",
+        "nome": "Elza Pais"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7888",
+        "nome": "António Mendonça Mendes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6371",
+        "nome": "Patrícia Faro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7034",
+        "nome": "Raquel Ferreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5832",
+        "nome": "Ana Sofia Antunes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8230",
+        "nome": "André Rijo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8888",
+        "nome": "Pedro Vaz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7334",
+        "nome": "Ana Abrunhosa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1600",
+        "nome": "Jamila Madeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6962",
+        "nome": "Susana Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7494",
+        "nome": "Irene Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2098",
+        "nome": "Manuel Pizarro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7350",
+        "nome": "Fátima Correia Pinto"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "284083",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a46695a446b344d5745744e4451775a5330304f545a694c574a6b4d6a51744e6d59784d444935596a52684d5467334c6d52765933673d&fich=b1bd981a-440e-496b-bd24-6f1029b4a187.docx&Inline=true",
+    "IniNr": "264",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do título e texto da iniciativa a pedido do autor em 2024-09-19.",
+    "IniTipo": "J",
+    "IniTitulo": "Procede à 3.ª Alteração à Lei n.º 16/2007, de 17 de abril alterando alguns dos requisitos para a realização da interrupção voluntária da gravidez não punível e densificando o regime de exercício do direito individual de objeção de consciência",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
