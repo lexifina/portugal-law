@@ -1,0 +1,8 @@
+Aviso n.º 20744/2024/2
+
+Abertura do período de consulta pública do projeto de "Regulamento que estabelece as regras gerais de formação dos preços no serviço público de transporte de passageiros em táxi"
+Ana Paula Mendes Vitorino, Presidente do Conselho de Administração da Autoridade da Mobilidade e dos Transportes (AMT), torna público, nos termos do disposto nas alíneas a), c), e), f), m), n) do n.º 1 do artigo 5.º, das alíneas a) e c) do n.º 2 e a) do n.º 4 do artigo 34.º dos Estatutos da AMT, aprovados em anexo ao Decreto-Lei n.º 78/2014, de 14 de maio, e do artigo 20.º do Decreto-Lei n.º 101/2023, de 31 de outubro, que aprova o regime jurídico do serviço público de transporte de passageiros em táxis, que é submetido a consulta pública o supra referenciado projeto de Regulamento, nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+Mais torna público que aquele projeto e respetiva fundamentação se encontram em consulta pública pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República, na página eletrónica da AMT, em www.amt-autoridade.pt.
+As eventuais observações ou sugestões deverão ser, preferencialmente, formuladas por escrito até ao final do mencionado período, através do endereço de correio eletrónico: dr@amt-autoridade.pt ou, em caso de impossibilidade, através de requerimento dirigido à Presidente do Conselho de Administração da AMT, Avenida António Augusto de Aguiar, 128, 1050-020 Lisboa.
+12 de setembro de 2024. - A Presidente do Conselho de Administração, Ana Paula Vitorino.
+318112794
