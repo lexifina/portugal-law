@@ -1,0 +1,202 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "266",
+    "id": "284086",
+    "titulo": "Altera a lei-quadro do estatuto de utilidade pública, aprovada pela Lei n.º 36/2021, de 14 de Junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos "
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-09-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75770",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-09-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-10-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação de não emissão de parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e474d7a4d32457a5a43307a4e324d7a4c5451304d7a597459546c6d595331684f44646d4f545530597a6c6d4e5441756347526d&fich=c4c33a3d-37c3-4436-a9fa-a87f954c9f50.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e7a426a4d6a45344e4330794e6a6b794c5452684d6a59744f4756684d5330335a574a6a4f4751314d6a56684d6d4d756347526d&fich=d70c2184-2692-4a26-8ea1-7ebc8d525a2c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5932526c596a63784e793034595749784c5451784d7a4d74595749784d43307759574e695a6a4532597a59774e4451756347526d&fich=ccdeb717-8ab1-4133-ab10-0acbf16c6044.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-09-26",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Tribunal de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d6a426b4f4755314e5330335a545a684c545133597a6774596a5535596930315a4455334e6a59344e6a67314d4755756347526d&fich=120d8e55-7e6a-47c8-b59b-5d576686850e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793968597a6c6d593255344f5331684e54566a4c5451304d444974596a5a6c5a6930325a6a457a5954526a5a57466a4d7a45756347526d&fich=ac9fce89-a55c-4402-b6ef-6f13a4ceac31.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-01",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação de não emissão de Parecer -  Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784f544e684d7a63335a693035596a63784c5452695a6a49744f4463774f5331684d4755774f5455354e444a6b4d4749756347526d&fich=193a377f-9b71-4bf2-8709-a0e095942d0b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8393",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8393",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-10-01"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2024-10-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-10-04"
+          },
+          {
+            "link": "",
+            "nome": "Tribunal de Contas      em 2024-09-26"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-09-25"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2024-09-25"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-09-25"
+          },
+          {
+            "link": "",
+            "nome": "Tribunal de Contas      em 2024-09-25"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2024-10-23",
+            "dataRemessa": "2024-10-23",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PAN"
+            ],
+            "data": "2024-10-23",
+            "descricao": null,
+            "detalhe": "Ausência: <I>PAN</I>",
+            "id": "127337",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "39",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-09-19",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão à 12.ª",
+    "OevId": "1538016",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1019316",
+        "obs": null,
+        "pag": [
+          "4-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-23",
+        "pubLeg": "XVI",
+        "pubNr": "119",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/119/2024-10-23/4?pgs=4-7&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
