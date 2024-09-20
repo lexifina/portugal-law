@@ -1,0 +1,246 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "264",
+    "id": "284083",
+    "titulo": "Procede à 3.ª Alteração à Lei n.º 16/2007, de 17 de abril alterando alguns dos requisitos para a realização da interrupção voluntária da gravidez não punível e densificando o regime de exercício do direito individual de objeção de consciência"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-09-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75774",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-09-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-10-30",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793831597a45344d7a4d784f533032595463344c5451314d32557459544a694d53316d5a5449345a444e6c597a6b7a5a6a41756347526d&fich=5c183319-6a78-453e-a2b1-fe28d3ec93f0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-30",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e6a5177597a59334e4330784d546b334c54526c4e6a5574596a466a4e793168596a51794d44466a4d5441315a4449756347526d&fich=0640c674-1197-4e65-b1c7-ab4201c105d2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-02",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a474d345a6d4a6a5a6930304e7a51324c5451304d6a6b744f5745784e693169597a4a6c5a4749784d544d304e474d756347526d&fich=0dc8fbcf-4746-4429-9a16-bc2edb11344c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a4445774e474a695a53307a4f4451354c54517a4d4749744f544e684d533169596a4a695a6a49324e5455314d6a49756347526d&fich=5d104bbe-3849-430b-93a1-bb2bf2655522.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-21",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5932557a4d7a6b344e5331684e57466a4c54526b593245744f5759304d433078596a417a5a474a685a6a5535596a6b756347526d&fich=dce33985-a5ac-4dca-9f40-1b03dbaf59b9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-21",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - CNECV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a474d7759544e6c4f5330304e7a4d324c5452694d6a49744f574e6a4e4330344e44557a5a57566b5a57457a597a67756347526d&fich=edc0a3e9-4736-4b22-9cc4-8453eedea3c8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-24",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d5749335a5463324e69316a5a44426a4c5451784d574974596a6b775a43316d5a6a4d314d546b324e6d49334e4459756347526d&fich=a1b7e766-cd0c-411b-b90d-ff351966b746.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - APMJ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334e325669595451785979316d5a4463354c5452685a6d45744f4755354e5330324e574e6d5a6a51324f44526d4d7a45756347526d&fich=77eba41c-fd79-4afa-8e95-65cff4684f31.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8393",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8393",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-10-02"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2024-10-24"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-10-07"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Médicos em 2024-10-21"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Ética para as Ciências da Vida em 2024-10-22"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-09-25"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2024-09-25"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-09-25"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Médicos em 2024-09-25"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Ética para as Ciências da Vida em 2024-09-25"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+            "pag": [
+              "3-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-30",
+            "pubLeg": "XVI",
+            "pubNr": "124",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/124/2024-10-30/3?pgs=3-7&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+            "pag": [
+              "3-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-30",
+            "pubLeg": "XVI",
+            "pubNr": "124",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/124/2024-10-30/3?pgs=3-7&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "6547",
+            "motivoCessacao": null,
+            "nome": "Cristina Rodrigues"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2024-10-30",
+            "dataRemessa": "2024-10-30",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "IL",
+              "L",
+              "PCP",
+              "PAN"
+            ],
+            "data": "2024-10-30",
+            "descricao": null,
+            "detalhe": "Ausência: <I>IL</I>, <I> PCP</I>, <I> L</I>, <I> PAN</I>",
+            "id": "127400",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "41",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-09-20",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 9.ª Comissão",
+    "OevId": "1538171",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
