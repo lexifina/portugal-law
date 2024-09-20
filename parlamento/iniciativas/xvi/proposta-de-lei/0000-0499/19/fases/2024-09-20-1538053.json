@@ -1,0 +1,690 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "19",
+    "id": "284017",
+    "titulo": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2024-09-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "30145",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2024-09-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-09-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/31"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra do Trabalho, Solidariedade e Segurança Social",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria do Rosário Palma Ramalho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380600",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/32"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380626",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/34"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8017",
+                "nome": "Felicidade Vital"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/37"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7973",
+                "nome": "Mariana Leitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/38"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4147",
+                "nome": "Carla Barros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/39"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5841",
+                "nome": "Miguel Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8269",
+                "nome": "Armando Grave"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:01",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/39/42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra do Trabalho, Solidariedade e Segurança Social",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria do Rosário Palma Ramalho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-21",
+                "pubLeg": "XVI",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Procede à interpretação autêntica do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1538053",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "37307",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "27-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-09-21",
+        "pubLeg": "XVI",
+        "pubNr": "39",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/039/2024-09-21/27?pgs=27-37&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
