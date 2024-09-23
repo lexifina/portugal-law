@@ -1,0 +1,9 @@
+Declaração de Retificação n.º 36/2024/1
+
+Ao abrigo do disposto na alínea f) do n.º 1 do artigo 5.º do Decreto-Lei n.º 20/2021, de 15 de março, conjugado com o disposto no n.º 1 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 16/2022, de 30 de dezembro, e no artigo 5.º da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho, declara-se que a Resolução do Conselho de Ministros n.º 103-C/2024, de 16 de agosto, publicada no Diário da República, 1.ª série, n.º 158, de 16 de agosto de 2024, saiu com a seguinte inexatidão, que, mediante declaração da entidade emitente, assim se retifica:
+No proémio do n.º 1, onde se lê:
+"1 - Autorizar a Direção-Geral dos Estabelecimentos Escolares (DGEstE) a realizar a despesa com a aquisição de serviços de conectividade, durante os meses de outubro a dezembro de 2024 e os meses de janeiro a junho de 2025, correspondentes ao ano letivo de 2024/2025, até ao montante máximo de € 31 526 033,40, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, por recurso ao procedimento pré-contratual de concurso publico, com publicação de anúncio no Jornal Oficial da União Europeia, para disponibilização:"
+deve ler-se:
+"1 - Autorizar a Direção-Geral dos Estabelecimentos Escolares (DGEstE) a realizar a despesa com a aquisição de serviços de conectividade, durante os meses de outubro a dezembro de 2024 e os meses de janeiro a junho de 2025, correspondentes ao ano letivo de 2024/2025, até ao montante máximo de € 31 526 033,40, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, para disponibilização:"
+Secretaria-Geral, 20 de setembro de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+118143655
