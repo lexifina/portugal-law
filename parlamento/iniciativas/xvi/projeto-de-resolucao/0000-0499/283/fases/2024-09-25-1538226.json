@@ -1,0 +1,1499 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "283",
+    "id": "284060",
+    "titulo": "Pelo aumento da capacidade da oferta pública de creches"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2024-09-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "30172",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2024-09-25",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263801",
+        "leg": "XVI",
+        "nr": "161",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação de uma rede pública de creches"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263813",
+        "leg": "XVI",
+        "nr": "169",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro)"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "284049",
+        "leg": "XVI",
+        "nr": "250",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "283977",
+        "leg": "XVI",
+        "nr": "237",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36572",
+            "obs": null,
+            "pag": [
+              "77-95"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores  "
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-09-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380915",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380916",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380917",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/80?pgs=80&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8017",
+                "nome": "Felicidade Vital"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380918",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/84?pgs=84&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/85?pgs=85&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5749",
+                "nome": "Sandra Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-86"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/85?pgs=85-86&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "86-87"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/86?pgs=86-87&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/87?pgs=87-88&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/94"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/89?pgs=89&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/89?pgs=89&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7018",
+                "nome": "Mara Lagriminha Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/89?pgs=89-91&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5749",
+                "nome": "Sandra Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/98"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "91-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/91?pgs=91&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7018",
+                "nome": "Mara Lagriminha Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/99"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380931",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "92-92"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/92?pgs=92&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5749",
+                "nome": "Sandra Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/100"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "92-92"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/92?pgs=92&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7330",
+                "nome": "Jorge Galveias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/101"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380933",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "92-94"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/92?pgs=92-94&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/102"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380934",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "94-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/94?pgs=94-95&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma rede pública de creches; Cria o programa rede pública de creches (altera a Lei n.º 2/2022, de 3 de janeiro); Estabelece o dever de o Governo proceder ao levantamento e divulgação anual e atempada dos dados referentes a creches e a amas do Instituto de Segurança Social; Recomenda ao Governo que altere as regras de inscrição nas creches aderentes ao programa “Creche Feliz” dando prioridade a crianças com pais trabalhadores; Pelo aumento da capacidade da oferta pública de creches.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1538226",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1019314",
+        "obs": null,
+        "pag": [
+          "77-95"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-09-26",
+        "pubLeg": "XVI",
+        "pubNr": "40",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/77?pgs=77-95&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
