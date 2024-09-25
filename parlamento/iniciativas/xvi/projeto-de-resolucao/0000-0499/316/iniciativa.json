@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Resolução",
+  "numero": "316",
+  "id": "294111",
+  "fases": 9,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-09-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a5134596a4130595467744f474d324d5330304e546b354c546b354d3259744d4749354f57593159544e684d325a6a4c6d52765933673d&fich=c48b04a8-8c61-4599-993f-0b99f5a3a3fc.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa – versão 1"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "4365",
+        "nome": "Manuela Tender"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8613",
+        "nome": "Maria José Aguiar"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8353",
+        "nome": "José Carvalho"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8414",
+        "nome": "Luísa Areosa"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CH"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "294111",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e574a6d4f4755304f57597459544e6c4e4330304e6d46684c57457a5a5449744d4445314e57526b59575a6c4e4463354c6d52765933673d&fich=5bf8e49f-a3e4-46aa-a3e2-0155ddafe479.docx&Inline=true",
+    "IniNr": "316",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto a pedido do autor em 2024-12-12.",
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao governo que reponha a justiça e equidade na Carreira Docente",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Por um regime específico de aposentação justo e adequado às especificidades da profissão docente",
+        "dcl": null,
+        "descTipo": null,
+        "id": "34037",
+        "legislatura": "XVI",
+        "numero": "6",
+        "sessao": "1",
+        "tipo": null
+      },
+      {
+        "assunto": "Pela Equidade no Reposicionamento Docente e Correção de Ultrapassagens",
+        "dcl": null,
+        "descTipo": null,
+        "id": "34150",
+        "legislatura": "XVI",
+        "numero": "105",
+        "sessao": "1",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
