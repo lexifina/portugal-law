@@ -1,0 +1,1880 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "206",
+    "id": "273917",
+    "titulo": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2024-09-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "30157",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2024-09-25",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "284067",
+        "leg": "XVI",
+        "nr": "259",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade "
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "273918",
+        "leg": "XVI",
+        "nr": "207",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida\n"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "284048",
+        "leg": "XVI",
+        "nr": "277",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "284058",
+        "leg": "XVI",
+        "nr": "281",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País "
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "284070",
+        "leg": "XVI",
+        "nr": "288",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Desbloquear o acesso à procriação medicamente assistida"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "284072",
+        "leg": "XVI",
+        "nr": "290",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "284074",
+        "leg": "XVI",
+        "nr": "291",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36571",
+            "obs": null,
+            "pag": [
+              "41-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-09-26",
+            "pubLeg": "XVI",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-09-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8374",
+                "nome": "Miguel Guimarães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380901",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8591",
+                "nome": "João Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380902",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8374",
+                "nome": "Miguel Guimarães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380903",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8856",
+                "nome": "Diva Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380904",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/43?pgs=43&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380905",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380906",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "8642",
+                "nome": "Marisa Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380907",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380908",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380909",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4209",
+                "nome": "Elza Pais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380913",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7796",
+                "nome": "Francisco Sousa Vieira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/40/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "380914",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-26",
+                "pubLeg": "XVI",
+                "pubNr": "40",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do Conselho Nacional de Procriação Medicamente Assistida e altera a Lei n.º 32/2006, de 26 de julho; Recomenda ao Governo o reforço da acessibilidade das pessoas com diagnóstico de infertilidade às técnicas de procriação medicamente assistida; Assegura que a procriação medicamente assistida é comparticipada pelo SNS até aos 49 anos de idade; Recomenda ao Governo a criação de um Plano Nacional de Apoio à Fertilidade; Pelo aumento da idade máxima de acesso para o início de procedimentos de técnicas de procriação medicamente assistida no SNS e criação de um Centro Público de Procriação Medicamente Assistida na zona Sul do País; Desbloquear o acesso à procriação medicamente assistida; Recomenda ao Governo que proceda à conclusão do processo de regulamentação das disposições legais que permitem o acesso à gestação de substituição; Reforço da resposta dos Centros Públicos de Procriação Medicamente Assistida.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1538211",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1019288",
+        "obs": null,
+        "pag": [
+          "41-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-09-26",
+        "pubLeg": "XVI",
+        "pubNr": "40",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/040/2024-09-26/41?pgs=41-52&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
