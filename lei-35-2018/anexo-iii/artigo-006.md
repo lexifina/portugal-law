@@ -8,7 +8,7 @@
 
 1 - No cômputo dos direitos de voto do acionista na CSD é aplicável o disposto nos artigos 20.º, 20.º-A e 21.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, com as devidas adaptações.
 
-2 - No cômputo das participações qualificadas, na aceção do n.º 2 do artigo 7.º do presente regime, e de controlo, tal como definida no ponto 21 do n.º 1 do artigo 2.º do Regulamento (UE) n.º 909/2014, na CSD não são considerados:
+2 - No cômputo das participações qualificadas e de controlo da CSD, na aceção dos pontos 21 e 49 do n.º 1 do artigo 2.º do Regulamento (UE) n.º 909/2014, na sua redação atual, não são considerados:
 
 a) Os direitos de voto detidos em resultado da tomada firme ou da colocação com garantia de instrumentos financeiros, desde que os direitos de voto não sejam exercidos ou de outra forma utilizados para intervir na gestão da sociedade e sejam cedidos no prazo de um ano a contar da aquisição;
 
@@ -20,6 +20,6 @@ d) As participações detidas por entidades de custódia, atuando nessa qualidad
 
 3 - Para efeitos das alíneas b) e c) do número anterior, aplica-se o disposto no artigo 16.º-A e no artigo 18.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, na sua redação atual.
 
-4 - Para efeitos do n.º 8 do artigo 27.º do Regulamento (UE) n.º 909/2014, a CMVM estabelece por regulamento os elementos exigíveis para a avaliação da adequação do adquirente potencial e da solidez financeira do projeto de aquisição.
+4 - (Revogado.)
 
-5 - Para efeitos da apreciação prevista no número anterior, a CMVM solicita o parecer do Banco de Portugal ou da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), consoante aplicável, caso o proposto adquirente esteja sujeito à supervisão de alguma dessas autoridades.
+5 - Para efeitos da avaliação da adequação do adquirente potencial e da solidez financeira do projeto de aquisição, a CMVM solicita o parecer do Banco de Portugal ou da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), consoante aplicável, caso o proposto adquirente esteja sujeito à supervisão de alguma dessas autoridades.
