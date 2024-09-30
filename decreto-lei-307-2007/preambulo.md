@@ -1,5 +1,3 @@
-Decreto-Lei n.º 307/2007
-
 de 31 de Agosto
 
 O regime jurídico das farmácias de oficina, definido no presente decreto-lei, estabelece um quadro global e de enquadramento do sector.

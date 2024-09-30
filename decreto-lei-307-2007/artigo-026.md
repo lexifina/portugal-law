@@ -16,7 +16,7 @@ d) Sejam observadas as condições de funcionamento das farmácias.
 
 3 - As distâncias a que se referem as alíneas a) e b) do número anterior são contadas, em linha reta, a partir dos limites exteriores das farmácias, devendo a medição aferir-se entre os dois pontos mais próximos das farmácias, considerados os seus limites exteriores, e não das respetivas entradas.
 
-4 - O disposto na alínea a) do n.º 2 não é aplicável quando a farmácia, nos últimos três anos imediatamente anteriores à data de submissão do pedido de transferência, se encontre ao abrigo do regime excecional de funcionamento, previsto no artigo 57.º-A.
+4 - O disposto na alínea a) do n.º 2 não é aplicável quando a farmácia, nos últimos três anos imediatamente anteriores à data de submissão do pedido de transferência, se encontre ao abrigo do regime excecional de funcionamento, previsto no artigo 57.º-A, ou quando a localização de destino se insira num raio de 750 metros da localização atual da farmácia.
 
 5 - O parecer, a que se refere a alínea c) do n.º 2, requerido pela proprietária da farmácia, tem em consideração os seguintes pressupostos:
 
