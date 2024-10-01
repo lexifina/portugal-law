@@ -1,0 +1,172 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "23",
+    "id": "294134",
+    "titulo": "Aprova a criação da Unidade Nacional de Estrangeiros e Fronteiras na Polícia de Segurança Pública, altera o regime de retorno, e regula o novo sistema de entrada e saídas para o reforço do controlo das fronteiras externas"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-10-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5449784e32466d4d6a41744e6d56684f4330304d4449784c574a6b4f574d7459544d314e54426a4d7a45334e4751354c6e426b5a673d3d&fich=9217af20-6ea8-4021-bd9c-a3550c3174d9.pdf&Inline=true",
+        "anexoNome": "Despacho do PAR - Conexão com a 3.ª Comissão"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75832",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-10-01",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-10-22",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo SIAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e6a45304f5446695969307859324a6a4c54526c4d4449745954526c4e79307a5a6d59774f574e695a4451324d7a41756347526d&fich=161491bb-1cbc-4e02-a4e7-3ff09cbd4630.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793834596a6b77597a59784d4331684d54597a4c5451334f4751744f544e6c4d7931685a6a466a4f47466a4f44417a5a5463756347526d&fich=8b90c610-a163-478d-93e3-af1c8ac803e7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-16",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer-CNDP_ratificação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938305a6d45315a44457a4e43316b5a44466c4c5451335a5745744f4456694e5331695a4467794d4467324d324933596a637555455247&fich=4fa5d134-dd1e-47ea-85b5-bd820863b7b7.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938355a6a59784d7a6378595330314e446b304c5451794e6a59744f4749315a5330324f5455304d444d314d6d46685a4441756347526d&fich=9f61371a-5494-4266-8b5e-69540352aad0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação de não emissão de parecer - Conselho Superior da Magistratura ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d4746684d6a4578596930345a5463344c545132596d4d744f44526d4e69316b4d6d55324f4451785957566b4d6a41756347526d&fich=80aa211b-8e78-46bc-84f6-d2e6841aed20.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-10",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - AIMA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a6a597759546778595330784d6a59784c5451774d6d4974595745324f4330794e5459354d4459355a6a4578596a59756347526d&fich=af60a81a-1261-402b-aa68-2569069f11b6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-10-10",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer CNPD ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e446c6a4f546c6b4d6930785954566a4c54517a4e6d4d74595459344d7930354d6d51314d6a526a5a5449344e4463756347526d&fich=849c99d2-1a5c-436c-a683-92d524ce2847.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8393",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8393",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2024-10-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-10-10"
+          },
+          {
+            "link": "",
+            "nome": "Agência para a Integração, Migrações e Asilo, I.P. em 2024-10-10"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-10-09"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2024-10-16"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2024-10-03"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-10-03"
+          },
+          {
+            "link": "",
+            "nome": "Agência para a Integração, Migrações e Asilo, I.P. em 2024-10-03"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-10-03"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2024-10-03"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2024-10-03"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-10-01",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 3.ª Comissão",
+    "OevId": "1558487",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
