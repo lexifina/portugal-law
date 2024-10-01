@@ -2,17 +2,17 @@
 
 ### Missão e atribuições
 
-1 - A DGS tem por missão regulamentar, orientar e coordenar as atividades de promoção da saúde e prevenção da doença, definir as condições técnicas para a adequada prestação de cuidados de saúde, planear e programar a política nacional para a qualidade no sistema de saúde, bem como assegurar a elaboração e execução do Plano Nacional de Saúde (PNS).
+1 - A DGS tem por missão regulamentar, orientar e coordenar as atividades de promoção da saúde e prevenção da doença, desenvolver atividades no âmbito da saúde pública, definir as condições técnicas para a adequada prestação de cuidados de saúde, planear e programar a política nacional para a qualidade no sistema de saúde, bem como assegurar a elaboração e execução do Plano Nacional de Saúde (PNS).
 
 2 - A DGS prossegue as seguintes atribuições:
 
 a) Contribuir para a obtenção de ganhos em saúde, desenvolvendo e promovendo a execução de programas em matéria de saúde pública e de melhoria da prestação de cuidados em áreas relevantes da saúde, bem como emitindo normas e orientações;
 
-b) Coordenar e assegurar a vigilância epidemiológica de determinantes da saúde e de doenças transmissíveis e não transmissíveis, bem como os sistemas de alerta e resposta apropriada a emergências de saúde pública, a nível nacional e a respectiva contribuição no quadro internacional;
+b) Coordenar e assegurar a vigilância epidemiológica de determinantes da saúde e de doenças transmissíveis e não transmissíveis, bem como os sistemas de alerta e resposta apropriada a emergências de saúde pública, a nível nacional e regional e a respetiva contribuição no quadro internacional;
 
 c) Garantir a produção e divulgação de informação adequada no quadro do sistema estatístico nacional, designadamente estatísticas de saúde, sem prejuízo das competências do Instituto Nacional de Estatística, I. P.;
 
-d) Assegurar a elaboração e a execução do Plano Nacional de Saúde, coordenando, a nível nacional, a definição e o desenvolvimento de programas de saúde, com base num sistema integrado de informação, articulando com os demais serviços e organismos do sistema de saúde;
+d) Assegurar a elaboração e a execução do Plano Nacional de Saúde, coordenando, a nível nacional e regional, a definição e o desenvolvimento de programas de saúde, com base num sistema integrado de informação, articulando com os demais serviços e organismos do sistema de saúde;
 
 e) Apoiar a definição das políticas, prioridades e objetivos do MS, assegurando a melhor articulação entre os seus diversos serviços e organismos, em especial o Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., em matéria de investigação científica e laboratorial;
 
@@ -32,11 +32,13 @@ m) Propor, anualmente, ao membro do Governo responsável pela área da saúde, a
 
 n) (Revogada.)
 
-o) Coordenar a gestão das crises alimentares em situação de risco grave para a saúde humana que não possa ser assegurada através da actuação isolada das autoridades competentes para o controlo oficial na área alimentar.
+o) Coordenar a gestão das crises alimentares em situação de risco grave para a saúde humana que não possa ser assegurada através da actuação isolada das autoridades competentes para o controlo oficial na área alimentar;
 
-3 - No desenvolvimento da sua missão, a DGS prossegue ainda as seguintes atribuições, a nível nacional, para além das que lhe sejam conferidas por legislação própria:
+p) Desenvolver e fomentar atividades nacionais e regionais no âmbito da saúde pública, incluindo no que respeita à sanidade internacional, de modo a garantir a proteção e a promoção da saúde das populações.
 
-a) Apoiar o director-geral da Saúde no exercício das suas competências de autoridade de saúde nacional, nos termos previstos na lei;
+3 - No desenvolvimento da sua missão, a DGS prossegue ainda as seguintes atribuições, a nível nacional e regional, para além das que lhe sejam conferidas por legislação própria:
+
+a) Apoiar o diretor-geral da Saúde e os diretores das delegações regionais de saúde no exercício das suas competências de autoridades de saúde, nos termos previstos na lei;
 
 b) (Revogada.);
 
