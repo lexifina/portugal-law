@@ -52,7 +52,7 @@ v) Promover uma cultura organizacional de liderança e inovação em todo o SNS,
 
 w) Reforçar a identidade do SNS como um todo, designadamente definindo e desenvolvendo uma imagem e cultura comuns;
 
-x) Assegurar a representação do SNS;
+x) (Revogado.)
 
 y) Exercer as demais competências que lhe sejam atribuídas por lei, bem como praticar os atos que lhe sejam delegados.
 
