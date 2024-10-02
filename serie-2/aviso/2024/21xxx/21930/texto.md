@@ -1,0 +1,9 @@
+Aviso n.º 21930/2024/2
+
+Consulta Pública
+Projeto de Regulamento da Área de Acolhimento Empresarial de Lordosa
+Fernando de Carvalho Ruas, Presidente da Câmara Municipal de Viseu, faz público, no uso das competências que lhe são atribuídas pela alínea t) do n.º 1 do artigo 35.º, do Anexo I, da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, que é aberta a discursão pública, durante 30 dias (úteis), nos termos da deliberação, tomada em reunião ordinária da Câmara Municipal, realizada no dia 12 de setembro de 2024, relativa à aprovação do Projeto de Regulamento da Área de Acolhimento Empresarial de Lordosa, do concelho de Viseu, contados a partir da publicação do presente aviso, no Diário da República, 2.ª série, o qual será também divulgado através do Portal Municipal, da comunicação social e nos lugares de estilo.
+O referido projeto de Regulamento encontra-se em exposição, no Portal Municipal e no Atendimento Único, desta Câmara Municipal, em dias e horas de expediente, muito concretamente, de segunda-feira a sexta-feira, das 10h00 às 16h00, devendo os interessados apresentar as suas observações ou sugestões, até ao termo do referido período de participação pública, dirigidas por escrito, ao Senhor Presidente da Câmara Municipal de Viseu, ou remetidas, ao Município de Viseu, Praça da República 3514-501 Viseu, ou enviados por correio eletrónico para geral@cmviseu.pt, de acordo com as disposições combinadas previstas nos artigos 98.º e 139.º do Código do Procedimento Administrativo e artigo 56.º do Anexo I, da Lei n.º 75/2013, de 12 de setembro, na sua atual redação.
+Para constar e devidos efeitos, será este edital afixado nos Paços do Município, publicado na 2.ª série do Diário da República, nos lugares de estilo e no sítio da internet em www.cm-viseu.pt.
+23 de setembro de 2024. - O Presidente da Câmara Municipal de Viseu, Fernando de Carvalho Ruas.
+318157709
