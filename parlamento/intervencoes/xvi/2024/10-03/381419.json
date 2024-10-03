@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=F9PDOHNFycB6%2fwHBIK8pxp90NHMVWRoPo7xRrSheCH%2bXxTqdPsHw6D6aNnw9iqXvKxrH0P9GJq%2b8nJ0ko5nPHKfPEL8708E670ha7An37sU4tGcztL8bhpHrCso2hm3iseZ4qeJi7bkbYKgyGvQIwxzddtmYuv4DcTC30HQKz79JFlOXvg03OoOS04yfZ68VYC28B4Y0zeq4kcV5KAu8QiQv5%2fFgUPsyig4aVYLHuh7fjhY7f5ZsHhjgiGjp5rJRhMiHrQ779WBR20oFU%2fl9o7E0tJ1VoRCT%2bJWMcMmsim85dzAqwb7dte5lqENalDhiAmRdnx%2freJJxlTxGDmPGNwxfjJ0%2fVlolAj0cWgs%2bJ8w%3d&fich=IntervencoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "642a74698e32955c3a685f799a9bc60770a614b0fea5fabf6e4055551add8069",
+  "legislatura": "XVI",
+  "id": "381419",
+  "tipo": "Intervenção",
+  "orador": "Rodrigo Saraiva (IL)",
+  "data_registo": "2024-10-03",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "127279",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "137249",
+        "tipo": "DEB",
+        "titulo": "Debate com o Primeiro-Ministro antes de Conselho Europeu - Debate conjunto com a participação do Governo, sobre as prioridades da Presidência húngara do Conselho da UE, e discussão e aprovação do relatório anual sobre o acompanhamento da participação de Portugal no processo de construção da UE"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "294115",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Apreciação do Relatório sobre “Portugal na União Europeia, 2023”"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Apela aos Deputados que criem condições para que o orador possa prosseguir a sua Intervenção. Lembra a Paulo Rangel (Ministro de Estado e dos Negócios Estrangeiros), que não deve entrar em diálogo com as diferentes bancadas durante a sua intervenção.",
+        "duracao": "00:00:39.427",
+        "tipoIntervencao": "Intervenção",
+        "url": "https://av.parlamento.pt/videos/Plenary/16/1/44/67"
+      }
+    ],
+    "DataReuniaoPlenaria": "2024-10-03",
+    "Debate": "Projeto-Resolução nº 318/XVI/1ª (Apreciação do Relatório sobre “Portugal na União Europeia, 2023”) e  Debate conjunto com a participação do Governo, sobre as prioridades da Presidência húngara do Conselho da UE, e discussão e aprovação do relatório anual sobre o acompanhamento da participação de Portugal no processo de construção da UE",
+    "Deputados": {
+      "GP": "IL",
+      "idCadastro": "6945",
+      "nome": "Rodrigo Saraiva"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "381419",
+    "IdDebate": "26549",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "381419",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "83-83"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-04",
+        "pubLeg": "XVI",
+        "pubNr": "44",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/044/2024-10-04/83?pgs=83&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Debate conjunto com a participação do Governo, sobre as prioridades da Presidência húngara do Conselho da UE, e discussão e aprovação do relatório anual sobre o acompanhamento da participação de Portugal no processo de construção da UE",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
