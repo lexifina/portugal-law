@@ -1,0 +1,26 @@
+# Resolução do Conselho do Governo Regional n.º 781/2024
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 156/2024, 2.º suplemento, de 2024-10-04
+
+**Sumário:** Autoriza a celebração de um protocolo de desenvolvimento e cooperação, no âmbito da promoção e animação turísticas com o Club Sports da Madeira, tendo em vista a execução do projeto do “Rally Madeira Legend 2024”, mediante uma comparticipação financeira que não excederá os 250.000,00 €.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 781/2024
+Sumário: Autoriza a celebração de um protocolo de desenvolvimento e cooperação, no âmbito da promoção e animação turísticas com o Club Sports da Madeira, tendo em vista a execução do projeto do “Rally Madeira Legend 2024”, mediante uma comparticipação financeira que não excederá os 250.000,00 €.
+Texto: Resolução n.º 781/2024 Considerando que o Decreto Legislativo Regional n.º 25/99/M, de 27 de agosto estabeleceu o enquadramento e definição legal dos apoios financeiros a projetos de interesse cultural ou de promoção e animação turísticas; Considerando que o referido diploma foi regulamentado, para a área do turismo, pela Portaria n.º 78/2001, de 17 de julho, que veio definir os princípios gerais e as condições de acesso a esses apoios financeiros através da celebração de contratos-programa de dinamização das atividades de promoção e animação turística e protocolos de desenvolvimento e cooperação no âmbito da promoção e animação turísticas; Considerando que com a celebração de contratos-programa e protocolos, nos termos definidos na Portaria n.º 78/2001, de 17 de julho, pretende-se disponibilizar às diversas entidades, em nome individual ou coletivo, meios de financiamento público destinados à prossecução de projetos de relevante interesse turístico; Considerando que o Club Sports da Madeira pretende organizar um evento automobilístico sócio-desportivo denominado "Rally Madeira Legend 2024", programado para decorrer entre os dias 15 e 17 de novembro, caracterizado por ser único e diferenciador no panorama regional, destacando-se por reunir em competição viaturas históricas, clássicas e desportivas da classe "Sport+", criando assim uma atmosfera ímpar e memorável para todos os envolvidos;
+
+Considerando que o evento apresenta um significativo potencial turístico-desportivo, destacando-se como um polo de animação turística e, simultaneamente, como uma poderosa ferramenta de promoção da Região Autónoma da Madeira, atraindo participantes, equipas e entusiastas do desporto automobilístico;
+Considerando que o Rally Madeira Legend proporciona um espetáculo único e de emoção que atrai inúmeros locais e muitos turistas nacionais e internacionais, gerando um incremento na atividade turística da região, com benefícios diretos e indiretos para a economia local;
+Considerando que a realização do evento irá atrair cobertura mediática nacional e internacional, proporcionando uma plataforma única para divulgar a Madeira como um destino turístico privilegiado;
+Considerando que o Club Sports da Madeira possui um histórico de organização bem-sucedida de eventos desportivos, demonstrando capacidade comprovada e reconhecido mérito na execução de projetos de grande envergadura, e que este evento enriquece a oferta turística e complementa o calendário de promoção e animação turística da região;
+Considerando que o Rally Madeira Legend 2024 está alinhado com os objetivos do Governo Regional para a promoção do turismo, sendo uma iniciativa fiável e estratégica para alcançar as metas estabelecidas na política de Turismo do Governo Regional.
+Assim, ao abrigo do disposto no n.º 11 do artigo 38.º, no n.º 2 do artigo 39.º e na alínea e) do n.º 1 do artigo 42.º do Decreto Legislativo Regional n.º 6/2024/M, de 29 de julho, em conjugação com a alínea d) do artigo 3.º e no artigo 7.º do Decreto Legislativo Regional n.º 25/99/M, de 27 de agosto, e da Portaria n.º 78/2001, de 17 de julho, o Conselho do Governo reunido em plenário em 3 de outubro de 2024, resolve:
+1. Autorizar a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com o Club Sports da Madeira, tendo em vista a execução do projeto “Rally Madeira Legend 2024”.
+2. Para a prossecução do projeto previsto no número anterior, conceder ao Club Sports da Madeira uma comparticipação financeira que não excederá os 250.000,00 € (duzentos e cinquenta mil euros).
+3. Aprovar a minuta do protocolo e seu anexo, que fazem parte integrante da presente Resolução e que fica arquivada na Secretaria-geral da Presidência, para a atribuição do referido apoio financeiro.
+4. Mandatar o Secretário Regional de Economia, Turismo e Cultura e a Diretora Regional do Turismo para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o protocolo, o qual produzirá efeitos desde a data da assinatura até 30 de dezembro de 2024.
+5. As despesas resultantes do protocolo a celebrar têm cabimento orçamental na Secretaria 47, Capítulo 50, Divisão 01, Subdivisão 02, Classificação Funcional 047, Classificação Económica D.04.07.01.RA.Q0, Fonte 381, Programa 043, Medida 010 Projeto 50975.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
