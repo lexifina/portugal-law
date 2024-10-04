@@ -1,0 +1,8 @@
+Aviso n.º 22135/2024/2
+
+Projeto de Regulamento do Programa de Apoio às Associações Culturais do Concelho de Estremoz (PAACCE)
+José Daniel Pena Sádio, Presidente da Câmara Municipal de Estremoz, torna público que, ao abrigo da competência prevista na alínea b), do n.º 1, do artigo 35.º do Regime Jurídico das Autarquias Locais, aprovado em anexo à Lei n.º 75/2013, de 12 de setembro, na sua redação atualizada, em cumprimento da deliberação da Câmara Municipal de Estremoz, tomada em 20 de setembro de 2024, é submetido a consulta pública, o “Projeto de Regulamento do Programa de Apoio às Associações Culturais do Concelho de Estremoz (PAACCE)”, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, durante o prazo de 30 dias úteis, a contar da data da publicação do presente Aviso em Série II do Diário da República, estando o texto disponível mediante a afixação do Edital n.º 134/2024, nos locais de estilo e no sítio eletrónico oficial do município www.cm-estremoz.pt.
+Qualquer interessado/a pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, endereçadas ao Presidente da Câmara Municipal de Estremoz, entregues no Gabinete de Apoio à Presidência, Rossio Marquês de Pombal, 7100-513 Estremoz, ou ainda através do e-mail geral@cm-estremoz.pt.
+Em todas as comunicações deve ser indicado o procedimento a que a mesma se reporta, sob pena de rejeição limiar.
+24 de setembro de 2024. - O Presidente da Câmara, José Daniel Pena Sádio.
+318159856
