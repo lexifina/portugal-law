@@ -1,0 +1,8 @@
+Edital n.º 1486/2024
+
+Fátima Carla Dias Antunes Borges, Presidente do Município de Tondela, torna público, nos termos e para os efeitos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal, em reunião ordinária de 10 de setembro de 2024, deliberou submeter a proposta Regulamento do Orçamento Participativo do Município de Tondela, para recolha de sugestões, pelo prazo de 30 dias, a contar da data de publicação do presente Edital no Diário da República.
+Durante o referido período, poderão os interessados consultar o documento no Balcão Único do Município (Largo da República, 16, 3464-001 Tondela), no Gabinete de Eventos e Projetos Culturais (Rua dos Combatentes da Grande Guerra, 16, 3460-550 Tondela) ou ainda na página eletrónica da Autarquia, através do endereço https://www.cm-tondela.pt/.
+As sugestões que os interessados entendam formular deverão ser dirigidas à Ex.<sup>ma</sup> Senhora Presidente da Câmara Municipal de Tondela e ser entregues por escrito, até ao término do prazo de consulta pública, através de uma das seguintes formas: presencialmente nas instalações do Município; por via postal para a morada Largo da República, 16, 3464-001 Tondela; ou por via eletrónica através do endereço geral@cm-tondela.pt.
+Para conhecimento geral, o presente Edital será afixado nos locais de estilo deste concelho, bem como publicado no sítio eletrónico do Município e na 2.ª série do Diário da República.
+19 de setembro de 2024. - A Presidente da Câmara Municipal, Fátima Carla Dias Antunes Borges.
+318139687
