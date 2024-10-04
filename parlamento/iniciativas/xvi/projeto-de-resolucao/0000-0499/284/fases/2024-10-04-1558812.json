@@ -1,0 +1,665 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "284",
+    "id": "284064",
+    "titulo": "Pela suspensão da vigência do contrato de concessão de exploração da mina do Barroso"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2024-10-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40355",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2024-10-04",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263780",
+        "leg": "XVI",
+        "nr": "127",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36576",
+            "obs": null,
+            "pag": [
+              "71-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-07",
+            "pubLeg": "XVI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36628",
+            "obs": null,
+            "pag": [
+              "72-73",
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-19",
+            "pubLeg": "XVI",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73,73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36576",
+            "obs": null,
+            "pag": [
+              "71-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-07",
+            "pubLeg": "XVI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36628",
+            "obs": null,
+            "pag": [
+              "72-73",
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-19",
+            "pubLeg": "XVI",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73,73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36576",
+            "obs": null,
+            "pag": [
+              "71-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-07",
+            "pubLeg": "XVI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36628",
+            "obs": null,
+            "pag": [
+              "72-73",
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-19",
+            "pubLeg": "XVI",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73,73&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a suspensão dos processos de mineração previstos para a Serra da Argemela, Boticas, Montalegre e Lixa"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "284036",
+        "leg": "XVI",
+        "nr": "272",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36576",
+            "obs": null,
+            "pag": [
+              "71-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-07",
+            "pubLeg": "XVI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36628",
+            "obs": null,
+            "pag": [
+              "72-73",
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-19",
+            "pubLeg": "XVI",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73,73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36576",
+            "obs": null,
+            "pag": [
+              "71-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-07",
+            "pubLeg": "XVI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36628",
+            "obs": null,
+            "pag": [
+              "72-73",
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-19",
+            "pubLeg": "XVI",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73,73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36576",
+            "obs": null,
+            "pag": [
+              "71-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-07",
+            "pubLeg": "XVI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36628",
+            "obs": null,
+            "pag": [
+              "72-73",
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-19",
+            "pubLeg": "XVI",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73,73&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a suspensão da exploração de lítio na Mina do Barroso "
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "284054",
+        "leg": "XVI",
+        "nr": "279",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36576",
+            "obs": null,
+            "pag": [
+              "71-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-07",
+            "pubLeg": "XVI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36628",
+            "obs": null,
+            "pag": [
+              "72-73",
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-19",
+            "pubLeg": "XVI",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73,73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36576",
+            "obs": null,
+            "pag": [
+              "71-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-07",
+            "pubLeg": "XVI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36628",
+            "obs": null,
+            "pag": [
+              "72-73",
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-19",
+            "pubLeg": "XVI",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73,73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36576",
+            "obs": null,
+            "pag": [
+              "71-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-07",
+            "pubLeg": "XVI",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36628",
+            "obs": null,
+            "pag": [
+              "72-73",
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-19",
+            "pubLeg": "XVI",
+            "pubNr": "52",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73,73&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda o cancelamento das concessões de exploração de lítio nas minas do Romano, em Montalegre, e do Barroso, em Boticas, e a proteção da única região classificada pela FAO como Património Agrícola Mundial em Portugal"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-10-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8157",
+                "nome": "Amílcar Almeida"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8248",
+                "nome": "António Alberto Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:53",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-07",
+                "pubLeg": "XVI",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda a suspensão dos processos de mineração previstos para a Serra da Argemela, Boticas, Montalegre e Lixa; Recomenda ao Governo a suspensão da exploração de lítio na Mina do Barroso; Recomenda o cancelamento das concessões de exploração de lítio nas minas do Romano, em Montalegre, e do Barroso, em Boticas, e a proteção da única região classificada pela FAO como Património Agrícola Mundial em Portugal; ela suspensão da vigência do contrato de concessão de exploração da mina do Barroso.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": null,
+                "nome": null
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:53",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-19",
+                "pubLeg": "XVI",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda a suspensão dos processos de mineração previstos para a Serra da Argemela, Boticas, Montalegre e Lixa; Recomenda ao Governo a suspensão da exploração de lítio na Mina do Barroso; Recomenda o cancelamento das concessões de exploração de lítio nas minas do Romano, em Montalegre, e do Barroso, em Boticas, e a proteção da única região classificada pela FAO como Património Agrícola Mundial em Portugal; ela suspensão da vigência do contrato de concessão de exploração da mina do Barroso.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8774",
+                "nome": "Carlos Silva"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7350",
+                "nome": "Fátima Correia Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:53",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-19",
+                "pubLeg": "XVI",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/73?pgs=73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda a suspensão dos processos de mineração previstos para a Serra da Argemela, Boticas, Montalegre e Lixa; Recomenda ao Governo a suspensão da exploração de lítio na Mina do Barroso; Recomenda o cancelamento das concessões de exploração de lítio nas minas do Romano, em Montalegre, e do Barroso, em Boticas, e a proteção da única região classificada pela FAO como Património Agrícola Mundial em Portugal; ela suspensão da vigência do contrato de concessão de exploração da mina do Barroso.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1558812",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1019674",
+        "obs": null,
+        "pag": [
+          "65-65"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-07",
+        "pubLeg": "XVI",
+        "pubNr": "45",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/045/2024-10-07/65?pgs=65&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024045",
+        "obs": null,
+        "pag": [
+          "72-73"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-19",
+        "pubLeg": "XVI",
+        "pubNr": "52",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/052/2024-10-19/72?pgs=72-73&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2024-10-04",
+        "descricao": null,
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> L</I>, <I> PAN</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> IL</I>, <I> CDS-PP</I><BR>Abstenção:<I>2-PS</I>, <I> CH</I>, <I> Carlos Silva (PS)</I>, <I> Fátima Correia Pinto (PS)</I>",
+        "id": "127148",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "44",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
