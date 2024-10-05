@@ -12,7 +12,7 @@
 
 a) Uma componente variável, fixada em 20 % sobre a remuneração base;
 
-b) Uma componente fixa, no valor de (euro) 100.
+b) Uma componente fixa, no valor de 400 EUR.
 
 3 - O suplemento de condição militar é considerado para efeitos do cálculo dos subsídios de férias e de Natal.
 
