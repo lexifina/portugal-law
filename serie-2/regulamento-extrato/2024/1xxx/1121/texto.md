@@ -1,0 +1,5 @@
+Regulamento (extrato)  n.º 1121/2024
+
+Manuel dos Santos Nunes, Presidente da Junta de Freguesia de Nossa Senhora do Pranto, torna público, para os efeitos previstos no artigo 139.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e nos termos do disposto na alínea f) do n.º 1 do artigo 9.º, conjugado com a alínea h) do n.º 1 do artigo 16.º e com o artigo 56.º da Anexo I da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, que a Assembleia de Freguesia, em sessão ordinária realizada em 16 de maio de 2020, sob proposta do executivo da Junta de Freguesia, aprovada em reunião de 24 de fevereiro de 2020, deliberou aprovar o Regulamento de Apoio Digital ao Preenchimento das Declarações do Modelo 3 do IRS da Junta de Freguesia de Nossa Senhora do Pranto. O referido regulamento pode ser consultado, na íntegra, na página eletrónica da Freguesia de Nossa Senhora do Pranto, em https://nossasenhoradopranto.pt e na sede da Junta de Freguesia.
+2 de outubro de 2024. - O Presidente da Junta de Freguesia, Manuel dos Santos Nunes.
+318182438
