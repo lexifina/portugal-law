@@ -1,0 +1,144 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Proposta de Lei",
+  "numero": "24",
+  "id": "304223",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-10-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f545a6a4f4455775a575574597a55344e6930304f4455794c546b324e4759744f5749784e7a64684d474a6a4d4751354c6e426b5a673d3d&fich=96c850ee-c586-4852-964f-9b177a0bc0d9.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5451774f5451355a5745744e6a5934596930304d3251304c5467354e544174596d4e6a4e6a41314d44686d4d7a466d4c6e426b5a673d3d&fich=940949ea-668b-43d4-8950-bcc60508f31f.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - FENPROF - 18-06-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4449774f574a694e4451744e6a59795a6930305a4455314c5467314f4751744f574a68596a6b34595467334d4459774c6e426b5a673d3d&fich=d209bb44-662f-4d55-858d-9bab98a87060.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - ACL - 21-06-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d49774d324d784f544574595459784d4330304e6a466d4c5749794d4445744e574d314f54686a5a4449315a5451344c6e426b5a673d3d&fich=2b03c191-a610-461f-b201-5c598cd25e48.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - Universidade do Minho - 22-06-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4451304e325a6c4f4749745a47597a4d433030597a4d7a4c57497a5a5755744f574e6c4f544e6c4d446c6b4d6d4d354c6e426b5a673d3d&fich=8447fe8b-df30-4c33-b3ee-9ce93e09d2c9.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - CLA - 25-06-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a413259575a694d6a55745a445a694e79303059324e6d4c546b325a47517459575934596d45794f545933597a517a4c6e426b5a673d3d&fich=c06afb25-d6b7-4ccf-96dd-af8ba2967c43.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - FENPROF - 01-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4455354d3259794f574d744e444d785a4330305a6a466b4c57466a5a6a51744e7a42695957566b4d7a4d7a5a6a45354c6e426b5a673d3d&fich=0593f29c-431d-4f1d-acf4-70baed333f19.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - SNESUP - 03-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a6731596d4933595451744d6d45774f4330304d324a6d4c5467315a6a41744e57566a4d54646b4f5755784e5755304c6e426b5a673d3d&fich=b85bb7a4-2a08-43bf-85f0-5ec17d9e15e4.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - CCISP - 08-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4455784d7a426b595745744d575a6a4d5330304d7a64694c5468685a474974596d5a6c4d6d59775a5749774f4755344c6e426b5a673d3d&fich=05130daa-1fc1-437b-8adb-bfe2f0eb08e8.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - ISCTE - 14-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4455344d32597a5a444d744d44526d4d4330305a6d49314c546b314e7a6b7459545a6a4e44597a4d7a63354f546b344c6e426b5a673d3d&fich=4583f3d3-04f0-4fb5-9579-a6c463379998.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - Universidade do Minho - 18-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f474a6d4e5755314e545974596a4d774e5330305957597a4c574a6a4d7a4974596d55344d6d5131596a4177595455354c6e426b5a673d3d&fich=8bf5e556-b305-4af3-bc32-be82d5b00a59.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - Universidade do Minho_Diploma - 18-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d546b774e3251774d4455744d54466b5a4330304d7a51304c546b784e5451744e47526c4f4451354f57457a4d6d51334c6e426b5a673d3d&fich=1907d005-11dd-4344-9154-4de8499a32d7.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - CRUP 1_2 - 23-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e444530596a45324e4751744e6d55344e7930304d6a41774c574a695a4759744e5759325a4463784e6a55334e54646c4c6e426b5a673d3d&fich=414b164d-6e87-4200-bbdf-5f6d7165757e.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - CRUP 2_2 - 23-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5445354e6d4a684e5455744e575177595330304d7a51354c5745314e4745744d474d33595751775a4467324d5441354c6e426b5a673d3d&fich=e196ba55-5d0a-4349-a54a-0c7ad0d86109.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - CCLabEstado 1_2 - 26-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5751794e474a695a6a6b74595755334e7930304f44646a4c57466d4e574974596d59304d574e6b4e7a6334596d526a4c6e426b5a673d3d&fich=ed24bbf9-ae77-487c-af5b-bf41cd778bdc.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - CCLabEstado 2_2 - 26-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a55784f5441774d6a49744d5463784d6930304d7a63324c546c6d4e6a4174597a59314d6a426c5a6d4977595451774c6e426b5a673d3d&fich=c5190022-1712-4376-9f60-c6520efb0a40.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - Fed Nac Sindicatos TFP e Sociais - 05-08-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5463354e6a566a4d3251744f5467304e69303059544e694c5749315a5449744f47566c4e474a6d5a6a497759544d324c6e426b5a673d3d&fich=e7965c3d-9846-4a3b-b5e2-8ee4bff20a36.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - OTC - 05-08-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765932557a597a63794d546b744d47466c596930304d6d457a4c54686a597a59744e574d77596d5179595441354f5468684c6e426b5a673d3d&fich=ce3c7219-0aeb-42a3-8cc6-5c0bd2a0998a.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - ABIC - 06-08-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a57557a5a6a5a6d5a574d74596a5530595330304e3251344c546b774e5745745a6a4d354e6a4e684d6a49324e6d557a4c6e426b5a673d3d&fich=ee3f6fec-b54a-47d8-905a-f3963a2266e3.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - ANICT - 12-08-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4449784d44686a4d574d745a6a6b305a6930305a574d344c57457a4e446b744e474e685a445a6c5a474530597a42684c6e426b5a673d3d&fich=d2108c1c-f94f-4ec8-a349-4cad6eda4c0a.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - FENPROF - 19-08-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a41304f475577596a49744e6a45775a4330304f4441314c54686c4d5759744d6a6778596d457a4f4459315a5749314c6e426b5a673d3d&fich=6048e0b2-610d-4805-8e1f-281ba3865eb5.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - INIAV - 22-08-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576593245325a6a6c685a6a67744d4756684e6930304e5746694c5745304d5441744d47597a597a63304e475a695a6a51314c6e426b5a673d3d&fich=ca6f9af8-0ea6-45ab-a410-0f3c744fbf45.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - FNE - 26-06-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4463324d32517a595449744d5445794d7930305957597a4c574934597a41744d54686b4d4755784d7a526d4e57566c4c6e426b5a673d3d&fich=d763d3a2-1123-4af3-b8c0-18d0e134f5ee.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - ANICT - 16-07-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d5a685a6a59344f546b745a544e6b4e6930305a6d51784c5749775a474d744d7a51784d6d4e6b597a5931596a49324c6e426b5a673d3d&fich=2faf6899-e3d6-4fd1-b0dc-3412cdc65b26.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - Fórum CCLabEstado - 07-08-2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a47526b4e6a41315a6a4974595449774d6930305a574a684c5745794e6a6b744f575178597a4e6c4e47566a5a5463794c6e426b5a673d3d&fich=ddd605f2-a202-4eba-a269-9d1c3e4ece72.pdf&Inline=true",
+        "anexoNome": "Parecer ECIC - Universidade de Aveiro - 21-08-2024"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "304223",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a6b324e574978596a6b745a544d315a6930304e445a694c5467324d5455745a5455314e325930596d4a6d4e44566d4c6d52765933673d&fich=c965b1b9-e35f-446b-8615-e557f4bbf45f.docx&Inline=true",
+    "IniNr": "24",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova o Estatuto da Carreira de Investigação Científica e o Regime comum das carreiras próprias de investigação científica em regime de direito privado",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
