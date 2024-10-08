@@ -1,0 +1,574 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34136",
+  "numero": "97",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-10-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-12-17",
+            "entidades": null,
+            "id": "159174",
+            "tipo": null,
+            "titulo": "Audição em 2024-12-17 com Peticionários da Petição n.º 97/XVI/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-02-19",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915251",
+                "obs": null,
+                "pag": [
+                  "29-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-22",
+                "pubLeg": "XVI",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/059/2025-02-22/29?pgs=29-33&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-10-23",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-10-14",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2024-10-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-10-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279387a4d47566c59544d7a5a53316c4f5745334c545135597a4174596a51335a43316c4e54646d4e7a63305a6a6b784d4459756347526d&fich=30eea33e-e9a7-49c0-b47d-e57f774f9106.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-02-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396d4f44426c5a4749315979316a4e474d7a4c5451324e5459744f544d304e7931685a6d4e6d4d44526b596d4a6a4e5759756347526d&fich=f80edb5c-c4c3-4656-9347-afcf04dbbc5f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-02-19",
+            "dataNomeacao": "2024-10-25",
+            "gp": "L",
+            "id": "6932",
+            "motivoCessacao": "Aprovação do Relatório Final em reunião da comissão de Saúde",
+            "nome": "Paulo Muacho"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-12-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-10-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324e69597a4e6a5a6a64694c5449324d5755744e445a694d5331694d545a6c4c574d3259325933597a64684f47566a4f5335775a47593d&fich=cbc3cf7b-261e-46b1-b16e-c6cf7c7a8ec9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315525"
+    ],
+    "Iniciativasoriginadas": [
+      "315525"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/4"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Rejeição do Cartão Europeu de Vacinação (Marta da Silva Gameiro e outros); Recomenda ao Governo que desvincule Portugal do Cartão Europeu de Vacinação e do projeto EUVABECO.",
+            "Teor": "Apresenta o Projeto de Resolução n. º 264/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/6"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480437",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Rejeição do Cartão Europeu de Vacinação (Marta da Silva Gameiro e outros); Recomenda ao Governo que desvincule Portugal do Cartão Europeu de Vacinação e do projeto EUVABECO.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/7"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480438",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/6?pgs=6&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Rejeição do Cartão Europeu de Vacinação (Marta da Silva Gameiro e outros); Recomenda ao Governo que desvincule Portugal do Cartão Europeu de Vacinação e do projeto EUVABECO.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/8"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480439",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/7?pgs=7&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Rejeição do Cartão Europeu de Vacinação (Marta da Silva Gameiro e outros); Recomenda ao Governo que desvincule Portugal do Cartão Europeu de Vacinação e do projeto EUVABECO.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/9"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480440",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/8?pgs=8&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Rejeição do Cartão Europeu de Vacinação (Marta da Silva Gameiro e outros); Recomenda ao Governo que desvincule Portugal do Cartão Europeu de Vacinação e do projeto EUVABECO.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/10"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480441",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/8?pgs=8-9&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Rejeição do Cartão Europeu de Vacinação (Marta da Silva Gameiro e outros); Recomenda ao Governo que desvincule Portugal do Cartão Europeu de Vacinação e do projeto EUVABECO.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/11"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480442",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/9?pgs=9&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Rejeição do Cartão Europeu de Vacinação (Marta da Silva Gameiro e outros); Recomenda ao Governo que desvincule Portugal do Cartão Europeu de Vacinação e do projeto EUVABECO.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34136",
+    "PetAssunto": "Pela Rejeição do Cartão Europeu de Vacinação",
+    "PetDataEntrada": "2024-10-08",
+    "PeticoesAssociadas": null,
+    "PetId": "34136",
+    "PetLeg": "XVI",
+    "PetNr": "97",
+    "PetNrAssinaturas": "14424",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura.",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56795",
+        "obs": null,
+        "pag": [
+          "4-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-12-20",
+        "pubLeg": "XVII",
+        "pubNr": "44",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/4?pgs=4-9&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915285",
+        "obs": null,
+        "pag": [
+          "31-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-26",
+        "pubLeg": "XVI",
+        "pubNr": "38",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/038/2024-10-26/31?pgs=31-33&org=PLC"
+      }
+    ]
+  }
+}
