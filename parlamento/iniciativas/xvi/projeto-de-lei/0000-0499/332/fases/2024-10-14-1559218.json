@@ -1,0 +1,160 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "332",
+    "id": "304246",
+    "titulo": "Garante a realização e difusão de reuniões dos órgãos das autarquias locais e das entidades intermunicipais através de meios de comunicação à distância\n\n"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-10-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "75991",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-10-14",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-02-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d5467324d57466a4d6930784e6a45334c545131596d5974596a4e684e7930344d5745354d6a55354d4449335a5449756347526d&fich=51861ac2-1617-45bf-b3a7-81a9259027e2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d7a466a597a41315a433035597a51324c54526a5a6d59744f5459304f5330304d6a5577597a59354d4467325a5459756347526d&fich=a31cc05d-9c46-4cff-9649-4250c69086e6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938355a6a55305a474534596931694e4745314c5451774d4455744f4452694d69307a5a6a45334e7a4178596d5a6d5a574d756347526d&fich=9f54da8b-b4a5-4005-84b2-3f17701bffec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-04",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d7a5a6b4d7a557a4d7930305a6d4e6d4c5451314d6a63744f54466b5979303559324a6c59544d324e32497a4d7a59756347526d&fich=f36d3533-4fcf-4527-91dc-9cbea367b336.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8405",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Poder Local e Coesão Territorial",
+        "Numero": "8405",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "ANMP - Associação Nacional dos Municípios Portugueses em 2025-01-31"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2025-01-31"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "8152",
+            "motivoCessacao": null,
+            "nome": "Almiro Moreira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "IL",
+              "BE",
+              "L",
+              "PCP"
+            ],
+            "data": "2025-03-11",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> CDS-PP</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>",
+            "id": "128681",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "47",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-10-14",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559218",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022385",
+        "obs": null,
+        "pag": [
+          "2-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-11",
+        "pubLeg": "XVI",
+        "pubNr": "197",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/197/2025-03-11/2?pgs=2-4&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
