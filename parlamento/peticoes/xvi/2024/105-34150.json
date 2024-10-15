@@ -1,0 +1,687 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34150",
+  "numero": "105",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-10-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-12-11",
+            "entidades": null,
+            "id": "159159",
+            "tipo": null,
+            "titulo": "Audição em 2024-12-11 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-12-17",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915234",
+                "obs": null,
+                "pag": [
+                  "24-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/048/2024-12-21/24?pgs=24-26&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "BE",
+                "PCP",
+                "L",
+                "CDS-PP"
+              ],
+              "data": "2024-12-17",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> IL</I><BR>Ausência: <I>BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+              "id": "127609",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "25",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-10-29",
+        "DataArquivo": "2024-12-17",
+        "DataBaixaComissao": "2024-10-21",
+        "DataEnvioPAR": "2024-12-18",
+        "DataReaberta": "2024-10-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-10-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f5751344e544931595445744e7a67784d6930304e7a686c4c546b7a4d5463744e6d466c596a426b4f4755315a4451774c6e426b5a673d3d&fich=9d8525a1-7812-478e-9317-6aeb0d8e5d40.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876597a45784d6a426c4e5445745a446b77597930304e4463784c546b314e5445744d6a686a597a6734597a4d794e6a4d354c6e426b5a673d3d&fich=c1120e51-d90c-4471-9551-28cc88c32639.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d4745324e6a4d794d446b74596d4d30597930304d545a694c5467355a446b745a4749774d6a49334d545a6b596a4e6a4c6e426b5a673d3d&fich=0a663209-bc4c-416b-89d9-db022716db3c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d5745795a546730596d59745a5467304e4330305a444a6d4c5745304d5467744f446c6c4d6a55344e574a6b4d5451324c6e426b5a673d3d&fich=1a2e84bf-e844-4d2f-a418-89e2585bd146.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a6a67304e6d4e694d4745745954677a4d693030596d55304c546c6c596a41744e475269596a637a5a5449344e444d334c6e426b5a673d3d&fich=f846cb0a-a832-4be4-9eb0-4dbb73e28437.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a6a4a6b4e6a41774f445174596a5a694e6930304d6d5a684c546b334e6d49744f5441334e6a51774d4441784d544d794c6e426b5a673d3d&fich=f2d60084-b6b6-42fa-976b-907640001132.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f4449334d574577597a51745a5464694d7930304d5459794c574535595749744d6d466b4d3251314d446b335a474d794c6e426b5a673d3d&fich=8271a0c4-e7b3-4162-a9ab-2ad3d5097dc2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e4459335a6a4979596a5174596d59344d7930304d4755334c5749775a6a59744e6d566b5a6a6b354e7a5a6c597a55304c6e426b5a673d3d&fich=467f22b4-bf83-40e7-b0f6-6edf9976ec54.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6d4d785a54686b5a6a67744d474e694d7930304d3245794c5467785a544974596a466a4d546b774e5446694e546b794c6e426b5a673d3d&fich=6c1e8df8-0cb3-43a2-81e2-b1c19051b592.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-12-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d6a6c6d4e6d49785a5459744e6a41324e4330304d4755344c5749334d7a55744f5449314f546c6c5954426d4d6a4e684c6e426b5a673d3d&fich=29f6b1e6-6064-40e8-b735-92599ea0f23a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-11-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765a4467354d5746694e6a4d744d7a49334d4330304d7a646b4c5749325a5445744d6d4d32596a64694e7a4d314d7a45304c6e426b5a673d3d&fich=d891ab63-3270-437d-b6e1-2c6b7b735314.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-11-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f444d344d32566c4d6a4974595451325a693030596a4e6c4c57497a4d6a41744f4745784d57557759324a6b4e574e6a4c6e426b5a673d3d&fich=8383ee22-a46f-4b3e-b320-8a11e0cbd5cc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-11-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e324a694d7a426b4d4441745a4449314e7930304f4745344c546b794d4749744e546b324e546c6a5a444a6a5a4446694c6e426b5a673d3d&fich=7bb30d00-d257-48a8-920b-59659cd2cd1b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-12-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876595745774e6a4a6d4e5449745a575532596930305a474d7a4c54686d5a474d744e7a417a596a67315a444e6c597a67794c6e426b5a673d3d&fich=aa062f52-ee6b-4dc3-8fdc-703b85d3ec82.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-01-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738765957466b5a6a6b794d4451745954686c4d4330304e4449314c546c6c5a444d744e44566c5a6a4d315a6a6b32597a6c684c6e426b5a673d3d&fich=aadf9204-a8e0-4425-9ed3-45ef35f96c9a.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8400",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Educação e Ciência ",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-12-17",
+            "dataNomeacao": "2024-10-29",
+            "gp": "CH",
+            "id": "7723",
+            "motivoCessacao": "Relatório aprovado",
+            "nome": "José Barreira Soares"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-03-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-10-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325935593251324f546b344c5449304d6a6b744e4755344d4330345a574a6d4c54426a4f44526a4e5752684f5459324d4335775a47593d&fich=f9cd6998-2429-4e80-8ebf-0c84c5da9660.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "294111",
+      "314582",
+      "314611",
+      "314819",
+      "314852",
+      "314860",
+      "314863",
+      "314865",
+      "314880",
+      "294111",
+      "314860"
+    ],
+    "Iniciativasoriginadas": [
+      "294111",
+      "314582",
+      "314611",
+      "314819",
+      "314863",
+      "314865",
+      "314880",
+      "314852",
+      "314860"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores - Por um regime específico de aposentação justo e adequado às especificidades da profissão docente; Pela equidade no reposicionamento docente e correção de ultrapassagens; Recomenda ao Governo que reponha a justiça e equidade na carreira docente; Recomenda ao Governo que reveja os critérios de reposicionamento na carreira docente de forma a garantir a correção das ultrapassagens na progressão da carreira, assegurando a contabilização de todo o tempo de serviço dos professores, independentemente da data de ingresso; Recomenda ao Governo que garanta o reconhecimento do tempo de serviço efetivo prestado pelos docentes do ensino superior nas mesmas circunstâncias das previstas no Decreto-Lei n.º 51/2024, de 28 de agosto; Recomenda ao Governo que reponha a justiça na carreira dos técnicos superiores do Ministério da Educação, Ciência e Inovação; Recomenda ao Governo a correção de injustiças na carreira docente; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Justiça para os docentes da escola pública; Valorização das longas carreiras contributivas e aplicação de um regime de aposentação específico para professores e educadores; Pelo fim das desigualdades na contagem do tempo de serviço dos professores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435548",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores - Por um regime específico de aposentação justo e adequado às especificidades da profissão docente; Pela equidade no reposicionamento docente e correção de ultrapassagens; Recomenda ao Governo que reponha a justiça e equidade na carreira docente; Recomenda ao Governo que reveja os critérios de reposicionamento na carreira docente de forma a garantir a correção das ultrapassagens na progressão da carreira, assegurando a contabilização de todo o tempo de serviço dos professores, independentemente da data de ingresso; Recomenda ao Governo que garanta o reconhecimento do tempo de serviço efetivo prestado pelos docentes do ensino superior nas mesmas circunstâncias das previstas no Decreto-Lei n.º 51/2024, de 28 de agosto; Recomenda ao Governo que reponha a justiça na carreira dos técnicos superiores do Ministério da Educação, Ciência e Inovação; Recomenda ao Governo a correção de injustiças na carreira docente; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Justiça para os docentes da escola pública; Valorização das longas carreiras contributivas e aplicação de um regime de aposentação específico para professores e educadores; Pelo fim das desigualdades na contagem do tempo de serviço dos professores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores - Por um regime específico de aposentação justo e adequado às especificidades da profissão docente; Pela equidade no reposicionamento docente e correção de ultrapassagens; Recomenda ao Governo que reponha a justiça e equidade na carreira docente; Recomenda ao Governo que reveja os critérios de reposicionamento na carreira docente de forma a garantir a correção das ultrapassagens na progressão da carreira, assegurando a contabilização de todo o tempo de serviço dos professores, independentemente da data de ingresso; Recomenda ao Governo que garanta o reconhecimento do tempo de serviço efetivo prestado pelos docentes do ensino superior nas mesmas circunstâncias das previstas no Decreto-Lei n.º 51/2024, de 28 de agosto; Recomenda ao Governo que reponha a justiça na carreira dos técnicos superiores do Ministério da Educação, Ciência e Inovação; Recomenda ao Governo a correção de injustiças na carreira docente; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Justiça para os docentes da escola pública; Valorização das longas carreiras contributivas e aplicação de um regime de aposentação específico para professores e educadores; Pelo fim das desigualdades na contagem do tempo de serviço dos professores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores - Por um regime específico de aposentação justo e adequado às especificidades da profissão docente; Pela equidade no reposicionamento docente e correção de ultrapassagens; Recomenda ao Governo que reponha a justiça e equidade na carreira docente; Recomenda ao Governo que reveja os critérios de reposicionamento na carreira docente de forma a garantir a correção das ultrapassagens na progressão da carreira, assegurando a contabilização de todo o tempo de serviço dos professores, independentemente da data de ingresso; Recomenda ao Governo que garanta o reconhecimento do tempo de serviço efetivo prestado pelos docentes do ensino superior nas mesmas circunstâncias das previstas no Decreto-Lei n.º 51/2024, de 28 de agosto; Recomenda ao Governo que reponha a justiça na carreira dos técnicos superiores do Ministério da Educação, Ciência e Inovação; Recomenda ao Governo a correção de injustiças na carreira docente; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Justiça para os docentes da escola pública; Valorização das longas carreiras contributivas e aplicação de um regime de aposentação específico para professores e educadores; Pelo fim das desigualdades na contagem do tempo de serviço dos professores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores - Por um regime específico de aposentação justo e adequado às especificidades da profissão docente; Pela equidade no reposicionamento docente e correção de ultrapassagens; Recomenda ao Governo que reponha a justiça e equidade na carreira docente; Recomenda ao Governo que reveja os critérios de reposicionamento na carreira docente de forma a garantir a correção das ultrapassagens na progressão da carreira, assegurando a contabilização de todo o tempo de serviço dos professores, independentemente da data de ingresso; Recomenda ao Governo que garanta o reconhecimento do tempo de serviço efetivo prestado pelos docentes do ensino superior nas mesmas circunstâncias das previstas no Decreto-Lei n.º 51/2024, de 28 de agosto; Recomenda ao Governo que reponha a justiça na carreira dos técnicos superiores do Ministério da Educação, Ciência e Inovação; Recomenda ao Governo a correção de injustiças na carreira docente; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Justiça para os docentes da escola pública; Valorização das longas carreiras contributivas e aplicação de um regime de aposentação específico para professores e educadores; Pelo fim das desigualdades na contagem do tempo de serviço dos professores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/40?pgs=40-42&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores - Por um regime específico de aposentação justo e adequado às especificidades da profissão docente; Pela equidade no reposicionamento docente e correção de ultrapassagens; Recomenda ao Governo que reponha a justiça e equidade na carreira docente; Recomenda ao Governo que reveja os critérios de reposicionamento na carreira docente de forma a garantir a correção das ultrapassagens na progressão da carreira, assegurando a contabilização de todo o tempo de serviço dos professores, independentemente da data de ingresso; Recomenda ao Governo que garanta o reconhecimento do tempo de serviço efetivo prestado pelos docentes do ensino superior nas mesmas circunstâncias das previstas no Decreto-Lei n.º 51/2024, de 28 de agosto; Recomenda ao Governo que reponha a justiça na carreira dos técnicos superiores do Ministério da Educação, Ciência e Inovação; Recomenda ao Governo a correção de injustiças na carreira docente; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Justiça para os docentes da escola pública; Valorização das longas carreiras contributivas e aplicação de um regime de aposentação específico para professores e educadores; Pelo fim das desigualdades na contagem do tempo de serviço dos professores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores - Por um regime específico de aposentação justo e adequado às especificidades da profissão docente; Pela equidade no reposicionamento docente e correção de ultrapassagens; Recomenda ao Governo que reponha a justiça e equidade na carreira docente; Recomenda ao Governo que reveja os critérios de reposicionamento na carreira docente de forma a garantir a correção das ultrapassagens na progressão da carreira, assegurando a contabilização de todo o tempo de serviço dos professores, independentemente da data de ingresso; Recomenda ao Governo que garanta o reconhecimento do tempo de serviço efetivo prestado pelos docentes do ensino superior nas mesmas circunstâncias das previstas no Decreto-Lei n.º 51/2024, de 28 de agosto; Recomenda ao Governo que reponha a justiça na carreira dos técnicos superiores do Ministério da Educação, Ciência e Inovação; Recomenda ao Governo a correção de injustiças na carreira docente; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Justiça para os docentes da escola pública; Valorização das longas carreiras contributivas e aplicação de um regime de aposentação específico para professores e educadores; Pelo fim das desigualdades na contagem do tempo de serviço dos professores",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/97/52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-07",
+                "pubLeg": "XVI",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Federação Nacional dos Professores - Por um regime específico de aposentação justo e adequado às especificidades da profissão docente; Pela equidade no reposicionamento docente e correção de ultrapassagens; Recomenda ao Governo que reponha a justiça e equidade na carreira docente; Recomenda ao Governo que reveja os critérios de reposicionamento na carreira docente de forma a garantir a correção das ultrapassagens na progressão da carreira, assegurando a contabilização de todo o tempo de serviço dos professores, independentemente da data de ingresso; Recomenda ao Governo que garanta o reconhecimento do tempo de serviço efetivo prestado pelos docentes do ensino superior nas mesmas circunstâncias das previstas no Decreto-Lei n.º 51/2024, de 28 de agosto; Recomenda ao Governo que reponha a justiça na carreira dos técnicos superiores do Ministério da Educação, Ciência e Inovação; Recomenda ao Governo a correção de injustiças na carreira docente; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Justiça para os docentes da escola pública; Valorização das longas carreiras contributivas e aplicação de um regime de aposentação específico para professores e educadores; Pelo fim das desigualdades na contagem do tempo de serviço dos professores\n",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34150",
+    "PetAssunto": "Pela Equidade no Reposicionamento Docente e Correção de Ultrapassagens",
+    "PetDataEntrada": "2024-10-15",
+    "PeticoesAssociadas": null,
+    "PetId": "34150",
+    "PetLeg": "XVI",
+    "PetNr": "105",
+    "PetNrAssinaturas": "10114",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56690",
+        "obs": null,
+        "pag": [
+          "34-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-07",
+        "pubLeg": "XVI",
+        "pubNr": "97",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/097/2025-03-07/34?pgs=34-44&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915287",
+        "obs": null,
+        "pag": [
+          "16-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-31",
+        "pubLeg": "XVI",
+        "pubNr": "39",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/039/2024-10-31/16?pgs=16-17&org=PLC"
+      }
+    ]
+  }
+}
