@@ -1,0 +1,6 @@
+Aviso n.º 22807/2024/2
+
+Joaquim Jorge Ferreira, Presidente da Câmara Municipal de Oliveira de Azeméis, torna público que, por deliberação da Câmara Municipal, tomada em reunião ordinária de 12 de setembro do corrente ano, e para efeitos do disposto no artigo 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro na redação atual, se submete a consulta pública, pelo prazo de 30 dias a contar da data de publicação do presente aviso, o projeto de alteração ao “Regulamento Municipal de Gestão e Funcionamento do Business Centre - Centro de Negócios da Área de Acolhimento Empresarial de Ul-Loureiro”.
+Durante este período poderão os/as interessados/as consultar o mencionado projeto de Regulamento, através da página eletrónica do município (www.cm-oaz.pt) onde ficará disponível, bem como apresentar sugestões, por escrito, através de correio eletrónico para o endereço gae@cm-oaz.pt, ao cuidado da Gestora do procedimento, Dra. Margarida Velhas e indicando como assunto: “Projeto de alteração ao Regulamento Municipal de Gestão e Funcionamento do Business Centre - Centro de Negócios da Área de Acolhimento Empresarial de Ul-Loureiro”.
+30 de setembro de 2024. - O Presidente da Câmara Municipal, Joaquim Jorge Ferreira, eng.º
+318176241
