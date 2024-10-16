@@ -10,7 +10,9 @@
 
 a) Na caça aos patos pelo processo de espera até 100 m dos planos de água, em que é permitido desde uma hora antes do nascer do Sol até uma hora depois do pôr do sol;
 
-b) Na caça a espécies de caça maior pelos processos de aproximação e, em período de lua cheia, de espera.
+b) Na caça a espécies de caça maior pelos processos de aproximação e, em período de lua cheia, de espera, sem prejuízo da alínea seguinte;
+
+c) Na caça ao javali pelos processos de aproximação e de espera.
 
 2 - A jornada de caça aos pombos, tordos e estorninho-malhado, bem como a detenção de exemplares destas espécies no exercício da caça, só é permitida entre o nascer do Sol e as 16 horas, exceptuando-se em locais de passagem:
 
