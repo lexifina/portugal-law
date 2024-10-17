@@ -1,0 +1,1827 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "320",
+    "id": "304208",
+    "titulo": "Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2024-10-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40291",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2024-10-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263488",
+        "leg": "XVI",
+        "nr": "4",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aprova o Regime Especial de Proteção da Habitação Arrendada"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263489",
+        "leg": "XVI",
+        "nr": "5",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263748",
+        "leg": "XVI",
+        "nr": "142",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304163",
+        "leg": "XVI",
+        "nr": "306",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação "
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304169",
+        "leg": "XVI",
+        "nr": "346",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela inclusão dos contratos celebrados após 31 de Dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do número 1 do artigo 78.º-E do Código do IRS"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304186",
+        "leg": "XVI",
+        "nr": "360",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304204",
+        "leg": "XVI",
+        "nr": "372",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36579",
+            "obs": null,
+            "pag": [
+              "16-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a regulamentação do Fundo de Emergência para a Habitação\n\n"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-10-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/18"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7344",
+                "nome": "Rui Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/19"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/20"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/21"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/19?pgs=19&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "8642",
+                "nome": "Marisa Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/22"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5509",
+                "nome": "Hugo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/23"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/20?pgs=20-22&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4090",
+                "nome": "Margarida Saavedra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/24"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7343",
+                "nome": "Carlos Guimarães Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/25"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7385",
+                "nome": "Marta Martins da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/26"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/27"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8924",
+                "nome": "Ricardo Araújo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/28"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/29"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/18"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/28?pgs=28-30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime especial de proteção da habitação arrendada; Regime extraordinário de proteção da habitação própria face ao aumento dos encargos com o crédito à habitação; Cria a contribuição de solidariedade temporária sobre o setor da banca, para fazer face à escalada inflacionista de preços no setor da habitação; Procede à alteração ao Regime do Arrendamento Urbano e prevê a não-discriminação no acesso à habitação; Alarga os apoios às famílias para pagamento da renda e da prestação de contratos de crédito e protege as pessoas em vulnerabilidade habitacional; Pela inclusão dos contratos celebrados após 31 de dezembro de 2011 no âmbito da dedução de encargos com juros de dívidas contraídas no âmbito de contratos de crédito à habitação, prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS; Recomenda ao Governo que crie um mecanismo de controlo de rendas para defender o direito à habitação; Recomenda a regulamentação do Fundo de Emergência para a Habitação",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559284",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1019691",
+        "obs": null,
+        "pag": [
+          "16-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-18",
+        "pubLeg": "XVI",
+        "pubNr": "51",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/16?pgs=16-30&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
