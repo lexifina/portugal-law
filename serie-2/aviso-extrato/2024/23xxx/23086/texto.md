@@ -1,0 +1,7 @@
+Aviso (extrato)  n.º 23086/2024/2
+
+Nuno Miguel Marques Nunes de Almeida, Presidente da Junta de Freguesia de Pampilhosa da Serra, nos termos do disposto no n.º 1 do artigo 56.º do RJAL, aprovado no anexo i da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, em conjugação com o disposto no artigo 101.º do CPA, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, torna público o Projeto de Regulamento de Apoio à Natalidade na Freguesia de Pampilhosa da Serra, aprovado pela Junta de Freguesia de Pampilhosa da Serra, em reunião de 30/09/2024, ao abrigo do disposto na alínea h) do n.º 1 do artigo 16.º do RJAL, o qual é submetido a consulta pública para recolha de sugestões, durante o prazo de 30 (trinta) dias a contar da data da publicação do presente Edital.
+Durante este período poderão os/as interessados/as consultar o mencionado projeto de Regulamento, através da página eletrónica da Junta de Freguesia (www.jf-pampilhosadaserra.pt) onde estará disponível.
+Durante o período de consulta pública, os interessados deverão apresentar as suas sugestões, ou questões que possam ser consideradas relevantes no âmbito do presente procedimento, por escrito, de forma fundamentada e dirigidas ao senhor Presidente da Junta de Freguesia de Pampilhosa da Serra, através de correio postal para o endereço Rua Rangel de Lima, n.º 102 - 3320-229 Pampilhosa da Serra, ou através de correio eletrónico para fpserra@sapo.pt, no prazo acima indicado.
+7 de outubro de 2024. - O Presidente, Nuno Miguel Marques Nunes de Almeida.
+318212772
