@@ -1,0 +1,3531 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "345",
+    "id": "304168",
+    "titulo": "Pela disponibilização de fundos públicos para acção social indirecta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2024-10-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40307",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2024-10-17",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304190",
+        "leg": "XVI",
+        "nr": "311",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Medidas de apoio aos estudantes no ensino superior no âmbito da Ação Social Escolar  "
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304205",
+        "leg": "XVI",
+        "nr": "317",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes\n"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263835",
+        "leg": "XVI",
+        "nr": "152",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da Carreira de Investigação Científica nos Laboratórios de Estado"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "284077",
+        "leg": "XVI",
+        "nr": "294",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304165",
+        "leg": "XVI",
+        "nr": "342",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a aprovação de medidas de combate ao abandono do Ensino Superior"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304166",
+        "leg": "XVI",
+        "nr": "343",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de  material académico no Ensino Superior e que crie um suplemento que suporte estes custos"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304194",
+        "leg": "XVI",
+        "nr": "365",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica \n"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304196",
+        "leg": "XVI",
+        "nr": "367",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que estenda as medidas de Ação Social Escolar aos alunos carenciados que frequentam o Ensino Particular e Cooperativo"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304203",
+        "leg": "XVI",
+        "nr": "371",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado e da FCT \n\n"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304211",
+        "leg": "XVI",
+        "nr": "375",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos laboratórios do Estado"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304212",
+        "leg": "XVI",
+        "nr": "376",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36581",
+            "obs": null,
+            "pag": [
+              "45-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-18",
+            "pubLeg": "XVI",
+            "pubNr": "51",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Promover o acesso ao ensino superior e reforçar a ação social escolar\n"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-10-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8559",
+                "nome": "Isabel Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes;  Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8179",
+                "nome": "Ana Gabriela Cabilhas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8559",
+                "nome": "Isabel Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/47?pgs=47&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8491",
+                "nome": "Filipa Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8613",
+                "nome": "Maria José Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6706",
+                "nome": "Miguel Matos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/64"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/53?pgs=53-55&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8353",
+                "nome": "José Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/65"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6706",
+                "nome": "Miguel Matos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6081",
+                "nome": "Sonia dos Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8559",
+                "nome": "Isabel Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/51/70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-18",
+                "pubLeg": "XVI",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo medidas de reforço no âmbito da ação social escolar no ensino superior; Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da carreira de investigação científica nos Laboratórios de Estado; Medidas de apoio aos estudantes no ensino superior no âmbito da ação social escolar; Determina o dever de as instituições de ensino superior disponibilizarem serviços de saúde mental aos estudantes; Recomenda ao Governo a aprovação de medidas de combate ao abandono do ensino; Recomenda ao Governo que elabore um estudo nacional sobre os custos de aquisição de material académico no ensino superior e que crie um suplemento que suporte estes custos; Pela disponibilização de fundos públicos para ação social indireta a todas as instituições de ensino superior públicas sob a forma de fundações públicas com regime de direito privado; Integração dos trabalhadores dos Laboratórios do Estado na carreira de investigação científica; Recomenda ao Governo que estenda as medidas de ação social escolar aos alunos carenciados que frequentam o ensino particular e cooperativo; Recomenda a equidade salarial entre investigadores dos Laboratórios do Estado, da FCT e a criação de um fundo estratégico para a Ciência e Tecnologia; Recomenda ao Governo que proceda à abertura de concursos para contratação para posições permanentes da carreira de investigação nos Laboratórios do Estado; Promover o acesso ao ensino superior e reforçar a ação social escolar",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559300",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1019707",
+        "obs": null,
+        "pag": [
+          "45-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-18",
+        "pubLeg": "XVI",
+        "pubNr": "51",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/051/2024-10-18/45?pgs=45-60&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
