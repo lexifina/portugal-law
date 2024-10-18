@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "344",
+  "id": "304276",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-10-18",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a51774e44497a4f5455744d7a63324e7930304f5749304c5749774d4759745a6a41324e6d4d7a4f44597a4f5752694c6e426b5a673d3d&fich=b4042395-3767-49b4-b00f-f066c38639db.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a63794e6d4a695a546b744d54637a5a5330305a47466c4c57497a4e4459744d44566a59546c684e54686c4d54426b4c6d52765933673d&fich=2726bbe9-173e-4dae-b346-05ca9a58e10d.docx&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão 1"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "7040",
+        "nome": "Fabian Figueiredo"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "8642",
+        "nome": "Marisa Matias"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4557",
+        "nome": "Mariana Mortágua"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "BE"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "304276",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5441354f546b78596a55744d5463794d4330304f44646d4c5749784e6d51744e4459325a444a6d4e546b315a6d59304c6d52765933673d&fich=e09991b5-1720-487f-b16d-466d2f595ff4.docx&Inline=true",
+    "IniNr": "344",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto da iniciativa a pedido do autor em 2024-10-18.",
+    "IniTipo": "J",
+    "IniTitulo": "Introdução do critério da paridade na composição do Tribunal Constitucional (alteração à Lei de organização, funcionamento e processo do Tribunal Constitucional, Lei n.º 28/82, de 15 de novembro)\n",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
