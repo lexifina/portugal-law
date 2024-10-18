@@ -1,0 +1,168 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "152",
+    "id": "263835",
+    "titulo": "Recomenda ao Governo a abertura de concursos para a contratação de doutorados para posições permanentes da Carreira de Investigação Científica nos Laboratórios de Estado"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2024-10-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "76043",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-10-18",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-11-08",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XVILeg/8CEC/Paginas/ContributosIniciativasII.aspx?ID_Ini=152"
+          },
+          {
+            "DataDocumento": "2024-12-12",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Prorrogação do prazo de apreciação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d444e6a4e7a67305953316b5a546b344c54526b4e7a41744f4759314d5330334e7a45344e7a63354e6d51334f4451756347526d&fich=103c784a-de98-4d70-8f51-77187796d784.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f5759315a574d315a6930305a4451344c5451304e7a4d744f4456684e5330775a6d4d77595467794e32457a4e6a6b756347526d&fich=f9f5ec5f-4d48-4473-85a5-0fc0a827a369.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d324a694f544d334d433078596a45784c5452684f5445744f4751775953307a5a6a4d79596d526d4e7a4978596d45756347526d&fich=33bb9370-1b11-4a91-8d0a-3f32bdf721ba.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-19",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d6a51324e474e6c5979316b4f47466a4c54526b4d3255744f474d784e79316b4d6d55774d4451344e6d51774d6a55756347526d&fich=e2464cec-d8ac-4d3e-8c17-d2e00486d025.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-19",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383259574d7a5a6a4d355a53316d4e57566d4c5451795a544d744f475530595330784e32466c4f446c6a5a6d4d334d6d45756347526d&fich=6ac3f39e-f5ef-42e3-8e4a-17ae89cfc72a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-19",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Gravação da reunião de discussão e votação na especialidade",
+            "URL": "https://media.parlamento.pt/site/XVILEG/SL1/COM/08_CEC/CEC_20250219.mp3"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8400",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência ",
+        "Numero": "8400",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-02-19",
+            "dataRemessa": "2025-02-19",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "BE",
+              "L",
+              "PCP",
+              "CDS-PP"
+            ],
+            "data": "2025-02-19",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> IL</I><BR>Ausência: <I>BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+            "id": "128691",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "32",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-10-18",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559500",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022025",
+        "obs": "Relatório da discussão e votação na especialidade e texto final",
+        "pag": [
+          "30-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-02-19",
+        "pubLeg": "XVI",
+        "pubNr": "185",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/185/2025-02-19/30?pgs=30-32&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
