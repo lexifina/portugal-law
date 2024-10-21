@@ -1,0 +1,9 @@
+Aviso (extrato)  n.º 23299/2024/2
+
+Período de discussão pública do projeto do Regulamento Municipal de Gestão do Arvoredo
+Luís António Pita Ameixa, Presidente da Câmara Municipal de Ferreira do Alentejo:
+Torna público, e a todos interessados faz saber que, de acordo com o estabelecido nas disposições conjugadas e previstas nas alíneas b) e t) do artigo 35.º, e no artigo 56.º do Anexo I, à Lei n.º 75/2013, de 12 de setembro, na sua atual redação, nos termos e para os efeitos previstos no artigo 101.º do Código do Procedimento Administrativo, durante o período de 30 dias a contar do dia seguinte ao da publicação do presente edital no Diário da República 2.ª série, é submetido a apreciação pública o Projeto do Regulamento Municipal de Gestão do Arvoredo.
+O Projeto deste novo Regulamento foi presente à reunião ordinária desta Câmara Municipal, realizada em 25 de setembro de 2024 e encontra-se disponível para consulta no Balcão Único dos serviços desta Câmara Municipal e nos serviços da Divisão de Urbanismo e Obras Públicas na Praça Comendador Infante Passanha em Ferreira de Alentejo, durante o período de funcionamento entre as 9:00 horas e as 12:30 horas no período da manhã, e das 14:00 horas às 17:00 no período da tarde, bem como no sítio do Município na internet em www.ferreiradoalentejo.pt.
+Mais se informa que os interessados devem dirigir as suas sugestões, reclamações ou observações por escrito ao Presidente da Câmara Municipal de Ferreira do Alentejo que delas dará conhecimento à Câmara Municipal, podendo ser remetidas por correio eletrónico, através do endereço geral@cm-ferreira-alentejo.pt, ou entregues diretamente nos serviços jurídicos e institucional (edifício central da câmara municipal), durante o período normal de expediente.
+26 de setembro de 2024. - O Presidente da Câmara Municipal, Luís António Pita Ameixa.
+318167648
