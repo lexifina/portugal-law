@@ -1,0 +1,6 @@
+Aviso (extrato)  n.º 23650/2024/2
+
+Regulamentos para consulta pública
+Luís Carlos Fialho Pardal, Presidente da Junta da União das Freguesias de Bacelo e Senhora da Saúde (UFBSS), submete a apreciação pública durante o período de 30 dias úteis, a contar da data de publicação deste Aviso, o Regulamento da Unidade Local de Proteção Civil da UFBSS, conforme deliberado na reunião da Junta em 19 de agosto de 2024, nos termos da alínea h) do n.º 1 do artigo 16.º do Anexo I da Lei n.º 75/2013, de 12 setembro e para os efeitos do disposto nos artigos 98.º e 101.º do Código do Procedimento Administrativo, encontrando-se disponível para consulta na página institucional na internet, em www.uf-bacelosaude.pt, assim como nos edifícios sitos na Rua Antero de Quental 10-12 RC, 7005-293 Évora e na Rua Dr. Manuel Carvalho Moniz 34, 7005-796 Évora, durante o respetivo horário de expediente. As sugestões deverão ser entregues nos endereços indicados, ou enviadas para o correio eletrónico geral@uf-bacelosaude.pt, até ao termo do referido prazo. Para constar se publica o presente Edital, sendo ainda divulgado nos lugares habituais, nas vitrinas e na página na internet.
+16 de outubro de 2024. - O Presidente da Junta de Freguesia, Luís Carlos Fialho Pardal.
+318243658
