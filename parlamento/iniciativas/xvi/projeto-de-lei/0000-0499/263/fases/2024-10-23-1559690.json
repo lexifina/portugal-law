@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "263",
+    "id": "284082",
+    "titulo": "Atribuir aos Sapadores Florestais e aos Bombeiros de Associações Humanitárias a qualificação de profissão  de desgaste rápido bem como a atribuição de subsídio de risco"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-10-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a466d5a5745334e5449745a5467784f4330304e7a49304c574a6a4d3255744e4451774e4449344d4464694f546c6b4c6e426b5a673d3d&fich=61fea752-e818-4724-bc3e-44042807b99d.pdf&Inline=true",
+        "anexoNome": "Redistribuição - Despacho do PAR"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "76076",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-10-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2024-11-30",
+        "DatainicioApreciacaoPublica": "2024-10-31",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-11-29",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XVILeg/10CTSSI/Paginas/Iniciativas-em-Apreciacao-Publica-.aspx?t=4d533743716942545a584e7a77364e764945786c5a326c7a6247463061585a684c31424b544341794e6a4e6657465a4a587a4575777170665130673d&Path=vaz8FqZSWBRZOC%2fJajR%2fGDbOHWTkZsGV4M3xByr8NgQ4gouBxnytWENOYxiBWrJN8H726IhZCYbAxfiuIKe2yCRvxKx1cgKxOwAS7p6Dx%2bd7LlAKy4rUBunjvFQA%2bv%2fIqa5NQ7LpArabq7VU86Nk2f5BKwsa5P%2bVplRqhlz6fHl2jbjBC%2bX%2bFaiZhbRi2osNE2oEMfskyZBISeTe6Turw3Iwy%2f3nQEN%2bwZ8ZcK9tnAIMNJZa%2fZxiOG53il%2bhtgcOggxUs7gDYeX7Xx1Ke7GJ50ethlnl%2fqP2k8FrilpI2k3e3yPOB35QC7GX%2bIwm9NnSWtR4MUx4%2bqik9dRGqutBDnon%2bmACtqHHYB1Y4hl5fh2arHW6BtwN%2fqdh4YQWjGHaTSiIMvK2cIxV7cdTD3JNqLVvZLS%2bM11%2fhBmKpJAvUOLFOj3ejzk9%2f4QAJhgBu4w05fAd%2br7oTOOcqjnOFarx56YJxNh8%2f3CT5%2bcp9OJeV5jootnzyxl284in4dKWBM3i"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8402",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8402",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-10-23",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Redistribuição da iniciativa.",
+    "OevId": "1559690",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
