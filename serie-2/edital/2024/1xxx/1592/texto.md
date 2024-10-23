@@ -1,0 +1,19 @@
+Edital n.º 1592/2024
+
+Domingos Bragança Salgado, Presidente da Câmara Municipal de Guimarães, nos termos e para os efeitos do disposto no artigo 56.º do regime jurídico das autarquias locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, e do artigo 139.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, torna público que a Câmara Municipal, por deliberação de 16 de setembro de 2024, e a Assembleia Municipal, em sessão de 30 de setembro de 2024, aprovaram a proposta designada por “Regulamento Municipal de Taxas e Encargos nas Operações Urbanísticas - Alteração ao Regulamento”.
+A presente Alteração ao Regulamento entra em vigor no quinto dia útil posterior à data da sua publicação no Diário da República.
+Para constar e para os devidos efeitos, será este edital publicado na 2.ª série do Diário da República e no sítio da Internet em www.cm-guimaraes.pt.
+8 de outubro de 2024. - O Presidente da Câmara Municipal, Dr. Domingos Bragança.
+Alteração ao Regulamento Municipal de Taxas e Encargos nas Operações Urbanísticas
+Nota justificativa
+Por deliberação da Assembleia Municipal de 8 de maio de 2023, sob proposta da Câmara Municipal de 17 de abril de 2023, foi aprovada a abertura de um procedimento designado por “Oferta Pública de Aquisição de Imóveis para Implementação de Projetos no Âmbito do Investimento RE-C02-I01 - Programa de Apoio ao Acesso à Habitação - Aviso de Publicitação n.º 01/CO2-I01/2021 - Componente 02 - Habitação”.
+Nesse aviso prevê-se a isenção de taxas urbanísticas, na permilagem correspondente à soma das permilagens das frações a adquirir pelo Município, para os procedimentos de controlo prévio que venham a ser promovidos ao seu abrigo. Sendo que a isenção de taxas e encargos nas operações urbanísticas deve ser prevista em regulamento municipal, houve necessidade de alterar o regulamento.
+A 26 de agosto de 2024 foi aberto o procedimento para alteração do regulamento, nos termos do disposto no artigo 98.º, n.º 1 do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual. No decurso do prazo estabelecido para o efeito, 10 dias úteis, nenhum interessado se apresentou no processo nem foram apresentados contributos.
+Foi dispensada a consulta pública, ao abrigo do disposto no artigo 101.º do Código de Procedimento Administrativo, por se entender que, não tendo comparecido nenhum interessado que devesse ser ouvido em audiência dos interessados, e não justificando a natureza da matéria agora alterada neste Regulamento uma consulta pública, porque não afeta de modo direto e imediato direitos ou interesses legalmente protegidos dos cidadãos, a situação não tinha enquadramento legal na obrigatoriedade prevista naquele artigo 101.º
+Assim, foi elaborada proposta de alteração ao Regulamento Municipal de Taxas e Encargos nas Operações Urbanísticas, que consiste na introdução de um novo artigo - o artigo 6.º-A - que deve ser submetida à aprovação da Câmara Municipal, nos termos do disposto na alínea k) do n.º 1 do artigo 33.º do anexo i da Lei n.º 75/2013, de 12 de setembro, para posterior aprovação pela Assembleia Municipal, nos termos e para os efeitos do disposto na alínea g) do n.º 1 do artigo 25.º do mesmo diploma legal.
+O artigo 6.º-A tem a seguinte redação:
+"Artigo 6.º-A
+Isenções
+1 - Estão isentas do pagamento das taxas referidas no presente regulamento, relativamente aos factos que se destinam à direta e imediata realização dos seus fins, e na permilagem correspondente à soma das permilagens das frações a adquirir pelo MG, as operações urbanísticas relativas ao 1.º direito - Programa de Apoio ao Acesso à Habitação.
+2 - A isenção de pagamento de taxas só poderá ser concedida uma vez, cumpridas todas as formalidades legais e regulamentares, indispensáveis à aprovação da operação urbanística inerente."
+318214481
