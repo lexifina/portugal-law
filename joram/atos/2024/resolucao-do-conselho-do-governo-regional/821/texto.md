@@ -1,0 +1,18 @@
+# Resolução do Conselho do Governo Regional n.º 821/2024
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 169/2024, 3.º suplemento, de 2024-10-23
+
+**Sumário:** Autoriza a adenda ao contrato-programa celebrado no dia 5 de setembro de 2023, entre a Região Autónoma da Madeira, através da Secretaria Regional de Saúde e Proteção Civil e o SANAS-MADEIRA - Associação Madeirense para o Socorro no Mar.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 821/2024
+Sumário: Autoriza a adenda ao contrato-programa celebrado no dia 5 de setembro de 2023, entre a Região Autónoma da Madeira, através da Secretaria Regional de Saúde e Proteção Civil e o SANAS-MADEIRA - Associação Madeirense para o Socorro no Mar.
+Texto: Resolução n.º 821/2024 Considerando que ao abrigo da Resolução do Conselho de Governo Regional n.º 893/2023, de 17 de agosto, publicada no JORAM, n.º 153, 3.º suplemento, a 18 de agosto, foi autorizada a celebração de um contrato programa para atribuição de uma comparticipação financeira para reparação da Embarcação da Classe A Hyman Wystone modo a viabilizar o funcionamento da RESCO no ano de 2024, garantindo a sua operacionalidade e o cumprimento dos objetivos que lhe estão consignados, enquanto elemento do dispositivo de resposta operacional, no âmbito do Sistema de Proteção Civil da Região Autónoma da Madeira; Considerando que no dia 5 de setembro de 2023 foi celebrado entre Região Autónoma da Madeira, através da Secretaria Regional de Saúde e Proteção Civil, e o SANASMADEIRA - Associação Madeirense para Socorro no Mar, o referido contrato programa; Considerando que a cláusula quarta do contrato impunha ao segundo outorgante obrigação de apresentação dos justificativos da despesa, bem como dos respetivos documentos originais de despesa e de quitação até 1 de outubro de 2024, prazo que não conseguiu cumprir; Considerando que o SANASMADEIRA dirigiu requerimento ao primeiro outorgante expondo os fundamentos que conduziram ao incumprimento do supramencionado prazo, não lhe sendo estes imputáveis e solicitou a prorrogação do prazo por mais 60 dias, nos termos do n.º 3 da cláusula quarta do suprarreferido contrato; Considerando que mediante as vicissitudes e constrangimentos externos invocados pelo SANASMADEIRA o primeiro outorgante aceitou-os e autorizou a prorrogação do prazo, o que não conduz a uma alteração da natureza global do contrato, mas obriga à modificação do mesmo, pois, implica necessariamente a alteração da cláusula quarta e consequentemente da cláusula terceira no que se refere ao modo de apresentação dos documentos comprovativos da despesa; Considerando que o valor da comparticipação financeira se mantém inalterado, havendo apenas necessidade de alteração do modo e do prazo de apresentação dos documentos de despesa. Assim: O Conselho do Governo reunido em plenário em 17 de outubro de 2024, resolve:
+1. Autorizar a adenda ao contrato-programa celebrado no dia 5 de setembro de 2023, entre a Região Autónoma da Madeira, através da Secretaria Regional de Saúde e Proteção Civil e o SANAS-MADEIRA - Associação Madeirense para o Socorro no Mar.
+2. Aprovar a minuta de adenda ao contrato-programa, a qual faz parte integrante da presente Resolução e fica arquivada na Secretaria-Geral da Presidência.
+3. Determinar que a presente adenda produz efeitos reportados a 30 de setembro de 2024.
+4. Mandatar o Secretário Regional de Saúde e Proteção Civil, para, em representação da Região Autónoma da Madeira, outorgar a referida adenda ao contrato-programa.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
