@@ -1,0 +1,7 @@
+Aviso (extrato)  n.º 23614/2024/2
+
+Sérgio Fernando da Silva Costa, Presidente da Câmara Municipal da Guarda, torna público, ao abrigo da competência constante da alínea t) do n.º 1 do artigo 35.º e para os efeitos do estatuído pelo artigo 56.º, ambos da Lei n.º 75/2013, de 12 de setembro, que, na reunião do executivo municipal realizada no dia 14 de outubro de 2024, foi deliberado, para efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro de 2015, submeter a consulta pública, pelo prazo de 30 dias a contar da data da publicação do presente aviso no Diário da República, o projeto de “Regulamento do Conselho Municipal da Cultura”
+Mais se informam todos os interessados que o referido projeto de regulamento se encontra disponível para consulta no sítio da internet do Município da Guarda, em www.mun-guarda.pt e que durante o decurso do referido prazo poderão proceder à apresentação de sugestões, as quais deverão ser formuladas por escrito e dirigidas ao Presidente da Câmara Municipal, por correio, entregues diretamente no balcão único da Câmara Municipal, ou através do endereço de email geral@mun-guarda.pt.
+Para conhecimento geral se mandou publicar este aviso no Diário da República e proceder à sua divulgação no sítio da internet da Câmara Municipal, em www.mun-guarda.pt
+15 de outubro de 2024. - O Presidente da Câmara Municipal, Sérgio Fernando da Silva Costa.
+318240311
