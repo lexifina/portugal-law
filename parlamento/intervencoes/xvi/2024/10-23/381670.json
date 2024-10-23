@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=F9PDOHNFycB6%2fwHBIK8pxp90NHMVWRoPo7xRrSheCH%2bXxTqdPsHw6D6aNnw9iqXvKxrH0P9GJq%2b8nJ0ko5nPHKfPEL8708E670ha7An37sU4tGcztL8bhpHrCso2hm3iseZ4qeJi7bkbYKgyGvQIwxzddtmYuv4DcTC30HQKz79JFlOXvg03OoOS04yfZ68VYC28B4Y0zeq4kcV5KAu8QiQv5%2fFgUPsyig4aVYLHuh7fjhY7f5ZsHhjgiGjp5rJRhMiHrQ779WBR20oFU%2fl9o7E0tJ1VoRCT%2bJWMcMmsim85dzAqwb7dte5lqENalDhiAmRdnx%2freJJxlTxGDmPGNwxfjJ0%2fVlolAj0cWgs%2bJ8w%3d&fich=IntervencoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "642a74698e32955c3a685f799a9bc60770a614b0fea5fabf6e4055551add8069",
+  "legislatura": "XVI",
+  "id": "381670",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Inês de Sousa Real (PAN)",
+  "data_registo": "2024-10-23",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "137264",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "137264",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Alude a acontecimentos recentes na Cova da Moura falando sobre o papel do Estado nas áreas da liberdade e da segurança"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Dirige Pedido de Esclarecimento a Rui Rocha (IL), no âmbito da Declaração Política em que este aludiu a acontecimentos recentes de violência policial e desacatos em bairros de Lisboa, apelando à necessidade de garantir segurança e liberdade a todos os cidadãos.",
+        "duracao": "00:02:20.295",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "https://av.parlamento.pt/videos/Plenary/16/1/53/4"
+      }
+    ],
+    "DataReuniaoPlenaria": "2024-10-23",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PAN",
+      "idCadastro": "6864",
+      "nome": "Inês de Sousa Real"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "381670",
+    "IdDebate": "26553",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "381670",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-24",
+        "pubLeg": "XVI",
+        "pubNr": "53",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/053/2024-10-24/6?pgs=6-7&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Formula um pedido de esclarecimento ao deputado Rui Rocha (IL)",
+    "Sessao": "1",
+    "Sumario": "Alude a acontecimentos recentes na Cova da Moura falando sobre o papel do Estado nas áreas da liberdade e da segurança",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
