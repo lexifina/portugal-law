@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=F9PDOHNFycB6%2fwHBIK8pxp90NHMVWRoPo7xRrSheCH%2bXxTqdPsHw6D6aNnw9iqXvKxrH0P9GJq%2b8nJ0ko5nPHKfPEL8708E670ha7An37sU4tGcztL8bhpHrCso2hm3iseZ4qeJi7bkbYKgyGvQIwxzddtmYuv4DcTC30HQKz79JFlOXvg03OoOS04yfZ68VYC28B4Y0zeq4kcV5KAu8QiQv5%2fFgUPsyig4aVYLHuh7fjhY7f5ZsHhjgiGjp5rJRhMiHrQ779WBR20oFU%2fl9o7E0tJ1VoRCT%2bJWMcMmsim85dzAqwb7dte5lqENalDhiAmRdnx%2freJJxlTxGDmPGNwxfjJ0%2fVlolAj0cWgs%2bJ8w%3d&fich=IntervencoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "642a74698e32955c3a685f799a9bc60770a614b0fea5fabf6e4055551add8069",
+  "legislatura": "XVI",
+  "id": "381669",
+  "tipo": "Declaração politica",
+  "orador": "Rui Rocha (IL)",
+  "data_registo": "2024-10-23",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "137264",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "137264",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Alude a acontecimentos recentes na Cova da Moura falando sobre o papel do Estado nas áreas da liberdade e da segurança"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Em Declaração Política, alude a acontecimentos recentes de violência policial e desacatos em bairros de Lisboa, apelando à necessidade de garantir segurança e liberdade a todos os cidadãos.",
+        "duracao": "00:05:46.304",
+        "tipoIntervencao": "Declaração politica",
+        "url": "https://av.parlamento.pt/videos/Plenary/16/1/53/3"
+      }
+    ],
+    "DataReuniaoPlenaria": "2024-10-23",
+    "Debate": null,
+    "Deputados": {
+      "GP": "IL",
+      "idCadastro": "7331",
+      "nome": "Rui Rocha"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "381669",
+    "IdDebate": "26553",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "381669",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "3-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-24",
+        "pubLeg": "XVI",
+        "pubNr": "53",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/053/2024-10-24/3?pgs=3-5&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Alude a acontecimentos recentes na Cova da Moura falando sobre o papel do Estado nas áreas da liberdade e da segurança",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração politica"
+  }
+}
