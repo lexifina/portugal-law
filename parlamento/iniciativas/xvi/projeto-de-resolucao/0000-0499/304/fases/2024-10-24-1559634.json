@@ -1,0 +1,3470 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "304",
+    "id": "294098",
+    "titulo": "Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola  "
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2024-10-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40340",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2024-10-24",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304240",
+        "leg": "XVI",
+        "nr": "329",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304247",
+        "leg": "XVI",
+        "nr": "333",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Promove medidas para combate à violência em contexto escolar"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304251",
+        "leg": "XVI",
+        "nr": "336",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304252",
+        "leg": "XVI",
+        "nr": "337",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263785",
+        "leg": "XVI",
+        "nr": "130",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263838",
+        "leg": "XVI",
+        "nr": "153",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "273920",
+        "leg": "XVI",
+        "nr": "208",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens "
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304239",
+        "leg": "XVI",
+        "nr": "389",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Medidas de prevenção e combate à violência nas escolas"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304243",
+        "leg": "XVI",
+        "nr": "390",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304255",
+        "leg": "XVI",
+        "nr": "393",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36604",
+            "obs": null,
+            "pag": [
+              "42-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-10-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8425",
+                "nome": "Joaquim Barbosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8425",
+                "nome": "Joaquim Barbosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/64"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/65"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412642",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8244",
+                "nome": "Ângela Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7965",
+                "nome": "Marcus Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8244",
+                "nome": "Ângela Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412647",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6867",
+                "nome": "Rosário Gambôa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7340",
+                "nome": "Gabriel Mithá Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412649",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7340",
+                "nome": "Gabriel Mithá Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412651",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412652",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7340",
+                "nome": "Gabriel Mithá Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/77"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/78"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/55?pgs=55&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559634",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XV",
+        "nr": "219",
+        "publicacao": null,
+        "sel": "2",
+        "tipo": null,
+        "titulo": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020248",
+        "obs": null,
+        "pag": [
+          "42-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-25",
+        "pubLeg": "XVI",
+        "pubNr": "54",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
