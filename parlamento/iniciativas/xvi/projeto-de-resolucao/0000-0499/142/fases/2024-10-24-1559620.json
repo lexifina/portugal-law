@@ -1,0 +1,1487 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "142",
+    "id": "263802",
+    "titulo": "Valorizar os recreios, promover o seu papel pedagógico, lúdico e social"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2024-10-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40330",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2024-10-24",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304241",
+        "leg": "XVI",
+        "nr": "330",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino,  alterando a Lei n.º 51/2012, de 5 de setembro\n"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304253",
+        "leg": "XVI",
+        "nr": "338",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304238",
+        "leg": "XVI",
+        "nr": "388",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304244",
+        "leg": "XVI",
+        "nr": "391",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Por melhores condições para brincar e para estar na Escola "
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304248",
+        "leg": "XVI",
+        "nr": "392",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36603",
+            "obs": null,
+            "pag": [
+              "31-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-10-25",
+            "pubLeg": "XVI",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil "
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-10-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412623",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3936",
+                "nome": "Palmira Maciel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412625",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412626",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "9001",
+                "nome": "Tânia Mateus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8525",
+                "nome": "Gonçalo Valente"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8491",
+                "nome": "Filipa Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8414",
+                "nome": "Luísa Areosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7388",
+                "nome": "Inês Barroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7460",
+                "nome": "Eduardo Pinheiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "4365",
+                "nome": "Manuela Tender"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "VIVER o recreio escolar, sem ecrãs de smartphones! (Mónica Sofia Rodrigues Pereira e Outros); Promove uma escola sem ecrãs de smartphones nos primeiros níveis de ensino, alterando a Lei n.º 51/2012, de 5 de setembro; Promove o uso saudável de tecnologias nas escolas, alterando a Lei n.º 51/2012, de 5 de setembro, e o Decreto-Lei n.º 75/2008, de 22 de abril; Valorizar os recreios, promover o seu papel pedagógico, lúdico e social; Recomenda ao Governo o Reforço da Reflexão e Ação sobre o Impacto dos Telemóveis em Ambiente Escolar; Por melhores condições para brincar e para estar na Escola; Recomenda um conjunto de medidas com vista à regulamentação do uso de telemóveis nas escolas e sensibilização para o impacto dos ecrãs no desenvolvimento infantil.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559620",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XV",
+        "nr": "227",
+        "publicacao": null,
+        "sel": "2",
+        "tipo": null,
+        "titulo": "VIVER o recreio escolar, sem ecrãs de smartphones!"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020237",
+        "obs": null,
+        "pag": [
+          "31-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-25",
+        "pubLeg": "XVI",
+        "pubNr": "54",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/31?pgs=31-41&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
