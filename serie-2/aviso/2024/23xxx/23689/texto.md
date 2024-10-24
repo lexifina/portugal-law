@@ -1,0 +1,8 @@
+Aviso n.º 23689/2024/2
+
+Manuel Jorge Séneca da Luz Valamatos dos Reis, Presidente da Câmara Municipal de Abrantes, faz público, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12/09, e em cumprimento e para os efeitos do disposto no artigo 56.º do mesmo Anexo e no n.º 1 do artigo 101.º do Código de Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que por deliberação da Câmara Municipal de Abrantes, tomada na reunião de 1 de outubro de 2024, foi aprovado o Projeto de Regulamento Municipal de Incentivos Financeiros a Médicos que integram as USF do Concelho de Abrantes.
+O projeto de regulamento é submetido a consulta pública para recolha de sugestões durante o período de 30 úteis a contar da data da publicação na 2.ª série do Diário da República, podendo o mesmo ser consultado na Divisão do Desenvolvimento Social do Município de Abrantes e na Internet, no sítio institucional do Município de Abrantes, em www.cm-abrantes.pt.
+Convidam-se todas as pessoas interessadas a apresentar, por escrito, sugestões, observações ou reclamações dentro do período atrás referido, dirigidas ao Presidente da Câmara Municipal de Abrantes, através dos seguintes meios: presencialmente no Serviço de Atendimento e Licenciamento Geral, sito na Praça Raimundo Soares, em Abrantes, no horário de expediente; através de correio eletrónico: geral@cm-abrantes.pt e por via postal para o seguinte endereço:
+Câmara Municipal de Abrantes, Praça Raimundo Soares, 2200-366 Abrantes.
+10 de outubro de 2024. - O Presidente da Câmara Municipal, Manuel Jorge Séneca da Luz Valamatos dos Reis.
+318242434
