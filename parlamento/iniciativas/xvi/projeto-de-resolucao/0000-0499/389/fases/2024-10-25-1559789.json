@@ -1,0 +1,513 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "389",
+    "id": "304239",
+    "titulo": "Medidas de prevenção e combate à violência nas escolas"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2024-10-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40456",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2024-10-25",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-10-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7334",
+                "nome": "Ana Abrunhosa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6543",
+                "nome": "Alexandra Leitão"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7913",
+                "nome": "Ana Bernardo"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6532",
+                "nome": "Ana Mendes Godinho"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5832",
+                "nome": "Ana Sofia Antunes"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6050",
+                "nome": "André Pinotes Batista"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "8230",
+                "nome": "André Rijo"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7888",
+                "nome": "António Mendonça Mendes"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6661",
+                "nome": "Carlos Brás"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "8774",
+                "nome": "Carlos Silva"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6187",
+                "nome": "Carlos Pereira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5852",
+                "nome": "Davide Amado"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6859",
+                "nome": "Cláudia Santos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7250",
+                "nome": "Clarisse Campos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "162",
+                "nome": "Edite Estrela"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5600",
+                "nome": "Eurico Brilhante Dias"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7460",
+                "nome": "Eduardo Pinheiro"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4209",
+                "nome": "Elza Pais"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7212",
+                "nome": "Fernando José"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7350",
+                "nome": "Fátima Correia Pinto"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1554",
+                "nome": "Filipe Neto Brandão"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "3930",
+                "nome": "Fernando Medina"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7341",
+                "nome": "Francisco César"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7483",
+                "nome": "Gilberto Anjos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5509",
+                "nome": "Hugo Oliveira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6013",
+                "nome": "Hugo Costa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7494",
+                "nome": "Irene Costa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "8559",
+                "nome": "Isabel Ferreira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4133",
+                "nome": "Isabel Oneto"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2885",
+                "nome": "Joana Lima"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4405",
+                "nome": "João Torres"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2129",
+                "nome": "João Paulo Correia"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1735",
+                "nome": "João Paulo Rebelo"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6546",
+                "nome": "João Azevedo"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6884",
+                "nome": "Jorge Botelho"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6731",
+                "nome": "José Carlos Barbosa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2105",
+                "nome": "José Luís Carneiro"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7379",
+                "nome": "José Costa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4210",
+                "nome": "José Rui Cruz"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "8387",
+                "nome": "Lia Ferreira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "8396",
+                "nome": "Luís Dias"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5677",
+                "nome": "Luís Graça"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2098",
+                "nome": "Manuel Pizarro"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7018",
+                "nome": "Mara Lagriminha Coelho"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6934",
+                "nome": "Mariana Vieira da Silva"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2209",
+                "nome": "Marcos Perestrello"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6893",
+                "nome": "Maria Begonha"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5841",
+                "nome": "Miguel Cabrita"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6870",
+                "nome": "Marina Gonçalves"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1865",
+                "nome": "Nelson Brito"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6706",
+                "nome": "Miguel Matos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7348",
+                "nome": "Miguel Iglésias"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "3936",
+                "nome": "Palmira Maciel"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6878",
+                "nome": "Nuno Fazenda"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "8020",
+                "nome": "Patrícia Caixinha"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6371",
+                "nome": "Patrícia Faro"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1893",
+                "nome": "Pedro Coimbra"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "8888",
+                "nome": "Pedro Vaz"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "9006",
+                "nome": "Pedro Sousa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "8920",
+                "nome": "Ricardo Costa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7034",
+                "nome": "Raquel Ferreira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7731",
+                "nome": "Ricardo Lima"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7935",
+                "nome": "Ricardo Lino"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6552",
+                "nome": "Ricardo Pinheiro"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6867",
+                "nome": "Rosário Gambôa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1468",
+                "nome": "Sérgio Ávila"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "8986",
+                "nome": "Sofia Canha"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1264",
+                "nome": "Sérgio Sousa Pinto"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6710",
+                "nome": "Sofia Andrade"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6962",
+                "nome": "Susana Correia"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2445",
+                "nome": "Tiago Barbosa Ribeiro"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4347",
+                "nome": "Walter Chicharro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "411945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "88-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-26",
+                "pubLeg": "XVI",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/055/2024-10-26/88?pgs=88-90&org=PLC"
+              }
+            ],
+            "sumario": "Medidas de prevenção e combate à violência nas escolas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559789",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "37324",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "88-90"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-26",
+        "pubLeg": "XVI",
+        "pubNr": "55",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/055/2024-10-26/88?pgs=88-90&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2024-10-25",
+        "descricao": null,
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> L</I>, <I> PAN</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>",
+        "id": "127377",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "54",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
