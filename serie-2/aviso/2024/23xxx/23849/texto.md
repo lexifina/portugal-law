@@ -1,0 +1,7 @@
+Aviso n.º 23849/2024/2
+
+Paulo Jorge Almendra Xavier, Presidente da Câmara Municipal de Bragança, torna público que, em Reunião ordinária desta Câmara Municipal, realizada em 14 de outubro de 2024, nos termos do artigo 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 62.º do Decreto-Lei n.º 194/2009, de 20 de agosto, na sua redação atual, durante o prazo de 30 dias úteis, contados do dia seguinte à publicação do presente aviso no Diário da República, é submetida a consulta pública, o Projeto de Regulamento dos Serviços de Abastecimento de Água e de Saneamento do Concelho de Bragança, cujo texto pode ser consultado no site institucional do Município de Bragança www.cm-braganca.pt.
+O presente regulamento municipal permitirá garantir uma maior clareza, equidade e uniformidade de procedimentos no âmbito das relações comerciais, com claro benefício para o setor em geral, bem como para todos os intervenientes na prestação do serviço público de abastecimento de água e saneamento de águas residuais, bem como dispõe de um conjunto de regras técnicas relacionadas com a conceção, projeto, construção e exploração das infraestruturas de serviços públicos de água.
+Conforme o n.º 2 da referida disposição legal, os interessados devem apresentar as suas sugestões por escrito, no Balcão Único do Município de Bragança (9h00 às 16h00) ou para a morada Forte São João de Deus, 5300-263, Bragança.
+18 de outubro de 2024. - O Presidente da Câmara Municipal, Paulo Jorge Almendra Xavier, Dr.
+318252162
