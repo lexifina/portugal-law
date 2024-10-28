@@ -1,0 +1,11 @@
+Aviso n.º 23975/2024/2
+
+3.ª alteração à 1.ª Revisão do Plano Diretor Municipal de Cantanhede
+Discussão pública
+Pedro António Vaz Cardoso, Vice-Presidente da Câmara Municipal de Cantanhede, torna público, que a Câmara Municipal de Cantanhede, na reunião de câmara pública ordinária de 16 de outubro de 2024, deliberou, por unanimidade, dar início ao período de discussão pública relativa à 3.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Cantanhede, nos termos do artigo 89.º, em articulação com o artigo 119.º do Decreto-Lei n.º 80/2015, de 14 de maio na sua atual redação.
+Deliberou ainda, estabelecer o período de discussão pública de 30 (trinta) dias úteis, a iniciar no 6.º (sexto) dia após a publicação do presente aviso na 2.ª série do Diário da República.
+Durante o referido período, a proposta da 3.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Cantanhede e da Avaliação Ambiental Estratégica, acompanhada dos pareceres emitidos nas Conferências Procedimentais, pelas entidades representativas dos interesses a ponderar, está disponível para consulta no Departamento de Urbanismo - Divisão de Gestão do Território e Sustentabilidade Ambiental, durante as horas normais de expediente (das 9 horas às 13 horas e das 14 horas às 17 horas), bem como na página da internet do Município de Cantanhede em: http://www.cm-cantanhede.pt.
+Convidam-se todos os interessados a formular as reclamações, observações e sugestões que entendam por convenientes, as quais devem ser apresentadas por escrito até ao termo do referido período, dirigidas à Exma. Sra. Presidente da Câmara Municipal de Cantanhede, utilizando, para o efeito, o impresso próprio que pode ser obtido na Câmara Municipal ou na página da internet (http://www.cm-cantanhede.pt) e entregue por uma das seguintes formas: presencialmente, nas instalações desta Câmara Municipal; por via postal, para a morada - Praça Marquês de Marialva, 3060-133 Cantanhede ou por via eletrónica, para o e-mail: dgtsa-pdm@cm-cantanhede.pt.
+Para constar, publica-se o teor do presente aviso, que vai ser afixado nos habituais lugares de estilo, bem como publicado na 2.ª série do Diário da República e na imprensa.
+17 de outubro de 2024. - O Vice-Presidente da Câmara Municipal, Pedro António Vaz Cardoso.
+618256983
