@@ -1,0 +1,16 @@
+# Resolução do Conselho do Governo Regional n.º 841/2024
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 172/2024, suplemento, de 2024-10-28
+
+**Sumário:** Autoriza o Serviço Regional de Proteção Civil, IP-RAM a não renovar o contrato de arrendamento do imóvel destinado à casa de função ao Presidente do Conselho Diretivo do Serviço Regional de Proteção Civil, IP-RAM.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 841/2024
+Sumário: Autoriza o Serviço Regional de Proteção Civil, IP-RAM a não renovar o contrato de arrendamento do imóvel destinado à casa de função ao Presidente do Conselho Diretivo do Serviço Regional de Proteção Civil, IP-RAM.
+Texto: Resolução n.º 841/2024 Considerando que, nos termos do disposto no artigo 6.º A do Decreto Legislativo Regional n.º 17/2022/M, de 1 de agosto, que procede à terceira alteração ao Decreto Legislativo Regional n.º 7/2009/M, de 30 de junho, conjugado com o disposto no n.º 1 do artigo 9.º, por remissão do n.º 1 do artigo 16.º do Decreto Legislativo Regional n.º 7/2012/M, de 20 de abril, alterado e republicado pelo Decreto Legislativo Regional n.º 24/2017/M, de 3 de agosto, com o artigo 34.º do Decreto Legislativo Regional n.º 6/2024/M, de 29 de julho e com o disposto na alínea d) do n.º 1 do artigo 28.º da Lei-Quadro dos Institutos Públicos, na sua redação atual, este Conselho de Governo Regional, através da Resolução n.º 449/2024, de 23 de maio, publicada no JORAM, I Série, n.º 83, a 27 de maio, após parecer prévio favorável emitido pela Direção Regional do Património e autorização prévia do Secretário Regional das Finanças, autorizou a reconversão do contrato de arrendamento celebrado pelo Serviço Regional de Proteção Civil, IP-RAM, destinado aos formadores dos bombeiros da RAM, vindos da Escola Nacional de Bombeiros, num contrato de arrendamento destinado à Casa de Função do Presidente do Conselho Diretivo do Serviço Regional de Proteção Civil, IP-RAM; Considerando que o referido contrato termina no dia 31 de dezembro de 2024; Considerando que o referido contrato se renova automaticamente, pelo período de mais um ano, caso o arrendatário (Serviço Regional de Proteção Civil, IP-RAM), não comunique ao senhorio que não o pretende renovar, com a antecedência mínima de 60 dias, relativamente do seu términus; Considerando que é intenção do Conselho Diretivo do Serviço Regional de Proteção Civil, IP-RAM não renovar o referido contrato; Considerando que a Direção Regional do Património, emitiu parecer prévio favorável a 14 de outubro de 2024, relativamente à não renovação do referido contrato. O Conselho do Governo reunido em plenário em 24 de outubro de 2024, resolve:
+1. Autorizar que o Serviço Regional de Proteção Civil, IP-RAM não renove o contrato de arrendamento do imóvel destinado à casa de função do Presidente do Conselho Diretivo do Serviço Regional de Proteção Civil, IP-RAM.
+2. Determinar que o Serviço Regional de Proteção Civil, IP-RAM comunique ao senhorio, com a antecedência mínima de 60 dias relativamente ao términus do contrato, que não o pretende renovar.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
