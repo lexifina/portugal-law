@@ -1,0 +1,489 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "26",
+    "id": "304233",
+    "titulo": "Aprova o Orçamento do Estado para 2025"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2024-10-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "76121",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2024-11-04",
+            "id": "159076",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-04",
+            "id": "159074",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-05",
+            "id": "159079",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-05",
+            "id": "159077",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-06",
+            "id": "159082",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-06",
+            "id": "159081",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-06",
+            "id": "159080",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-07",
+            "id": "159085",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-07",
+            "id": "159084",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-08",
+            "id": "159088",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-08",
+            "id": "159086",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-11",
+            "id": "159100",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-11",
+            "id": "159094",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-12",
+            "id": "159103",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-12",
+            "id": "159102",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-13",
+            "id": "159108",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-13",
+            "id": "159107",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-14",
+            "id": "159114",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-14",
+            "id": "159113",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-14",
+            "id": "159112",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-15",
+            "id": "159117",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2024-11-15",
+            "id": "159116",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2024-11-08",
+            "id": "117328",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2024-11-08",
+            "id": "117327",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2024-11-12",
+            "id": "117330",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2024-11-13",
+            "id": "117332",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2024-11-13",
+            "id": "117331",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-10-31",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-11-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Associação Nacional de Freguesias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4935597a63354d54417a4c5468685a5441744e4749344f533169595445354c54417a4d7a4935596d5179597a67324e7935775a47593d&fich=29c79103-8ae0-4b89-ba19-03329bd2c867.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e694e6d52695954637a4c544a6b4e4751744e4463775a5331694f44566d4c574e684e324934596d466a597a68684d6935775a47593d&fich=3b6dba73-2d4d-470e-b85f-ca7b8bacc8a2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Associação Portuguesa de Guardas e Vigilantes da Natureza",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3256684d6a56694f545a684c574d324f4455744e4459315a4331685a6a45354c574d344d7a426c5932466d5a5463324d7935775a47593d&fich=ea25b96a-c685-465d-af19-c830ecafe763.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Rui Manuel Valadas Marques ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6b595451305a6d46684c5445784d6a63744e475535595330354f4467314c575268596a4d30595751334f54686c5a4335775a47593d&fich=fda44faa-1127-4e9a-9885-dab34ad798ed.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo União dos Sindicatos do Distrito de Braga/CGTP-IN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5930595445324f4467304c546b794f5459744e444a6a4e4330355a44686d4c544a6d4f44466b5a4746694d54686b597935775a47593d&fich=64a16884-9296-42c4-9d8f-2f81ddab18dc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo STAL - Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49324d6d5668596a63314c544d32593259744e445a6c4d533168595752684c5759324f474a6c5a5755354e7a41324e6935775a47593d&fich=262eab75-36cf-46e1-aada-f68beee97066.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo CGTP-IN - Confederacao Geral dos Trabaihadores Portugueses — Intersindical Nacional",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d314d32466c4e4759774c5441355a6d55744e47557a4e7930344d5755344c544130595456684e3246694d3245354d6935775a47593d&fich=353ae4f0-09fe-4e37-81e8-04a5a7ab3a92.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Comissão Sindical do SINTAB – Sindicato dos Trabalhadores da Agricultura e das Indústrias de Alimentação, Bebidas e Tabacos de Portugal, na Empresa ESIP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a597a4f544d354e7a63304c544e6b4e4455744e44646a4e5331694d4759324c574e6c4d5445774e324e684f574a6c4d6935775a47593d&fich=63939774-3d45-47c5-b0f6-ce1107ca9be2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo União dos Sindicatos do Distrito de Leiria/CGTP-IN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41344e574e684e7a63794c575531596a67744e446c6a4d4330344d3249314c5749774f4755344d44426a4e546c684f5335775a47593d&fich=085ca772-e5b8-49c0-83b5-b08e800c59a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo SINTAB – Sindicato dos Trabalhadores da Agricultura e das Indústrias de Alimentação, Bebidas e Tabacos de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d314d4455334e574a694c5759345a6d55744e47566d4e5330354f444e694c544668596d49345a445135596d59355a6935775a47593d&fich=c50575bb-f8fe-4ef5-983b-1abb8d49bf9f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-05",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo STI – Sindicato dos Trabalhadores dos Impostos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466b4e6d59334d446c6c4c575a6c4d574d744e444e6c4d7930354f44466a4c5459314d475a6c4e54426c596a4e6d4d4335775a47593d&fich=1d6f709e-fe1c-43e3-981c-650fe50eb3f0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-05",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo SNESUP - Sindicato Nacional do Ensino Superior",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245774d324978597a526a4c54597a4f4745744e44566a4e5331694e4449774c574a694e6d59334e6a6b35596d4a6b4d5335775a47593d&fich=a03b1c4c-638a-45c5-b420-bb6f7699bbd1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-06",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo ATIC – Associação Técnica da Indústria do Cimento",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526c4d446c684e6a55304c5455314d544d744e474a6c5a43303459575a694c544d334f5445794d7a6b79596a51315a4335775a47593d&fich=4e09a654-5513-4bed-8afb-37912392b45d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-06",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Coletivo sobre as Florestas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d354e6d51774e4749794c5755344d3259744e474d775a5330355a4449344c546b784f57457a5a47566b4e54526d4e7935775a47593d&fich=c96d04b2-e83f-4c0e-9d28-919a3ded54f7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-07",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo APOGEN - Associação Portuguesa de Medicamentos Genéricos, Biossimilares e Medicamentos de Valor Acrescentado",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3252694f5759305a444d344c5452684d4441744e4755344d7931684d5463774c544a695a444d775a44426b4e7a4d344d4335775a47593d&fich=db9f4d38-4a00-4e83-a170-2bd30d0d7380.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-11",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo ANAM - Associação Nacional de Assembleias Municipais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a64684f47566a4f44646a4c544a6c595755744e445a6b4d7930345954526b4c544a6b4e4451794d545a6d4e5455304e5335775a47593d&fich=7a8ec87c-2eae-46d3-8a4d-2d44216f5545.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Conselho Económico e Social",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a646d4d6a59324f5445354c5463344d6d4d744e44637a597930344d32566d4c5746694e7a4d344d44686959574535597935775a47593d&fich=7f266919-782c-473c-83ef-ab73808baa9c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-12",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Movimento Pelas Crianças e Jovens na Pandemia",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d794f5749314e6a5a694c5455325a4745744e47493359533035596a417a4c5759354d5746694e6d55784d5755304e4335775a47593d&fich=329b566b-56da-4b7a-9b03-f91ab6e11e44.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-12",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Movimento de Utentes dos Serviços Públicos do Distrito de Santarém",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6a5a574d30597a59794c5751354d7a51744e44686d4e7931695a54466d4c5442684f54686d4d4459774f5463795a4335775a47593d&fich=bcec4c62-d934-48f7-be1f-0a98f060972d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-12",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Celeste Vilela",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5530596d51344d444a6b4c545130595451744e4455314d7931694d7a5a6d4c54457a4d544a6b5a4445304e6a6732595335775a47593d&fich=54bd802d-44a4-4553-b36f-1312dd14686a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-14",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório UTAO n.º 17/2024 - Apreciação final da Proposta de Orçamento do Estado para 2025 e do Plano Orçamental-Estrutural Nacional de Médio Prazo 2024–28",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466c5a47466d4f5445344c5467314d3251744e4745305a533168597a55344c574e6c4f4467325a6a46695a444e6d4d6935775a47593d&fich=aedaf918-853d-4a4e-ac58-ce886f1bd3f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-14",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo ALF - A Associação Portuguesa de Leasing, Factoring e Renting ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a694d7a4a6b4e5445784c54646c596a6b744e444532596931694e3252684c5759794d574a6c4e57466d4d6d5a684d5335775a47593d&fich=6b32d511-7eb9-416b-b7da-f21be5af2fa1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-15",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo OB - Ordem dos Biólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67324d546735597a6c6b4c54566c4f474d744e474e6859693034596a4e684c5749344e6a6c6d4e7a6c695a6a466d5a4335775a47593d&fich=86189c9d-5e8c-4cab-8b3a-b869f79bf1fd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-16",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo José Santos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49794f47466c5a5441324c5467345a5441744e444534596930354d325a6d4c5459354f475a6a4f574a6b4e3251334e4335775a47593d&fich=228aee06-88e0-418b-93ff-698fc9bd7d74.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Associação Portuguesa para a Igualdade Parental e Direito dos Filhos ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a553259545a6c595455354c5451785a5755744e4745304d793034595749304c57566a4d6d45774e5449774e44686b4e4335775a47593d&fich=56a6ea59-41ee-4a43-8ab4-ec2a052048d4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-19",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Audiogest",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55315a6a51354f574e6a4c5451794d4463744e4441305a4330354e7a67354c5468685a6a517a4e4467305a6a67334e7935775a47593d&fich=55f499cc-4207-404d-9789-8af43484f877.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-19",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo DECO - Associação Portuguesa para a Defesa do Consumidor",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67774e7a426a5954526b4c5459305a6a4d744e444d794e5330354e4751784c574e6a5a5467355a44426c596a51774d6935775a47593d&fich=8070ca4d-64f3-4325-94d1-cce89d0eb402.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-20",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo APB - Associação Portuguesa de Bancos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a694d6d4e6d4d6a526b4c5463354d6a55744e4755334d7930354d6a59344c575a6b5a574d324d47497a4e6a41344d7935775a47593d&fich=fb2cf24d-7925-4e73-9268-fdec60b36083.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-24",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório UTAO n.º 18/2024 - Impacto orçamental das Propostas de Alteração n.º 12C e n.º 1945C à POE/2025",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566d4d7a597a5a4456684c544a6d4e4441744e4464684d4331684d6a4e6b4c5441355a54526c597a68684f444d324f5335775a47593d&fich=ef363d5a-2f40-47a0-a23d-09e4ec8a8369.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-25",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório UTAO n.º 19/2024 - Impacto económico-orçamental da Proposta de Alteração n.º 2080C à POE/2025",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526a4d574535593249344c5749315a4751744e4451784d6930344f44526a4c546b785a6a51314d324a6a597a55774e6935775a47593d&fich=4c1a9cb8-b5dd-4412-884c-91f453bcc506.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-25",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório UTAO n.º 20/2024 - Impacto na liquidação fiscal das Propostas de Alteração n.º 887C e n.º 1909C à POE/2025",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59334e57466b596a49354c5459344e4459744e4755324f4330344d4749344c574a6c5932526b4e4755794e6a52684d4335775a47593d&fich=675adb29-6846-4e68-80b8-becdd4e264a0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-27",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório UTAO n.º 21/2024 - Impacto nas contas públicas da Proposta de Alteração n.º 1233C à POE/2025",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a694e6a6c684e4759344c5759324e3255744e4749315a6931694d4455794c546c6d5a54557a59544a6c4e7a4e6a595335775a47593d&fich=fb69a4f8-f67e-4b5f-b052-9fe53a2e73ca.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-29",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d794e6a426c5a6a426d4c54646b4d444d744e4441794e7931684f4459304c5456684f47566b4e5467785a44646b5a5335775a47593d&fich=3260ef0f-7d03-4027-a864-5a8ed581d7de.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8397",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "8397",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-10-31",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559868",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020139",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-11-23",
+        "pubLeg": "XVI",
+        "pubNr": "1",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/16/01/001/2024-11-23?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020140",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-11-27",
+        "pubLeg": "XVI",
+        "pubNr": "2",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/16/01/002/2024-11-27?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1021683",
+        "obs": null,
+        "pag": [
+          "2-94"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-11-28",
+        "pubLeg": "XVI",
+        "pubNr": "3",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/16/01/003/2024-11-28/2?pgs=2-94&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1021684",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-19",
+        "pubLeg": "XVI",
+        "pubNr": "4",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/16/01/004/2024-12-19?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
