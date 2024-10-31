@@ -1,0 +1,235 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "384",
+    "id": "304230",
+    "titulo": "Apoio às mulheres do Irão e à sua luta pela liberdade"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2024-10-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40886",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2024-10-31",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "283983",
+        "leg": "XVI",
+        "nr": "243",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36626",
+            "obs": null,
+            "pag": [
+              "102-102"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/102?pgs=102&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36626",
+            "obs": null,
+            "pag": [
+              "102-102"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/102?pgs=102&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Em solidariedade com as mulheres do Irão na luta pela liberdade"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "284080",
+        "leg": "XVI",
+        "nr": "297",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36626",
+            "obs": null,
+            "pag": [
+              "102-102"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/102?pgs=102&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36626",
+            "obs": null,
+            "pag": [
+              "102-102"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/102?pgs=102&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que defenda, junto do Irão e da comunidade internacional, os direitos das mulheres iranianas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-10-31",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "17:53",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "102-102"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/102?pgs=102&org=PLC"
+              }
+            ],
+            "sumario": "Em solidariedade com as mulheres do Irão na luta pela liberdade; Recomenda ao Governo que defenda, junto do Irão e da comunidade internacional, os direitos das mulheres iranianas; Apoio às mulheres do Irão e à sua luta pela liberdade.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559890",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1019877",
+        "obs": null,
+        "pag": [
+          "147-147"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-11-02",
+        "pubLeg": "XVI",
+        "pubNr": "57",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/057/2024-11-02/147?pgs=147&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2024-10-31",
+        "descricao": "Texto Final apresentado pela Comissão de Negócios Estrangeiros e Comunidades Portuguesas relativo aos Projetos de Resolução n.º 243/XVI/1.ª (L); 297/XVI/1.ª (CH) e 384/XVI/1.ª (BE)\n",
+        "detalhe": null,
+        "id": "127422",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "56",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
