@@ -2,4 +2,4 @@
 
 ### Denominação
 
-O consórcio adota a denominação de Centro Académico Clínico ICBAS-CHP.
+O consórcio adota a denominação de Centro Académico Clínico ICBAS-Santo António.

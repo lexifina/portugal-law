@@ -2,7 +2,7 @@
 
 ### Composição do conselho diretivo
 
-1 - O conselho diretivo é constituído pelo Presidente do Conselho de Administração do Centro Hospitalar do Porto, E. P. E. e pelo Diretor do Instituto de Ciências Biomédicas Abel Salazar, que exercem a função por inerência, e por um terceiro elemento, por eles cooptado ouvido o Reitor da Universidade do Porto.
+1 - O conselho diretivo é constituído pelo presidente do conselho de administração da Unidade Local de Saúde de Santo António, E. P. E., e pelo diretor do Instituto de Ciências Biomédicas Abel Salazar, que exercem a função por inerência, e por um terceiro elemento, por eles cooptado ouvido o reitor da Universidade do Porto.
 
 2 - Os membros do conselho diretivo elegem o respetivo presidente.
 
