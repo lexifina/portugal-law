@@ -1,0 +1,455 @@
+# Decisão arbitral tributária do CAAD de 2024-10-31, processo n.º 452/2024-T
+
+**Processo:** 452/2024-T
+
+**Data da decisão:** 2024-10-31
+
+**Imposto:** Outros
+
+**Valor do pedido:** € 76.871,05
+
+**Tema:** Contribuição de Serviço Rodoviário (CSR) – Conformidade com o direito europeu. Repercussão de impostos indiretos. Legitimidade ativa das entidades repercutidas. Ónus da prova da repercussão.
+
+## Decisão
+
+Sumário:
+
+I – A Contribuição de Serviço Rodoviário, criada pela Lei n.º 55/2007, de 31 de Agosto, não prossegue “motivos específicos”, na aceção do artigo l.°, n.° 2, da Diretiva 2008/118/CE, na medida em que as suas receitas têm essencialmente como fim assegurar o financiamento da rede rodoviária nacional, não podendo considerar-se como suficiente, para estabelecer uma relação direta entre a utilização das receitas e um “motivo específico”, os objetivos genéricos de redução da sinistralidade e de sustentabilidade ambiental que se encontram atribuídos à concessionária;
+
+II – O ónus da prova da efetiva repercussão da contribuição de serviço rodoviário incumbe às entidades utilizadoras da rede rodoviária nacional, carecendo de ser demonstrada através de documentos que identifiquem o efetivo pagamento do imposto, não podendo assentar em juízos presuntivos.
+
+DECISÃO ARBITRAL
+
+Acordam em tribunal arbitral
+
+I – Relatório
+
+1. A..., LDA, com o NIPC ... e sede na Rua ..., n.ºs, ..., ..., ...-... Coimbra, vem requerer a constituição de tribunal arbitral, ao abrigo do disposto nos artigos 2.º, n.º 1, alínea a), e 10.º do Decreto-Lei n.º 10/2011, de 20 de Janeiro, para apreciar a legalidade dos atos de autoliquidação do Imposto sobre o Rendimento das Pessoas Coletivas (IRC), referente aos períodos de 2019 e 2022, no montante global de € 76.871,05, e, bem assim, das decisões de indeferimento dos pedidos de revisão oficiosa contra eles deduzido, requerendo ainda o reembolso do imposto indevidamente pago acrescido de juros indemnizatórios.
+
+Fundamenta o pedido nos seguintes termos.
+
+A Requerente é uma sociedade que tem como objecto social, entre outros, o transporte de mercadoriais, sendo detentora do CAE 49410, que compreende o transporte rodoviário de mercadoriais, local ou a longa distância.
+
+Para o exercício da sua atividade tem ao seu serviço vários veículos ligeiros e pesados que circulam diariamente nas estradas e necessitam de ser abastecidos de combustível.
+
+Nos anos de 2019, 2020, 2021 e 2022, foram adquiridos e pagos pela Requerente às fornecedoras de combustível, respectivamente, 127.099 litros, 186.432 litros, 200.245 litros, 178.756 litros e 692.532 litros de gasóleo, num total de 692.532 litros.
+
+O que significa que, no decurso desses anos, a Requerente suportou, na qualidade de consumidor final, € 76.871,05, a título de Contribuição de Serviço Rodoviário (CSR), contribuição que, tendo sido paga em primeira linha pelas fornecedoras de combustível, acabou por ser repercutida no preço do combustível, e, em consequência, efetivamente suportada pela Requerente.
+
+Ora, a Contribuição de Serviço Rodoviário (CSR) constitui um imposto incidente sobre os grandes combustíveis rodoviários, como a gasolina, gasóleo rodoviário e GPL auto, sujeitos também ao imposto sobre os produtos petrolíferos e energéticos (ISP).
+
+Ao nível europeu, a tributação dos produtos petrolíferos e energéticos é enquadrada pela Directiva n.º 2008/118, que fixa a estrutura comum dos Impostos Especiais de Consumo (IEC) harmonizados e pela Diretiva n.º 2003/96, de 27 de outubro de 2003, que cuida especificamente da tributação dos produtos petrolíferos e energéticos.
+
+À luz da Diretiva n.º 2008/118, sendo da iniciativa do legislador nacional e onerando produtos já sujeitos ao ISP, a CSR configura um imposto não harmonizado incidente sobre produtos sujeitos aos IEC harmonizados.
+
+Para prevenir que seja posto em causa o sistema harmonizado dos IEC, a Diretiva n.º 2008/118, subordina a criação destes impostos não harmonizados à dupla condição de respeitarem a estrutura essencial dos IEC e do IVA e terem como fundamento um “motivo específico”.
+
+De acordo com a jurisprudência consolidada do TJUE, este “motivo específico” não pode corresponder a uma finalidade puramente orçamental de obtenção de receita, sendo que a afetação da receita a despesas determinadas pode constituir um indicador de um “motivo específico” na criação destes impostos.
+
+Na falta dessa afetação adequada da receita, para que se concluísse existir “motivo específico” seria necessário, no entendimento daquele Tribunal, que a estrutura do imposto claramente servisse para desmotivar o consumo que ele queira prevenir.
+
+O certo é que a CSR, criada pela Lei n.º 55/2007, de 31 de agosto, atribui à EP - Estradas de Portugal, S. A., atual Infraestruturas de Portugal, IP, SA, o produto da receita gerada pela contribuição, e não faz referência a qualquer objetivo de política ambiental, energética ou social.
+
+Pelo contrário, a CSR, de acordo com o disposto nos artigos 1.º e 3.º, n.º 1, da Lei n.º 55/2007, visa financiar a rede rodoviária nacional a cargo da Infraestruturas de Portugal, IP, S.A., e constitui a contrapartida pela utilização da rede rodoviária nacional, tal como esta é verificada pelo consumo dos combustíveis.
+
+A CSR constitui, pois, a contrapartida pela utilização dos serviços prestados pela IP aos utentes das vias rodoviárias, em nome do Estado, por força das bases da referida concessão, aprovadas pelo Decreto-Lei n.º 380/2007, suportada pelos seus utilizadores, e apenas subsidiariamente pelo Estado.
+
+Servindo para financiar despesas suscetíveis de serem custeadas pelo “produto de impostos de qualquer natureza”, como o são a manutenção e alargamento da rede nacional de estradas, não se verificando a afetação adequada da receita que o TJUE exige para se concluir pela existência de um “motivo específico”.
+
+Sendo de considerar que os atos tributários impugnados sofrem de erro quanto aos pressupostos de direito, e, de acordo com a jurisprudência assente do TJUE, os Estados-Membros estão obrigados a reembolsar os montantes de imposto indevidamente cobrado em violação do Direito Europeu.
+
+Conclui no sentido da procedência do pedido de pronúncia arbitral, mediante a declaração de ilegalidade das liquidações de CSR e dos atos de indeferimento tácito dos pedidos de revisão oficiosa, e da procedência do pedido de reembolso das quantias indevidamente pagas pela Requerente, acrescido de juros indemnizatórios.
+
+A Autoridade Tributária, na sua resposta, suscita as exceções dilatórias da incompetência do tribunal em razão da matéria, da incompetência do tribunal em razão da causa de pedir, da ilegitimidade processual e substantiva da Requerente, da ineptidão da petição inicial e da caducidade do direito de ação.
+
+Quanto à matéria de fundo, considera que a Requerente não logrou fazer prova de ter adquirido e pago o combustível e suportado o encargo do pagamento da CSR por repercussão, sendo que as faturas emitidas pelas fornecedoras de combustíveis não contêm qualquer referência aos montantes pagos a título de CSR, e não servem como prova da efetiva repercussão legal da contribuição.
+
+Sendo que a Requerente também não efetua a prova de ter suportado o montante de € 76.871,05, a título de CSR, limitando-se a aplicar à quantidade de litros fornecidos a taxa de CSR que se encontrava em vigor à data das transações.
+
+Além de que, atento o disposto no artigo 342.º, n.º 1, do Código Civil, não incumbe à Requerida fazer a prova da não repercussão, nem é possível presumir a existência de repercussão quando, no caso, estamos perante uma repercussão meramente económica.
+
+Por outro lado, baseando-se nos considerandos 33. e 34. do despacho do TJUE proferido no processo n.º C-460/21, a Requerida entende que o TJUE não declarou a existência de desconformidade do regime da CSR com a Diretiva Europeia e os objetivos que lhe estão subjacentes, analisados à luz da Lei n.º 55/2007, de 31 de agosto, não são meramente orçamentais, mas visam a redução da sinistralidade e de sustentabilidade ambiental, que constituem o motivo específico da criação da contribuição.
+
+Conclui no sentido da declaração de extinção da instância com base nas exceções dilatórias e perentórias invocadas e, se assim se não entender, pela improcedência do pedido arbitral.
+
+2. Por despacho arbitral de 17 de agosto de 2024, a Requerente foi notificada para pronunciar quanto à matéria de exceção, tendo exercício o direito ao contraditório pelo requerimento de 23 de agosto seguinte, em que juntou 4 novos documentos.
+
+Por despacho de 30 de agosto de 2024, o tribunal arbitral notificou a Autoridade Tributária para se pronunciar quanto ao conteúdo dos documentos, o que fez através do requerimento de 30 de agosto.
+
+3. Por despacho arbitral de 6 de setembro de 2024, considerando que a matéria de facto relevante para a decisão da causa depende de prova documental e se torna desnecessária a realização de outras diligências instrutórias, determinou-se a dispensa da reunião do tribunal arbitral a que se refere o artigo 18.º do RJAT, bem como a apresentação de alegações.
+
+4. O pedido de constituição do tribunal arbitral foi aceite pelo Presidente do CAAD e notificado à Autoridade Tributária e Aduaneira nos termos regulamentares.
+
+Nos termos do disposto na alínea a) do n.º 2 do artigo 6.º e da alínea b) do n.º 1 do artigo 11.º do RJAT, na redação introduzida pelo artigo 228.° da Lei n.º 66-B/2012, de 31 de dezembro, o Conselho Deontológico designou os signatários como árbitros do tribunal arbitral coletivo, que comunicaram a aceitação do encargo no prazo aplicável.
+
+As partes foram oportuna e devidamente notificadas dessa designação, não tendo manifestado vontade de a recusar, nos termos conjugados do artigo 11.º, n.º 1, alíneas a) e b), do RJAT e dos artigos 6.° e 7.º do Código Deontológico.
+
+Em conformidade com o preceituado na alínea c) do n.º 1 do artigo 11.º do RJAT, na redação introduzida pelo artigo 228.° da Lei n.º 66-B/2012, de 31 de dezembro, o tribunal arbitral coletivo foi constituído em 14 de junho de 2024.
+
+O tribunal arbitral é competente para conhecer do pedido e foi regularmente constituído.
+
+As partes gozam de personalidade e capacidade judiciárias, e estão representadas (artigos 4.º e 10.º, n.º 2, do mesmo diploma e 1.º da Portaria n.º 112-A/2011, de 22 de março).
+
+O processo não enferma de nulidades.
+
+II – Saneamento
+
+Incompetência do tribunal arbitral em razão da matéria
+
+5. A Autoridade Tributária começa por suscitar a questão da incompetência do tribunal arbitral em razão da matéria por considerar que a contribuição de serviço rodoviário deve ser qualificada como contribuição financeira, e não como imposto, encontrando-se excluída da arbitragem tributária, por força do disposto nos artigos 2.º e 3.º do RJAT e do artigo 2.º da Portaria n.º 112-A/2011, de 22 de março, defendendo a este propósito o entendimento expresso nos acórdãos proferidos nos processos arbitrais n.ºs 182/2019-T, 138/2019-T, 123/2019-T, que tiveram por objeto a Contribuição sobre o Sector Bancário (CSB),e nos acórdãos proferidos nos processos arbitrais n.ºs 248/2019-T, 714/2020-T e 585/2020-T, que tiveram por objeto a Contribuição Extraordinária Sobre o Sector Energético (CESE).
+
+É esta a primeira questão que cabe analisar.
+
+A competência contenciosa dos tribunais arbitrais em matéria de arbitragem tributária, tal como resulta do artigo 2.º do Regime Jurídico da Arbitragem em Matéria Tributária (RJAT), compreende a apreciação de pretensões que visem a “declaração de ilegalidade de atos de liquidação de tributos, de autoliquidação, de retenção na fonte e de pagamento por conta” e a “declaração de ilegalidade de atos de fixação da matéria tributável quando não dê origem à liquidação de qualquer tributo, de atos de determinação da matéria coletável e de atos de fixação de valores patrimoniais”.
+
+O artigo 4.º, n.º 1, do RJAT faz ainda depender a vinculação da Administração Tributária à jurisdição dos tribunais arbitrais de portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça, que deverá estabelecer, designadamente, o tipo e o valor máximo dos litígios abrangidos.
+
+E o diploma que, em execução desse preceito, define o âmbito e os termos da vinculação da Autoridade Tributária à jurisdição dos tribunais arbitrais que funcionam no CAAD é a Portaria n.º 112-A/2011, de 22 de março, que no seu n.º 2, sob a epígrafe “Objeto de vinculação”, e com a alteração resultante da Portaria n.º 287/2019, de 3 de setembro, dispõe o seguinte:
+
+“Os serviços e organismos referidos no artigo anterior vinculam-se à jurisdição dos tribunais arbitrais que funcionam no CAAD que tenham por objeto a apreciação das pretensões relativas a impostos cuja administração lhes esteja cometida referidas no n.º 1 do artigo 2.º do Decreto-Lei n.º 10/2011, de 20 de janeiro, com exceção das seguintes:
+
+a) Pretensões relativas à declaração de ilegalidade de atos de autoliquidação, de retenção na fonte e de pagamento por conta que não tenham sido precedidos de recurso à via administrativa nos termos dos artigos 131.º a 133.º do Código de Procedimento e de Processo Tributário;
+
+b) Pretensões relativas a atos de determinação da matéria coletável e atos de determinação da matéria tributável, ambos por métodos indiretos, incluindo a decisão do procedimento de revisão;
+
+c) Pretensões relativas a direitos aduaneiros sobre a importação e demais impostos indiretos que incidam sobre mercadorias sujeitas a direitos de importação;
+
+d) Pretensões relativas à classificação pautal, origem e valor aduaneiro das mercadorias e a contingentes pautais, ou cuja resolução dependa de análise laboratorial ou de diligências a efetuar por outro Estado membro no âmbito da cooperação administrativa em matéria aduaneira;
+
+e) Pretensões relativas à declaração de ilegalidade da liquidação de tributos com base na disposição antiabuso referida no n.º 1 do artigo 63.º do CPPT, que não tenham sido precedidos de recurso à via administrativa nos termos do n.º 11 do mesmo artigo”.
+
+A referência a serviços e organismos que se vinculavam à jurisdição arbitral era feita para a Direcção-Geral dos Impostos e a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, que foram, entretanto, extintas, tendo-lhes sucedido a Autoridade Tributária e Aduaneira.
+
+A Portaria n.º 112-A/2011, também chamada Portaria de vinculação, fixa, por conseguinte, um segundo nível de delimitação das pretensões que poderão ser sujeitas à jurisdição arbitral. Tratando-se de um mero regulamento de execução, a Portaria não poderia ir além do estabelecido na lei quanto ao âmbito de competência material dos tribunais arbitrais, mas poderia estabelecer restrições quanto ao âmbito da vinculação à arbitragem tributária, mormente por referência ao tipo de litígios e ao valor do processo.
+
+Ainda a este propósito, o acórdão proferido no Processo n.º 48/2012-T, depois seguido por diversos outros arestos, consignou o seguinte:
+
+“A competência dos tribunais arbitrais que funcionam no CAAD é, em primeiro lugar, limitada às matérias indicadas no artigo 2.º, n.º 1, do [RJAT].
+
+Numa segunda linha, a competência dos tribunais arbitrais que funcionam no CAAD é também limitada pelos termos em que Administração Tributária se vinculou àquela jurisdição, concretizados na Portaria n.º 112-A/2011, de 22 de Março, pois o artigo 4.º do RJAT estabelece que «a vinculação da administração tributária à jurisdição dos tribunais constituídos nos termos da presente lei depende de portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça, que estabelece, designadamente, o tipo e o valor máximo dos litígios abrangidos».
+
+Em face desta segunda limitação da competência dos tribunais arbitrais que funcionam no CAAD, a resolução da questão da competência depende essencialmente dos termos desta vinculação, pois, mesmo que se esteja perante uma situação enquadrável naquele artigo 2.º do RJAT, se ela não estiver abrangida pela vinculação estará afastada a possibilidade de o litígio ser jurisdicionalmente decidido por este tribunal arbitral”.
+
+No caso, a Portaria de vinculação, aparentemente, estabelece duas limitações: refere-se a pretensões “relativas a impostos”, de entre aquelas que se enquadram na competência genérica dos tribunais arbitrais, e a impostos cuja administração esteja cometida à Autoridade Tributária. Haverá de concluir-se, nestes termos, que a vinculação se reporta a qualquer das pretensões mencionadas no artigo 2.º, n.º 1, do RJAT que respeitem a impostos - com a exclusão de outros tributos - e a impostos que sejam geridos pela Autoridade Tributária.
+
+6. A constitucionalização das contribuições financeiras resultou da alteração introduzida no artigo 165.º, n.º 1, alínea i), da Lei Fundamental, pela revisão constitucional de 1997, que autonomizou as contribuições financeiras a favor das entidades públicas como uma terceira categoria de tributos.
+
+A LGT, aprovada em 1998, passou a incluir entre os diversos tipos de tributos, os impostos e outras espécies criadas por lei, designadamente as taxas e as contribuições financeiras a favor das entidades públicas, definindo, em geral, os pressupostos desses diversos tipos de tributos no subsequente artigo 4.º.
+
+A doutrina tem caracterizado as contribuições financeiras como um tertium genus de receitas fiscais, que poderão ser qualificadas como taxas coletivas, na medida em que visam retribuir os serviços prestados por uma entidade púbica a um certo conjunto ou categoria de pessoas. Como referem Gomes Canotilho/Vital Moreira, “a diferença essencial entre os impostos e estas contribuições bilaterais é que aqueles visam financiar as despesas públicas em geral, não podendo, em princípio, ser consignados a certos serviços públicos ou a certas despesas, enquanto que as segundas, tal como as taxas em sentido estrito, visam financiar certos serviços públicos e certas despesas públicas (responsáveis pelas prestações públicas de que as contribuições são contrapartida), aos quais ficam consignadas, não podendo, portanto, ser desviadas para outros serviços ou despesas” (Constituição da República Portuguesa Anotada, I vol., 4ª edição, Coimbra, pág. 1095). Neste sentido, as contribuições são tributos com uma estrutura paracomutativa, dirigidos à compensação de prestações presumivelmente provocadas ou aproveitadas pelos contribuintes, distinguindo-se das taxas que são tributos rigorosamente comutativos e que se dirigem à compensação de prestações efetivas (Sérgio Vasques, Manual de Direito Fiscal, Coimbra, 2015, pág. 287).
+
+Por outro lado, o Tribunal Constitucional tem também reconhecido a existência dessas diferentes categorias jurídico-tributárias, designadamente para efeito de extrair consequências quanto à competência legislativa, admitindo que as taxas e outras contribuições de carácter bilateral só estão sujeitas a reserva parlamentar quanto ao seu regime geral, mas não quanto à sua criação individual e quanto ao regime concreto, podendo portanto ser criadas por diploma legislativo governamental e reguladas por via regulamentar desde que observada a lei-quadro (cfr., entre outros, o acórdão n.º 365/2008).
+
+Ou seja, não há dúvida que as contribuições financeiras se distinguem dos impostos.
+
+7. A Contribuição de Serviço Rodoviário, criada pela Lei n.º 55/2007, de 31 de agosto, visa financiar a rede rodoviária nacional a cargo da EP - Estradas de Portugal, E. P. E. (artigo 1.º), que, entretanto, passou a denominar-se Infraestruturas de Portugal, S.A., sendo que o financiamento da rede rodoviária nacional a cargo desta entidade é assegurado pelos respetivos utilizadores e, subsidiariamente, pelo Estado, nos termos da lei e do contrato de concessão aplicável (artigo 2.º).
+
+A mesma contribuição corresponde à contrapartida pela utilização da rede rodoviária nacional, tal como esta é verificada pelo consumo dos combustíveis, e constitui uma fonte de financiamento da rede rodoviária nacional a cargo da Infraestruturas de Portugal, S.A, no que respeita à respetiva conceção, projeto, construção, conservação, exploração, requalificação e alargamento, ainda que a exigência da contribuição não prejudique a eventual aplicação de portagens em vias específicas ou o recurso da entidade concessionária a outras formas de financiamento (artigo 3.º).
+
+A contribuição incide sobre a gasolina e o gasóleo rodoviário sujeitos ao imposto sobre os produtos petrolíferos e energéticos e dele não isentos (artigo 4.º, n.º 1) e é devida pelos sujeitos passivos do imposto sobre os produtos petrolíferos e energéticos, sendo aplicável à sua liquidação, cobrança e pagamento o disposto no Código dos Impostos Especiais de Consumo (artigo 5.º, n.º 1).
+
+O produto da Contribuição de Serviço Rodoviário constitui receita própria da atualmente denominada Infraestruturas de Portugal, S.A. (artigo 6.º).
+
+A atividade de conceção, projeto, construção, conservação, exploração, requalificação e alargamento da rede rodoviária nacional, que é objeto de financiamento através da Contribuição de Serviço Rodoviário foi atribuída, em regime de concessão, à EP - Estradas de Portugal, E. P. E. pelo Decreto-Lei n.º 380/2007, de 13 de novembro, que aprovou as bases da concessão e nas quais se prevê que, entre outros rendimentos, essa contribuição constitua receita própria dessa entidade (Base 3, alínea b)). E, por outro lado, nelas se estabelece, como uma das obrigações da concessionária, a prossecução dos “objetivos de redução da sinistralidade e de sustentabilidade ambiental” (Base 2, n.º 4, alínea b)).
+
+8. À luz do regime jurídico sucintamente descrito, dificilmente se poderia concluir que a Contribuição de Serviço Rodoviário constitui uma contribuição financeira.
+
+Como se refere no acórdão proferido no Processo n.º 269/2021, corroborado pelo acórdão tirado no Processo n.º 304/2022, a Contribuição de Serviço Rodoviário não tem como pressuposto uma prestação, a favor de um grupo de sujeitos passivos, por parte de uma pessoa coletiva. A contribuição é estabelecida a favor da EP - Estradas de Portugal, E. P. E. (artigo 3.º, n.º 2), sendo essa mesma entidade a titular da receita correspondente (artigo 6.º). No entanto, os sujeitos passivos da contribuição (as empresas comercializadoras de produtos combustíveis rodoviários) não são os destinatários da atividade da EP - Estradas de Portugal, E. P. E., a qual consiste na “conceção, projeto, construção, conservação, exploração, requalificação e alargamento” da rede de estradas (artigo 3.º, n.º 2).
+
+Por outro lado, nada permite afirmar que a responsabilidade pelo financiamento da atividade administrativa que se encontra atribuída à EP - Estradas de Portugal, E. P. E. é imputável aos sujeitos passivos da contribuição, que são as empresas comercializadoras de combustíveis rodoviários. Quando é certo que o artigo 2.º da Lei n.º 55/2007 declara expressamente que o “financiamento da rede rodoviária nacional a cargo da EP - Estradas de Portugal, E.P. E. (...) é assegurado pelos respetivos utilizadores e, subsidiariamente, pelo Estado, nos termos da lei e do contrato de concessão aplicável.”
+
+Nestes termos, o financiamento da rede rodoviária nacional é assegurado pelos respetivos utilizadores, que são os beneficiários da atividade pública desenvolvida pela EP - Estradas de Portugal, E. P. E., verificando-se, no entanto, que a contribuição de serviço rodoviário é devida pelos sujeitos passivos do imposto sobre os produtos petrolíferos e energéticos, que, nos termos do artigo 4.º, n.º 1, alínea a), do CIEC, são os “depositários autorizados” e os “destinatários registados”.
+
+Não existindo, deste modo, qualquer nexo específico entre o benefício emanado da atividade da entidade pública titular da contribuição e o grupo dos sujeitos passivos.
+
+9. Resta acrescentar que o regime jurídico da CSR não é equiparável ao previsto para a Contribuição sobre o Sector Bancário (CSB) ou para a Contribuição Extraordinária sobre o Sector Energético (CESE), que são caracterizadas como típicas contribuições financeiras, não tendo qualquer aplicação ao caso a jurisprudência constante dos acórdãos proferidos nos Processos n.ºs 182/2019-T, 138/2019-T, 123/2019-T, que tiveram por objeto a CSB, nem a dos acórdãos proferidos nos Processos n.ºs 248/2019-T e 585/2020-T, que incidiram sobre a CESE.
+
+Por todo o exposto, a alegada exceção da incompetência material do tribunal arbitral com fundamento na qualificação da CSR como contribuição financeira, mostra-se ser improcedente.
+
+Incompetência material do tribunal em razão da causa de pedir
+
+10. A Autoridade Tributária suscita ainda a exceção da incompetência do tribunal arbitral para conhecer do presente pedido na medida em que se pretende discutir a legalidade do regime da CSR no seu todo.
+
+A arguição assenta num evidente equívoco.
+
+A Requerente formulou um pedido de pronúncia arbitral sobre a legalidade do ato de liquidação de CSR referente aos meses de março de 2019 a dezembro de 2022, invocando como causa de pedir, a desconformidade da contribuição com a Diretiva 2008/118/CE, do Conselho, de 16 de dezembro de 2008, relativa ao Regime Geral dos Impostos Especiais de Consumo.
+
+Estando em causa, no caso vertente, a desconformidade da CSR com a Diretiva 2008/118/CE, não pode deixar de concluir-se pela competência contenciosa do tribunal para a apreciação do litígio.
+
+As normas de direito europeu derivado, como normas de direito internacional convencional, vigoram diretamente na ordem jurídica interna com a mesma relevância das normas de direito interno, vinculando imediatamente o Estado e os cidadãos (artigo 8.º da Constituição)
+
+A impugnação judicial de um ato de liquidação pode ser deduzida com fundamento em qualquer ilegalidade (artigo 99.º do CPPT), nada permitindo distinguir entre a ilegalidade resultante de normas de direito interno ou de direito convencional.
+
+Torna-se claro que não existe qualquer obstáculo a que o tribunal arbitral se pronuncie sobre o fundamento de ilegalidade do ato de liquidação baseado em desconformidade da CSR com o direito europeu, sendo manifestamente improcedente a invocada exceção de incompetência do tribunal em razão da causa de pedir.
+
+Ilegitimidade processual e substantiva da Requerente
+
+11. A Autoridade Tributária alega que se verifica a ilegitimidade processual da Requerente tendo em consideração que apenas os sujeitos passivos que declararam a introdução dos produtos para consumo e efetuaram o pagamento do imposto, podem solicitar a anulação das liquidações e o reembolso por erro na liquidação.
+
+Analisando esta questão, cabe começar por referir que, nos termos do artigo 9.º, n.º 1, do CPTA, subsidiariamente aplicável, e da correspondente disposição do artigo 30.º, n.º 3, do CPC, a legitimidade processual é aferida pela relação jurídica controvertida tal como é apresentada pelo autor. E, deste modo, há que atender à relação jurídica tal como o autor a apresenta e configura, isto é, à pretensa relação jurídica, e não à relação jurídica material, tal como ela se constituiu na realidade, sendo por isso indiferente, para a verificação da legitimidade, a questão de saber se o direito existe na titularidade de quem o invoca ou contra quem é feito valer, matéria que diz antes respeito à questão de fundo e poderá, quando muito, determinar a improcedência da ação (cfr. Lopes do Rego, Comentários ao Código de Processo Civil, Coimbra, 1999, págs. 45 e segs.).
+
+Alegando a Requerente, na petição inicial, que pretende impugnar os atos tributários de liquidação da contribuição de serviço rodoviário (CSR) incidentes, em determinado período de tempo, sobre os fornecedores de combustíveis e cujo encargo tributário se repercutiu na sua esfera jurídica, não pode deixar de entender-se que o contribuinte dispõe de legitimidade processual para deduzir o pedido, independentemente de saber se houve uma efetiva repercussão ou se as faturas de aquisição de combustível corporizam o valor pago a título de CSR.
+
+A propósito da questão que assim vem colocada, cabe recordar a norma do artigo 18.º, n.º 4, alínea a), da LGT, que é do seguinte teor:
+
+4 - Não é sujeito passivo quem:
+
+Suporte o encargo do imposto por repercussão legal, sem prejuízo do direito de reclamação, recurso ou impugnação nos termos das leis tributárias.
+
+Ainda segundo o disposto no n.º 3 desse artigo, como sujeito passivo entende-se “a pessoa singular ou coletiva, o património ou a organização de facto ou de direito que, nos termos da lei, está vinculado ao cumprimento da prestação tributária, seja como contribuinte direto, substituto ou responsável”.
+
+Como se depreende do transcrito artigo 18.º, n.º 4, alínea a) da LGT, o preceito recusa a qualidade de sujeito passivo a quem não estiver sujeito diretamente a uma obrigação fiscal, como é o caso do consumidor final de bens ou serviços, mas admite que da repercussão do imposto possa resultar a violação de um interesse legalmente protegido, e, nesse sentido, confere ao repercutido o direito à impugnação administrativa ou judicial como meio adequado de reação contra a repercussão ilegal do imposto, o que se justifica, no plano de política legislativa, por razões de similitude com a lesão que seja causada por um ato ilegal de liquidação (cfr. António Lima Guerreiro, Lei Geral Tributária Anotada, Lisboa, 2001, págs. 116-117).
+
+Como resulta da redação originária do artigo 2.º da Lei n.º 55/2007, de 31 de agosto, que regula o financiamento da rede rodoviária nacional e cria a contribuição de serviço rodoviário, o financiamento da rede rodoviária nacional a cargo da EP – Estradas de Portugal “é assegurado pelos respetivos utilizadores”, e, nos termos do subsequente artigo 3.º, “a contribuição de serviço rodoviário constitui a contrapartida pela utilização da rede rodoviária nacional, tal como esta é verificada pelo consumo dos combustíveis”. E, por outro lado, segundo o disposto no artigo 2.º do Código dos Impostos Especiais do Consumo (CIEC), na redação da Lei n.º 24-E/2022, de 30 de dezembro - disposição essa a que foi atribuída natureza interpretativa (artigo 6.º dessa Lei) -, “os impostos especiais de consumo obedecem ao princípio da equivalência, procurando onerar os contribuintes na medida dos custos que estes provocam, designadamente nos domínios do ambiente e da saúde pública, sendo repercutidos nos mesmos, em concretização de uma regra geral de igualdade tributária”.
+
+Quer as disposições da Lei n.º 55/2007, especificamente aplicáveis à contribuição de serviço rodoviário, quer a disposição geral do artigo 2.º do CIEC, consagram um princípio de repercussão legal do imposto, significando que o encargo do imposto não seja suportado pelo sujeito passivo, mas pelo contribuinte que intervém no processo de comercialização dos bens ou serviços. Havendo de admitir-se, por efeito da norma do artigo 18.º, n.º 4, alínea a), da LGT, que as entidades repercutidas dispõem de legitimidade procedimental e processual para deduzirem reclamação graciosa ou recurso hierárquico ou impugnação judicial contra o acto tributário de liquidação do imposto que é objeto de repercussão (cfr. Lopes de Sousa, Código de Processo e Procedimento Tributário Anotado e Comentado, vol. I, Lisboa, 2011, pág. 115, e Serena Cabrita Neto/Carla Castelo Trindade, Contencioso Tributário, vol. I, Coimbra, 2017, pág. 98).
+
+Para além da legitimidade ativa da Requerente se encontrar coberta pela referida disposição da LGT, essa legitimidade é também reconhecida pela regra geral do artigo 9.º, n.º 1, do CPPT, segundo a qual “têm legitimidade no procedimento tributário, além da administração tributária, os contribuintes, incluindo substitutos e responsáveis, outros obrigados tributários, as partes dos contratos fiscais e quaisquer outras pessoas que provem interesse legalmente protegido”. Ou seja, ainda que se entendesse que a situação do caso não corresponde a repercussão legal, mas a mera repercussão económica ou de facto, não pode deixar de considerar-se que a entidade que suporta o imposto no âmbito da cadeia de comercialização dispõe de legitimação para impugnar o ato de liquidação com fundamento em ilegalidade.
+
+Alega ainda a Autoridade Tributária que, face ao regime especial dos artigos 15.º e 16.º do CIEC, apenas os sujeitos passivos que tenham procedido à introdução no consumo dos produtos em território nacional e provem o pagamento do ISP e da CSR possuem legitimidade para solicitar o reembolso do valor pago, e, como tal, os adquirentes dos produtos não têm legitimidade para efeitos de solicitação da revisão do ato tributário e consequente pedido de reembolso do imposto.
+
+Há que fazer notar, a este propósito, que o artigo 5.º, n.º 1, da Lei n.º 55/2007 apenas remete para o CIEC o procedimento de liquidação e cobrança do imposto, remissão que igualmente é efetuada para a LGT e o CPPT, significando que, nesse âmbito, haverá de ter-se em consideração as disposições conjugadas do CIEC e da demais legislação tributária aplicável.
+
+Por outro lado, o regime específico previsto nos artigos 15.º e seguintes do CIEC abrange o reembolso com fundamento em erro na liquidação ou em caso de expedição ou exportação, ao passo que o que está em causa no presente processo arbitral não é um qualquer pedido de reembolso, mas a declaração de ilegalidade dos atos tributários de repercussão do imposto por violação do direito europeu.
+
+E, nesses termos, a questão da legitimidade ativa terá de ser analisada à luz das regras processuais aplicáveis, e não do regime específico do reembolso do imposto que consta das citadas disposições do CIEC.
+
+Por todo o exposto, a alegada exceção de ilegitimidade ativa, tal como se encontra formulada, é improcedente e nada obsta ao prosseguimento do processo no tocante aos falados atos de liquidação como meio de obter a consequente anulação dos atos de repercussão.
+
+12. A Autoridade Tributária refere ainda que a Requerente, não sendo sujeito passivo do imposto, carece não apenas de ilegitimidade processual, mas também de ilegitimidade substantiva, que constitui uma exceção perentória e conduz à absolvição do pedido.
+
+Como é entendimento corrente, a chamada a legitimidade substancial ou substantiva tem a ver com a efetividade da relação material, interessando já ao mérito da causa e, nesse sentido, constitui um requisito da procedência do pedido (cfr. acórdão da Relação do Porto de 4 de outubro de 2021, Processo n.º 10910/20).
+
+Não é possível considerar verificada liminarmente a inviabilidade da pretensão deduzida em juízo com base em meras alegações da parte contra quem vem deduzido o pedido, quando essa é a questão de fundo que carece de ser analisada em função do direito aplicável face aos factos que venham a ser dados como provados ou não provados.
+
+Nem a alegação aduzida pela Requerida poderá caracterizar uma exceção perentória. As exceções perentórias consistem na invocação de factos que, em face da lei substantiva, possam integrar uma causa impeditiva, extintiva ou modificativa do direito invocado pelo autor na ação e que assim determinem a improcedência total ou parcial do pedido. São impeditivos os factos que excluem ou impedem a eficácia do direito alegado (incapacidade, falta ou vícios de vontade), modificativos os que alteram a relação jurídica modificando a natureza da prestação ou as condições da sua exigibilidade (alteração das circunstâncias em que foi celebrado um contrato), extintivos os que fazem cessar o direito tornando inviável o respetivo exercício (caducidade, prescrição, cumprimento da obrigação).
+
+Assim sendo, o que vem alegado quanto à legitimidade substantiva não integra a defesa por exceção e apenas poderá relevar em sede de apreciação do mérito.
+
+O que vem de dizer-se é igualmente aplicável quanto à alegada inexistência de prova de efetiva repercussão da CSR por efeito da aquisição de combustíveis. Essa é matéria de prova que terá de ser analisada no âmbito da decisão arbitral e que não integra, em si, uma qualquer exceção perentória.
+
+Ineptidão da petição inicial
+
+13. A Autoridade Tributária invoca a ineptidão da petição inicial por falta de objeto, por não terem sido identificados, no pedido de pronúncia arbitral, os atos tributários impugnados, aduzindo, em síntese, que não é possível estabelecer a correlação entre os atos de liquidação praticados a montante pelo fornecedor de combustíveis, sujeito passivo do imposto, e as faturas de compra mencionadas pela Requerente.
+
+A ineptidão da petição inicial, gerando a nulidade do processo, ocorre quando se verifiquem alguns dos vícios mencionados no artigo 186.º, n.º 2, do CPC, ou seja, quando falte ou seja ininteligível a indicação do pedido ou da causa de pedir, quando o pedido esteja em contradição com a causa de pedir ou se cumulem causas de pedir ou pedidos substancialmente incompatíveis. Para se considerar inepta a petição, no primeiro caso, não basta uma qualquer deficiência da petição, tornando-se necessária a absoluta falta de indicação do pedido ou a sua formulação em termos insanavelmente obscuros ou contraditórios de modo a não permitir determinar, em face do articulado, qual é o pedido ou a causa de pedir (cfr. Manuel Andrade, Lições Elementares de Processo Civil, Coimbra, 1976, pág. 177).
+
+Compulsando o pedido arbitral, constata-se que a Requerente, no petitório, veio requerer a declaração de ilegalidade dos atos de liquidação da CSR referentes aos meses de abril de 2019 a dezembro de 2022, e, bem assim, os atos de repercussão na sua esfera jurídica relativamente ao total de 692.532 litros de combustível, no montante de € 76.871,05. E, sendo assim, o pedido apresenta-se perfeitamente delimitado e formulado em termos compreensíveis.
+
+Como resulta da citada norma do artigo 18.º, n.º 4, alínea a), da LGT, quem suporte o encargo do imposto por repercussão legal, ainda que não seja sujeito passivo da relação jurídica tributária, mantém o direito de reclamação, recurso, impugnação ou de pedido de pronúncia arbitral nos termos das leis tributárias contra os atos de liquidação que geram a repercussão. Assim sendo, a Requerente, embora não seja o sujeito passivo da relação tributária subjacente à repercussão, enquanto entidade repercutida, pode impugnar os próprios atos de liquidação do imposto, através de qualquer daqueles meios procedimentais ou processuais, como modo de reagir contra a ilegalidade da repercussão.
+
+Acresce que a Requerente, no pedido arbitral, mediante a remissão para o documento n.º 3 junto ao pedido arbitral, identifica as faturas emitidas pelos fornecedores de combustíveis em que terá havido lugar à repercussão da CSR.
+
+Nada obsta, por conseguinte, que a Requerente possa deduzir um pedido de pronúncia arbitral contra os atos tributários de liquidação da CSR, e, por outro lado, esses atos encontram-se identificados e documentados pelo único meio possível qual seja a emissão de faturas emitidas pelo fornecedor do combustível.
+
+Resta referir que, não sendo a Requerente o sujeito passivo do imposto, nem o direto responsável pela sua liquidação, mas apenas a entidade que alegadamente suporta o encargo por efeito da repercussão, não lhe compete o ónus de identificação e de comprovação dos atos de liquidação repercutidos, sendo certo que o contribuinte se encontra na impossibilidade de obter elementos de informação que estão na posse de uma terceira entidade.
+
+Não se verifica, por conseguinte, a ineptidão da petição por falta ou ininteligibilidade da indicação do pedido ou da causa de pedir, nem por alguma das outras causas enunciadas no artigo 186.º do CPC, e a questão de saber se houve uma efetiva repercussão do encargo tributário na esfera jurídica da adquirente, ou se existe correlação entre os atos de liquidação da CSR e as faturas de compra, apenas poderá relevar no âmbito da apreciação da matéria de fundo para efeito do julgamento de procedência do pedido.
+
+Caducidade do direito de ação
+
+14. A Autoridade Tributária alega ainda que a falta de identificação dos atos de liquidação impede aferição da tempestividade do pedido de revisão oficiosa, na medida em que a contagem do prazo para a sua apresentação se inicia a partir do termo do prazo de pagamento do imposto, tendo por referência a data do ato de liquidação. E considera, por outro lado, que o pedido de revisão oficiosa não poderia ser apresentado no prazo de 4 anos previsto no artigo 78.º, n.º 1, da LGT, porquanto esse prazo apenas é aplicável quando o ato de liquidação seja imputável a um erro dos serviços, e, na situação do caso, encontrando-se a Administração vinculada ao princípio da legalidade e tendo efetuado a liquidação em estrita observância das normas legais, não ocorreu qualquer erro de direito imputável aos serviços.
+
+Como se deixou já exposto, a Requerente deduziu um pedido de pronúncia arbitral contra os atos tributários de liquidação da CSR e consequentes atos de repercussão. E não sendo a Requerente o sujeito passivo do imposto, nem o direto responsável pela sua liquidação, mas apenas a entidade que alegadamente suporta o encargo por efeito da repercussão, não lhe compete o ónus de identificação e de comprovação dos atos de liquidação repercutidos, sendo antes sobre a Autoridade Tributária que impede o ónus de realizar, no âmbito do procedimento de revisão oficiosa, as diligências oficiosas que permitissem verificar a existência dos atos de liquidação do imposto.
+
+E assim sendo, a alegada falta de identificação dos atos de liquidação não é imputável à Requerente.
+
+Acresce que - como se afirma, entre outros, nos acórdãos do STA de 14 de Março de 2012 (Processo n.º 01007/11) e de 8 de Março de 2017 (Processo n.º 01019/14) - a revisão oficiosa do ato tributário pode ser efetuada a pedido do contribuinte no prazo de quatro anos contados da liquidação (ou a todo o tempo se o tributo ainda não tiver sido pago) quando houver erro imputável aos serviços, devendo entender-se como tal o erro material, o erro de facto ou o erro de direito, independentemente da demonstração da culpa dos funcionários envolvidos na emissão da liquidação.
+
+É o que resulta do disposto no artigo 78.º, n.º 7, da LGT, pelo qual a revisão oficiosa, nos termos previstos no n.º 1 desse artigo, pode ser desencadeada pelo sujeito passivo mediante requerimento dirigido ao órgão competente da Administração Tributária e com base nos mesmos pressupostos legais: no prazo de quatro anos e com fundamento em erro imputável aos serviços. O que se tem entendido como uma decorrência do princípio da justiça e da verdade material (cfr., neste sentido, Joaquim Freitas da Rocha, Lições de Procedimento Tributário, 5.ª edição, Coimbra, págs. 227-228; Serena Cabrita Neto/Carla Castelo Trindade, Contencioso Tributário, vol. I, Coimbra, 2017, pág. 605, e Leonardo Marques dos Santos, “A revisão do ato tributário, as garantias dos contribuintes e a fiscalidade internacional”, in Estudos de Homenagem ao Professor Doutor Alberto Xavier, Economia, Finanças Públicas e Direito Fiscal, Vol. II, págs. 14 e segs.).
+
+Conforme é também jurisprudencialmente aceite, existindo um erro de direito numa liquidação efetuada pelos serviços da administração tributária, e não decorrendo essa errada aplicação da lei de qualquer informação ou declaração do contribuinte, o erro em questão é imputável aos serviços, em resultado da obrigação genérica de a administração tributária atuar em plena conformidade com a lei.
+
+Por outro lado, como é evidente, a existência do erro que constitui fundamento do pedido de revisão não pode ser aferida a partir da posição jurídica que tenha sido assumida pela Autoridade Tributária na apreciação do pedido de revisão, mas com base nos vícios de ilegalidade que tenham sido arguidos pelo contribuinte na formulação do pedido de impugnação judicial. Sendo que o processo arbitral foi deduzido precisamente para discutir a validade do entendimento adotado pela Administração na decisão de indeferimento tácito dos pedidos de revisão oficiosa.
+
+Nestes termos, tendo sido invocado um erro imputável aos serviços e verificando-se que os pedidos de revisão oficiosa deram entrada em 1 de setembro de 2023, junto da Alfândega da Figueira da Foz, em 5 de setembro de 2023, junto das Alfândegas de Aveiro e do Jardim do Tabaco, e em 6 de setembro de 2023, junto das Alfândegas de Peso da Régua e de Peniche, o indeferimento tácito, considerando o disposto no artigo 279.º, alínea b), do Código Civil, ocorreu em 2 de janeiro de 2024, 6 de janeiro de 2024 e 9 de janeiro de 2024, respetivamente
+
+Tendo ainda em atenção que os pedidos de revisão oficiosa se reportam a atos de repercussão da CSR no período compreendido entre abril de 2019 a dezembro de 2022, no momento da apresentação dos pedidos de revisão oficiosa não tinha ainda decorrido o prazo de quatro anos previsto no artigo 78.º, n.º 1, da LGT, no que se refere às aquisições de combustível ocorridas após as datas de 1 setembro de 2019, 5 de setembro de 2019 e 6 de setembro de 2019, verificando-se a intempestividade da revisão oficiosa e a consequente caducidade do direito de ação, apenas no que concerne às aquisições operadas anteriormente a essas datas, e, por conseguinte, em relação às faturas identificadas nos pontos 1 a 9 do artigo 37.º da petição inicial.
+
+Como é de concluir, a pretendida caducidade do direito de ação é apenas parcialmente procedente.
+
+III - Fundamentação
+
+Matéria de facto
+
+15. Os factos relevantes para a decisão da causa que são tidos como assentes são os seguintes:
+
+Requerente é uma sociedade cujo objecto social reside, entre outros, no transporte de mercadoriais, sendo detentora do CAE 49410, que compreende o transporte rodoviário de mercadoriais, local ou a longa distância, com características de serviço regular ou ocasional.
+
+No âmbito da sua atividade, a Requerente, no período compreendido entre abril de 2019 e dezembro de 2022, adquiriu gasóleo rodoviário a diversas empresas fornecedoras de combustível.
+
+As aquisições de combustíveis encontram-se documentadas nas faturas que constam dos documentos n.º 12, 14, 16 e 19 juntos ao pedido arbitral, que aqui se dão como reproduzidas.
+
+Das faturas consta a designação do combustível, o número de litros adquirido, o preço unitário, a taxa de IVA aplicável, o valor de IVA pago e valor total a liquidar resultante da importância líquida acrescida de IVA.
+
+A Requerente juntou ao pedido arbitral como documentos n.ºs 13, 15, 17 e 20, que aqui se dão como reproduzidos, os extratos de conta corrente da fornecedora B..., S.A. referentes aos anos de 2019, 2020, 2021 e 2022, respetivamente.
+
+A Requerente juntou ao pedido arbitral como documentos n.ºs 18 e 21, que aqui se dão como reproduzidos, os Extratos de Conta Corrente da C..., S.A. referentes aos anos de 2021 e 2022, respetivamente.
+
+Os extratos de conta corrente a que se referem as antecedentes alíneas E) e F) mencionam, em cada coluna, a data do movimento, a data do vencimento, a identificação do documento, a descrição, as importâncias a débito e a crédito e o saldo correspondente.
+
+Em 31 de agosto de 2023, a Requerente enviou via CTT um pedido de revisão oficiosa dos atos de liquidação da Contribuição de Serviço Rodoviário, referente ao período de abril de 2019 a dezembro de 2022, para a Delegação Aduaneira da Figueira da Foz.
+
+Em 4 de setembro de 2023, a Requerente enviou, por correio registado com aviso de receção, pedidos de revisão oficiosa dos atos de liquidação da Contribuição de Serviço Rodoviário, referentes ao período de abril de 2019 a dezembro de 2022, para as Alfândegas de Aveiro e Lisboa.
+
+Em 5 de setembro de 2023, a Requerente enviou, por correio registado com aviso de receção, pedidos de revisão oficiosa dos atos de liquidação da Contribuição de Serviço Rodoviário, referentes ao período de abril de 2019 a dezembro de 2022, para as Alfândegas de Peniche e Peso da Régua.
+
+A Autoridade Tributária e Aduaneira não emitiu decisão quanto aos pedidos de revisão oficiosa no prazo legalmente cominado para o efeito.
+
+O pedido de revisão oficiosa enviado para a Delegação Aduaneira da Figueira deu entrada nos serviços em 1 de setembro de 2023, considerando-se tacitamente indeferido em 2 de janeiro de 2024.
+
+Os pedidos de revisão oficiosa enviados para as Alfândegas de Aveiro e Lisboa deram entrada nos serviços em 5 de setembro de 2023, considerando-se tacitamente indeferidos em 9 de janeiro de 2024.
+
+Os pedidos de revisão oficiosa enviados para as Alfândegas de Peniche e Peso da Régua deram entrada nos serviços em 6 de setembro de 2023, considerando-se tacitamente indeferidos em 9 de janeiro de 2024.
+
+O pedido arbitral deu entrada em 1 de abril de 2024.
+
+Factos não provados
+
+Não se encontra provado que se tenha verificado a efetiva repercussão da Contribuição de Serviço Rodoviário na esfera jurídica da Requerente relativamente ao combustível adquirido às fornecedoras, no período de abril de 2019 a dezembro de 2022 e no montante de total de € 76.871,05.
+
+Motivação da matéria de facto
+
+O Tribunal formou a sua convicção quanto à factualidade provada com base nos documentos juntos à petição inicial e no processo administrativo junto pela Autoridade Tributária com a resposta.
+
+Atento o disposto no artigo 74.º, n.º 1, da LGT, o ónus da prova dos factos constitutivos dos direitos da Administração Tributária ou dos contribuintes recai sobre quem os invoque, e, por conseguinte, é ao contribuinte, que pretende obter a declaração de ilegalidade dos atos de liquidação da CSR e dos correspondentes atos de repercussão na sua esfera jurídica, que cabe realizar a prova da efetiva repercussão.
+
+Para fazer a prova da repercussão, a Requerente limitou-se a juntar ao pedido arbitral, como documentos n.ºs 12, 14, 16 e 19, um conjunto de faturas de aquisição de combustível referentes aos anos de 2019, 2020, 2021 e 2022, que contêm as referências que constam da alínea D) da matéria de facto. Juntou ainda como documentos n.ºs 13, 15,17 e 20, os extratos de conta corrente da fornecedora B..., S.A., referentes aos anos de 2019, 2020, 2021 e 2022, e, como documentos n.ºs 18 e 21, os extratos de conta corrente da C..., S.A., referentes aos anos de 2021 e 2022, que contêm as as referências que constam da alínea G) da matéria de facto.
+
+No entanto, as faturas não evidenciam a repercussão da CSR no preço de venda, contendo apenas a menção do tipo de combustível e das quantidades adquiridas, o valor da aquisição, a taxa de IVA aplicável e o valor de IVA pago, nada permitindo concluir se houve lugar ao pagamento do imposto por repercussão e qual tenha sido o montante apurado a esse título. E, por outro lado, os extratos de conta corrente são documentos internos de controlo contabilístico, que apenas referem a data do movimento, a data do vencimento, a identificação do documento, a descrição, as importâncias a débito e a crédito e o saldo correspondente, e que não contêm qualquer menção do imposto pago a título de CSR.
+
+E, por conseguinte, esses documentos, cujo valor probatório é de livre apreciação do tribunal, não constituem prova suficiente da efetiva repercussão da Contribuição de Serviço Rodoviário na esfera jurídica da Requerente.
+
+Matéria de direito
+
+16. A questão que vem colocada é a de saber se a Contribuição de Serviço Rodoviário, criada pela Lei n.º 55/2007, de 31 de agosto, que constitui um imposto incidente sobre os combustíveis rodoviários também sujeitos ao Imposto sobre Produtos Petrolíferos, e que se encontra enquadrada pela Diretiva n.º 2008/118/CE, tem um “motivo específico” na aceção do artigo 1.º, n.º 2, dessa Diretiva.
+
+Nos termos da referida Lei n.º 55/2007, na sua redação originária, a Contribuição de Serviço Rodoviário visa financiar a rede rodoviária nacional a cargo da EP - Estradas de Portugal, E. P. E. (artigo 1.º), que, entretanto, passou a denominar-se Infraestruturas de Portugal, S.A., sendo que o financiamento da rede rodoviária nacional a cargo desta entidade é assegurado pelos respetivos utilizadores e, subsidiariamente, pelo Estado, nos termos da lei e do contrato de concessão aplicável (artigo 2.º).
+
+A mesma contribuição corresponde à contrapartida pela utilização da rede rodoviária nacional, tal como esta é verificada pelo consumo dos combustíveis, e constitui uma fonte de financiamento da rede rodoviária nacional a cargo da Infraestruturas de Portugal, S.A, no que respeita à respetiva conceção, projeto, construção, conservação, exploração, requalificação e alargamento, ainda que a exigência da contribuição não prejudique a eventual aplicação de portagens em vias específicas ou o recurso da entidade concessionária a outras formas de financiamento (artigo 3.º).
+
+A contribuição incide sobre a gasolina e o gasóleo rodoviário sujeitos ao imposto sobre os produtos petrolíferos e energéticos e dele não isentos (artigo 4.º, n.º 1) e é devida pelos sujeitos passivos do imposto sobre os produtos petrolíferos e energéticos, sendo aplicável à sua liquidação, cobrança e pagamento o disposto no Código dos Impostos Especiais de Consumo (artigo 5.º, n.º 1).
+
+O produto da Contribuição de Serviço Rodoviário constitui receita própria da atualmente denominada Infraestruturas de Portugal, S.A. (artigo 6.º).
+
+À luz do regime jurídico sucintamente exposto, a Requerente sustenta que a Contribuição de Serviço Rodoviário foi criada por razões de ordem puramente orçamental, em vista à angariação de receitas próprias para financiamento da empresa pública concessionária da rede nacional de estradas, em violação do direito europeu, e, especialmente, do referido artigo 1.º, n.º 2, da Diretiva 2008/118/CE.
+
+Em contraposição, a Autoridade Tributária considera que a atividade da Infraestruturas de Portugal tem subjacente a prossecução de objetivos de redução da sinistralidade e de sustentabilidade ambiental, que se pode entender como “motivo específico” da criação da contribuição e não pode circunscrever-se a uma mera finalidade de natureza orçamental.
+
+17. Analisando esta questão, interessa começar por ter presente a Diretiva 2008/118/CE, que estabelece o regime geral dos impostos especiais de consumo que incidem direta ou indiretamente sobre o consumo, entre outros, dos produtos energéticos, e, em especial, o seu artigo 1.º, n.º 2, que tem a seguinte redação:
+
+Os Estados-Membros podem cobrar, por motivos específicos, outros impostos indiretos sobre os produtos sujeitos a impostos especiais de consumo, desde que esses impostos sejam conformes com as normas fiscais da Comunidade aplicáveis ao imposto especial de consumo e ao imposto sobre o valor acrescentado no que diz respeito à determinação da base tributável, à liquidação, à exigibilidade e ao controlo do imposto, regras estas que não incluem as disposições relativas às isenções.
+
+Interpretando esta disposição na perspetiva de saber se a CSR prossegue um “motivo específico” na aceção da Diretiva, o despacho do TJUE de 7 de fevereiro de 2022, proferido no Processo n.º C-460/21, começou por assinalar que “para se considerar que prossegue um motivo específico, na aceção da referida disposição, um imposto deve visar, por si só, assegurar a finalidade específica invocada, de tal forma que exista uma relação direta entre a utilização das receitas e a finalidade da imposição em causa” (parágrafo 25). Acrescentando que “só se pode considerar que um imposto que incide sobre produtos sujeitos a impostos especiais de consumo quando prossegue um motivo específico, na aceção do artigo 1.º, n.° 2, da Diretiva 2008/118/CE, se esse imposto for concebido, no que respeita à sua estrutura, nomeadamente, à matéria coletável ou à taxa de tributação, de modo a influenciar o comportamento dos contribuintes num sentido que permita realizar o motivo específico invocado, por exemplo, através da tributação significativa dos produtos considerados para desencorajar o respetivo consumo (parágrafo 27).
+
+No desenvolvimento destes critérios gerais, o despacho do TJUE veio a considerar que o artigo l.°, n.° 2, da Diretiva 2008/118/CE deve ser interpretado no sentido de que não prossegue “motivos específicos”, na aceção desta disposição, um imposto cujas receitas ficam genericamente afetas a uma empresa concessionária da rede rodoviária nacional e cuja estrutura não atesta a intenção de desmotivar o consumo dos principais combustíveis rodoviários.
+
+Havendo de concluir-se, em conformidade, que a CSR, criada pela Lei n.º 55/2007, de 31 de Agosto, não prossegue “motivos específicos”, na aceção do artigo l.°, n.° 2, da Diretiva 2008/118/CE, na medida em que as suas receitas têm essencialmente como fim assegurar o financiamento da rede rodoviária nacional, não podendo considerar-se como suficiente, para estabelecer uma relação direta entre a utilização das receitas e um “motivo específico”, os objetivos genéricos de redução da sinistralidade e de sustentabilidade ambiental.
+
+18. A jurisprudência do Tribunal de Justiça tem vindo a considerar que, “ainda que, na legislação nacional, os impostos indiretos tenham sido concebidos de modo a serem repercutidos no consumidor final e que, habitualmente, no comércio, esses impostos indiretos sejam parcial ou totalmente repercutidos, não se pode afirmar de uma maneira geral que, em todos os casos, o imposto é efetivamente repercutido. A repercussão efetiva, parcial ou total, depende de vários fatores próprios de cada transação comercial e que a diferenciam de outras situações, noutros contextos. Consequentemente, a questão da repercussão ou da não repercussão em cada caso de um imposto indireto constitui uma questão de facto que é da competência do órgão jurisdicional nacional, cabendo a este último apreciar livremente os elementos de prova que lhe tenham sido submetidos” (cfr. Processo n.º C-460/21, parágrafo 44 e a jurisprudência nele citada).
+
+Por outro lado, segundo a mesma jurisprudência, não é de admitir que, no caso dos impostos indiretos, exista uma presunção segundo a qual a repercussão teve sempre lugar, e, mesmo quando o contribuinte tenha sido obrigado, pela legislação nacional aplicável, a incorporar o imposto no preço de custo do produto em causa, essa obrigação legal não permite presumir que a totalidade do imposto tenha sido repercutida (Processo n.º C-460/21, parágrafo 45).
+
+Neste sentido, constituindo a repercussão fiscal da CSR um facto positivo, o ónus da prova impende sobre quem o invoca, por forma a comprovar a qualidade de entidade repercutida e lesada no âmbito da relação jurídico-tributária, e, por conseguinte, é ao contribuinte, que pretende obter a declaração de ilegalidade dos atos de liquidação da CSR e dos correspondentes atos de repercussão na sua esfera jurídica, que cabe realizar a prova da efetiva repercussão.
+
+No caso, não se encontra provada a aquisição de combustíveis, por parte da Requerente, nas quantidades referenciadas nos documentos n.ºs 12, 14, 16 e 19 juntos ao pedido arbitral, o que, desde logo, torna inviável o apuramento da CSR que pudesse vir a ser repercutida no consumidor final.
+
+Por outro lado, também não pode considerar-se verificada a efetiva repercussão da CSR relativamente ao combustível que tenha sido adquirido pela Requerente no referido no período de abril de 2019 a dezembro de 2022, na medida que não releva como prova, para esse efeito, os extratos de conta corrente que constam dos documentos n.ºs 13, 15, 17, 18, 20 e 21 juntos ao pedido arbitral, que são documentos internos de controlo contabilístico, que não contêm qualquer menção ao imposto pago a título de CSR.
+
+Na ausência de prova bastante de que tenha havido lugar à repercussão do imposto, o pedido arbitral mostra-se ser improcedente.
+
+Reembolso do imposto indevidamente pago e juros indemnizatórios
+
+19. Face à improcedência do pedido principal, fica necessariamente prejudicado o conhecimento dos pedidos acessórios de reembolso do imposto pago e de pagamento de juros indemnizatórios.
+
+IV – Decisão
+
+Termos em que se decide:
+
+Julgar procedente a exceção dilatória da caducidade do direito de ação quanto às aquisições de combustível operadas anteriormente a setembro de 2019;
+
+Julgar improcedentes as demais exceções dilatórias e perentórias invocadas;
+
+Julgar improcedente o pedido arbitral e manter na ordem jurídica os atos de liquidação impugnados, bem como as decisões de indeferimento tácito dos pedidos de revisão oficiosa;
+
+Julgar prejudicado o conhecimento dos pedidos acessórios de reembolso do imposto pago e de pagamento de juros indemnizatórios.
+
+V – Valor da causa
+
+A Requerente indicou como valor da causa o montante de € 76.871,05, que não foi questionado pela Requerida, pelo que se fixa nesse montante o valor da causa.
+
+VI – Custas
+
+Nos termos dos artigos 12.º, n.º 2, e 24.º, n.º 4, do RJAT, e 3.º, n.º 2, do Regulamento de Custas nos Processos de Arbitragem Tributária e Tabela I anexa a esse Regulamento, fixa-se o montante das custas em € 2.448,00, que fica a cargo da Requerente.
+
+Notifique.
+
+Lisboa, 31de outubro de 2024
+
+O Presidente do Tribunal Arbitral
+
+Carlos Fernandes Cadilha (relator)
+
+A Árbitro vogal
+
+Cristina Aragão Seia
+
+(com declaração de voto)
+
+A Árbitro vogal
+
+Catarina Belim
+
+DECLARAÇÃO DE VOTO
+
+Não acompanhamos o sentido da decisão.
+
+Entendemos que o pedido deveria ser julgado procedente e, de modo particular não acompanhamos a decisão ao julgar não procedente o pedido, por considerar não provada a repercussão da CSR.
+
+Efectivamente, no pedido, a Requerente identifica as facturas emitidas pelos fornecedores de combustíveis em que sustenta ter ocorrido necessariamente repercussão da CSR.
+
+Os actos impugnados encontram-se identificados e documentados pelo único meio possível, qual seja, a emissão de facturas emitidas pelo fornecedor do combustível que consubstancia a repercussão do encargo tributário na esfera jurídica dos adquirentes, estando estes impossibilitados de obter elementos de informação que estão na posse de uma terceira entidade, por não serem eles o sujeito passivo do imposto.
+
+Como se refere no texto do acórdão do CAAD proferido no processo n.º 304/2022-T, “não tendo a Requerente a qualidade de sujeito passivo da CSR, nem sendo substituto tributário, não lhe é exigível que disponha das liquidações correspondentes, uma vez que não é o destinatário das mesmas nem participou na sua emissão. Aliás, tal exigência comprometeria a sindicabilidade dos atos tributários por repercutidos legais, ou, no caso de retenções na fonte, pelos substituídos, com a consequente contração do acesso ao direito, incompatível com o direito a uma tutela jurisdicional efetiva e com o princípio da proporcionalidade (v. artigos 20.º e 268.º, n.º 4 da Constituição”.
+
+De qualquer forma, entendemos que a repercussão da CSR se presume, por recurso à livre apreciação dos factos de acordo com as regras da experiência e a livre convicção dos árbitros [artigo 16º, e) do RJAT e artigo 607º, n.º 5 do CPC].
+
+Seguimos integralmente neste ponto, o que se decidiu no processo arbitral n.º 1015/2023-T, de 28-05-2024:
+
+- “A repercussão da CSR nos consumidores de combustíveis é manifestamente pretendida pela lei, ao estabelecer que o financiamento da rede rodoviária nacional «é assegurado pelos respectivos utilizadores» e que «a contribuição de serviço rodoviário constitui a contrapartida pela utilização da rede rodoviária nacional, tal como esta é verificada pelo consumo dos combustíveis» ((artigos 2.º e 3.º do CIEC na redacção anterior à Lei n.º 24-E/2022, de 30 de Dezembro).
+
+Assim, a existência de repercussão do tributo no consumidor final numa situação em que a lei pretende que ela exista, como sucede com a CSR, tem de se presumir, à face das regras da experiência que os árbitros devem aplicar na fixação da matéria de facto, pois trata-se de uma situação normal, que corresponde ao andamento natural das coisas, quod plerumque accidit.
+
+Neste contexto, deve dizer-se que a presunção de que ocorreu efectivamente repercussão quando ela está prevista na lei e não há qualquer facto que permita duvidar da correspondência do facto presumido à realidade, não é incompatível com o Direito da União, designadamente à face do Despacho do TJUE de 07-02-2022, proferido no processo C-460/21.
+
+O que aí se refere, relativamente a prova de uma situação de enriquecimento sem causa, que constitui excepção ao direito ao reembolso de quantias cobradas em violação do Direito da União, é que «o direito da União exclui assim que se aplique toda e qualquer presunção ou regra em matéria de prova destinada a fazer recair sobre o operador em causa o ónus de provar que os impostos indevidamente pagos não foram repercutidos noutras pessoas e que visem impedir a apresentação de elementos de prova destinados a contestar uma pretensa repercussão (Acórdão de 21 de setembro de 2000, Michaïlidis, C-441/98 e C-442/98, EU:C:2000:479, n.º 42)».
+
+Isto é, o que o TJUE considera incompatível com o Direito da União é a utilização exclusiva de uma presunção de repercussão para prova de uma situação excepcional de enriquecimento sem causa, derivada de omissão de repercussão, impedindo ao operador que devia fazer a repercussão a apresentação de elementos de prova destinados a demonstrar que não ocorreu.
+
+Mas, no caso em apreço, o que esta em causa não é a prova de uma situação de excepção, mas sim a prova da situação normal de ter existido a repercussão pretendida por lei e não há obstáculos a que seja apresentada prova de que a repercussão não ocorreu, abalando a operacionalidade da referida presunção natural. O que sucede, é que nenhuma prova foi apresentada que permita entrever que a repercussão não tenha ocorrido.
+
+Por outro lado, é manifesta a acrescida dificuldade de prova positiva da repercussão, em situação em que a Requerente apenas tem na sua posse as facturas em que apenas se indica o preço em que se presume estar incluída a CSR e essa acentuada dificuldade deverá ter como corolário, por força do princípio constitucional da proporcionalidade, uma menor exigência probatória por parte do aplicador do direito, dando relevo a provas menos relevantes e convincentes que as que seriam exigíveis se tal dificuldade não existisse, aplicando a máxima latina "iis quae difficilioris sunt probationis leviores probationes admittuntur".
+
+Por outro lado, «a administração tributária deve, no procedimento, realizar todas as diligências necessárias à satisfação do interesse público e à descoberta da verdade material, não estando subordinada à iniciativa do autor do pedido» (artigo 58.º da LGT), pelo que tinha o dever de diligenciar, na sequência da apresentação do pedido de revisão oficiosa, no sentido de apurar quais as liquidações que ela própria emitiu e os pagamentos que recebeu relativas ao pagamento de CSR pela fornecedora de combustíveis e confirmar ou não se foram ou não efectuados os pagamentos das facturas pela Requerente, se necessário através de exame à contabilidade da Requerente e informações bancárias.
+
+É apenas nas situações em que, após a produção das provas e a realização de diligências necessárias para apurar a factualidade relevante para a decisão, subsistem dúvidas sobre factos em que deve assentar a decisão que funcionam as regras do ónus da prova, valorando procedimentalmente as dúvidas contra aquele a quem é atribuído o ónus da prova.
+
+As regras do ónus da prova não significam que seja sobre a parte à qual ele é atribuído que recai o dever de trazer ao processo os meios de prova dos factos relevantes para decisão, dispensando a parte contrária de tal tarefa, pois a Administração Tributária nunca está dispensada de, em cumprimento do princípio do inquisitório, antes de aplicar as regras do ónus da prova, «realizar todas as diligências necessárias à satisfação do interesse público e à descoberta da verdade material, não estando subordinada à iniciativa do autor do pedido», por força do artigo 58.º da LGT.
+
+«No procedimento, o órgão instrutor utilizará todos os meios de prova legalmente previstos que sejam necessários ao correcto apuramento dos factos, podendo designadamente juntar actas e documentos, tomar declarações de qualquer natureza do contribuinte ou outras pessoas e promover a realização de perícias ou inspecções oculares» (artigo 50.º do CPPT), independentemente de o ónus da prova recair ou não sobre o contribuinte.
+
+A expressão «todas as diligências necessárias» não dá margem para interpretação restritiva quanto aos deveres de realização de diligências que a lei impõe a AT.
+
+O princípio do inquisitório, enunciado este artigo 58.º da LGT, situa-se a montante do ónus de prova (acórdão do STA de 21-10-2009, processo n.º 0583/09), só operando as regras do ónus da prova quando, após o devido cumprimento daquele princípio, se chegar a uma situação de dúvida (non liquet) sobre os factos relevantes para a decisão do procedimento tributário, situação esta em que a matéria de facto é decidida contra a parte a quem é imposto tal ónus.
+
+Por isso, não podem aplicar-se as regras do ónus da prova contra o sujeito passivo, valorando contra ele as dúvidas sobre a matéria de facto, em situação em que não foi cumprido adequadamente pela Autoridade Tributária e Aduaneira o princípio do inquisitório: se houve omissão absoluta de diligências no procedimento que tinham potencialidade para esclarecer os factos relevantes para a apreciação da causa, a falta de prova tem de ser valorada contra a Autoridade Tributária e Aduaneira”.
+
+Efectivamente, independentemente do critério de repartição do ónus da prova ao caso aplicável, a Administração Tributária está vinculada, ao nível do procedimento, ao princípio da verdade material, pelo qual lhe cabe o poder-dever de realizar todas as diligências que entenda serem úteis para a descoberta da verdade, constituindo um afloramento deste princípio o disposto no artigo 58.º da LGT. Por outro lado, os órgãos da Administração Pública estão sujeitos a um princípio de colaboração, e, como tal, “devem actuar em estreita colaboração com os particulares, cumprindo-lhes, designadamente, prestar aos particulares as informações e os esclarecimentos de que careçam, apoiar e estimular as suas iniciativas e receber as suas sugestões e informações”, princípio esse igualmente consagrado nos artigos 11º, n.º 1, do CPA, 59º da LGT e 48º do CPPT.
+
+Aliás, o contribuinte não pode ver agravada a sua situação fiscal pelo facto de não lhe ser possível apresentar uma prova documental específica a que não pode ter acesso, quando a Autoridade Tributária se absteve de obter essa mesma prova pelos seus próprios meios.
+
+Desse modo, tendo presentes todos os elementos constantes do processo arbitral, consideraríamos o pedido arbitral procedente, por provado.
+
+O Árbitro,
+
+(Cristina Aragão Seia)
