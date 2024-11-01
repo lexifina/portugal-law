@@ -2,7 +2,7 @@
 
 ### Actualização de pensões
 
-1 - As pensões de aposentação, reforma e invalidez são actualizadas anualmente, a partir do 2.º ano seguinte ao da sua atribuição, com efeitos a partir do dia 1 de Janeiro de cada ano, em função do seu montante, de acordo com o anexo iv, tendo em conta o valor do IAS e os seguintes indicadores de referência:
+1 - O valor das pensões de aposentação, reforma e invalidez é atualizado anualmente, a partir do ano seguinte ao da sua atribuição, com efeitos a partir do dia 1 de janeiro de cada ano, em função do seu montante, de acordo com o anexo iv, tendo em conta o valor do IAS e os seguintes indicadores de referência:
 
 a) O crescimento real do produto interno bruto (PIB) correspondente à média da taxa do crescimento médio anual dos últimos dois anos, terminados no 3.º trimestre do ano anterior àquele a que se reporta a actualização ou no trimestre imediatamente anterior, se aquele não estiver disponível à data de 10 de Dezembro;
 
