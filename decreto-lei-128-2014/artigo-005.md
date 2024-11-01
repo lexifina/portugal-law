@@ -12,6 +12,6 @@
 
 3 - A comunicação prévia com prazo é obrigatória e condição necessária para a exploração de estabelecimentos de alojamento local.
 
-4 - Sempre que o estabelecimento de alojamento local seja registado em fração autónoma de edifício em regime de propriedade horizontal que se destine, no título constitutivo, a habitação, deve o registo ser precedido de decisão do condomínio para uso diverso de exercício da atividade de alojamento local.
+4 - (Revogado.)
 
-5 - A decisão é tomada nos termos do n.º 1 do artigo 1419.º do Código Civil.
+5 - (Revogado.)

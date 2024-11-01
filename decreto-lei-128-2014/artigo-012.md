@@ -34,4 +34,4 @@ d) Dispor de portas equipadas com um sistema de segurança que assegure a privac
 
 8 - No caso de os estabelecimentos estarem inseridos em edifícios de habitação coletiva, o livro de informações deve conter também o regulamento com as práticas e regras do condomínio que sejam relevantes para o alojamento e para a utilização das partes comuns.
 
-9 - O responsável do estabelecimento deve disponibilizar ao condomínio o seu contacto telefónico.
+9 - O responsável do estabelecimento deve disponibilizar ao condomínio o seu contacto telefónico e o seu endereço de correio eletrónico.

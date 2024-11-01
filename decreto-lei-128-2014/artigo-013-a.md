@@ -13,3 +13,5 @@
 5 - Tratando-se de estabelecimento de alojamento local cuja unidade esteja integrada em edifício em regime de propriedade horizontal, o titular da exploração fica ainda obrigado a celebrar ou a fazer prova da existência de seguro válido que garanta os danos patrimoniais diretamente causados por incêndio na ou com origem na unidade de alojamento.
 
 6 - A falta de seguros válidos previstos nos n.os 2 e 4 é fundamento de cancelamento do registo.
+
+7 - É da responsabilidade do titular da exploração a cobertura, através de contratos de seguro, dos riscos previstos no presente decreto-lei e na Portaria n.º 248/2021, de 29 de junho, inerentes à exploração de estabelecimento de alojamento local objeto do registo e o município pode exigir, sempre que o entender conveniente, prova documental da celebração do contrato de seguro referido nos números anteriores, devendo o segurado fornecê-la no prazo máximo de três dias, sob pena de cancelamento do registo e demais consequências previstas na lei.
