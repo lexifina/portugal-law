@@ -1,0 +1,746 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34158",
+  "numero": "113",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-11-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-01-14",
+            "entidades": null,
+            "id": "159228",
+            "tipo": null,
+            "titulo": "Audição em 2025-01-14 com Peticionários da Petição n.º 113/XVI/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-03-05",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915261",
+                "obs": null,
+                "pag": [
+                  "42-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/063/2025-03-15/42?pgs=42-46&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-12-04",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-11-07",
+        "DataEnvioPAR": "2025-03-13",
+        "DataReaberta": "2024-12-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-12-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939694d5455315954646d4e53307a596d45354c54513459544d74595451354d6930775a54686a4e6d45334e445a684d7a6b756347526d&fich=b155a7f5-3ba9-48a3-a492-0e8c6a746a39.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-01-15",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938315957466d4d6d466d4d43316b5a6a4e6d4c54513059325574596d5979597930794e446b795a6a49344d6a46684e6a49756347526d&fich=5aaf2af0-df3f-44ce-bf2c-2492f2821a62.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-03-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938354d4467334d44426d4d4330335a546c6c4c545135596a4d744f575a695a5330314f5441794d7a49354e6a59344f544d756347526d&fich=908700f0-7e9e-49b3-9fbe-590232966893.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2025-02-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938344e44526c4d445269596930314e6d45784c5451784e7a41744f54466d5a5330794e474a6a4d44686d4d57566a5a4451756347526d&fich=844e04bb-56a1-4170-91fe-24bc08f1ecd4.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-03-05",
+            "dataNomeacao": "2025-01-08",
+            "gp": "PSD",
+            "id": "4330",
+            "motivoCessacao": "Aprovação do Relatório Final em reunião da comissão de Saúde",
+            "nome": "Ana Oliveira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2026-05-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-11-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51795a57466d5a6a63304c546b33593245744e4445304f5331684d324d314c574931596a566b4e6a49774f5759784f4335775a47593d&fich=42eaff74-97ca-4149-a3c5-b5b5d6209f18.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "356708",
+      "356676",
+      "356684",
+      "356685",
+      "356689",
+      "356716"
+    ],
+    "Iniciativasoriginadas": [
+      "356708",
+      "356676",
+      "356684",
+      "356685",
+      "356689",
+      "356716"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/107"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "91-92"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/91?pgs=91-92&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/108"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503658",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "92-92"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/92?pgs=92&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/109"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503659",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "92-93"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/92?pgs=92-93&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/110"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503660",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "93-94"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/93?pgs=93-94&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/111"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503661",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "94-94"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/94?pgs=94&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/112"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503662",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "95-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/95?pgs=95&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/113"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503663",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "95-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/95?pgs=95&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/114"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503664",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "96-96"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/96?pgs=96&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/115"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503665",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "96-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/96?pgs=96-97&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/93/116"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503666",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "97-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-21",
+                "pubLeg": "XVII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/97?pgs=97&org=PLC"
+              }
+            ],
+            "Sumario": "(FEPODABES-Federação Portuguesa e Dadores Benévolos de Sangue) — Dispensa de serviço em dia de dádiva benévola de sangue; Valoriza a dádiva regular de sangue através da atribuição de dias adicionais de férias, alterando o Estatuto do Dador de Sangue, o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Recomenda ao Governo a valorização da dádiva benévola de sangue, a reposição da dispensa de serviço em dia de dádiva e o reforço da colheita de plasma por aférese; Recomenda ao Governo a adoção de medidas de incentivo à dádiva de sangue; Recomenda ao Governo a valorização e promoção da dádiva voluntária e altruísta de sangue em Portugal; Pela dispensa de serviço em dia de dádiva benévola de sangue e pela realização de uma campanha extraordinária de incentivo à doação de sangue; Recomenda ao Governo o direito à dispensa de prestação de atividade profissional, de formação ou inseridas em programas ocupacionais, no dia da dádiva, sem perda de direitos ou regalias do trabalhador dador",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34158",
+    "PetAssunto": "Dispensa de Serviço em Dia de Dádiva Benévola de Sangue",
+    "PetDataEntrada": "2024-11-04",
+    "PeticoesAssociadas": null,
+    "PetId": "34158",
+    "PetLeg": "XVI",
+    "PetNr": "113",
+    "PetNrAssinaturas": "7563",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura. ",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "76890",
+        "obs": null,
+        "pag": [
+          "91-97"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-05-21",
+        "pubLeg": "XVII",
+        "pubNr": "93",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/093/2026-05-21/91?pgs=91-97&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915293",
+        "obs": null,
+        "pag": [
+          "29-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-06",
+        "pubLeg": "XVI",
+        "pubNr": "45",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/045/2024-12-06/29?pgs=29-31&org=PLC"
+      }
+    ]
+  }
+}
