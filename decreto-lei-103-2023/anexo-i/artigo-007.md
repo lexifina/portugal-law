@@ -14,4 +14,4 @@ a) O grau de especialista em medicina geral e familiar, no caso dos médicos;
 
 b) O título de especialista em enfermagem de saúde familiar, no caso dos enfermeiros.
 
-3 - O número de USF modelo C a constituir é estabelecido por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+3 - O número de USF modelo C a constituir é estabelecido, anualmente, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
