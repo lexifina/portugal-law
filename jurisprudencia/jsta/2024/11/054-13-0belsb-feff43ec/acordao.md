@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2024-11-06, processo 054/13.0BELSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 054/13.0BELSB
+
+**Data do Acordão:** 11/06/2024
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** HELENA MESQUITA RIBEIRO
+
+**Descritores:** DESPACHO SANEADOR; RECURSO; ACÇÃO ADMINISTRATIVA COMUM; PRAZO DE PRESCRIÇÃO; CONTRATO DE TRABALHO EM FUNÇÕES PÚBLICAS
+
+**Nº Convencional:** JSTA000P32807
+
+**Nº do Documento:** SA120241106054/13
+
+**Recorrente:** MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS
+
+**Recorrido 1:** SINDICATO DOS TRABALHADORES CONSULARES E DAS MISSÕES DIPLOMÁTICAS NO ESTRANGEIRO
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Entre os despachos que apenas são impugnáveis com o recurso a interpor da decisão final, contam-se aqueles que na fase do saneamento do processo, julguem improcedente uma exceção, por se tratar de decisão que não se enquadra em nenhuma das situações previstas nos n.ºs 1 e 2 do art.º 644.º do CPC (aplicável ex vi artigo 142.º, nº 5 do CPTA), onde se prevêem os casos de recurso autónomo.
+
+II - Pretendendo o autor ver reconhecido ao seu associado, assistente administrativo, o direito a ser retribuído pelo exercício das funções de técnico de ... que desempenhou durante vários anos, está em causa o reconhecimento de uma situação jurídico-subjetiva emergente da relação de trabalho/emprego público do associado do autor, sendo a ação administrativa comum a forma de processo adequada aos pedidos formulados.
+
+III - Estando-se perante créditos laborais reclamados no âmbito de uma relação de emprego público, o prazo de prescrição desses créditos é o que resulta do disposto no artigo 245.º do RCTFP.
+
+IV - Os artigos 113º, nº 2, e 114º, ambos do RCTFP- preceitos que foram revogados pela lei n.º 35/2014, de 20/06-, apenas prevêem a possibilidade de ser conferido ao trabalhador o direito a auferir pelo nível remuneratório imediatamente superior àquele por que aufere na eventualidade de lhe serem atribuídas de forma esporádica funções que sejam afins ou funcionalmente ligadas à atividade contratada e para as quais o mesmo detenha a qualificação profissional.
+
+V - O facto de o legislador do RCTFP ter permitido a possibilidade de um trabalhador contratado para o exercício de funções relativas a uma determinada atividade, ser colocado no exercício esporádico de outras funções, com direito a ser remunerado ainda que verificadas as demais condições previstas no n.º 2 do artigo 113.º desse diploma, não consente que essa remuneração assista ao trabalhador quando as exerça com regularidade.
+
+(Sumário elaborado pela relatora – art.º 663º, n.º 7 do Cód. Proc. Civil).
