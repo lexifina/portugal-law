@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Proposta de Lei",
+  "numero": "34",
+  "id": "304314",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-11-07",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d474d354e6a55324e6a49744e6d55784e5330304e7a4a684c546b325a5445745a445a6d5a57466b596a526d5a6d55314c6d52765933673d&fich=0c965662-6e15-472a-96e1-d6feadb4ffe5.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa – versão 1"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a5a6c59544e6d4d6d49745a57526d4e7930304e4756684c57466b4d444d74596d466d4d7a64684f575133596a6b784c6e426b5a673d3d&fich=c6ea3f2b-edf7-44ea-ad03-baf37a9d7b91.pdf&Inline=true",
+        "anexoNome": "A. I. G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5749784e7a5179595445745a475a6a5a5330304d7a566d4c5749305a6d49744e544977597a6c6d5a6a59325a4467354c6e426b5a673d3d&fich=9b1742a1-dfce-435f-b4fb-520c9ff66d89.pdf&Inline=true",
+        "anexoNome": "Parecer ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a544e6d4d6d5131595755744d6d51775a6930305a5463324c574533595463744e7a4533593255334f446b31593255314c6e426b5a673d3d&fich=e3f2d5ae-2d0f-4e76-a7a7-717ce7895ce5.pdf&Inline=true",
+        "anexoNome": "Parecer COJ"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e54646b4d6a5132593255745a444d344e793030595745344c5745305a6a55744d545979593259785a6a45314e7a5a6d4c6e426b5a673d3d&fich=57d246ce-d387-4aa8-a4f5-162cf1f1576f.pdf&Inline=true",
+        "anexoNome": "Parecer CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a545a6b4d4463324e4463745a444d324f4330305a4449784c5745334e6d49745a54686b4d4745354d5745345a6d4d344c6e426b5a673d3d&fich=e6d07647-d368-4d21-a76b-e8d0a91a8fc8.pdf&Inline=true",
+        "anexoNome": "Parecer CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765957466a4f5745784d3245744e5759794e6930305a4749784c5468684e5751744d6a42684d446b325a545131595441304c6e426b5a673d3d&fich=aac9a13a-5f26-4db1-8a5d-20a096e45a04.pdf&Inline=true",
+        "anexoNome": "Parecer CSTAF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d46694d6a55794f4463744d44426b4e6930305a6a426c4c57466a596a51744d545a685a6a56684e57466d4f4459304c6e426b5a673d3d&fich=2ab25287-00d6-4f0e-acb4-16af5a5af864.pdf&Inline=true",
+        "anexoNome": "Parecer OA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5467324d474d324d3259744e4749315a4330304e4759314c546c6c5a6a6b745a6a6c6b4d6d49794e6d51354d7a6c694c6e426b5a673d3d&fich=9860c63f-4b5d-44f5-9ef9-f9d2b26d939b.pdf&Inline=true",
+        "anexoNome": "Parecer SFJ"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a474a6c59325a685a5755744f5451344d4330304e7a566d4c5745785a6d55744f445a6c4e444e694d6a4d794e3252684c6e426b5a673d3d&fich=dbecfaee-9480-475f-a1fe-86e43b2327da.pdf&Inline=true",
+        "anexoNome": "Parecer SMMP"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "304314",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a6c6c4e325a6c4d5751744d7a4d324d4330305a446c694c5467334d3251744e44466b5a5449334d7a646d4d4759344c6d52765933673d&fich=f9e7fe1d-3360-4d9b-873d-41de2737f0f8.docx&Inline=true",
+    "IniNr": "34",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto a pedido do autor em 2024-12-19.",
+    "IniTipo": "P",
+    "IniTitulo": "Procede à quinta alteração à Lei n.º 2/2008, de 14 de janeiro,  que regula o ingresso nas magistraturas, a formação de magistrados e a natureza, estrutura e funcionamento do Centro de Estudos Judiciários",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
