@@ -10,9 +10,9 @@
 
 4 - Os credores conhecidos que tenham a residência habitual, o domicílio ou a sede estatutária num Estado-membro diferente daquele em foi aberto o processo, incluindo as autoridades fiscais e os organismos da segurança social desses Estados-membros, são citados por carta registada, sem demora, em conformidade com o artigo 54.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015.
 
-5 - Havendo créditos do Estado, de institutos públicos sem a natureza de empresas públicas ou de instituições da segurança social, a citação dessas entidades é feita por carta registada.
+5 - Havendo créditos do Estado, de institutos públicos sem a natureza de empresas públicas ou de instituições da segurança social, sempre que não for possível o envio da citação por via eletrónica, nos termos previstos nos n.os 9 e 13 do artigo 246.º do Código de Processo Civil, a citação destas entidades faz-se apenas por carta registada.
 
-6 - O disposto nos números anteriores não prejudica a possibilidade de notificação e citação por via electrónica, nos termos previstos em portaria do Ministro da Justiça.
+6 - (Revogado).
 
 7 - Os demais credores e outros interessados são citados por edital, com prazo de dilação de cinco dias, afixado na sede ou na residência do devedor, nos seus estabelecimentos e no próprio tribunal e por anúncio publicado no portal Citius.
 
