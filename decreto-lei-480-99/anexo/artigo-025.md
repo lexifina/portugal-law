@@ -2,7 +2,7 @@
 
 ### Citações, notificações e outras diligências em juízo do trabalho alheio
 
-1 - As citações e notificações que não devam ser feitas por via postal nem por mandatário judicial, bem como as diligências que, no critério do juiz da causa, não exijam conhecimentos especializados, são solicitadas:
+1 - As citações e notificações que não devam ser feitas por via eletrónica, via postal ou por mandatário judicial, bem como as diligências que, no critério do juiz da causa, não exijam conhecimentos especializados, são solicitadas:
 
 a) Ao juízo do trabalho territorialmente competente na área em que tenham de ser efetuadas;
 
