@@ -28,7 +28,7 @@ a) Entrega na secretaria judicial, valendo como data da prática do ato processu
 
 b) Remessa pelo correio, sob registo, valendo como data da prática do ato processual a da efetivação do respetivo registo postal;
 
-c) Envio através de telecópia, valendo como data da prática do ato processual a da expedição.
+c) (Revogada.)
 
 d) Entrega por via eletrónica, nos termos definidos na portaria prevista no n.º 2 do artigo 132.º, valendo como data da prática do ato a da respetiva expedição.
 

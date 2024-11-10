@@ -6,6 +6,6 @@
 
 2 - Excetuam-se do disposto no número anterior as citações e notificações, os registos de penhora e os atos que se destinem a evitar dano irreparável.
 
-3 - Os atos das partes podem ser praticados por via eletrónica ou através de telecópia em qualquer dia e independentemente da hora da abertura e do encerramento dos tribunais.
+3 - Os atos das partes podem ser praticados por via eletrónica em qualquer dia e independentemente da hora da abertura e do encerramento dos tribunais.
 
 4 - Os atos das partes praticados por forma presencial junto do tribunal, nomeadamente a entrega de quaisquer articulados, requerimentos ou documentos, devem ser praticados durante as horas de expediente dos serviços.

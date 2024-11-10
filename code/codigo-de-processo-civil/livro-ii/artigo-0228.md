@@ -16,7 +16,7 @@
 
 7 - Não sendo possível deixar aviso ao destinatário, o distribuidor do serviço postal lavra nota da ocorrência e devolve o expediente ao tribunal.
 
-8 - No caso previsto no número anterior, se a impossibilidade se dever a ausência do citando e se, na ocasião, for indicado ao distribuidor do serviço postal novo endereço do citando, devolvido o expediente, a secretaria repete a citação, enviando nova carta registada com aviso de receção para tal endereço.
+8 - No caso previsto no número anterior, se a impossibilidade se dever a alteração de residência ou local de trabalho do citando e se, na ocasião, for indicado ao distribuidor do serviço postal novo endereço do citando, devolvido o expediente, a secretaria repete a citação, enviando nova carta registada com aviso de receção para tal endereço.
 
 9 - No caso previsto no n.º 7, se a impossibilidade se dever a ausência do citando em parte incerta, devolvido o expediente, a secretaria dá cumprimento ao disposto no n.º 1 do artigo 236.º e, se for apurado novo endereço, repete a citação, enviando nova carta registada com aviso de receção para tal endereço.
 

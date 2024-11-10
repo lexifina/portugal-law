@@ -16,7 +16,7 @@
 
 1 - Na petição, com que propõe a ação, deve o autor:
 
-a) Designar o tribunal e respetivo juízo em que a ação é proposta e identificar as partes, indicando os seus nomes, domicílios ou sedes e, obrigatoriamente, no que respeita ao autor, e sempre que possível, relativamente às demais partes, números de identificação civil e de identificação fiscal, profissões e locais de trabalho;
+a) Designar o tribunal e respetivo juízo em que a ação é proposta e identificar as partes, indicando os seus nomes, domicílios ou sedes, número de identificação fiscal ou número de identificação de pessoa coletiva e, obrigatoriamente, no que respeita ao autor, e sempre que possível, relativamente às demais partes, números de identificação civil, profissões e locais de trabalho;
 
 b) Indicar o domicílio profissional do mandatário judicial;
 
@@ -32,7 +32,7 @@ g) Designar o agente de execução incumbido de efetuar a citação ou o mandat�
 
 2 - Para o efeito da identificação das partes que sejam pessoa coletiva nos termos da alínea a) do número anterior, o mandatário judicial constituído pelo autor que apresente a petição por via eletrónica indica o respetivo número de identificação de pessoa coletiva ou, relativamente às entidades não abrangidas pelo regime jurídico do Registo Nacional de Pessoas Coletivas, o seu número de identificação fiscal, ficando esta identificação sujeita a confirmação no sistema informático de suporte à atividade dos tribunais, o qual devolve, para validação, os dados constantes das bases de dados do ficheiro central de pessoas coletivas do Registo Nacional de Pessoas Coletivas ou da Autoridade Tributária e Aduaneira, consoante os casos.
 
-3 - Para efeito do disposto no número anterior, e visando garantir a identificação unívoca da parte, o mandatário judicial pode efetuar, através do sistema de informação de suporte à atividade dos tribunais, pesquisas nas bases de dados do ficheiro central de pessoas coletivas do Registo Nacional de Pessoas Coletivas ou da Autoridade Tributária e Aduaneira.
+3 - Para efeito do disposto no número anterior, e visando garantir a identificação unívoca da parte, a secretaria, nos casos em que o autor tenha indicado não lhe ser possível obter essa informação, pode efetuar, através do sistema de informação de suporte à atividade dos tribunais, pesquisas nas bases de dados do ficheiro central de pessoas coletivas do Registo Nacional de Pessoas Coletivas ou da Autoridade Tributária e Aduaneira.
 
 4 - Sendo a identificação da parte efetuada nos termos dos n.os 2 e 3, a informação prevista na alínea a) do n.º 1 é transmitida ao sistema informático de suporte à atividade dos tribunais pelas bases de dados do ficheiro central de pessoas coletivas do Registo Nacional de Pessoas Coletivas ou da Autoridade Tributária e Aduaneira, podendo a mesma ser atualizada, de forma automática, durante o processo, sempre que ocorrer alteração nas referidas bases de dados.
 

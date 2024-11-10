@@ -2,7 +2,7 @@
 
 ### Citação por agente de execução ou funcionário judicial
 
-1 - Frustrando-se a via postal, a citação é efetuada mediante contacto pessoal do agente de execução com o citando.
+1 - Frustrando-se a via postal ou a via eletrónica, a citação é efetuada mediante contacto pessoal do agente de execução com o citando.
 
 2 - Os elementos a comunicar ao citando, nos termos do artigo 227.º, são especificados pelo próprio agente de execução, que elabora nota com essas indicações para ser entregue ao citando.
 
