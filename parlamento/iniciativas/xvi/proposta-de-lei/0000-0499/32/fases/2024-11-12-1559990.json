@@ -1,0 +1,143 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "32",
+    "id": "304312",
+    "titulo": "Assegura a execução, na ordem jurídica interna, do Regulamento (UE) 2022/2065, relativo a um mercado único para os serviços digitais e que altera a Diretiva 2000/31/CE"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-11-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "76145",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-11-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-01-02",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b334e3259314f57466d4c5463344e7a67744e47466c4d7931684e4745774c5449305a5441305a4451335a545932595335775a47593d&fich=977f59af-7878-4ae3-a4a0-24e04d47e66a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466a4d446733596a45304c546b314e6d51744e47597959793034597a6b344c57517a596a49354e54526b4e6a4d324f5335775a47593d&fich=ac087b14-956d-4f2c-8c98-d3b2954d6369.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-24",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - APRITEL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526c4e7a4a6d4e4451344c5459334e5463744e44526c4d7931684e7a63344c545a6c4d6d51335a544a6a4e475a6b4d5335775a47593d&fich=4e72f448-6757-44e3-a778-6e2d7e2c4fd1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d335a54453559544a694c546b32596d55744e446c6a5a433035597a41344c54426c4e7a526d4d7a63355a574a6b596935775a47593d&fich=c7e19a2b-96be-49cd-9c08-0e74f379ebdb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-02",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a68593245314d7a59774c545a68596a6b744e444a6a596931684d54646d4c54413059546b7a59324930595445784d5335775a47593d&fich=6aca5360-6ab9-42cb-a17f-04a93cb4a111.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-02",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d314f544e684e6d45304c5745784e4451744e475a6b596930354d474d314c574e684e4463314d3259784d475578596935775a47593d&fich=3593a6a4-a144-4fdb-90c5-ca4753f10e1b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41334d6a417a4e6a51784c546b7a4d6a4d744e44686b4d6931684f5755794c546b794f5464694f54526b4f44637a4d4335775a47593d&fich=07203641-9323-48d2-a9e2-9297b94d8730.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8398",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Obras Públicas e Habitação",
+        "Numero": "8398",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "2576",
+            "motivoCessacao": null,
+            "nome": "Eduardo Teixeira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2024-11-12",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>",
+            "id": "127554",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "32",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-11-12",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão à 1.ª Comissão",
+    "OevId": "1559990",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
