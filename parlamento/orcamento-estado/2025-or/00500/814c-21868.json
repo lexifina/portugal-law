@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=mif3ZyOn7du54ylxedh4G2CVvjQRMhBswmrxqrlDs1I9xDmzNsAdF6UaIu%2bC1FHLxxia%2fRfkH%2b8plDDqXEZTRls%2fRV6R6RmTnzzzmkEej0IVfr04cOyOZnA6oa39Ivj2tFclmPHn7FVqPQysS%2fibwQOE%2bzG0MHr8BahcCSy34psoS8YZSzvheTiYRSz64kR6icmtQBbnfNtkXI0aiD%2b9LxBcm6wDxUcMYCcUrNyJEI5LEGaS%2b%2fKilEtIPmRTZx46LCQnlxmRqO3Yz%2bGtazuCSsIwJSlFKP4JVNGGk618%2f0n5Ff17u7oeuA9tHzxdIVrAWVAxWIyJY%2byD50nsnE8GcMTtoQ1Hju%2fU6top2FP83Q7oRQ4zsZbSQqsV78PN3fKumyL0pTTs9kB%2bt21HqiqxeG2Z2hXeHH9XYbsEwrpwjJo%3d&fich=OEPropostasAlteracao2025Or_json.txt&Inline=true",
+  "ficheiro_sha256": "560b7277a11ae8996549606bccc9ecb684a334cd774375ce75005d7a4383551e",
+  "legislatura": "XVI",
+  "id": "21868",
+  "numero": "814C",
+  "orcamento": "2025",
+  "versao": "Or",
+  "data_registo": "2024-11-12",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "21868",
+    "Numero": "814C",
+    "Data": "12/11/2024 20:22:00",
+    "Titulo": "Artigo 136.º-E (Estudo Nacional sobre o Sono em Portugal)",
+    "Tema": "Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 136.º-E",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793942556b356c6443397a6158526c63793959566b6c4d52556376543055764d6a41794e5449774d6a51784d4445774c3142424c7a4e694e544e694d6a41784c574d7a4d6a55744e474a6b5a6931694e57466d4c574979597a45315a44597a4d6a4930596935775a47593d&Fich=3b53b201-c325-4bdf-b5af-b2c15d63224b.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "L",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "L",
+          "Deputado": "FILIPA PINTO"
+        },
+        {
+          "GP_Partido": "L",
+          "Deputado": "ISABEL MENDES LOPES"
+        },
+        {
+          "GP_Partido": "L",
+          "Deputado": "PAULO MUACHO"
+        },
+        {
+          "GP_Partido": "L",
+          "Deputado": "RUI TAVARES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 136.º-E",
+        "Titulo": "Estudo Nacional sobre o Sono em Portugal",
+        "Texto": null,
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 136.º-E"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Estudo Nacional sobre o Sono em Portugal",
+        "Data": "27/11/2024 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Chega",
+            "Iniciativa Liberal",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Livre",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
