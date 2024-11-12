@@ -1,0 +1,244 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "34",
+    "id": "304314",
+    "titulo": "Procede à quinta alteração à Lei n.º 2/2008, de 14 de janeiro,  que regula o ingresso nas magistraturas, a formação de magistrados e a natureza, estrutura e funcionamento do Centro de Estudos Judiciários"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-11-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "76147",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-11-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-11-26",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer -Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d545668593251795a43316d4f4451774c5451324d6d45745957526d595331685a4445355a6a6b3459544a6c5a5451756347526d&fich=b15acd2d-f840-462a-adfa-ad19f98a2ee4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-25",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Centro de Estudos Judiciários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793879596a4d784f4749344f5330335a6d51334c5451314f5755744f444e6a4d69316c5a54526c4d4455345a6d466b5a6a67756347526d&fich=2b318b89-7fd7-459e-83c2-ee4e058fadf8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-11-26",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a5464685a574e6b5979316b4e474e6d4c5451305a5755744f5459335a5330334d4755344e444d344d4445304e6d45756347526d&fich=0e7aecdc-d4cf-44ee-967e-70e84380146a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-06",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Sindicato dos Magistrados Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e325133596a55774e79316a5a5749304c54526c4e5751744f44637a4e533078597a6731597a63324e5449774f4441756347526d&fich=c7d7b507-ceb4-4e5d-8735-1c85c7652080.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-06",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Associação Sindical dos Juízes Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d446c6d4e4751354d5330324e5463784c5451784f544d74595455335a5330314e6d52695a5459785a5756694e474d756347526d&fich=209f4d91-6571-4193-a57e-56dbe61eeb4c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-06",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d44686b4e54566b4d69316a4d4749344c54526c4e6d51744f4456685a43316a596a59784e5459354d3256684d5749756347526d&fich=e08d55d2-c0b8-4e6d-85ad-cb615693ea1b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794f544a6d593255304d7930354d7a67324c54526b4d6d59744f54497a4f533032596d526c5932526a4e6a6b304e6d45756347526d&fich=292fce43-9386-4d2f-9239-6bdecdc6946a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794e7a41304d546b795a4330305a6a67774c5452685a6d59744f546c6d5a5330324f4467314d7a67354d545134595449756347526d&fich=2704192d-4f80-4aff-99fe-6885389148a2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793878596a45794d6a56685a433033597a6b334c54526a5a6a4d74596a4a69596931684e474d325a546332597a517a4d4449756347526d&fich=1b1225ad-7c97-4cf3-b2bb-a4c6e76c4302.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8393",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8393",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-12-09"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2024-12-06"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-11-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2024-11-25"
+          },
+          {
+            "link": "",
+            "nome": "Centro de Estudos Judiciários em 2024-11-25"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público (SMMP) em 2024-12-06"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2024-12-06"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-11-13"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2024-11-13"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-11-13"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2024-11-13"
+          },
+          {
+            "link": "",
+            "nome": "Centro de Estudos Judiciários em 2024-11-13"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público (SMMP) em 2024-11-19"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2024-11-19"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2024-12-18",
+            "dataRemessa": "2024-12-18",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PAN"
+            ],
+            "data": "2024-12-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I><BR>Ausência: <I>PAN</I>",
+            "id": "127607",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "49",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-11-12",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1559994",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020491",
+        "obs": null,
+        "pag": [
+          "12-70"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-01-17",
+        "pubLeg": "XV",
+        "pubNr": "148",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/148/2023-01-17/12?pgs=12-70&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
