@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34159",
+  "numero": "114",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-11-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2024-12-03",
+        "DataArquivo": "2024-12-03",
+        "DataBaixaComissao": "2024-11-14",
+        "DataEnvioPAR": "2024-12-04",
+        "DataReaberta": "2024-12-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-12-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457851304646546b55765247396a6457316c626e52766331426c64476c6a595738764e6a466c4d6d51344e3251744d6d4d355a5330304e3259324c546b794d6a55744d7a45355a6a64684f4445794e5756684c6e426b5a673d3d&fich=61e2d87d-2c9e-47f6-9225-319f7a8125ea.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-12-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457851304646546b55765247396a6457316c626e52766331426c64476c6a595738764e7a526b4f444e6d596d59744f44686a5a4330304f4752694c546c6c4d4749745954646d4d544d31596a6b354f57526b4c6e426b5a673d3d&fich=74d83fbf-88cd-48db-9e0b-a7f135b999dd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-12-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457851304646546b55765247396a6457316c626e52766331426c64476c6a595738764f444e6a4f57553459544174597a4578596930304d7a64694c57466a596a5974596a646c59575a6a4e5463314e4441774c6e426b5a673d3d&fich=83c9e8a0-c11b-437b-acb6-b7eafc575400.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8403",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Ambiente e Energia ",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2024-11-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59334d4745315a57526c4c54466d5a574d744e4456694d793168596d597a4c5759354e5759774d7a63314e444e695a5335775a47593d&fich=670a5ede-1fec-45b3-abf3-f95f037543be.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34159",
+    "PetAssunto": "Alerta sobre crimes ambientais associados ao aeroporto de Alcochete e à terceira via ferro-rodoviária",
+    "PetDataEntrada": "2024-11-13",
+    "PeticoesAssociadas": null,
+    "PetId": "34159",
+    "PetLeg": "XVI",
+    "PetNr": "114",
+    "PetNrAssinaturas": "8",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
