@@ -1,0 +1,9 @@
+Aviso n.º 25435/2024/2
+
+Vítor Manuel Pinheiro Pereira, Presidente da Câmara Municipal da Covilhã, torna público, em cumprimento do disposto no n.º 2 do artigo 122.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), publicado pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, que a Câmara Municipal deliberou, em reunião pública ordinária realizada a 19 de julho de 2024, aprovar a Correção Material da Revisão do Plano de Pormenor das Penhas da Saúde - Zona Sul (PPPS-ZS), publicada no Aviso n.º 6992/2024/2 no Diário da República, 2.ª série, n.º 64, de 01 de abril de 2024. A Correção Material enquadra-se no âmbito do disposto na alínea e) do n.º 1 do artigo 122.º do RJIGT, incidindo exclusivamente na correção das definições de plotagem da Planta de Implantação e da Planta de Condicionantes de modo que toda a informação disponível nessas plantas seja de fácil leitura. De acordo com o n.º 3 do artigo 122.º do RJIGT foi dado conhecimento à Assembleia Municipal da Covilhã, na sessão realizada a 30 de setembro de 2024, e posteriormente à Comissão de Coordenação e Desenvolvimento Regional do Centro (CCDRC). A referida correção material poderá ser consultada na página da Internet do Município (GEOPORTAL) em http://plantasonline.cm-covilha.pt/geoportal, conforme o disposto no artigo 192.º do RJIGT.
+E para constar se publica o presente aviso e outros de igual teor que vão ser afixados nos lugares públicos do costume e publicitados nos termos legais.
+15 de outubro de 2024. - O Presidente da Câmara Municipal da Covilhã, Vítor Manuel Pinheiro Pereira.
+Identificadores das imagens e respetivos endereços do sítio do SNIT (conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+75287 - https://ssaigt.dgterritorio.pt/i/PImp_75287_0503_PPPSZS_PI.jpg
+75288 - https://ssaigt.dgterritorio.pt/i/PCond_75288_0503_PPPSZS_PC.jpg
+618317619
