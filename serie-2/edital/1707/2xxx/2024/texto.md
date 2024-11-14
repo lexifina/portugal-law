@@ -1,0 +1,8 @@
+Edital n.º 1707/2024
+
+Sérgio Paulo Dias Rodrigues, Presidente da Junta de Freguesia de Sistelo, do concelho de Arcos de Valdevez, nos termos e para efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, torna público que a Junta de Freguesia, na sua reunião ordinária realizada no dia 5 de agosto de 2024, deliberou submeter a consulta pública o projeto de regulamento do mercado local de Sistelo, para recolha de sugestões e durante o prazo de 30 dias úteis, a contar da data da respetiva publicação do presente edital na 2.ª série do Diário da República.
+Durante o referido período, os interessados poderão consultar o referido projeto de regulamento na sede da Junta de Freguesia, sita no lugar da Igreja, 4970-645 Arcos de Valdevez, Arcos de Valdevez, durante o período de expediente e permanentemente na página eletrónica da Junta de Freguesia (https://jf-sistelo.com/).
+Assim, nos termos do n.º 2 do artigo 101.º do Código do Procedimento Administrativo (CPA), convidam-se todos os interessados a dirigir por escrito, as suas sugestões, à Junta de Freguesia de Sistelo, entregues presencialmente na sede da Junta de Freguesia, durante o horário de atendimento, ou a enviar via postal para a Junta de Freguesia de Sistelo, lugar da Igreja, 4970-645, Arcos de Valdevez, ou ainda, através de correio eletrónico, para o endereço jfsistelo@sapo.pt.
+Para constar e produzir efeitos legais, se publica este Edital na 2.ª série do Diário da República e outros de igual teor, que vão ser afixados nos lugares públicos de estilo.
+5 de novembro de 2024. - O Presidente da Junta de Freguesia, Sérgio Paulo Dias Rodrigues.
+318310758
