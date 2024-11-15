@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=mif3ZyOn7du54ylxedh4G2CVvjQRMhBswmrxqrlDs1I9xDmzNsAdF6UaIu%2bC1FHLxxia%2fRfkH%2b8plDDqXEZTRls%2fRV6R6RmTnzzzmkEej0IVfr04cOyOZnA6oa39Ivj2tFclmPHn7FVqPQysS%2fibwQOE%2bzG0MHr8BahcCSy34psoS8YZSzvheTiYRSz64kR6icmtQBbnfNtkXI0aiD%2b9LxBcm6wDxUcMYCcUrNyJEI5LEGaS%2b%2fKilEtIPmRTZx46LCQnlxmRqO3Yz%2bGtazuCSsIwJSlFKP4JVNGGk618%2f0n5Ff17u7oeuA9tHzxdIVrAWVAxWIyJY%2byD50nsnE8GcMTtoQ1Hju%2fU6top2FP83Q7oRQ4zsZbSQqsV78PN3fKumyL0pTTs9kB%2bt21HqiqxeG2Z2hXeHH9XYbsEwrpwjJo%3d&fich=OEPropostasAlteracao2025Or_json.txt&Inline=true",
+  "ficheiro_sha256": "560b7277a11ae8996549606bccc9ecb684a334cd774375ce75005d7a4383551e",
+  "legislatura": "XVI",
+  "id": "23103",
+  "numero": "2020C",
+  "orcamento": "2025",
+  "versao": "Or",
+  "data_registo": "2024-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "23103",
+    "Numero": "2020C",
+    "Data": "15/11/2024 19:11:00",
+    "Titulo": "Artigo 158.º-A (Alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro)",
+    "Tema": "Economia, Obras Públicas e Habitação; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 158.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793942556b356c6443397a6158526c63793959566b6c4d52556376543055764d6a41794e5449774d6a51784d4445774c3142424c3251784e7a59324d444d324c54457a5a6d55744e44466b59793034593245354c545a695a4745334f4455344f5449354f5335775a47593d&Fich=d1766036-13fe-41dc-8ca9-6bda78589299.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "L",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "L",
+          "Deputado": "FILIPA PINTO"
+        },
+        {
+          "GP_Partido": "L",
+          "Deputado": "ISABEL MENDES LOPES"
+        },
+        {
+          "GP_Partido": "L",
+          "Deputado": "PAULO MUACHO"
+        },
+        {
+          "GP_Partido": "L",
+          "Deputado": "RUI TAVARES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 158.º-A",
+        "Titulo": "Alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro",
+        "Texto": null,
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 158.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro",
+        "Data": "28/11/2024 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Chega",
+            "Iniciativa Liberal",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Livre",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
