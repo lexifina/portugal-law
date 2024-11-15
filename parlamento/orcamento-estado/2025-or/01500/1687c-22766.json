@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=mif3ZyOn7du54ylxedh4G2CVvjQRMhBswmrxqrlDs1I9xDmzNsAdF6UaIu%2bC1FHLxxia%2fRfkH%2b8plDDqXEZTRls%2fRV6R6RmTnzzzmkEej0IVfr04cOyOZnA6oa39Ivj2tFclmPHn7FVqPQysS%2fibwQOE%2bzG0MHr8BahcCSy34psoS8YZSzvheTiYRSz64kR6icmtQBbnfNtkXI0aiD%2b9LxBcm6wDxUcMYCcUrNyJEI5LEGaS%2b%2fKilEtIPmRTZx46LCQnlxmRqO3Yz%2bGtazuCSsIwJSlFKP4JVNGGk618%2f0n5Ff17u7oeuA9tHzxdIVrAWVAxWIyJY%2byD50nsnE8GcMTtoQ1Hju%2fU6top2FP83Q7oRQ4zsZbSQqsV78PN3fKumyL0pTTs9kB%2bt21HqiqxeG2Z2hXeHH9XYbsEwrpwjJo%3d&fich=OEPropostasAlteracao2025Or_json.txt&Inline=true",
+  "ficheiro_sha256": "560b7277a11ae8996549606bccc9ecb684a334cd774375ce75005d7a4383551e",
+  "legislatura": "XVI",
+  "id": "22766",
+  "numero": "1687C",
+  "orcamento": "2025",
+  "versao": "Or",
+  "data_registo": "2024-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "22766",
+    "Numero": "1687C",
+    "Data": "15/11/2024 15:16:00",
+    "Titulo": "Artigo 139.º-A (Gestão Pública dos Hospitais de Anadia, Fafe e Serpa)",
+    "Tema": "Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 139.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793942556b356c6443397a6158526c63793959566b6c4d52556376543055764d6a41794e5449774d6a51784d4445774c3142424c7a553159575a695a4463774c545a684e7a49744e474d344f4330344f5455774c544977597a566d5a6d453059574e695a6935775a47593d&Fich=55afbd70-6a72-4c88-8950-20c5ffa4acbf.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ALFREDO MAIA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ANTÓNIO FILIPE"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULA SANTOS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO RAIMUNDO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 139.º-A",
+        "Titulo": "Gestão Pública dos Hospitais de Anadia, Fafe e Serpa",
+        "Texto": null,
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 139.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Gestão Pública dos Hospitais de Anadia, Fafe e Serpa",
+        "Data": "27/11/2024 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Chega",
+            "Iniciativa Liberal",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Livre",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
