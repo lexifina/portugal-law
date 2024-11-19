@@ -1,0 +1,8 @@
+Aviso (extrato)  n.º 25846/2024/2
+
+Sérgio Fernando da Silva Costa, Presidente da Câmara Municipal da Guarda, torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 101.º do Código de Procedimento Administrativo, aprovado pelo anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, que a Câmara Municipal deliberou, na sua reunião ordinária realizada a 11 de novembro de 2024, aprovar o Projeto de Regulamento Municipal de Gestão dos Resíduos de Construção e Demolição e submeter o mesmo a consulta pública, pelo prazo de trinta dias a contar da data da publicação do respetivo aviso no Diário da República.
+Mais torna público, que aquele Projeto de Regulamento se encontra disponível para consulta, nos serviços da Câmara Municipal, situados na Praça do Município, 6300-854 Guarda, durante as horas normais de expediente, bem como na página da Internet da Câmara Municipal, em www.mun-guarda.pt.
+As eventuais sugestões deverão ser formuladas por escrito até ao final do mencionado período, dirigidas ao Presidente da Câmara, por correio, para a Câmara Municipal da Guarda, Praça do Município, 6300-854 Guarda, ou entregues diretamente no Balcão Único da autarquia, ou ainda, enviadas por via eletrónica para o seguinte endereço eletrónico: geral@mun-guarda.pt.
+Para constar se lavrou o presente Aviso publicado na 2.ª série do Diário da República e respetivamente divulgado no sítio da Internet do Município da Guarda e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+11 de novembro de 2024. - O Presidente da Câmara Municipal, Sérgio Fernando da Silva Costa.
+318339416
