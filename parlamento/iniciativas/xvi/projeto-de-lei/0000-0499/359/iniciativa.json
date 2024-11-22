@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "359",
+  "id": "304351",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-11-22",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a46694d574a6d4e6a59745a6d55794e6930305a4464694c574a6a595749745a6a677759324d775a6d4e6b4f445a6c4c6e426b5a673d3d&fich=21b1bf66-fe26-4d7b-bcab-f80cc0fcd86e.pdf&Inline=true",
+        "anexoNome": "A. I. G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a426d4e5745325a6d55744f5459334e6930305a4759344c546b314e7a49744d5449314f4455324e7a64684d3259354c6d52765933673d&fich=f0f5a6fe-9676-4df8-9572-12585677a3f9.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa – versão 1"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "6547",
+        "nome": "Cristina Rodrigues"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7369",
+        "nome": "Vanessa Barata"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7363",
+        "nome": "Rodrigo Alves Taxa"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7347",
+        "nome": "Manuel Magno"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7345",
+        "nome": "Pedro dos Santos Frazão"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CH"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "304351",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d47557a4d6d4d774f4759744d7a46694d4330304d7a63774c5746694f5463744d5745305957597a5a6a45785a44526d4c6d52765933673d&fich=0e32c08f-31b0-4370-ab97-1a4af3f11d4f.docx&Inline=true",
+    "IniNr": "359",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto a pedido do autor em 2024-12-29.",
+    "IniTipo": "J",
+    "IniTitulo": "Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Em defesa da Lei que criminaliza os maus-tratos a animais - Maltratar um animal tem de ser crime em Portugal",
+        "dcl": null,
+        "descTipo": null,
+        "id": "13858",
+        "legislatura": "XV",
+        "numero": "124",
+        "sessao": "1",
+        "tipo": null
+      },
+      {
+        "assunto": "Pela Faia. Pela consagração constitucional do bem estar animal enquanto bem jurídico tutelado. Por um Direito Animal justo e consequente.",
+        "dcl": null,
+        "descTipo": null,
+        "id": "23943",
+        "legislatura": "XV",
+        "numero": "212",
+        "sessao": "2",
+        "tipo": null
+      },
+      {
+        "assunto": "Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da protecção dos animais não-humanos na Constituição da República Portuguesa",
+        "dcl": null,
+        "descTipo": null,
+        "id": "23959",
+        "legislatura": "XV",
+        "numero": "228",
+        "sessao": "2",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
