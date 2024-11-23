@@ -18,4 +18,4 @@ c) Aplica mecanismos eficazes para adotar as decisões de investimento por conta
 
 3 - A sociedade gestora de OICVM tem em conta os riscos de sustentabilidade no cumprimento dos deveres referidos nos números anteriores, na alínea c) do n.º 2 e no n.º 8 do artigo 70.º e nos n.os 2 e 3 do artigo seguinte.
 
-4 - Quando tenham em conta os principais impactos negativos das decisões de investimento sobre os fatores de sustentabilidade, nos termos previstos na legislação da União Europeia relativa à divulgação de informações relacionadas com a sustentabilidade no setor dos serviços financeiros, as sociedades gestoras de OICVM consideram-nos no cumprimento dos requisitos estabelecidos nos números anteriores.
+4 - Quando tenham em conta os principais impactos negativos das decisões de investimento sobre os fatores de sustentabilidade, nos termos previstos na legislação da União Europeia relativa à divulgação de informações relacionadas com a sustentabilidade no setor dos serviços financeiros, as sociedades gestoras de OICVM consideram-nos no cumprimento dos requisitos estabelecidos nos n.os 1 e 2.
