@@ -1,0 +1,8 @@
+Aviso n.º 26649/2024/2
+
+Bárbara Andreia Gonçalves Dias, Presidente da Junta de Freguesia de Baixa da Banheira e Vale da Amoreira, torna público que, de acordo com a deliberação da Junta de Freguesia de 07 de novembro de 2024, foi aprovado o Projeto de Regulamento e Tabela de Taxas e Licenças da União das Freguesias de Baixa da Banheira e Vale da Amoreira, ao abrigo da alínea h) do n.º 1, do artigo 16.º do Regime Jurídico das Autarquias Locais, aprovado em Anexo I da Lei n.º 75/2013, de 12 de setembro, o qual se submete a consulta pública, para recolha de sugestões, no prazo de 30 dias, a contar da data da publicação do presente aviso, em conformidade com o artigo 100.º, n.º 3, alínea c), conjugado com o artigo 101.º do Código do Procedimento Administrativo (CPA).
+O presente projeto de regulamento poderá ser consultado presencialmente nas instalações da sede da União das Freguesias sita em Rua Eduardo Mondelane n.º 2, Baixa da Banheira, durante o horário de funcionamento dos serviços, encontrando-se igualmente disponível para consulta na internet em www.ufbbva.pt.
+No âmbito da participação, e nos termos do artigo 101.º do CPA, os interessados devem apresentar as suas sugestões, por escrito, de forma fundamentada, e dirigidas à Senhora Presidente da Junta de Freguesia, para Rua Eduardo Mondelane n.º 2, 2835-116 Baixa da Banheira ou para o endereço eletrónico geral@ufbbva.pt, no prazo acima fixado.
+Para constar se publica o presente Edital, sendo ainda divulgado nos lugares habituais, através da internet e nas vitrinas da Freguesia.
+13 de novembro de 2024. - A Presidente da Junta de Freguesia, Bárbara Andreia Gonçalves Dias.
+318355365
