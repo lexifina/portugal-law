@@ -28,4 +28,4 @@ f) Gerir o recrutamento de pessoal tecnicamente habilitado para a realização d
 
 g) Comunicar imediatamente qualquer incidente, nomeadamente anomalias ou falhas de segurança, ao Conselho Gestor do SCEE.
 
-5 - A Entidade de Certificação Eletrónica do Estado é dirigida, por inerência, pelo diretor do CEGER.
+5 - A Entidade de Certificação Eletrónica do Estado é dirigida, por inerência, pelo Secretário-Geral do Governo, com faculdade de delegação.

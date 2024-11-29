@@ -12,7 +12,7 @@
 
 a) GNS;
 
-b) Centro de Gestão da Rede Informática do Governo (CEGER);
+b) (Revogada.)
 
 c) AMA, I. P.;
 
@@ -22,7 +22,9 @@ e) Autoridade Nacional de Comunicações;
 
 f) Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;
 
-g) Um representante de cada entidade certificadora do Estado que não esteja representada por nenhuma das entidades referidas nas alíneas anteriores.
+g) A Secretaria-Geral do Governo;
+
+h) Um representante de cada entidade certificadora do Estado que não esteja representada por nenhuma das entidades referidas nas alíneas anteriores.
 
 3 - Para efeitos do disposto na alínea g) do número anterior, caso exista mais do que uma entidade certificadora pública no âmbito da mesma área governativa, pode o respetivo membro do Governo determinar que apenas um representante das mesmas integra o Conselho Gestor do SCEE.
 
