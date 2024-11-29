@@ -1,9 +1,9 @@
 # Artigo 18.º
 
-Por morte do titular de um certificado de aforro, podem os herdeiros requerer, dentro do prazo de 10 anos:
+No caso de falecimento do titular de um certificado de aforro, os seus herdeiros podem requerer, no prazo de 20 anos a contar da data do falecimento:
 
-a) A transmissão da totalidade das unidades que o constituem; ou
+a) A transmissão do certificado a seu favor; ou
 
-b) O respectivo reembolso, pelo valor que o certificado tenha à data em que o reembolso seja autorizado.
+b) A amortização do certificado pelo valor que este tiver à data em que a mesma for efetuada.
 
 § único. (Revogado).

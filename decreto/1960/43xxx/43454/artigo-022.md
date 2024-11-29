@@ -1,3 +1,3 @@
 # Artigo 22.º
 
-Dos certificados de aforro constarão: o seu número de ordem, o valor facial e a data da emissão. Serão assinados de chancela pelo Ministro das Finanças e pelo presidente da Junta.
+A representação escritural do certificado de aforro contém os elementos previstos no artigo 3.º do Decreto-Lei n.º 122/2002, de 4 de maio, na sua redação atual.
