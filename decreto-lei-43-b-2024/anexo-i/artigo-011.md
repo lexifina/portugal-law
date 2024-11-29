@@ -8,7 +8,7 @@
 
 1 - A organização interna da Secretaria-Geral obedece ao seguinte modelo misto:
 
-a) Nas áreas relativas à administração geral e financeira, controlo orçamental e desempenho, organização e gestão de pessoas, gestão de mobilidade, sustentabilidade e aquisições, relações internacionais, relações-públicas e sistemas de informação, o modelo de estrutura hierarquizada;
+a) Nas áreas relativas à administração geral e financeira, controlo orçamental e desempenho, gestão de mobilidade, sustentabilidade e aquisições, auditoria e inspeção, relações internacionais, relações-públicas e sistemas de informação, o modelo de estrutura hierarquizada;
 
 b) Nas demais áreas, o modelo de estrutura matricial.
 

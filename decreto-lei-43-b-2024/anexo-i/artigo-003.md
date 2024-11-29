@@ -34,13 +34,9 @@ n) Administrar a Residência Oficial do Primeiro-Ministro;
 
 o) Administrar o Campus XXI, em coordenação com a ESTAMO - Participações Imobiliárias, S. A.;
 
-p) Administrar o Polo do Terreiro do Paço;
+p) Garantir a gestão da rede informática do Governo, velando pela sua segurança e pela segurança de informações e de bases de dados, bem como das suas ligações, promovendo a formação dos seus utilizadores, tendo em vista uma eficiente e eficaz exploração dos meios e serviços disponíveis;
 
-q) Garantir a gestão da rede informática do Governo, velando pela sua segurança e pela segurança de informações e de bases de dados, bem como das suas ligações, promovendo a formação dos seus utilizadores, tendo em vista uma eficiente e eficaz exploração dos meios e serviços disponíveis;
-
-r) Gerir o parque de equipamentos e software da rede do Governo e dar apoio aos utilizadores sob a sua responsabilidade, bem como gerir as infraestruturas tecnológicas e desenvolver os sistemas e tecnologias de informação dos serviços, organismos e entidades públicas, quando tal lhe seja solicitado;
-
-s) Assegurar todo o apoio informativo, técnico, logístico, administrativo e documental às entidades, serviços e programas operacionais identificados em portaria a aprovar pelo membro do Governo que exerce o poder de direção sobre a Secretaria-Geral.
+q) Gerir o parque de equipamentos e software da rede do Governo e dar apoio aos utilizadores sob a sua responsabilidade, bem como gerir as infraestruturas tecnológicas e desenvolver os sistemas e tecnologias de informação dos serviços, organismos e entidades públicas, quando tal lhe seja solicitado.
 
 2 - São atribuições da SG-Gov, no âmbito da certificação do Estado e sistemas informáticos:
 
