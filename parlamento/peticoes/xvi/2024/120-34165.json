@@ -1,0 +1,719 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34165",
+  "numero": "120",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-12-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8454",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-01-22",
+            "entidades": null,
+            "id": "159246",
+            "tipo": null,
+            "titulo": "Audição em 2025-01-22 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-02-04",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915242",
+                "obs": null,
+                "pag": [
+                  "31-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-07",
+                "pubLeg": "XVI",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/056/2025-02-07/31?pgs=31-33&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "PCP",
+                "L",
+                "CDS-PP"
+              ],
+              "data": "2025-02-04",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+              "id": "128256",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "30",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-12-17",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-12-03",
+        "DataEnvioPAR": "2025-02-06",
+        "DataReaberta": "2024-12-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-12-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876596d49314d5455774d6d59744d47553559793030597a42694c54686c5a574574597a417a5a4756694e4445324d5449774c6e426b5a673d3d&fich=bb51502f-0e9c-4c0b-8eea-c03deb416120.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-12-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e4463354e445a6a5a546774595751795953303059324e6d4c5749354d6a41745a544131595755304d5441304f54646a4c6e426b5a673d3d&fich=47946ce8-ad2a-4ccf-b920-e05ae410497c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-12-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e7a6b335a444e6b59324d744d6a56684e4330304e5456684c546b355a6d557459324e684d544e6d4e7a52694d7a67314c6e426b5a673d3d&fich=797d3dcc-25a4-455a-99fe-cca13f74b385.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-12-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d474d314d7a63315a5451744f446b774d6930304d44686d4c54686d4e5441745a5463795a44426b4d5449774e6d457a4c6e426b5a673d3d&fich=0c5375e4-8902-408f-8f50-e72d0d1206a3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-12-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d7a4e6a4e4451774d324d745a474d334f5330304d324a684c574a6c4f4451744e3251794d57526a4d5442684d6d466d4c6e426b5a673d3d&fich=33c4403c-dc79-43ba-be84-7d21dc10a2af.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-12-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a59573876593251794d445268595749744f4463345a5330304d32566a4c5749334e7a67745a54426a4d4441774e6a45354e57526d4c6e426b5a673d3d&fich=cd204aab-878e-43ec-b778-e0c0006195df.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-12-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764f4452684e47466a4d7a41744d3251794d7930305932497a4c574a694f5467745a6a4e695a5749324d54466c4e5445354c6e426b5a673d3d&fich=84a4ac30-3d23-4cb3-bb98-f3beb611e519.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-02-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e47457a4e4455335a5759744d32566c4e4330305a6a4d784c546b32596a63745a44466b4e6d597a596a63325a5459334c6e426b5a673d3d&fich=4a3457ef-3ee4-4f31-96b7-d1d6f3b76e67.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2025-01-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d4449774e5752694f4459744f57566a5a693030596a68684c5746694e4749744e574e684d47526c4f474a684f446c694c6e426b5a673d3d&fich=0205db86-9ecf-4b8a-ab4b-5ca0de8ba89b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-01-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764e6a6b314d3255794d6a55744e3259304d4330304f446b794c5467324d6d4d745a5751324d57526d596d4a6c4f5456684c6e426b5a673d3d&fich=6953e225-7f40-4892-862c-ed61dfbbe95a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-01-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a595738764d5449784d7a51314d6d5974595455344d5330304d7a55304c574a684d6a67745a474e6c4e3245774d47466d4d6d4e684c6e426b5a673d3d&fich=1213452f-a581-4354-ba28-dce7a00af2ca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-01-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e52766331426c64476c6a5957387659575532596a51784e7a6b744d574e6d595330304f44646b4c5749305a6d55744d545933596d4e685a6d526b4d7a4e694c6e426b5a673d3d&fich=ae6b4179-1cfa-487d-b4fe-167bcafdd33b.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8400",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Educação e Ciência ",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-02-04",
+            "dataNomeacao": "2024-12-17",
+            "gp": "PSD",
+            "id": "7388",
+            "motivoCessacao": "Relatório aprovado",
+            "nome": "Inês Barroso"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-07-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-12-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3259784d325a6a59544a6a4c546c6d4e7a6b744e446b325a4330344d4463334c5467305a4749784e6d4a6a596a67795a6935775a47593d&fich=f13fca2c-9f79-496d-8077-84db16bcb82f.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315187",
+      "315188",
+      "315102",
+      "315167",
+      "315179",
+      "315180",
+      "315196",
+      "315199",
+      "315202",
+      "315210",
+      "315215",
+      "315220",
+      "315187",
+      "315188",
+      "315188",
+      "315102",
+      "315167",
+      "315179",
+      "315180",
+      "315196",
+      "315199",
+      "315210",
+      "315215",
+      "315220",
+      "315202"
+    ],
+    "Iniciativasoriginadas": [
+      "315187",
+      "315188",
+      "315102",
+      "315167",
+      "315179",
+      "315180",
+      "315196",
+      "315199",
+      "315202",
+      "315210",
+      "315215",
+      "315220"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/76"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma inclusão efetiva nas escolas (Movimento por uma Inclusão Efetiva); Garante uma inclusão efetiva nas escolas, alterando o Decreto-Lei n.º 54/2018, de 6 de julho; Aprova a carta dos direitos linguísticos da Comunidade Surda, especialmente em contexto educativo; A emergência na consolidação de aprendizagens; Recomenda ao Governo que elabore e apresente um relatório de avaliação da aplicação do Regime Jurídico da Educação Inclusiva com vista à respetiva melhoria contínua; Por uma Inclusão Efetiva nas Escolas; Recomenda o reforço dos Centros de Apoio à Aprendizagem; Recomenda o reforço da Língua Gestual Portuguesa (LGP) nas escolas; Por uma educação inclusiva; Garantia de uma verdadeira Educação Inclusiva na Escola Pública; Recomenda ao Governo a revisão das políticas de inclusão em meio escolar resultante da avaliação em curso; Recomenda ao Governo a revisão do Regime Jurídico da Educação Inclusiva e da formação dos professores de educação especial.",
+            "Teor": "Apresentação dos Projetos de Lei nº. s 54, 55/XVII/1ª e os Projetos de Resolução nº. s  86 e 87/XVII/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/77"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma inclusão efetiva nas escolas (Movimento por uma Inclusão Efetiva); Garante uma inclusão efetiva nas escolas, alterando o Decreto-Lei n.º 54/2018, de 6 de julho; Aprova a carta dos direitos linguísticos da Comunidade Surda, especialmente em contexto educativo; A emergência na consolidação de aprendizagens; Recomenda ao Governo que elabore e apresente um relatório de avaliação da aplicação do Regime Jurídico da Educação Inclusiva com vista à respetiva melhoria contínua; Por uma Inclusão Efetiva nas Escolas; Recomenda o reforço dos Centros de Apoio à Aprendizagem; Recomenda o reforço da Língua Gestual Portuguesa (LGP) nas escolas; Por uma educação inclusiva; Garantia de uma verdadeira Educação Inclusiva na Escola Pública; Recomenda ao Governo a revisão das políticas de inclusão em meio escolar resultante da avaliação em curso; Recomenda ao Governo a revisão do Regime Jurídico da Educação Inclusiva e da formação dos professores de educação especial.",
+            "Teor": "Apresentação do Projeto de Resolução nº. 39/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/78"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma inclusão efetiva nas escolas (Movimento por uma Inclusão Efetiva); Garante uma inclusão efetiva nas escolas, alterando o Decreto-Lei n.º 54/2018, de 6 de julho; Aprova a carta dos direitos linguísticos da Comunidade Surda, especialmente em contexto educativo; A emergência na consolidação de aprendizagens; Recomenda ao Governo que elabore e apresente um relatório de avaliação da aplicação do Regime Jurídico da Educação Inclusiva com vista à respetiva melhoria contínua; Por uma Inclusão Efetiva nas Escolas; Recomenda o reforço dos Centros de Apoio à Aprendizagem; Recomenda o reforço da Língua Gestual Portuguesa (LGP) nas escolas; Por uma educação inclusiva; Garantia de uma verdadeira Educação Inclusiva na Escola Pública; Recomenda ao Governo a revisão das políticas de inclusão em meio escolar resultante da avaliação em curso; Recomenda ao Governo a revisão do Regime Jurídico da Educação Inclusiva e da formação dos professores de educação especial.",
+            "Teor": "Apresentação do Projeto de Resolução nº. 82/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/79"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma inclusão efetiva nas escolas (Movimento por uma Inclusão Efetiva); Garante uma inclusão efetiva nas escolas, alterando o Decreto-Lei n.º 54/2018, de 6 de julho; Aprova a carta dos direitos linguísticos da Comunidade Surda, especialmente em contexto educativo; A emergência na consolidação de aprendizagens; Recomenda ao Governo que elabore e apresente um relatório de avaliação da aplicação do Regime Jurídico da Educação Inclusiva com vista à respetiva melhoria contínua; Por uma Inclusão Efetiva nas Escolas; Recomenda o reforço dos Centros de Apoio à Aprendizagem; Recomenda o reforço da Língua Gestual Portuguesa (LGP) nas escolas; Por uma educação inclusiva; Garantia de uma verdadeira Educação Inclusiva na Escola Pública; Recomenda ao Governo a revisão das políticas de inclusão em meio escolar resultante da avaliação em curso; Recomenda ao Governo a revisão do Regime Jurídico da Educação Inclusiva e da formação dos professores de educação especial.",
+            "Teor": "Apresentação dos Projetos de Resolução nº. s 97 e 99/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/80"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma inclusão efetiva nas escolas (Movimento por uma Inclusão Efetiva); Garante uma inclusão efetiva nas escolas, alterando o Decreto-Lei n.º 54/2018, de 6 de julho; Aprova a carta dos direitos linguísticos da Comunidade Surda, especialmente em contexto educativo; A emergência na consolidação de aprendizagens; Recomenda ao Governo que elabore e apresente um relatório de avaliação da aplicação do Regime Jurídico da Educação Inclusiva com vista à respetiva melhoria contínua; Por uma Inclusão Efetiva nas Escolas; Recomenda o reforço dos Centros de Apoio à Aprendizagem; Recomenda o reforço da Língua Gestual Portuguesa (LGP) nas escolas; Por uma educação inclusiva; Garantia de uma verdadeira Educação Inclusiva na Escola Pública; Recomenda ao Governo a revisão das políticas de inclusão em meio escolar resultante da avaliação em curso; Recomenda ao Governo a revisão do Regime Jurídico da Educação Inclusiva e da formação dos professores de educação especial.",
+            "Teor": "Apresentação do Projeto de Resolução nº.  102/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/81"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma inclusão efetiva nas escolas (Movimento por uma Inclusão Efetiva); Garante uma inclusão efetiva nas escolas, alterando o Decreto-Lei n.º 54/2018, de 6 de julho; Aprova a carta dos direitos linguísticos da Comunidade Surda, especialmente em contexto educativo; A emergência na consolidação de aprendizagens; Recomenda ao Governo que elabore e apresente um relatório de avaliação da aplicação do Regime Jurídico da Educação Inclusiva com vista à respetiva melhoria contínua; Por uma Inclusão Efetiva nas Escolas; Recomenda o reforço dos Centros de Apoio à Aprendizagem; Recomenda o reforço da Língua Gestual Portuguesa (LGP) nas escolas; Por uma educação inclusiva; Garantia de uma verdadeira Educação Inclusiva na Escola Pública; Recomenda ao Governo a revisão das políticas de inclusão em meio escolar resultante da avaliação em curso; Recomenda ao Governo a revisão do Regime Jurídico da Educação Inclusiva e da formação dos professores de educação especial.",
+            "Teor": "Apresentação do Projeto de Resolução nº.  107/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/82"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma inclusão efetiva nas escolas (Movimento por uma Inclusão Efetiva); Garante uma inclusão efetiva nas escolas, alterando o Decreto-Lei n.º 54/2018, de 6 de julho; Aprova a carta dos direitos linguísticos da Comunidade Surda, especialmente em contexto educativo; A emergência na consolidação de aprendizagens; Recomenda ao Governo que elabore e apresente um relatório de avaliação da aplicação do Regime Jurídico da Educação Inclusiva com vista à respetiva melhoria contínua; Por uma Inclusão Efetiva nas Escolas; Recomenda o reforço dos Centros de Apoio à Aprendizagem; Recomenda o reforço da Língua Gestual Portuguesa (LGP) nas escolas; Por uma educação inclusiva; Garantia de uma verdadeira Educação Inclusiva na Escola Pública; Recomenda ao Governo a revisão das políticas de inclusão em meio escolar resultante da avaliação em curso; Recomenda ao Governo a revisão do Regime Jurídico da Educação Inclusiva e da formação dos professores de educação especial.",
+            "Teor": "Apresentação do Projeto de Resolução nº.  111/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/83"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Por uma inclusão efetiva nas escolas (Movimento por uma Inclusão Efetiva); Garante uma inclusão efetiva nas escolas, alterando o Decreto-Lei n.º 54/2018, de 6 de julho; Aprova a carta dos direitos linguísticos da Comunidade Surda, especialmente em contexto educativo; A emergência na consolidação de aprendizagens; Recomenda ao Governo que elabore e apresente um relatório de avaliação da aplicação do Regime Jurídico da Educação Inclusiva com vista à respetiva melhoria contínua; Por uma Inclusão Efetiva nas Escolas; Recomenda o reforço dos Centros de Apoio à Aprendizagem; Recomenda o reforço da Língua Gestual Portuguesa (LGP) nas escolas; Por uma educação inclusiva; Garantia de uma verdadeira Educação Inclusiva na Escola Pública; Recomenda ao Governo a revisão das políticas de inclusão em meio escolar resultante da avaliação em curso; Recomenda ao Governo a revisão do Regime Jurídico da Educação Inclusiva e da formação dos professores de educação especial.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34165",
+    "PetAssunto": "Por uma inclusão efetiva nas escolas",
+    "PetDataEntrada": "2024-12-02",
+    "PeticoesAssociadas": null,
+    "PetId": "34165",
+    "PetLeg": "XVI",
+    "PetNr": "120",
+    "PetNrAssinaturas": "9258",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura\n",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56731",
+        "obs": null,
+        "pag": [
+          "53-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-04",
+        "pubLeg": "XVII",
+        "pubNr": "8",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/53?pgs=53-59&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915288",
+        "obs": null,
+        "pag": [
+          "26-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-21",
+        "pubLeg": "XVI",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/048/2024-12-21/26?pgs=26-28&org=PLC"
+      }
+    ]
+  }
+}
