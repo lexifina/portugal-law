@@ -1,0 +1,19 @@
+## Capítulo V
+
+## GARANTIAS DO CUMPRIMENTO DO CONTRATO DE CONCESSÃO
+
+# Base XXXIII
+
+### Caução
+
+1 - Para a garantia do cumprimento dos deveres emergentes do contrato de concessão, a concessionária deve, se o membro do Governo responsável pela área da energia assim o determinar, prestar uma caução até ao valor de € 50 000 000.
+
+2 - Nos casos em que a concessionária não tenha efetuado pagamento nem tenha contestado as multas aplicadas por incumprimento das obrigações contratuais, pode ser determinado o recurso àquela caução, sem dependência de decisão judicial, mediante despacho do membro do Governo responsável pela área da energia.
+
+3 - A eventual diminuição da caução, por força de levantamentos que dela sejam feitos nos termos do número anterior, implica, para a concessionária, a obrigação de proceder à sua reconstituição no prazo de um mês contado a partir da data de utilização.
+
+4 - A caução só pode ser levantada um ano após a data da extinção do contrato de concessão ou, por acordo com o concedente, após a extinção da concessão, mas antes do decurso daquele prazo.
+
+5 - A caução pode ser prestada por depósito em dinheiro, por garantia bancária autónoma cujo texto deve ser previamente aprovado pela DGEG ou por qualquer outra forma prevista na lei.
+
+6 - A obrigação de prestação da caução não é exigível à concessionária enquanto esta for detida ou se encontre no controlo efetivo do Estado.
