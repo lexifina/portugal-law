@@ -1,0 +1,666 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34166",
+  "numero": "121",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-12-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8456",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-01-30",
+            "entidades": null,
+            "id": "159273",
+            "tipo": null,
+            "titulo": "Audição em 2025-01-30 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-02-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-12-18",
+        "DataArquivo": "2025-02-26",
+        "DataBaixaComissao": "2024-12-09",
+        "DataEnvioPAR": "2025-02-26",
+        "DataReaberta": "2024-12-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-12-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a59573876597a426a4f5464694e574d744f54646a5a4330304e7a566b4c57466b593259744e6d4a685a5451314d3255794f5755794c6e426b5a673d3d&fich=c0c97b5c-97cd-475d-adcf-6bae453e29e2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-01-30",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a595738764d7a6868595449304f4749745957566a4f5330305a444d774c546b325a4445744e44426b5a6a5135597a637a4f5445794c6e426b5a673d3d&fich=38aa248b-aec9-4d30-96d1-40df49c73912.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-02-26",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a45775131525455306b765247396a6457316c626e52766331426c64476c6a59573876596d526b4f44426c4f4455744f474e6b5969303059574d314c5749304e546b74595463334f44493059545978597a56684c6e426b5a673d3d&fich=bdd80e85-8cdb-4ac5-b459-a77824a61c5a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8402",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-02-26",
+            "dataNomeacao": "2024-12-18",
+            "gp": "PS",
+            "id": "8020",
+            "motivoCessacao": null,
+            "nome": "Patrícia Caixinha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-12-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-12-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325268596d5a6d4d4467354c544579597a49744e44566b595331695a6d55774c546b795a4446684f544977597a67354d5335775a47593d&fich=dabff089-12c2-45da-bfe0-92d1a920c891.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315828",
+      "315836",
+      "315840",
+      "315845",
+      "315848"
+    ],
+    "Iniciativasoriginadas": [
+      "315828",
+      "315836",
+      "315840",
+      "315845",
+      "315848"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/23"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reforma antecipada para trabalhadores por turnos (Domingos Manuel Mendonça Carreiro e outros); Reconhecimento da penosidade da prestação de trabalho na modalidade de turnos rotativos e respetiva atribuição de acréscimo remuneratório; Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho por turnos e noturno; Reconhecimento do direito à antecipação da idade de reforma aos trabalhadores por turnos; Altera o regime do trabalho noturno e por turnos reforçando os direitos dos trabalhadores.",
+            "Teor": "Apresenta o Projeto de Lei n.º 314/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/24"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reforma antecipada para trabalhadores por turnos (Domingos Manuel Mendonça Carreiro e outros); Reconhecimento da penosidade da prestação de trabalho na modalidade de turnos rotativos e respetiva atribuição de acréscimo remuneratório; Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho por turnos e noturno; Reconhecimento do direito à antecipação da idade de reforma aos trabalhadores por turnos; Altera o regime do trabalho noturno e por turnos reforçando os direitos dos trabalhadores.",
+            "Teor": "Apresenta o Projeto de Lei n.º 319/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/25"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/17?pgs=17&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reforma antecipada para trabalhadores por turnos (Domingos Manuel Mendonça Carreiro e outros); Reconhecimento da penosidade da prestação de trabalho na modalidade de turnos rotativos e respetiva atribuição de acréscimo remuneratório; Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho por turnos e noturno; Reconhecimento do direito à antecipação da idade de reforma aos trabalhadores por turnos; Altera o regime do trabalho noturno e por turnos reforçando os direitos dos trabalhadores.",
+            "Teor": "Apresenta o Projeto de Lei n.º 320/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/26"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reforma antecipada para trabalhadores por turnos (Domingos Manuel Mendonça Carreiro e outros); Reconhecimento da penosidade da prestação de trabalho na modalidade de turnos rotativos e respetiva atribuição de acréscimo remuneratório; Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho por turnos e noturno; Reconhecimento do direito à antecipação da idade de reforma aos trabalhadores por turnos; Altera o regime do trabalho noturno e por turnos reforçando os direitos dos trabalhadores.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 412/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/27"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480457",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reforma antecipada para trabalhadores por turnos (Domingos Manuel Mendonça Carreiro e outros); Reconhecimento da penosidade da prestação de trabalho na modalidade de turnos rotativos e respetiva atribuição de acréscimo remuneratório; Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho por turnos e noturno; Reconhecimento do direito à antecipação da idade de reforma aos trabalhadores por turnos; Altera o regime do trabalho noturno e por turnos reforçando os direitos dos trabalhadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/28"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/19?pgs=19&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reforma antecipada para trabalhadores por turnos (Domingos Manuel Mendonça Carreiro e outros); Reconhecimento da penosidade da prestação de trabalho na modalidade de turnos rotativos e respetiva atribuição de acréscimo remuneratório; Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho por turnos e noturno; Reconhecimento do direito à antecipação da idade de reforma aos trabalhadores por turnos; Altera o regime do trabalho noturno e por turnos reforçando os direitos dos trabalhadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/29"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480459",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reforma antecipada para trabalhadores por turnos (Domingos Manuel Mendonça Carreiro e outros); Reconhecimento da penosidade da prestação de trabalho na modalidade de turnos rotativos e respetiva atribuição de acréscimo remuneratório; Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho por turnos e noturno; Reconhecimento do direito à antecipação da idade de reforma aos trabalhadores por turnos; Altera o regime do trabalho noturno e por turnos reforçando os direitos dos trabalhadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480460",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/20?pgs=20&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reforma antecipada para trabalhadores por turnos (Domingos Manuel Mendonça Carreiro e outros); Reconhecimento da penosidade da prestação de trabalho na modalidade de turnos rotativos e respetiva atribuição de acréscimo remuneratório; Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho por turnos e noturno; Reconhecimento do direito à antecipação da idade de reforma aos trabalhadores por turnos; Altera o regime do trabalho noturno e por turnos reforçando os direitos dos trabalhadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480461",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/21?pgs=21&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reforma antecipada para trabalhadores por turnos (Domingos Manuel Mendonça Carreiro e outros); Reconhecimento da penosidade da prestação de trabalho na modalidade de turnos rotativos e respetiva atribuição de acréscimo remuneratório; Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho por turnos e noturno; Reconhecimento do direito à antecipação da idade de reforma aos trabalhadores por turnos; Altera o regime do trabalho noturno e por turnos reforçando os direitos dos trabalhadores.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34166",
+    "PetAssunto": "Pela reforma antecipada para trabalhadores por turnos.",
+    "PetDataEntrada": "2024-12-05",
+    "PeticoesAssociadas": null,
+    "PetId": "34166",
+    "PetLeg": "XVI",
+    "PetNr": "121",
+    "PetNrAssinaturas": "11723",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura.",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56797",
+        "obs": null,
+        "pag": [
+          "15-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-12-20",
+        "pubLeg": "XVII",
+        "pubNr": "44",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/15?pgs=15-21&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915290",
+        "obs": null,
+        "pag": [
+          "7-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-03",
+        "pubLeg": "XVI",
+        "pubNr": "50",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/050/2025-01-03/7?pgs=7&org=PLC"
+      }
+    ]
+  }
+}
