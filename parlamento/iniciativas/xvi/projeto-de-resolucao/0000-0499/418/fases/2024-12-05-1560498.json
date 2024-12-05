@@ -1,0 +1,130 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "418",
+    "id": "304289",
+    "titulo": "Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2024-12-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "76193",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-12-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-12-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração apresentada pelo Grupo Parlamentar do PSD ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457951304e44536b51765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d475534597a5a6c4d5330334e4441314c5451794d6d51744f4456684e43316a5a4749794e5445794e446c6b4d544d756347526d&fich=b0e8c6e1-7405-422d-85a4-cdb251249d13.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-14",
+            "TipoDocumento": "Redação final",
+            "TituloDocumento": "Redação final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457951304e44536b51765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d475a694f5445315a4330344d7a46694c54526b596d5574596a63305a6930304d7a63354d7a45335932466a4e3249756347526d&fich=10fb915d-831b-4dbe-b74f-4379317cac7b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-17",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da votação na especialidade ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457951304e44536b51765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334f4467344e32566c5a43316c59575a684c54526b595749744f5445354e5331684d7a64684d4755785a6a553359574d756347526d&fich=78887eed-eafa-4dab-9195-a37a0e1f57ac.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-17",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto conjunto apresentado pelos Grupos Parlamentares do PS e do PCP ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457951304e44536b51765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5a57566b4d7a56685969316b4f446b354c54526a4f544d745954426a4d5330304d7a6b7a59546c6a5a446334597a41756347526d&fich=deed35ab-d899-4c93-a0c1-4393a9cd78c0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-17",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457951304e44536b51765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a5751334f54566b4d69316d4e7a41314c545269596a63744f54677a4e4330305a47566c5a475a694e446c685a4451756347526d&fich=1ed795d2-f705-4bb7-9834-4deedfb49ad4.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8404",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "Numero": "8404",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-12-05",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1560498",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020343",
+        "obs": null,
+        "pag": [
+          "74-75"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-18",
+        "pubLeg": "XVI",
+        "pubNr": "147",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/147/2024-12-18/74?pgs=74-75&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
