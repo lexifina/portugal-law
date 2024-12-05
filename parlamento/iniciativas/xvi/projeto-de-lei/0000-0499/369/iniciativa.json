@@ -1,0 +1,131 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "369",
+  "id": "304380",
+  "fases": 13,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-12-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f474530597a59324f44637459545131595330304d544d794c5467324e7a63745a5459324f575a684e57466a596a42684c6e426b5a673d3d&fich=8a4c6687-a45a-4132-8677-e669fa5acb0a.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e546b79596a686c595451744e6a6b34596930304e6a686a4c546c694e544d745a6a466a593245335932453359324d344c6d52765933673d&fich=592b8ea4-698b-468c-9b53-f1cca7ca7cc8.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa – versão 1"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d45344e6d526b59544d744d5463334e7930304e7a417a4c5467344f4455744f4452694d5751774e6d5a694d445a6b4c6d52765933673d&fich=6a86dda3-1777-4703-8885-84b1d06fb06d.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa – versão 2"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6537",
+        "nome": "Paulo Moniz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8320",
+        "nome": "João Vale e Azevedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2071",
+        "nome": "Miguel Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8526",
+        "nome": "Gonçalo Lage"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4484",
+        "nome": "Marco Claudino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4090",
+        "nome": "Margarida Saavedra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7240",
+        "nome": "Alexandre Poço"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2304",
+        "nome": "Bruno Ventura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2397",
+        "nome": "Francisco Covelinhas Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6930",
+        "nome": "Carlos Eduardo Reis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2641",
+        "nome": "Paulo Cavaleiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4328",
+        "nome": "Maurício Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6178",
+        "nome": "Paulo Neves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "304380",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e475a6b4f5445774d574974596d59324e7930304e7a59354c5749304d6d49745a6a566b4f446b774e6a5a6d4e5759784c6d52765933673d&fich=4fd9101b-bf67-4769-b42b-f5d89066f5f1.docx&Inline=true",
+    "IniNr": "369",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto a pedido do autor em 2024-12-05. Substituição do texto a pedido do autor em 2024-12-13.",
+    "IniTipo": "J",
+    "IniTitulo": "Procede à primeira alteração ao Decreto-Lei n.º 53/2009, de 2 de março, que define as regras aplicáveis aos serviços de radiocomunicações de amador e de amador por satélite, bem como o regime de atribuição de certificados e autorizações especiais aos amadores e de licenciamento das estações de uso comum",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
