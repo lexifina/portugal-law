@@ -1,0 +1,222 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "366",
+    "id": "304370",
+    "titulo": "Regulamenta a actividade de representação legítima de Interesses (“Lobbying”) junto de entidades públicas e cria um registo de transparência da representação de interesses junto da Assembleia da República"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-12-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "76187",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-12-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2025-03-10",
+        "DatainicioApreciacaoPublica": "2025-02-08",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-12-17",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a59355a574d314e446b744d54566b4e4330304e6a4e6a4c5745314d6a4d744e4463314e32566959544d325a6d4e6d4c6e426b5a673d3d&fich=269ec549-15d4-463c-a523-4757eba36fcf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório PJL 366",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a517a4e54426d5a4759744d47566a4e5330304d6a4a684c5749355a6d4d745957566c4e444a6b4d4456684f546b784c6e426b5a673d3d&fich=34350fdf-0ec5-422a-b9fc-aee42d05a991.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-13",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a6b304e47526b5a4445744e7a49324e4330305a5467354c5749784f47497459545a684e3245335a6a67774e6d49314c6e426b5a673d3d&fich=f944ddd1-7264-4e89-b18b-a6a7a7f806b5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54593059575934597a557459546c6c596930304d7a63354c5467775a6d4d745a57497a4e6a41314e446b305a6a4e694c6e426b5a673d3d&fich=964af8c5-a9eb-4379-80fc-eb3605494f3b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - MENAC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a4d334d32566c4e575974596a4d774e5330304e5455304c5468694e6a5574593246684e6d4e6a4e44526859324e684c6e426b5a673d3d&fich=c373ee5f-b305-4554-8b65-caa6cc44acca.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-23",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Entidade para a Transparência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4449344d5751775a4445744e3245344d6930305a5751304c5467774f5749744d6d4e694d324d34596a55774e47566b4c6e426b5a673d3d&fich=8281d0d1-7a82-4ed4-809b-2cb3c8b504ed.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-30",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5451324d325a6c5a5745744e3259324e793030595449304c5467324d446374596a63324d4452685a57566a596a45324c6e426b5a673d3d&fich=9463feea-7f67-4a24-8607-b7604aeecb16.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593251304f4745315a4751744d6d4a6b5a53303059324a694c574932597a45744e6d45774d6a67784d575530595452694c6e426b5a673d3d&fich=cd48a5dd-2bde-4cbb-b6c1-6a02811e4a4b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - CSMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a55354d44426d5a574d744f546b314d6930305a6a41334c5749334d4755745a4468684d444d324e3251774d6a51784c6e426b5a673d3d&fich=b5900fec-9952-4f07-b70e-d8a0367d0241.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8433",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão Eventual para o acompanhamento integrado da execução e monitorização da Agenda Anticorrupção",
+        "Numero": "8433",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2024-12-20"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-12-12"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2024-12-12"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-12-12"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2024-12-12"
+          },
+          {
+            "link": "",
+            "nome": "MENAC - Mecanismo Nacional Anticorrupção em 2024-12-12"
+          },
+          {
+            "link": "",
+            "nome": "ANMP - Associação Nacional de Municípios Portugueses em 2024-12-12"
+          },
+          {
+            "link": "",
+            "nome": "Entidade para a Transparência em 2024-12-12"
+          },
+          {
+            "link": "",
+            "nome": "Associação Cívica Transparência e Integridade em 2024-12-12"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da Comissão Eventual para o acompanhamento integrado da execução e monitorização da Agenda Anticorrupção",
+            "pag": [
+              "2-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-04",
+            "pubLeg": "XVI",
+            "pubNr": "174",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/174/2025-02-04/2?pgs=2-12&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da Comissão Eventual para o acompanhamento integrado da execução e monitorização da Agenda Anticorrupção",
+            "pag": [
+              "2-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-04",
+            "pubLeg": "XVI",
+            "pubNr": "174",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/174/2025-02-04/2?pgs=2-12&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-12-05",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão à 14.ª Comissão",
+    "OevId": "1560475",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
