@@ -2,4 +2,4 @@
 
 ### Disposição transitória
 
-As autoridades de saúde nomeadas mantêm-se no exercício das suas funções até que se proceda às novas designações, nos termos do artigo 3º do presente diploma.
+As autoridades de saúde designadas mantêm-se no exercício de funções até que se proceda às novas designações, nos termos do artigo 3.º

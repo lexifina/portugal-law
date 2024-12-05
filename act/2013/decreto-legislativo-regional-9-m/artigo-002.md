@@ -2,14 +2,14 @@
 
 ### Autoridades de saúde
 
-1 - As autoridades de saúde na Administração Regional Autónoma da Madeira situam-se a nível regional e municipal.
+1 - As autoridades de saúde na administração regional autónoma da Madeira exercem poderes de âmbito regional e local, e têm como áreas geográficas de intervenção os territórios da Região Autónoma da Madeira e dos polos de concelhos, respetivamente.
 
-2 - As autoridades de saúde dependem hierarquicamente do Secretário Regional dos Assuntos Sociais.
+2 - (Revogado.)
 
-3 - A autoridade de saúde de âmbito regional é o Presidente do Conselho Diretivo do Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, adiante designado abreviadamente por IASAÚDE,IP-RAM.
+3 - A autoridade de saúde de âmbito regional é a autoridade de saúde regional ou delegado de saúde regional, que depende hierarquicamente do membro do Governo Regional responsável pela área da saúde.
 
-4 - As autoridades de saúde de âmbito municipal são os delegados de saúde, e delegados de saúde adjuntos.
+4 - As autoridades de saúde de âmbito local são as autoridades de saúde locais ou delegados de saúde, que dependem hierarquicamente do delegado de saúde regional.
 
-5 - O delegado de saúde é coadjuvado por um delegado de saúde adjunto, que exerce as competências que por aquele lhe forem delegadas, e o substitui nas suas ausências e impedimentos.
+5 - (Revogado.)
 
-6 - Os delegados de saúde são, por inerência, responsáveis pelas respetivas unidades operativas de saúde pública, nos termos de legislação própria.
+6 - (Revogado.)
