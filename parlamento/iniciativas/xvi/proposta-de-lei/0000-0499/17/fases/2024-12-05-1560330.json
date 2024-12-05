@@ -1,0 +1,1056 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "17",
+    "id": "284013",
+    "titulo": "Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2024-12-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40394",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2024-12-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304342",
+        "leg": "XVI",
+        "nr": "452",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36611",
+            "obs": null,
+            "pag": [
+              "40-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-06",
+            "pubLeg": "XVI",
+            "pubNr": "65",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/40?pgs=40-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36611",
+            "obs": null,
+            "pag": [
+              "40-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-06",
+            "pubLeg": "XVI",
+            "pubNr": "65",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/40?pgs=40-50&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "284012",
+        "leg": "XVI",
+        "nr": "16",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36611",
+            "obs": null,
+            "pag": [
+              "40-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-06",
+            "pubLeg": "XVI",
+            "pubNr": "65",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/40?pgs=40-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36611",
+            "obs": null,
+            "pag": [
+              "40-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-06",
+            "pubLeg": "XVI",
+            "pubNr": "65",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/40?pgs=40-50&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Regulamenta os ensaios clínicos de medicamentos para uso humano"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-12-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra da Saúde",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Paula Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "5693",
+                "nome": "Rui Cristina"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra da Saúde",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Paula Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7350",
+                "nome": "Fátima Correia Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5749",
+                "nome": "Sandra Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "8642",
+                "nome": "Marisa Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8491",
+                "nome": "Filipa Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/47?pgs=47&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7494",
+                "nome": "Irene Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8856",
+                "nome": "Diva Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8374",
+                "nome": "Miguel Guimarães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8559",
+                "nome": "Isabel Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "5693",
+                "nome": "Rui Cristina"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "20:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/65/60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra da Saúde",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Paula Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-06",
+                "pubLeg": "XVI",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/50?pgs=50&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta os ensaios clínicos de medicamentos para uso humano; Estabelece um novo quadro regulamentar de investigação clínica e os respetivos estudos de desempenho; Pela criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos e pela transparência e divulgação da informação da investigação e utilização de animais para fins científicos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1560330",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020372",
+        "obs": null,
+        "pag": [
+          "40-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-06",
+        "pubLeg": "XVI",
+        "pubNr": "65",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/065/2024-12-06/40?pgs=40-50&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
