@@ -1,0 +1,175 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "16",
+    "id": "284012",
+    "titulo": "Regulamenta os ensaios clínicos de medicamentos para uso humano"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2024-12-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "76199",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-12-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-02-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Ordem dos Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32597a5a4455345a5751794c546c6d4d5463744e4467344d6931694d6d517a4c5467325a4463794d7a41314d44517a5a5335775a47593d&fich=f3d58ed2-9f17-4882-b2d3-86d72305043e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-02",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer -  Sociedade de Ciências Médicas de Lisboa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d775a546b7a59574a6b4c546b794e6a4d744e4441314e7930344d3245354c5459795a4745345a544a6d5a6a426c596935775a47593d&fich=30e93abd-9263-4057-83a9-62da8e2ff0eb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-05",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - António Manuel Núncio Faria Vaz (1)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d354f5463354d44457a4c54686c4d7a4d744e446c6a4d7930344e6d5a684c5449344d6a63314f5455794d6a49304f5335775a47593d&fich=39979013-8e33-49c3-86fa-282759522249.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-06",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - António Manuel Núncio Faria Vaz (2)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e694f545135597a6b334c5749774e6d49744e4449794e6930344d6a566d4c544a6c4e4452685a54686b4d6a5a694d7935775a47593d&fich=3b949c97-b06b-4226-825f-2e44ae8d26b3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-24",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "Parecer - APAH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6735596d4d33596d4d774c54517a5a4445744e4746684d5331684d5441354c5759784d5464684e4745334d4463334e4335775a47593d&fich=89bc7bc0-43d1-4aa1-a109-f117a4a70774.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - APIFARMA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526b4e4755334e44526a4c54553559544d744e4749794d5330354f5751354c546334596a4a6a4f57593059324d7a4d7935775a47593d&fich=dd4e744c-59a3-4b21-99d9-78b2c9f4cc33.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Associação Portuguesa de Bioindústria",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b785a6a42684e5459784c57526b596d45744e444d784f4331685a47466c4c546335597a526c4d6a6b354e6d4e6a4e5335775a47593d&fich=91f0a561-ddba-4318-adae-79c4e2996cc5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - CNECV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6c596a6b31596a677a4c544a684d6a67744e4442694d7930354d5759324c5745334e574d77596a6732596a466a4e5335775a47593d&fich=feb95b83-2a28-40b3-91f6-a75c0b86b1c5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-31",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão de Ética para a Investigação Clínica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6b4e5755794f4751334c546b775a474d744e4751324e5331694d6a49794c5455314e6a466a4d5749304f44466c4e5335775a47593d&fich=6d5e28d7-90dc-4d65-b222-5561c1b481e5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-13",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho de Reitores das Universidades Portuguesas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249354e44677a4e5463344c57517a4d3255744e4751774d693035596d4d314c545977596a597a4f4441794d44457a597935775a47593d&fich=b9483578-d33e-4d02-9bc5-60b63802013c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Health Cluster Portugal e AICIB",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51775a574d784d3255344c5467784e5749744e475135596931685a6a55784c544e6c4d6d5a6c4f44646b5a546330595335775a47593d&fich=40ec13e8-815b-4d9b-af51-3e2fe87de74a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-27",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Infarmed",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a557a4d7a55305a5467324c54466c4f4755744e4451315a5330344e7a4e6c4c5759344e6a457a4d32457a596d45334d6935775a47593d&fich=53354e86-1e8e-445e-873e-f86133a3ba72.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-05",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Biólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b325a4755795a6a4d784c54566b4d5467744e446b795a693035596a49354c5441315a6a5a6b5a54557859324a6c596935775a47593d&fich=96de2f31-5d18-492f-9b29-05f6de51cbeb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41304e4467784d474e6d4c57566b4e4449744e446b775a6930355a54646d4c545a6d4d4445344f4449784d6d4a6b595335775a47593d&fich=044810cf-ed42-490f-9e7f-6f0188212bda.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Farmacêuticos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d354d6a5a6c5a4451784c575130595751744e4467775a5331695a574d304c5759354e6d49314f5463304d6a51304e6935775a47593d&fich=3926ed41-d4ad-480e-bec4-f96b59742446.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Médicos Dentistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41344e4445794d7a426b4c544a6c4f5441744e4455774d7931684e3259344c545978596d59304f5441314f57466a4f5335775a47593d&fich=0841230d-2e90-4503-a7f8-61bf49059ac9.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8401",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "8401",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-12-05",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1560514",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
