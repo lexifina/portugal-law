@@ -1,0 +1,6 @@
+Aviso n.º 27641/2024/2
+
+Antonino Aurélio Vieira de Sousa, Licenciado em Direito e Presidente da Câmara Municipal de Penafiel, ao abrigo da competência que lhe confere a alínea b) e t), do n.º 1, do artigo 35.º, da Lei n.º 75/2013, de 12 de setembro e em cumprimento do disposto no artigo 101.º3 do novo CPA, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, torna público que, a Câmara Municipal em sua reunião ordinária de 25 de novembro de 2024, pela deliberação n.º 1999, autorizou a submissão a consulta pública pelo prazo 30 dias a contar da publicação do presente aviso na 2.ª série do Diário da República da Alteração ao Regulamento Municipal de Trânsito, Circulação e Estacionamento, estando o documento disponível na Unidade de Planeamento e Mobilidade, sita no Museu Municipal de Penafiel e no site da Câmara Municipal http://www.cm-penafiel.pt.
+Durante aquele prazo, poderá qualquer interessado apresentar sugestões, através de comunicação escrita dirigida ao Senhor Presidente da Câmara Municipal de Penafiel, que poderá ser entregue em mão no Balcão Único, sito na Rua Abílio Miranda, Penafiel, enviada por via postal para Praça do Município, 4564-002 Penafiel, ou enviada para o correio eletrónico mobilidade@cm-penafiel.pt.
+26 de novembro de 2024. - O Presidente da Câmara Municipal, Antonino de Sousa, Dr.
+318401412
