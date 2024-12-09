@@ -1,0 +1,8 @@
+Aviso n.º 27661/2024/2
+
+Projeto de Regulamento Municipal de Funcionamento e Utilização da Área de Serviço de Autocaravanas do Concelho de Valpaços
+António Joaquim de Medeiros, Presidente da Câmara Municipal de Valpaços, torna público, em cumprimento do disposto no n.º 1, do artigo 56.º, do anexo I, da Lei n.º 75/2013, de 12 de setembro e nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que se submete a consulta pública pelo período de 30 dias o projeto de Regulamento Municipal de Funcionamento e Utilização da Área de Serviço de Autocaravanas do Concelho de Valpaços, aprovado pela Câmara Municipal de Valpaços na sua reunião ordinária de 28 de novembro de 2024.
+O projeto de Regulamento Municipal de Funcionamento e Utilização da Área de Serviço de Autocaravanas do Concelho de Valpaços encontra-se disponível para consulta dos interessados na página da internet do Município de Valpaços, em www.valpaços.pt, e nos serviços da Câmara Municipal, sito no Edifício Paços do Concelho, durante o respetivo horário de expediente.
+Mais torna público que, nos termos do n.º 2 do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, os interessados deverão dirigir as suas sugestões, por escrito, ao Senhor Presidente da Câmara Municipal, para a seguinte morada: Edifício Paços do Concelho, Praça do Município, 5430-482 Valpaços, ou através de correio eletrónico para município@valpacos.pt.
+28 de novembro de 2024. - O Presidente da Câmara Municipal, António Joaquim de Medeiros.
+318413985
