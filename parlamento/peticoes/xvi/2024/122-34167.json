@@ -1,0 +1,797 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34167",
+  "numero": "122",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-12-10",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-02-20",
+            "entidades": null,
+            "id": "159371",
+            "tipo": null,
+            "titulo": "Audição em 2025-02-20 com Peticionários da Petição n.º 122/XVI/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-03-12",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915262",
+                "obs": null,
+                "pag": [
+                  "46-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/063/2025-03-15/46?pgs=46-51&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-01-15",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-12-26",
+        "DataEnvioPAR": "2025-03-14",
+        "DataReaberta": "2025-01-15",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-01-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938314d5467354d4751325a69316d4d324d344c545134596a5974596a517a4e43316d4e574931595451314f5449785a5455756347526d&fich=51890d6f-f3c8-48b6-b434-f5b5a45921e5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-02-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938794d7a4a684f544a694f53307a5932566a4c5451344e324974595749315a4330774d6d4a6c5a545a6a4f545177595455756347526d&fich=232a92b9-3cec-487b-ab5d-02bee6c940a5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-03-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396d596d55314d445130597930775a4459774c54526d595745744f5456694f43307a593259794e6a566b5a445977595455756347526d&fich=fbe5044c-0d60-4faa-95b8-3cf265dd60a5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-03-12",
+            "dataNomeacao": "2025-01-15",
+            "gp": "PS",
+            "id": "7350",
+            "motivoCessacao": "Apresentação e aprovação do relatório",
+            "nome": "Fátima Correia Pinto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2026-06-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-12-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324e6c4e4463784e4455304c5459305a6d59744e4445344d5330344e546b324c546734596d55324e6a49324d7a6b354d7935775a47593d&fich=ce471454-64ff-4181-8596-88be66263993.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315527",
+      "356780",
+      "356783",
+      "356788",
+      "356800",
+      "356804",
+      "356807",
+      "356811",
+      "356816"
+    ],
+    "Iniciativasoriginadas": [
+      "315527",
+      "356780",
+      "356783",
+      "356788",
+      "356800",
+      "356804",
+      "356807",
+      "356811",
+      "356816"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/97"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/69?pgs=69&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/98"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/99"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/70?pgs=70&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/100"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/71?pgs=71&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/101"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/102"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/103"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/73?pgs=73&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/104"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/74?pgs=74&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/105"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/106"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/75?pgs=75&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/107"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/75?pgs=75-76&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia; Políticas de saúde e inclusão social para pessoas com fibromialgia; Recomenda ao Governo a implementação de medidas pelo reconhecimento dos direitos dos doentes portadores de fibromialgia; Recomenda ao Governo a avaliação da implementação da norma da Direção-Geral da Saúde sobre fibromialgia e a adoção de uma estratégia nacional para a resposta clínica, funcional, laboral e social às pessoas com fibromialgia; Recomenda ao Governo medidas de reconhecimento, sensibilização e melhoria da resposta às pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para reforçar a resposta pública dirigida às pessoas com fibromialgia, garantindo acesso a cuidados de saúde, proteção social e a respostas adequadas de inclusão e proteção social; Recomenda o estudo da fibromialgia e a adoção de medidas destinadas a pessoas com fibromialgia; Recomenda ao Governo a adoção de medidas para a fibromialgia e para a encefalomielite miálgica; Recomenda ao Governo o reconhecimento da fibromialgia como doença crónica; Recomenda ao Governo que sejam implementadas medidas para proteger e apoiar as pessoas com fibromialgia; Pelo reforço das respostas à fibromialgia e pela melhoria do acompanhamento das pessoas afetadas",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34167",
+    "PetAssunto": "Solicitam o reconhecimento da fibromialgia como doença crónica incapacitante e o reforço dos direitos dos doentes com fibromialgia",
+    "PetDataEntrada": "2024-12-10",
+    "PeticoesAssociadas": [
+      "34168"
+    ],
+    "PetId": "34167",
+    "PetLeg": "XVI",
+    "PetNr": "122",
+    "PetNrAssinaturas": "5286",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura. ",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "76900",
+        "obs": null,
+        "pag": [
+          "69-76"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-06-03",
+        "pubLeg": "XVII",
+        "pubNr": "99",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/69?pgs=69-76&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915309",
+        "obs": null,
+        "pag": [
+          "26-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-25",
+        "pubLeg": "XVI",
+        "pubNr": "54",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/054/2025-01-25/26?pgs=26-27&org=PLC"
+      }
+    ]
+  }
+}
