@@ -1,0 +1,22 @@
+# Resolução do Conselho do Governo Regional n.º 1120/2024
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 203/2024, 3.º suplemento, de 2024-12-11
+
+**Sumário:** Autoriza a celebração de um contrato-programa com a Casa do Povo de Santa Maria Maior, na componente de apoio eventual, tendo em vista comparticipar os encargos com o evento “Convívio de Natal”, atribuindo para o efeito um apoio financeiro, até ao montante máximo de 6.000,00 €.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1120/2024
+Sumário: Autoriza a celebração de um contrato-programa com a Casa do Povo de Santa Maria Maior, na componente de apoio eventual, tendo em vista comparticipar os encargos com o evento “Convívio de Natal”, atribuindo para o efeito um apoio financeiro, até ao montante máximo de 6.000,00 €.
+Texto: Resolução n.º 1120/2024 Considerando que a Casa do Povo de Santa Maria Maior tem desempenhado um papel preponderante no desenvolvimento social e cultural da comunidade da sua área de influência, atividade essa reconhecida por declaração pública; Considerando que, nesse sentido, a mencionada entidade solicitou um apoio financeiro eventual tendo em vista assegurar as despesas inerentes à realização de um convívio de Natal, nos termos do artigo 9.º do Regulamento de Atribuição do Apoio Financeiro às Casas do Povo da Região Autónoma da Madeira e às suas Associações, no âmbito do Desenvolvimento Local, aprovado pela Resolução do Conselho do Governo Regional n.º 18/2023, de 30 de janeiro, alterado e republicado pela Resolução n.º 523/2023, de 15 de maio; Considerando que a atuação da referida Casa do Povo constitui um esforço meritório indispensável à prossecução dos objetivos de serviço público por parte das mesmas; Considerando a importância de que se reveste o associativismo, o voluntariado dos sócios da Casa do Povo e o papel primordial que lhes é atribuído no âmbito do Desenvolvimento Local, sendo do interesse público a viabilização da sua ação; Considerando que, nesse sentido, urge conceder o apoio financeiro à mesma, para a execução do evento supramencionado. Nestes termos, o Conselho do Governo reunido em plenário em 5 de dezembro de 2024, resolve: 1. Autorizar, ao abrigo do disposto no artigo 38.º do Decreto Legislativo Regional n.º 6/2024/M, de 29 de julho, que aprova o Orçamento da Região Autónoma da Madeira para 2024, retificado pela Declaração de Retificação n.º 1/2024/M/1, de 12 de agosto, e no Regulamento de Atribuição do Apoio Financeiro às Casas do Povo da Região Autónoma da Madeira e às suas Associações, no âmbito do Desenvolvimento Local, aprovado pela Resolução do Conselho do Governo Regional n.º
+
+18/2023, de 30 de janeiro, alterado pela Resolução n.º 523/2023, de 15 de maio, a celebração de um contrato-programa com a Casa do Povo de Santa Maria Maior, tendo em vista comparticipar os encargos com o evento “Convívio de Natal”.
+2. Para a prossecução do objetivo referido no número anterior, conceder à citada Casa do Povo, uma comparticipação financeira que não poderá ultrapassar o montante máximo de 6.000,00 € (seis mil euros), que será processada numa única prestação, após a outorga do contrato-programa e até 31 de dezembro de 2024.
+3. O contratos-programa a celebrar com a referida Entidade produz efeitos desde a data da sua assinatura até 31 de dezembro de 2024, sem prejuízo de serem elegíveis para efeitos de financiamento despesas realizadas anteriormente ao mesmo.
+4. Aprovar a minuta do contrato-programa, que faz parte integrante desta Resolução e que fica arquivada na Secretaria Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+5. Mandatar a Diretora Regional da Cidadania e dos Assuntos Sociais para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o contrato-programa.
+6. Mandatar a Secretária Regional de Inclusão, Trabalho e Juventude para, em representação da Região Autónoma da Madeira, homologar o contrato-programa.
+7. A despesa resultante do contrato-programa a celebrar está inscrita no orçamento da Direção Regional da Cidadania e dos Assuntos Sociais para o ano de 2024, na Classificação orgânica 49 9 50 01 05, Classificação funcional 109, Classificação económica D.04.07.01.FA.NA, Fonte 381, Programa 049, Medida 020, Centro Financeiro M100805, Compromisso n.º CY52417765.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
