@@ -41,3 +41,5 @@ c) Um(a) empregado(a) auxiliar por cada 15 residentes.
 8 - Os profissionais que prestam cuidados aos idosos deverão possuir formação adequada.
 
 9 - O número e as qualificações dos trabalhadores da ERPI devem ser adequados ao cumprimento das funções previstas no artigo 4.º
+
+10 - As ERPI podem dispor de médico, através de qualquer modalidade de contrato, com vista à realização das prescrições referidas na alínea h) do n.º 1 do artigo 8.º

@@ -18,7 +18,7 @@ f) Apoio no desempenho das atividades da vida diária;
 
 g) Cuidados de enfermagem, bem como o acesso a cuidados de saúde;
 
-h) Administração de fármacos, quando prescritos.
+h) Prescrição de medicamentos e produtos de apoio, requisição de MCDT e administração de fármacos, quando prescritos;
 
 i) Outras atividades culturais, ambientais, sociais, lúdico-recreativas, estimulação sensorial e cognitiva, entre outras, ajustadas ao perfil, capacidades e expetativas dos residentes;
 
@@ -39,3 +39,5 @@ c) A inclusão social com recurso a estruturas comuns e a outras da comunidade, 
 4 - A ERPI pode, ainda, disponibilizar outro tipo de atividades e cuidados, visando a melhoria da qualidade de vida do residente, nomeadamente, psicologia, fisioterapia, hidroterapia, nutrição, transporte e outros, desde que adequados às necessidades e interesses dos residentes.
 
 5 - A ERPI deve ainda permitir a assistência religiosa ou espiritual, sempre que o residente o solicite, ou, na incapacidade deste, mediante solicitação pelo seu representante legal.
+
+6 - No caso dos estabelecimentos aderentes ao regime previsto na portaria que estabelece o Regime PP-SNS para ERPI e LR, os encargos com medicamentos e produtos de apoio prescritos e com MCDT requisitados nas estruturas residenciais para pessoas idosas são suportados pelo Serviço Nacional de Saúde, nos termos gerais, observadas as demais condições estabelecidas.
