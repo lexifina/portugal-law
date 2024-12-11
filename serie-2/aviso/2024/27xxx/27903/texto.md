@@ -1,0 +1,6 @@
+Aviso n.º 27903/2024/2
+
+Projeto da 4.ª Alteração ao Regulamento Municipal do Parque Empresarial do Casarão
+Jorge Henrique Fernandes de Almeida, Presidente da Câmara Municipal de Águeda, torna público, nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, que durante o período de 30 dias úteis, a contar da data de publicação do presente aviso na 2.ª série do Diário da República e no sítio institucional do Município em www.cm-agueda.pt, é submetido a consulta pública o projeto da 4.ª Alteração ao Regulamento Municipal do Parque Empresarial do Casarão conforme deliberado em reunião ordinária da Câmara Municipal de 21 de novembro de 2022. Durante o período de consulta, poderão os interessados, consultar o projeto de regulamento, nos serviços municipais e no sítio institucional do Município em www.cm-agueda.pt, e, se for o caso, apresentar os seus contributos, por escrito, para o endereço eletrónico presidente@cm-agueda.pt, mencionando no assunto “Projeto de 4.ª Alteração do Regulamento Municipal do Parque Empresarial do Casarão”, e indicando o nome completo, número de identificação fiscal, morada ou sede e endereço eletrónico.
+3 de dezembro de 2024. - O Presidente da Câmara Municipal de Águeda, Jorge Henrique Fernandes de Almeida.
+318430387
