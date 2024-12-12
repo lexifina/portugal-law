@@ -1,0 +1,750 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34171",
+  "numero": "125",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-12-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-02-26",
+            "entidades": null,
+            "id": "159417",
+            "tipo": null,
+            "titulo": "Audição em 2025-02-26 com Peticionários da Petição n.º 125/XVI/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-03-12",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915264",
+                "obs": null,
+                "pag": [
+                  "51-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/063/2025-03-15/51?pgs=51-58&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-01-15",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-01-02",
+        "DataEnvioPAR": "2025-03-13",
+        "DataReaberta": "2025-01-15",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-01-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279387759545a694d324a6a4d5330324e5467794c5451784f446774595755315a53316a4f5455775a6a68694d6d56684d5441756347526d&fich=0a6b3bc1-6582-4188-ae5e-c950f8b2ea10.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-02-26",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396b4f44566d4e6a6b774f5331695a44646b4c5451354e6a677459574977596930304d6d56694f4745305a6d5a6b4e5455756347526d&fich=d85f6909-bd7d-4968-ab0b-42eb8a4ffd55.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-03-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793879595455344d6a4d784e6930304e7a6c6d4c5451325a6a45745957457a5a5330304d6a5979597a5a68597a6b784e4749756347526d&fich=2a582316-479f-46f1-aa3e-4262c6ac914b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-03-12",
+            "dataNomeacao": "2025-01-15",
+            "gp": "PSD",
+            "id": "8374",
+            "motivoCessacao": "Aprovação do relatório em reunião de Comissão de Saúde",
+            "nome": "Miguel Guimarães"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2026-05-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2025-03-11",
+        "TipoDocumento": "Resposta pedido de Informação",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a41334f474530596a4d794c545a684d6a49744e47557a4f43303459544d354c57526a4d6a453059546c684d6a5577597935775a47593d&fich=078a4b32-6a22-4e38-8a39-dc214a9a250c.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2025-01-02",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4534596a41794f5441344c57566d4d5749744e475932597930344e6a41314c57517a4d474a6c596a6b7a4f474d795a5335775a47593d&fich=18b02908-ef1b-4f6c-8605-d30beb938c2e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315909",
+      "356677",
+      "356682",
+      "356686",
+      "356688",
+      "356698",
+      "356701",
+      "356706",
+      "356715"
+    ],
+    "Iniciativasoriginadas": [
+      "315909",
+      "356677",
+      "356682",
+      "356686",
+      "356688",
+      "356698",
+      "356701",
+      "356706",
+      "356715"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/75"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503724",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/62?pgs=62&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": "Apresenta o Projeto de Resolução 453/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/76"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 912/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/77"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 915/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/78"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 919/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/79"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503728",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/65?pgs=65&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 921/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/80"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 929/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/81"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 931/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/82"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 934/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/83"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 938/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/94/84"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-22",
+                "pubLeg": "XVII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Prevenção e resposta ao desaparecimento de pessoas com Demência; Pela prevenção do desaparecimento de pessoas com demência; Recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva; Recomenda ao Governo a adoção de medidas que garantam o acompanhamento dos doentes com demência ou situação psicologicamente instável; Recomenda ao Governo o reforço da resposta integrada às demências em Portugal, com especial enfoque na segurança, acompanhamento e apoio às famílias; Pela aprovação de medidas de prevenção ao desaparecimento de pessoas com demência; Recomenda ao Governo medidas para reforçar a proteção de pessoas com demência nos estabelecimentos de saúde; Pela prevenção e resposta ao desaparecimento de pessoas com demência; Recomenda ao Governo o desenvolvimento e implementação de uma política integrada de atuação para doentes em risco de fuga em todo o SNS; Recomenda ao Governo a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo e/ou psiquiátrico no Serviço Nacional de Saúde, garantindo simultaneamente o cumprimento efetivo do direito ao acompanhamento consagrado na Lei n.º 15/2014.\n \n",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34171",
+    "PetAssunto": "Prevenção e resposta ao desaparecimento de pessoas com Demência",
+    "PetDataEntrada": "2024-12-12",
+    "PeticoesAssociadas": null,
+    "PetId": "34171",
+    "PetLeg": "XVI",
+    "PetNr": "125",
+    "PetNrAssinaturas": "9740",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura. A Petição 125/XVI/1.ª ",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "76895",
+        "obs": null,
+        "pag": [
+          "62-68"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-05-22",
+        "pubLeg": "XVII",
+        "pubNr": "94",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/094/2026-05-22/62?pgs=62-68&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915311",
+        "obs": null,
+        "pag": [
+          "29-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-25",
+        "pubLeg": "XVI",
+        "pubNr": "54",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/054/2025-01-25/29?pgs=29-31&org=PLC"
+      }
+    ]
+  }
+}
