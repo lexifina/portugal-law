@@ -1,0 +1,649 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "283",
+    "id": "294133",
+    "titulo": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2024-12-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40405",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2024-12-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-12-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5841",
+                "nome": "Miguel Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413626",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/35?pgs=35-44&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7973",
+                "nome": "Mariana Leitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413666",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7317",
+                "nome": "João Antunes dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7347",
+                "nome": "Manuel Magno"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413668",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5841",
+                "nome": "Miguel Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413669",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413670",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/35?pgs=35-44&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413672",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8425",
+                "nome": "Joaquim Barbosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413673",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8269",
+                "nome": "Armando Grave"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413674",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7212",
+                "nome": "Fernando José"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Regulamenta a arbitragem para a apreciação dos fundamentos da denúncia de convenção coletiva e a arbitragem para a suspensão do período de sobrevigência, procedendo à primeira alteração ao Decreto-Lei n.º 259/2009, de 25 de setembro",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1560393",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "37360",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "35-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-13",
+        "pubLeg": "XVI",
+        "pubNr": "68",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/35?pgs=35-44&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
