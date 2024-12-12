@@ -1,0 +1,1381 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "446",
+    "id": "304331",
+    "titulo": "Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2024-12-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40414",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2024-12-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304339",
+        "leg": "XVI",
+        "nr": "354",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da carreira de médico dentista no Serviço Nacional de Saúde"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "283982",
+        "leg": "XVI",
+        "nr": "242",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304345",
+        "leg": "XVI",
+        "nr": "454",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304350",
+        "leg": "XVI",
+        "nr": "457",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "304355",
+        "leg": "XVI",
+        "nr": "460",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36624",
+            "obs": null,
+            "pag": [
+              "82-92"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-13",
+            "pubLeg": "XVI",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82-92&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde "
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-12-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "5693",
+                "nome": "Rui Cristina"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "8642",
+                "nome": "Marisa Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413692",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7373",
+                "nome": "Sandra Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413694",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413695",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/76?pgs=76&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/96"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413696",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413697",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/98"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413698",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6937",
+                "nome": "Alberto Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/99"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413700",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/79?pgs=79-81&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/100"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413702",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/81?pgs=81&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/68/101"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413704",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-13",
+                "pubLeg": "XVI",
+                "pubNr": "68",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/82?pgs=82&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde; (Maria Miguel Almeida e outros) Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS);  Criação da carreira de médico dentista no Serviço Nacional de Saúde; Recomenda a criação da carreira de médico dentista nas entidades públicas empresariais integradas no Serviço Nacional de Saúde; Recomenda a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde; Recomenda ao Governo que proceda à criação da carreira especial de Médico Dentista no Serviço Nacional de Saúde.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1560401",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XVI",
+        "nr": "3",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Pela criação da carreira especial de Medicina Dentária no Serviço Nacional de Saúde (SNS)"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020593",
+        "obs": null,
+        "pag": [
+          "71-82"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-13",
+        "pubLeg": "XVI",
+        "pubNr": "68",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/068/2024-12-13/71?pgs=71-82&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
