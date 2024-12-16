@@ -1,0 +1,9 @@
+Aviso (extrato)  n.º 28306/2024/2
+
+Projeto de Regulamento de Organização e Funcionamento da Polícia Municipal de Peniche
+Henrique Bertino Batista Antunes, Presidente da Câmara Municipal de Peniche, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º do Anexo I, da Lei n.º 75/2013, de 12 de setembro, torna público que por deliberação da Câmara Municipal de Peniche n.º 1504/2024, tomada em reunião ordinária de 6 de dezembro, foi aprovado o Projeto de Regulamento de Organização e Funcionamento da Polícia Municipal de Peniche.
+Assim, em cumprimento da mesma deliberação, nos termos do artigo 101.º do Código do Procedimento Administrativo, submete-se o referido projeto de regulamento a consulta pública, por um prazo de 30 dias úteis, a contar da data de publicação do presente aviso no Diário da República, podendo o mesmo ser consultado na internet, na página do Município de Peniche.
+De acordo com o n.º 2 do artigo 101.º do Código do Procedimento Administrativo, convidam-se todos os interessados a remeter por escrito, a esta Câmara Municipal, as suas sugestões, dentro do período atrás mencionado, dirigidas ao Presidente da Câmara Municipal e remetidas por correio postal para o Largo do Município, 2520-239 Peniche, por correio eletrónico para cmpeniche@cm-peniche.pt ou entregues na Secretaria Central, sita no Largo do Município, nos dias úteis, entre as 9:00 e as 13:00 horas e entre as 14:00 e as 16:00 horas.
+O texto integral do referido documento poderá ser consultado na página eletrónica do Município de Peniche, em www.cm-peniche.pt, nas Juntas de Freguesia, bem como na Secretaria Central.
+6 de dezembro de 2024. - O Presidente da Câmara, Henrique Bertino Batista Antunes.
+318442804
