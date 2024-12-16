@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Proposta de Lei",
+  "numero": "41",
+  "id": "314431",
+  "fases": 20,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2024-12-16",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4445334f54526d596a4d744e6a63314f5330304e324e684c5749344d444d744e6d45334f44686d4d5455774d4751774c6e426b5a673d3d&fich=81794fb3-6759-47ca-b803-6a788f1500d0.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4445784d6a4a6c5a4463744f446778597930304e5751774c574a6c4e5451744d575a6b4f4463784d6a56684f4456684c6e426b5a673d3d&fich=d1122ed7-881c-45d0-be54-1fd87125a85a.pdf&Inline=true",
+        "anexoNome": "Ofício - Pedido de urgência"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a63334e7a4d334e575174597a526d4d4330304d7a67794c574534597a557459546c6a4e6a4668595451355a4467794c6e426b5a673d3d&fich=2777375d-c4f0-4382-a8c5-a9c61aa49d82.pdf&Inline=true",
+        "anexoNome": "Anexo 1"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765954497a597a686d4e5441744e7a4932597930305a6a41304c546c684e4467745932597a4d325a695a474d345a544d324c6e426b5a673d3d&fich=a23c8f50-726c-4f04-9a48-cf33fbdc8e36.pdf&Inline=true",
+        "anexoNome": "Anexo 2"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4463774e474d305a4467745932526d5a693030597a67354c54686d5a574974596d4d3459324a6a4e5751784d5755304c6d52765933673d&fich=d704c4d8-cdff-4c89-8feb-bc8cbc5d11e4.docx&Inline=true",
+        "anexoNome": "Anexo 3"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f445135597a426b4d4449745a545178597930304e4755774c546777596a457459324a684d3259315a444e6d4e6d5a694c6d52765933673d&fich=849c0d02-e41c-44e0-80b1-cba3f5d3f6fb.docx&Inline=true",
+        "anexoNome": "Anexo 4"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a646b4f4463795a5455744d7a4a6b4d433030596d59344c54686b4d7a5174595749794e7a5a684e446b324e7a41794c6d52765933673d&fich=b7d872e5-32d0-4bf8-8d34-ab276a496702.docx&Inline=true",
+        "anexoNome": "Anexo 5"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4467354e44426a4e546b744d5455324e4330304e5452694c546c684d4459745a6d4532597a63304e3259785a444e6d4c6e426b5a673d3d&fich=48940c59-1564-454b-9a06-fa6c747f1d3f.pdf&Inline=true",
+        "anexoNome": "Anexo 6"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f544934597a466d593245744d4445324d5330304e7a646b4c5745354d7a59745a444533597a686a4f474d794f4451774c6e426b5a673d3d&fich=928c1fca-0161-477d-a936-d17c8c8c2840.pdf&Inline=true",
+        "anexoNome": "Anexo 7"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f574a6a595449354f4449744d6a56695a53303059324e6c4c57466b4f5449744f5445315a575a6a4d54493259324d304c6d52765933673d&fich=9bca2982-25be-4cce-ad92-915efc126cc4.docx&Inline=true",
+        "anexoNome": "Anexo 8"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Assembleia Legislativa da Região Autónoma dos Açores",
+      "sigla": "A"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "314431",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5463334e6d4e6c4e7a41745a44566a4f5330304f4451794c574a6b593259744d32566b4d545931597a45304e575a6b4c6d52765933673d&fich=1776ce70-d5c9-4842-bdcf-3ed165c145fd.docx&Inline=true",
+    "IniNr": "41",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Primeira alteração ao Decreto-Lei n.º 41/2015, de 24 de março, que regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços aéreos entre o continente e a Região Autónoma dos Açores e entre esta e a Região Autónoma da Madeira, prosseguindo objetivos de coesão social e territorial",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
