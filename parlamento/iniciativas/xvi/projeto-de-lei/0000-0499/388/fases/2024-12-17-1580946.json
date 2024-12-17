@@ -1,0 +1,204 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "388",
+    "id": "314422",
+    "titulo": "Aumenta o prazo de prescrição para denúncia de abuso sexual de menor, alterando o Código Penal"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2024-12-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "86274",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-12-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-01-22",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a4445314f5751354d7930354d4745794c5451784d6d457459544d314d4331684f4445794d6d4e6c595449305a6a4d756347526d&fich=5d159d93-90a2-412a-a350-a8122cea24f3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo  - APAV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938305a444533597a5a6c4d4330304f444e6c4c545131593259744f4449304e4331685a5459335a4441324d5445325a5755756347526d&fich=4d17c6e0-483e-45cf-8244-ae67d06116ee.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-22",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d6a41794f44646d4d69316c597a686c4c5451774d545974595449784e7930354f544e6d596a5131596d466c59574d756347526d&fich=920287f2-ec8e-4016-a217-993fb45baeac.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-12-30",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d3259334d7a526c595330784e7a4d344c5451334f446774595759784d7930775a6d5578595442694e474d355a6d49756347526d&fich=53f734ea-1738-4788-af13-0fe1a0b4c9fb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-09",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e6a497a59324a6c4d4330774e7a45334c5451335a5451744f574a6c4e7930335a544d775a47566c4e446b334f5755756347526d&fich=1623cbe0-0717-47e4-9be7-7e30dee4979e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-17",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e6d5935596d4d305a69307a4e7a686a4c54526a596a6b744f5449355a6930304f4445344d474a6d4d6a55324d4463756347526d&fich=c6f9bc4f-378c-4cb9-929f-48180bf25607.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8393",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8393",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-12-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-02-17"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-01-09"
+          },
+          {
+            "link": "",
+            "nome": "APAV - Associação Portuguesa de Apoio à Vítima  em 2024-12-20"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2024-12-18"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2024-12-18"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2024-12-18"
+          },
+          {
+            "link": "",
+            "nome": "APAV - Associação Portuguesa de Apoio à Vítima  em 2024-12-18"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "7369",
+            "motivoCessacao": null,
+            "nome": "Vanessa Barata"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-01-22",
+            "dataRemessa": "2025-01-22",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "CDS-PP",
+              "PAN"
+            ],
+            "data": "2025-01-22",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> IL</I>, <I> BE</I>, <I> PCP</I><BR>Ausência: <I>L</I>, <I> CDS-PP</I>, <I> PAN</I>",
+            "id": "127962",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "56",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2024-12-17",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1580946",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020878",
+        "obs": null,
+        "pag": [
+          "3-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-22",
+        "pubLeg": "XVI",
+        "pubNr": "165",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/165/2025-01-22/3?pgs=3-6&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
