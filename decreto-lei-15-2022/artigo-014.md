@@ -14,10 +14,28 @@ b) Operacionalização das condições de ligação de centro eletroprodutor, UP
 
 4 - No caso de centros eletroprodutores que constituam aproveitamentos hidroelétricos e de centros eletroprodutores que utilizem como fonte primária energia não renovável, os prazos estabelecidos nos números anteriores são fixados pela entidade licenciadora, tendo como limite máximo seis anos.
 
-5 - Os prazos referidos nos números anteriores são, a pedido do requerente, prorrogáveis pela entidade licenciadora, por uma única vez, com o limite máximo de um ano, quando, por razões que não lhe são imputáveis, o prazo estabelecido se revele insuficiente, ou, sem limite, por despacho do membro do Governo responsável pela área da energia, em circunstâncias excecionais e mediante pedido do requerente devidamente justificado.
+5 - Os prazos referidos nos números anteriores são prorrogáveis, sem limite, por despacho do membro do Governo responsável pela área da energia, em circunstâncias excecionais e mediante pedido do requerente devidamente justificado, sem prejuízo do disposto no n.º 7.
 
 6 - No caso de centro eletroprodutor com licença de produção atribuída há pelo menos cinco anos e com regime de remuneração garantida, a prorrogação excecional por despacho do membro do Governo responsável pela área da energia prevista no número anterior implica a alteração do regime remuneratório atribuído ao centro eletroprodutor para a remuneração a um preço livremente determinado em mercados organizados ou através de contratos bilaterais, nos termos previstos no artigo 17.º
 
-7 - As peças do procedimento concorrencial para atribuição de título de capacidade de receção na RESP podem estabelecer prazos diversos para as situações previstas nos números anteriores.
+7 - Os procedimentos para a emissão das licenças de produção e de exploração não podem exceder, no seu conjunto, os seguintes limites:
 
-8 - O título de reserva de capacidade de injeção na RESP caduca se a licença de produção não for pedida no prazo estabelecido no n.º 1 ou se a emissão das licenças de produção e de exploração não ocorrer nos prazos estabelecidos, sem prejuízo das prorrogações que tenham sido concedidas.
+a) Dois anos, para os projetos de energias renováveis;
+
+b) Três anos, para os projetos de energias renováveis offshore.
+
+8 - Os prazos das licenças de produção e de exploração referidos no número anterior podem ser prorrogados por despacho do diretor-geral da DGEG, pelo período máximo de seis meses, mediante a verificação de circunstâncias extraordinárias decorrentes dos projetos, com impacto, designadamente, na segurança e fiabilidade da RESP.
+
+9 - Os requerentes são notificados, em sede de audiência dos interessados nos termos previstos no CPA, sobre a prorrogação dos prazos nos termos dos números anteriores.
+
+10 - Os prazos referidos no presente artigo não incluem os períodos:
+
+a) Para a construção dos centros eletroprodutores de energia renovável, incluindo as respetivas ligações à rede, e das infraestruturas conexas para garantir a estabilidade, fiabilidade e segurança da RESP;
+
+b) Do processo administrativo para as modernizações significativas da rede, para garantir a sua estabilidade, fiabilidade e segurança;
+
+c) Dos processos para a impugnação, administrativa ou judicial, de decisão, ato ou omissão ao cumprimento do disposto no presente decreto-lei.
+
+11 - As peças do procedimento concorrencial para atribuição de título de capacidade de receção na RESP podem estabelecer prazos diversos para as situações previstas nos números anteriores.
+
+12 - O título de reserva de capacidade de injeção na RESP caduca se a licença de produção não for pedida no prazo estabelecido no n.º 1 ou se a emissão das licenças de produção e de exploração não ocorrer nos prazos estabelecidos, sem prejuízo das prorrogações que tenham sido concedidas.

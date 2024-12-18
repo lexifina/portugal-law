@@ -88,15 +88,17 @@ ll) «Grau de eletrointensidade» o indicador obtido pelo quociente entre o cons
 
 mm) «Grupo gerador» o conjunto constituído pela caldeira, turbina, gerador e transformador, no caso dos centros eletroprodutores termoelétricos, e o conjunto constituído pelo circuito hidráulico, turbina, gerador e transformador, no caso dos centros eletroprodutores hidroelétricos;
 
-nn) «Hibridização» a adição a centro eletroprodutor ou UPAC já existente de novas unidades de produção que utilizem diversa fonte primária de energia renovável, sem alterar a capacidade de injeção do centro eletroprodutor ou UPAC preexistente;
+nn) «Hibridização» a adição a centro eletroprodutor ou UPAC, com licença de produção, registo prévio ou comunicação prévia, de novas unidades de produção que utilizem diversa fonte primária de energia renovável ou de novas unidades de armazenamento, sem alterar a capacidade de injeção do centro eletroprodutor ou UPAC preexistente;
 
 oo) «Híbrido» o centro eletroprodutor ou UPAC que, no procedimento de controlo prévio, apresenta em simultâneo mais do que uma unidade de produção que utiliza diversas fontes primárias de energia renováveis;
 
 pp) «Infraestruturas das redes inteligentes» os sistemas destinados à monitorização e controlo de dados e informação relativos aos ativos da RNT e RND e redes de distribuição em baixa tensão que favoreçam a gestão da infraestrutura do SEN, incluindo os contadores inteligentes;
 
-qq) «Instalação de armazenamento» uma instalação onde a energia é armazenada, podendo esta ser autónoma quando tenha ligação direta à RESP e não esteja associada a centro eletroprodutor ou UPAC, excluindo as instalações de armazenamento que integrem a instalação elétrica da instalação de utilização;
+qq) «Instalação de armazenamento», uma instalação onde a energia é armazenada, em cujo âmbito se inclui:
 
-rr) «IU» uma instalação elétrica de utilização;
+i) O armazenamento autónomo, quando a instalação tenha ligação direta à RESP e não esteja associada a centro eletroprodutor ou UPAC; ou
+
+ii) O armazenamento colocalizado, quando uma instalação de armazenamento se encontre combinada com um centro eletroprodutor de fonte renovável ou UPAC, ligados no mesmo ponto de acesso à rede;
 
 ss) «Ligação à rede» os elementos da rede que permitem que um determinado centro eletroprodutor, IU, UPAC ou instalação de armazenamento se ligue fisicamente às infraestruturas de transporte ou distribuição de eletricidade da RESP;
 
@@ -124,7 +126,7 @@ ddd) «Potência de ligação» a potência máxima autorizada de injeção na r
 
 eee) «Potência garantida aparente» valor de potência que assume um valor igual à potência de ligação, com exceção das fontes de energia eólica e solar, em que se considera 10 %, e hídrica, em que se considera 30 % da potência de ligação;
 
-fff) «Potência instalada» a potência ativa e aparente, em kW e kVA, dos equipamentos de produção de eletricidade ou de instalação de armazenamento autónomo, considerando-se, no caso de centros eletroprodutores solares ou de armazenamento autónomo com recurso a baterias, a potência nominal de saída dos inversores em kW e kVA e respetivos inversores, fixada no procedimento de controlo prévio;
+fff) «Potência instalada», a potência ativa e aparente, em kW e kVA, dos equipamentos de produção de eletricidade ou de instalação de armazenamento, considerando-se, no caso de centros eletroprodutores solares ou de armazenamento com recurso a baterias, a potência nominal de saída dos inversores em kW e kVA e respetivos inversores, fixada no procedimento de controlo prévio;
 
 ggg) «Rede Elétrica de Serviço Público» ou «RESP» o conjunto das instalações de serviço público destinadas ao transporte e à distribuição de eletricidade que integram a RNT, a RND e as redes de distribuição em BT;
 
@@ -136,7 +138,7 @@ jjj) «Rede nacional de transporte de eletricidade» ou «RNT» a rede nacional 
 
 kkk) «Redes municipais de distribuição de eletricidade em BT» as redes municipais de distribuição de eletricidade em BT, no continente, conforme definido nas bases das concessões da rede de distribuição de eletricidade em BT, constante no anexo iv do presente decreto-lei e do qual faz parte integrante;
 
-lll) «Reequipamento» a substituição total ou parcial dos equipamentos geradores do centro eletroprodutor de fonte primária renovável, sem alteração do polígono de implantação do centro eletroprodutor preexistente;
+lll) «Reequipamento», a substituição total ou parcial dos equipamentos geradores do centro eletroprodutor de fonte primária renovável, sem alteração da área de implantação do centro eletroprodutor preexistente;
 
 mmm) «Segurança do abastecimento» a capacidade de o sistema elétrico cobrir, de forma adequada, a procura de eletricidade dos clientes finais;
 
@@ -157,3 +159,5 @@ ttt) «Sobre-equipamento autónomo» o sobre-equipamento separado juridicamente 
 uuu) «Transporte» a veiculação de eletricidade, numa rede interligada de MAT e de AT, para entrega ao distribuidor ou ao cliente final, excluindo a comercialização;
 
 vvv) «Unidade de produção para autoconsumo» ou «UPAC» uma ou mais unidades de produção que tem como fonte primária a energia renovável, incluindo ou não instalações de armazenamento de energia, associada(s) a uma ou várias IU, destinada primordialmente à satisfação de necessidades próprias de abastecimento de energia elétrica, que sejam instaladas nessa(s) IU e/ou na proximidade da(s) IU que abastecem, podendo ser propriedade de e/ou geridas por terceiro(s).
+
+www) «Territórios de baixa densidade» aqueles que se encontram identificados por portaria dos membros do governo responsáveis pela área da energia e da coesão territorial.

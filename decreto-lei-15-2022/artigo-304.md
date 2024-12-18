@@ -2,7 +2,7 @@
 
 ### Aplicação no espaço
 
-1 - O presente decreto-lei aplica-se em todo o território e espaço marítimo nacional, sem prejuízo do disposto no capítulo xix e no número seguinte.
+1 - O presente decreto-lei aplica-se em todo o território e espaço marítimo nacional, sem prejuízo do disposto no capítulo xx e no número seguinte.
 
 2 - Salvo menção expressa no presente decreto-lei, as referências à organização, ao funcionamento e ao regime das atividades que integram o SEN reportam-se ao continente.
 

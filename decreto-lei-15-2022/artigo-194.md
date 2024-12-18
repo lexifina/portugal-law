@@ -10,8 +10,8 @@ b) Ao grau de eletrointensidade.
 
 2 - Sem prejuízo do disposto no número anterior, a obtenção do Estatuto do Cliente Eletrointensivo depende, ainda, dos seguintes requisitos cumulativos:
 
-a) Integração nos setores de atividade identificados no anexo 3 ou anexo 5 da Comunicação da Comissão Europeia 2014/C 200/01 sobre as «Orientações relativas a auxílios estatais à proteção ambiental e à energia 2014-2020»;
+a) Integração nos setores de atividade identificados no anexo 1 da Comunicação da Comissão Europeia 2022/C 80/01 sobre as ‘Orientações relativas a auxílios estatais à proteção do clima e do ambiente e à energia 2022’;
 
-b) Ligação à rede de MAT, AT ou MT;
+b) Ligação à RESP;
 
 c) Cumprimento dos requisitos estabelecidos no âmbito do CELE ou do Sistema de Gestão dos Consumos Intensivos de Energia, em conformidade com o disposto nos respetivos regimes jurídicos.

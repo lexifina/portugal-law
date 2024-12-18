@@ -43,3 +43,23 @@ i) Quando a alteração da localização da instalação implicar nova pronúnci
 9 - A alteração da titularidade do registo até à emissão do certificado de exploração segue o disposto no artigo 36.º com as necessárias adaptações, excetuando os casos de autoconsumo.
 
 10 - A operacionalização do procedimento de registo prévio, bem como as normas técnicas aplicáveis e os documentos instrutórios necessários são aprovados por despacho do diretor-geral da DGEG, após audição dos operadores da RESP, no prazo de 30 dias após a publicação do presente decreto-lei, e são publicitados no sítio na Internet da DGEG.
+
+11 - Os procedimentos de registo prévio não podem exceder, no seu conjunto, os seguintes limites:
+
+a) De um mês, para as unidades de produção de fonte solar com uma potência instalada igual ou inferior a 100 kW;
+
+b) De três meses, para as restantes unidades de produção de fonte solar e armazenamento de energia, incluindo as unidades integradas em edifícios e em estruturas artificiais, com exceção das superfícies de massas de água artificiais;
+
+c) De dois anos, para o reequipamento dos projetos de energias renováveis offshore.
+
+12 - Nos termos e para os efeitos do disposto na alínea a) do número anterior:
+
+a) Os prazos referidos nos n.os 1, 2, 3 e 7 são reduzidos para metade;
+
+b) Na falta de emissão da decisão no prazo determinado para o procedimento de registo prévio, ocorre o deferimento tácito, contanto que a potência instalada não exceda a capacidade existente de ligação à rede de distribuição.
+
+13 - O disposto na alínea b) do n.º 11 aplica-se desde que o objetivo principal das referidas estruturas artificiais não consista na conversão de energia solar ou no armazenamento de energia.
+
+14 - O prazo referido na alínea c) do n.º 11 pode ser prorrogado, por despacho do diretor-geral da DGEG, pelo período máximo de três meses, mediante a verificação fundamentada de circunstâncias extraordinárias decorrentes dos projetos.
+
+15 - Os requerentes são notificados, em sede de audiência dos interessados nos termos previstos no Código do Procedimento Administrativo, sobre a prorrogação dos prazos nos termos do número anterior.

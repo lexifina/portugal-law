@@ -34,8 +34,10 @@ e) Outros apoios, designadamente os encargos com a remuneração dos terrenos do
 
 8 - Para garantir a estabilidade tarifária no cálculo das tarifas anuais, a ERSE pode repercutir os CIEG nos proveitos a recuperar pelas empresas reguladas num período máximo de cinco anos.
 
-9 - A parcela de proveitos permitidos, resultantes da diferença entre os proveitos permitidos em cada ano e os resultantes da repercussão em anos seguintes dos CIEG referidos no número anterior, deve ser identificada como ajustamento tarifário e suscetível de ser transmitida nos termos previstos no artigo seguinte.
+9 - A isenção dos CIEG prevista no artigo 195.º não inclui os montantes decorrentes dos mecanismos de capacidade, nos termos do artigo 100.º
 
-10 - A transferência intertemporal de proveitos referida nos números anteriores deve ser compensada pela aplicação de uma taxa de remuneração, a definir por portaria do membro do Governo responsável pela área da energia, ouvida a ERSE.
+10 - A parcela de proveitos permitidos, resultantes da diferença entre os proveitos permitidos em cada ano e os resultantes da repercussão em anos seguintes dos CIEG referidos no número anterior, deve ser identificada como ajustamento tarifário e suscetível de ser transmitida nos termos previstos no artigo seguinte.
 
-11 - A taxa de remuneração referida no número anterior considera o equilíbrio económico e financeiro das atividades reguladas e o prazo associado à recuperação integral dos proveitos permitidos que são objeto de alisamento.
+11 - A transferência intertemporal de proveitos referida nos números anteriores deve ser compensada pela aplicação de uma taxa de remuneração, a definir por portaria do membro do Governo responsável pela área da energia, ouvida a ERSE.
+
+12 - A taxa de remuneração referida no número anterior considera o equilíbrio económico e financeiro das atividades reguladas e o prazo associado à recuperação integral dos proveitos permitidos que são objeto de alisamento.

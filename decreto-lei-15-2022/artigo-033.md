@@ -14,7 +14,7 @@
 
 a) Declaração de conformidade de execução, assinada pelo responsável pela execução e pela entidade instaladora que ateste que a instalação está concluída e preparada para operar de acordo com o projeto aprovado e em observância das condições integradas na decisão final de atribuição da respetiva licença de produção, bem como, se for caso disso, que as alterações efetuadas estão em conformidade com as normas legais e regulamentares que lhe são aplicáveis;
 
-b) De parecer do operador da rede competente com indicação de que estão reunidas as condições de ligação e injeção de energia na rede, designadamente as previstas no Regulamento (UE) 2016/631 da Comissão, de 14 de abril de 2016, e da Portaria n.º 73/2020, de 16 de março, quando aplicáveis, salvo se, quando lhe for solicitada a pronúncia, este indicar que se pronuncia no relatório de vistoria referido no artigo seguinte;
+b) De parecer do operador da rede competente com indicação de que estão reunidas as condições de ligação e injeção de energia na rede, designadamente as previstas no Regulamento (UE) 2016/631 da Comissão, de 14 de abril de 2016, e da Portaria n.º 73/2020, de 16 de março, quando aplicáveis, salvo se, quando lhe for solicitada a pronúncia, este indicar que se pronuncia no relatório de vistoria, devendo, nesse caso, ser entregue o relatório de vistoria em substituição do parecer.
 
 c) De parecer favorável do gestor global do SEN, se não tiver sido consultado nos termos previstos no artigo 26.º;
 
@@ -22,7 +22,7 @@ d) Prova da celebração do seguro de responsabilidade civil;
 
 e) Documento comprovativo da disponibilidade dos terrenos para a instalação do centro eletroprodutor, UPAC ou instalação de armazenamento nos termos do disposto no anexo i do presente decreto-lei.
 
-4 - O pedido é liminarmente rejeitado se não estiver instruído com os elementos previstos no número anterior, à exceção do previsto na alínea b), que pode ser substituído pelo relatório de vistoria.
+4 - O pedido é rejeitado se não estiver instruído com os elementos previstos no número anterior e se o requerente não os entregar no prazo máximo de 10 dias após solicitação da DGEG.
 
 5 - Estando o pedido devidamente instruído, a entidade licenciadora profere decisão sobre o pedido de licença de exploração no prazo de 10 dias contados da receção do relatório da vistoria, notificando-a ao requerente, ao operador da rede e ao gestor global do SEN.
 

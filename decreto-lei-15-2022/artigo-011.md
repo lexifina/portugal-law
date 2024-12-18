@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Produção e armazenamento de eletricidade
+
 ## Secção I
 
 ## Controlo prévio
@@ -14,9 +18,9 @@ a) A produção de eletricidade a partir de fontes de energia não renováveis;
 
 b) A produção de eletricidade a partir de fontes de energia renováveis para injeção total na RESP ou para autoconsumo com potência instalada superior a 1 MW;
 
-c) O armazenamento autónomo de eletricidade com potência instalada superior a 1 MW;
+c) O armazenamento de eletricidade com potência instalada superior a 1 MW;
 
-d) A produção ou o armazenamento autónomo quando sujeitos ao procedimento de avaliação de impacte ambiental (AIA) ou de avaliação de incidências ambientais, nos termos da legislação aplicável;
+d) A produção ou o armazenamento quando sujeitos ao procedimento de avaliação de impacte ambiental (AIA) ou de avaliação de incidências ambientais, nos termos da legislação aplicável;
 
 e) As atividades de produção e armazenamento de eletricidade não referidas nos n.os 3, 4 e 5.
 
@@ -26,7 +30,7 @@ a) A produção de eletricidade a partir de fontes de energia renováveis para i
 
 b) A produção de eletricidade para autoconsumo com potência instalada superior a 30 kW e igual ou inferior a 1 MW;
 
-c) O armazenamento autónomo de eletricidade com potência instalada igual ou inferior a 1 MW;
+c) O armazenamento de eletricidade com potência instalada igual ou inferior a 1 MW;
 
 d) Projetos de investigação e desenvolvimento, demonstração e teste, em ambiente real, de tecnologias, produtos, serviços, processos e modelos inovadores, no âmbito das atividades de produção, armazenamento e autoconsumo com capacidade instalada superior a 30 kW.
 

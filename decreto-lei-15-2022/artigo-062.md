@@ -1,6 +1,6 @@
-## Capítulo II
+## Secção XI
 
-## Produção e armazenamento de eletricidade
+## Sobre-equipamento, reequipamento, híbridos e hibridização
 
 # Artigo 62.º
 
@@ -8,6 +8,12 @@
 
 1 - O sobre-equipamento e o reequipamento de centro eletroprodutor constituem uma alteração não substancial do título de controlo prévio preexistente e seguem o procedimento estabelecido para a respetiva alteração.
 
-2 - O sobre-equipamento e reequipamento podem ser requeridos após a emissão da licença de produção ou título de registo prévio e previamente à emissão da licença de exploração ou certificado de exploração não constituindo, neste caso, um procedimento autónomo de alteração do título de controlo prévio, ficando sujeito a averbamento.
+2 - O procedimento de controlo prévio referido no número anterior não pode exceder o limite de um ano, a contar do respetivo pedido, para o reequipamento de centros eletroprodutores de energia renovável e para as instalações de armazenamento de energia, bem como para as respetivas infraestruturas de ligação.
 
-3 - O reequipamento de centro eletroprodutor de fonte primária solar ou eólica não está sujeito ao procedimento de AIA estabelecido no regime jurídico de AIA, independentemente de o centro eletroprodutor ter sido, ou não, submetido àquele procedimento, desde que, no caso de centros eletroprodutores de fonte primária eólica, não haja aumento do número de torres de centro eletroprodutor a reequipar.
+3 - O prazo referido no número anterior pode ser prorrogado por despacho do diretor-geral da DGEG, pelo período máximo de três meses, mediante a verificação fundamentada de circunstâncias extraordinárias decorrentes dos projetos, com impacto, designadamente, na segurança e fiabilidade da RESP.
+
+4 - Para o efeito do presente artigo aplica-se, com as necessárias adaptações, o disposto no n.º 9 do artigo 14.º e nos n.os 2 e 3 do artigo 42.º, na redação introduzida pelo presente decreto-lei.
+
+5 - O sobre-equipamento e reequipamento podem ser requeridos após a emissão da licença de produção ou título de registo prévio e previamente à emissão da licença de exploração ou certificado de exploração não constituindo, neste caso, um procedimento autónomo de alteração do título de controlo prévio, ficando sujeito a averbamento.
+
+6 - O reequipamento de centro eletroprodutor de fonte primária solar ou eólica não está sujeito a procedimento de apreciação prévia e decisão de sujeição a AIA, ou a procedimento de AIA estabelecidos no respetivo regime jurídico.

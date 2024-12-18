@@ -19,3 +19,7 @@
 6 - A autorização da alteração da licença de produção é sempre comunicada ao titular da licença, às entidades que se tenham pronunciado no âmbito da licença alterada, ou no âmbito do procedimento de alteração, ao respetivo operador de rede e, quando justificado, ao gestor global do SEN.
 
 7 - Não constituem alterações à licença de produção as telas finais que contêm as alterações efetuadas em obra e decorrentes da execução do projeto, as quais são averbadas à licença de produção.
+
+8 - Sem prejuízo do disposto nos números anteriores, o procedimento relativo ao reequipamento de centro eletroprodutor de energia renovável que não dê origem a um aumento da respetiva potência instalada superior a 20 % não pode exceder o período de três meses a contar da data da apresentação do pedido para o efeito.
+
+9 - O disposto no número anterior não se aplica nos casos de reserva fundamentada sobre a segurança e/ou incompatibilidades técnicas e nem prejudica o cumprimento da legislação aplicável à avaliação de impacte ambiental.
