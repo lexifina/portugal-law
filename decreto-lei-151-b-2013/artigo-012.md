@@ -10,7 +10,7 @@
 
 ### Definição do âmbito do EIA
 
-1 - O proponente pode apresentar à autoridade de AIA, previamente ao início do procedimento de AIA, uma PDA do EIA.
+1 - O proponente pode apresentar à autoridade de AIA, previamente ao início do procedimento de AIA, uma PDA do EIA, exceto no caso de centros eletroprodutores de energia renovável e infraestruturas conexas, para os quais a apresentação da PDA é obrigatória.
 
 2 - A PDA do EIA, acompanhada de uma declaração de intenção de realizar o projeto, contém uma descrição sumária do tipo, características e localização do mesmo, devendo observar as normas técnicas fixadas em portaria do membro do Governo responsável pela área do ambiente, ouvidos os responsáveis pelas áreas de tutela dos projetos abrangidos pelo presente decreto-lei.
 
