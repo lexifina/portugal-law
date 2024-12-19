@@ -1,0 +1,16 @@
+# Resolução do Conselho do Governo Regional n.º 1253/2024
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 209/2024, 3.º suplemento, de 2024-12-19
+
+**Sumário:** Aprova a missão EMIR no Porto Santo para o ano de 2025.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1253/2024
+Sumário: Aprova a missão EMIR no Porto Santo para o ano de 2025.
+Texto: Resolução n.º 1253/2024 Considerando que a presença da EMIR na ilha do Porto Santo é um importante meio de promoção da emergência préhospitalar mais especializada e de colaboração com os diversos agentes de proteção civil, conseguindo uma maior otimização dos recursos disponíveis na ilha de Porto Santo; Considerando que a articulação com o sistema de saúde local, nomeadamente, no que diz respeito à estreita colaboração com os profissionais do Centro de Saúde, relativo à discussão, seguimento e orientação dos doentes, tem representado um mútuo enriquecimento, refletindo-se numa redução efetiva da transferência de doentes para a ilha da Madeira, sem prejuízo da qualidade dos cuidados prestados, com tudo o que de positivo representa para o nosso sistema de saúde, quer na contenção dos custos globais inerentes a essas transferências, quer na redução da sobrecarga do serviço de urgência do Hospital Nélio Mendonça, cujos principais beneficiados são os próprios doentes; Considerando que é um desígnio do Governo Regional a permanência, todo o ano, de uma equipa da EMIR, na ilha do Porto Santo; Considerando que a permanência de técnicos de saúde altamente diferenciados, durante todo o ano, veio permitir desenvolver ações de informação e sensibilização à população, em coordenação com as autoridades locais e a manutenção dos níveis de certificação aos bombeiros do corpo de bombeiros do Porto Santo; Considerando que a intervenção da EMIR no Porto Santo só é possível desde que exista o apoio conjunto de várias instituições, nomeadamente, o Centro de Saúde do Porto Santo e a Associação Humanitária dos Bombeiros Voluntários do Porto Santo. Assim, importa replicar para o ano de 2025 o modelo implementado nos anos anteriores, com os ajustamentos propostos nos relatórios das missões anteriores, no sentido de continuar a proporcionar os melhores e mais adequados procedimentos no âmbito da emergência pré-hospitalar aos residentes e a todos quantos visitam a ilha do Porto Santo. O Conselho do Governo reunido extraordinariamente em plenário em 16 de dezembro de 2024, resolve:
+
+1. Aprovar a missão EMIR no Porto Santo para o ano de 2025. 2. Que os encargos decorrentes da missão da EMIR no Porto Santo 2025 estão estimados em € 826.135,20 (oitocentos e vinte e seis mil, cento e trinta e cinco euros e vinte cêntimos) e encontram-se previstos na rubrica orçamental D.01.01.09.A0.00 e D.01.03.05.A0.B0, na fonte de financiamento 311, do orçamento do Serviço Regional de Proteção Civil, IP-RAM. 3. Que estes encargos contemplam, para além da remuneração da EMIR, constituída por um médico e um enfermeiro em permanência, os encargos associados à sua operacionalidade, designadamente, as deslocações do pessoal, dos equipamentos e das refeições. 4. Determinar que o objeto da presente Resolução entra em vigor no dia 1 de janeiro de 2025.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
