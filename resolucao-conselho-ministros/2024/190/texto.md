@@ -1,0 +1,23 @@
+Resolução do Conselho de Ministros n.º 190/2024
+
+Nos termos do disposto no artigo 5.º do Decreto-Lei n.º 37/2007, de 19 de fevereiro, alterado pelas Leis n.<sup>os </sup>109/2015, de 26 de agosto, e 63/2017, de 3 de agosto, pelo Decreto-Lei n.º 9/2021, de 29 de janeiro, e pela Lei n.º 5/2024, de 15 de janeiro, a contratação de bens e serviços, pelas entidades compradoras, deve ser efetuada, preferencialmente, de forma centralizada, pela Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), ou pelas unidades ministeriais de compras (UMC), através, designadamente, da celebração de contratos quadro ou de outros contratos públicos, tendo por objeto obras, bens móveis ou serviços destinados a entidades públicas adquirentes.
+Numa ótica de rentabilização e de racionalização dos meios e recursos, foram cometidas à Secretaria-Geral do Ministério da Administração Interna (SGMAI) as competências relacionadas com a UMC do MAI, conforme disposto no Decreto Regulamentar n.º 29/2012, de 13 de março, que aprova a orgânica da SGMAI alterado pelos Decretos-Leis n.<sup>os </sup>161-A/2013, de 2 de dezembro, 112/2014, de 7 de novembro, e 33/2018, de 15 de maio.
+Através do Despacho n.º 8846/2011, publicado no Diário da República, 2.ª série, n.º 127, de 5 de julho de 2011, a UMC-MAI assume, nos termos previstos no n.º 1 do artigo 5.º do Decreto-Lei n.º 37/2007, de 19 de fevereiro, na sua redação atual, a condução dos procedimentos de contratação que tenham por objeto a aquisição de bens ou serviços abrangidos nas categorias identificadas na lista anexa ao referido despacho, designadamente os serviços de cópia e impressão.
+A Guarda Nacional Republicana (GNR) solicitou à SGMAI a dispensa de integração do procedimento centralizado, visando encetar as diligências para a realização do procedimento atinente à aquisição dos referidos serviços.
+Destarte, e considerando que, atualmente, não se encontra em vigor o Acordo Quadro para aquisição de serviços de cópia e impressão, para garantir a continuidade deste serviço e atendendo a que o contrato atualmente em vigor cessa no corrente ano, torna-se necessário renovar o procedimento pré-contratual conducente a suprir as necessidades da GNR para o período 2025-2029, relativamente aos serviços de cópia e impressão em regime de outsourcing, sendo o encargo estimado de € 5 173 324,75, ao qual acresce imposto sobre o valor acrescentado à taxa legal em vigor.
+Atendendo ao valor da despesa e ao facto do contrato a celebrar dar lugar a um encargo orçamental em mais de um ano económico, é necessário obter a prévia autorização através de resolução do Conselho de Ministros.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os </sup>1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, da sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 20.º, do n.º 1 do artigo 36.º e dos artigos 38.º e 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Guarda Nacional Republicana (GNR) a realizar a despesa com a aquisição dos serviços de cópia e impressão em regime de outsourcing para o período compreendido entre 2025 e 2029, até ao montante global de € 5 173 324,75, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
+2 - Determinar que os encargos orçamentais resultantes da aquisição referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+a) 2025 - € 1 034 664,95;
+b) 2026 - € 1 034 664,95;
+c) 2027 - € 1 034 664,95;
+d) 2028 - € 1 034 664,95;
+e) 2029 - € 1 034 664,95.
+3 - Determinar que os montantes fixados para cada ano económico podem ser acrescidos do saldo apurado no ano que lhe antecede.
+4 - Estabelecer que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas inscritas e a inscrever na fonte de financiamento 311 - RI não afetas a projetos cofinanciados do orçamento da GNR.
+5 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da administração interna, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+6 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 5 de dezembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+118471454
