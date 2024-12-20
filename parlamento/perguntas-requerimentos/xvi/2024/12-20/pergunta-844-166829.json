@@ -1,0 +1,62 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eHNElB5sAbInrUM%2b1CK3%2bZZa4TA9qAQPFf3pu38QAyPkvnwic8govNMKXbQNlbs2hEipvp7d%2bJTZ%2fEXuaVMsqH8PlGbuSUTPJBr%2boVxdG6Kf2Zpi44%2ba27Oq89l7REdmP%2bBA3defOQ893NSOao0aChocF4k45AVxJ78%2btG0ohXUXuO4Y%2bZIZFToQ4LzcKH05JzQXytw36hhukfq%2bltX9tVH%2fVlxInE1L3MbA9QHVtWzJy2E50PzKMqJf9sR0coFCykSRfPL2oeoHIUYESHnHo%2fHCYD%2fRDx4nh7oswP9bNvADk1%2fZBmrNYYAnk5%2biW00Uj9L%2fJC8v1jUaGVk112b6gEmaJhYEl%2f9y1W4PzI%2bLZx6dSRM%2fC%2fObwkktGczrUJ2rprAZUQsqTvRFDaVKMu3Qf9t%2figaPEsyan6ofqGlcTcU%3d&fich=RequerimentosXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "910d45d7aabe22385422e83c29132f9174a497a7d21d709f9bd70bcef3f9c95f",
+  "legislatura": "XVI",
+  "id": "166829",
+  "tipo": "Pergunta",
+  "numero": "844",
+  "data_registo": "2024-12-20",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Nova Operação Policial no Martim Moniz",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "7040",
+        "nome": "Fabian Figueiredo"
+      }
+    ],
+    "DataEnvio": "2024-12-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2024-12-20",
+        "dataProrrogacao": "2025-02-07",
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministra da Administração Interna",
+        "prazoProrrogacao": null,
+        "prorrogado": "S",
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2025-03-31",
+            "docRemetida": null,
+            "entidade": "Ministra da Administração Interna",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c324d79597a63314d444e6c4c545a6d4d6a49744e4755794f4330344d7a59354c54466a4f4759345a6a686a596a59334d6935775a47593d&fich=c2c7503e-6f22-4e28-8369-1c8f8f8cb672.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2024-12-20",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c3249344f5455305a444d794c574535597a41744e4455345a6930354e4755304c574534596d51785a4445795a6d4d314d6935775a47593d&fich=b8954d32-a9c0-458f-94e4-a8bd1d12fc52.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "166829",
+    "Legislatura": "XVI",
+    "Nr": "844",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
