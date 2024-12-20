@@ -1,0 +1,15 @@
+# Artigo 9.º
+
+### Reposicionamento na tabela remuneratória e integração do suplemento remuneratório devido pelo exercício de funções de enfermeiro especialista e de funções de chefia
+
+1 - Na transição para a carreira especial de enfermagem prevista nos n.ºs 1 e 2 do artigo anterior, os trabalhadores enfermeiros são reposicionados na posição remuneratória da tabela constante do anexo i ao presente decreto-lei, de nível remuneratório não inferior ao da primeira posição da categoria para a qual transitam, correspondente ao somatório da remuneração base mensal a que atualmente têm direito e do suplemento remuneratório de função, consoante o caso, de enfermeiro especialista e de chefia, respetivamente, de (euro) 150 e de (euro) 200, auferidos nos termos do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril.
+
+2 - Sem prejuízo do disposto no número anterior, em caso de falta de identidade, os trabalhadores são reposicionados na posição remuneratória superior mais próxima ao valor apurado pela aplicação do número anterior.
+
+3 - Os enfermeiros titulares de categorias subsistentes que se encontrem nomeados em data anterior à entrada em vigor do presente decreto-lei para o exercício de funções de direção, nos termos previstos no artigo 18.º do Decreto-Lei n.º 248/2009, de 22 de setembro, na sua redação originária, mantêm o direito ao suplemento remuneratório no montante de (euro) 300, fixado no n.º 1 do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril, sendo posicionados na respetiva tabela remuneratória em função da remuneração base auferida, exceto no caso dos enfermeiros titulares das categorias subsistentes abrangidas pelo n.º 1 do artigo anterior, relativamente aos quais se considera, com efeitos à data da cessação das funções aqui salvaguardadas, o somatório da remuneração base mensal auferida acrescida do montante de (euro) 200.
+
+4 - Com exceção dos abrangidos pelo n.º 1 do artigo anterior, os enfermeiros que se encontrem nomeados em regime de comissão de serviço ou detenham um contrato em comissão de serviço para o exercício de funções de chefia, mantêm o direito ao suplemento remuneratório no montante de (euro) 200, fixado no n.º 1 do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril, até que venha a ser desenvolvido, e concluído, um procedimento de seleção destinado à ocupação do posto de trabalho para a categoria de enfermeiro gestor, cuja caraterização corresponda às funções que presentemente desenvolvem.
+
+5 - Para efeitos do disposto no n.º 3 do artigo anterior, os trabalhadores enfermeiros são posicionados na respetiva tabela remuneratória, em nível remuneratório não inferior ao da primeira posição da categoria de enfermeiro especialista para que transitam, correspondente ao somatório da remuneração base auferida acrescida do montante de 150 (euro).
+
+6 - Para efeitos do disposto no n.º 2, o acréscimo remuneratório resultante de alteração de posição remuneratória não pode ser inferior a 28 €.
