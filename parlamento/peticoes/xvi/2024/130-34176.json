@@ -1,0 +1,205 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34176",
+  "numero": "130",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-12-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-12-16",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-07-01",
+        "DataArquivo": "2025-12-16",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": "2025-12-17",
+        "DataReaberta": "2025-07-01",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-02-27",
+              "TipoDocumento": "Link",
+              "URL": "media.parlamento.pt/site/XVILEG/SL1/COM/11_CAENE/CAENE_20250227.mp3"
+            },
+            {
+              "DataDocumento": "2025-09-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d554e425257356c4c305276593356745a57353062334e515a585270593246764c7a5a6d4e7a4a6c4d7a6b314c544a6a4e474d744e47466b597931694d325a6c4c5449784e7a5a6d596a63355a54686d597935775a47593d&fich=6f72e395-2c4c-4adc-b3fe-2176fb79e8fc.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-12-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d554e425257356c4c305276593356745a57353062334e515a585270593246764c3255304d325a6b597a56684c5452695a5449744e44646c4f533168596a566b4c545a684e7a4d784e7a59774d4463304d7935775a47593d&fich=e43fdc5a-4be2-47e9-ab5d-6a7317600743.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8457",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Ambiente e Energia ",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-12-16",
+            "dataNomeacao": "2025-07-01",
+            "gp": "PSD",
+            "id": "9505",
+            "motivoCessacao": "entrega do Relatório",
+            "nome": "Rui Rocha Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-02-27",
+            "entidades": null,
+            "id": "159429",
+            "tipo": null,
+            "titulo": "Audição em 2025-02-27 com Peticionários da Petição 130/XVI/1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-02-04",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-01-10",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2025-02-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-02-27",
+              "TipoDocumento": "Link",
+              "URL": "https://media.parlamento.pt/site/XVILEG/SL1/COM/11_CAENE/CAENE_20250227.mp3"
+            },
+            {
+              "DataDocumento": "2025-02-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457851304646546b55765247396a6457316c626e52766331426c64476c6a595738764f445133595745324d5451744d6d4d334e533030596d51784c57457a5a6d59744e6d4535597a41354d574e6c4e5455314c6e426b5a673d3d&fich=847aa614-2c75-4bd1-a3ff-6a9c091ce555.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8403",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Ambiente e Energia ",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2025-02-04",
+            "gp": "CH",
+            "id": "9007",
+            "motivoCessacao": null,
+            "nome": "Raul Melo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-01-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a646a5a6a59334d47497a4c574d325a6d45744e4759794d6931685957466d4c545a6b597a51324d3255324e446b305a5335775a47593d&fich=7cf670b3-c6fa-4f22-aaaf-6dc463e6494e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2025-02-27",
+        "TipoDocumento": "Link",
+        "URL": "media.parlamento.pt%2Fsite%2FXVILEG%2FSL1%2FCOM%2F11_CAENE%2FCAENE_20250227.mp3"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34176",
+    "PetAssunto": "Pela imediata revogação/cancelamento da obra de reabilitação do Mercado Municipal e da Alameda Teixeira de Pascoaes, em Amarante",
+    "PetDataEntrada": "2024-12-20",
+    "PeticoesAssociadas": null,
+    "PetId": "34176",
+    "PetLeg": "XVI",
+    "PetNr": "130",
+    "PetNrAssinaturas": "26",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
