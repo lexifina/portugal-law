@@ -1,0 +1,1641 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "370",
+    "id": "304382",
+    "titulo": "Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2024-12-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40446",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2024-12-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "314392",
+        "leg": "XVI",
+        "nr": "377",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36617",
+            "obs": null,
+            "pag": [
+              "31-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-21",
+            "pubLeg": "XVI",
+            "pubNr": "71",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/31?pgs=31-53&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36617",
+            "obs": null,
+            "pag": [
+              "31-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-21",
+            "pubLeg": "XVI",
+            "pubNr": "71",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/31?pgs=31-53&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público assim como isenta os respetivos processos das Custas Processuais"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "304236",
+        "leg": "XVI",
+        "nr": "27",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36617",
+            "obs": null,
+            "pag": [
+              "31-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-21",
+            "pubLeg": "XVI",
+            "pubNr": "71",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/31?pgs=31-53&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36617",
+            "obs": null,
+            "pag": [
+              "31-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-12-21",
+            "pubLeg": "XVI",
+            "pubNr": "71",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/31?pgs=31-53&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Altera o Código Penal e o Regulamento de Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-12-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/30"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra da Administração Interna",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Margarida Blasco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413467",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/31"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413469",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8269",
+                "nome": "Armando Grave"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/32"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413470",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413472",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8269",
+                "nome": "Armando Grave"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/34"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413473",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413475",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413478",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/37"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413480",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/38"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413481",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21?org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/39"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413487",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7973",
+                "nome": "Mariana Leitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413488",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1132",
+                "nome": "António Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413491",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21?org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413492",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1132",
+                "nome": "António Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413493",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/50?pgs=50&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413494",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/50?pgs=50&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413495",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413496",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413497",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413498",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:04",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/71/58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra da Administração Interna",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Margarida Blasco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-21",
+                "pubLeg": "XVI",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Penal e o Regulamento das Custas Processuais, no sentido de reforçar o quadro penal relativo a crimes de agressão contra forças de segurança e outros agentes de serviço público; Garante a isenção das custas processuais, alterando o Regulamento das Custas Processuais; Reforça o enquadramento penal para os crimes de agressão contra forças de segurança e outros agentes de serviço público, assim como isenta os respetivos processos das custas processuais",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1580898",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1020552",
+        "obs": null,
+        "pag": [
+          "31-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-21",
+        "pubLeg": "XVI",
+        "pubNr": "71",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/071/2024-12-21/31?pgs=31-53&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
