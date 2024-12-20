@@ -1,0 +1,151 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "24",
+    "id": "304223",
+    "titulo": "Aprova o Estatuto da Carreira de Investigação Científica e o Regime comum das carreiras próprias de investigação científica em regime de direito privado"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2024-12-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "86318",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2024-12-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-02-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e6a59334e5752684e53316b5a444d7a4c545269596a6374596d52695a5330774f5759345a574e6a4d6a5177595451756347526d&fich=f6675da5-dd33-4bb7-bdbe-09f8ecc240a4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de alteração - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a44566b59324e694e4330304e5463334c5452684d324d744f4755355a6930314d6d4d315a544130596d55344d4451756347526d&fich=fd5dccb4-4577-4a3c-8e9f-52c5e04be804.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de alteração - IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794e54597a593255355a53316d5a4463324c54526a596d49744f47466c596930354d44457a5a4463344f4446694f5463756347526d&fich=2563ce9e-fd76-4cbb-8aeb-9013d7881b97.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a575a6d4d6d526b5a43316b4e6a6b784c54526c4e6a6b744f544e6c4f43316c59324a6a4d544e694e444d334e4455756347526d&fich=eeff2ddd-d691-4e69-93e8-ecbc13b43745.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Propostas de alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a6a4a6859544d784d69307a4e6a46684c54517a4e7a4574596a4d784f4331695a5759775a574e6c4d54526a5a5467756347526d&fich=ff2aa312-361a-4371-b318-bef0ece14ce8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Propostas de alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e7a6b7a4d7a557a5a43316b5a6a59314c5451345a6a41744f5467304e4330795a6d49794d6d566a4e4745335a6d4d756347526d&fich=b793353d-df65-48f0-9844-2fb22ec4a7fc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-05",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "7 - Propostas de alteração - CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e3249314d6a67315a4330314f4441344c5451345a6a41744f444d315a5330784e6a5a6a4e6a4e6b4d324530595749756347526d&fich=07b5285d-5808-48f0-835e-166c63d3a4ab.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de alteração - PS (PJL 180/XVI/1.ª (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d6a5a684e6a566b4e7930794e574a6a4c5451794e4445744f4459784e533034597a466d593251314d4441325a5455756347526d&fich=026a65d7-25bc-4241-8615-8c1fcd5006e5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de alteração - PSD (PJL 180/XVI/1.ª (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e6a4a694d32526a5a5330314e47517a4c5451794e546b74596a526a4e7930354d6a526b4f475268595467324d4459756347526d&fich=862b3dce-54d3-4259-b4c7-924d8daa8606.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de alteração - PCP (PJL 180/XVI/1.ª (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d546335596d59324d533077595745334c5452694f57597459544d305a53316d5a545930597a526d4d44597a4f5755756347526d&fich=8179bf61-0aa7-4b9f-a34e-fe64c4f0639e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a4451794d544d7a4f5331684e47526d4c54513359546b74596d4e6b4d793078597a49774d7a55784d325531596d45756347526d&fich=6d421339-a4df-47a9-bcd3-1c203513e5ba.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Anexo I - Registo de votações - ECIC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a684452554d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d7a4177597a6b324e79316b4e4449794c54526b5a47517459545177595330334e4445325a5467344d6a5134595751756347526d&fich=9300c967-d422-4ddd-a40a-7416e88248ad.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8400",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência ",
+        "Numero": "8400",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2024-12-20",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1581148",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
