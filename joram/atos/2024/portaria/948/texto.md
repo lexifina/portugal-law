@@ -1,0 +1,19 @@
+# Portaria n.º 948/2024
+
+**Emissor:** SECRETARIAS REGIONAIS DAS FINANÇAS E DE EQUIPAMENTOS E INFRAESTRUTURAS
+
+**Publicação:** JORAM, I série, n.º 211/2024, de 2024-12-23
+
+**Sumário:** Redistribui os encargos orçamentais da Portaria n.º 870/2022, de 30 de novembro, publicada no Jornal Oficial, I Série n.º 214, alterada pela Portaria n.º 1147/2023, de 29 de dezembro, publicada no 3.º Suplemento do Jornal Oficial, I Série, n.º 238, referente ao “Contrato de Aquisição de Serviços a celebrar com Pessoa Singular Contratação de Mandatário Judicial no âmbito da Ação Administrativa n.º 274/19.3BEFUN”, no valor global máximo de 4.000,00 €.
+
+## Texto
+
+Portaria n.º 948/2024
+de 23 de dezembro
+Sumário: Redistribui os encargos orçamentais da Portaria n.º 870/2022, de 30 de novembro, publicada no Jornal Oficial, I Série n.º 214, alterada pela Portaria n.º 1147/2023, de 29 de dezembro, publicada no 3.º Suplemento do Jornal Oficial, I Série, n.º 238, referente ao “Contrato de Aquisição de Serviços a celebrar com Pessoa Singular - Contratação de Mandatário Judicial no âmbito da Ação Administrativa n.º 274/19.3BEFUN”, no valor global máximo de 4.000,00 €.
+Texto: Dando cumprimento ao disposto nos números 1 e 2, do artigo 22.º, do Decreto-Lei n.º 197/99, de 8 de junho, por referência à alínea f) do n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, e pelo n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, e para efeitos do artigo 33.º do Decreto Legislativo Regional n.º 6/2024/M, de 29 de julho, manda o Governo Regional pelo Secretário Regional das Finanças e pelo Secretário Regional de Equipamentos e Infraestruturas, o seguinte: 1. Redistribuir os encargos orçamentais da Portaria n.º 870/2022, publicada no JORAM I série n.º 214, de 30 de novembro, alterada pela Portaria n.º 1147/2023, publicada no JORAM I série n.º 238, de 29 de dezembro, referente ao “Contrato de Aquisição de Serviços a celebrar com Pessoa Singular - Contratação de Mandatário Judicial no âmbito da Ação Administrativa n.º 274/19.3BEFUN”, no valor global máximo de 4.000,00€ (quatro mil euros), ao qual acresce de IVA à taxa legal em vigor, que passam a ficar escalonados na forma abaixo indicada:
+Ano económico de 2019 ......................................................................................... 850,00€ Ano económico de 2020 ............................................................................................. 0,00€ Ano económico de 2021 ............................................................................................. 0,00€ Ano económico de 2022 ............................................................................................. 0,00€ Ano económico de 2023 ............................................................................................. 0,00€ Ano económico de 2024 ............................................................................................. 0,00€ Ano económico de 2025 ...................................................................................... 3.150,00€
+2. A importância fixada para cada ano económico poderá ser acrescida do saldo apurado no ano anterior. 3. A despesa prevista para 2025 será acautelada no orçamento do respetivo ano. 4. A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretaria Regional das Finanças e Secretaria Regional de Equipamentos e Infraestruturas, assinada em 17 de dezembro de 2024.
+PEL'O SECRETÁRIO REGIONAL DAS FINANÇAS, Jorge Maria Abreu de Carvalho
+O SECRETÁRIO REGIONAL DE EQUIPAMENTOS E INFRAESTRUTURAS, João Pedro Castro Fino
