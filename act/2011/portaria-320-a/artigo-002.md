@@ -30,9 +30,9 @@ l) Direção de Serviços Técnicos, Análises e Laboratório;
 
 m) Direção de Serviços de Registo de Contribuintes;
 
-n) Direção de Serviços de Cobrança;
+n) Direção de Serviços de Cobrança e de Gestão de Fluxos Financeiros;
 
-o) Direção de Serviços de Reembolsos;
+o) (Revogada.)
 
 p) Direção de Serviços de Contabilidade e Controlo;
 

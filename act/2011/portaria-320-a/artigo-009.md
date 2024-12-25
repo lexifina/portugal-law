@@ -33,3 +33,9 @@ l) Atribuir benefícios em sede de IVA às representações diplomáticas, aos o
 m) Proceder ao cálculo dos juros compensatórios, quando devidos;
 
 n) Coordenar a matéria relativa às garantias respeitante ao tributo que administra, elaborando e difundindo as respetivas instruções.
+
+o) Assegurar os procedimentos relativos aos reembolsos e restituições do IVA, incluindo o pagamento de juros indemnizatórios e outras compensações;
+
+p) Promover os reembolsos do IVA aos contribuintes não estabelecidos em Portugal;
+
+q) Analisar os pedidos de reembolsos do IVA e propor às unidades orgânicas com competências de inspeção a realização das ações de controlo inspetivo que se mostrem necessárias.
