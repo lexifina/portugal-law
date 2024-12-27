@@ -1,0 +1,8 @@
+Aviso n.º 29216/2024/2
+
+Consulta Pública do Projeto do Regulamento do Sistema Tarifário do Transporte Público Coletivo Rodoviário de Passageiros do Município da Trofa
+Presidente da Câmara Municipal da Trofa, António da Costa Azevedo, torna público que a Câmara Municipal da Trofa, na sua reunião ordinária de vinte e oito de novembro de dois mil e vinte e quatro, deliberou dar início ao procedimento referente à aprovação do Regulamento do Sistema Tarifário do Transporte Público Coletivo Rodoviário de Passageiros do Município da Trofa.
+Nos termos e para efeitos do preceituado no n.º 3 do artigo 101.º do Código do Procedimento Administrativo, o projeto do Regulamento do Sistema Tarifário do Transporte Público Coletivo Rodoviário de Passageiros do Município da Trofa encontra-se disponível para consulta pública durante 30 dias, com início no dia útil seguinte à publicação do presente aviso na 2.ª série do Diário da República, nos Paços de Concelho da Trofa, sito na Praça do Município, 480 - 4785-205 e no sítio da Internet (www.mun-trofa.pt).
+Assim, convidam-se todos os interessados a apresentarem eventuais observações, sugestões e pedidos de esclarecimentos, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente ao Exmo. Sr. Presidente da Câmara da Trofa e realizadas por uma das seguintes formas: apresentadas presencialmente nos Paços de Concelho da Trofa, por via postal para a Praça do Município, 480 - 4785-205 Trofa ou por via eletrónica para geral@mun-trofa.pt.
+13 de dezembro de 2024. - O Presidente da Câmara Municipal da Trofa, António da Costa Azevedo.
+318470555
