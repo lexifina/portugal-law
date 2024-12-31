@@ -1,0 +1,13 @@
+Visto e aprovado em Conselho de Ministros de 8 de abril de 2022. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro - Maria do Céu de Oliveira Antunes.
+
+Promulgado em 14 de abril de 2022.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 18 de abril de 2022.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115234912
