@@ -6,4 +6,4 @@
 
 2 - A BEP - Açores é de consulta directa, possibilitando o acesso à estrutura de informação referida no artigo 7.º
 
-3 - A informação individual constante do n.º 1 do artigo 8.º é de acesso restrito aos serviços e entidades referidos no artigo 3.º
+3 - A informação individual constante dos n.os 1 e 3 do artigo 8.º é de acesso restrito aos serviços e entidades referidos no artigo 3.º
