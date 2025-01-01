@@ -2,4 +2,4 @@
 
 ### Acções de controlo
 
-A Inspecção-Geral de Finanças realiza auditorias para avaliar a forma como os serviços procedem à aplicação dos subsistemas de avaliação do desempenho.
+A realização de auditorias à aplicação dos subsistemas de avaliação do desempenho compete às entidades de controlo das diferentes áreas governativas e, cumulativamente, à IGF, enquanto entidade responsável pelo controlo estratégico da administração financeira do Estado.

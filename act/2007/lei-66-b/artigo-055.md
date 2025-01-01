@@ -4,9 +4,9 @@
 
 # Artigo 55.º
 
-### Sujeitos
+### Intervenientes
 
-1 - Intervêm no processo de avaliação do desempenho no âmbito de cada serviço:
+1 - Intervêm no processo de avaliação do desempenho dos trabalhadores no âmbito de cada serviço:
 
 a) O avaliador;
 
@@ -18,4 +18,4 @@ d) A comissão paritária;
 
 e) O dirigente máximo do serviço.
 
-2 - A ausência ou impedimento de avaliador directo não constitui fundamento para a falta de avaliação.
+2 - (Revogado.)

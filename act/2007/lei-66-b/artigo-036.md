@@ -2,7 +2,7 @@
 
 ### Avaliação
 
-1 - Para efeitos do disposto no artigo anterior, os dirigentes intermédios, no início da sua comissão de serviço e no quadro das suas competências legais, negoceiam com o respetivo avaliador a definição dos objetivos, quantificados e calendarizados, a atingir no decurso do exercício de funções, bem como os indicadores de desempenho aplicáveis à avaliação dos resultados.
+1 - Para efeitos do disposto no artigo anterior, os dirigentes intermédios, no início de cada ciclo anual de avaliação ou no início do exercício destas funções, contratualizam com o respetivo avaliador os parâmetros de avaliação, bem como os indicadores de desempenho aplicáveis à avaliação dos resultados.
 
 2 - O parâmetro relativo a «Resultados» assenta nos objetivos, em número não inferior a três, negociados com o dirigente, prevalecendo, em caso de discordância, a posição do superior hierárquico.
 
@@ -20,7 +20,7 @@ c) «Objectivo não atingido», a que corresponde uma pontuação de 1.
 
 6 - As competências referidas no número anterior são escolhidas, mediante acordo entre avaliador e avaliado, prevalecendo a escolha do superior hierárquico se não existir acordo, de entre as constantes em lista aprovada por portaria do membro do Governo responsável pela área da Administração Pública.
 
-7 - O dirigente máximo do serviço, ouvido o Conselho Coordenador da Avaliação, pode estabelecer por despacho as competências a que se subordina a avaliação dos dirigentes intermédios, escolhidas de entre as constantes na lista referida no número anterior.
+7 - O dirigente máximo do serviço, ouvido o conselho coordenador da avaliação, estabelece por despacho duas competências a que se subordina a avaliação dos dirigentes intermédios, a definir nos termos da portaria referida no número anterior.
 
 8 - Cada competência é valorada através de uma escala de três níveis nos seguintes termos:
 

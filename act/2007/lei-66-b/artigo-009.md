@@ -12,10 +12,4 @@ c) O Subsistema de Avaliação do Desempenho dos Trabalhadores da Administraçã
 
 2 - Os Subsistemas referidos no número anterior funcionam de forma integrada pela coerência entre objectivos fixados no âmbito do sistema de planeamento, objectivos do ciclo de gestão do serviço, objectivos fixados na carta de missão dos dirigentes superiores e objectivos fixados aos demais dirigentes e trabalhadores.
 
-3 - Os subsistemas SIADAP 1, 2 e 3 comportam os seguintes ciclos de avaliação:
-
-a) SIADAP 1, anual;
-
-b) SIADAP 2, de cinco ou três anos, de acordo com a duração da comissão de serviço;
-
-c) SIADAP 3, bienal.
+3 - A duração dos ciclos de avaliação SIADAP relativa aos diferentes subsistemas é anual, sem prejuízo da apreciação global que, relativamente aos dirigentes abrangidos em SIADAP 2, deva ocorrer no termo das respetivas comissões de serviço.

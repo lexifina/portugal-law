@@ -8,7 +8,7 @@
 
 a) À apreciação, por parte dos utilizadores, da quantidade e qualidade dos serviços prestados, com especial relevo quando se trate de unidades prestadoras de serviços a utilizadores externos;
 
-b) À avaliação do sistema de controlo interno;
+b) (Revogada;)
 
 c) Às causas de incumprimento de acções ou projectos não executados ou com resultados insuficientes;
 

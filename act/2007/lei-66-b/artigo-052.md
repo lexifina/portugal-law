@@ -18,17 +18,9 @@ d) Melhoria do posto de trabalho e dos processos a ele associados;
 
 e) Alteração de posicionamento remuneratório na carreira do trabalhador e atribuição de prémios de desempenho, nos termos da legislação aplicável.
 
-2 - O reconhecimento de Desempenho excelente em dois ciclos avaliativos consecutivos confere ao trabalhador, alternativamente, o direito a:
+2 - (Revogado).
 
-a) (Revogada).
-
-b) Estágio em organismo de Administração Pública estrangeira ou em organização internacional, devendo apresentar relatório do mesmo ao dirigente máximo;
-
-c) Estágio em outro serviço público, organização não governamental ou entidade empresarial com actividade e métodos de gestão relevantes para a Administração Pública, devendo apresentar relatório do mesmo ao dirigente máximo do serviço;
-
-d) Frequência de acções de formação adequada ao desenvolvimento de competências profissionais.
-
-3 - Os estágios e as ações de formação a que se refere o número anterior consideram-se, para todos os efeitos legais, como serviço efetivo.
+3 - (Revogado).
 
 4 - (Revogado).
 

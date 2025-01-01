@@ -20,6 +20,6 @@ g) Assegurar a elaboração do relatório da avaliação do desempenho, que inte
 
 h) Exercer as demais competências que lhe são cometidas pela presente lei.
 
-2 - Quando o dirigente máximo não homologar as avaliações atribuídas pelos avaliadores ou pelo conselho coordenador da avaliação, no caso previsto no n.º 5 do artigo 69.º, atribui nova menção qualitativa e respectiva quantificação, com a respectiva fundamentação.
+2 - Quando o dirigente máximo não homologar as avaliações atribuídas pelos avaliadores ou pelo conselho coordenador da avaliação, no caso previsto do n.º 2 do artigo 64.º, atribui classificação final qualitativa e respetiva quantificação, com a respetiva fundamentação.
 
 3 - A competência prevista na alínea e) do n.º 1 pode ser delegada nos demais dirigentes superiores do serviço.

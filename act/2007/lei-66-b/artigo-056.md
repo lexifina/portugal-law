@@ -14,6 +14,10 @@ d) Avaliar os trabalhadores diretamente subordinados, assegurando a correta apli
 
 e) Ponderar as expectativas dos trabalhadores no processo de identificação das respectivas necessidades de desenvolvimento;
 
-f) Fundamentar as avaliações de Desempenho relevante e Desempenho inadequado, para os efeitos previstos na presente lei.
+f) Fundamentar as avaliações de desempenho muito bom, bom e inadequado, para os efeitos previstos na presente lei;
+
+g) Remeter os contributos escritos adequados a uma efetiva e justa avaliação ao dirigente máximo ou ao novo avaliador, nos termos previstos no artigo 42.º-B.
 
 2 - O superior hierárquico imediato deve recolher e registar os contributos que reputar adequados e necessários a uma efectiva e justa avaliação, designadamente quando existam trabalhadores com responsabilidade efectiva de coordenação e orientação sobre o trabalho desenvolvido pelos avaliados.
+
+3 - A ausência ou impedimento de avaliador direto não constitui fundamento para não avaliar o trabalhador.

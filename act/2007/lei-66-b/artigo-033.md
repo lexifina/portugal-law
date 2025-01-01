@@ -2,8 +2,8 @@
 
 ### Avaliadores
 
-1 - O dirigente máximo do serviço é avaliado pelo membro do Governo que outorgou a carta de missão.
+1 - Os dirigentes superiores dos serviços são avaliados pelo respetivo membro do Governo.
 
-2 - Os dirigentes superiores do 2.º grau são avaliados pelo dirigente máximo que outorgou a carta de missão.
+2 - (Revogado.)
 
-3 - A avaliação dos dirigentes superiores do 2.º grau é homologada pelo competente membro do Governo.
+3 - (Revogado.)
