@@ -10,7 +10,7 @@
 
 2-Os departamentos dos serviços centrais são os seguintes:
 
-a) Departamento de Alterações Climáticas
+a) (Revogado.)
 
 b) Departamento de Gestão Ambiental
 
