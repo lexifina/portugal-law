@@ -44,7 +44,7 @@ c) Previsão das disponibilidades orçamentais necessárias, nos termos da Lei n
 
 14 - O disposto na alínea a) do n.º 1 não é aplicável às empresas locais que exercem, a título principal, as atividades de ensino e formação profissional.
 
-15 - O disposto no n.º 1 não é aplicável às empresas locais que exercem, a título principal, as atividades de gestão de equipamentos e prestação de serviços na área da cultura, da educação, da ação social, do desporto e da ciência, inovação e tecnologia, nem às empresas que exercem atividades nas áreas da silvicultura e cinegética.
+15 - O disposto no n.º 1 não é aplicável às empresas locais que exercem, a título principal, as atividades de gestão de equipamentos e prestação de serviços na área da cultura, da educação, da habitação social, da ação social, do desporto e da ciência, inovação e tecnologia, nem às empresas que exercem atividades nas áreas da silvicultura e cinegética.
 
 16 - Relativamente às entidades a que se refere o n.º 3 do artigo 58.º, a contagem do decurso dos três anos a que se referem as alíneas a) a d) do n.º 1 só se inicia com a entrada em vigor da Lei n.º 69/2015, de 16 de julho, para todos os efeitos constantes da presente lei.
 
