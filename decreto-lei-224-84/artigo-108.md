@@ -20,4 +20,6 @@ a) Número do documento de identificação ou da cédula profissional;
 
 b) Número de identificação bancária, se disponibilizado pelo apresentante.
 
-3 - São ainda recolhidos quaisquer outros dados referentes à situação jurídica dos prédios.
+3 - São ainda recolhidos quaisquer outros dados referentes à situação jurídica dos prédios, bem como o preço de cada transação.
+
+4 - Os dados relativos ao preço de transação dos imóveis são disponibilizados no Portal da Justiça, de forma anonimizada e agregada por freguesia, município e distrito, com atualização mínima mensal.
