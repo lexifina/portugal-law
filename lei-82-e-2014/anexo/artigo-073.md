@@ -6,13 +6,13 @@
 
 2 - São tributados autonomamente os seguintes encargos, suportados por sujeitos passivos que possuam ou devam possuir contabilidade organizada no âmbito do exercício de atividades empresariais ou profissionais, excluindo os veículos movidos exclusivamente a energia elétrica:
 
-a) Os encargos dedutíveis relativos a despesas de representação e a viaturas ligeiras de passageiros ou mistas cujo custo de aquisição seja inferior a (euro) 20 000, motos e motociclos, à taxa de 10 %;
+a) Os encargos dedutíveis relativos a despesas de representação e a viaturas ligeiras de passageiros ou mistas cujo custo de aquisição seja inferior a 30 000 €, motos e motociclos, à taxa de 10 %;
 
-b) Os encargos dedutíveis relativos a automóveis ligeiros de passageiros ou mistos, cujo custo de aquisição seja igual ou superior a (euro) 20 000, à taxa de 20 %.
+b) Os encargos dedutíveis relativos a automóveis ligeiros de passageiros ou mistos, cujo custo de aquisição seja igual ou superior a 30 000 €, à taxa de 20 %.
 
 3 - Excluem-se do disposto no número anterior os encargos relacionados com viaturas ligeiras de passageiros ou mistas, motos e motociclos, afetos à exploração do serviço público de transportes, destinados a serem alugados no exercício da atividade normal do sujeito passivo, bem como as reintegrações relacionadas com as viaturas relativamente às quais tenha sido celebrado o acordo previsto no n.º 9) da alínea b) do n.º 3 do artigo 2.º
 
-4 - Consideram-se despesas de representação, nomeadamente, os encargos suportados com receções, refeições, viagens, passeios e espetáculos oferecidos no país ou no estrangeiro a clientes ou a fornecedores ou ainda a quaisquer outras pessoas ou entidades.
+4 - Consideram-se despesas de representação, nomeadamente, os encargos suportados com receções, refeições, viagens e passeios oferecidos no País ou no estrangeiro a clientes ou a fornecedores ou ainda a quaisquer outras pessoas ou entidades.
 
 5 - Consideram-se encargos relacionados com viaturas ligeiras de passageiros, motos e motociclos, nomeadamente, as reintegrações, rendas ou alugueres, seguros, despesas com manutenção e conservação, combustíveis e impostos incidentes sobre a sua posse ou utilização.
 

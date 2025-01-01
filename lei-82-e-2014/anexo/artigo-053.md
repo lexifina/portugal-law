@@ -6,7 +6,7 @@
 
 ### Pensões
 
-1 - Aos rendimentos brutos da categoria H de valor anual igual ou inferior a (euro) 4 104 deduz-se, até à sua concorrência, a totalidade do seu quantitativo por cada titular que os tenha auferido.
+1 - Aos rendimentos brutos da categoria H de valor anual igual ou inferior ao previsto na alínea a) do n.º 1 do artigo 25.º deduz-se, até à sua concorrência, a totalidade do seu quantitativo por cada titular que os tenha auferido.
 
 2 - Se o rendimento anual, por titular, for superior ao valor referido no número anterior, a dedução é igual ao montante nele fixado.
 
@@ -24,4 +24,4 @@ b) As contribuições obrigatórias para regimes de proteção social e para sub
 
 7 - Excluem-se do disposto no n.º 1 as rendas temporárias e vitalícias que não se destinem ao pagamento de pensões enquadráveis nas alíneas a), b) ou c) do n.º 1 do artigo 11.º.
 
-8 - O valor referido no n.º 1 é atualizado anualmente à taxa de atualização do IAS.
+8 - (Revogado.)

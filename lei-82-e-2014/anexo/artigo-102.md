@@ -4,9 +4,11 @@
 
 1 - A titularidade de rendimentos da categoria B determina, para os respetivos sujeitos passivos, a obrigatoriedade de efetuarem três pagamentos por conta do imposto devido a final, até ao dia 20 de cada um dos meses de julho, setembro e dezembro.
 
-2 - A totalidade dos pagamentos por conta é igual a 76,5 % do montante calculado com base na seguinte fórmula:
+2 - A totalidade dos pagamentos por conta é igual a 65 % do montante calculado com base na seguinte fórmula:
 
-(ver documento original)
+C × ( RLB ) – R
+
+RLT
 
 em que as siglas utilizadas têm o seguinte significado:
 

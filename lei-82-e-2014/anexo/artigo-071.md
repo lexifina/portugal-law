@@ -30,7 +30,7 @@ d) Os incrementos patrimoniais previstos nas alíneas b) e c) do n.º 1 do artig
 
 6 - Para efeitos do número anterior, o titular dos rendimentos deve comunicar à entidade devedora, através de declaração escrita, que não auferiu ou aufere o mesmo tipo de rendimentos de outras entidades residentes em território português ou de estabelecimentos estáveis de entidades não residentes neste território.
 
-7 - Quando os rendimentos a que se refere o n.º 5 forem auferidos a título de trabalho suplementar, o limite previsto no n.º 5 é aplicável autonomamente em relação aos rendimentos auferidos nas primeiras 50 horas de trabalho ou serviços prestados a esse título, aplicando-se a taxa prevista no n.º 4 à parte que exceda aquele limite ou número de horas.
+7 - Quando os rendimentos a que se refere o n.º 5 forem auferidos a título de trabalho suplementar, o limite aí previsto é aplicável autonomamente em relação aos rendimentos auferidos nas primeiras 100 horas de trabalho ou serviços prestados a esse título, aplicando-se a taxa prevista no n.º 4 à parte que exceda aquele limite ou número de horas.
 
 8 - As taxas previstas nos números anteriores incidem sobre os rendimentos ilíquidos, exceto no que se refere às pensões, as quais beneficiam da dedução prevista no artigo 53.º, sem prejuízo do que se disponha na lei, designadamente no Estatuto dos Benefícios Fiscais.
 

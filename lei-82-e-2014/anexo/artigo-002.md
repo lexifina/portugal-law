@@ -22,7 +22,7 @@ b) As remunerações acessórias, nelas se compreendendo todos os direitos, bene
 
 1) Os abonos de família e respetivas prestações complementares, exceto na parte em que não excedam os limites legais estabelecidos;
 
-2) O subsídio de refeição na parte em que exceder o limite legal estabelecido ou em que o exceda em 60 % sempre que o respetivo subsídio seja atribuído através de vales de refeição;
+2) O subsídio de refeição na parte em que exceder o limite legal estabelecido ou em que o exceda em 70 % sempre que o respetivo subsídio seja atribuído através de vales de refeição;
 
 3) As importâncias despendidas, obrigatória ou facultativamente, pela entidade patronal:
 

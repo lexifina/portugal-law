@@ -112,7 +112,7 @@ iv) Produto Individual de Poupança Pan-Europeu.
 
 b) O sujeito passivo ou o respetivo cônjuge ou unido de facto, na data da transmissão do imóvel, se encontre, comprovadamente, em situação de reforma ou tenha, pelo menos, 65 anos de idade;
 
-c) A aquisição do contrato de seguro financeiro do ramo vida, a adesão individual a um fundo de pensões aberto ou a contribuição para o regime público de capitalização seja efetuada nos seis meses posteriores contados da data de realização;
+c) A aquisição dos produtos referidos na alínea a) seja efetuada nos seis meses posteriores contados da data de realização;
 
 d) Sendo o investimento realizado por aquisição de contrato de seguro financeiro do ramo vida ou da adesão individual a um fundo de pensões aberto, estes visem, exclusivamente, proporcionar ao adquirente ou ao respetivo cônjuge ou unido de facto uma prestação regular periódica durante um período igual ou superior a 10 anos, de montante máximo anual igual a 7,5 % do valor investido;
 

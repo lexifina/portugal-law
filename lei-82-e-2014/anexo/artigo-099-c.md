@@ -16,8 +16,8 @@
 
 7 - Quando forem pagos ou colocados à disposição subsídios de férias e de natal respeitantes a anos anteriores, o apuramento do imposto a reter, nos termos dos n.os 5 e 6, é efetuado autonomamente por cada ano a que aqueles respeitam.
 
-8 - Quando for paga remuneração relativa a trabalho suplementar, a taxa de retenção a aplicar é a que corresponder à remuneração mensal do trabalho dependente referente ao mês em que aquela é paga ou colocada à disposição.
+8 - Quando for paga remuneração relativa a trabalho suplementar, a taxa de retenção a aplicar é a que corresponder a 50 % da taxa aplicável à remuneração mensal do trabalho dependente referente ao mês em que aquela é paga ou colocada à disposição.
 
 9 - No caso de remunerações de anos anteriores, para efeitos de determinação da taxa de retenção na fonte que lhes é aplicável, o respetivo valor é dividido pela soma do número de meses a que respeitam, aplicando-se a taxa assim determinada à totalidade dessas remunerações.
 
-10 - A taxa de retenção autónoma a aplicar à remuneração referente a trabalho suplementar, nos termos do disposto nos n.os 5 e 8, é reduzida em 50 % a partir da 101.ª hora, inclusive.
+10 - (Revogado.)
