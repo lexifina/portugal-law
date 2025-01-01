@@ -14,6 +14,6 @@
 
 6 - A identificação dos níveis remuneratórios correspondentes às remunerações base dos cargos de direcção intermédia de 3.º grau ou inferior é efectuada no diploma orgânico ou estatutário que os preveja.
 
-7 - Aos titulares de cargos de direcção superior são atribuídos prémios de gestão em termos definidos em decreto regulamentar.
+7 - Aos titulares de cargos de direção, superior ou intermédia, são atribuídos prémios de desempenho nos termos previstos na Lei n.º 66-B/2007, de 28 de dezembro, na sua redação atual.
 
-8 - Aos titulares de cargos de direcção intermédia são atribuídos prémios de desempenho nos termos previstos, com as necessárias adaptações, para os trabalhadores que exercem funções públicas.
+8 - (Revogado.)
