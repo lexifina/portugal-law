@@ -8,4 +8,4 @@
 
 a) Antiguidade mínima de cinco anos de serviço efetivo na categoria de chefe;
 
-b) Avaliação de desempenho com a menção qualitativa de «Desempenho adequado» nos últimos cinco anos.
+b) Avaliação de desempenho com a menção qualitativa de ‘Suficiente’ nos últimos cinco anos.
