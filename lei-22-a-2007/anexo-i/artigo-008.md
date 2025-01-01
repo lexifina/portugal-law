@@ -10,7 +10,9 @@ b) 40 %, aos automóveis ligeiros de utilização mista, com peso bruto superior
 
 c) 40 %, aos automóveis ligeiros de passageiros que utilizem exclusivamente como combustível gás natural;
 
-d) 25 %, aos automóveis ligeiros de passageiros equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50 gCO(índice 2)/km.
+d) 25 %, aos automóveis ligeiros de passageiros equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50 gCO(índice 2)/km;
+
+e) 25 %, aos automóveis ligeiros de passageiros matriculados noutro Estado-Membro da União Europeia entre 1 de janeiro de 2015 e 31 de dezembro de 2020, equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 25 km.
 
 2 - [Revogado]
 
