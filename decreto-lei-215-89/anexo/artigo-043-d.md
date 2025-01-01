@@ -2,9 +2,9 @@
 
 ### Regime fiscal de incentivo à capitalização das empresas
 
-1 - Na determinação do lucro tributável das sociedades comerciais ou civis sob forma comercial, cooperativas, empresas públicas, e demais pessoas coletivas de direito público ou privado com sede ou direção efetiva em território português pode ser deduzida uma importância correspondente à aplicação da taxa Euribor a 12 meses, que corresponda à média do período de tributação, calculada tendo por base o último dia de cada mês, adicionada de um spread de 1,5 pontos percentuais, ao montante dos aumentos líquidos dos capitais próprios elegíveis.
+1 - Na determinação do lucro tributável das sociedades comerciais ou civis sob forma comercial, cooperativas, empresas públicas, e demais pessoas coletivas de direito público ou privado com sede ou direção efetiva em território português pode ser deduzida uma importância correspondente à aplicação da taxa Euribor a 12 meses, que corresponda à média do período de tributação, calculada tendo por base o último dia de cada mês, adicionada de um spread de 2 pontos percentuais, ao montante dos aumentos líquidos dos capitais próprios elegíveis.
 
-2 - Caso o sujeito passivo se qualifique como micro, pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, a dedução prevista no número anterior é a correspondente à aplicação da taxa Euribor a 12 meses, que corresponda à média do período de tributação, calculada tendo por base o último dia de cada mês, adicionada de um spread de 2 pontos percentuais, ao montante dos aumentos líquidos dos capitais próprios elegíveis.
+2 - (Revogado.)
 
 3 - Para efeitos da dedução prevista no n.º 1, o montante dos aumentos líquidos dos capitais próprios elegíveis deve ser apurado por referência ao somatório dos valores apurados no próprio exercício e em cada um dos seis períodos de tributação anteriores, considerando-se que o montante dos aumentos líquidos dos capitais próprios elegíveis corresponde a zero nas situações em que desse somatório resulte uma diferença negativa.
 

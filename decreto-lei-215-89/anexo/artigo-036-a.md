@@ -2,7 +2,7 @@
 
 ### Regime aplicável às entidades licenciadas na Zona Franca da Madeira a partir de 1 de janeiro de 2015
 
-1 - Os rendimentos das entidades licenciadas para operar na Zona Franca da Madeira a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2024 são tributados em IRC, até 31 de dezembro de 2028, à taxa de 5 % nos seguintes termos:
+1 - Os rendimentos das entidades licenciadas para operar na Zona Franca da Madeira a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2026 são tributados em IRC, até 31 de dezembro de 2028, à taxa de 5 % nos seguintes termos:
 
 a) As entidades licenciadas no âmbito da zona franca industrial relativamente aos rendimentos derivados do exercício das atividades de natureza industrial, previstas no n.º 1 e qualificadas nos termos dos n.os 2 e 3 do artigo 4.º do Decreto Regulamentar n.º 53/82, de 23 de agosto, e, bem assim, das atividades acessórias ou complementares daquela;
 
@@ -64,7 +64,7 @@ d) Contribuam para a melhoria das condições ambientais;
 
 e) Criem, pelo menos, 15 postos de trabalho, que devem ser mantidos durante um período mínimo de cinco anos.
 
-7 - As entidades licenciadas na Zona Franca da Madeira, a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2024, podem, designadamente, exercer as seguintes atividades económicas relacionadas com:
+7 - As entidades licenciadas na Zona Franca da Madeira, a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2026, podem, designadamente, exercer as seguintes atividades económicas relacionadas com:
 
 a) Indústrias transformadoras (NACE Rev. 2, secção C);
 
