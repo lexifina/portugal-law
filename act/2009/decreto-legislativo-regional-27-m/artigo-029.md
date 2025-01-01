@@ -2,7 +2,7 @@
 
 ### Avaliadores
 
-1 - A avaliação do dirigente máximo do serviço é atribuída pelo membro do Governo Regional respectivo, fundamentando-se na auto-avaliação ou no resultado da hetero-avaliação em sede de SIADAP-RAM 1.
+1 - O dirigente máximo do serviço é avaliado pelo respetivo membro do Governo Regional.
 
 2 - Os dirigentes superiores do 2.º grau são avaliados pelo dirigente máximo respectivo.
 

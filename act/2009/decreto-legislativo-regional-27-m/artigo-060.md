@@ -1,5 +1,17 @@
 # Artigo 60.º
 
-### Harmonização de propostas de avaliação
+### Reunião do conselho coordenador da avaliação
 
-Na 2.ª quinzena de janeiro do ano seguinte àquele em que se completa o ciclo avaliativo, em regra, realizam-se as reuniões do Conselho Coordenador da Avaliação para proceder à análise das propostas de avaliação e à sua harmonização de forma a assegurar o cumprimento das percentagens relativas à diferenciação de desempenhos, transmitindo, se for necessário, novas orientações aos avaliadores, na sequência das previstas na alínea d) do n.º 1 e no n.º 3 do artigo 58.º, e iniciar o processo que conduz à validação dos Desempenhos relevantes e Desempenhos inadequados e de reconhecimento dos Desempenhos excelentes.
+1 - Na 2.ª quinzena de janeiro, realiza-se a reunião do conselho coordenador da avaliação para a análise das propostas de avaliação, procedendo:
+
+a) À validação das propostas de avaliação de desempenho muito bom;
+
+b) À validação das propostas de avaliação de desempenho bom;
+
+c) À validação das propostas de avaliação de desempenho inadequado;
+
+d) À análise do impacto do desempenho, designadamente para efeitos de reconhecimento do desempenho excelente.
+
+2 - Em caso de não validação da proposta de avaliação, o conselho coordenador da avaliação estabelece a classificação final quantitativa com a correspondente menção qualitativa, nos termos do disposto do n.º 5 do artigo 47.º
+
+3 - Nos casos previstos no número anterior o conselho coordenador da avaliação transmite a classificação final ao avaliador para que este dê conhecimento ao avaliado na reunião de avaliação e a remeta para homologação.

@@ -10,11 +10,17 @@ b) A definição de objectivos e resultados a atingir pelas unidades orgânicas 
 
 c) A planificação em cascata, quando efectuada, deve evidenciar o contributo de cada unidade orgânica para os resultados finais pretendidos para o serviço;
 
-d) A definição de orientações que permitam assegurar o cumprimento das percentagens relativas à diferenciação de desempenhos.
+d) (Revogada.)
 
 2 - (Revogado.)
 
-3 - O planeamento dos objectivos e resultados a atingir pelo serviço é tomado em consideração pelo conselho coordenador da avaliação no estabelecimento das orientações que forem necessárias para uma aplicação objectiva e harmónica do sistema de avaliação do desempenho, para a fixação de indicadores, em particular os relativos à superação de objectivos, e para validar as avaliações de Desempenho relevante e Desempenho inadequado, bem como o reconhecimento de Desempenho excelente.
+3 - O planeamento dos objetivos e resultados a atingir pelo serviço é considerado pelo conselho coordenador da avaliação na fixação de orientações para:
+
+a) Uma fixação objetiva e harmónica do sistema de avaliação do desempenho;
+
+b) A fixação de indicadores, em particular os relativos à superação de objetivos;
+
+c) Validar as avaliações de desempenho de muito bom, bom ou inadequado, bem como o reconhecimento de desempenho excelente.
 
 4 - Na fase de planeamento estabelecem-se as articulações necessárias na aplicação dos vários subsistemas que constituem o SIADAP, nomeadamente visando o alinhamento dos objectivos do serviço, dos dirigentes e demais trabalhadores.
 

@@ -2,13 +2,15 @@
 
 ### Expressão da avaliação final
 
-1 - A avaliação final é expressa em menções qualitativas em função das pontuações finais em cada parâmetro, nos seguintes termos:
+1 - A avaliação final é expressa nas seguintes menções qualitativas e quantitativas:
 
-a) Desempenho relevante, correspondendo a uma avaliação final de 4 a 5;
+a) Muito bom, correspondendo a uma avaliação final de 4 a 5;
 
-b) Desempenho adequado, correspondendo a uma avaliação final de desempenho positivo de 2 a 3,999;
+b) Bom, correspondendo a uma avaliação final de 3,500 a 3,999;
 
-c) Desempenho inadequado, correspondendo a uma avaliação final de 1 a 1,999.
+c) Regular, correspondendo a uma avaliação final de 2 a 3,499;
+
+d) Inadequado, correspondendo a uma avaliação final de 1 a 1,999.
 
 2 - (Revogado.)
 
@@ -17,3 +19,5 @@ c) Desempenho inadequado, correspondendo a uma avaliação final de 1 a 1,999.
 4 - (Revogado.)
 
 5 - (Revogado.)
+
+6 - A atribuição da avaliação do desempenho de muito bom é, por iniciativa do avaliado ou do avaliador, objeto de apreciação pelo conselho coordenador de avaliação para eventual reconhecimento de mérito, significando desempenho excelente.

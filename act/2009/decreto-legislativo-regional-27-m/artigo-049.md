@@ -20,26 +20,16 @@ e) Alteração de posicionamento remuneratório na carreira do trabalhador e atr
 
 2 - (Revogado.)
 
-3 - O reconhecimento de Desempenho excelente em dois ciclos avaliativos consecutivos confere ao trabalhador, alternativamente, o direito a:
+3 - (Revogado.)
 
-a) (Revogada.);
+4 - (Revogado.)
 
-b) (Revogada.);
+5 - O reconhecimento de desempenho excelente em três anos consecutivos confere ao trabalhador, no ano seguinte, o direito a cinco dias de férias, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 30 % deste.
 
-c) Estágio em organismo de administração pública estrangeira ou em organização internacional, devendo apresentar relatório do mesmo ao dirigente máximo;
+6 - O reconhecimento de desempenho muito bom em três anos consecutivos confere ao trabalhador, no ano seguinte, o direito a três dias de férias, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste.
 
-d) Estágio em outro serviço público, organização não governamental ou entidade empresarial com actividade e métodos de gestão relevantes para a administração pública, devendo apresentar relatório do mesmo ao dirigente máximo do serviço;
+7 - Sem prejuízo do disposto nos n.os 5 e 6, o direito a três dias de férias é ainda conferido ao trabalhador quando este tenha acumulado 8 pontos nas avaliações do seu desempenho, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste, contados os 8 pontos nos seguintes termos:
 
-e) Frequência de acções de formação adequada ao aprofundamento de competências profissionais.
+a) Três pontos por cada menção de desempenho excelente;
 
-4 - Os estágios e as ações de formação a que se refere o número anterior consideram-se, para todos os efeitos legais, como serviço efetivo.
-
-5 - O reconhecimento de Desempenho excelente em dois ciclos avaliativos consecutivos confere ao trabalhador, no ano civil seguinte àquele em que se completa o ciclo avaliativo, o direito a cinco dias úteis de férias.
-
-6 - O reconhecimento de Desempenho relevante em dois ciclos avaliativos consecutivos confere ao trabalhador, no ano civil seguinte àquele em que se completa o ciclo avaliativo, o direito a três dias úteis de férias.
-
-7 - Sem prejuízo do disposto nos n.os 5 e 6, o direito a três dias úteis de férias é ainda conferido ao trabalhador quando este tenha acumulado 10 pontos nas avaliações do seu desempenho, contados nos seguintes termos:
-
-a) Seis pontos por cada menção de Desempenho excelente;
-
-b) Quatro pontos por cada menção de Desempenho relevante.
+b) Dois pontos por cada menção de desempenho muito bom.
