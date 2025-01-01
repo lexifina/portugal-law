@@ -1,0 +1,37 @@
+# Artigo 5.º
+
+### Formas de intervenção do Estado
+
+1 - A intervenção do Estado concretiza-se nas seguintes linhas de actuação:
+
+a) Desenvolvimento de iniciativas diplomáticas especialmente dirigidas a obter a plena integração do ensino da língua portuguesa e em língua portuguesa nos sistemas educativos dos países estrangeiros, em particular, onde se encontrem estabelecidas comunidades portuguesas, bem como a inclusão de exames de língua portuguesa no acesso ao ensino superior nesses sistemas;
+
+b) Promoção de cursos e atividades em regime de complementaridade relativamente aos sistemas educativos dos países onde se encontrem estabelecidas comunidades portuguesas significativas ou apoio às iniciativas de associações portuguesas e de entidades estrangeiras, públicas e privadas, que prossigam o mesmo fim;
+
+c) Promoção e divulgação do ensino da língua, da história, da geografia e da cultura portuguesas no estrangeiro, por meio de estabelecimentos de ensino ou de iniciativas próprias, e da colaboração, participação ou patrocínio de estabelecimentos de ensino ou de iniciativas de associações e outras entidades nacionais ou estrangeiras, públicas e privadas;
+
+d) Definição e aprovação de um quadro de referências que permita a elaboração e avaliação de programas, linhas de orientação curricular e escolha de materiais pedagógicos e didácticos e estabeleça as bases de certificação das aprendizagens;
+
+e) Recrutamento, colocação, contratação ou provimento em comissão de serviço do pessoal docente para os cargos de professor e de leitor;
+
+f) Apoio ao recrutamento e seleção do pessoal docente quando este seja contratado por outras entidades ao abrigo de protocolos de cooperação;
+
+g) Formação e apoio à formação do pessoal docente;
+
+h) Produção de recursos didáctico-pedagógicos especialmente dirigidos ao ensino da língua, da história, da geografia e da cultura portuguesas no estrangeiro, designadamente de sistemas de ensino à distância;
+
+i) Apoio à produção, aquisição e utilização dos recursos referidos na alínea anterior.
+
+2 - (Revogado.)
+
+3 - O Quadro de Referência para o Ensino Português no Estrangeiro (QuaREPE) para a certificação das respetivas aprendizagens, previsto na alínea d) do n.º 1, segue as orientações do Quadro Europeu Comum de Referência para as Línguas, do Conselho da Europa, sendo aprovado por portaria do membro do Governo responsável pela área da educação.
+
+4 - As competências institucionais, assim como as regras e procedimentos da certificação das aprendizagens, são definidas por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, educação e ensino superior.
+
+5 - (Revogado.)
+
+6 - Os alunos que frequentam os cursos tutelados pelo Camões - Instituto da Cooperação e da Língua, I. P. (Camões, I. P.), que pretendam obter um diploma que certifique os níveis de proficiência alcançados, ficam sujeitos ao pagamento de um valor a definir por portaria.
+
+7 - As verbas referidas nos números anteriores são geridas pelo Camões, I. P., e podem constituir-se como receita.
+
+8 - Sempre que possível o Estado desenvolve as acções e actividades referidas no n.º 1 em cooperação com os restantes Estados membros da Comunidade dos Países de Língua Portuguesa.
