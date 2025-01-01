@@ -2,9 +2,9 @@
 
 ### Regras de atribuição de apoios
 
-1 - A definição do plano anual de atribuição de apoios e utilização das receitas consta de despacho do membro do Governo responsável pela área do ambiente.
+1 — A definição do plano anual de atribuição de apoios e utilização das receitas compete ao conselho diretivo da ApC, I. P., o qual será objeto de aprovação pelo membro do Governo responsável pela área do ambiente, e deverá respeitar as orientações definidas nos termos do n.º 2 do artigo anterior.
 
-2 - O plano anual referido no número anterior integra um programa de avisos para apresentação de candidaturas a algumas ou a todas as tipologias de apoios a que se refere o artigo seguinte.
+2 - O plano anual referido no número anterior integra um programa de avisos de âmbito nacional para apresentação de candidaturas a algumas ou a todas as tipologias de apoios a que se refere o artigo seguinte.
 
 3 - O programa de apoios e avisos para apresentação de candidaturas previsto no número anterior deve prever, designadamente:
 
