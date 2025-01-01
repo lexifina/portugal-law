@@ -4,7 +4,7 @@
 
 1 - O direito à componente base da prestação suspende-se quando se verifique uma das seguintes situações:
 
-a) No termo da validade do atestado médico de incapacidade multiúso, salvo se o titular apresentar comprovativo de que requereu a reavaliação até 180 dias antes daquela data ou se se encontrava impossibilitado por motivos de doença de requerer a reavaliação durante aquele período ou em período posterior;
+a) No termo da validade do atestado médico de incapacidade multiúso, salvo se o titular apresentar comprovativo de que requereu a reavaliação até 90 dias antes daquela data ou se se encontrava impossibilitado por motivos de doença de requerer a reavaliação durante aquele período ou em período posterior;
 
 b) O titular da prestação deixe de ter residência habitual em Portugal se for cidadão nacional ou deixe de ter residência legal em Portugal se for cidadão estrangeiro ou apátrida;
 
