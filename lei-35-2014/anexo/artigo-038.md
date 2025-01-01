@@ -18,9 +18,9 @@ b) Aquando da aprovação em curso de formação específico ou da aquisição d
 
 6 - Sem prejuízo do disposto no número seguinte, a falta de acordo com um candidato determina a negociação com o que se lhe siga na ordenação final dos candidatos, não podendo ser proposto ao candidato subsequente na ordenação posicionamento remuneratório superior ao máximo proposto e não aceite por qualquer dos candidatos que o antecedam naquela ordenação.
 
-7 - O empregador público não pode propor a primeira posição remuneratória ao candidato que seja titular de licenciatura ou de grau académico superior quando esteja em causa o recrutamento de trabalhador para posto de trabalho com conteúdo funcional correspondente ao da carreira geral de técnico superior.
+7 - (Revogado.)
 
-8 - O empregador público não pode propor posição inferior à 4.ª posição remuneratória ao candidato que seja titular de grau académico de doutor quando esteja em causa o recrutamento de trabalhador para posto de trabalho com conteúdo funcional correspondente ao da carreira geral de técnico superior.
+8 -O empregador público não pode propor posição inferior à 3.ª posição remuneratória ao candidato que seja titular de grau académico de doutor quando esteja em causa o recrutamento de trabalhador para posto de trabalho com conteúdo funcional correspondente ao da carreira geral de técnico superior.
 
 9 - Após o encerramento do procedimento concursal, a documentação relativa ao respetivo processo negocial é pública e de livre acesso.
 
