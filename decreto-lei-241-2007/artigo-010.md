@@ -4,7 +4,7 @@
 
 1 - Os bombeiros voluntários portugueses que reúnam, pelo menos, 15 anos de serviço no quadro ativo ou de comando têm direito a uma bonificação de tempo de serviço para efeitos de pensão, independentemente do regime de proteção social que os abranja.
 
-2 - A bonificação prevista no número anterior corresponde a 15 % do tempo de serviço prestado como bombeiro voluntário nos quadros ativo e de comando, com o limite máximo de cinco anos de bonificação.
+2 - A bonificação prevista no número anterior corresponde a 25 % do tempo de serviço prestado como bombeiro nos quadros ativo e de comando, com o limite máximo de cinco anos de bonificação.
 
 3 - A percentagem de aumento a que se refere o número anterior não dispensa o pagamento, nos termos legais, das correspondentes contribuições para a Caixa Geral de Aposentações ou para a segurança social, que são suportadas em partes iguais pelo interessado e pelo Fundo de Proteção Social do Bombeiro.
 

@@ -4,9 +4,9 @@
 
 # Artigo 19.º
 
-### Assistência médica e medicamentosa
+### Assistência médica, psicológica e medicamentosa
 
-1 - Nos casos de acidente ou doença comprovadamente contraída ou agravada em serviço, podem os bombeiros voluntários beneficiar gratuitamente de assistência médica e medicamentosa, através do Fundo de Protecção Social do Bombeiro, na parte não coberta por outras entidades, em razão da lei ou de contrato.
+1 - Nos casos de acidente ou doença comprovadamente contraída ou agravada em serviço, podem os bombeiros beneficiar gratuitamente de assistência médica, psicológica e medicamentosa, através do Fundo de Proteção Social do Bombeiro, na parte não coberta por outras entidades, em razão da lei ou de contrato.
 
 2 - A assistência médica e medicamentosa prevista no número anterior abrange:
 
