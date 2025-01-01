@@ -8,11 +8,11 @@
 
 3 - São tributados autonomamente os encargos efetuados ou suportados por sujeitos passivos que não beneficiem de isenções subjetivas e que exerçam, a título principal, atividade de natureza comercial, industrial ou agrícola, relacionados com viaturas ligeiras de passageiros, viaturas ligeiras de mercadorias referidas na alínea b) do n.º 1 do artigo 7.º do Código do Imposto sobre Veículos, motos ou motociclos, às seguintes taxas:
 
-a) 8,5 % no caso de viaturas com um custo de aquisição inferior a 27 500 (euro);
+a) 8 % no caso de viaturas com um custo de aquisição inferior a 37 500 €;
 
-b) 25,5 % no caso de viaturas com um custo de aquisição igual ou superior a 27 500 (euro) e inferior a 35 000 (euro);
+b) 25 % no caso de viaturas com um custo de aquisição igual ou superior a 37 500 € e inferior a 45 000 €;
 
-c) 32,5 % no caso de viaturas com um custo de aquisição igual ou superior a 35 000 (euro).
+c) 32 % no caso de viaturas com um custo de aquisição igual ou superior a 45 000 €.
 
 4 - (Revogado.)
 
@@ -24,7 +24,7 @@ a) Viaturas ligeiras de passageiros, motos e motociclos, afetos à exploração 
 
 b) Viaturas automóveis relativamente às quais tenha sido celebrado o acordo previsto no n.º 9) da alínea b) do n.º 3 do artigo 2.º do Código do IRS.
 
-7 - São tributados autonomamente à taxa de 10 % os encargos efetuados ou suportados relativos a despesas de representação, considerando-se como tal, nomeadamente, as despesas suportadas com receções, refeições, viagens, passeios e espetáculos oferecidos no País ou no estrangeiro a clientes ou fornecedores ou ainda a quaisquer outras pessoas ou entidades.
+7 - São tributados autonomamente à taxa de 10 % os encargos efetuados ou suportados relativos a despesas de representação, considerando-se como tal, nomeadamente, as despesas suportadas com receções, refeições, viagens e passeios oferecidos no País ou no estrangeiro a clientes ou fornecedores ou ainda a quaisquer outras pessoas ou entidades.
 
 8 - São sujeitas ao regime dos n.os 1 ou 2, consoante os casos, sendo as taxas aplicáveis, respetivamente, 35 % ou 55 %, as despesas correspondentes a importâncias pagas ou devidas, a qualquer título, a pessoas singulares ou coletivas residentes fora do território português e aí submetidas a um regime fiscal claramente mais favorável a que se refere o n.º 1 do artigo 63.º-D da Lei Geral Tributária, ou cujo pagamento seja efetuado em contas abertas em instituições financeiras aí residentes ou domiciliadas, salvo se o sujeito passivo puder provar que correspondem a operações efetivamente realizadas e não têm um caráter anormal ou um montante exagerado.
 
