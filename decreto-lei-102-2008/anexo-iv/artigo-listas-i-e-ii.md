@@ -102,6 +102,8 @@ Bens e serviços sujeitos a taxa reduzida
 
 1.13 – Produtos semelhantes a queijos, sem leite e laticínios, produzidos à base de frutos secos, cereais, preparados à base de cereais, frutas, legumes ou produtos hortícolas.
 
+1.14 - Produtos alimentícios destinados a lactentes e crianças de pouca idade, incluindo as fórmulas de transição, bem como os alimentos para fins medicinais específicos e os substitutos integrais da dieta para controlo do peso, nos termos do Regulamento (UE) n.º 609/2013 do Parlamento Europeu e do Conselho, de 12 de junho de 2013.
+
 2 – Outros:
 
 2.1 – Livros, jornais, revistas de informação geral e outras publicações periódicas que se ocupem predominantemente de matérias de caráter científico, educativo, literário, artístico, cultural, recreativo ou desportivo, em todos os suportes físicos ou por via eletrónica, ou em ambos, com exceção das publicações que consistam total ou predominantemente em conteúdos vídeo ou música.
@@ -138,7 +140,7 @@ Compreendem-se nesta verba os resguardos e fraldas.
 
 2.9 – Utensílios e quaisquer aparelhos ou objetos especificamente concebidos para utilização por pessoas com deficiência, desde que constem de uma lista aprovada por despacho conjunto dos Ministros das Finanças, da Solidariedade e Segurança Social e da Saúde.
 
-2.10 – Utensílios e outros equipamentos exclusiva ou principalmente destinados a operações de socorro e salvamento adquiridos por associações humanitárias e corpos de bombeiros, bem como pelo Instituto de Socorros a Náufragos, pelo SANAS — Corpo Voluntário de Salvadores Náuticos e pelo Instituto Nacional de Emergência Médica, I. P.
+2.10 – Utensílios e outros equipamentos exclusiva ou principalmente destinados a operações de socorro e salvamento, adquiridos por associações humanitárias e corpos de bombeiros, bem como pelo Instituto de Socorros a Náufragos, pelo SANAS - Corpo Voluntário de Salvadores Náuticos, pelo INEM, I. P., pelo Serviço Regional de Proteção Civil, IP-RAM, pelo Serviço Regional de Proteção Civil e Bombeiros dos Açores, pelos municípios e pelas entidades intermunicipais.
 
 2.11 – Prestações de serviços, efetuadas no exercício das profissões de jurisconsulto, advogado e solicitador a desempregados e trabalhadores no âmbito de processos judiciais de natureza laboral e a pessoas que beneficiem de assistência judiciária.
 
@@ -188,7 +190,7 @@ A taxa reduzida não abrange os materiais incorporados, salvo se o respetivo val
 
 2.31 - Aquisição e reparação de velocípedes.
 
-2.32 – Entradas em espetáculos de canto, dança, música, teatro, cinema, circo, entradas em exposições, entradas em jardins zoológicos, botânicos e aquários públicos, desde que não beneficiem da isenção prevista no n.º 13 do artigo 9.º do Código do IVA, excetuando -se as entradas em espetáculos de caráter pornográfico ou obsceno, como tal considerados na legislação sobre a matéria.
+2.32 – Entradas em espetáculos de canto, dança, música, teatro, cinema, tauromaquia, circo, entradas em exposições, entradas em jardins zoológicos, botânicos e aquários públicos, desde que não beneficiem da isenção prevista no n.º 13 do artigo 9.º do Código do IVA, excetuando-se as entradas em espetáculos de caráter pornográfico ou obsceno, como tal considerados na legislação sobre a matéria.
 
 2.33 - Componente fixa das tarifas de acesso às redes nos fornecimentos de eletricidade, correspondentes a uma potência contratada que não ultrapasse 3,45 kVA, e nos fornecimentos de gás natural, correspondentes a consumos em baixa pressão que não ultrapassem os 10.000 m3 anuais.
 
@@ -199,6 +201,12 @@ A taxa reduzida não abrange os materiais incorporados, salvo se o respetivo val
 2.36 – As prestações de serviços de reparações de aparelhos domésticos.
 
 2.37 - Aquisição, entrega e instalação, manutenção e reparação de aparelhos, máquinas e outros equipamentos destinados exclusiva ou principalmente à captação e aproveitamento de energia solar, eólica e geotérmica e de outras formas alternativas de energia.
+
+2.38 - Fornecimento de eletricidade para consumo, com exclusão das suas componentes fixas, relativamente a uma potência contratada que não ultrapasse 6,90 kVA, na parte que não exceda:
+
+a) 200 kWh por período de 30 dias;
+
+b) 300 kWh por período de 30 dias, quando adquirida para consumo de famílias numerosas, considerando-se como tais os agregados familiares constituídos por cinco ou mais pessoas.
 
 2.39 - Acesso à transmissão em direto de espetáculos e eventos de teatros, feiras, parques de diversões, concertos, museus, cinemas ou outros similares.
 

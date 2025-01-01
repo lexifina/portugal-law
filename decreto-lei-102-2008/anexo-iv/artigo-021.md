@@ -4,7 +4,7 @@
 
 1 - Exclui-se, todavia, do direito à dedução o imposto contido nas seguintes despesas:
 
-a) Despesas relativas à aquisição, fabrico ou importação, à locação, à utilização, à transformação e reparação de viaturas de turismo, de barcos de recreio, helicópteros, aviões, motos e motociclos. É considerado viatura de turismo qualquer veículo automóvel, com inclusão do reboque, que, pelo seu tipo de construção e equipamento, não seja destinado unicamente ao transporte de mercadorias ou a uma utilização com carácter agrícola, comercial ou industrial ou que, sendo misto ou de transporte de passageiros, não tenha mais de nove lugares, com inclusão do condutor;
+a) Despesas relativas à aquisição, fabrico ou importação, à locação, à utilização, à transformação e reparação de viaturas de turismo, de barcos de recreio, helicópteros, aviões, motos e motociclos, não se enquadrando os velocípedes, com ou sem motor, em nenhuma destas categorias de veículos. É considerado viatura de turismo qualquer veículo automóvel, com inclusão do reboque, que, pelo seu tipo de construção e equipamento, não seja destinado unicamente ao transporte de mercadorias ou a uma utilização com caráter agrícola, comercial ou industrial ou que, sendo misto ou de transporte de passageiros, não tenha mais de nove lugares, com inclusão do condutor;
 
 b) Despesas respeitantes a combustíveis normalmente utilizáveis em viaturas automóveis, com exceção das aquisições de gasóleo, de gases de petróleo liquefeitos (GPL), gás natural e biocombustíveis, cujo imposto é dedutível na proporção de 50 %, a menos que se trate dos bens a seguir indicados, caso em que o imposto relativo aos consumos de gasóleo, gasolina, GPL, gás natural e biocombustíveis é totalmente dedutível:
 
