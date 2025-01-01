@@ -1,7 +1,3 @@
-Decreto-Lei n.º 165/2006
-
-de 11 de Agosto
-
 Assegurar o ensino e a valorização permanente da língua portuguesa, defender o seu uso e fomentar a sua difusão internacional constituem tarefas fundamentais do Estado, tal como se encontram definidas na Constituição. Por força das disposições constitucionais, o Estado está ainda incumbido da defesa e promoção da cultura portuguesa no estrangeiro e de facultar aos filhos dos portugueses residentes no estrangeiro o acesso a essa cultura, bem como ao ensino da língua materna.
 
 No desenvolvimento destes preceitos, a Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro, alterada pela Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto) consagrou o ensino português no estrangeiro como modalidade especial de educação escolar, atribuindo ao Estado a responsabilidade de impulsionar a divulgação e o estudo da língua e da cultura portuguesas no estrangeiro mediante acções e meios diversificados que visem, nomeadamente, a sua inclusão nos planos curriculares de outros países. Determinou ainda que o ensino da língua e da cultura portuguesas deve ser assegurado aos portugueses residentes no estrangeiro e aos seus filhos por meio de cursos e actividades desenvolvidos em regime de integração ou de complementaridade relativamente aos sistemas educativos dos países de acolhimento. Nos termos da lei, as iniciativas de associações de portugueses e as de entidades estrangeiras, públicas e privadas, desde que contribuam para esse fim, devem também ser objecto de incentivo e apoio público.
