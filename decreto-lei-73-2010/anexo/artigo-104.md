@@ -18,7 +18,7 @@ e) Tabaco para cachimbo de água - 50 %.
 
 a) Charutos - 416,22 (euro) por milheiro;
 
-b) Cigarrilhas - 62,43 (euro) por milheiro.
+b) Cigarrilhas - 50 % do imposto mínimo sobre os cigarros, aplicável aos cigarros vendidos ao preço médio ponderado dos mesmos, conforme previsto no n.º 5 do artigo 103.º
 
 3 - (Revogado.)
 

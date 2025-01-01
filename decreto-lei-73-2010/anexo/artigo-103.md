@@ -16,13 +16,9 @@ b) Elemento ad valorem - 1 %.
 
 5 - Os cigarros ficam sujeitos a um montante mínimo de imposto sobre o tabaco que corresponde ao imposto mínimo total de referência deduzido do montante do imposto de valor acrescentado correspondente ao preço de venda ao público desses cigarros.
 
-6 - O imposto mínimo total de referência a vigorar em cada ano corresponde ao maior dos seguintes montantes:
+6 - O imposto mínimo total de referência, a vigorar em cada ano, corresponde ao somatório do produto da aplicação das taxas de imposto sobre o tabaco previstas no n.º 4 e da taxa do imposto sobre o valor acrescentado ao preço médio ponderado nacional dos cigarros.
 
-a) Tributação média nacional, que resulta do somatório do produto da aplicação das taxas de imposto sobre o tabaco previstas no n.º 4 e da taxa do imposto sobre o valor acrescentado ao preço médio ponderado nacional dos cigarros;
-
-b) Tributação média europeia, que resulta do produto entre, por um lado, a tributação média ponderada pelas introduções no consumo dos Estados-Membros da União Europeia definida no n.º 7 e, por outro lado, do preço médio ponderado nacional.
-
-7 - A tributação média ponderada pelas introduções no consumo dos Estados-Membros da União Europeia resulta do imposto total incidente sobre os cigarros, incluindo o imposto sobre o valor acrescentado, em percentagem do preço médio ponderado em cada Estado-Membro, com base nos dados mais recentes que se encontrem publicados no dia 30 de novembro do ano anterior (ano n-1), na «base de dados de impostos na Europa» e nas estatísticas de introduções no consumo disponíveis no sítio eletrónico da Comissão Europeia.
+7 - (Revogado.)
 
 8 - O preço médio ponderado nacional resulta do valor de todos os cigarros introduzidos no consumo, com base no respetivo preço de venda ao público, dividido pela quantidade total dos cigarros introduzidos no consumo em Portugal, no período entre o dia 1 de dezembro do segundo ano anterior (ano n-2) e o dia 30 de novembro do ano anterior (ano n-1), arredondado por excesso ou por defeito à segunda casa decimal.
 
