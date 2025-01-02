@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eHNElB5sAbInrUM%2b1CK3%2bZZa4TA9qAQPFf3pu38QAyPkvnwic8govNMKXbQNlbs2hEipvp7d%2bJTZ%2fEXuaVMsqH8PlGbuSUTPJBr%2boVxdG6Kf2Zpi44%2ba27Oq89l7REdmP%2bBA3defOQ893NSOao0aChocF4k45AVxJ78%2btG0ohXUXuO4Y%2bZIZFToQ4LzcKH05JzQXytw36hhukfq%2bltX9tVH%2fVlxInE1L3MbA9QHVtWzJy2E50PzKMqJf9sR0coFCykSRfPL2oeoHIUYESHnHo%2fHCYD%2fRDx4nh7oswP9bNvADk1%2fZBmrNYYAnk5%2biW00Uj9L%2fJC8v1jUaGVk112b6gEmaJhYEl%2f9y1W4PzI%2bLZx6dSRM%2fC%2fObwkktGczrUJ2rprAZUQsqTvRFDaVKMu3Qf9t%2figaPEsyan6ofqGlcTcU%3d&fich=RequerimentosXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "910d45d7aabe22385422e83c29132f9174a497a7d21d709f9bd70bcef3f9c95f",
+  "legislatura": "XVI",
+  "id": "166848",
+  "tipo": "Pergunta",
+  "numero": "862",
+  "data_registo": "2025-01-02",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Demolição da Quinta do Mitra no âmbito da linha de alta velocidade, da ligação do Porto a Vigo",
+    "Autores": [
+      {
+        "GP": "CH",
+        "idCadastro": "6547",
+        "nome": "Cristina Rodrigues"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "6858",
+        "nome": "Diogo Pacheco de Amorim"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8353",
+        "nome": "José Carvalho"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "9007",
+        "nome": "Raul Melo"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7344",
+        "nome": "Rui Afonso"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8091",
+        "nome": "Sónia Monteiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7965",
+        "nome": "Marcus Santos"
+      }
+    ],
+    "DataEnvio": "2025-01-07",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2025-01-07",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro das Infraestruturas e Habitação",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2025-02-06",
+            "docRemetida": null,
+            "entidade": "Ministro das Infraestruturas e Habitação",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c3245304d7a4d334d7a67344c5445784f4451744e444933595331695a4749784c575a6c5a474d334f4445324e4759774d6935775a47593d&fich=a4337388-1184-427a-bdb1-fedc78164f02.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2025-01-02",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c325933597a68694f54417a4c5745304e4445744e44426b4e533034596a637a4c544d315a6a6c6b5a4467324f446735596935775a47593d&fich=f7c8b903-a441-40d5-8b73-35f9dd86889b.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "166848",
+    "Legislatura": "XVI",
+    "Nr": "862",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
