@@ -2,6 +2,6 @@
 
 ### Cargos dirigentes intermédios
 
-1. As direções e o Gabinete de Planeamento e Qualidade são dirigidos por diretores de direção, cargos de direção intermédia de 1.º grau.
+1 - As unidades orgânicas previstas no n.º 1 do artigo 1.º são dirigidos por diretores, cargos de direção intermédia de 1.º grau.
 
-2. O Gabinete Jurídico e de Contencioso e as unidades orgânicas flexíveis são dirigidos por diretores de unidade, cargos de direção intermédia de 2.º grau..
+2 - As unidades orgânicas flexíveis, previstas no n.º 2 do artigo 1.º, são dirigidas por diretores de unidade, cargos de direção intermédia de 2.º grau.

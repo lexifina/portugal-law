@@ -32,7 +32,7 @@ k) Direção de Informação e Planeamento Estratégico;
 
 l) Gabinete Jurídico e de Contencioso.
 
-2. Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até catorze unidades orgânicas flexíveis, integradas ou não nas direções a que se refere o número anterior, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação no Diário da República.
+2 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até 27 (vinte e sete) unidades orgânicas flexíveis, integradas ou não nas direções a que se refere o número anterior, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação no Diário da República.
 
 3. [Revogado.]
 

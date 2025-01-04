@@ -16,8 +16,10 @@ e) Promover a certificação e acreditação dos serviços do INFARMED, I. P., s
 
 f) Garantir o controlo da gestão interna;
 
-g) Garantir a assessoria técnica especializada ao conselho diretivo, nomeadamente nas áreas de informação estratégica;
+g) Assegurar a área de gestão do risco organizacional e auditorias, garantindo cumprimento da legislação sobre a matéria designadamente na área do plano de prevenção de riscos;
 
-h) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;
+h) Garantir a assessoria técnica especializada ao conselho diretivo, nomeadamente nas áreas de informação estratégica;
 
-i) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.
+i) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;
+
+j) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.

@@ -14,7 +14,7 @@ d) Assegurar as atividades do INFARMED, I. P., em matéria da avaliação prévi
 
 e) Assegurar as atribuições do INFARMED, I. P., em matéria de preço de venda ao público de tecnologias de saúde;
 
-f) Proceder à identificação prospetiva das inovações em matéria de tecnologia de saúde e avaliar o seu possível impacto na saúde pública e no Serviço Nacional de Saúde;
+f) Proceder à identificação prospetiva das inovações em matéria de tecnologia de saúde, incluindo no âmbito do quadro regulamentar europeu, de monitorização de tecnologias emergentes, e avaliar o seu possível impacto na saúde pública e no Serviço Nacional de Saúde;
 
 g) Colaborar com entidades nacionais e internacionais na realização de estudos na área das tecnologias de saúde, nomeadamente as que decorram da execução de estratégias de desenvolvimento do setor;
 
@@ -30,8 +30,20 @@ l) Assegurar a articulação com as comissões técnicas do INFARMED, I. P. com 
 
 m) Colaborar nas atividades de aconselhamento regulamentar e científico;
 
-n) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.
+n) (Revogada.)
 
 o) [Revogada.]
 
 p) [Revogada.]
+
+q) Assegurar, em matéria da avaliação de tecnologias de saúde, as atribuições decorrentes do quadro comunitário de avaliação clínica de tecnologias de saúde e de realização de consultas científicas conjuntas;
+
+r) Assegurar a intervenção em procedimentos voluntários de cooperação europeia, nomeadamente cooperações regionais, em matérias de avaliação de tecnologias de saúde e de preços e negociações conjuntas, visando promover a sustentabilidade e acesso aos medicamentos e produtos de saúde;
+
+s) Intervir em iniciativas e projetos tendentes à discussão de novos modelos de pagamento em conexão com processos de aquisições conjuntas;
+
+t) Reforçar e otimizar, na área da geração de evidência, a recolha de dados, assente na transformação digital, e cooperar para transformar os dados em evidência que apoie reguladores, avaliação de tecnologias de saúde, pagadores, decisores clínicos e doentes de modo a melhorar a eficiência e os resultados em saúde;
+
+u) Promover a melhor articulação nas ações de colaboração conjunta das autoridades nacionais competentes em matéria de preços e comparticipação, a fim de reforçar a partilha e análise de matérias comuns e a definição de metodologias de trabalho que assegurem a articulação e a continuidade de agenda entre as presidências da União Europeia;
+
+v) Assegurar, ainda, qualquer representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.
