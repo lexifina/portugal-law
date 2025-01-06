@@ -1,0 +1,204 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "402",
+    "id": "314465",
+    "titulo": "Criminaliza a esterilização forçada de pessoas com deficiência e/ou incapazes e garante a proteção dos seus direitos sexuais e reprodutivos"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-01-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "86366",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-01-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-01-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d7a6735597a526a4e4330334f57466c4c5452684d6d45744f54466a4d7930345a4749774d7a42684d7a49345a5445756347526d&fich=9389c4c4-79ae-4a2a-91c3-8db030a328e1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4f5441344f544e694d43316d4d444e684c54526a4e6a67744f5755774d7931694d6a4534597a566a4e444d344d6a59756347526d&fich=e90893b0-f03a-4c68-9e03-b218c5c43826.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e54426d5a475a695953316d4e6a637a4c5451784e6a45744f4441344f43307a4f475178596a67344f4451784e5755756347526d&fich=850fdfba-f673-4161-8088-38d1b888415e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-01-29",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a597a67305a6a426d5a4330354d6a59354c5451794d6d55744f474a6c4d53307a4e5749334e6a59304e7a4d354d6d51756347526d&fich=cc84f0fd-9269-422e-8be1-35b76647392d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8393",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8393",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-01-29"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-01-20"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-01-08"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2025-01-08"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-01-08"
+          },
+          {
+            "link": "",
+            "nome": "CNOD - Confederação Nacional de Organizações de Pessoas com Deficiência em 2025-01-08"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+            "pag": [
+              "5-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-05",
+            "pubLeg": "XVI",
+            "pubNr": "175",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/175/2025-02-05/5?pgs=5-7&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+            "pag": [
+              "5-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-05",
+            "pubLeg": "XVI",
+            "pubNr": "175",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/175/2025-02-05/5?pgs=5-7&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "IL",
+            "id": "7973",
+            "motivoCessacao": null,
+            "nome": "Mariana Leitão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-02-05",
+            "dataRemessa": "2025-02-05",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "CDS-PP",
+              "PAN"
+            ],
+            "data": "2025-02-05",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I><BR>Ausência: <I>CDS-PP</I>, <I> PAN</I>",
+            "id": "128245",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "60",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-01-06",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1581376",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
