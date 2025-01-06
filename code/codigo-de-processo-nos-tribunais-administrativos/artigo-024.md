@@ -4,11 +4,11 @@
 
 1 - O processo nos tribunais administrativos é um processo eletrónico, constituído por informação estruturada constante do respetivo sistema de informação e por documentos eletrónicos, sendo os atos processuais escritos praticados por via eletrónica nos termos a definir por portaria do membro do Governo responsável pela área justiça.
 
-2 - A citação das entidades públicas é efetuada eletronicamente e, quando não houver lugar a despacho liminar, de forma automática, nos termos definidos no Código de Processo Civil para as pessoas coletivas.
+2 - Os atos processuais que devam ser praticados por escrito pelas partes são apresentados em juízo por via eletrónica, nos termos definidos na portaria referida no número anterior, valendo como data da prática do ato processual a da respetiva expedição.
 
 3 - Sempre que, no âmbito de peça processual apresentada pelas partes, exista desconformidade entre a informação estruturada e a informação constante de documento da autoria das partes, prevalece a informação estruturada, podendo esta no entanto ser corrigida nos termos gerais.
 
-4 - A citação das entidades públicas identificadas por portaria do membro do Governo responsável pela área da justiça é efetuada eletronicamente e, quando não houver lugar a despacho liminar, de forma automática, nos termos definidos na portaria referida no n.º 1.
+4 - A citação das entidades públicas é efetuada eletronicamente e, quando não houver lugar a despacho liminar, de forma automática, nos termos definidos no Código de Processo Civil para as pessoas coletivas.
 
 5 - Sempre que se trate de causa que não importe a constituição de mandatário, e a parte não esteja patrocinada, a prática dos atos previstos no n.º 2 pode ser efetuada por uma das seguintes formas:
 
