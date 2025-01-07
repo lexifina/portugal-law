@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=F9PDOHNFycB6%2fwHBIK8pxp90NHMVWRoPo7xRrSheCH%2bXxTqdPsHw6D6aNnw9iqXvKxrH0P9GJq%2b8nJ0ko5nPHKfPEL8708E670ha7An37sU4tGcztL8bhpHrCso2hm3iseZ4qeJi7bkbYKgyGvQIwxzddtmYuv4DcTC30HQKz79JFlOXvg03OoOS04yfZ68VYC28B4Y0zeq4kcV5KAu8QiQv5%2fFgUPsyig4aVYLHuh7fjhY7f5ZsHhjgiGjp5rJRhMiHrQ779WBR20oFU%2fl9o7E0tJ1VoRCT%2bJWMcMmsim85dzAqwb7dte5lqENalDhiAmRdnx%2freJJxlTxGDmPGNwxfjJ0%2fVlolAj0cWgs%2bJ8w%3d&fich=IntervencoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "642a74698e32955c3a685f799a9bc60770a614b0fea5fabf6e4055551add8069",
+  "legislatura": "XVI",
+  "id": "414129",
+  "tipo": "Declaração politica",
+  "orador": "Carlos Eduardo Reis (PSD)",
+  "data_registo": "2025-01-07",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "147312",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "147312",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Parte de uma retrospetiva crítica relativamente ao Governo do Partido Socialista, sublinha as mudanças registadas com a mudança de Governo e elenca as principais medidas já implementadas. "
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Em Declaração Política, partindo de uma retrospetiva crítica relativamente ao Governo do Partido Socialista, sublinha as mudanças registadas com a mudança de Governo e elenca as principais medidas já implementadas.",
+        "duracao": "00:07:18.993",
+        "tipoIntervencao": "Declaração politica",
+        "url": "https://av.parlamento.pt/videos/Plenary/16/1/72/54"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Pedro Pinto (CH), Paula Santos (PCP), Fabian Figueiredo (BE) e Paulo Núncio (CDS-PP, no âmbito da Declaração Política em que, partindo de uma retrospetiva crítica relativamente ao Governo do Partido Socialista, sublinhou as mudanças registadas com a mudança de Governo e elencou as principais medidas já implementadas.",
+        "duracao": "00:03:11.341",
+        "tipoIntervencao": "Declaração politica",
+        "url": "https://av.parlamento.pt/videos/Plenary/16/1/72/59"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Marcos Perestrello (PS), Rodrigo Saraiva (IL) e Filipa Pinto (L), no âmbito da Declaração Política em que, partindo de uma retrospetiva crítica relativamente ao Governo do Partido Socialista, sublinhou as mudanças registadas com a mudança de Governo e elencou as principais medidas já implementadas.",
+        "duracao": "00:02:47.380",
+        "tipoIntervencao": "Declaração politica",
+        "url": "https://av.parlamento.pt/videos/Plenary/16/1/72/65"
+      }
+    ],
+    "DataReuniaoPlenaria": "2025-01-07",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "6930",
+      "nome": "Carlos Eduardo Reis"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "414129",
+    "IdDebate": "36603",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "414129",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "57-59",
+          "62-63",
+          "65-66"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-08",
+        "pubLeg": "XVI",
+        "pubNr": "72",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/072/2025-01-08/57?pgs=57-59,62-63,65-66&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde aos pedidos de esclarecimento dos Deputados Pedro Pinto (CH), Paula Santos (PCP), Fabian Figueiredo (BE), Paulo Núncio (CDS-PP), Marcos Perestrello (PS), Rodrigo Saraiva (IL) e Filipa Pinto (L).",
+    "Sessao": "1",
+    "Sumario": "Parte de uma retrospetiva crítica relativamente ao Governo do Partido Socialista, sublinha as mudanças registadas com a mudança de Governo e elenca as principais medidas já implementadas.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração politica"
+  }
+}
