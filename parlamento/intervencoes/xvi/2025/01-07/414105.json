@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=F9PDOHNFycB6%2fwHBIK8pxp90NHMVWRoPo7xRrSheCH%2bXxTqdPsHw6D6aNnw9iqXvKxrH0P9GJq%2b8nJ0ko5nPHKfPEL8708E670ha7An37sU4tGcztL8bhpHrCso2hm3iseZ4qeJi7bkbYKgyGvQIwxzddtmYuv4DcTC30HQKz79JFlOXvg03OoOS04yfZ68VYC28B4Y0zeq4kcV5KAu8QiQv5%2fFgUPsyig4aVYLHuh7fjhY7f5ZsHhjgiGjp5rJRhMiHrQ779WBR20oFU%2fl9o7E0tJ1VoRCT%2bJWMcMmsim85dzAqwb7dte5lqENalDhiAmRdnx%2freJJxlTxGDmPGNwxfjJ0%2fVlolAj0cWgs%2bJ8w%3d&fich=IntervencoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "642a74698e32955c3a685f799a9bc60770a614b0fea5fabf6e4055551add8069",
+  "legislatura": "XVI",
+  "id": "414105",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "João Vale e Azevedo (PSD)",
+  "data_registo": "2025-01-07",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "147308",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "147308",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Fala da alteração à lei dos solos, levada a cabo pelo atual Governo, considerando-a um fator de especulação imobiliária, um convite à corrupção e um risco para a segurança da população."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Dirige Pedido de Esclarecimento a Mariana Mortágua (BE), no âmbito da Declaração Política em que esta falou da alteração à lei dos solos, levada a cabo pelo Governo, considerando-a um fator de especulação imobiliária, um convite à corrupção e um risco para a segurança da população.",
+        "duracao": "00:02:14.651",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "https://av.parlamento.pt/videos/Plenary/16/1/72/24"
+      }
+    ],
+    "DataReuniaoPlenaria": "2025-01-07",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "8320",
+      "nome": "João Vale e Azevedo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "414105",
+    "IdDebate": "36599",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "414105",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "30-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-08",
+        "pubLeg": "XVI",
+        "pubNr": "72",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/072/2025-01-08/30?pgs=30&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "À Deputada Mariana Mortágua (BE)",
+    "Sessao": "1",
+    "Sumario": "Fala da alteração à lei dos solos, levada a cabo pelo atual Governo, considerando-a um fator de especulação imobiliária, um convite à corrupção e um risco para a segurança da população.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
