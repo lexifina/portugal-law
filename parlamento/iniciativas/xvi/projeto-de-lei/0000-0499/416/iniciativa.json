@@ -1,0 +1,432 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "416",
+  "id": "314487",
+  "fases": 24,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-01-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f54646b596a4a6c4d6d5974595751355a6930304d6d5a6b4c5745334d4751744d474d794e4451314e5467784f44566d4c6e426b5a673d3d&fich=97db2e2f-ad9f-42fd-a70d-0c244558185f.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a546b785a5755794d4749744d6a55785a5330304f44426a4c5749794e7a49744e324d345a6d45774e3259324e4745354c6d52765933673d&fich=e91ee20b-251e-480c-b272-7c8fa07f64a9.docx&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão 1"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6543",
+        "nome": "Alexandra Leitão"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "7040",
+        "nome": "Fabian Figueiredo"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4197",
+        "nome": "Paula Santos"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "7356",
+        "nome": "Isabel Mendes Lopes"
+      },
+      {
+        "GP": "PAN",
+        "idCadastro": "6864",
+        "nome": "Inês de Sousa Real"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2665",
+        "nome": "Jorge Paulo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8698",
+        "nome": "Olga Freire"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8863",
+        "nome": "Dulcineia Catarina Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6661",
+        "nome": "Carlos Brás"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6884",
+        "nome": "Jorge Botelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6870",
+        "nome": "Marina Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2885",
+        "nome": "Joana Lima"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "817",
+        "nome": "Alfredo Maia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8783",
+        "nome": "Carlos Silva Santiago"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6546",
+        "nome": "João Azevedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7335",
+        "nome": "Sónia Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8152",
+        "nome": "Almiro Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8411",
+        "nome": "Luís Newton"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4328",
+        "nome": "Maurício Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8978",
+        "nome": "Silvério Regalado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5993",
+        "nome": "Alberto Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4308",
+        "nome": "Salvador Malheiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2397",
+        "nome": "Francisco Covelinhas Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2641",
+        "nome": "Paulo Cavaleiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1646",
+        "nome": "Carlos Reis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2106",
+        "nome": "Regina Bastos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8244",
+        "nome": "Ângela Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2071",
+        "nome": "Miguel Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1738",
+        "nome": "Pedro Alves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7425",
+        "nome": "Sofia Carreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8525",
+        "nome": "Gonçalo Valente"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7205",
+        "nome": "Ricardo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8924",
+        "nome": "Ricardo Araújo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7796",
+        "nome": "Francisco Sousa Vieira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7504",
+        "nome": "Paulo Edson Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6119",
+        "nome": "Emília Cerqueira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4330",
+        "nome": "Ana Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4484",
+        "nome": "Marco Claudino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7753",
+        "nome": "Andreia Bernardo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7317",
+        "nome": "João Antunes dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8895",
+        "nome": "Pedro Neves de Sousa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2297",
+        "nome": "Cristóvão Norte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4147",
+        "nome": "Carla Barros"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8391",
+        "nome": "Liliana Reis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7350",
+        "nome": "Fátima Correia Pinto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6878",
+        "nome": "Nuno Fazenda"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7731",
+        "nome": "Ricardo Lima"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8230",
+        "nome": "André Rijo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7483",
+        "nome": "Gilberto Anjos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7494",
+        "nome": "Irene Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7935",
+        "nome": "Ricardo Lino"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8986",
+        "nome": "Sofia Canha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4347",
+        "nome": "Walter Chicharro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6532",
+        "nome": "Ana Mendes Godinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5852",
+        "nome": "Davide Amado"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7212",
+        "nome": "Fernando José"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7018",
+        "nome": "Mara Lagriminha Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8559",
+        "nome": "Isabel Ferreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7379",
+        "nome": "José Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8396",
+        "nome": "Luís Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5677",
+        "nome": "Luís Graça"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1865",
+        "nome": "Nelson Brito"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1893",
+        "nome": "Pedro Coimbra"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6552",
+        "nome": "Ricardo Pinheiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6962",
+        "nome": "Susana Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4210",
+        "nome": "José Rui Cruz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7250",
+        "nome": "Clarisse Campos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7348",
+        "nome": "Miguel Iglésias"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "PS"
+      },
+      {
+        "GP": "BE"
+      },
+      {
+        "GP": "PCP"
+      },
+      {
+        "GP": "L"
+      },
+      {
+        "GP": "PAN"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "314487",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5459774d7a6c694f544d74595463324e7930304e5445334c5467794e5441744f4459305954557a4d4751794f5467304c6d52765933673d&fich=16039b93-a767-4517-8250-864a530d2984.docx&Inline=true",
+    "IniNr": "416",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto a pedido do autor em 2025-01-15.",
+    "IniTipo": "J",
+    "IniTitulo": "Aprova a reposição de freguesias agregadas pela Lei n.º 11-A/2013, de 28 de janeiro, concluindo o procedimento especial, simplificado e transitório de criação de Freguesias aprovado pela Lei n.º 39/2021, de 24 de junho",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
