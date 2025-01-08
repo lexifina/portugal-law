@@ -1,0 +1,7 @@
+Aviso (extrato)  n.º 722/2025/2
+
+Carlos Miguel Nolasco de Lemos, na qualidade de Presidente da Freguesia de Fermentelos, torna público que, por deliberação da Junta de Freguesia, tomada em reunião extraordinária de 28 de novembro de 2024, nos termos e para os efeitos previstos no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2005, de 7 de janeiro, se submete a consulta publica, pelo prazo de 30 dias a contar da data de publicação do presente aviso, regulamento “Normas de Funcionamento do Programa Ginástica Sénior”.
+Durante o período mencionado poderão os/as interessados/as consultar o referido regulamento: Normas de Funcionamento do Programa Ginástica Sénior, através da página eletrónica da Freguesia (www.jf-fermentelos.pt) onde ficará disponível.
+Os/As interessados/as, no decurso desse prazo, poderão apresentar as sugestões, por escrito dirigidas ao Senhor Presidente da Junta de Freguesia, para o seguinte endereço, Rua do Miradouro n.º 13, sala 1, 3750-455 Fermentelos, ou através do correio eletrónico para o endereço jffermentelos.secretaria@gmail.com ou pessoalmente na Balcão de Atendimento da Junta, sito na morada acima mencionada, indicando para o efeito os dados necessários à sua identificação consoante se trate de pessoa singular ou coletiva: o nome ou denominação social, o número de identificação fiscal ou número de pessoa coletiva, a residência ou sede e contacto telefónico
+28 de novembro de 2024. - O Presidente da Freguesia de Fermentelos, Carlos Miguel Nolasco de Lemos.
+318503805
