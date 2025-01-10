@@ -1,0 +1,11 @@
+Aviso (extrato)  n.º 950/2025/2
+
+ “Aprovação da Alteração ao Regulamento de Taxas e Tabela de Preços da Freguesia de Falagueira-Venda Nova”
+No âmbito das suas competências próprias, atribuídas pela Lei n.º 75/2013, de 12 de setembro, que institui o Regime Jurídico das Autarquias Locais, a Junta de Freguesia da Falagueira-Venda Nova apresenta o projeto da alteração ao Regulamento Geral de Taxas e Preços a aplicar pelas utilidades prestadas aos particulares.
+Por deliberação tomada pela Junta de Freguesia em reunião ordinária de 07 de novembro de 2024, foi decidido submeter o projeto de regulamento a consulta pública, para recolha de sugestões, procedendo, para o efeito, à sua publicação na 2.ª série do Diário da República e no sítio institucional da Autarquia, em cumprimento do disposto no artigo 101.º do Código do Procedimento Administrativo.
+A consulta pública decorreu pelo prazo legal de 30 (trinta) dias úteis, contados a partir da data da publicação do aviso na 2.ª série do Diário da República.
+Findo o prazo de consulta, verifica-se que não foram apresentadas quaisquer sugestões.
+Assim, torna-se público que, no exercício do poder regulamentar conferido às autarquias locais pelo artigo 241.º da Constituição da República Portuguesa e pela alínea h) do n.º 1 do artigo 16.º do Regime Jurídico das Autarquias Locais (Lei n.º 75/2013, de 12 de setembro), a Assembleia de Freguesia da Falagueira-Venda Nova, por deliberação tomada em sessão ordinária de 20 de dezembro de 2024, no exercício da competência que lhe é conferida pela alínea g) do n.º 1 do artigo 25.º do Regime Jurídico das Autarquias Locais, e em conformidade com a proposta da Junta de Freguesia da Falagueira-Venda Nova, consubstanciada na deliberação tomada pelo órgão executivo em reunião ordinária de dia 19 de dezembro de 2024, estabelece o Regulamento Geral de Taxas e Tabela de Preços da Freguesia de Falagueira-Venda Nova que pode ser consultado na íntegra na Secção de Atendimento desta Junta de Freguesia e no site oficial em www.jf-falagueiravendanova.pt.
+Para geral conhecimento, se publica o presente aviso, que vai ser afixado nos lugares públicos do costume, no Diário da República e no site da Freguesia.
+3 de janeiro de 2025. - A Presidente da Freguesia da Falagueira-Venda Nova, Rafaela Mendonça Heitor.
+318526867
