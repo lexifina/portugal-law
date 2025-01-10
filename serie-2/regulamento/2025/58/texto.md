@@ -1,0 +1,78 @@
+Regulamento n.º 58/2025
+
+Regulamento do Depósito de Bens Arqueológicos do Museu Municipal Polinucleado de Grândola
+Preâmbulo
+A abertura ao público do Núcleo Museológico de São Pedro (NMSP), no dia 9 de abril de 2021, constitui um marco na salvaguarda e divulgação da memória e do património do concelho de Grândola, com particular incidência no legado histórico-arqueológico. Com esta inauguração, ficaram também reunidas as bases para a criação do Museu Municipal Polinucleado de Grândola (MMPG), cujo documento fundador foi aprovado, por unanimidade, em reunião de Câmara do dia 6 de maio de 2021 e posteriormente em reunião da Assembleia Municipal do dia 18 de junho 2021. Associado ao NMSP e aproveitando o edifício da antiga Central Elétrica foram habilitadas quatro salas para instalação das reservas museológicas do município, com capacidade para acolher peças e bens de carácter histórico e etnográfico.
+Nos últimos anos, quer por iniciativa do município quer por entidades externas, tem-se verificado um acréscimo de intervenções arqueológicas no concelho de Grândola que têm proporcionado grandes quantidades de espólio arqueológico que importa proteger, salvaguardar e controlar o seu destino final. Para prevenir a dispersão do espólio exumado nos trabalhos arqueológicos realizados no concelho, o município de Grândola e a Direção-Geral do Património Cultural (DGPC) assinaram no dia 10 de outubro de 2023 um protocolo de cooperação com vista à credenciação do depósito de bens arqueológicos (Reserva de Arqueologia) instalado no NMSP, assumindo o município um papel mais ativo enquanto entidade gestora dos espólios que, pela sua natureza, são património nacional, e partilhando responsabilidades com a tutela nacional na preservação e conservação das coleções. Do mesmo modo, a capacitação e reconhecimento deste espaço pelo organismo de tutela nacional foi um contributo para a consolidação das funções museológicas do MMPG, nomeadamente no que concerne à incorporação, inventário, documentação, estudo e investigação.
+O presente regulamento estabelece as normas e procedimentos de organização interna e de funcionamento externo do Depósito Municipal de Bens Arqueológicos do Museu Municipal Polinucleado de Grândola. Foram cumpridas as exigências impostas pelo Regulamento Geral de Proteção de Dados, designadamente os princípios subjacentes ao tratamento de dados pessoais previstos no artigo 5.º do diploma, bem como os direitos dos titulares dos dados, salvaguardando, simultaneamente, os princípios que norteiam a atividade administrativa, expressos no Capítulo II do Código do Procedimento Administrativo (CPA), de que se destacam os princípios da boa administração, da proporcionalidade, justiça e razoabilidade, igualdade, boa-fé e proteção de dados pessoais, também eles contemplados na Constituição da República Portuguesa (CRP). Em cumprimento do disposto no artigo 101.º do CPA, o Projeto de Regulamento foi objeto de consulta pública, pelo prazo de 30 dias, tendo para esse efeito sido publicado no Diário da República 2.ª série, n.º 124 de 28 de junho de 2024 e na Internet, no sítio institucional do município de Grândola. O Projeto de Regulamento do Depósito Municipal de Bens Arqueológicos foi aprovado pelo Órgão Executivo do Município, em reunião realizada em 24 de outubro de 2024, nos termos da alínea k) do n.º 1 do artigo 33.º do Anexo I à Lei n.º 75/2013, de 12 setembro. Posteriormente foi aprovado pela Assembleia Municipal de Grândola, na sessão ordinária de 16 de dezembro de 2024, fazendo uso da competência que lhe é atribuída pela alínea g) do n.º 1 do artigo 25.º do Anexo I à Lei n.º 75/2013, de 12 de setembro.
+CAPÍTULO I
+DISPOSIÇÕES LEGAIS
+Artigo 1.º
+Lei habilitante
+O presente regulamento é elaborado ao abrigo do artigo 241.º da Constituição da República Portuguesa, do disposto nos artigos 25.º, n.º 1, alínea g) e 33.º, n.º 1, alínea k) do Capítulo III do Anexo I à Lei n.º 75/2013, de 12 de setembro (Regime Jurídico das Autarquias Locais).
+Artigo 2.º
+Âmbito da aplicação
+1 - O presente regulamento estabelece as normas gerais de funcionamento e acesso às instalações do Depósito de Bens Arqueológicos (doravante designado por “Depósito” ou “Reserva de Arqueologia”) do Museu Municipal Polinucleado de Grândola (MMPG).
+2 - Este espaço destina-se ao acolhimento e armazenamento de achados fortuitos de natureza arqueológica e bens procedentes de intervenções arqueológicas realizadas ou a realizar no concelho de Grândola.
+Artigo 3.º
+Localização
+1 - O Depósito integra as reservas museológicas do município e encontra-se instalado no edifício da antiga Central Elétrica, que, após recuperação e reabilitação, juntamente com a antiga Igreja de São Pedro, deu origem ao Núcleo Museológico de São Pedro, sito no Largo de São Pedro, 7570-184 Grândola, equipamento museológico complementado com áreas técnicas destinadas à investigação, conservação e restauro.
+2 - O Depósito do MMPG integra ainda um espaço situado na Casa Frayões Metellos - Núcleo Museológico de Etnografia, sito na rua Vaz Pontes, n.º 12, 7570-314 Grândola, destinado a bens arqueológicos de maior dimensão.
+Artigo 4.º
+Caracterização
+1 - O Depósito faz parte das reservas museológicas do MMPG e tem como finalidade a gestão, salvaguarda e preservação das coleções e dos bens aí depositados e incorporados.
+2 - O Depósito pertence ao MMPG, que é dotado de um Regulamento próprio (Regulamento n.º 82/2023, DR n.º 14/2023, 2.ª série de 19 de janeiro de 2023), pelo que se rege, no que se refere ao calendário e horários, pelos previamente estipulados para o museu.
+CAPÍTULO II
+ACESSO E SAÍDA
+Artigo 5.º
+Condições de acesso ao Depósito de Bens Arqueológicos
+1 - O Depósito constitui uma reserva organizada dos bens arqueológicos depositados no MMPG, encontrando-se fechado e interdito a pessoas externas ao serviço, de forma que seja garantida a preservação e a segurança do acervo.
+2 - O acesso de investigadores aos bens culturais e à documentação respetiva, para fins de estudo e investigação, pode ser autorizada mediante solicitação escrita fundamentada, apresentada ao presidente da câmara municipal.
+3 - A consulta e manipulação dos bens culturais só poderá ser efetuada sob supervisão dos técnicos para tal credenciados, nas instalações do Núcleo Museológico de São Pedro, não se abrindo exceção mesmo para investigadores com a devida autorização.
+4 - A consulta e manipulação dos bens culturais por investigadores externos deve ser realizada segundo o tipo de material, adotando os procedimentos e as boas práticas recomendadas pela tutela nacional e concordantes com os pressupostos definidos no Plano de Conservação Preventiva do MMPG.
+5 - Não obstante o disposto nos números anteriores, a interdição de acesso ao estudo dos bens depositados poderá justificar-se quando está em causa a sua conservação, indisponibilidade em virtude de exposição temporária ou outros fatores considerados relevantes pelos técnicos. A interdição deverá ser devidamente justificada ao requerente e, se possível, temporária.
+6 - Em situações excecionais, podem ser organizadas visitas orientadas ao Depósito para o público em geral, tendo sempre em atenção a segurança, preservação e salvaguarda dos bens culturais.
+Artigo 6.º
+Saída de bens do Depósito
+1 - A consulta e manipulação dos bens culturais para estudo e investigação deverá ser efetuada preferencialmente nas instalações do Núcleo Museológico de São Pedro, que conta com áreas técnicas habilitadas para o efeito.
+2 - Em casos excecionais, devidamente justificados e apenas após autorização superior, os bens podem sair das instalações do Núcleo Museológico de São Pedro para o desenvolvimento de atividades de investigação ou para divulgação em exposições temporárias, carecendo da existência de seguro.
+3 - As atividades de investigação ou análise que impliquem a obliteração parcial ou total de bens ou materiais depositados no depósito carecem de autorização superior, mediante solicitação escrita fundamentada ao presidente da câmara municipal.
+Artigo 7.º
+Divulgação dos resultados da investigação
+1 - A publicação ou divulgação dos estudos e investigações diretamente relacionados com bens ou materiais arqueológicos depositados na Reserva de Arqueologia deverá mencionar expressamente o MMPG e o município de Grândola.
+2 - O investigador ou instituição deve entregar uma cópia impressa e outra em suporte digital (Formato Portátil de Documento - PDF) do trabalho realizado para sua disponibilização no Centro de Documentação do Museu.
+CAPÍTULO III
+DEPÓSITO PROVISÓRIO E INCORPORAÇÃO DE BENS E COLEÇÕES
+Artigo 8.º
+Entrega de espólio arqueológico
+1 - A entrega de espólio é da responsabilidade do/a arqueólogo/a responsável pelos trabalhos (diretor científico), devidamente autorizados pela tutela, ao abrigo do Regulamento de Trabalhos Arqueológicos em vigor.
+2 - A entrega de espólio, previamente agendada com os técnicos afetos ao MMPG, deverá ser realizada neste espaço museológico, sito no Largo de São Pedro, 7570-184 Grândola.
+3 - Os materiais arqueológicos deverão ser entregues limpos, secos e referenciados (marcados ou etiquetados, de forma adequada à sua natureza) cumprindo as normas técnicas vigentes e as boas práticas museológicas.
+4 - Quanto ao embalamento, deverão considerar-se os seguintes pressupostos:
+a) As cerâmicas, líticos, restos osteológicos, faunas (mamalógicas e malacológicas) e amostras de sedimento deverão ser embalados em sacos de plástico transparentes perfurados, acompanhados de etiqueta protegida por saco hermeticamente fechado;
+b) Materiais muito sensíveis a alterações de humidade relativa (metais, madeiras, carvões, calcário, estuques, argamassas de cal, restos osteológicos, faunas, etc.), deverão ser embalados em sacos de plástico transparentes perfurados, referenciados com etiqueta protegida por saco hermeticamente fechado e acompanhados com um saco perfurado com sílica-gel HR 0 %;
+c) Os objetos metálicos serão embalados de acordo com o tipo de metal ou liga (ferro, cobre e/ ou bronze, chumbo, prata);
+d) Os materiais muito sensíveis, cuja fragilidade ou reduzida dimensão o determine, deverão ser guardados em caixas de plástico forradas com espuma de polietileno e dotadas de espaços individualizados para a colocação dos fragmentos, evitando o contacto entre si. Deverão acompanhar o referido espólio a etiqueta protegida em saco hermeticamente fechado e saco perfurado com sílica-gel HR 0 %.
+e) Os materiais não referidos anteriormente e/ou os bens de grande dimensão serão acomodados de modo que se garanta a sua integridade, carecendo de articulação com os técnicos do MMPG.
+5 - Os bens arqueológicos deverão ser acondicionados em contentores de plástico robustos e resistentes, norma “Euro”, empilháveis, perfurados e com 600 mm x 400 mm de dimensões externas, não devendo possuir mais de 250 mm de altura.
+6 - Os contentores deverão ser numerados sequencialmente e estar identificados no exterior com o acrónimo do sítio arqueológico, ano e tipo de material, sendo acompanhados de uma listagem própria no interior que explicite o seu conteúdo.
+7 - Em cumprimento do disposto no n.º 2 do artigo 18.º do Decreto-Lei n.º 164/2014 de 4 de novembro, os bens arqueológicos deverão ser acompanhados do «respetivo inventário e demais documentação produzida no decurso dos trabalhos de campo e de gabinete, indispensável ao manuseamento e compreensão da coleção e do seu contexto arqueológico». Deste modo, juntamente com os bens arqueológicos deverão entregar-se os seguintes elementos:
+a) Todos os relatórios de progresso e/ou relatórios preliminares, bem como o relatório final, impressos e em suporte digital (PDF), contendo todos os elementos definidos no Artigo 15.º do Decreto-Lei n.º 164/2014 de 4 de novembro;
+b) Listagem completa dos bens depositados, com informação detalhada da sua proveniência, contexto e descrição, assim como uma listagem das unidades de recolha constantes na documentação dos trabalhos arqueológicos (unidades estratigráficas, níveis, camadas, complexos), com a correspondente descrição sumária e caracterização. Os inventários (materiais, unidades de recolha e contentores) deverão ser entregues impressos e em suporte informático XLS ou outro compatível com a sua integração em bases de dados informáticas.
+c) Acompanham ainda o depósito de espólio arqueológico cópias de toda a documentação de registo de campo (fichas, registos cartográficos, topográficos, planimétricos e fotográficos), em formatos digitais standard (JPEG, TIFF, PDF); os registos fotográficos deverão respeitar a Circular de 10 de agosto de 2010 do IGESPAR, IP, relativa à documentação fotográfica, do mesmo modo que a documentação digital atenderá os pressupostos da Circular de 27 de dezembro de 2011 produzida pela mesma entidade.
+d) No caso de restos osteológicos ou outros vestígios biológicos humanos, estes deverão ser acompanhados pelo respetivo relatório, entregue impresso e em suporte digital (PDF), assim como a documentação de registo de campo, contendo toda a informação constante na Circular n.º 1/2014 (Trabalhos de Antropologia Biológica em Contexto Arqueológico) da Direção-Geral do Património Cultural.
+8 - O Museu reserva-se o direito de não receção de espólio arqueológico que não cumpra as condições de depósito previstas.
+Artigo 9.º
+Incorporação
+1 - No ato de depósito, e após confirmação das condições do espólio, produzir-se-á um Auto de Entrega, assinado por técnico do MMPG e pelo Diretor Científico da intervenção, do qual se dará conhecimento ao organismo de tutela do Património Arqueológico, junto com listagem de elementos depositados.
+2 - Ao espólio arqueológico depositado em reserva aplicar-se-ão os princípios da «Reserva Científica», conforme estipulado no artigo 10.º do Decreto-Lei n.º 164/2014 de 4 de novembro.
+3 - A Incorporação, definida como «ato de integração formal de um bem cultural no acervo do museu» no n.º 1 do artigo 13.º da Lei-Quadro dos Museus Portugueses (Lei n.º 47/2004, de 19 de agosto), é requerida pela Entidade Depositária ao organismo da Tutela, no prazo de cinco anos após o depósito, para cumprimento do predisposto no n.º 7 do artigo 18.º do Regulamento de Trabalhos Arqueológicos (Decreto-Lei n.º 164/2014 de 4 de novembro).
+4 - Para efeitos de divulgação e produção de documentos de planeamento e gestão de território, o Município de Grândola reserva-se o direito de fazer reproduzir a informação recolhida no decorrer da intervenção arqueológica, nos seus diferentes suportes, bem como os conteúdos dos relatórios produzidos, não sendo devida qualquer contrapartida financeira, salvaguardando-se os créditos de autoria técnica e científica.
+Artigo 10.º
+Dúvidas e omissões
+As dúvidas e omissões serão analisadas e sujeitas a parecer técnico dos serviços do MMPG e superiormente aprovadas pela Câmara Municipal de Grândola.
+Artigo 11.º
+Entrada em vigor e norma revogatória
+O presente Regulamento entra em vigor no dia seguinte ao da publicação do respetivo aviso no Diário da República, nos termos do disposto na alínea t) do n.º 1 do artigo 35.º conjugado com o artigo 56.º da Lei n.º 75/2013 de 12 de setembro.
+30 de dezembro de 2024. - O Presidente da Câmara, António de Jesus Figueira Mendes.
+318518434
