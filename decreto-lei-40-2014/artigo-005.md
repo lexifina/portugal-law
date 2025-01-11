@@ -2,6 +2,10 @@
 
 ## Contrapartes centrais
 
+## Secção I
+
+## Regime jurídico
+
 # Artigo 5.º
 
 ### Regime jurídico das contrapartes centrais

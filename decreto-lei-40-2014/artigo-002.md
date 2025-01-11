@@ -1,6 +1,6 @@
 ## Capítulo II
 
-## Autoridades competentes
+## Designações
 
 # Artigo 2.º
 

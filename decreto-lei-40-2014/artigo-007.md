@@ -2,7 +2,7 @@
 
 ### Contraordenações muito graves
 
-Constituem contraordenação muito grave a violação dos seguintes deveres constantes dos regulamentos EMIR ou OFVM, bem como dos seus atos delegados e restante regulamentação europeia ou nacional:
+1 - Constituem contraordenação muito grave a violação dos seguintes deveres constantes dos regulamentos EMIR ou OFVM, bem como dos seus atos delegados e restante regulamentação europeia ou nacional:
 
 a) Pelas contrapartes financeiras e contrapartes não financeiras:
 
@@ -31,3 +31,15 @@ d) (Revogada.)
 e) (Revogada.)
 
 f) (Revogada.)
+
+2 - Constitui contraordenação muito grave a violação, pelas contrapartes centrais, dos seguintes deveres previstos no Regulamento (UE) 2021/23 e respetiva regulamentação:
+
+a) De elaborar, manter e atualizar o plano de recuperação;
+
+b) De prestar, à autoridade de resolução, a informação necessária à elaboração e execução do plano de resolução;
+
+c) De respeitar as medidas determinadas pela autoridade de resolução para efeitos de redução dos impedimentos à resolubilidade;
+
+d) De não praticar ou omitir atos suscetíveis de impedir ou dificultar a aplicação de medidas de intervenção corretiva ou de resolução;
+
+e) De notificar a CMVM, quando se encontre em situação ou em risco de insolvência.

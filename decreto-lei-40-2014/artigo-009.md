@@ -1,5 +1,5 @@
 # Artigo 9.º
 
-### Negligência
+### Formas de infração
 
-A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+As contraordenações previstas no presente capítulo são imputadas a título de dolo ou de negligência.
