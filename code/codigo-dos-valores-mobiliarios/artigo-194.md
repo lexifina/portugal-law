@@ -8,7 +8,15 @@
 
 1 - Quem, na sequência do lançamento de oferta pública de aquisição geral em que seja visada sociedade emitente de ações admitidas à negociação em mercado regulamentado em Portugal, referida no n.º 1 do artigo 13.º-B, atinja ou ultrapasse, diretamente ou nos termos do n.º 1 do artigo 20.º, 90 % dos direitos de voto correspondentes ao capital social até ao apuramento dos resultados da oferta pode, nos três meses subsequentes, adquirir as ações remanescentes mediante contrapartida em dinheiro.
 
-2 - A contrapartida mínima a pagar nos termos do número anterior é a da oferta pública de aquisição geral ou, se mais elevado, o maior preço pago pelo oferente ou por qualquer das pessoas que, em relação a ele, estejam em alguma das situações previstas no n.º 1 do artigo 20.º pela aquisição de valores mobiliários da mesma categoria, ou que o oferente ou alguma daquelas pessoas se obrigou a pagar, entre o apuramento de resultados da oferta e o registo da aquisição potestativa pela CMVM.
+2 - A contrapartida mínima a pagar nos termos do número anterior é:
+
+a) Igual à da oferta pública de aquisição geral cuja contrapartida:
+
+i) Cumpra o disposto artigo 188.º; ou
+
+ii) Tenha permitido ao oferente adquirir, pelo menos, 90 % dos direitos de voto correspondentes ao capital social abrangidos pela oferta;
+
+b) Em qualquer caso, se mais elevado, o valor que o oferente ou qualquer das pessoas que, em relação a ele, estejam em alguma das situações previstas no n.º 1 do artigo 20.º, pagou ou se obrigou a pagar pela aquisição de valores mobiliários da mesma categoria, entre o apuramento de resultados da oferta e o registo da aquisição potestativa pela CMVM.
 
 3 - O sócio dominante que tome a decisão de aquisição potestativa deve publicar de imediato anúncio preliminar e enviá-lo à CMVM para efeitos de registo.
 
