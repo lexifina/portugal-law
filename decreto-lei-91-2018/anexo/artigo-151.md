@@ -86,14 +86,16 @@ nn) O exercício de quaisquer cargos ou funções em instituição de pagamento 
 
 oo) Os atos dolosos de gestão ruinosa praticados pelos membros dos órgãos sociais;
 
-pp) A violação das regras sobre cobrança de encargos nos termos previstos no artigo 3.º e nos n.os 1 e 3 do artigo 4.º do Regulamento (CE) n.º 924/2009, do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, com as alterações introduzidas pelo artigo 17.º do Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012;
+pp) A violação das regras sobre cobrança de encargos previstas no artigo 3.º, no n.º 7 do artigo 4.º e no 3.º parágrafo do n.º 1 e no n.º 2 do artigo 6.º do Regulamento (UE) 2021/1230 do Parlamento Europeu e do Conselho, de 14 de julho de 2021;
 
-qq) A violação das regras sobre cobrança de encargos nos termos previstos no n.º 8 do artigo 5.º do Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012;
+qq) A violação das regras sobre requisitos de informação e comunicações previstas nos artigos 4.º, 5.º e no 1.º e 2.º parágrafos do n.º 1 e no n.º 3 do artigo 6.º do Regulamento (UE) 2021/1230 do Parlamento Europeu e do Conselho, de 14 de julho de 2021;
 
-rr) A violação das regras sobre cobrança de taxas de intercâmbio, nos termos do disposto nos artigos 3.º, 4.º e 5.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
+rr) A violação das regras sobre cobrança de encargos nos termos previstos no n.º 8 do artigo 5.º do Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012;
 
-ss) O estabelecimento de regras ou disposições de efeito equivalente em acordos de licenciamento, em regras dos sistemas de pagamento com cartões ou em acordos celebrados entre os adquirentes e os beneficiários que violem as regras comerciais estabelecidas nos artigos 6.º e 8.º, com exceção do segundo parágrafo do n.º 6, 10.º, com exceção do n.º 4, e 11.º no capítulo iii do Regulamento (UE) n.º 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
+ss) A violação das regras sobre cobrança de taxas de intercâmbio, nos termos do disposto nos artigos 3.º, 4.º e 5.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
 
-tt) A adoção ou aplicação de regras comerciais que restrinjam a interoperabilidade com outras entidades de processamento na União, nos termos do disposto no n.º 5 do artigo 7.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
+tt) O estabelecimento de regras ou disposições de efeito equivalente em acordos de licenciamento, em regras dos sistemas de pagamento com cartões ou em acordos celebrados entre os adquirentes e os beneficiários que violem as regras comerciais estabelecidas nos artigos 6.º e 8.º, com exceção do segundo parágrafo do n.º 6, 10.º, com exceção do n.º 4, e 11.º no capítulo iii do Regulamento (UE) n.º 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
 
-uu) A violação das regras de separação entre os sistemas de pagamento com cartões e as entidades de processamento, nos termos do disposto no n.º 1 do artigo 7.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015.
+uu) A adoção ou aplicação de regras comerciais que restrinjam a interoperabilidade com outras entidades de processamento na União, nos termos do disposto no n.º 5 do artigo 7.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
+
+vv) A violação das regras de separação entre os sistemas de pagamento com cartões e as entidades de processamento, nos termos do disposto no n.º 1 do artigo 7.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015.
