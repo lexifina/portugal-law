@@ -38,9 +38,9 @@ p) (Revogada.)
 
 q) Consultores em matéria de votação;
 
-r) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
+r) Os prestadores de serviços de financiamento colaborativo de capital ou por empréstimo;
 
-s) Os prestadores de serviços de financiamento colaborativo de capital ou por empréstimo;
+s) Outras pessoas que exerçam, a título principal ou acessório, atividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros;
 
 t) Membros de órgãos, trabalhadores ou agentes das entidades previstas nas alíneas anteriores, quando atuem no âmbito das respetivas funções.
 
