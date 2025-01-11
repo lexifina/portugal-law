@@ -16,7 +16,7 @@ a) A titularização tradicional, na aceção da alínea 9) do artigo 2.º do Re
 
 b) A titularização sintética, na aceção da alínea 10) do artigo 2.º do Regulamento (UE) 2017/2402, mediante a transferência de fluxos financeiros, dos direitos e obrigações ou de riscos, associados a um conjunto de créditos, por intermédio de derivados de crédito ou garantias e sem a consequente cessão dos mesmos, os quais doravante se designam, para efeitos do presente decreto-lei, um património de referência;
 
-c) A titularização STS, compreendendo as cessões de créditos que preencham os requisitos previstos nos artigos 20.º ou 24.º do Regulamento (UE) 2017/2402;
+c) A titularização STS que preencha os requisitos previstos nos artigos 19.º, 23.º ou 26.º-A do Regulamento (UE) 2017/2402, na sua redação atual;
 
 d) A titularização não STS, compreendendo a transferência de riscos e a cessão de créditos que preencham os requisitos previstos no artigo 4.º do presente decreto-lei.
 
