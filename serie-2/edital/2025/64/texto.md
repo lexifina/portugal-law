@@ -1,0 +1,8 @@
+Edital n.º 64/2025
+
+Projeto do Regulamento do Arquivo Municipal de Sines
+Nuno José Gonçalves Mascarenhas, Presidente da Câmara Municipal de Sines, torna público, em conformidade com o disposto no artigo 56.º da Lei n.º 75/2013, de 12 de setembro, e artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, nas suas atuais redações, que, em Reunião de Câmara Pública de 21 de novembro de 2024, foi deliberado aprovar e submeter a consulta pública o “Projeto de Regulamento do Arquivo Municipal de Sines”, nos termos e para os efeitos do disposto no artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, diploma que aprova o Código de Procedimento Administrativo.
+Durante o período de 30 (trinta) dias úteis a contar da data da publicação do presente edital no Diário da República, o referido documento encontra-se disponível para consulta no Balcão Único da Câmara Municipal de Sines, sito no edifício dos Paços do Concelho, nos dias úteis, entre as 09h e as 17h, bem como no sítio institucional do Município de Sines, www.sines.pt, podendo, os interessados, durante esse prazo, apresentar, por escrito, observações, reclamações ou sugestões dirigidas ao Sr. Presidente da Câmara Municipal, para a morada Largo Ramos da Costa, 7520-159 Sines, através do Portal de Serviços Online do Município de Sines (https://servicosonline.sines.pt/) ou através do seguinte endereço de correio eletrónico: geral@mun-sines.pt.
+E, para que conste, mandei publicar o presente edital no Diário da República e outros de igual teor, que serão publicitados no sítio institucional do Município de Sines e afixados nos Paços do Concelho.
+6 de janeiro de 2025. - O Presidente da Câmara Municipal de Sines, Nuno Mascarenhas.
+318537461
