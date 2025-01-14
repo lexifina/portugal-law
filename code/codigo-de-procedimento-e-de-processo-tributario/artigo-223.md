@@ -28,4 +28,4 @@
 
 13 - A título excecional e sempre que o interesse da eficácia da cobrança o imponha, a penhora pode ser efetuada presencialmente por funcionário da Autoridade Tributária e Aduaneira devidamente credenciado para o efeito.
 
-14 - Os órgãos de execução fiscal podem utilizar a Plataforma Eletrónica de Registo e Transmissão de Ofícios do Banco de Portugal, com mecanismo idóneo para a notificação de pedidos de informação bancária ou de outros atos e diligências, dirigidos a entidades bancárias, no âmbito dos processos de execução fiscal.
+14 - Os órgãos de execução fiscal podem utilizar a Plataforma Eletrónica de Registo e Transmissão de Ofícios do Banco de Portugal, como mecanismo idóneo para as notificações previstas no presente artigo, podendo as respostas dos notificandos ser enviadas pelo mesmo meio.
