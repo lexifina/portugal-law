@@ -1,0 +1,31 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-01-15, processo 0107/22.3BELRS
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0107/22.3BELRS
+
+**Data do Acordão:** 01/15/2025
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOÃO SÉRGIO RIBEIRO
+
+**Descritores:** TAXA; FORNECEDOR; SERVIÇOS POSTAIS; JUROS INDEMNIZATÓRIOS; INCONSTITUCIONALIDADE
+
+**Nº Convencional:** JSTA000P33092
+
+**Nº do Documento:** SA2202501150107/22
+
+**Recorrente:** ANACOM - AUTORIDADE NACIONAL DE COMUNICAÇÕES
+
+**Recorrido 1:** A... SOCIEDADE UNIPESSOAL, LDA
+
+**Votação:** UNANIMIDADE COM 1 DEC VOT
+
+## Sumário
+
+I - A questão essencial a resolver é a de saber se é necessário, para a aplicação do artigo 43.º, n.º 3, alínea d), da LGT, uma decisão do Tribunal Constitucional no caso concreto ou uma declaração de inconstitucionalidade com força obrigatória geral; ou se basta a desaplicação da norma com base em decisões do Tribunal Constitucional proferidas noutros processos semelhantes, mesmo que não digam respeito ao caso concreto em apreciação pelo Tribunal a quo.
+
+II - Entendemos que, em situações especiais como a que está em causa, tendo sido proferidos diversos acórdãos do Tribunal Constitucional que se pronunciaram sobre situações de facto em tudo idênticas à dos presentes e, sobretudo, pela circunstância de o sujeito passivo não ter legitimidade para, junto daquele Tribunal, suscitar a fiscalização concreta da constitucionalidade e da legalidade de normas, nos mesmos termos em que outros sujeitos passivos em situações de facto similares, mas no âmbito das quais, por não ter sido desaplicada a norma, tenham legitimidade para o efeito, será possível aplicar o artigo 43.º, n.º 3, alínea d) da LGT, devendo ser atribuídos juros indemnizatórios.
+
+III - Nega-se provimento ao recurso.
