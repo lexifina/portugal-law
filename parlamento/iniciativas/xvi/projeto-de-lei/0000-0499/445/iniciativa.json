@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "445",
+  "id": "314576",
+  "fases": 9,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-01-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e47526d4d44426c5a6d59744d7a566c4d7930304f574d344c546c6d4e4463744f4751324e57457a597a55314e32466b4c6e426b5a673d3d&fich=4df00eff-35e3-49c8-9f47-8d65a3c557ad.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "BE",
+        "idCadastro": "7040",
+        "nome": "Fabian Figueiredo"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5854",
+        "nome": "Isabel Pires"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4557",
+        "nome": "Mariana Mortágua"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "BE"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "314576",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5451335957466859324d74596d5268595330305a4451354c5467344d4459744e474530595456694f474e6c4d5451304c6d52765933673d&fich=147aaacc-bdaa-4d49-8806-4a4a5b8ce144.docx&Inline=true",
+    "IniNr": "445",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Procede à regulamentação do Estatuto do Apátrida (Altera a Lei n.º 37/81, de 3 de outubro, que aprova a lei da nacionalidade, o Decreto-Lei n.º 237-A/2006, de 14 de dezembro, que aprova o regulamento da nacionalidade portuguesa e a Lei n.º 23/2007, de 4 de julho, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional)",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
