@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "15",
+    "id": "283994",
+    "titulo": "Autoriza o Governo a alterar diversas disposições do Código dos Impostos Especiais de Consumo, aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho, procedendo ainda à revogação do n.º 11 do artigo 90.º do mesmo Código"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2025-01-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "86447",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2025-02-25",
+            "id": "159415",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2025-02-25",
+            "id": "159413",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-01-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-02-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANAREC - Associação Nacional de Revendedores de Combustíveis, Estações de Serviço, Estacionamentos e Lavagens Automóveis",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51325a4459784e6a68694c54466c5a546b744e4755325a6931684e5759774c5455315a4459304e4445794e3256684e4335775a47593d&fich=46d6168b-1ee9-4e6f-a5f0-55d644127ea4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer EPCOL - Empresas Portuguesas de Combustíveis e Lubrificantes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255784d5467794e7a417a4c544d354e7a63744e474d774f4330354e6a5a6a4c5459334d7a49785a446b324d6a4177595335775a47593d&fich=e1182703-3977-4c08-966c-67321d96200a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Ap2h2 - Associação Portuguesa para a Promoção do Hidrogénio",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5669597a5a6a4d6a67784c5445324e5445744e4445334f4331694d57526d4c5759794d44466d4d6a5669595449774e5335775a47593d&fich=5bc6c281-1651-4178-b1df-f201f25ba205.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-02-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ABA - Associação Bioenergia Avançada",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245314e6a6b314e5467344c5755795a574d744e47517a4e5331685a47497a4c54526b4f544d304f544935596a67315a5335775a47593d&fich=a5695588-e2ec-4d35-adb3-4d934929b85e.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8397",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "8397",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "ABA - Associação Bioenergia Avançada em 2025-02-07"
+          },
+          {
+            "link": "",
+            "nome": "Ap2h2 - Associação Portuguesa para a Promoção do Hidrogénio em 2025-02-07"
+          },
+          {
+            "link": "",
+            "nome": "ANAREC - Associação Nacional de Revendedores de Combustíveis em 2025-02-04"
+          },
+          {
+            "link": "",
+            "nome": "EPCOL - Empresas Portuguesas de Combustíveis e Lubrificantes em 2025-02-07"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "ABA - Associação Bioenergia Avançada em 2025-01-29"
+          },
+          {
+            "link": "",
+            "nome": "Ap2h2 - Associação Portuguesa para a Promoção do Hidrogénio em 2025-01-29"
+          },
+          {
+            "link": "",
+            "nome": "ANAREC - Associação Nacional de Revendedores de Combustíveis em 2025-01-29"
+          },
+          {
+            "link": "",
+            "nome": "EPCOL - Empresas Portuguesas de Combustíveis e Lubrificantes em 2025-01-29"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-01-17",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1582027",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
