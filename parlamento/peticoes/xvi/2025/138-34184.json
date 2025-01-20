@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34184",
+  "numero": "138",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-01-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2025-02-05",
+        "DataArquivo": "2025-02-07",
+        "DataBaixaComissao": "2025-01-28",
+        "DataEnvioPAR": "2025-02-07",
+        "DataReaberta": "2025-02-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-02-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938784e546b774f574e6c4e69316d4e7a51784c5451315a4751744f574e6a5969316d4f5746695a474d784e5745774d7a4d756347526d&fich=15909ce6-f741-45dd-9ccb-f9abdc15a033.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8397",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-01-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3259315a6d5a6a596a49324c544e684d5751744e474e69596931694e7a41314c574a6d5a6d526a4e7a59794e7a59354e7935775a47593d&fich=f5ffcb26-3a1d-4cbb-b705-bffdc7627697.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34184",
+    "PetAssunto": "Pela proibição da cobrança de taxas na amortização de créditos de qualquer natureza",
+    "PetDataEntrada": "2025-01-20",
+    "PeticoesAssociadas": null,
+    "PetId": "34184",
+    "PetLeg": "XVI",
+    "PetNr": "138",
+    "PetNrAssinaturas": "42",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
