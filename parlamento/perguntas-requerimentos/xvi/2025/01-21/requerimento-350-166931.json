@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eHNElB5sAbInrUM%2b1CK3%2bZZa4TA9qAQPFf3pu38QAyPkvnwic8govNMKXbQNlbs2hEipvp7d%2bJTZ%2fEXuaVMsqH8PlGbuSUTPJBr%2boVxdG6Kf2Zpi44%2ba27Oq89l7REdmP%2bBA3defOQ893NSOao0aChocF4k45AVxJ78%2btG0ohXUXuO4Y%2bZIZFToQ4LzcKH05JzQXytw36hhukfq%2bltX9tVH%2fVlxInE1L3MbA9QHVtWzJy2E50PzKMqJf9sR0coFCykSRfPL2oeoHIUYESHnHo%2fHCYD%2fRDx4nh7oswP9bNvADk1%2fZBmrNYYAnk5%2biW00Uj9L%2fJC8v1jUaGVk112b6gEmaJhYEl%2f9y1W4PzI%2bLZx6dSRM%2fC%2fObwkktGczrUJ2rprAZUQsqTvRFDaVKMu3Qf9t%2figaPEsyan6ofqGlcTcU%3d&fich=RequerimentosXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "910d45d7aabe22385422e83c29132f9174a497a7d21d709f9bd70bcef3f9c95f",
+  "legislatura": "XVI",
+  "id": "166931",
+  "tipo": "Requerimento",
+  "numero": "350",
+  "data_registo": "2025-01-21",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Projeto de novas construções na Quinta dos Fidalguinhos, no Barreiro",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1713",
+        "nome": "Bruno Vitorino"
+      }
+    ],
+    "DataEnvio": "2025-01-22",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2025-01-22",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Barreiro",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2025-03-27",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Barreiro",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c324e684d6a49774f5463794c5749784e324d744e474532597931684f5441794c544d344e6d56694d54426a4f574d30595335775a47593d&fich=ca220972-b17c-4a6c-a902-386eb10c9c4a.pdf&Inline=true"
+              },
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c3252694d5452685957466a4c546b35593245744e4756694d7930354f546c6d4c5459354e54426d4e32453159324d774d7935775a47593d&fich=db14aaac-99ca-4eb3-999f-6950f7a5cc03.pdf&Inline=true"
+              },
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a63344f546c6c4e6d49794c546b774d4449744e4467325a5330354d6d49354c544e6c4d324d7a5a4463324d6a5a6d597935775a47593d&fich=7899e6b2-9002-486e-92b9-3e3c3d7626fc.pdf&Inline=true"
+              },
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a51785a6a5131596a6c6d4c5455334d4449744e47497859693035596d4e694c546c6b597a68695a574669595455314f5335775a47593d&fich=41f45b9f-5702-4b1b-9bcb-9dc8beaba559.pdf&Inline=true"
+              },
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c3251334d546b304d5755774c574d7a4d7a41744e47566d595331694d574a684c57526c4d7a4e6a596d4e6a5a6a566b4e7935775a47593d&fich=d71941e0-c330-4efa-b1ba-de33cbccf5d7.pdf&Inline=true"
+              },
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a45304d7a566a4d4459344c546c6c4e4455744e44566b596931695a6a5a684c574d3359574a6d4d444a694e3249355a6935775a47593d&fich=1435c068-9e45-45db-bf6a-c7abf02b7b9f.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2025-01-21",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a417a4d7a6c684e5451314c54566a4e6a67744e475178597931694d4745334c545a695a5464684f47526d596d55334d5335775a47593d&fich=0339a545-5c68-4d1c-b0a7-6be7a8dfbe71.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "166931",
+    "Legislatura": "XVI",
+    "Nr": "350",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
