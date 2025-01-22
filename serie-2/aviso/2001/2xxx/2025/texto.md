@@ -1,0 +1,21 @@
+Aviso n.º 2001/2025/2
+
+Início da Alteração do Plano de Pormenor do Centro Histórico de Redondo
+Torna-se público, nos termos dos n.<sup>os</sup> 1, 2 e 3 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, na sua redação atual, que a câmara Municipal de Redondo deliberou, em reunião pública, de 18 de dezembro de 2024, determinar o início do procedimento relativo à alteração do Plano de Pormenor do Centro Histórico de Redondo, publicado pelo Regulamento n.º 330/2008, de 24 de junho, publicado na 2.ª série do Diário da República, n.º 120, de 23 de abril de 2008. A proposta de alteração do Plano incidirá exclusivamente na alteração regulamentar, adequando-o à evolução das condições ambientais, sociais e culturais e da entrada em vigor de leis e regulamentos que colidem com as definições e regras das respetivas disposições, conforme o artigo 118.º do RJIGT (Regime Jurídico dos Instrumentos de Gestão Territorial). A Alteração deverá estar concluída no prazo de 12 meses, contados após a publicação do presente aviso no Diário da República.
+Foi também deliberado por maioria e para efeitos do disposto do n.º 2 do artigo 78.º do RJIGT, a não sujeição do Plano ao procedimento de Avaliação Ambiental Estratégica previsto no Decreto-Lei n.º 232/2007, de 15 de junho, com as alterações introduzidas pelo Decreto-Lei n.º 58/2011 de 4 de maio, considerando que se trata de pequenas alterações ao regulamento não suscetíveis de provocarem efeitos significativos no ambiente, conforme justificado no ponto 5 dos Termos de Referência aprovados.
+Para a participação pública, nos termos do n.º 2 do artigo 88.º do mesmo diploma, é estabelecido o período de 15 dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página oficial da Câmara Municipal de Redondo, em www.cm-redondo.pt e patente para consulta durante o horário de expediente no Balcão Único do Município de Redondo.
+Os interessados podem apresentar eventuais sugestões e ou pedidos de esclarecimento sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente ao Ex.<sup>mo</sup> Sr. Presidente da Câmara Municipal de Redondo e realizadas por uma das seguintes formas: apresentadas presencialmente no Balcão Único desta Câmara Municipal, enviadas por via postal para a morada «Município de Redondo, Praça da República, 7170-011 Redondo» ou por via eletrónica para geral@cm-redondo.pt.
+Para constar, publica-se o presente aviso que vai ser afixado nos lugares de estilo, bem como publicado em 2.ª série de Diário da República e na imprensa.
+19 de dezembro de 2024. - O Presidente da Câmara Municipal de Redondo, David Manuel Fialho Galego.
+Deliberação
+Torna-se público que, a Câmara Municipal de Redondo em reunião de 18 de dezembro de 2024, deliberou por unanimidade e em minuta:
+1 - Iniciar o procedimento relativo à alteração do Plano de Pormenor do Centro Histórico de Redondo, nos termos dos n.<sup>os</sup> 1, 2 e 3 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio e com os fundamentos descritos nos n.<sup>os</sup> 2 e 3 dos Termos de Referência;
+2 - Aprovar os Termos de Referência propostos;
+3 - Determinar, para efeitos do previsto no n.º 1 do artigo 76.º do RJIGT:
+a) Um prazo de 12 meses para elaboração da alteração do Plano de Pormenor do Centro Histórico de Redondo;
+b) A duração de 15 dias úteis do período de participação pública, nos termos previstos no artigo 88.º do RJIGT;
+c) A publicação de Aviso no Diário da República;
+d) A divulgação através da: Comunicação social; Plataforma colaborativa de gestão territorial; Sítio Institucional do Município de Redondo na Internet.
+4 - Decidir, para efeitos do disposto no n.º 2 do artigo 78.º do RJIGT, a não sujeição da alteração do Plano ao procedimento de Avaliação Ambiental previsto no Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio, conforme justificado no ponto 5 dos Termos de Referência.
+19 de dezembro de 2024. - O Presidente da Câmara Municipal de Redondo, David Manuel Fialho Galego.
+618576017
