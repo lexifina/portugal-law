@@ -1,0 +1,8 @@
+Aviso n.º 1955/2025/2
+
+Presidente da Câmara Municipal de Baião, Joaquim Paulo de Sousa Pereira:
+Torna público, que a Câmara Municipal de Baião deliberou, por unanimidade, na sua reunião ordinárias de 11 de dezembro de 2024, determinar a abertura do período de Discussão Pública da proposta da 2.ª Revisão do Plano Diretor Municipal (PDM) de 30 dias seguidos, a contar do 5.º dia a seguir à publicação do presente aviso no Diário da República, nos termos do disposto nos artigos 89.º e 119.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação que aprova o Regime Jurídico dos Instrumentos de Gestão Territorial.
+A proposta do Plano Diretor Municipal, acompanhada pelo relatório ambiental, o parecer final, a ata da comissão consultiva e demais pareceres estará disponível para consulta na Câmara Municipal nos dias úteis das 9:00 às 13:00 e das 14:00 às 17:00 e nos dias não úteis das 10:00 às 12:30 e das 15:00 às 17:00; bem como, no sítio da Internet da Câmara Municipal de Baião (https://cm-baiao.pt/).
+Durante o período de Discussão Pública, os interessados deverão apresentar as suas reclamações, observações ou sugestões, por escrito, através de impresso próprio disponível no Balcão de Atendimento ao Público desta Câmara e no sítio da Internet do município, dirigidas ao Presidente da Câmara Municipal, devidamente fundamentadas e identificadas, podendo ser entregues presencialmente, enviadas por via postal em carta registada com aviso de receção para a morada Praça Heróis do Ultramar, 4640-158 Baião ou por via eletrónica através do endereço geral@cm-baiao.pt.
+20 de dezembro de 2024. - O Presidente da Câmara, Joaquim Paulo de Sousa Pereira.
+318514773
