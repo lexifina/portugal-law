@@ -1,0 +1,948 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "440",
+    "id": "314559",
+    "titulo": "Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública (alteração à Lei n.º 36/2021, de 14 de junho)\n"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2025-01-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40627",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2025-01-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "284086",
+        "leg": "XVI",
+        "nr": "266",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36638",
+            "obs": null,
+            "pag": [
+              "56-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-24",
+            "pubLeg": "XVI",
+            "pubNr": "79",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/56?pgs=56-70&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera a lei-quadro do estatuto de utilidade pública, aprovada pela Lei n.º 36/2021, de 14 de Junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos "
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-01-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8491",
+                "nome": "Filipa Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/58?pgs=58&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8832",
+                "nome": "Daniel Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8832",
+                "nome": "Daniel Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/77"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/62?pgs=62&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/63?pgs=63&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6945",
+                "nome": "Rodrigo Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/64?pgs=64&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/65?pgs=65&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7355",
+                "nome": "Patrícia Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8808",
+                "nome": "Clara de Sousa Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/66?pgs=66-68&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/68?pgs=68&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7379",
+                "nome": "José Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/68?pgs=68-70&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8491",
+                "nome": "Filipa Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "20:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/79/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-24",
+                "pubLeg": "XVI",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/70?pgs=70&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei-Quadro do Estatuto de Utilidade Pública, aprovada pela Lei n.º 36/2021, de 14 de junho - atribuindo fins de utilidade pública aos meios de comunicação social que se dedicam ao jornalismo sem fins lucrativos; Inclui o jornalismo sem fins lucrativos na Lei-Quadro do Estatuto de Utilidade Pública",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1582455",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1021065",
+        "obs": null,
+        "pag": [
+          "56-70"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-24",
+        "pubLeg": "XVI",
+        "pubNr": "79",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/079/2025-01-24/56?pgs=56-70&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
