@@ -1,0 +1,1287 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "82",
+    "id": "263637",
+    "titulo": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2025-01-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40612",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2025-01-24",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "263638",
+        "leg": "XVI",
+        "nr": "83",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "314516",
+        "leg": "XVI",
+        "nr": "426",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais "
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "314530",
+        "leg": "XVI",
+        "nr": "430",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária\n"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "314490",
+        "leg": "XVI",
+        "nr": "522",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36653",
+            "obs": null,
+            "pag": [
+              "74-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-25",
+            "pubLeg": "XVI",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-01-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414722",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8491",
+                "nome": "Filipa Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414723",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414724",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/76?pgs=76&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8613",
+                "nome": "Maria José Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/76?pgs=76&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/77?pgs=77&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/79?pgs=79&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/80?pgs=80&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5749",
+                "nome": "Sandra Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/80?pgs=80-82&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8004",
+                "nome": "Albino Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/82?pgs=82&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7212",
+                "nome": "Fernando José"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7347",
+                "nome": "Manuel Magno"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/94"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/84?pgs=84&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/85?pgs=85&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6858",
+                "nome": "Diogo Pacheco de Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/96"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-86"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/85?pgs=85-86&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:10",
+            "horaTermo": "14:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/80/97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "456097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "86-86"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-25",
+                "pubLeg": "XVI",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/86?pgs=86&org=PLC"
+              }
+            ],
+            "sumario": "Promove a participação dos trabalhadores em matéria de segurança e saúde no trabalho (7.ª alteração à Lei n.º 102/2009, de 10 de setembro que estabelece o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho); Revê o regime de reparação de acidentes de trabalho e de doenças profissionais, procedendo à segunda alteração à Lei n.º 98/2009, de 4 de setembro; Prevê a limitação da prestação de trabalho em condições climáticas extremas, prevenindo a ocorrência de acidentes de trabalho e doenças profissionais;  Altera o regime jurídico da promoção da segurança e saúde no trabalho no sentido de possibilitar às Comissões de Trabalhadores convocarem eleições para a comissão paritária; Atualização do cálculo de remição de pensões devido em caso de acidente de trabalho ou doença profissional,",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1582168",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1021398",
+        "obs": null,
+        "pag": [
+          "74-86"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-25",
+        "pubLeg": "XVI",
+        "pubNr": "80",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/080/2025-01-25/74?pgs=74-86&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
