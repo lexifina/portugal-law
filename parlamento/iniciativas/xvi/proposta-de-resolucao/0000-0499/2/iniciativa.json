@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Proposta de Resolução",
+  "numero": "2",
+  "id": "314619",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-01-24",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d44526a4d325579593255744e4467335a5330304e324d314c574578597a59745a444d7a4e445a6b4e4445775932526b4c6d52765933673d&fich=04c3e2ce-487e-47c5-a1c6-d3346d410cdd.docx&Inline=true",
+        "anexoNome": "Resolução Banco Europeu n.º 259"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5746685a5751775a6d45744f475a6c4e7930304f444d354c5746685a5449744e7a566b4d7a59304e6a4532595445314c6d52765933673d&fich=5aaed0fa-8fe7-4839-aae2-75d364616a15.docx&Inline=true",
+        "anexoNome": "Resolução Banco Europeu n.º 259 EN"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4455314d5755304d544d744f4751794e7930305a6a45774c5749354d5751744e6d49784f5441784e5467774f444a6d4c6d52765933673d&fich=4551e413-8d27-4f10-b91d-6b190158082f.docx&Inline=true",
+        "anexoNome": "Resolução Banco Europeu n.º 260"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a497a4e44453259544d744d444e684d4330304d6a597a4c5749334e6a6b744f474a6a595459344f5759305a546b304c6e426b5a673d3d&fich=c23416a3-03a0-4263-b769-8bca689f4e94.pdf&Inline=true",
+        "anexoNome": "Resolução Banco Europeu n.º 260 EN"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a5a684d44646c596a51744f4449344d793030595463334c546c6c5a6a63744e6a5a6b597a67795a4451304d7a6b304c6e426b5a673d3d&fich=66a07eb4-8283-4a77-9ef7-66dc82d44394.pdf&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão assinada"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "314619",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5755354e444e6a4e5459745a446c6a4e6930305a4455314c57466c4d6a49744f57526d596d55354d6a6b784e7a6b334c6d52765933673d&fich=5e943c56-d9c6-4d55-ae22-9dfbe9291797.docx&Inline=true",
+    "IniNr": "2",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova, para ratificação, as emendas ao Acordo Constitutivo do Banco Europeu para a Reconstrução e o Desenvolvimento, adotadas pelas Resoluções n.ºs 259 e 260, na 32.ª Reunião Anual do Conselho de Governadores, realizada em Samarcanda, Uzbequistão, a 18 de maio de 2023",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
