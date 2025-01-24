@@ -1,0 +1,94 @@
+Resolução do Conselho de Ministros n.º 10/2025
+
+Considerando a avaliação técnica mais recente da Autoridade Nacional de Emergência e Proteção Civil (ANEPC) e do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), verificou-se que alguns concelhos e freguesias afetados pelos incêndios de setembro de 2024, nas regiões Centro e Norte de Portugal continental, não foram incluídos na delimitação territorial da situação de calamidade, estabelecida pela Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro.
+Tal situação configura uma profunda desigualdade entre os concelhos e freguesias incluídos no âmbito da delimitação territorial da situação de calamidade, e aqueles que, perante a mesma situação catastrófica, não o tenham sido.
+Os concelhos e freguesias afetados pelos incêndios durante a situação de calamidade e que não foram incluídos na delimitação territorial, não seriam, deste modo, considerados para os apoios dirigidos às populações, empresas, associações e municípios afetados pelos incêndios, previstos no Decreto-Lei n.º 59-A/2024, de 27 de setembro, e demais normas regulamentares.
+Por forma a inverter tal situação, respeitando os critérios anteriormente estabelecidos, revela-se necessário alargar o âmbito territorial a considerar para efeitos das medidas excecionais e apoios às populações afetadas pelos incêndios de setembro de 2024, a todos os concelhos em que durante a situação de calamidade tenha sido identificada área ardida e que resultem da mais recente avaliação técnica da ANEPC e do ICNF, I. P.
+Assim:
+Nos termos do n.º 2 do artigo 3.º, da alínea c) do n.º 1 e do n.º 4 do artigo 8.º, do artigo 19.º e da alínea b) do n.º 1 do artigo 21.º da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Alterar o n.º 1 da Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro, o qual passa a ter a seguinte redação:
+«1 - [...]
+a) [...]
+i) [...]
+ii) [...]
+iii) [...]
+iv) [...]
+v) [...]
+vi) [...]
+vii) [...]
+viii) [...]
+ix) De Espinho: as freguesias de Paramos e Silvalde;
+x) De Ílhavo: a freguesia de Ílhavo (São Salvador);
+xi) De Santa Maria da Feira: a União das Freguesias de Canedo, Vale e Vila Maior;
+b) [...]
+i) De Barcelos: as freguesias de Barqueiros; Carapeços; e Ucha;
+ii) De Braga: a freguesia de Sequeira, União das Freguesias de Escudeiros e Penso (Santo Estêvão e São Vicente); União das Freguesias de Ferreiros e Gondizalves; União das Freguesias de Guisande e Oliveira (São Pedro); e União das Freguesias de Real, Dume e Semelhe;
+iii) [...]
+iv) De Celorico de Basto: as freguesias de Borba de Montanha; Codeçoso; Moreira do Castelo; Fervença; Agilde; Arnóia; Basto (São Clemente); União das Freguesias de Caçarilhe e Infesta; e União das Freguesias de Britelo, Gémeos e Ourilhe;
+v) [...]
+vi) [...]
+vii) De Póvoa de Lanhoso: as freguesias de Vilela; São João de Rei; Rendufinho; Sobradelo da Goma; Garfe; União das Freguesias de Verim, Friande e Ajude; União das Freguesias de Águas Santas e Moure; Geraz do Minho; Ferreiros; Monsul; União das Freguesias de Calvos e Frades e Covelas;
+viii) [...]
+ix) [...]
+x) [...]
+xi) De Vila Verde: as freguesias de Aboim da Nóbrega e Gondomar; Valdreu; e União das Freguesias da Ribeira do Neiva;
+c) [...]
+i) [...]
+ii) [...]
+iii) De Bragança: a freguesia de Quintela de Lampaças;
+d) No distrito de Castelo Branco, os concelhos de:
+i) Castelo Branco: as freguesias de Louriçal do Campo e São Vicente da Beira;
+ii) Fundão: as freguesias de Barroca; Capinha; e Silvares;
+e) [...]
+i) [...]
+ii) [...]
+iii) De Oliveira do Hospital: as freguesias de Lagares da Beira; de Travanca de Lagos; de Seixo da Beira e a União das Freguesias de Ervedal e Vila Franca da Beira;
+iv) De Tábua: as freguesias de São João da Boa Vista; Póvoa de Midões; Midões; Tábua; e a União das Freguesias de Pinheiro de Coja e Meda de Mouros;
+v) De Pampilhosa da Serra: Dornelas do Zêzere;
+f) [...]
+i) De Aguiar da Beira: as freguesias de Dornelas; Eirado; Pena Verde; e União das Freguesias de Souto de Aguiar da Beira e Valverde;
+ii) Da Covilhã: a União das Freguesias de Teixoso e Sarzedo;
+iii) De Celorico da Beira: as freguesias de Lajeosa do Mondego; Mesquitela; a União das Freguesias de Açores e Velosa; e a União das Freguesias de Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego;
+iv) De Fornos de Algodres: a freguesia de Figueiró da Granja e Maceira;
+v) De Gouveia: a União das Freguesias de Melo e Nabais;
+vi) De Seia: as freguesias de Paranhos; Pinhanços; Sandomil; União das Freguesias de Seia, São Romão e Lapa dos Dinheiros; e a União das Freguesias de Tourais e Lajes;
+g) [...]
+h) [...]
+i) [...]
+ii) [...]
+iii) [...]
+iv) [...]
+v) [...]
+vi) [...]
+vii) De Paços de Ferreira: as freguesias de Raimonda; Sanfins; Lamoso; e Codessos e Penamaior;
+viii) De Paredes: as freguesias de Lordelo; Rebordosa; Vilela; Sobreira; e Aguiar de Sousa;
+ix) De Penafiel: as freguesias de Abragão; Duas Igrejas; Oldrões; Capela; Lagares e Figueira; Penafiel; Croca; Termas de São Vicente; Eja; e Bustelo;
+x) [...]
+xi) [...]
+xii) De Vila do Conde: a União das Freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada;
+i) [...]
+i) De Arcos de Valdevez: as freguesias de Aboim das Choças; Miranda; Vale; Padroso; União das Freguesias de Portela e Extremo; União das Freguesias de Guilhadeses e Santar; e União das Freguesias de Arcos de Valdevez (Salvador), Vila Fonche e Parada;
+ii) [...]
+iii) [...]
+iv) [...]
+v) [...]
+vi) [...]
+j) [...]
+k) [...]
+i) [...]
+ii) De Castro Daire: as freguesias de Mões; Gosende; União das freguesias de Picão e Ermida; União das Freguesias de Mamouros, Alva e Ribolhos, Pepim; União das Freguesias de Parada de Ester e Ester; União das Freguesias de Reriz e Gafanhão; Moledo; Cabril; Pinheiro e Castro Daire;
+iii) [...]
+iv) [...]
+v) [...]
+vi) [...]
+vii) [...]
+viii) De Resende: as freguesias de Resende; São Martinho de Mouros; Paus; São Cipriano; Barrô; Cárquere; União das Freguesias de Freigil e Miomães; União das Freguesias de Anreade e São Romão de Aregos; União das Freguesias de Felgueiras e Feirão e União das Freguesias de Ovadas e Panchorra;
+ix) [...]
+x) [...]
+xi) [...]
+xii) [...]
+xiii) [...]
+xiv) De Viseu: as freguesias de Povolide e São João de Lourosa.»
+2 - Determinar que a presente resolução produz efeitos a 17 de setembro de 2024.
+Presidência do Conselho de Ministros, 16 de janeiro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+118596454
