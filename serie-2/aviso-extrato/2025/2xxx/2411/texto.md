@@ -1,0 +1,9 @@
+Aviso (extrato)  n.º 2411/2025/2
+
+Consulta pública
+Projeto do Regulamento de Liquidação e Cobrança de Taxas do Município de Armamar
+João Paulo Soares Carvalho Pereira da Fonseca, Presidente da Câmara Municipal de Armamar, faz público, no uso das competências que lhe são atribuídas pela alínea t) do n.º 1 do artigo 35.º, do Anexo I, da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, que, em execução do que dispõe o artigo 101.º, ambos do Código do Procedimento Administrativo (CPA) e legislação que se mostre como aplicável, que é aberta a discussão pública, durante 30 dias (úteis), nos termos da deliberação, tomada em reunião ordinária da Câmara Municipal, realizada no dia 17 de janeiro de 2025, relativa à aprovação do projeto do regulamento de liquidação e cobrança de taxas do município de Armamar, contados a partir da publicação do presente aviso, no Diário da República - 2.ª série, o qual será também divulgado através do portal municipal e nos lugares de estilo.
+O referido projeto de regulamento encontra-se em exposição, no balcão único, no edifício sede do Município, em dias e horas de expediente, muito concretamente, de segunda-feira a sexta-feira, das 9h00 às 16h00, devendo os interessados apresentar as suas observações ou sugestões, até ao termo do referido período de participação pública, dirigidas por escrito, ao Presidente da Câmara Municipal de Armamar, ou remetidas, ao Município de Armamar, Praça de República 5110-127 Armamar, ou enviadas por correio eletrónico para atendimento@cm-armamar.pt
+Para constar e devidos efeitos, será este aviso afixado nos Paços do Município, publicado na 2.ª série do Diário da República, nos lugares de estilo e no sítio da internet em www.cm-armamar.pt.
+20 de janeiro de 2025. - O Presidente da Câmara Municipal, João Paulo Soares Carvalho Pereira da Fonseca.
+318585024
