@@ -1,0 +1,8 @@
+Regulamento n.º 169/2025
+
+Torna-se público que a Câmara Municipal da Nazaré deliberou, na sua reunião de 20 de janeiro de 2025, submeter a período de consulta pública, pelo prazo de 30 dias úteis, nos termos do estatuído no artigo 101.º do Novo Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, o Projeto de alteração ao Regulamento de Comércio a Retalho Não Sedentário do Município da Nazaré - Regulamento de Venda Ambulante, que visa a alteração da redação dos artigos 13.º, 22.º, 23.º e dos Anexos I e II.
+O prazo da consulta pública é contado da data da publicação do respetivo Aviso na 2.ª série do Diário da República.
+O texto está disponível para ser consultado na Divisão Administrativa e Financeira da Câmara Municipal, Gabinete Jurídico, durante as horas normais de expediente, (das 08.30H às 13.00H e das 14h às 16.30H), e no Portal do Município, em www.cm-nazare.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Novo Código do Procedimento Administrativo, endereçados à Senhora Vereadora da Câmara Municipal da Nazaré, com poderes delegados, Regina Piedade, para a morada: Av. Vieira Guimarães, n.º 54, 2450-112 Nazaré, entregues no Gabinete de Relações Públicas da autarquia, na mesma morada ou ainda através do endereço eletrónico regina.piedade@cm-nazare.pt.
+23 de janeiro de 2025. - O Presidente da Câmara Municipal da Nazaré, Manuel António Águeda Sequeira.
+318604561
