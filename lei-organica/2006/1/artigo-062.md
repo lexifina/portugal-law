@@ -8,9 +8,9 @@ a) O aviso a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 406/74, d
 
 b) Os cortejos, os desfiles e a propaganda sonora podem ter lugar em qualquer dia e hora, respeitando-se apenas os limites impostos pela manutenção de ordem pública, da liberdade de trânsito e de trabalho e ainda os decorrentes do período de descanso dos cidadãos;
 
-c) O auto a que alude o n.º 2 do artigo 5.º do Decreto-Lei n.º 406/74, de 29 de Agosto, deve ser enviado, por cópia, ao delegado da Comissão Nacional de Eleições e ao órgão competente do partido político interessado;
+c) O auto a que alude o n.º 2 do artigo 5.º do Decreto-Lei n.º 406/74, de 29 de agosto, deve ser enviado por cópia à Comissão Nacional de Eleições e ao órgão competente do partido político interessado;
 
-d) A ordem de alteração dos trajectos ou desfiles será dada pela autoridade competente e por escrito ao órgão competente do partido político interessado e comunicada ao delegado da Comissão Nacional de Eleições;
+d) A ordem de alteração dos trajetos ou desfiles é dada pela autoridade competente e por escrito ao órgão competente do partido político interessado e comunicada à Comissão Nacional de Eleições;
 
 e) A utilização dos lugares públicos a que se refere o artigo 9.º do Decreto-Lei n.º 406/74, de 29 de Agosto, deve ser repartida igualmente pelos concorrentes no círculo;
 

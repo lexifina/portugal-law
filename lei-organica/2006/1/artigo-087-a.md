@@ -2,8 +2,10 @@
 
 ### Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
 
-1 - Qualquer eleitor que esteja nas condições previstas no n.º 3 do artigo 84.º pode exercer o direito de sufrágio entre o 12.º e o 10.º dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas dos ministérios e instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos no artigo 85.º, sendo a intervenção do presidente da câmara municipal da competência do funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respectiva.
+1 - Os eleitores que se encontrem nas condições previstas no n.º 2 do artigo 84.º podem exercer o direito de sufrágio entre o décimo segundo e o décimo dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas das instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos nos n.os 7 a 14 do artigo 84.º-A.
 
-2 - No caso dos eleitores mencionados nas alíneas a) e b) do n.º 3 do artigo 84.º, o Ministério dos Negócios Estrangeiros, se reconhecer a impossibilidade da sua deslocação aos locais referidos no número anterior, designa um funcionário diplomático, que procede à recolha da correspondência eleitoral, no período acima referido.
+2 - As funções previstas nos n.os 8 a 13 do artigo 84.º-A são asseguradas por funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respetiva.
 
-3 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas candidaturas que nomeiem delegados até ao 16.º dia anterior à eleição.
+3 - No caso dos eleitores referidos na alínea a) do n.º 2 do artigo 84.º, se o Ministério dos Negócios Estrangeiros reconhecer a impossibilidade da sua deslocação aos locais referidos no n.º 1, designa um funcionário diplomático, que procede à recolha da correspondência eleitoral, no período acima referido.
+
+4 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas listas que nomeiem delegados até ao décimo sexto dia anterior à eleição.

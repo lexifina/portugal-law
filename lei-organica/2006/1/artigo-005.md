@@ -8,7 +8,7 @@ a) O Presidente da República;
 
 b) Os Representantes da República nas Regiões Autónomas;
 
-c) Os governadores civis e vice-governadores em exercício de funções;
+c) [Revogada.]
 
 d) Os magistrados judiciais ou do Ministério Público em efectividade de serviço;
 

@@ -2,20 +2,16 @@
 
 ### Modo de exercício por doentes internados e por presos
 
-1 - Qualquer eleitor que esteja nas condições previstas nas alíneas d) e e) do n.º 1 do artigo 84.º pode requerer ao presidente da câmara do município em que se encontre recenseado, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando fotocópias autenticadas do seu bilhete de identidade e do seu cartão de eleitor e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou documento emitido pelo director do estabelecimento prisional, conforme os casos.
+1 - Os eleitores que se encontrem nas condições previstas nas alíneas d) e e) n.º 1 do artigo 84.º podem requerer, por meios eletrónicos ou por via postal, à administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, até ao vigésimo dia anterior ao da eleição, o exercício do direito de voto antecipado, indicando o seu número de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou emitido pelo diretor do estabelecimento prisional, conforme os casos.
 
-2 - O presidente da câmara envia, por correio registado com aviso de recepção, até ao 17.º dia anterior ao da eleição:
+2 - Até ao décimo sétimo dia anterior ao da eleição, a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna envia ao presidente da câmara do município onde se encontrem eleitores nas condições definidas no n.º 1, por correio registado com aviso de receção, a relação nominal dos eleitores e locais abrangidos e correspondente número de boletins de voto, sobrescritos brancos e azuis.
 
-a) Ao eleitor, a documentação necessária ao exercício do direito de voto, acompanhada dos documentos enviados pelo eleitor;
-
-b) Ao presidente da câmara do município onde se encontrem eleitores nas condições definidas no n.º 1, a relação nominal dos referidos eleitores e a indicação dos estabelecimentos hospitalares ou prisionais abrangidos.
-
-3 - O presidente da câmara do município onde se situe o estabelecimento hospitalar ou prisional em que o eleitor se encontre internado notifica, até ao 16.º dia anterior ao da eleição, as listas concorrentes à eleição para cumprimento dos fins previstos no n.º 4 do artigo 84.º
+3 - O presidente da câmara do município onde se situe o estabelecimento hospitalar ou prisional em que o eleitor se encontre internado ou preso notifica, até ao décimo sexto dia anterior ao da eleição, as listas concorrentes à eleição para cumprimento dos fins previstos no n.º 4 do artigo 84.º, dando conhecimento de quais os estabelecimentos onde se realiza o voto antecipado.
 
 4 - A nomeação de delegados das listas deve ser transmitida ao presidente da câmara até ao 14.º dia anterior ao da eleição.
 
-5 - Entre o 13.º e o 10.º dias anteriores ao da eleição, o presidente da câmara municipal em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respectivo director e aos delegados das listas, desloca-se ao mesmo estabelecimento, a fim de ser dado cumprimento, com as necessárias adaptações, ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os 3, 4, 5, 6, 7, 8 e 9 do artigo anterior.
+5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara, em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se aos mesmos estabelecimentos, a fim de ser dado cumprimento, com as necessárias adaptações, ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os 7 a 14 do artigo 84.º-A.
 
 6 - O presidente da câmara pode excepcionalmente fazer-se substituir, para o efeito da diligência prevista no número anterior, por qualquer vereador do município devidamente credenciado.
 
-7 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até à hora prevista no artigo 44.º
+7 - Os estabelecimentos hospitalares e prisionais onde se encontrem eleitores abrangidos pelo disposto no n.º 1 devem garantir as condições necessárias ao exercício do direito de voto antecipado.
