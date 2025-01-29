@@ -2,36 +2,42 @@
 
 ### Alteração simplificada
 
-1 - Estão sujeitas a um regime procedimental simplificado as alterações de planos intermunicipais e municipais que resultem da necessidade de:
+1 - Estão sujeitas a um regime procedimental simplificado as alterações de planos territoriais que não impliquem a reclassificação para solo urbano, bem como outras que a lei assim determine, e resultem da necessidade de:
 
-a) Redefinição do uso do solo, determinada pela cessação de servidões administrativas e de restrições de utilidade pública ou pela desafetação de bens imóveis do domínio público ou dos fins de utilidade pública a que se encontravam adstritos, designadamente os do domínio privado indisponível do Estado;
+a) Requalificação do solo decorrente de:
 
-b) Previsão de outra forma de execução de uma unidade operativa de planeamento e gestão, nos casos em que um plano diretor municipal defina que essa execução dependa de plano de urbanização e/ou plano de pormenor, designadamente através de um loteamento de iniciativa municipal, com o acordo das entidades públicas envolvidas, desde que, cumulativamente: i) a propriedade do solo seja exclusivamente pública e o uso predominante seja o habitacional, ii) traduza a execução de Estratégia Local de Habitação, prevista no Decreto-Lei n.º 37/2018, de 4 de junho, de Carta Municipal de Habitação ou de Bolsa de Habitação, previstas na Lei n.º 83/2019, de 3 de setembro.
+i) Cessação de servidões administrativas e de restrições de utilidade pública;
 
-c) Substituição da altura ou capacidade volumétrica como critério limite para instalações industriais.
+ii) Desafetação de bens móveis do domínio público ou dos fins de utilidade pública a que se encontravam adstritos, designadamente os do domínio privado indisponível do Estado;
 
-2 - A integração a que se refere o número anterior é feita por analogia, através da aplicação das normas do plano que são aplicáveis às parcelas confinantes e com as quais, a parcela em causa tenha condições para constituir uma unidade harmoniosa.
+iii) Cessação de atividades económicas ou do uso de infraestruturas ou equipamentos determinantes da qualificação da área abrangida, desde que pelo menos 700/1000 da área total de construção acima do solo se destine a habitação pública ou a habitação de valor moderado nos termos do n.º 8 do artigo 72.º-B, sem prejuízo das infraestruturas e equipamentos de utilização coletiva necessários e da necessidade de garantir o habitat;
 
-3 - A deliberação da câmara municipal, da comissão executiva metropolitana, do conselho intermunicipal ou das câmaras municipais associadas para o efeito, que determina o início do procedimento de alteração simplificada, nos termos do presente artigo, é tomada no prazo de 60 dias a contar da data da verificação da desafetação e deve conter a proposta integradora, nos termos do disposto no número anterior.
+b) Alteração de delimitação da área de solo urbano inicialmente abrangida por plano de urbanização ou de pormenor ou pelas respetivas unidades de execução e ou previsão de outra forma de execução de uma unidade operativa de planeamento e gestão;
 
-4 - A câmara municipal, a comissão executiva metropolitana, o conselho intermunicipal ou as câmaras municipais associadas para o efeito procedem à publicitação e à divulgação da proposta, estabelecendo um prazo, que não deve ser inferior a 10 dias, para a apresentação de reclamações, observações ou sugestões.
+c) Alteração do número de fogos ou tipologias, bem como de características de desenho urbano e de edificação sem impacto nos demais parâmetros urbanísticos;
 
-5 - Findo o prazo previsto no número anterior e ponderadas as participações, a câmara, a comissão executiva metropolitana, o conselho intermunicipal ou as câmaras municipais associadas para o efeito, reformulam os elementos do plano na parte afetada.
+d) Alteração da altura máxima das edificações ou volume das instalações industriais;
 
-6 - As alterações dos planos intermunicipais e municipais referidas no presente artigo, dependem de parecer não vinculativo da comissão de coordenação e desenvolvimento regional, quanto à conformidade com as disposições legais e regulamentares vigentes e à compatibilidade ou conformidade com os programas e os planos territoriais eficazes, o qual deve ser proferido no prazo de 10 dias a contar da data do envio da proposta.
+e) Adoção dos parâmetros para o dimensionamento das áreas destinadas a cedência para habitação pública, de custos controlados ou para arrendamento acessível, para os efeitos previstos nos artigos 43.º e 44.º do Regime Jurídico de Urbanização e Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, e de parâmetros de estacionamento público e privativo para as operações urbanísticas em que pelo menos 700/1000 da área de construção dos edifícios acima do solo se destine àquelas finalidades, nos termos previstos na lei;
 
-7 - As alterações simplificadas são aprovadas pela assembleia municipal, pelo conselho metropolitano, pela assembleia intermunicipal ou pelas assembleias municipais dos municípios associados para o efeito, consoante os casos, mediante proposta do executivo, aplicando-se o disposto no capítulo VIII.
+f) Concretização do disposto na alínea b) do n.º 6 do artigo 22.º da Lei n.º 83/2019, de 3 de setembro, na sua redação atual;
 
-8 - Excetuam-se do disposto na alínea a) do n.º 1 as situações previstas nos n.os 6 e 7 do artigo 22.º da Lei n.º 31/2014, de 30 de maio, na sua redação atual.
+g) Previsão da possibilidade de majoração até 20 % do índice de construção aplicável em áreas específicas a delimitar pela alteração simplificada, na condição de pelo menos 700/1000 da área total de construção acima do solo correspondente à majoração ser afeta a habitação pública ou a habitação de valor moderado, nos termos do n.º 8 do artigo 72.º-B.
 
-9 - Nos casos previstos no número anterior, na ausência da decisão referida no número seguinte, presume-se a compatibilidade do uso habitacional, sendo aplicáveis, com as devidas adaptações, as normas do plano relativas às parcelas confinantes e com as quais a parcela em causa tenha condições para constituir uma unidade harmoniosa.
+2 - A requalificação a que se refere a alínea a) do número anterior depende da existência, na continuidade da área abrangida, de um regime de uso do solo que permita uma unidade harmoniosa, sendo esse o regime aplicável, com as devidas adaptações, à área objeto de requalificação do solo.
 
-10 - No prazo de 20 dias contados a partir da data da comunicação da pretensão de promoção de uso habitacional, a câmara municipal territorialmente competente pode opor-se à presunção prevista no número anterior, por razões de interesse público, devidamente fundamentadas, designadamente:
+3 - A proposta de alteração simplificada é submetida a consulta pública, por um prazo mínimo de 20 dias, nos termos da alínea a) do n.º 4 do artigo 191.º, após a qual a câmara municipal, a comissão executiva metropolitana, o conselho intermunicipal ou as câmaras municipais associadas para o efeito, procedem às alterações que entenderem necessárias e submetem a proposta a aprovação da assembleia municipal, do conselho metropolitano, da assembleia intermunicipal ou das assembleias municipais dos municípios associados para o efeito.
 
-a) Ruído;
+4 - A deliberação referida no número anterior é publicada na 2.ª série do Diário da República, sendo aplicável o n.º 7 do artigo 191.º
 
-b) Estacionamento;
+5 - (Revogado.)
 
-c) Sistemas de mobilidade existentes;
+6 - (Revogado.)
 
-d) Espaços verdes, equipamentos públicos e de lazer.
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
