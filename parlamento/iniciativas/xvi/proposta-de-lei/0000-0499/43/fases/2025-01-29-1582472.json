@@ -1,0 +1,897 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "43",
+    "id": "314435",
+    "titulo": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2025-01-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40630",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2025-01-29",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "314585",
+        "leg": "XVI",
+        "nr": "449",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36640",
+            "obs": null,
+            "pag": [
+              "64-77"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-30",
+            "pubLeg": "XVI",
+            "pubNr": "81",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/64?pgs=64-77&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36640",
+            "obs": null,
+            "pag": [
+              "64-77"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-30",
+            "pubLeg": "XVI",
+            "pubNr": "81",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/64?pgs=64-77&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria um valor de referência para os rácios salariais a observar no setor público"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "314591",
+        "leg": "XVI",
+        "nr": "455",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36640",
+            "obs": null,
+            "pag": [
+              "64-77"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-30",
+            "pubLeg": "XVI",
+            "pubNr": "81",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/64?pgs=64-77&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36640",
+            "obs": null,
+            "pag": [
+              "64-77"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-01-30",
+            "pubLeg": "XVI",
+            "pubNr": "81",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/64?pgs=64-77&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-01-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra do Trabalho, Solidariedade e Segurança Social",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria do Rosário Palma Ramalho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7504",
+                "nome": "Paulo Edson Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414271",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7346",
+                "nome": "Pedro Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra do Trabalho, Solidariedade e Segurança Social",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria do Rosário Palma Ramalho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/68?pgs=68&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8020",
+                "nome": "Patrícia Caixinha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/77"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7335",
+                "nome": "Sónia Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/78"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/80"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/76?pgs=76&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/81/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Secretário de Estado do Trabalho",
+              "governo": "XXIV GOVERNO CONSTITUCIONAL",
+              "nome": "Adriano Rafael Moreira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-30",
+                "pubLeg": "XVI",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "sumario": "Procede à transposição da Diretiva (UE) 2022/2041, relativa a salários mínimos adequados na UE, alterando o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas; Cria um valor de referência para os rácios salariais a observar no setor público; Prorroga a vigência das convenções coletivas de trabalho até à sua substituição por outra convenção",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1582472",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1021077",
+        "obs": null,
+        "pag": [
+          "64-77"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-30",
+        "pubLeg": "XVI",
+        "pubNr": "81",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/081/2025-01-30/64?pgs=64-77&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
