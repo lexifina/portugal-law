@@ -2,11 +2,11 @@
 
 ### Classificação final de curso para efeitos de prosseguimento de estudos
 
-1 - Para os alunos abrangidos pelo disposto na alínea b) no n.º 2 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, a classificação final de curso para efeitos de prosseguimento de estudos no ensino superior (CFCEPE) é o valor resultante do cálculo da expressão (7 x C + 3 x M)/10, arredondado às unidades, em que:
+1 - Para os alunos abrangidos pelo disposto na alínea b) no n.º 2 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, a classificação final de curso para efeitos de prosseguimento de estudos no ensino superior (CFCEPE) é o valor resultante do cálculo da expressão (7,5 × CFC + 2,5 × CE) / 10, arredondado às unidades, em que:
 
-C é o resultado da média aritmética simples da classificação final obtida pelo aluno em todas as disciplinas do respetivo curso, calculada até às décimas, sem arredondamento, subsequentemente convertida para a escala de 0 a 200;
+CFC representa a classificação final do curso calculado nos termos do artigo 26.º, calculada até às décimas, sem arredondamento, e posteriormente convertida para a escala de 0 a 200;
 
-M é a média aritmética simples, arredondada às unidades, das classificações, na escala de 0 a 200 pontos, dos exames a que se refere o n.º 2 do artigo 17.º da presente portaria.
+CE representa a média aritmética simples, arredondada às unidades, das classificações, na escala de 0 a 200 pontos, dos exames referidos no n.º 2 do artigo 17.º da presente portaria.
 
 2 - A classificação final de curso para efeitos de prosseguimento de estudos no ensino superior do aluno que, previamente, haja concluído um curso secundário profissional, artístico especializado ou científico-humanístico, ingressando, em ano letivo posterior, em curso científico-humanístico na modalidade de ensino recorrente, é a média aritmética simples, arredondada às unidades, das classificações, na escala de 0 a 200 pontos, dos exames finais nacionais mencionados n.º 2 do artigo 17.º da presente portaria, sem prejuízo do disposto no número seguinte.
 
