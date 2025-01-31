@@ -4,7 +4,7 @@
 
 1 - Os formadores nos tribunais são designados, sob proposta do director do CEJ, pelos Conselhos Superiores da Magistratura, dos Tribunais Administrativos e Fiscais e do Ministério Público, de entre magistrados da respectiva magistratura.
 
-2 - Na designação dos formadores tem-se em conta a qualidade do desempenho, a experiência profissional e a motivação.
+2 - Na designação dos formadores tem-se em conta a aptidão pedagógica, a qualidade do desempenho funcional, a experiência profissional e a motivação.
 
 3 - A designação é feita por período de três anos, renovável por iguais períodos.
 

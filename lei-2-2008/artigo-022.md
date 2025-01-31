@@ -2,7 +2,7 @@
 
 ### Formas da publicitação
 
-1 - São publicitados no sítio do CEJ na Internet e afixados na sede do CEJ:
+1 - São publicitados no sítio do CEJ na Internet:
 
 a) Os avisos de convocação dos candidatos para a aplicação de métodos de selecção, com menção da data e local respectivos, salvo quando indicados no aviso de abertura do concurso;
 

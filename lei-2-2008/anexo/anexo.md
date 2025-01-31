@@ -2,4 +2,4 @@
 
 ### Quadro dos cargos de direcção superior do CEJ a que se refere o artigo 107.º
 
-(ver documento original)
+Designação dos cargos dirigentesQualificação dos cargos dirigentesGrauNúmero de lugaresDiretorDireção superior1.º1Diretor-adjuntoDireção superior2.º4

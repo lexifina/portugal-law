@@ -6,4 +6,4 @@
 
 ### Contagem de prazos
 
-Salvo disposição em contrário, à contagem dos prazos referidos nesta lei aplica-se o disposto no Código do Procedimento Administrativo.
+Salvo disposição em contrário no regulamento interno, à contagem dos prazos referidos nesta lei aplica-se o disposto no Código do Procedimento Administrativo.

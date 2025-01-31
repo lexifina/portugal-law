@@ -2,17 +2,13 @@
 
 ### Opção de magistratura
 
-1 - Os candidatos habilitados para a frequência do curso de formação para as magistraturas nos tribunais judiciais declaram por escrito a sua opção pela magistratura judicial ou pela magistratura do Ministério Público, no prazo de cinco dias a contar da publicitação dos candidatos habilitados.
+1 - Os candidatos habilitados para a frequência do curso de formação para as magistraturas nos tribunais judiciais podem alterar por escrito a opção declarada nos termos do n.º 4 do artigo 11.º, no prazo de cinco dias a contar da publicitação dos candidatos habilitados.
 
-2 - As opções manifestadas nos termos do número anterior são consideradas por ordem de graduação, tendo em conta:
-
-a) O conjunto de vagas a preencher quer na magistratura judicial quer na magistratura do Ministério Público;
-
-b) Em cada conjunto, o número de vagas a preencher por quem possua cada um dos requisitos previstos na alínea c) do artigo 5.º
+2 - As opções manifestadas nos termos do número anterior são consideradas por ordem de graduação, tendo em conta o conjunto de vagas a preencher, quer na magistratura judicial, quer na magistratura do Ministério Público.
 
 3 - Existindo desproporção entre as vagas disponíveis em cada magistratura, nos termos do número anterior, e as opções manifestadas, têm preferência os candidatos com maior graduação, de acordo com a lista respectiva.
 
-4 - Os candidatos que, face à opção expressa, não tenham vaga segundo as regras definidas nos n.os 2 e 3, podem, no prazo de três dias a contar da afixação dessa informação, requerer a alteração da sua opção.
+4 - Os candidatos que, face à opção expressa, não tenham vaga segundo as regras definidas nos n.os 2 e 3, podem, no prazo de três dias a contar da publicitação dessa informação, requerer a alteração da sua opção.
 
 5 - Os candidatos que não disponham de vaga disponível para a opção expressa nem requeiram a subsequente alteração de opção ficam excluídos da frequência do curso.
 

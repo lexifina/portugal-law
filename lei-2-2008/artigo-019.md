@@ -12,7 +12,7 @@ b) Uma discussão sobre direito civil e direito processual civil e direito comer
 
 c) Uma discussão sobre direito penal e direito processual penal;
 
-d) Uma discussão sobre temas de direito administrativo, direito económico, direito da família e das crianças e direito do trabalho.
+d) Uma discussão sobre temas de direito da família e das crianças ou de direito do trabalho, de acordo com a escolha do candidato, feita no momento da candidatura.
 
 3 - No concurso para o preenchimento de vagas de juízes dos tribunais administrativos e fiscais, a fase oral compreende a realização das seguintes provas de conhecimentos:
 
@@ -26,7 +26,7 @@ d) Uma discussão sobre procedimento e processo administrativo e tributário.
 
 4 - Cada prova tem a duração máxima de trinta minutos.
 
-5 - A determinação da área temática da prova a que se refere a alínea d) do n.º 2 resulta de sorteio realizado com a antecedência de quarenta e oito horas.
+5 - (Revogado.)
 
 6 - As provas são públicas, apenas não podendo assistir os candidatos que não as tenham ainda prestado.
 

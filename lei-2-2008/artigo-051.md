@@ -18,7 +18,7 @@ e) Assistir às deliberações dos órgãos jurisdicionais.
 
 3 - Os estágios e ações previstos no número anterior têm duração variável, ajustada ao cumprimento dos respetivos objetivos pedagógicos, não devendo a sua soma exceder dois meses.
 
-4 - Os auditores de justiça que ingressaram no curso ao abrigo do disposto na segunda parte da alínea c) do artigo 5.º podem ser dispensados da frequência dos estágios e ações previstos no n.º 2, por deliberação do conselho pedagógico, sob proposta do diretor.
+4 - (Revogado.)
 
 5 - O 2.º ciclo pode compreender:
 

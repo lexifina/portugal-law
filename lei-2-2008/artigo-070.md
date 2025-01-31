@@ -4,7 +4,7 @@
 
 1 - A fase de estágio tem a duração de 12 meses, com início no dia 1 de setembro subsequente à aprovação no curso de formação teórico-prática, sem prejuízo do disposto no n.º 6.
 
-2 - Nos casos em que, de acordo com o disposto no artigo 35.º, o 2.º ciclo for prorrogado, a fase de estágio inicia-se 15 dias após a data de afixação da lista de graduação do curso de formação teórico-prática.
+2 - Nos casos em que, de acordo com o disposto no artigo 35.º, o 2.º ciclo for prorrogado, a fase de estágio inicia-se 15 dias após a data de publicitação da lista de graduação do curso de formação teórico-prática.
 
 3 - O estágio é realizado segundo um plano individual homologado pelo Conselho Superior respectivo, competindo a sua elaboração e acompanhamento ao CEJ.
 
@@ -22,4 +22,4 @@ c) Acções conjuntas destinadas aos estagiários das magistraturas, da advocaci
 
 7 - O conselho pedagógico do CEJ pode apresentar, por sua iniciativa, ao Conselho Superior respectivo parecer fundamentado no sentido da prorrogação dos estágios, por proposta do director.
 
-8 - Os juízes e os procuradores-adjuntos em regime de estágio podem, por motivo justificado, ser transferidos pelo Conselho Superior respectivo, ouvido o director do CEJ ou sob proposta deste.
+8 - Os juízes e os procuradores da República em regime de estágio podem, por motivo justificado, ser transferidos pelo Conselho Superior respetivo, ouvido o diretor do CEJ ou sob proposta deste.
