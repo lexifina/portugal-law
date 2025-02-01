@@ -8,7 +8,11 @@
 
 3 - Na área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo, aplica-se cumulativamente com o regime previsto nos n.os 3 e 4 do artigo 15.º do presente diploma o regime decorrente do POOC da Costa Sul da Ilha de São Miguel e, supletivamente, os regimes estabelecidos pelos planos municipais de ordenamento do território, sem prejuízo do disposto nos números seguintes.
 
-4 - Para efeitos do disposto no número anterior e quanto ao regime estatuído pelos n.os 3 e 4 do artigo 15.º, ficam excepcionadas de aplicação à área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo as regras que decorrem das alíneas c) e n) do n.º 3 e d) e i) do n.º 4 daquele artigo.
+4 - Para efeitos do disposto no número anterior e quanto ao regime estatuído pelos n.os 3 e 4 do artigo 15.º, ficam excecionadas de aplicação à área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo, as regras que decorrem das alíneas c), n), p) e q) do n.º 3 e d) e i) do n.º 4 do citado artigo, sem prejuízo do disposto nas alíneas seguintes:
+
+a) A interdição prevista na alínea p) do n.º 3 do artigo 15.º aplica-se à área protegida para a gestão de habitats ou espécies do ilhéu de Vila Franca do Campo, cujos limites estão representados nos anexos ii e iii pela sigla SMG06, e à Zona Especial de Conservação da Caloura - Ponta da Galera, cujos limites estão representados nos anexos i e ii da Resolução do Conselho do Governo Regional n.º 30/1998, de 5 de fevereiro, pela sigla PTMIG0020;
+
+b) A excecionalidade de aplicação da interdição prevista na alínea q) do n.º 3 do artigo 15.º limita-se à Zona Especial de Conservação da Caloura - Ponta da Galera, cujos limites estão representados nos anexos i e ii da Resolução do Conselho do Governo Regional n.º 30/1998, de 5 de fevereiro, pela sigla PTMIG0020.
 
 5 - A área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo integra no seu âmbito os objectivos e limites territoriais definidos para o SIC da Caloura - ponta da Galera e observa, cumulativamente com o regime definido pelo presente diploma, o regime estabelecido pelo Plano Sectorial Rede Natura 2000.
 
