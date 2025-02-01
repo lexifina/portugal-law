@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Áreas protegidas do Parque Natural
-
 ## Secção I
 
 ## Reserva natural
