@@ -1,0 +1,172 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "500",
+  "id": "314701",
+  "fases": 14,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-02-04",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5759325a6d52694d4449744e7a51334e433030597a63334c5467304d6d4d745a4463314d4451354e6a417a4e44526b4c6e426b5a673d3d&fich=ef6fdb02-7474-4c77-842c-d7504960344d.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5451354d3249314d4459745a6a45774f5330304f4463774c574577596a49744d574933596a63304e7a67354e3251784c6e426b5a673d3d&fich=1493b506-f109-4870-a0b2-1b7b747897d1.pdf&Inline=true",
+        "anexoNome": "Certidão AM Castelo de Paiva"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d5a6b597a49354e6a55744e6a646d4f4330304f57566b4c54686b5a4459745a47457759574e6c5a474a6959324d304c6e426b5a673d3d&fich=6fdc2965-67f8-49ed-8dd6-da0acedbbcc4.pdf&Inline=true",
+        "anexoNome": "Mapas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e574a6a4d6a55324e444174597a6c6a59693030596d49794c546b33597a4d74596d457a4f546b784e6a6b7a4e4759774c6e426b5a673d3d&fich=5bc25640-c9cb-4bb2-97c3-ba39916934f0.pdf&Inline=true",
+        "anexoNome": "Parecer Direção-Geral do Território"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4745305a4467305a4449745a6a6b77596930304d7a51794c574669596a51744f47466d59574e6d5a6d49324e6d4d784c6d527659773d3d&fich=0a4d84d2-f90b-4342-abb4-8afacffb66c1.doc&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão 1 de 04-02-2025"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5467335a6a41305a5463744d5452694d793030595441304c546b7a4d7a63745a574a6c4e4755354f4467315a5442684c6d527659773d3d&fich=987f04e7-14b3-4a04-9337-ebe4e9885e0a.doc&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão 2 de 04-02-2025"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d545a684d4749774f4455744d7a41354e6930304d544a6b4c574979596a67744e3245334f575a6a4e7a63324d5451774c6d527659773d3d&fich=16a0b085-3096-412d-b2b8-7a79fc776140.doc&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão 3 de 05-02-2025"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8152",
+        "nome": "Almiro Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8978",
+        "nome": "Silvério Regalado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8244",
+        "nome": "Ângela Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4308",
+        "nome": "Salvador Malheiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3918",
+        "nome": "Paula Cardoso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2641",
+        "nome": "Paulo Cavaleiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2071",
+        "nome": "Miguel Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8863",
+        "nome": "Dulcineia Catarina Moura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8698",
+        "nome": "Olga Freire"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8783",
+        "nome": "Carlos Silva Santiago"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7335",
+        "nome": "Sónia Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2665",
+        "nome": "Jorge Paulo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8411",
+        "nome": "Luís Newton"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4328",
+        "nome": "Maurício Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5993",
+        "nome": "Alberto Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2397",
+        "nome": "Francisco Covelinhas Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6937",
+        "nome": "Alberto Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6081",
+        "nome": "Sonia dos Reis"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "314701",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4467335a6a51304d4745744f5746684d4330304d574d774c5745794d5745745a444d315a4759784d474a6d4e4449784c6d527659773d3d&fich=887f440a-9aa0-41c0-a21a-d35df10bf421.doc&Inline=true",
+    "IniNr": "500",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto a pedido do autor em 2025-02-04. Substituição do título e do texto a pedido do autor em 2025-02-05. Substituição do texto a pedido do autor em 2025-02-19.",
+    "IniTipo": "J",
+    "IniTitulo": "Procede à alteração dos limites territoriais entre as freguesias de Fornos, Real, São Martinho de Sardoura, Santa Maria de Sardoura, União de Freguesias de Raiva, Pedorido e Paraíso, e da União de Freguesias de Sobrado e Bairros, do Município de Castelo de Paiva",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
