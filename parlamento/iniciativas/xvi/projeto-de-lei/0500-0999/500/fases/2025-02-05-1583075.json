@@ -1,0 +1,251 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "500",
+    "id": "314701",
+    "titulo": "Procede à alteração dos limites territoriais entre as freguesias de Fornos, Real, São Martinho de Sardoura, Santa Maria de Sardoura, União de Freguesias de Raiva, Pedorido e Paraíso, e da União de Freguesias de Sobrado e Bairros, do Município de Castelo de Paiva"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-02-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "86621",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-02-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-03-13",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e6d59304f44566a4f5330324f4445334c5452694f4749744f57566c4e7930325a5463314d475a6c4d574e6c4d6a67756347526d&fich=06f485c9-6817-4b8b-9ee7-6e750fe1ce28.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-13",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d6a4533597a4d344f4331694e4756684c5451774e6a637459544a6a4f4330784d7a59354f54517a4e6a4a695a4441756347526d&fich=5217c388-b4ea-4067-a2c8-136994362bd0.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8405",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Poder Local e Coesão Territorial",
+        "Numero": "8405",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f44426b4d6a4a6b4d433079596a49354c5451784e545974595749314d5331694e7a59784d7a52684e7a566c4e4455756347526d&fich=580d22d0-2b29-4156-ab51-b76134a75e45.pdf&Inline=true",
+            "nome": "FREGUESIA DE FORNOS - CASTELO DE PAIVA em 2025-02-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a6a686c597a42695a69316d596a4e6d4c5452685a574574596a64694d5331694d3259794e6d59304f4441324e5449756347526d&fich=0f8ec0bf-fb3f-4aea-b7b1-b3f26f480652.pdf&Inline=true",
+            "nome": "FREGUESIA DE SÃO MARTINHO DE SARDOURA em 2025-02-25"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d7a41324e7a51774e7930344e6a45774c54526d596d51744f5749775a4330784d3251314d7a51344e7a4d314d4445756347526d&fich=13067407-8610-4fbd-9b0d-13d534873501.pdf&Inline=true",
+            "nome": "UNIÃO DAS FREGUESIAS DE RAIVA, PEDORIDO E PARAÍSO em 2025-03-06"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354f5451795a5755304f4330335a47466c4c5451324f474d744f446b774d6931694d575132596d4d354d7a466d596d49756347526d&fich=9942ee48-7dae-468c-8902-b1d6bc931fbb.pdf&Inline=true",
+            "nome": "UNIÃO DAS FREGUESIAS DE SOBRADO E BAIRROS em 2025-02-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a44466a4e54646a5a69316a5a6a566d4c5451774d7a5574596a41774f4330794e445a6a4d4755354e574e6c5a6d45756347526d&fich=fd1c57cf-cf5f-4035-b008-246c0e95cefa.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Castelo de Paiva em 2025-02-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830595455794e475931596930314f57466a4c5451304e6a4174595449785a433034596a55344f546c6c596d466c5a5449756347526d&fich=4a524f5b-59ac-4460-a21d-8b5899ebaee2.pdf&Inline=true",
+            "nome": "Câmara Municipal de Castelo de Paiva em 2025-02-25"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793968596d526a4d6a566c5a6931694d324e6c4c54517a5a5459744f54517a4d6930795a57517a4e7a67334e7a646b4e5749756347526d&fich=abdc25ef-b3ce-43e6-9432-2ed378777d5b.pdf&Inline=true",
+            "nome": "FREGUESIA DE SANTA MARIA DE SARDOURA em 2025-02-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684f544a684e5749315953316c596a497a4c54526d4f57597459544d7a597930314f54413359544e6d5a6a4d334e7a4d756347526d&fich=a92a5b5a-eb23-4f9f-a33c-5907a3ff3773.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Fornos em 2025-02-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f4455774e5441784d79307a4d7a68694c5451314e5745744f5441785a6930774e4745344d6a4577597a4d304d6d45756347526d&fich=08505013-338b-455a-901f-04a8210c342a.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Real em 2025-03-06"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e7a4d774d6a67774d53316c4f47457a4c5451304e474d744f4752685a6931694e44566a4d5755304e444a6d595755756347526d&fich=f7302801-e8a3-444c-8daf-b45c1e442fae.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de São Martinho de Sardoura em 2025-02-25"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d5463785a5452694d7930354d6a6b7a4c5451334e7a4174595755304e4331685a4467304e6a566d5a57566a4e6a55756347526d&fich=a171e4b3-9293-4770-ae44-ad8465feec65.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Santa Maria de Sardoura em 2025-02-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e6d59325a6d597a4d53316b4d6a4e6a4c5451314f474974595759774e79316c5954526a4e6a6730596d59335a546b756347526d&fich=c6f6ff31-d23c-458b-af07-ea4c684bf7e9.pdf&Inline=true",
+            "nome": "Assembleia de Freguesias de Raiva, Pedorido e Paraíso em 2025-03-06"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c596a497a4e44566b4d53307a596a55324c5452694e6a4d74595459335a69316a4f47526a4e4451344f54646b595463756347526d&fich=eb2345d1-3b56-4b63-a67f-c8dc44897da7.pdf&Inline=true",
+            "nome": "Assembleia de Freguesias de Sobrado e Bairros em 2025-02-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a6a6b334d54466d4d6930784e54466b4c5451774d7a59744f544d794d6930314e7a67785a444130597a6c6a4e7a4d756347526d&fich=ef9711f2-151d-4036-9322-5781d04c9c73.pdf&Inline=true",
+            "nome": "Freguesia de Real em 2025-03-06"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f44426b4d6a4a6b4d433079596a49354c5451784e545974595749314d5331694e7a59784d7a52684e7a566c4e4455756347526d&fich=580d22d0-2b29-4156-ab51-b76134a75e45.pdf&Inline=true",
+            "nome": "FREGUESIA DE FORNOS - CASTELO DE PAIVA em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a6a686c597a42695a69316d596a4e6d4c5452685a574574596a64694d5331694d3259794e6d59304f4441324e5449756347526d&fich=0f8ec0bf-fb3f-4aea-b7b1-b3f26f480652.pdf&Inline=true",
+            "nome": "FREGUESIA DE SÃO MARTINHO DE SARDOURA em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d7a41324e7a51774e7930344e6a45774c54526d596d51744f5749775a4330784d3251314d7a51344e7a4d314d4445756347526d&fich=13067407-8610-4fbd-9b0d-13d534873501.pdf&Inline=true",
+            "nome": "UNIÃO DAS FREGUESIAS DE RAIVA, PEDORIDO E PARAÍSO em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354f5451795a5755304f4330335a47466c4c5451324f474d744f446b774d6931694d575132596d4d354d7a466d596d49756347526d&fich=9942ee48-7dae-468c-8902-b1d6bc931fbb.pdf&Inline=true",
+            "nome": "UNIÃO DAS FREGUESIAS DE SOBRADO E BAIRROS em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a44466a4e54646a5a69316a5a6a566d4c5451774d7a5574596a41774f4330794e445a6a4d4755354e574e6c5a6d45756347526d&fich=fd1c57cf-cf5f-4035-b008-246c0e95cefa.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Castelo de Paiva em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830595455794e475931596930314f57466a4c5451304e6a4174595449785a433034596a55344f546c6c596d466c5a5449756347526d&fich=4a524f5b-59ac-4460-a21d-8b5899ebaee2.pdf&Inline=true",
+            "nome": "Câmara Municipal de Castelo de Paiva em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793968596d526a4d6a566c5a6931694d324e6c4c54517a5a5459744f54517a4d6930795a57517a4e7a67334e7a646b4e5749756347526d&fich=abdc25ef-b3ce-43e6-9432-2ed378777d5b.pdf&Inline=true",
+            "nome": "FREGUESIA DE SANTA MARIA DE SARDOURA em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684f544a684e5749315953316c596a497a4c54526d4f57597459544d7a597930314f54413359544e6d5a6a4d334e7a4d756347526d&fich=a92a5b5a-eb23-4f9f-a33c-5907a3ff3773.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Fornos em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f4455774e5441784d79307a4d7a68694c5451314e5745744f5441785a6930774e4745344d6a4577597a4d304d6d45756347526d&fich=08505013-338b-455a-901f-04a8210c342a.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Real em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e7a4d774d6a67774d53316c4f47457a4c5451304e474d744f4752685a6931694e44566a4d5755304e444a6d595755756347526d&fich=f7302801-e8a3-444c-8daf-b45c1e442fae.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de São Martinho de Sardoura em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d5463785a5452694d7930354d6a6b7a4c5451334e7a4174595755304e4331685a4467304e6a566d5a57566a4e6a55756347526d&fich=a171e4b3-9293-4770-ae44-ad8465feec65.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Santa Maria de Sardoura em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e6d59325a6d597a4d53316b4d6a4e6a4c5451314f474974595759774e79316c5954526a4e6a6730596d59335a546b756347526d&fich=c6f6ff31-d23c-458b-af07-ea4c684bf7e9.pdf&Inline=true",
+            "nome": "Assembleia de Freguesias de Raiva, Pedorido e Paraíso em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c596a497a4e44566b4d53307a596a55324c5452694e6a4d74595459335a69316a4f47526a4e4451344f54646b595463756347526d&fich=eb2345d1-3b56-4b63-a67f-c8dc44897da7.pdf&Inline=true",
+            "nome": "Assembleia de Freguesias de Sobrado e Bairros em 2025-02-07"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a6a6b334d54466d4d6930784e54466b4c5451774d7a59744f544d794d6930314e7a67785a444130597a6c6a4e7a4d756347526d&fich=ef9711f2-151d-4036-9322-5781d04c9c73.pdf&Inline=true",
+            "nome": "Freguesia de Real em 2025-02-07"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7731",
+            "motivoCessacao": null,
+            "nome": "Ricardo Lima"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "IL",
+              "BE"
+            ],
+            "data": "2025-03-13",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I><BR>Ausência: <I>IL</I>, <I> BE</I>",
+            "id": "138724",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "49",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-02-05",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1583075",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022708",
+        "obs": null,
+        "pag": [
+          "30-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-13",
+        "pubLeg": "XVI",
+        "pubNr": "199",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/16/01/199/2025-03-13/30?pgs=30-33&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
