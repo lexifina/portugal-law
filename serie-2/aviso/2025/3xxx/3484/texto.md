@@ -1,0 +1,6 @@
+Aviso n.º 3484/2025/2
+
+José Francisco Tavares Rolo, Presidente da Câmara Municipal de Oliveira do Hospital, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 73.º do Regime Jurídico da Urbanização e Edificação, publicado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, e do n.º 1 do artigo 146.º do Código do Procedimento Administrativo, publicado pelo Decreto-Lei n.º 4/2015, de 07 de junho, na sua redação atual, conjugado pela alínea g) do n.º 1 do artigo 25.º da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, que a Câmara Municipal de Oliveira do Hospital, em reunião ordinária de 18 de dezembro de 2024, deliberou, por unanimidade, submeter à Assembleia Municipal, para deliberação, a proposta de revogação do regulamento do loteamento camarário de Ervedal da Beira, publicado pelo Aviso n.º 2706/2004 de 22 de abril, tendo este órgão deliberativo, na sua sessão ordinária de 20 de dezembro de 2024, deliberado, por maioria e um voto contra, revogar o citado regulamento.
+Para constar, será publicado o presente Aviso no Diário da República, 2.ª série, e afixado nos lugares de estilo, bem como publicitado na comunicação social e no sítio eletrónico do Município, em www.cm-oliveiradohospital.pt.
+20 de janeiro de 2025. - O Presidente da Câmara Municipal, José Francisco Tavares Rolo.
+318586475
