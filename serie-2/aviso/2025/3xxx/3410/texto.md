@@ -1,0 +1,19 @@
+Aviso n.º 3410/2025/2
+
+Alteração por procedimento simplificado do Plano Diretor Municipal de Arganil
+Luís Paulo Carreira Fonseca da Costa, Presidente da Câmara Municipal de Arganil, torna público que, nos termos da alínea f) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, na atual redação, que aprovou o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), decorrido o período de participação pública divulgado no Diário da República, 2.ª série, através do Aviso n.º 23019/2024/2, de 17 de outubro de 2024, e sob proposta da Câmara Municipal de 19 de novembro de 2024, a Assembleia Municipal de Arganil, na sua sessão ordinária de 7 de dezembro de 2024, deliberou por unanimidade aprovar a alteração simplificada do Plano Diretor Municipal de Arganil de reclassificação de solo rústico para solo urbano com a categoria de espaços habitacionais, para viabilizar a construção do Serviço de Urgência Básico - Centro de Saúde de Arganil, numa área com dimensão de 3.685,11 m<sup>2</sup>, contígua ao perímetro urbano de S. Pedro, à entrada de Arganil, com as coordenadas retangulares (6174.91,62294.53), sistema PT-TM06/ETRS89 (M,P), nos termos do disposto no n.º 1, alínea nos termos do disposto nos artigos 72 e 72.º- A e no n.º 7 do artigo 123.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual.
+A alteração simplificada do PDM incide apenas sobre a Planta de Ordenamento, publicando-se a referida planta.
+2 de janeiro de 2025. - O Presidente da Câmara Municipal, Luís Paulo Carreira Fonseca da Costa.
+Deliberação
+António Gonçalves Cardoso, Presidente da Assembleia Municipal de Arganil, certifica que, da ata da sessão ordinária deste órgão, realizada em 7 de dezembro de 2024, foi aprovada, nos termos do n.º 7 do artigo 123.º do RJIGT, a deliberação que a seguir se transcreve:
+«DÉCIMO SEXTO: Terceira Alteração ao PDM de ARGANIL - alteração simplificada ao abrigo do RJIGT - Apreciação do Relatório da consulta pública e da versão final da proposta de alteração, nos termos do n.º 1 do artigo 90.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo DL n.º 80/2015, de 14 de maio, na atual redação.
+Presentes a informação técnica INF/DGU/880/2024 (assunto: “3.ª Alteração ao PDM de ARGANIL - alteração simplificada do abrigo do art. 72.º-A do RJIGT: Aprovação do relatório da consulta pública, aprovação da versão final e submissão à assembleia municipal”), bem como a proposta da Terceira Alteração ao PDM de ARGANIL - alteração simplificada ao abrigo do RJIGT - Apreciação do Relatório da consulta pública e da versão final da proposta de alteração, que se dão por reproduzidas, para todos os efeitos legais, e das quais se anexam cópias à ata.
+A Assembleia Municipal deliberou, por unanimidade de 27 votos, e de acordo com a informação técnica INF/DGU/880/2024, aprovar a Terceira Alteração ao PDM de ARGANIL - alteração simplificada ao abrigo do RJIGT - Apreciação do Relatório da consulta pública e da versão final da proposta de alteração, nos termos do n.º 1 do artigo 90.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo DL n.º 80/2015, de 14 de maio, na atual redação.
+Mais se deliberou, por unanimidade, aprovar a presente deliberação em minuta, nos termos do n.º 3 do artigo 57.º da Lei n.º 75/2013 de 12 de setembro.»
+Por ser verdade e me ter sido pedido, mandei passar a presente Certidão.
+18 de dezembro de 2024. - O Presidente da Assembleia Municipal de Arganil, António Gonçalves Cardoso,
+Identificadores das imagens e respetivos endereços do sítio do SNIT
+(conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+79969 - https://ssaigt.dgterritorio.pt/i/POrd_79969_0601_1_0_CQ.jpg
+80063 - https://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_80063_0601_2_0_Extrato.jpg
+618568225
