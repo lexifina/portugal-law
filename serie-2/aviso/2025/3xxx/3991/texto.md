@@ -1,0 +1,6 @@
+Aviso n.º 3991/2025/2
+
+Júlio Manuel dos Reis Clérigo, Presidente da Junta de Freguesia da União das Freguesias de Torres Novas (São Pedro), Lapas e Ribeira Branca, torna público que a Junta de Freguesia da União das Freguesias de Torres Novas (São Pedro), Lapas e Ribeira Branca, na reunião de 4 de fevereiro de 2025, deliberou aprovar o Projeto de Regulamento da Casa Mortuária Ribeira Ruiva, e submeter o mesmo a consulta pública, por um período de 30 (trinta) dias, a contar da data da publicação do presente aviso, para efeitos de recolha de observações, reclamações ou sugestões, nos termos do disposto nos números 1 e 2 do artigo 101.º do Código do Procedimento Administrativo.
+Para o efeito, o referido projeto de Regulamento poderá ser consultado na página desta autarquia - <a href="https://www.freguesiasaopedrolapasribeirabranca.pt/">https://www.freguesiasaopedrolapasribeirabranca.pt/</a> -, ou na sede desta Junta de Freguesia, no Largo D. Diogo Fernandes de Almeida - n.º 5 - R/c - Torres Novas, podendo os interessados remeter as suas sugestões para o seguinte endereço eletrónico: u.freguesias@splrb-tn.pt.
+5 de fevereiro de 2025. - O Presidente da Junta de Freguesia, Júlio Manuel dos Reis Clérigo.
+318655592
