@@ -1,0 +1,6 @@
+Aviso n.º 4087/2025/2
+
+Torna-se público, nos termos e para os efeitos do disposto no n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, que a Câmara Municipal, na sua reunião ordinária de 04-fev-2024, deliberou, por unanimidade, no âmbito do teor da informação n.º 1070, de 22-jan-2025, da Divisão de Urbanismo, Ordenamento, Planeamento e Ambiente, prorrogar o prazo da revisão do Plano Diretor Municipal (iniciada pelo Aviso n.º 16181/2021, de 26 de agosto e Declaração de Retificação n.º 704/2021, de 14 de outubro, publicados no Diário da República), que se encontra em curso, dando assim continuidade ao processo e aproveitando todos os documentos já produzidos, por mais 18 meses, com efeitos a partir do dia 31-dez-2024.
+Nos termos do n.º 1 do artigo 5.º, conjugado com o n.º 1 do artigo 76.º e n.º 2 e n.º 3 do artigo 192.º do Regime Jurídico dos Instrumentos de Gestão Territorial e para conhecimento público, se manda publicitar o presente aviso na 2.ª série do Diário da República, no Jornal de Monchique, na plataforma colaborativa de gestão territorial e no sítio da Internet deste município.
+5 de fevereiro de 2025. - O Presidente da Câmara, Paulo Jorge Duarte Alves.
+318659586
