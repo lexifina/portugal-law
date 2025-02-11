@@ -1,0 +1,8 @@
+Edital n.º 249/2025
+
+Consulta Pública do Projeto de Alteração ao Regulamento Municipal de Apoio ao Empreendedorismo
+Miguel Alexandre Silva Costa Santos Marques, Presidente da Câmara Municipal de Oleiros, no uso da competência prevista na alínea b) do n.º 1 do artigo 35.º do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, na sua redação atual, torna público que a Câmara Municipal de Oleiros, em reunião ordinária de 24 de janeiro de 2025, deliberou aprovar o “Projeto de Alteração ao Regulamento Municipal de Apoio ao Empreendedorismo”.
+Mais torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, que o referido projeto de regulamento municipal está disponível para consulta pública, pelo prazo de 30 dias úteis, contados da publicação do presente Aviso na 2.ª série do Diário da República.
+Durante o período de consulta pública, o projeto de regulamento encontra-se disponível para consulta na página da internet do Município, em www.cm-oleiros.pt, e no balcão de atendimento do Município de Oleiros, podendo qualquer interessado formular as sugestões e os contributos que entenda por convenientes, os quais devem ser apresentados por escrito, dirigidos ao Senhor Presidente da Câmara Municipal, e enviados por via postal para a morada: Praça do Município, 6160-409 Oleiros, por correio eletrónico, para o endereço geral@cm-oleiros.pt, ou entregues no balcão de atendimento do Município, durante o respetivo horário de expediente.
+27 de janeiro de 2025. - O Presidente da Câmara Municipal, Miguel Alexandre Silva Costa Santos Marques.
+318635933
