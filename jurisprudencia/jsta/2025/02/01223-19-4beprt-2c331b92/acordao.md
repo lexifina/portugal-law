@@ -1,0 +1,29 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-02-12, processo 01223/19.4BEPRT
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01223/19.4BEPRT
+
+**Data do Acordão:** 02/12/2025
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ANABELA RUSSO
+
+**Descritores:** ARGUIÇÃO DE NULIDADE; OMISSÃO DE PRONÚNCIA; REENVIO PREJUDICIAL
+
+**Nº Convencional:** JSTA000P33266
+
+**Nº do Documento:** SA22025021201223/19
+
+**Recorrente:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A..., LDA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – A nulidade por omissão de pronúncia do acórdão por omissão de pronúncia, nos termos definidos no artigo 125.º do CPPT, pressupõe, necessariamente, que o Tribunal não tenha conhecido e julgado a (s) questão (ões) que a Recorrente lhe colocou em recurso.
+
+II – Se a Recorrente, no recurso jurisdicional que interpôs, apenas coloca para decisão ao Supremo Tribunal Administrativo uma questão e este Tribunal, após ter formulado reenvio prejudicial, julga a questão que lhe foi colocada, é forçoso concluir-se, por falta do pressuposto identificado em I, que o acórdão em apreço não padece da nulidade, por omissão de pronúncia, que lhe é imputada.
