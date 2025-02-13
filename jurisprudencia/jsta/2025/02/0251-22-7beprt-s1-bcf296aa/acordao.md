@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-02-13, processo 0251/22.7BEPRT-S1
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0251/22.7BEPRT-S1
+
+**Data do Acordão:** 02/13/2025
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** PEDRO MARCHÃO MARQUES
+
+**Descritores:** PRESSUPOSTOS PROCESSUAIS; LEGITIMIDADE PASSIVA; LITISCONSÓRCIO NECESSÁRIO PASSIVO; SANAÇÃO
+
+**Nº Convencional:** JSTA00071904
+
+**Nº do Documento:** SA1202502130251/22
+
+**Recorrente:** MINISTÉRIO PÚBLICO
+
+**Recorrido 1:** MUNICÍPIO DE GONDOMAR E OUTROS
+
+**Votação:** UNANIMIDADE
+
+**Legislação Nacional:** CPTA ART7º-A; DL 32/2022 ART28 N7
+
+## Sumário
+
+I - A legitimidade processual deve ser avaliada pelo interesse da parte perante o objeto do processo, ou seja, pelo seu “interesse direto em demandar” ou “interesse direto em contradizer” (art. 26.º, n.º 1, do CPC), que se presume existir quando se verifique a “titularidade da relação controvertida, tal como é configurada pelo autor” (art. 26.º, n.º 3, do CPC).
+
+II - Se na ação está em causa um ato administrativo da Administração estadual em matéria de ambiente, ordenamento do território, Programa POLIS, e se esta matéria integra as atribuições cometidas ao Ministério do Ambiente e da Ação Climática, que tem por missão formular, conduzir, executar e avaliar as políticas respetivas, através de atos que o ministro executa ou delega, terá que concluir-se que este Ministério não pode ser considerado um terceiro, mas antes um sujeito que integra a relação material controvertida, tal como ela veio delineada pelo Ministério Público.
+
+III - Considerando as competências concorrenciais que detém nesta área, deve ser chamado (também) à demanda o Ministério da Coesão Territorial. A Lei Orgânica do XXIV Governo Constitucional, aprovada pelo Decreto-Lei n.º 32/2024, como anteriormente sucedia, consagra a imposição de coordenação jurídica entre ambos os ministros – o Ministro Adjunto e da Coesão Territorial e a Ministra do Ambiente e Energia - no segmento material, com o que ocorre uma situação de litisconsórcio necessário passivo.
+
+IV - Nos termos do disposto no artigo 7.º-A do CPTA: “O juiz providencia oficiosamente pelo suprimento da falta de pressupostos processuais suscetíveis de sanação, determinando a realização dos atos necessários à regularização da instância ou, quando a sanação dependa de ato que deva ser praticado pelas partes, convidando-as a praticá-lo” (n.º 2).
