@@ -56,7 +56,7 @@ p) «Fronteiras internas» as fronteiras comuns terrestres com os Estados partes
 
 q) «Investigador» um nacional de Estado terceiro, titular de um doutoramento ou de uma qualificação adequada de ensino superior que lhe dê acesso a programas de doutoramento, que seja admitido por um centro de investigação ou instituição de ensino superior para realizar um projeto de investigação que normalmente exija a referida qualificação;
 
-r) «Programa de voluntariado» um programa de atividades concretas de solidariedade baseadas num programa reconhecido pelas autoridades competentes ou pela União Europeia, que prossiga objetivos de interesse geral, em prol de uma causa não lucrativa e cujas atividades não sejam remuneradas, a não ser para efeito de reembolso de despesas e/ou dinheiro de bolso, incluindo atividades de voluntariado no âmbito do Serviço Voluntário Europeu.
+r) «Programa de voluntariado» um programa de atividades concretas de solidariedade baseadas num programa reconhecido pelas autoridades competentes ou pela União Europeia, que prossiga objetivos de interesse geral, em prol de uma causa não lucrativa e cujas atividades não sejam remuneradas, a não ser para efeito de reembolso de despesas e/ou dinheiro de bolso, incluindo atividades de voluntariado no âmbito do Serviço Voluntário Europeu;
 
 s) «Proteção internacional» o reconhecimento por um Estado membro de um nacional de um país terceiro ou de um apátrida com o estatuto de refugiado ou estatuto de proteção subsidiária;
 
@@ -104,7 +104,7 @@ kk) «Autorização de residência de mobilidade de longo prazo» a autorizaçã
 
 ll) «Grupo de empresas» duas ou mais empresas reconhecidas pela legislação nacional como interligadas, por existir entre elas relação societária de participações recíprocas, de domínio ou de grupo, nos termos da alínea l) do artigo 3.º da Diretiva 2014/66/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014;
 
-mm) «Voluntário» o nacional de Estado terceiro admitido em território nacional para participar num programa de voluntariado.
+mm) «Voluntário» o nacional de Estado terceiro admitido em território nacional para participar num programa de voluntariado;
 
 nn) «Projeto educativo» o conjunto de ações educativas desenvolvidas por um estabelecimento de ensino, em cooperação com autoridades similares de um Estado terceiro, com o objetivo de partilhar conhecimentos e culturas;
 
@@ -120,13 +120,15 @@ ss) «Empregador» a pessoa singular ou coletiva por conta da qual ou sob cuja d
 
 tt) «Convenção de acolhimento» o contrato ou outro documento outorgado pelo centro de investigação ou pela instituição de ensino superior e o investigador, do qual consta o título, objeto ou domínio da investigação, a data do seu início e termo ou a duração prevista e, se previsível, informação sobre a eventual mobilidade noutros Estados membros da União Europeia bem como, caso o investigador permaneça ilegalmente em território nacional, a obrigação de o centro ou de a instituição reembolsar o Estado das respetivas despesas de estada e de afastamento;
 
-uu) «Estabelecimento de formação profissional» um estabelecimento público ou privado reconhecido oficialmente e cujos programas de formação sejam reconhecidos.
+uu) «Estabelecimento de formação profissional» um estabelecimento público ou privado reconhecido oficialmente e cujos programas de formação sejam reconhecidos;
 
 vv) 'Sistema Integrado de Informação UCFE': sistema de informação de dados pessoais e dados relativos a bens jurídicos que integra informação de natureza policial e de cooperação policial internacional em matéria de fronteiras e estrangeiros, de utilização comum às forças e serviços de segurança, acessível por estas, e demais entidades, de acordo com as suas necessidades e competências legais (SII UCFE);
 
-ww) 'Sistema Integrado de Informação AIMA': sistema de informação de dados pessoais e dados relativos a bens jurídicos que integra informação de natureza não policial e de cooperação internacional em matéria de estrangeiros (SII AIMA).
+ww) 'Sistema Integrado de Informação AIMA': sistema de informação de dados pessoais e dados relativos a bens jurídicos que integra informação de natureza não policial e de cooperação internacional em matéria de estrangeiros (SII AIMA);
 
-xx) 'Apátrida' toda a pessoa que não seja considerada por qualquer Estado, segundo a sua legislação ou por efeito de aplicação da lei, como seu nacional.
+xx) 'Apátrida' toda a pessoa que não seja considerada por qualquer Estado, segundo a sua legislação ou por efeito de aplicação da lei, como seu nacional;
+
+yy) ‘Sistema de Entrada/Saída (SES)’, o sistema estabelecido pelo Regulamento (UE) 2017/2226, do Parlamento Europeu e do Conselho, de 30 de novembro de 2017, que estabelece o Sistema de Entrada/Saída (SES) para registo dos dados das entradas e saídas e dos dados das recusas de entrada dos nacionais de países terceiros aquando da passagem das fronteiras externas dos Estados-Membros, que determina as condições de acesso ao SES para efeitos de aplicação da lei, e que altera a Convenção de Aplicação do Acordo de Schengen e os Regulamentos (CE) n.º 767/2008 e (UE) n.º 1077/2011 [Regulamento (UE) 2017/2226].
 
 2 - O montante ou requisito quantitativo mínimo da atividade de investimento prevista nas subalíneas ii), v) e vi) da alínea d) do número anterior pode ser inferior em 20 %, quando a atividade seja efetuada em territórios de baixa densidade.
 

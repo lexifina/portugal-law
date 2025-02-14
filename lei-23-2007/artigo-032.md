@@ -2,9 +2,13 @@
 
 ## Recusa de entrada e de permanência
 
+## Subsecção I
+
+## Disposições gerais
+
 # Artigo 32.º
 
-### Recusa de entrada
+### Recusa de entrada e permanência
 
 1 - A entrada em território português é recusada aos cidadãos estrangeiros que:
 

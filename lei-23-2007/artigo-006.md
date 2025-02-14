@@ -6,6 +6,10 @@
 
 ## Passagem na fronteira
 
+## Subsecção I
+
+## Disposições gerais
+
 # Artigo 6.º
 
 ### Controlo fronteiriço

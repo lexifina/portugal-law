@@ -10,9 +10,9 @@
 
 a) De colocação em centro de instalação temporária ou espaço equiparado, por período não superior a 30 dias;
 
-b) De obrigação de permanência na habitação com utilização de meios de vigilância electrónica.
+b) De obrigação de permanência na habitação com utilização de meios de vigilância electrónica;
 
-c) De apresentação periódica no SEF ou às autoridades policiais.
+c) De apresentação periódica às autoridades policiais;
 
 d) De pagamento de uma caução.
 
