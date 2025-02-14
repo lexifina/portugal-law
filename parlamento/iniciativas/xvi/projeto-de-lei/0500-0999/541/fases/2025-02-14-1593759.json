@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "541",
+    "id": "314806",
+    "titulo": "Procede ao aumento dos períodos de prescrição nos crimes de tráfico de influência, recebimento ou oferta indevidos de vantagem, corrupção e participação económica em negócio"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-02-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "86771",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-02-14",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-02-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Não emissão de Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a426d4d3251314d7a4d745a44426b4d6930305a5463344c574533595451744d7a55794d6a426c4d474d314e54526a4c6e426b5a673d3d&fich=70f3d533-d0d2-4e78-a7a4-35220e0c554c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - CSM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d57466d4f57597a4e7a4d744d5751354e533030593251314c5749325a5455745a6a6c694d5442694d544d7a5a6a59344c6e426b5a673d3d&fich=1af9f373-1d95-4cd5-b6e5-f9b10b133f68.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - MENAC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595451304e6d597a4d3259744d4459344e7930304d5451314c5468684f4745744d325a6a4d6a45354d6d457a4d544a694c6e426b5a673d3d&fich=a446f33f-0687-4145-8a8a-3fc2192a312b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c304e4651556c46545546424c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659544a6c4e3251334e3255744d4467774d4330304f474a684c54686c5a575974596a63774d7a41794f544933597a45774c6e426b5a673d3d&fich=a2e7d77e-0800-48ba-8eef-b70302927c10.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8433",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão Eventual para o acompanhamento integrado da execução e monitorização da Agenda Anticorrupção",
+        "Numero": "8433",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "MENAC - Mecanismo Nacional Anticorrupção em 2025-03-03"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-03-03"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "MENAC - Mecanismo Nacional Anticorrupção em 2025-02-21"
+          },
+          {
+            "link": "",
+            "nome": "CSM - Conselho Superior de Magistratura em 2025-02-21"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2025-02-21"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-02-21"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4133",
+            "motivoCessacao": null,
+            "nome": "Isabel Oneto"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-02-14",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão à 1.ª Comissão",
+    "OevId": "1593759",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
