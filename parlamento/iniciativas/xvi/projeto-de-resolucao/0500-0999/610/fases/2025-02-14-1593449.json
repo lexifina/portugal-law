@@ -1,0 +1,1657 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "610",
+    "id": "314644",
+    "titulo": "Recomenda ao Governo a inclusão de informação e estatísticas no relatório anual de segurança interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal, e outros"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2025-02-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40778",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2025-02-14",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "314637",
+        "leg": "XVI",
+        "nr": "476",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "263857",
+        "leg": "XVI",
+        "nr": "162",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "314624",
+        "leg": "XVI",
+        "nr": "597",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "314639",
+        "leg": "XVI",
+        "nr": "606",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56668",
+            "obs": null,
+            "pag": [
+              "61-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-02-15",
+            "pubLeg": "XVI",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda que sejam implementadas as orientações da Organização para a Cooperação e Segurança na Europa relativas a crimes de ódio"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-02-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1132",
+                "nome": "António Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "434903",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7369",
+                "nome": "Vanessa Barata"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "434995",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "434996",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "434997",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "434998",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7965",
+                "nome": "Marcus Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "434999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/77"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435000",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/67?pgs=67&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6859",
+                "nome": "Cláudia Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/78"
+              },
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/80"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435001",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/67?pgs=67-69&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6945",
+                "nome": "Rodrigo Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435002",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435003",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/69?pgs=69-71&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6859",
+                "nome": "Cláudia Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435004",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435005",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/72?pgs=72&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6859",
+                "nome": "Cláudia Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435006",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6945",
+                "nome": "Rodrigo Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7369",
+                "nome": "Vanessa Barata"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/74?pgs=74&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6859",
+                "nome": "Cláudia Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/74?pgs=74&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7973",
+                "nome": "Mariana Leitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/75?pgs=75-76&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7973",
+                "nome": "Mariana Leitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/78?pgs=78&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/78?pgs=78&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1132",
+                "nome": "António Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "14:25",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/89/94"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-15",
+                "pubLeg": "XVI",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/79?pgs=79&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a autonomização dos crimes de ódio no Relatório Anual de Segurança Interna; Altera a Lei n.º 53/2008, de 29 de agosto (Aprova a Lei de Segurança Interna) em matéria de elaboração do Relatório Anual de Segurança Interna; Recomenda ao Governo a revisão e atualização do enquadramento legal dos crimes de ódio, o reforço de apoio às vítimas e a recolha, monitorização e disponibilização de dados referentes a estes crimes; Recomenda que sejam implementadas as orientações da Organização para a Segurança e Cooperação na Europa relativas a crimes de ódio; Recomenda ao Governo a inclusão de informação e estatísticas no Relatório Anual de Segurança Interna sobre nacionalidade, sexo e idade dos criminosos e das vítimas, crimes previstos no artigo 240.º do Código Penal",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1593449",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1021637",
+        "obs": null,
+        "pag": [
+          "61-79"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-02-15",
+        "pubLeg": "XVI",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/089/2025-02-15/61?pgs=61-79&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
