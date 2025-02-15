@@ -4,54 +4,38 @@
 
 1 - Sem prejuízo da autonomia dos estabelecimentos de ensino superior, a organização da prática de ensino supervisionada obedece às especificidades dos ciclos de estudo frequentados pelo estudante, sendo assegurada por este em coadjuvação com o orientador cooperante.
 
-2 - Na organização da prática de ensino supervisionada dos estudantes dos ciclos de estudos da Educação Pré-Escolar e do 1.º Ciclo do Ensino Básico observa-se o seguinte:
+2 - A realização da prática de ensino supervisionada observa o seguinte:
 
-a) Na Educação Pré-Escolar são atribuídas ao estudante 12 horas letivas semanais, distribuídas por dois dos seguintes grupos:
+a) O estudante deve cumprir um mínimo de oito horas letivas semanais com supervisão do orientador cooperante;
 
-i) Seis horas num grupo de crianças com idade até 3 anos;
+b) O estudante deve prestar em prática autónoma em contexto letivo o correspondente a, pelo menos, 70 % do mínimo de horas letivas previsto na alínea anterior, podendo a sua distribuição ser gerida, de forma flexível, ao longo do período de realização da prática de ensino supervisionada, de acordo com as suas necessidades e potencialidades.
 
-ii) Seis horas num grupo de crianças com idades compreendidas entre os 3 e os 4 anos;
+3 - (Revogado.)
 
-iii) Seis horas num grupo de crianças com 5 ou mais anos de idade;
+4 - (Revogado.)
 
-b) No 1.º Ciclo do Ensino Básico são atribuídas ao estudante 12 horas letivas semanais.
+5 - (Revogado.)
 
-3 - Na organização da prática de ensino supervisionada dos estudantes dos ciclos de estudos de Ensino do 1.º Ciclo do Ensino Básico e de Português e História e Geografia de Portugal no 2.º Ciclo do Ensino Básico ou do 1.º Ciclo do Ensino Básico e de Matemática e Ciências Naturais no 2.º Ciclo do Ensino Básico observa-se o seguinte:
-
-a) No 1.º Ciclo do Ensino Básico, ao estudante cabe prestar pelo menos seis horas letivas semanais;
-
-b) No 2.º Ciclo do Ensino Básico, ao estudante cabe prestar pelo menos três horas letivas semanais, sendo a prática letiva realizada em contexto de turmas e aulas regidas pelo estudante e supervisionadas pelo orientador cooperante.
-
-4 - Na organização da prática de ensino supervisionada dos cursos a que se refere o número anterior não pode ser atribuído ao estudante um número total inferior a 12 horas letivas semanais.
-
-5 - Na organização da prática de ensino supervisionada dos estudantes dos ciclos de estudos dos 2.º e 3.º Ciclos do Ensino Básico e Ensino Secundário observa-se o seguinte:
-
-a) Atribuição ao estudante de 12 horas letivas semanais;
-
-b) Realização de prática letiva com turmas de diferentes anos e ciclos de ensino, em contexto de aulas regidas pelo estudante e supervisionadas pelo orientador cooperante;
-
-c) Inclusão no horário letivo do estudante de turmas com, pelo menos, duas disciplinas do respetivo grupo de recrutamento e de turmas dos ensinos básico e secundário, caso as características da escola cooperante o permitam.
-
-6 - Aos estudantes abrangidos pelo n.º 2 do artigo 15.º podem ser atribuídas:
-
-a) 25 horas letivas na Educação Pré-Escolar e no 1.º Ciclo do Ensino Básico;
-
-b) 22 horas letivas nos 2.º e 3.º Ciclos do Ensino Básico e Ensino Secundário.
+6 - (Revogado.)
 
 7 - No horário dos estudantes de todos os ciclos de estudo é previsto um dia sem atividades na escola cooperante, destinado à realização de trabalho no estabelecimento de ensino superior, em termos a definir no protocolo a que se refere o artigo 22.º
 
-8 - Aos estudantes é conferido o direito a uma remuneração mensal, a abonar durante 14 meses, com valor correspondente à remuneração pelo índice 167, de acordo com o horário atribuído.
+8 - (Revogado.)
 
-9 - Para efeitos do disposto no número anterior, é celebrado um contrato de estágio entre o estudante e a escola cooperante, sujeito à forma escrita, com a duração de um ano escolar.
+9 - (Revogado.)
 
-10 - O estágio é realizado em regime de exclusividade.
+10 - (Revogado.)
 
-11 - A relação jurídica decorrente da celebração de um contrato de estágio ao abrigo do presente decreto-lei não confere vínculo de emprego público e é equiparada, para efeitos de segurança social, a trabalho por conta de outrem, observando-se ainda o disposto no Código do Imposto sobre o Rendimento das Pessoas Singulares.
+11 - (Revogado.)
 
-12 - O tempo de serviço prestado ao abrigo do contrato de estágio a que se refere o número anterior releva para todos os efeitos legais.
+12 - (Revogado.)
 
-13 - Sem prejuízo da autonomia dos estabelecimentos de ensino superior, no âmbito da organização da prática de ensino supervisionada, designadamente quanto à frequência, assiduidade e avaliação, à cessação do contrato de estágio previsto no presente artigo aplica-se, com as necessárias adaptações, o disposto no artigo 11.º-B do Decreto-Lei n.º 18/2010, de 19 de março, na sua redação atual.
+13 - (Revogado.)
 
-14 - A atribuição de serviço prevista nos n.os 2 a 6 não pode originar insuficiência ou inexistência de componente letiva dos docentes do quadro do agrupamento de escola ou da escola não agrupada.
+14 - (Revogado.)
 
-15 - Para efeitos de realização da prática de ensino supervisionada compete aos estabelecimentos de ensino superior selecionar os estudantes e proceder à sua distribuição pelos respetivos núcleos de estágio.
+15 - Para o efeito da realização da prática de ensino supervisionada, compete aos estabelecimentos de ensino superior selecionar os estudantes e proceder à sua distribuição pelos respetivos locais de estágio.
+
+16 - Aos estudantes é reconhecido o direito a uma bolsa a ser atribuída durante os dois últimos semestres do mestrado que coincidam com prática de ensino supervisionada em estabelecimentos de educação pré-escolar e de ensino básico e secundário.
+
+17 - As condições de atribuição e os montantes das bolsas previstas no número anterior são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.

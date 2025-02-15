@@ -10,4 +10,4 @@ b) O alargamento a áreas do conhecimento, da cultura, incluindo a cultura cient
 
 c) O contacto com os métodos de recolha de dados e de análise crítica de dados, hipóteses e teorias;
 
-d) A consciencialização das dimensões ética e cívica da atividade docente.
+d) A valorização das dimensões ética e cívica da atividade docente.

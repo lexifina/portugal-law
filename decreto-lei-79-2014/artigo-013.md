@@ -24,4 +24,4 @@ b) Matemática: 30;
 
 c) Ciências Naturais e História e Geografia de Portugal: 30;
 
-d) Expressões: 30.
+d) Educação Artística e Educação Física: 30, dos quais um mínimo de 20 em Educação Artística e um mínimo de 8 em Educação Física.
