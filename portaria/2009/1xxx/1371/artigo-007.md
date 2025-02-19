@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Organização interna do consórcio
-
 ## Secção I
 
 ## Conselho de curadores
