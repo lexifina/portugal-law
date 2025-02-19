@@ -8,9 +8,9 @@
 
 # Artigo 7.º
 
-### Composição e funcionamento
+### ‘Composição e funcionamento
 
-1 - O conselho de curadores é constituído por cinco personalidades de elevado mérito e reconhecida experiência profissional.
+1 - O conselho de curadores é constituído por seis personalidades de elevado mérito e reconhecida experiência profissional.
 
 2 - Os membros do conselho de curadores elegem o respectivo presidente.
 

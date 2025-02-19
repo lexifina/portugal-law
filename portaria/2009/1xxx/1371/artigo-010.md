@@ -6,7 +6,7 @@
 
 ### Composição e funcionamento
 
-1 - O conselho directivo é constituído por três membros, respectivamente os directores das instituições signatárias.
+1 - O conselho diretivo é constituído por quatro membros, respetivamente os dirigentes máximos das instituições signatárias.
 
 2 - O mandato dos membros do conselho directivo tem uma duração de três anos.
 
