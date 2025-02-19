@@ -1,0 +1,8 @@
+Aviso n.º 4744/2025/2
+
+Discussão pública do Regulamento das Creches Municipais de Paços de Ferreira
+Humberto Fernando Leão Pacheco de Brito, Presidente da Câmara Municipal de Paços de Ferreira, torna público, nos termos e para os efeitos do previsto nos artigos 100.º e seguintes da Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, que aprova o Código de Procedimento Administrativo, que a Câmara Municipal de Paços de Ferreira, na reunião realizada em 07 de fevereiro de 2025, deliberou, por unanimidade, a proposta do Regulamento das Creches Municipais de Paços de Ferreira, para efeitos de submissão a discussão pública, por um período de 30 dias úteis, a partir da publicação do presente Aviso no Diário da República.
+Os interessados poderão consultar o Regulamento das Creches Municipais de Paços de Ferreira e a deliberação que determinou o período de discussão pública, no site da Câmara Municipal de Paços de Ferreira (https://www.cm-pacosdeferreira.pt/), e no Gabinete do Munícipe, nos dias úteis e durante o horário de expediente, sito na Praça da República, n.º 46, 4590-527 Paços de Ferreira, nos dias úteis e durante o horário de expediente.
+Qualquer sugestão, informação ou observação deverá ser apresentada por escrito até ao termo do referido período, dirigidas ao Presidente da Câmara Municipal de Paços de Ferreira, no Gabinete do Munícipe, localizado no edifício dos Paços do Concelho, sito na Praça da República, n.º 46, 4590-527 Paços de Ferreira, ou através de correio eletrónico para geral@cm-pacosdeferreira.pt.
+12 de fevereiro de 2025. - O Presidente da Câmara Municipal de Paços de Ferreira, Humberto Fernando Leão Pacheco de Brito.
+318683075
