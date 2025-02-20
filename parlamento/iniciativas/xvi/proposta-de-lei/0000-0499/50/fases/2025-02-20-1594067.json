@@ -1,0 +1,166 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "50",
+    "id": "314833",
+    "titulo": "Autoriza o Governo a transpor a Diretiva (UE) 2022/2555, relativa a medidas destinadas a garantir um elevado nível comum de cibersegurança na União"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-02-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "86826",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-02-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-03-25",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830597a49324d6d49784e7930304d544d7a4c545178597a6b74596a4d354e7930304f44686c59324a694d7a55794f5749756347526d&fich=4c262b17-4133-41c9-b397-488ecbb3529b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-10",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d6a677a5a4451774e6930784e6a49314c54526a595467744f4746695a5330354e6a4e6c4f44526a4e574e684e4755756347526d&fich=f283d406-1625-4ca8-8abe-963e84c5ca4e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795a6a4a6b4d5455794d6930794f575a684c5451324e324974596a41335a69316c4e475a6c4d6d526d4e3259324d7a55756347526d&fich=2f2d1522-29fa-467b-b07f-e4fe2df7f635.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão de Acesso aos Documentos Administrativos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a475a6b4d7a6379596930355a5449344c5451775a6a677459544d794e6930314e474d774e54566a4e3251785a4463756347526d&fich=7dfd372b-9e28-40f8-a326-54c055c7d1d7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4f5441344e446b344e79307a4e4751334c54526d5a54457459574d785a53316c5a5751325a575a6d4d324e68596d45756347526d&fich=c9084987-34d7-4fe1-ac1e-eed6eff3caba.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Ratificação do Parecer - CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344f4451304d475a6d4f4330784e54637a4c54517a5a575574595468684d43316a4d44426b4e4455774d6a63335a6d457555455247&fich=88440ff8-1573-43ee-a8a0-c00d450277fa.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8393",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8393",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-03-10"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-03-10"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2025-03-14"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos (CADA)      em 2025-03-11"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-02-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-02-26"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-02-26"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2025-02-26"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos (CADA)      em 2025-02-26"
+          },
+          {
+            "link": "",
+            "nome": "Centro Nacional de Cibersegurança - CNCS em 2025-02-26"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PCP",
+            "id": "209",
+            "motivoCessacao": null,
+            "nome": "António Filipe"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-02-20",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1594067",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
