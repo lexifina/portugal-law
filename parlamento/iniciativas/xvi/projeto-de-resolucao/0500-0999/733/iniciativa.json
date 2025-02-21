@@ -1,0 +1,147 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Resolução",
+  "numero": "733",
+  "id": "314852",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-02-21",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1738",
+        "nome": "Pedro Alves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5984",
+        "nome": "Germana Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7388",
+        "nome": "Inês Barroso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8179",
+        "nome": "Ana Gabriela Cabilhas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8244",
+        "nome": "Ângela Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8476",
+        "nome": "Eva Brás Pinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6081",
+        "nome": "Sonia dos Reis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4396",
+        "nome": "Andreia Neto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2114",
+        "nome": "Emídio Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7796",
+        "nome": "Francisco Sousa Vieira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8525",
+        "nome": "Gonçalo Valente"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8425",
+        "nome": "Joaquim Barbosa"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "8723",
+        "nome": "Paulo Núncio"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "CDS-PP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "314852",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4455774d6a557a4f4749744f5445335a5330304d47517a4c54686c4f5745744d6a413059544e6b4e474a6d4e7a6b314c6d52765933673d&fich=d502538b-917e-40d3-8e9a-204a3d4bf795.docx&Inline=true",
+    "IniNr": "733",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo a correção de injustiças na Carreira Docente",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Por um regime específico de aposentação justo e adequado às especificidades da profissão docente",
+        "dcl": null,
+        "descTipo": null,
+        "id": "34037",
+        "legislatura": "XVI",
+        "numero": "6",
+        "sessao": "1",
+        "tipo": null
+      },
+      {
+        "assunto": "Pela Equidade no Reposicionamento Docente e Correção de Ultrapassagens",
+        "dcl": null,
+        "descTipo": null,
+        "id": "34150",
+        "legislatura": "XVI",
+        "numero": "105",
+        "sessao": "1",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
