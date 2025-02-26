@@ -1,0 +1,31 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-02-26, processo 02240/20.7BEPRT
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 02240/20.7BEPRT
+
+**Data do Acordão:** 02/26/2025
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** JOSÉ GOMES CORREIA
+
+**Descritores:** DECISÃO SURPRESA; INCONSTITUCIONALIDADE; CÓDIGO DE PROCESSO CIVIL; CPPT
+
+**Nº Convencional:** JSTA000P33371
+
+**Nº do Documento:** SAP2025022602240/20
+
+**Recorrente:** AA
+
+**Recorrido 1:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Sendo o recurso decidido no tangente à questão de rejeitar o presente recurso para uniformização devido a falta de verificação de pressuposto processual para a sua admissão, com base nos factos alegados e provados, factos esses de que as partes tiveram conhecimento e contra os quais poderiam esgrimir os argumentos que entendessem convenientes, na altura própria, a decisão tomada no acórdão em nada afectou quer a pretensão deduzida, quer a defesa, estando a audição das partes dispensada nos termos do artigo 3º nº3 do CPC, pois é um caso de manifesta desnecessidade e em que, objectivamente, as partes não possam alegar de boa fé, desconhecimento das questões de direito ou de facto a decidir pelo Juiz e das respectivas consequências, o que sucedeu precisamente no caso concreto.
+
+II - O princípio do contraditório foi sobejamente observado, sendo a decisão de não admissão do recurso mais que previsível e inevitável tendo presente os requisitos legalmente exigidos para o recurso para uniformização de jurisprudência previstos no artigo 284.º do CPPT, ao que acresce que o tribunal é livre de conhecer dos aspectos jurídicos da causa (interpretação e aplicação das regras de direito), com independência das razões invocadas pelas partes, nos termos do 5.º, n.º 3, do CPC.
+
+III - O recorrente e ora reclamante arguiu a inconstitucionalidade das normas dos artigos 687.º n.º 4 do CPC e 284.º do CPPT, mormente no despacho preliminar que aceitou o recurso por violação do caso julgado do art.º 620º n.º1 do CPC, pois com a reforma do CPC de 2013 deixou de ser possível a conferência rejeitar a admissibilidade do recurso após trânsito em julgado do despacho preliminar do relator, por violação do direito a um processo equitativo, (vd., arts., 2º e n.º 20º n.º1 e 4 da CRP) o certo é que, visto que a alegada inconstitucionalidade dos citados normativos é necessariamente reportadas à redacção do CPC introduzida pelo Decreto-Lei n.º 329-A/95, de 12.12 e à redacção do CPPT anterior à Lei n.º 118/2019, de 17.09, sempre se entendeu e foi sufragado expressamente pelo Acórdão sob censura, que a decisão do relator do acórdão recorrido que admite o recurso não faz caso julgado.
