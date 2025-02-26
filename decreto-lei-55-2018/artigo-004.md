@@ -44,7 +44,7 @@ s) Valorização do trabalho colaborativo e interdisciplinar no planeamento, na 
 
 t) Afirmação da avaliação das aprendizagens como parte integrante da gestão do currículo enquanto instrumento ao serviço do ensino e das aprendizagens;
 
-u) Promoção da capacidade reguladora dos instrumentos de avaliação externa, valorizando uma intervenção atempada e rigorosa, sustentada pela informação decorrente do processo de aferição, no sentido de superar dificuldades nos diferentes domínios curriculares;
+u) Promoção da capacidade reguladora dos instrumentos de avaliação externa, valorizando uma intervenção atempada e rigorosa, sustentada na recolha sistemática e comparável de dados, no sentido de superar dificuldades nos diferentes domínios curriculares;
 
 v) Valorização da complementaridade entre os processos de avaliação interna e externa das aprendizagens;
 

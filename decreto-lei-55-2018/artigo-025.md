@@ -4,15 +4,15 @@
 
 1 - A avaliação externa tem como referencial base as Aprendizagens Essenciais, previstas no n.º 2 do artigo 17.º, enquanto denominador curricular comum, devendo ainda contemplar a avaliação da capacidade de mobilização e de integração dos saberes disciplinares, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
 
-2 - As provas de aferição, de aplicação universal e obrigatória, realizam-se no final do 2.º, 5.º e do 8.º anos de escolaridade e permitem:
+2 - As provas ModA, de aplicação universal e obrigatória, realizam-se no final do 4.º e do 6.º anos de escolaridade e permitem:
 
-a) Acompanhar o desenvolvimento do currículo, nas diferentes áreas, providenciando informação regular ao sistema educativo;
+a) Recolher dados de forma sistemática e comparável;
 
 b) Fornecer informações detalhadas acerca do desempenho dos alunos à escola, aos professores, aos encarregados de educação e aos próprios alunos;
 
-c) Potenciar uma intervenção pedagógica atempada, dirigida às dificuldades identificadas para cada aluno.
+c) Robustecer o diagnóstico atempado de áreas a melhorar e potenciar uma intervenção pedagógica apropriada.
 
-3 - A avaliação dos alunos do ensino básico geral e dos cursos artísticos especializados integra a realização de provas finais de ciclo no final do 9.º ano de escolaridade.
+3 - A avaliação dos alunos do ensino básico geral e dos cursos artísticos especializados integra a realização de provas finais do ensino básico no final do 9.º ano de escolaridade.
 
 4 - A avaliação dos alunos dos cursos científico-humanísticos integra exames finais nacionais, a realizar no ano terminal da respetiva disciplina, nos termos seguintes:
 
