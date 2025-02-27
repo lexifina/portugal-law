@@ -1,0 +1,172 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "52",
+    "id": "314893",
+    "titulo": "Altera os estatutos dos Magistrados Judiciais, do Ministério Público e dos Tribunais Administrativos e Fiscais, bem como a Lei da Organização do Sistema Judiciário"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-02-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "86921",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-02-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-03-13",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e3259354e6a51325a4330324e6a45344c54526c4e444574596d49334d6931694e325a685a444d3159546b79596d45756347526d&fich=f7f9646d-6618-4e41-bb72-b7fad35a92ba.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-11",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a4455325a44417a4e69316b4f474d774c5451305a474d744f544d334d693033597a677a593251324f5755304f5749756347526d&fich=5d56d036-d8c0-44dc-9372-7c83cd69e49b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Associação Sindical de Juízes Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d444d3159544d335a433032595445314c54517759574d74596a55774e53316d4d44426a4f5751314e7a6b7759324d756347526d&fich=a035a37d-6a15-40ac-b505-f00c9d5790cc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-03-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Sindicato dos Magistrados Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877593255305a54526b595330324f544e6a4c5451334e574d744f5751334f43316d4d7a46684f5441774d544a6c5a6d59756347526d&fich=0ce4e4da-693c-475c-9d78-f31a90012eff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-04-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "CSM - Informação de adiamento de emissão parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4f5755334d446b355a533168593255344c54517a4e4459744f47466d5a4330344d6d4934597a686c4e3245335a6d59756347526d&fich=c9e7099e-ace8-4346-8afd-82b8c8e7a7ff.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8393",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8393",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2025-03-11"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses (ASJP) em 2025-03-17"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público (SMMP) em 2025-03-18"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-03-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-03-05"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-03-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2025-03-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho dos Oficiais de Justiça em 2025-03-05"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Solicitadores e Agentes de Execução  em 2025-03-05"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses (ASJP) em 2025-03-05"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público (SMMP) em 2025-03-05"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Funcionários Judiciais  em 2025-03-05"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Oficiais de Justiça em 2025-03-05"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "7347",
+            "motivoCessacao": null,
+            "nome": "Manuel Magno"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-02-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1594621",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
