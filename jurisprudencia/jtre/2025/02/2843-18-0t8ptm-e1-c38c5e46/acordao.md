@@ -1,0 +1,473 @@
+# Acórdão do Tribunal da Relação de Évora de 2025-02-27, processo 2843/18.0T8PTM.E1
+
+**Acórdãos TRE:** Acórdão do Tribunal da Relação de; Évora
+
+**Processo:** 2843/18.0T8PTM.E1
+
+**Relator:** ANA PESSOA
+
+**Descritores:** INDEMNIZAÇÃO; ACESSO AOS TRIBUNAIS; DIREITO AO BOM NOME
+
+**Data do Acordão:** 02/27/2025
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** S
+
+**Meio Processual:** APELAÇÃO
+
+**Decisão:** CONFIRMADA A SENTENÇA RECORRIDA
+
+**Área Temática:** CÍVEL
+
+## Sumário
+
+Sumário1:
+
+O direito de acesso à justiça, tal como o direito à honra e à consideração pessoal, é um direito constitucionalmente garantido, dotado da tutela que é própria dos direitos fundamentais.
+
+Essa circunstância impõe algum cuidado na responsabilização da parte que toma a iniciativa do processo pelas consequências da sua instauração ou daquela que confrontada com um processo se vê obrigada a apresentar a sua defesa - não pode nunca permitir que da simples perda da demanda se conclua pela ilegitimidade da iniciativa processual ou que do simples decaimento da defesa se conclua pela ilicitude dos factos alegados como meio de defesa, e se retire o dever de indemnizar a parte contrária dos prejuízos sofridos em consequência da demanda.
+
+## Decisão Texto Integral
+
+Acordam na 1ª Secção Cível do Tribunal da Relação de Évora
+
+*
+
+I. Relatório
+
+AA, intentou a presente ação declarativa de condenação, tramitada sob a forma de processo comum, contra BB, pedindo a condenação da demandada no pagamento da quantia de €32 500,00 (trinta e dois mil e quinhentos euros), destinada ao ressarcimento de danos morais.
+
+Para tanto alegou, em síntese, que é Advogada, e, que no exercício da sua atividade profissional, autenticou, no dia 05 de abril de 2014, a pedido de um Colega, na presença da Ré, e após ter solicitado a esta última o respetivo documento de identificação, uma procuração, tendo registado, em face da imperatividade do sistema, o referido ato no site da Ordem dos Advogados, apenas em momento subsequente, que foi posteriormente confrontada com a instauração de uma ação, pela ora Ré, na qual era peticionada a anulação da procuração, cujo termo de autenticação havia elaborado, por falsidade de todo o seu conteúdo. tendo a ré, em tal ação, negado ter comparecido no seu escritório, na data inserta no termo de autenticação, que lhe tivesse sido apresentado minuta da procuração, que lhe tivesse sido explicada a procuração e ou o seu termo, sendo que igualmente negou que se encontrasse na posse do seu documento de identificação, mais tendo alegado que as assinaturas feitas constar quer no termo, quer na procuração eram graficamente diferentes da sua assinatura autografada.
+
+Mais referiu que, ao ser citada no âmbito da referida ação, ficou surpreendida e afetada com o teor da petição inicial, que o facto de ver o seu nome envolvido numa alegação de falsificação de documento e de ser sujeita a audiência de julgamento na praça pública, nomeadamente por colegas que a viram sentada no banco dos réus, causou-lhe sofrimento e um estado depressivo, que a levou a solicitar ajuda médica, acrescentando que se sentiu ofendida na sua honra e bom nome.
+
+*
+
+A Ré, regularmente citada, apresentou contestação, na qual impugnou a factualidade alegada pela autora, tendo sustentado que, ao instaurar a ação, à qual a Autora se reporta, simplesmente, exerceu o direito de demandar.
+
+*
+
+Prosseguiram os autos, tendo sido proferido despacho saneador, no qual se identificou o objeto do litígio e temas da prova.
+
+*
+
+Realizou-se audiência final, após a qual veio a ser proferida sentença, com o seguinte dispositivo:
+
+“Em face do exposto julgo a presente ação totalmente improcedente, e, em consequência absolvo a ré do pedido formulado pela autora.
+
+*
+
+Custas da ação a cargo da autora, nos termos do artigo 527.º, n. os 1 e 2, do Código de Processo Civil.”
+
+*
+
+Em face do falecimento da Ré, foi CC habilitada no lugar da primitiva Ré, para, com ela prosseguirem os termos da ação.
+
+*
+
+Inconformada com a sentença que julgou improcedente a ação e absolveu a Ré do pedido a Autora interpôs recurso de apelação, apresentando, após alegações, a seguinte síntese conclusiva:
+
+1. Por via deste recurso pretende a ora Recorrente, em primeiro lugar, contestar o segmento decisório referente à aplicação do direito.
+
+2. Em segundo lugar, demonstrar o desacerto da apreciação e decisão da instância recorrida.
+
+3. Dá como provados factos, como sejam os elencados nos pontos 2, 3, 4 e 5, quando esses factos haviam sido dados como não provados na decisão já transitada em julgado e proferida no processo 1813/15.4...
+
+4. Havendo assim uma contradição de decisões e, por conseguinte, uma violação de caso julgado.
+
+5. Não restam dúvidas que os direitos, liberdades e garantias da ora Recorrente foram violados e merece uma reparação pelos danos sofridos como resulta da P. Inicial e, da prova testemunhal produzida em audiência de julgamento.
+
+6. Salvo o devido respeito, pela opinião diversa, o tribunal “a quo” tornou os depoimentos destas testemunhas um pouco tendenciosos, porque estavam a falarsobre aquilo que não sabiam e que apenas achavam que era assim.
+
+7. Na douta sentença recorrida, não é referido o depoimento de pelo menos uma testemunha.
+
+8. Na verdade, o apuramento da factualidade provada ou não provada, decorre dos depoimentos das testemunhas e da prova produzida carreada para os autos.
+
+9. O depoimento de testemunhas com conhecimento direto e efetivo dos factos, que a instância recorrida manifestamente e inexplicavelmente não levou a cabo.
+
+10. A verdade é que, a ora Recorrente passou humilhação, vexame, vergonha, sentiu violada a sua honra e consideração e sua dignidade profissional.
+
+11. Passou por incómodos e constrangimentos, que lhe causaram uma forte e estigmatizante perturbação do seu equilíbrio social e profissional, psíquico e emocional e que foi um grave atentado à sua personalidade moral tutelada pelo artigo 70.º do C. Civil.
+
+12. Ora, no entender da ora Recorrente, a complexidade e importância da questão em apreciação nos presentes autos, associada à suscetibilidade de vir a gerar decisões contraditórias, justificam plenamente a intervenção do Tribunal da Relação, em ordem a encontrar uma solução orientadora para casos semelhantes no futuro.
+
+13. Também por este motivo e, pelo alarme social que muitas destas situações provocam, ao tratarem-se de questões que colidem com “Direitos, humanos, por um lado e por outro, com os direitos, liberdades e garantias, haverá todo o interesse na tal intervenção do tribunal superior, em ordem a que se faça, a acostumada Justiça.
+
+14. Foi um verdadeiro massacre psicológico para a Recorrente.
+
+15. O dano é um requisito da responsabilidade civil, e só a recorrente pode avaliar a sua extensão e os contornos psicológicos que toda a situação causou.
+
+16. É inequivocamente, evidente o carater danoso da conduta ilícita da Recorrida.
+
+17. É pois, especialmente gravosa e censurável a conduta da Recorrida, pelo que, merece pois maior tutela o direito da Recorrente.
+
+18. Todos os requisitos da responsabilidade civil estão preenchidos.
+
+19. Por todas as razões e factos supra expostos, salvo o devido respeito pela opinião contrária, é convicção plena da Recorrente que a decisão proferida está flagrada de contradição com os fundamentos que a sustentam, pelo mesmo é nula nos termos da al. c), n.º 1 do artigo 615.º do C. Processo Civil e que a MM Juiz “a quo” faz errada interpretação dos factos, bem como uma errada aplicação da lei aos mesmos, tendo, nesta medida, violado a norma legal contida no artigo 18.º da C.R.P.
+
+Termos em que deve o presente recurso ser considerado procedente, sendo, consequentemente, revogada a sentença em crise, substituindo-se por outra decisão que:
+
+a) Atentos os fundamentos vertidos nas alíneas das conclusões, seja reconhecida o direito a indemnização a título de reparação pelos danos sofridos pela Recorrente.
+
+b) Concomitantemente, atentos aos fundamentos de facto e de direito explanados, seja a sentença recorrida declarada nula e substituída por outra que determine a ação totalmente procedente por provada.
+
+*
+
+II. Questões a decidir.
+
+Como é sabido, o objeto do recurso é delimitado pelas conclusões da alegação do recorrente, não podendo este Tribunal conhecer de matérias nelas não incluídas, a não ser que as mesmas sejam de conhecimento oficioso - cf. artigos 635.º, nº 4, e 639.º, nºs 1 e 2, do CPC.
+
+Assim, nos presentes autos importa apreciar:
+
+- a invocada nulidade da sentença recorrida;
+
+- a impugnação da matéria de facto;
+
+- se à Autora deverá ser atribuída indemnização a título de compensação por danos não patrimoniais, na quantia peticionada, em virtude dos factos que imputa à Ré.
+
+*
+
+III. Fundamentação
+
+III.1. A primeira instância considerou, com interesse para as questões a decidir, provados os seguintes factos:
+
+1. No dia 03 de junho de 2015, a Ré instaurou uma ação declarativa de condenação, que foi tramitada sob a forma de processo comum, e, a que coube o n.º 1813/15.4... do Juízo Central Cível de ... J3, na qual, entre outras pretensões que igualmente formulou, peticionou que fosse declarada nula, por falsidade de todo o seu conteúdo, uma procuração que a ora Autora havia autenticado.
+
+2. Para suportar a referida pretensão alegou que não compareceu no escritório da ora Autora, na data inserta no termo de autenticação, desconhecendo a identidade do mesmo, ou onde se situa o seu escritório e que não havia apresentado à autora, em circunstância qualquer, minuta de procuração ali ou em qualquer outro local, fosse naquele ou em qualquer outro dia.
+
+3. Mais alegou, que não lhe foi lido, nem explicado, pela ora Autora, em qualquer circunstância, seja o termo, seja a procuração que a mesma disse autenticar.
+
+4. Sendo que igualmente negou que se encontrasse na posse do seu documento de identificação, mais tendo alegado que as assinaturas feitas constar quer no termo, quer na procuração, eram graficamente diferentes da sua assinatura autografada.
+
+5. Por sentença datada de 20.03.2017, proferida no âmbito do Proc. n.º 1813/15.4..., já transitada em julgado, e, confirmada em sede recursiva, foram julgadas improcedentes todas as pretensões formuladas pela ora Ré, na qualidade de Autora, tendo ainda, em tal decisão, se concluído pela inexistência de litigância de má-fé, por as partes terem atuado no exercício do seu direito e convencidas do mesmo.
+
+6. A improcedência da ação referida em 1) resultou do facto de a ora Ré não ter logrado provar a falsidade da procuração, tendo a perícia que foi ordenada, e, que teve por objeto a sua assinatura, sido inconclusiva.
+
+7. Em todo o caso, resultou provado, no âmbito do Proc. n.º 1813/15.4... que:
+
+1. No dia 05 de abril de 2014, a ora Ré, por si, após ter sido explicado e lido o seu teor, concedeu poderes ao Sr. Advogado DD, através de instrumento de procuração, por si assinado, para que solicitasse informação junto de qualquer instituição bancária, solicitasse cheques, bem como poderes de representação fiscal, autorização para pedir esclarecimentos e informações à autoridade tributária, extensíveis à apresentação de declarações fiscais;
+
+2. De tal instrumento consta um termo de autenticação elaborado pela Autora, de onde foi feito constar: “que no dia 07 de abril de 2014, na ... compareceu perante mim AA, BB, portadora do BI n. º..., emitido a .../.../1982 (…) Verifiquei a identidade da signatária pela exibição do seu documento de identificação, designadamente, através de B.I. A signatária apresentou o documento anexo que é uma procuração com poderes especiais, tendo declarado que já o leu e que está perfeitamente inteirado do seu conteúdo e o assinou e que expressa a sua vontade e da sua representada. O presente termo foi lido e explicado ao signatário conforme documento anexado e certificado pelo referido portal”.
+
+3. O registo informático de tal termo foi efetuado no dia 07 de abril de 2014 – sem que tenha sido aposta justificação – porque o sistema não estava operativo no dia 05 de abril de 2014.
+
+8. A Autora ante a imputação da prática de uma falsificação e ante o facto de ter sido sujeita a julgamento sentiu-se triste (sendo recorrentes as situações de choro), humilhada, incomodada, angustiada, preocupada, ofendida, sentindo-se ainda envergonhada com toda a situação, o que afetou a sua concentração e a desmotivou para o exercício da sua profissão.
+
+9. A Ré nasceu em ...-...-1929, na freguesia de Alvor, tendo 86 anos de idade quando contactou com a Autora.
+
+10. A Ré, desde de 22 de fevereiro de 2013, que era seguida na especialidade de neurologia.
+
+11. Por sentença datada de 15.01.2021, proferida no âmbito do Proc. nº 2551/19.4..., deste juízo, já transitada em julgado, foi determinado o acompanhamento da Ré e aplicada à mesma a medida de acompanhamento de representação geral, prevista na alínea b) e c) do n.º 2 do artigo 145.º do Código Civil, tendo o começo da sua incapacidade feito retroagir ao ano de 2008.
+
+12. Na base da aplicação da medida de acompanhamento esteve o facto da ora Ré/ beneficiária sofrer de doença degenerativa do sistema nervoso central designada de demência, provavelmente Alzheimer, com início nos últimos 12 anos – contados desde 21-10-2020, data do relatório pericial – de instalação progressiva e agravamento sintomático significativo nos últimos 5 anos – contados desde 21-10-2020, data do relatório pericial.
+
+*
+
+III.2. Na decisão recorrida foram considerados não provados os seguintes factos:
+
+1. Que a Ré estivesse ciente que alegava factos falsos e que tenha atuado com o intuito de afetar a reputação e saúde da autora.
+
+2. Que a Autora à data da propositura da presente ação, por via da atuação da Ré, ainda sofresse de stress e que tivesse, igualmente, sofrido uma depressão grave acompanhada de hipertensão arterial, sofrendo de várias crises hipertensas e alterações neurológicas.
+
+3. Que a Autora antes dos acontecimentos que são objeto destes autos fosse saudável, alegre, confiante e empenhada no seu trabalho e estimada e bem vista por todos.
+
+*
+
+III.3. Da invocada nulidade da sentença recorrida.
+
+Se bem entendemos a alegação da Apelante, a mesma invoca a nulidade da sentença recorrida por falta de fundamentação (artigos 56º e seguintes das alegações), e por contradição entre a decisão e os respetivos fundamentos.
+
+Mas não lhe assiste razão.
+
+Como é sabido, as decisões proferidas sobre qualquer pedido controvertido ou sobre alguma dúvida suscitada no processo deverão ser sempre fundamentadas (n.º 1 do art.º 154.º do Código de Processo Civil) o que, de resto, consubstancia um imperativo constitucional (art.º 205.º n.º 1 da Constituição da República Portuguesa).
+
+O dever de fundamentação, no que respeita à sentença e à decisão de facto, impõe a indicação do processo lógico – racional que conduziu à formação da convicção do julgador, relativamente aos factos que considerou provados ou não provados, de acordo com o ónus de prova que incumbia a cada uma das partes, conforme dispõe o artigo 607º, nº 4 do Código de Processo Civil.
+
+Tal como decorre do artigo 607º do Código de Processo Civil, a sentença comporta três partes distintas: o relatório, onde se procede à identificação das partes, do objeto do litígio e das questões a solucionar; a fundamentação, com enunciação dos fundamentos fáctico-jurídicos da decisão; e a decisão ou parte dispositiva em que o tribunal julga da procedência do pedido do autor ou réu reconvinte ou absolve da instância por falta de pressupostos processuais ou outra irregularidade insanável.
+
+A sentença, como ato jurisdicional, pode atentar contra as regras próprias da sua elaboração e estruturação ou contra o conteúdo e limites do poder à sombra da qual é decretada, e então torna-se passível de nulidade, nos termos do artigo 615º do Código de Processo Civil.
+
+A este respeito, estipula-se no apontado normativo, sob a epígrafe de “Causas de nulidade da sentença” que:
+
+“1 - É nula a sentença quando:
+
+a) (…);
+
+b) Não especifique os fundamentos de facto e de direito que justificam a decisão;
+
+c) Os fundamentos estejam em oposição com a decisão ou ocorra alguma ambiguidade ou obscuridade que torne a decisão ininteligível;
+
+d) O juiz deixe de pronunciar-se sobre questões que devesse apreciar ou conheça de questões de que não podia tomar conhecimento;
+
+e) (…)” .
+
+O vício previsto na alínea b) é um vício formal, em sentido lato, traduzido em error in procedendo ou erro de atividade que afeta a validade da sentença que não se confunde motivação deficiente, medíocre ou errada. O que a lei considera nulidade é a falta absoluta de motivação; a insuficiência ou mediocridade da motivação é espécie diferente, afeta o valor doutrinal da sentença, sujeita-a ao risco de ser revogada ou alterada em recurso, mas não produz nulidade.
+
+Por falta absoluta de motivação deve entender-se a ausência total de fundamentos de direito e de facto.
+
+A nulidade da sentença contemplada na al. c) pressupõe um erro de raciocínio lógico consistente em a decisão emitida ser contrária à que seria imposta pelos fundamentos de facto ou de direito de que o juiz se serviu ao proferi-la.
+
+Ocorre quando os fundamentos invocados pelo juiz conduziriam logicamente não ao resultado expresso na decisão, mas a resultado oposto.
+
+Por seu turno, a nulidade prevista na al. d) do n.º 1 do art.º 615.º do CPC reconduz-se a um vício de conteúdo , ou seja, vício que enferma a própria decisão judicial em si, nos fundamentos, na decisão, ou nos raciocínios lógicos que os ligam, verificando-se quando o juiz deixe de pronunciar-se sobre questões que devesse apreciar ou conheça de questões de que não podia tomar conhecimento e terá de ser aferida, tendo em consideração o disposto no artigo 608.º, n.º 2 do Código de Processo Civil.
+
+A causa da nulidade a que se refere este preceito relaciona-se com a inobservância do disposto na segunda parte do referido n.º 2 do artigo 608.º do mesmo diploma e visa sancionar o desrespeito, pelo julgador, do comando contido na parte final deste normativo, nos termos da qual o juiz deve resolver todas as questões que as partes tenham submetido à sua apreciação, com exceção daquelas cuja decisão esteja prejudicada pela solução dada a outras, não podendo ocupar-se senão das questões suscitadas pelas partes, salvo se a lei lhe permitir ou impuser o conhecimento oficioso de outras.
+
+Resolver todas as questões que as partes tenham submetido à sua apreciação não significa considerar todos os argumentos que, segundo as várias vias, à partida plausíveis, de solução do pleito, as partes tenham deduzido ou o próprio juiz possa inicialmente ter admitido: por um lado, através da prova, foi feita a triagem entre as soluções que deixaram de poder ser consideradas e aquelas a que a discussão jurídica ficou reduzida ; por outro lado, o juiz não está sujeito às alegações das partes quanto à indagação, interpretação e aplicação das normas jurídicas (art.º 664.º) e, uma vez motivadamente tomada determinada orientação, as restantes que as partes hajam defendido, nomeadamente nas suas alegações de direito, não têm de ser separadamente analisadas” .
+
+In casu, como decorre da decisão recorrida, o Tribunal Recorrido não deixou de enunciar os fundamentos de facto, elencando de forma clara os que considerou provados, com relevância da causa e também os não provados, decisão que motivou sob o ponto IV. c) da sentença, fazendo uma análise crítica da prova, esclarecendo as razões pelas quais considerou provados e não provados os factos em questão.
+
+Enunciou ainda os fundamentos de direito em que baseou a decisão e entre todos os fundamentos, de facto e de direito e tal decisão, nenhuma contradição se surpreende, antes se verifica total coerência e harmonia entre a fundamentação e a decisão.
+
+Verificando-se, pois, que na sentença recorrida constam os factos e as razões de direito em que o tribunal alicerçou a sua decisão e esta é consequência lógica daquela fundamentação, é evidente que aquela peça processual não está inquinada de qualquer nulidade.
+
+Apurar se tal decisão está certa ou não, isto é, se o tribunal errou na apreciação da matéria de facto, extraiu da matéria provada todas as consequências que deveria tirar, ou enquadrou adequadamente os factos no quadro jurídico aplicável, é uma questão de mérito, que não uma questão de nulidade.
+
+Não restam dúvidas de que a Apelante não concorda com a fundamentação da sentença nos pontos salientados. Sucede que tal não constitui fundamento de nulidade da sentença, antes se prendendo com o mérito do recurso em apreciação.
+
+Desatende-se, pois, a arguição das nulidades em apreço.
+
+*
+
+III.4. Da impugnação da matéria de facto.
+
+Pese embora refira nas primeiras duas conclusões que pretende, “em primeiro lugar, contestar o segmento decisório referente à aplicação do direito” e em “segundo lugar, demonstrar o desacerto da apreciação e decisão da instância recorrida, a Apelante parece insurgir-se contra a matéria de facto considerada na sentença sob censura.
+
+Porém, com exceção da conclusão vertida no ponto 3 das conclusões – onde refere que na sentença se dão como provados factos “como sejam os elencados nos pontos 2, 3, 4 e 5, quando esses factos haviam sido dados como não provados na decisão já transitada em julgado e proferida no processo 1813/15.4..., havendo assim, no seu entender uma contradição de decisões e, por conseguinte, uma violação de caso julgado - não faz, nas conclusões, referência a qualquer outro facto.
+
+Como é sabido, um recurso é o mecanismo jurídico de reapreciação de uma decisão e tal como sucede com a sentença ou o acórdão alvo de recurso – que têm de obedecer a uma estrutura, a um determinado número de regras e requisitos, sob pena de invalidade – também um requerimento de recurso só pode alcançar a sua função se for feito de forma a que o tribunal de recurso possa compreender, concretamente, de que é que cada recorrente discorda e porquê.
+
+Para tanto, necessário se mostra que também os recorrentes cumpram os requisitos e pressupostos legais que enformam tal tipo de requerimento, de modo a habilitar a decisão.
+
+Haverá que deixar claro que este poder reapreciativo da 2ª instância só determinará uma alteração à matéria fáctica provada quando, do reexame realizado dentro das balizas legais, se concluir que os elementos probatórios impõem uma decisão diversa.
+
+Por outro lado, nos termos do artigo 607º, nº 5 do Código de Processo Civil o «juiz aprecia livremente as provas segundo a sua prudente convicção acerca de cada facto», de forma consentânea com o disposto no Código Civil, designadamente nos seus artigos 389º (para a prova pericial), e 396º (para a prova testemunhal), sendo que a «livre apreciação não abrange os factos para cuja prova a lei exija formalidade especial, nem aqueles que só possam ser provados por documentos ou que estejam plenamente provados, quer por documentos, quer por acordo ou confissão das partes» (II parte, do nº 5 do artigo 607º do Código de Processo Civil).
+
+Compete, assim, ao juiz, ao decidir a matéria de facto segundo as regras da experiência e a livre convicção do julgador (desde que se não esteja perante prova vinculada); a livre convicção não se confunde com a íntima convicção do julgador, uma vez que a lei lhe impõe que extraia das provas um convencimento lógico e motivado, sendo que a avaliação probatória deve ser realizada com sentido da responsabilidade e bom senso.
+
+Temos, pois, que a lei não considera relevante a pessoal convicção de cada um dos intervenientes processuais, no sentido de a mesma se sobrepor à convicção do Tribunal – até porque se assim não fosse, não haveria, como é óbvio, qualquer decisão final. O que a lei permite é que, quem entenda que ocorreu um erro de apreciação da prova, o invoque, fundamentadamente, em sede de recurso, para que tal questão possa ser reapreciada por uma nova instância jurisdicional.
+
+Para além de a lei determinar a forma como tal reapreciação deve ser pedida, estabelece igualmente os limites de tal reapreciação – ou seja, os poderes de cognição que confere ao tribunal de apelo.
+
+O artigo 640.º do CPC, com a epígrafe “Ónus a cargo do recorrente que impugne a decisão relativa à matéria de facto”, dispõe o seguinte:
+
+“1 - Quando seja impugnada a decisão sobre a matéria de facto, deve o recorrente obrigatoriamente especificar, sob pena de rejeição:
+
+a) Os concretos pontos de facto que considera incorretamente julgados.
+
+b) Os concretos meios probatórios, constantes do processo ou de registo ou gravação nele realizada, que impunham decisão sobre os pontos da matéria de facto impugnados diversa da recorrida.
+
+c) A decisão que, no seu entender, deve ser proferida sobre as questões de facto impugnadas.
+
+2 - No caso previsto na alínea b) do número anterior, observa-se o seguinte:
+
+a) Quando os meios probatórios invocados como fundamento do erro na apreciação das provas tenham sido gravados, incumbe ao recorrente, sob pena de imediata rejeição do recurso na respetiva parte, indicar com exatidão as passagens da gravação em que se funda o seu recurso, sem prejuízo de poder proceder à transcrição dos excertos que considere relevantes;
+
+b) Independentemente dos poderes de investigação oficiosa do tribunal, incumbe ao recorrido designar os meios de prova que infirmem as conclusões do recorrente e, se os depoimentos tiverem sido gravados, indicar com exatidão as passagens da gravação em que se funda e proceder, querendo, à transcrição dos excertos que considere importantes.(…)”(o destacado é nosso).
+
+Assim, o que é pedido ao recorrente que invoca a existência de erro de julgamento é que aponte na decisão os segmentos que impugna e que os coloque em relação com as provas, concretizando as partes da prova gravada que pretende que sejam ouvidas (se tal for o caso), quais os documentos que pretende que sejam reexaminados, bem como quaisquer outros concretos e especificados elementos probatórios, demonstrando com argumentos a verificação do erro judiciário a que alude.
+
+Entre as diversas decisões que têm versado sobre o aludido ónus, destacamos, pela respetiva clareza o recente Acórdão do Supremo Tribunal de Justiça de 21.03.2023 (Proc. 296/19.4T8ESP.P1.S1), no qual pode ler-se:
+
+“29. O Supremo Tribunal de Justiça tem distinguido um ónus primário e um ónus secundário — o ónus primário de delimitação do objecto e de fundamentação concludente da impugnação, consagrado no n.º 1, e o ónus secundário de facilitação do acesso “aos meios de prova gravados relevantes para a apreciação da impugnação deduzida”, consagrado no n.º 2.
+
+30. O ónus primário de delimitação do objecto e de fundamentação concludente da impugnação, consagrado no n.º 1, analisa-se ou decompõe-se em três:
+
+Em primeiro lugar, “[o] recorrente deve indicar sempre os concretos pontos de facto que julgou incorrectamente julgados, com enunciação na motivação do recurso e síntese nas conclusões” [2]. Em segundo lugar, “deve […] especificar, na motivação, os meios de prova que constam do processo ou que nele tenham sido registados que […] determinam uma decisão diversa quanto a cada um dos factos” [3]. Em terceiro lugar, deve indicar, na motivação, “a decisão que deve ser proferida sobre as questões de facto impugnadas”[4].
+
+31. O critério relevante para apreciar a observância ou inobservância dos ónus enunciados no art. 640.º do Código de Processo Civil — logo, da observância ou inobservância do ónus primário de delimitação do objecto — há-de ser um critério adequado à função[5], conforme aos princípios da proporcionalidade e da razoabilidade[6] [7].
+
+32. O requisito de que o critério seja adequado à função coloca em evidência que os ónus enunciados no art. 640.º pretendem garantir uma adequada inteligibilidade do fim e do objecto do recurso [8] e, em consequência, facultar à contraparte a possibilidade de um contraditório esclarecido [9]. Os princípios da proporcionalidade e da razoabilidade pronunciam-se sobre a relação entre a gravidade do comportamento processual do recorrente — inobservância dos ónus do art. 640.º, n.ºs 1 e 2 — e a gravidade das consequências do seu comportamento processual: a gravidade do consequência prevista no art. 640.º, n.ºs 1 e 2 — rejeição do recurso ou rejeição imediata do recurso — há-de ser uma consequência adequada, proporcionada e razoável para a gravidade da falha do recorrente[10].
+
+33. Entre os corolários dos requisitos de que o critério seja adequado à função e conforme aos princípios da proporcionalidade e da razoabilidade está o de que “a decisão de rejeição do recurso […] não se deve cingir a considerações teoréticas ou conceituais, de mera exegética do texto legal e dos seus princípios informadores, mas contemplar também uma ponderação do critério legal […] face ao grau de dificuldade que [a inobservância dos ónus do art. 640.º] acarrete para o exercício do contraditório e para a própria análise crítica por parte do tribunal de recurso”[11]”.
+
+O ónus previsto no artigo 640.º do CPC não exige que as especificações – referidas no seu n.º 1 constem todas das conclusões do recurso, sendo de admitir que as exigências das alíneas b) e c) do n.º 1 do artigo. 640.º, em articulação com o respetivo n.º 2, sejam cumpridas no corpo das alegações .
+
+No que, em concreto respeita à indicação dos meios probatórios [sejam eles documentais ou pessoais] que sustentariam diferente decisão [artigo 640º, nº 1, al. b) supra reproduzido], deverão eles ser identificados e indicados por referência aos concretos pontos da factualidade impugnada [ou a um conjunto de factos que estejam intimamente interligados e em que os meios de prova sejam os mesmos] de modo a que se entenda a que concretos pontos dessa factualidade se reportam os meios probatórios com base nos quais a impugnação é sustentada, mormente nos casos em que se pretenda a alteração de diversa matéria de facto.
+
+Fundando-se a impugnação em meios de prova constantes do processo ou que nele tenham sido registados, o recorrente deve especificar, na motivação, aqueles que, em seu entender, determinam uma decisão diversa quanto a cada um dos factos.
+
+No respeitante à designada impugnação “em bloco”, decidiu o Ac. de 01.06.2022, (Proc. nº 1104/18.9T8LMG.C1.S1):
+
+“Tendo em conta os princípios da proporcionalidade e da razoabilidade ínsitos no conceito de processo equitativo (artigo 20.º, n.º 4, da CRP), nada obsta a que a impugnação da matéria de facto seja efetuada por “blocos de factos”, quando os pontos integrantes de cada um desses blocos apresentem entre si evidente conexão e, para além disso - tendo em conta as circunstâncias do caso concreto, nomeadamente, o número de factos impugnados e a extensão e conexão dos meios de prova -, o conteúdo da impugnação seja perfeitamente compreensível pela parte contrária e pelo tribunal, não exigindo a sua análise um esforço anómalo, superior ao normalmente suposto.”
+
+Em princípio, pois, a impugnação da matéria de facto não pode ser feita por blocos de factos, antes tem de ser feita discriminadamente, por concreto ponto de facto. E não pode ser feita por remissão genérica para determinados meios de prova, sem demonstrar a sua relevância quanto a determinado facto concreto. Na indicação dos meios probatórios [sejam eles documentais ou pessoais] que sustentariam diferente decisão [art. 640º, nº 1, al. b)], deverão eles ser identificados e indicados por referência aos concretos pontos da factualidade impugnada, ou a um conjunto de factos que estejam interligados e em que os meios de prova sejam os mesmos, sempre de modo a que se entenda a que concretos pontos dessa factualidade se reportam os meios probatórios com base nos quais a impugnação é sustentada, mormente nos casos em que se pretende a alteração de diversa matéria de facto.
+
+Só assim será possível ao tribunal ad quem perceber e saber quais são os concretos meios de prova que, segundo o recorrente, levariam a que determinado facto devesse ter resposta diferente da que foi dada.
+
+No Acórdão do Supremo Tribunal de Justiça procedeu-se a uma sintetização do entendimento daquele Tribunal nesta matéria, que seguimos de perto.
+
+Ali pode ler-se:
+
+“Como se pode ler, designadamente, nos Acórdãos deste Tribunal:
+
+- de 20-12-2017, processo n.º 299/13.2TTVRL.C1.S2 (“[n]ão cumpre aquele ónus [do artigo 640.º, n.º 1, alínea b) do CPC] o apelante que, nas alegações e nas conclusões, divide a matéria de facto impugnada em três “blocos distintos de factos” e indica os meios de prova relativamente a cada um desses blocos, mas omitindo-os relativamente a cada um dos concretos factos cuja decisão impugna”);
+
+- de 05-09-2018, processo n.º 15787/15.8T8PRT.P1.S2 (“[n]ão cumpre aquele ónus [do artigo 640.º, n.º 1, alínea b) do CPC]o apelante que, nas alegações e nas conclusões, divide a matéria de facto impugnada em vários blocos de factos e indica os meios de prova relativamente a cada um desses blocos, mas omitindo-os relativamente a cada um dos concretos factos cuja decisão impugna”);
+
+- de 14-07-2021, processo n.º 1006/11.0TTLRA.C1.S1 (“[v]iola o disposto no artigo 640.º n.º 1 do CPC o recorrente que impugna em bloco pontos da matéria de facto que não se acham interligados entre si”);
+
+- de 21-09-2022, processo n.º 1996/18.1T8LRA.C1.S1 (“[a] impugnação da matéria de facto "em bloco" viola o disposto no artigo 640.º do CPC, mormente quando não está em causa um pequeno número de factos ligados entre si e um número reduzido de meios de prova (por exemplo, o mesmo depoimento), mas um amplíssimo conjunto de factos (ou, melhor, dois amplos blocos de factos) e numerosos meios de prova”);
+
+- de 12-10-2022, processo n.º 14565/18.7T8PRT.P1.S1 ([e]m princípio, a impugnação da matéria de facto não pode ser feita por blocos de factos, antes tem de ser feita discriminadamente, por concreto ponto de facto);
+
+- de 10-05-2023, processo n.º 2424/21.0T8CBR.C1.S1 ([d]eve rejeitar-se o recurso quando o Recorrente impugna blocos de pontos da matéria de facto sem estreita ligação entre si);
+
+Não se ignora que, por vezes, este Tribunal tem, atendendo às circunstâncias concretas do caso, admitido que uma impugnação em bloco não conduza necessariamente à rejeição do recurso. Vejam-se, por exemplo, os Acórdãos:
+
+- de 14-07-2021, processo n.º 19035/17.8T8PRT.P1.S1 (“[é] excessiva a rejeição da impugnação da matéria de facto feita em “blocos” quando tais blocos são constituídos por um pequeno número de factos ligados entre si, tendo o Recorrente indicado com precisão os meios de prova e as formulações alternativas que pretendia ver adotadas”)
+
+- de 27-10-2021, processo n.º 1372/19.9T8VFR.P1-A.S (“[é] excessiva a rejeição da impugnação da matéria de facto feita em «blocos» quando tais blocos são constituídos por um pequeno número de factos ligados entre si, tendo o Recorrente indicado os meios de prova com vista à sua pretensão”);
+
+No caso concreto o Recorrente impugnou um extenso conjunto de factos através da remissão em bloco para depoimentos, tendo identificado a passagem relevante de um deles, a saber, do Autor, com precisão – ainda que com uma gralha quando se diz “de 32 a 27” – mas identificando de modo incompleto a passagem relevante do depoimento de outros (DD e EE) ou não indicando de todo a passagem relevante (CC, FF, GG e BB).
+
+Em suma, o Recorrente indicou para um extenso bloco de factos um conjunto de depoimentos deixando ao Recorrido e ao Tribunal o encargo de ter que ouvir as respetivas gravações, em alguns casos na totalidade, para tentar individualizar as eventuais afirmações pertinentes relativamente a cada um dos factos impugnados.
+
+Ora tal resultado é precisamente o que a lei pretende evitar ao impor-lhe o ónus de indicar os concretos meios probatórios que impunham decisão diversa para cada um dos pontos da matéria de facto impugnados e “de indicar com exatidão as passagens da gravação em que funda o seu recurso, sem prejuízo de poder proceder à transcrição dos excertos que considere relevantes” (alínea a) do n.º 2 do artigo 640.º do CPC).
+
+Exigência que a lei coloca ao Recorrente para contribuir, nas palavras do Acórdão deste Tribunal de 06-07-2022, processo n.º 3683/20.1T8VNG.P1.S1, para “a efetiva e clara compreensibilidade das razões em que assenta o recurso, por forma a que na sua apreciação o tribunal não se confronte com dificuldades desmesuradas, nem demore tempo excessivo”. Sendo certo que como se afirmou no Acórdão do Supremo Tribunal de Justiça de 14-10-2020, processo n.º 283/08.8TTBGC-B.G1.S1, “[e]sta exigência funda-se nos princípios do dispositivo e da cooperação, tendo por objetivo a justa composição do litígio, não se vislumbrando que a mesma seja excessiva e viole o princípio da proporcionalidade, razão pela qual o art.º 640.º, n.º 1, do Código de Processo Civil não é inconstitucional por violação da garantia constitucional do acesso à justiça, consagrada no art.º 20.º, n.º 1, da Constituição da República Portuguesa, e do dever de administração da justiça imposto aos Tribunais no art.º 202.º, n.º 1, do mesmo diploma” (o destacado é nosso).
+
+Por fim, o citado artigo 640º é claro e expresso na consequência da omissão do cumprimento dos requisitos nele previstos, qual seja a imediata rejeição da impugnação, sem possibilidade de aperfeiçoamento.
+
+Como referiu António Abrantes Geraldes, in Recursos no Novo Código de Processo Civil, 2013, páginas 126/127/129, – em comentário ao artigo 640º do CPC/2013, com o que se concorda: “(…). a) …, o recorrente deve indicar sempre os concretos pontos de facto que considera incorrectamente julgados, com enunciação na motivação do recurso e síntese nas conclusões; b) Quando a impugnação se fundar em meios de prova constantes do processo ou que nele tenham sido registados, o recorrente deve especificar aqueles que, em seu entender, determinam uma decisão diversa quanto a cada um dos factos; c) Relativamente a pontos da decisão da matéria de facto cuja impugnação se funde, no todo ou em parte, em provas gravadas, para além da especificação obrigatória dos meios de prova em que o recorrente se baseia, cumpre ao recorrente indicar com exactidão as passagens da gravação relevantes e proceder, se assim o entender, à transcrição dos excertos que considere oportunos; d) O recorrente deixará expressa a decisão que, no seu entender, deve ser proferida sobre as questões de facto impugnadas, como corolário da motivação apresentada, tendo em conta a apreciação critica dos meios de prova produzidos, exigência que vem na linha do reforço do ónus de alegação, por forma a obviar à interposição de recursos de pendor genérico ou inconsequente, também sob pena de rejeição total ou parcial da impugnação da decisão da matéria de facto; (…)” e acrescentando ainda que “(…) as referidas exigências devem ser apreciadas à luz de um critério de rigor. Trata-se, afinal, de uma decorrência do princípio da auto-responsabilidade das partes, impedindo que a impugnação da decisão da matéria de facto se transforme numa mera manifestação de inconsequente inconformismo (…)”.
+
+Feitas estas considerações, há que apurar se foram observados pelos Recorrentes os requisitos estabelecidos pelo legislador e/ou se é de alterar o decidido quanto a matéria de facto pelo Tribunal a quo.
+
+Para além da referência referida no ponto 3 das conclusões, a que já se fez referência, a Apelante indica genericamente o que entende ser erro de julgamento, sem que se compreenda a que factos se refere, e não faz a articulação entre concretos factos impugnados e os meios probatórios a que faz referência transcrevendo os depoimentos produzidos em audiência por mais de três dezenas de páginas, passando a fazer uma pequena apreciação geral sobre esses elementos de prova (a sua apreciação), concluindo que a prova testemunhal produzida em audiência de discussão e julgamento “descrevem toda a factualidade”, o que se afasta da pretensão de reponderação do decidido sobre concretos pontos de facto com base nos meios de prova indicados, para nos transportar para uma ponderação geral da prova (ainda que não toda a prova produzida) para assentar factos (ainda que não a totalidade dos factos), ou seja, para nos aproximar da pretensão de que o tribunal ad quem faça um segundo julgamento quando, como se viu supra, não foi o querido pelo legislador ao possibilitar a impugnação da matéria de facto.
+
+O que vem a traduzir-se numa pretensão de reapreciação global e genérica da prova valorada em 1ª instância, reportada a toda a decisão, o que não se ajusta ao previsto pelo legislador.
+
+É assim manifesto o incumprimento pela Impugnante da obrigação processual prevista no artigo 640º, nº 1, alínea b), do Código de Processo Civil, o que é por si suficiente para determinar a imediata rejeição dessa mesma impugnação da matéria de facto.
+
+No que concerne aos factos referidos no ponto 3 das conclusões nem se descortina o que pretende a Apelante referir quando refere que violam o caso julgado, pois o que ali se verteu foi apenas a descrição da ação ali mencionada e os respetivos fundamentos, conforme resultam da certidão do Proc. n.º 1813/15.4... do Juízo Central Cível de ... J3, junta com a petição inicial dos presentes autos, sem qualquer alusão se fazer à correspondência ou não dos mesmos à realidade.
+
+De tudo o exposto resulta a improcedência da pretensão recursiva no que respeita à impugnação da matéria de facto.
+
+Permanecendo inalterada a matéria de facto, provada e não provada, aqui nos dispensamos de a voltar a reproduzir.
+
+*
+
+III.5. Apreciação jurídica.
+
+A Autora pretende ver reconhecido o crédito relativo a indemnização pelos danos que diz ter sofrido em consequência das ofensas ao seu crédito e ao bom nome perpetradas pela Ré nos articulados da ação que correu termos com o n.º 1813/15.4...
+
+Tendo as afirmações alegadamente ofensivas do direito ao crédito e ao bom nome da Autora sido feitas nos articulados de ação instaurada pela aqui Ré contra a aqui Autora, importa ponderar a existência de conflito entre o direito ao bom nome e ao crédito e o direito de acesso à justiça.
+
+Vejamos então.
+
+No direito civil a personalidade moral, o bom nome e consideração social das pessoas são valores tutelados, conforme resulta dos artigos 70º e 484º, ambos do Código Civil.
+
+A primeira norma tutela a personalidade, como direito absoluto, na perspetiva do direito à integridade física, ao bem-estar, à liberdade, ao bom nome e à honra, que são os fatores que individualizam o ser humano, moral e fisicamente, e o tornam titular de direitos invioláveis.
+
+Já o segundo normativo, ao proteger o bom nome de qualquer pessoa, singular ou coletiva, tutela um dos elementos essenciais da dignidade humana: a honra.
+
+A honra juscivilisticamente tutelada abrange a projeção do valor da dignidade humana, a qual é inata a todos os seres humanos. Em sentido lato, abrange o bom nome e a reputação, enquanto síntese do apreço social pelas qualidades determinantes da unicidade de cada indivíduo e pelos demais valores pessoais adquiridos no plano moral, intelectual, familiar, profissional ou político.
+
+A imputação delitual dos danos a outrem pressupõe a lesão de direitos subjetivos, de posições jurídicas que mereçam ser protegidas de qualquer agressão.
+
+Só porque ocorreu um dano e ele resultou de uma atuação voluntária do agente não se pode concluir de forma automática pela responsabilidade do agente pelo ressarcimento dos danos, pois fora dos casos excecionais em que o próprio legislador responsabiliza o agente por factos lícitos, para haver responsabilidade é necessário, desde logo, haver um ato ilícito.
+
+Na verdade, a circunstância do Código Civil Português ter previsto uma disciplina específica para a responsabilidade por factos ofensivos ao Bom Nome e ao Crédito não implica um afastamento imediato e automático do regime geral do artigo 483.ºdo Código Civil, segundo o qual “aquele que, com dolo ou mera culpa, violar ilicitamente o direito de outrem ou qualquer disposição legal destinada a proteger interesses alheios fica obrigado a indemnizar o lesado pelos danos resultantes da violação”.
+
+No Acórdão da Relação do Porto de 29.06.20232 podem colher-se diversos contributos para a caracterização da obrigação de indemnizar prevista no citado artigo 484º:
+
+“Nos termos do artigo 483.º do Código Civil, “aquele que, com dolo ou mera culpa, violar ilicitamente o direito de outrem ou qualquer disposição legal destinada a proteger interesses alheios fica obrigado a indemnizar o lesado pelos danos resultantes da violação”. Ao definir o âmbito da responsabilidade civil, este preceito distingue duas modalidades básicas de ilicitude: a violação de um direito de outrem e a violação de qualquer disposição legal destinada à proteção de interesses alheios.
+
+No primeiro caso, a ilicitude advém da ofensa perpetrada a um determinado bem jurídico que a lei protege mediante a qualificação desse interesse como um verdadeiro direito da pessoa.
+
+No outro, a ilicitude provém de uma atuação desconforme com a regra de conduta que a lei impõe como forma de tutela de interesses de outrem. Ao lado dessas duas modalidades básicas de ilicitude para efeitos de responsabilidade civil, encontram-se várias outras previsões específicas de atos ilícitos.
+
+Uma delas é o artigo 484.º do Código Civil, segundo o qual quem afirmar ou difundir um facto capaz de prejudicar o crédito ou o bom-nome de qualquer pessoa, singular ou colectiva, responde pelos danos causados. Aqui a ilicitude traduz-se na ofensa ao crédito ou ao bom-nome de uma pessoa singular ou colectiva, através da divulgação de factos susceptíveis de os prejudicar.
+
+Trata, pois, tal preceito da concretização dos meios de tutela dos direitos de personalidade, consagrados no n.º 2 artigo 70.º. Segundo este preceito, a lei protege os indivíduos contra qualquer ofensa ilícita ou ameaça de ofensa à sua personalidade física ou moral, sendo que a pessoa ameaçada ou ofendida, independentemente da responsabilidade civil a que haja lugar, pode requerer as providências adequadas às circunstâncias do caso, com o fim de evitar a consumação da ameaça ou atenuar os efeitos da ofensa já cometida.
+
+Tal preceito visa cumprir o estabelecido no artigo 26.º, n.º 1, da Constituição, o qual reconhece a todos, entre outros direitos pessoais, o direito ao bom nome e à reputação, como expressão directa do princípio da dignidade humana. Este direito fundamental tem por objecto o tipo de representação que os outros têm sobre uma pessoa, abrangendo todos os aspectos relativos a uma projecção social positiva e à consideração daí resultante no seio da sociedade.
+
+A ofensa ao crédito da pessoa ocorre quando se atinge, diminui ou coloca em causa a confiança dos outros na capacidade ou na vontade de uma pessoa para satisfazer as suas obrigações, a crença dos outros em que a pessoa não faltará aos seus compromissos, a imagem pública quanto à sua capacidade ou vontade de honrar e satisfazer os seus compromissos de natureza económica, a projecção social das aptidões e capacidades económicas dos autores (apud Capelo de Sousa, in O Direito Geral de Personalidade, Coimbra, 1995, pág. 304 e Antunes Varela, in Das Obrigações em Geral, Vol. I, 10ª edição, página 549).
+
+Segundo Menezes Cordeiro, in Tratado de Direito Civil Português, I - Direito das Obrigações, Tomo III, página 553, o facto capaz de prejudicar o crédito ou o bom nome de uma pessoa corresponderá a «uma afirmação ou insinuação, feita pela palavra (escrita ou oral), pela imagem ou pelo som, que impliquem ou possam implicar desprimor para o visado. Este resultará (ou poderá resultar apoucado, aviltado ou, por qualquer modo, diminuído na consideração social ou naquela que ele tenha de si mesmo. A pessoa média normal (bonus pater famílias) sentir-se-ia bem consigo próprio e com os outros se fosse vítima da afirmação ou da insinuação em causa? A resposta dir-nos-á, em regra, se há facto capaz de prejudicar o crédito ou o bom nome do visado”. Terá de haver a imputação de um facto, não bastando alusões vagas e gerais (v. Almeida e Costa, Direito das Obrigações, 9ª ed., pp. 516 e 517), bem que os juízos de valor e qualquer outra manifestação não factual ofensiva possa também ser censurada e reprimida.»
+
+Não há, contudo, violação do direito ao crédito de alguém sem a publicitação do acto que pode afectar esse direito, sem se tornar pública a imputação a alguém de uma actuação que possa atingir, diminuir ou colocar em causa a confiança dos outros na capacidade ou na vontade da pessoa para satisfazer as suas obrigações.
+
+Para haver ilicitude, consubstanciada numa violação injusta do direito ao crédito, é necessário que o agente tenha tornado pública a imputação da actuação que pode importar a lesão do direito, tenha transmitido essa imputação a terceiros levando-os a crer na imputação e a formarem uma convicção sobre a veracidade da imputação e a actuarem em conformidade com isso.
+
+Já o bom nome de uma pessoa é ofendido quando se prejudica, diminui ou coloca em crise o conceito favorável que a pessoa tem na comunidade, o reconhecimento público da imagem positiva que ela logrou obter ou construir na comunidade com que se relaciona e onde é conhecida, o seu prestígio ou reputação.
+
+Na obra colectiva Comentário ao Código civil: direito das obrigações, das obrigações em geral, Coord. de José Brandão Proença, Lisboa: Universidade Católica Editora, 2018, página 287, escreveu-se que como «este artigo apenas tutela a dimensão social da honra, seja, a avaliação de respeito e deferência que os outros fazem de uma pessoa, a acção juridicamente relevante consistirá na divulgação a um terceiro de um facto ofensivo do bom nome ou crédito de outrem. (…) [a] ilicitude da conduta … não se basta com a imputação a outrem de um facto lesivo do bom nome, reputação e crédito, exigindo para além disso a falsidade do facto ou, sendo este verdadeiro, a ausência de interesse legítimo na sua divulgação». Já antes, na página 286 se escreveu que «aqui está em causa a imputação de um facto potencialmente lesivo dos bens jurídicos tutelados e não a emissão de um simples juízo de valor. «Uma afirmação de facto refere-se a um acontecimento concreto, objectivamente existente ou verificado, e com isso susceptível de prova da verdade. Pelo contrário, os juízos de valor poderão ou não basear-se em factos, mas, mesmo nesta segunda hipótese, o núcleo factual é suficientemente indeterminado para que se tome possível a prova da verdade» (Sinde Monteiro, 2005: 385).»
+
+Pires de Lima e Antunes Varela, in Código Civil Anotado, Coimbra Editora, 1987, pág. 486, sustentam que «exista ou não, por parte das pessoas singulares ou colectivas, um direito subjectivo ao crédito e ao bom nome, considera-se expressamente como antijurídica a conduta que ameace lesá-los, nos termos prescritos. Pouco importa que o facto afirmado ou divulgado corresponda ou não à verdade, contanto que seja susceptível, dadas as circunstâncias do caso, de diminuir a confiança na capacidade e na vontade da pessoa para cumprir as suas obrigações (prejuízo do crédito) ou de abalar o prestigio de que a pessoa goze ou o bom conceito em que seja tida (prejuízo do bom nome) no meio social em que vive ou exerce a sua actividade (...) A afirmação ou divulgação do facto pode, no entanto, não ser ilícita, se corresponder ao exercício de um direito ou faculdade ou ao cumprimento de um dever (...)» [no mesmo sentido cf. Antunes Varela, in Das obrigações em geral, Vol. I, Almedina, 1986, pág. 501].
+
+Almeida Costa, in Direito das Obrigações, 11ª edição, págs. 564-565, refere a propósito do artigo 484.º do Código Civil o seguinte: «Infere-se da lei que tem de haver a imputação de um facto, não bastando alusões vagas e gerais. A regra consiste na irrelevância da veracidade ou falsidade do facto, mas, sempre que esteja em causa a protecção de interesses legítimos, parece de admitir a exceptio veritatis. (…). Sublinhe-se, por fim, que o facto afirmado ou difundido deve mostrar-se, ponderadas as circunstâncias concretas, susceptível de afectar o crédito ou a reputação da pessoa visada — pessoa singular ou colectiva, onde se incluem as sociedades».
+
+Menezes Cordeiro, in Direito das Obrigações, vol. II, p. 349, escreveu que: «É indubitável que a divulgação de um facto verdadeiro pode, em certo contexto, atentar contra o bom-nome e a reputação de uma pessoa. Por outro lado, a divulgação de um facto falso atentatório pode não constituir um delito – por carência, por exemplo, de elemento voluntário. Por isso, a solução deve resultar do funcionamento global das regras da imputação delitual».
+
+Filipe Albuquerque Matos in Responsabilidade Civil por Ofensa ao Crédito ou ao Bom Nome, Almedina, 2011, pág. 396 e seguintes, esclarece que o preceito inspirador do artigo 484.º é o §824 do B.G.B., no qual o carácter não verídico das declarações constitui pressuposto da responsabilidade do agente. Para este autor «os factos verdadeiros, pela circunstância de o serem, não deixam de ter uma potencialidade ofensiva para os bens da personalidade”, razão pela qual considera ser “possível no âmbito do próprio preceito dedicado ao ilícito ao crédito ou ao bom nome encontrar fundamento, mediante o apelo à influência regulativa do princípio da proporcionalidade, … impor ao agente a obrigação de indemnizar, não obstante ter divulgado factos verdadeiros».
+
+Acrescenta que o que importa é «averiguar se a actuação do declarante está legitimada por um interesse social relevante, se se revela adequada e necessária e não se manifestou, quanto aos efeitos, excessiva ou exorbitante, face à densidade e intensidade dos interesses prosseguidos com as afirmações», concluindo que «quando tal não suceder, podemos fazer recair sobre quem proferiu declarações verdadeiras a obrigação de indemnizar os prejuízos decorrentes de violação dos direitos ao bom nome e ao crédito».
+
+Já Sinde Monteiro, in Rudimentos da Responsabilidade Civil, Separata da Revista da Faculdade de Direito da Universidade do Porto, Ano 1-2005, pág. 386, sustenta o seguinte: «(..) coloca-se a questão de saber se apenas existe delito quando se afirma ou divulga facto não (demonstravelmente) verdadeiro (“capaz de prejudicar o crédito ou o bom nome”). A lei nada diz a este respeito. Mas o sistema jurídico não está de forma alguma órfão de valorações. Em geral, a afirmação ou divulgação de factos verdadeiros tem de ser considerada lícita (..). Não há dúvida de que a divulgação de factos verdadeiros pode gerar responsabilidade. O que nos parece dever acentuar-se é que uma e outra hipóteses integram, em nossa opinião, dois delitos completamente diferentes. Os requisitos da responsabilidade pela afirmação de um facto verídico terão de ser outros; o direito não pode encarar com os mesmos olhos a verdade e a mentira. E quando a lei, no art. 484, afirma a responsabilidade como regra, sem outros resguardos, deve entender-se, parece-nos, que tem em vista apenas os factos desconformes com a realidade».
+
+Para Capelo de Sousa, O Direito Geral de Personalidade, página 301 e seguintes, a honra é a projecção na consciência social do conjunto dos valores pessoais de cada indivíduo, desde os emergentes da sua mera pertença ao género humano até aqueloutros que cada indivíduo vai adquirindo através do seu esfoço pessoal. O crédito da honra é devido naturalmente, sendo que a honorabilidade só pode ser descartada quando os actos do indivíduo demonstrem o contrário. A honra, em sentido amplo, inclui também o bom nome e a reputação, enquanto sínteses do apreço social que o indivíduo merece.
+
+Para Maria Paula Andrade, in Da Ofensa do Crédito e do Bom Nome, Contributo para o estudo do artigo 484º do Código Civil, página 97, «a honra é um bem da personalidade, que se traduz numa pretensão ou direito do indivíduo a não ser vilipendiado no seu valor aos olhos da sociedade e que constitui modalidade do livre desenvolvimento da dignidade humana (…)».
+
+*
+
+O direito de acesso à justiça, tal como o direito à honra e à consideração pessoal, é um direito constitucionalmente garantido, dotado da tutela que é própria dos direitos fundamentais.
+
+Essa circunstância impõe algum cuidado na responsabilização da parte que toma a iniciativa do processo pelas consequências da sua instauração ou daquela que confrontada com um processo se vê obrigada a apresentar a sua defesa - não pode nunca permitir que da simples perda da demanda se conclua pela ilegitimidade da iniciativa processual ou que do simples decaimento da defesa se conclua pela ilicitude dos factos alegados como meio de defesa, e se retire o dever de indemnizar a parte contrária dos prejuízos sofridos em consequência da demanda.
+
+Tal não significa, porém, que esse direito seja irrestrito ou insuscetível de adequação prática e, portanto, o respetivo exercício não pode servir nunca para legitimar toda e qualquer postura processual, pois que o processo, enquanto conjunto de regras instrumentais destinadas a permitir a aplicação do direito substantivo ao caso concreto e a realização da Justiça não pode servir a violação impune de direitos materialmente consagrados.
+
+O direito de ação é um direito instrumental, no sentido de que não consubstancia em si mesmo um direito subjetivo material, mas é somente o mecanismo através do qual se obtém a tutela dos direitos substantivos.
+
+O processo visa antes de mais a proteção, a defesa, a realização, o ressarcimento da violação dos direitos legítimos, dos direitos merecedores - quanto ao conteúdo ou ao modo de exercício - dessa tutela e, por isso, tem de ser ele mesmo inócuo, no sentido de que tal como deve ser garantia da efetiva tutela a que tende, não pode ser ele mesmo fonte de violação desses direitos. O contrário seria uma afronta flagrante do princípio da boa fé que nada justifica e, sobretudo, uma violação das próprias regras de direito material enformadas por aquele.
+
+Assim, em regra, uma atuação processual que importe a violação de direitos materiais legítimos não pode deixar de constituir um ato recusado pela ordem jurídica, um ato ilícito. Por isso, desde que essa atuação corresponda a um ato culposo, não pode deixar de implicar responsabilidade civil pelos danos que forem consequência dessa atuação.
+
+Havendo conflito, real ou aparente, entre direitos ou interesses igualmente protegidos pela constituição, a divulgação de factos desonrosos deve revelar-se adequada e necessária à salvaguarda do direito ao abrigo do qual a divulgação é feita, sob pena de a divulgação ser ilícita.
+
+*
+
+Expostas estas considerações, estamos em condições de regressar ao caso concreto, e de afirmar que não podemos discordar da ponderação realizada pelo Tribunal Recorrido, do conflito em causa.
+
+Na verdade, sendo as ações o espaço de discussão da relação pessoal entre quem se sente merecedor de tutela do direito e aquele a quem a violação do direito é imputada, no caso, e sem prejuízo das circunstâncias relativas à doença de que a Ré padecia há longos anos e de que a Ré pode ter-se apercebido - os factos provados relativos ao comportamento da Ré são insuficientes para lhe imputar a prática de um facto ilícito, devendo, ao invés, concluir-se que nas concretas circunstâncias do caso se deve considerar excluída a ilicitude do seu comportamento.
+
+Não só os factos demonstram incongruências entre a data que foi feita constar do instrumento de autenticação elaborado pela ora Autora, como, acima de tudo, não se demonstrou, como consta da decisão recorrida, a alegação (e muito menos a prova) de quaisquer factos falsos por parte da ora Ré, o que equivale a dizer que não se demonstrou a falsidade alegada, mas também que tal alegação fosse falsa – apenas se concluiu pela não comprovação da falsidade.
+
+Como se refere na decisão recorrida:
+
+“(…)E foi justamente porque o tribunal, no âmbito do Proc. n.º 1813/15.4..., não logrou concluir pela falsidade dos factos alegados pela ora ré, mas apenas pela sua não comprovação, que expressamente até julgou não verificada qualquer situação de litigância de má-fé processual, tendo categoricamente considerando que as partes atuaram no exercício do seu direito [de demandar] e convencidas do mesmo.
+
+Desta declaração judicial, que é anterior à instauração destes autos, e, que nega a existência de uma situação de litigância de má-fé, nomeadamente com referência à al) b) do n.º 2 art.º 542.º do Cod. de Proc. Civ. ( alíneas essa que se reporta à circunstância de parte alterado a verdade dos factos), conjugada com o facto de já não ser possível discutir e concluir, de forma autónoma, pela falsidade dos factos alegados pela ré, decorre, pois, a própria licitude da atuação da ora demandada, a qual, ao demandar a autora, terá simplesmente atuado, num quadro que já nem seria de muita lucidez, com vista a exercer ou defender os seus direitos e não com o propósito de alegar factos falsos e ou com o intuito de afetar a reputação e saúde da autora.
+
+Sendo que instaurar uma ação e não lograr, em face da repartição do ónus da prova, comprovar os factos que se alega [sendo que foi esta realidade que resultou do anterior julgamento e que foi reafirmada em sede recursiva] - não constitui, salvo melhor opinião, um comportamento objetiva e eticamente reprovável que possa ser havido como ofensivo da honra e consideração devidas a qualquer pessoa.
+
+Pelo que, por a ré ter, sim, simplesmente atuado no exercício de um direito, que, inclusivamente, tem previsão constitucional, não pode, consequentemente, a sua conduta ser simultaneamente considerada ilícita e nessa medida inexiste, face ao disposto no art.º 483.º, n.º 1 do Código Civil, fundamento para concluir pela existência, a cargo da ora demandada, do dever de indemnizar a autora. (…)”
+
+Resta concluir.
+
+Não tendo a Autora logrado provar a falsidade dos factos que lhe foram imputados no contexto da ação que a ora Ré contra si intentou, no exercício do seu direito de ação, não pode concluir-se pela ilicitude do comportamento da Ré, e consequentemente, pelo surgimento da obrigação de indemnizar que pressupunha a demonstração de tal ilicitude.
+
+Impõe-se, pois, o naufrágio da pretensão recursiva.
+
+*
+
+V. Dispositivo:
+
+Pelo exposto, acordam os juízes do Tribunal da Relação julgar o recurso improcedente e, em consequência, confirmar a decisão recorrida.
+
+Custas pela Apelante, nos termos do artigo 527.º, n. os 1 e 2, do Código de Processo Civil.
+
+Évora, 27.02.2025
+
+Ana Pessoa
+
+Sónia Moura
+
+Elisabete Valente
+
+1. Da exclusiva responsabilidade da relatora.↩︎
+
+2. Proferido no âmbito do processo n.º 21209/20.5T8PRT.P1↩︎
