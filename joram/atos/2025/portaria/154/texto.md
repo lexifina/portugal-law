@@ -1,0 +1,23 @@
+# Portaria n.º 154/2025
+
+**Emissor:** SECRETARIAS REGIONAIS DAS FINANÇAS E DE INCLUSÃO, TRABALHO E JUVENTUDE
+
+**Publicação:** JORAM, I série, n.º 38/2025, 2.º suplemento, de 2025-02-28
+
+**Sumário:** Autoriza o Instituto de Segurança Social da Madeira, IP-RAM a assumir os encargos orçamentais respeitantes à aquisição de serviços de vigilância, segurança humana e ligação a central de receção e monotorização de alarmes para os seus Serviços Centrais, Serviços Locais, Estabelecimentos Integrados, Centro de Inclusão Social da Madeira e Centros de Atividades e Capacitação para a Inclusão, nos anos de 2025 e 2026, no valor total de 427.653,03 €.
+
+## Texto
+
+Portaria n.º 154/2025
+de 28 de fevereiro
+Sumário: Autoriza o Instituto de Segurança Social da Madeira, IP-RAM a assumir os encargos orçamentais respeitantes à aquisição de serviços de vigilância, segurança humana e ligação a central de receção e monotorização de alarmes para os seus Serviços Centrais, Serviços Locais, Estabelecimentos Integrados, Centro de Inclusão Social da Madeira e Centros de Atividades e Capacitação para a Inclusão, nos anos de 2025 e 2026, no valor total de 427.653,03 €.
+Texto: Considerando que o Instituto de Segurança Social da Madeira, IP-RAM, pretende promover um procedimento précontratual, tendo em vista a aquisição de serviços de vigilância, segurança humana e ligação a central de receção e monotorização de alarmes para os seus Serviços Centrais, Serviços Locais, Estabelecimentos Integrados, Centro de Inclusão Social da Madeira e Centros de Atividades e Capacitação para a Inclusão, o qual tem por fundamento o termo do contrato em vigor e a necessidade de assegurar a sua continuidade, tendo em vista o regular funcionamento destes Estabelecimentos e Serviços; Considerando que os encargos orçamentais decorrentes do contrato a celebrar para a aquisição daqueles serviços se estimam em 427.653,03 € (quatrocentos e vinte e sete mil, seiscentos e cinquenta e três euros e três cêntimos), ao qual acresce o IVA à taxa legal em vigor aplicável, totalizando o valor de 521.736,70 € (quinhentos e vinte e um mil, setecentos e trinta e seis euros e setenta cêntimos), encargo esse a assumir para os anos económicos de 2025 e 2026; Considerando que os encargos em causa deverão ser objeto de Portaria de Repartição de Encargos, nos termos do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual. Assim, manda o Governo Regional, através do Secretário Regional das Finanças e da Secretária Regional de Inclusão, Trabalho e Juventude, ao abrigo do disposto no artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, mantido em vigor pela alínea f) do n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, conjugado com o previsto na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro (LCPA), na sua redação atual, o seguinte:
+1. Fica o Instituto de Segurança Social da Madeira, IP-RAM autorizado a assumir os encargos orçamentais nos anos de 2025 e 2026, no valor total de 427.653,03 € (quatrocentos e vinte e sete mil, seiscentos e cinquenta e três euros e três cêntimos), ao qual acresce o IVA à taxa legal em vigor aplicável, relativamente à aquisição de serviços de vigilância, segurança humana e ligação a central de receção e monotorização de alarmes para os seus Serviços Centrais, Serviços Locais, Estabelecimentos Integrados, Centro de Inclusão Social da Madeira e Centros de Atividades e Capacitação para a Inclusão.
+2. Os encargos resultantes do contrato não excederão, em cada ano económico, as seguintes importâncias, a acrescer o valor do IVA à taxa legal em vigor:
+Ano Económico de 2025 ............................................................................... 178.188,75 €; Ano Económico de 2026 ............................................................................... 249.464,28 €.
+3. A importância fixada para cada ano económico poderá ser acrescida do saldo apurado no ano anterior.
+4. A despesa emergente do contrato a celebrar tem cabimento por verbas adequadas a inscrever no orçamento para os anos de 2025 e 2026, do Instituto de Segurança Social da Madeira, IP-RAM, tendo a mesma sido registada no Sistema de Informação Financeira com o cabimento n.º 2825001508, 2825001509 e 2825001510, e compromisso de anos futuros n.º 2825001508, 2825001509 e 2825001510.
+5. A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretaria Regional das Finanças e Secretaria Regional de Inclusão, Trabalho e Juventude, no Funchal, aos 27 dias do mês de fevereiro de 2025.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
+A SECRETÁRIA REGIONAL DE INCLUSÃO, TRABALHO E JUVENTUDE, Ana Maria Sousa de Freitas
