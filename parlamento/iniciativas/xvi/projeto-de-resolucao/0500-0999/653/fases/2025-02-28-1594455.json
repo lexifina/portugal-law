@@ -1,0 +1,1233 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "653",
+    "id": "314729",
+    "titulo": "Recomenda ao Governo a retirada do guia “O Direito a Ser nas Escolas”"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2025-02-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "40872",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2025-02-28",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "314735",
+        "leg": "XVI",
+        "nr": "658",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56683",
+            "obs": null,
+            "pag": [
+              "44-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-01",
+            "pubLeg": "XVI",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/44?pgs=44-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56683",
+            "obs": null,
+            "pag": [
+              "44-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-01",
+            "pubLeg": "XVI",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/44?pgs=44-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56683",
+            "obs": null,
+            "pag": [
+              "44-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-01",
+            "pubLeg": "XVI",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/44?pgs=44-58&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que recolha e retire de circulação o Guia “O Direito a Ser nas Escolas”"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "314745",
+        "leg": "XVI",
+        "nr": "667",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56683",
+            "obs": null,
+            "pag": [
+              "44-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-01",
+            "pubLeg": "XVI",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/44?pgs=44-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56683",
+            "obs": null,
+            "pag": [
+              "44-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-01",
+            "pubLeg": "XVI",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/44?pgs=44-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56683",
+            "obs": null,
+            "pag": [
+              "44-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-01",
+            "pubLeg": "XVI",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/44?pgs=44-58&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram "
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-02-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435418",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1713",
+                "nome": "Bruno Vitorino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435419",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/46?pgs=46-48&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435420",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1713",
+                "nome": "Bruno Vitorino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435421",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435422",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435423",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7355",
+                "nome": "Patrícia Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435424",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/50?pgs=50&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6371",
+                "nome": "Patrícia Faro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435425",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435426",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435427",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/64"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435428",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1713",
+                "nome": "Bruno Vitorino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435429",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435430",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/55?pgs=55&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435431",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/55?pgs=55&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435432",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/55?pgs=55&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435433",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435434",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:05",
+            "horaTermo": "13:54",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435435",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "sumario": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WC e balneários com pessoas fisicamente do sexo oposto; Recomenda ao Governo a retirada do guia O Direito a SER nas Escolas; Recomenda ao Governo que recolha e retire de circulação o guia O Direito a SER nas Escolas; Recomenda ao Governo que assegure condições para que as crianças e jovens não tenham de ser obrigados a partilhar casas de banho e balneários com pessoas que se identifiquem com o sexo oposto ao qual nasceram\n",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1594455",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XV",
+        "nr": "253",
+        "publicacao": null,
+        "sel": "2",
+        "tipo": null,
+        "titulo": "Não queremos que as crianças e jovens sejam obrigados a partilhar os WCs e balneários com pessoas fisicamente do sexo oposto"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1021849",
+        "obs": null,
+        "pag": [
+          "44-58"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-01",
+        "pubLeg": "XVI",
+        "pubNr": "95",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/44?pgs=44-58&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
