@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=F9PDOHNFycB6%2fwHBIK8pxp90NHMVWRoPo7xRrSheCH%2bXxTqdPsHw6D6aNnw9iqXvKxrH0P9GJq%2b8nJ0ko5nPHKfPEL8708E670ha7An37sU4tGcztL8bhpHrCso2hm3iseZ4qeJi7bkbYKgyGvQIwxzddtmYuv4DcTC30HQKz79JFlOXvg03OoOS04yfZ68VYC28B4Y0zeq4kcV5KAu8QiQv5%2fFgUPsyig4aVYLHuh7fjhY7f5ZsHhjgiGjp5rJRhMiHrQ779WBR20oFU%2fl9o7E0tJ1VoRCT%2bJWMcMmsim85dzAqwb7dte5lqENalDhiAmRdnx%2freJJxlTxGDmPGNwxfjJ0%2fVlolAj0cWgs%2bJ8w%3d&fich=IntervencoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "642a74698e32955c3a685f799a9bc60770a614b0fea5fabf6e4055551add8069",
+  "legislatura": "XVI",
+  "id": "435447",
+  "tipo": "Intervenção",
+  "orador": "Isabel Mendes Lopes (L)",
+  "data_registo": "2025-02-28",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "1626454",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "314458",
+        "tipo": "INI",
+        "titulo": "Apreciação Parlamentar - Decreto-Lei n.º 117/2024, de 30 de dezembro, que altera o Regime Jurídico dos Instrumentos de Gestão Territorial"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Discussão da avocação pelo Plenário da votação na especialidade das propostas de alteração aos n.os 2 e 3 do artigo 72.º-B do texto final, apresentado pela Comissão de Economia, Obras Públicas e Habitação, relativo à Apreciação Parlamentar n.º 6/XVI/1.ª (BE, PCP, L e PAN) do Decreto-Lei n.º 117/2024, de 30 de dezembro, que altera o Regime Jurídico dos Instrumentos de Gestão Territorial.",
+        "duracao": "00:01:56.417",
+        "tipoIntervencao": "Intervenção",
+        "url": "https://av.parlamento.pt/videos/Plenary/16/1/95/95"
+      }
+    ],
+    "DataReuniaoPlenaria": "2025-02-28",
+    "Debate": null,
+    "Deputados": {
+      "GP": "L",
+      "idCadastro": "7356",
+      "nome": "Isabel Mendes Lopes"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "435447",
+    "IdDebate": "61044",
+    "Iniciativas": [
+      {
+        "fase": "Requerimento avocação plenário",
+        "id": "314458",
+        "tipo": "Apreciação Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "435447",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "83-83"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-01",
+        "pubLeg": "XVI",
+        "pubNr": "95",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/83?pgs=83&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Decreto-Lei n.º 117/2024, de 30 de dezembro, que altera o Regime Jurídico dos Instrumentos de Gestão Territorial",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
