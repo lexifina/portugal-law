@@ -1,0 +1,7 @@
+Aviso n.º 5893/2025/2
+
+Abertura do período de discussão pública do Plano de Pormenor de São Martinho
+Presidente da Câmara Municipal da Trofa, António da Costa Azevedo, torna público, que a Câmara Municipal da Trofa, na sua reunião ordinária de 6 de fevereiro de 2025, deliberou, por maioria, dar início ao período de discussão pública relativo à elaboração do Plano de Pormenor de São Martinho, nos termos do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual. Também deliberou estabelecer o período de discussão pública de 20 dias úteis, com início cinco dias após a publicação do presente aviso na 2.ª série do Diário da República.
+Os interessados podem consultar os documentos da proposta, na página da internet, em www.mun-trofa.pt ou nas instalações dos Paços do Concelho, durante as horas normais de expediente. Qualquer sugestão, informação ou observação deverá ser apresentada por escrito até ao termo do referido período, dirigidas ao Presidente da Câmara Municipal da Trofa, utilizando para o efeito o impresso próprio que pode ser obtido nas instalação da Câmara Municipal ou na página da internet, em www.mun-trofa.pt, e remetido por via postal para Paços do Concelho da Trofa, Praça do Município, n.º 480, 4785-205 Trofa, por via eletrónica, para geral@mun-trofa.pt, ou entregues no balcão único de atendimento desta Câmara Municipal.
+21 de fevereiro de 2025. - O Presidente da Câmara Municipal, António da Costa Azevedo.
+618731772
