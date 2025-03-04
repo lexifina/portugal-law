@@ -1,0 +1,128 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "589",
+  "id": "314947",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-03-04",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e3245304e4746694d4451744f5451794d7930304e6d4e6a4c5745794f4755744e5755355a4455324e4759325a6a56684c6e426b5a673d3d&fich=7a44ab04-9423-46cc-a28e-5e9d564f6f5a.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "6543",
+        "nome": "Alexandra Leitão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6706",
+        "nome": "Miguel Matos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8559",
+        "nome": "Isabel Ferreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6867",
+        "nome": "Rosário Gambôa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7018",
+        "nome": "Mara Lagriminha Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3936",
+        "nome": "Palmira Maciel"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6050",
+        "nome": "André Pinotes Batista"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7334",
+        "nome": "Ana Abrunhosa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7460",
+        "nome": "Eduardo Pinheiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6731",
+        "nome": "José Carlos Barbosa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7379",
+        "nome": "José Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6893",
+        "nome": "Maria Begonha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "162",
+        "nome": "Edite Estrela"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6710",
+        "nome": "Sofia Andrade"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "314947",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d324d785a6a42694e6d49744d3245774e4330305a5449794c546b344e54417459324d795a4463354d6d497a4e5441314c6d52765933673d&fich=3c1f0b6b-3a04-4e22-9850-cc2d792b3505.docx&Inline=true",
+    "IniNr": "589",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Promove a democratização do acesso ao associativismo estudantil no ensino básico e secundário, procedendo à terceira alteração a Lei n.º 23/2006, de 23 de junho",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
