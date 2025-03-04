@@ -20,7 +20,7 @@
 
 80 - Ao entrar na partida, um jogador não pode ocupar o lugar ao qual pertença a mão nesse golpe. Se o fizer, só joga no golpe seguinte. A mão transfere-se para o lugar ocupado imediatamente à sua esquerda.
 
-81 - No início de cada jogada, o jogador que tem a mão efectuará uma aposta, designada por «pequena aposta», cabendo ao jogador situado imediatamente à sua esquerda efectuar a «grande aposta».
+81 - No início de cada jogada, o primeiro jogador sentado à esquerda daquele que tem a mão, efetuará uma aposta, designada por ‘pequena aposta’, cabendo ao jogador situado imediatamente à sua esquerda efetuar a ‘grande aposta’.
 
 82 - A «pequena aposta» será igual a metade do mínimo da mesa.
 
