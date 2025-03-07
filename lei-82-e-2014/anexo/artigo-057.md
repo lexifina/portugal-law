@@ -6,7 +6,7 @@
 
 ### Declaração de rendimentos
 
-1 - Os sujeitos passivos devem apresentar, anualmente, uma declaração de modelo oficial, relativa a todas as fontes de rendimentos do ano anterior e a outros elementos informativos relevantes para a sua concreta situação tributária, nomeadamente para os efeitos do artigo 89.º-A da Lei Geral Tributária, devendo ser-lhe juntos, fazendo dela parte integrante, os anexos e outros documentos que para o efeito sejam mencionados no referido modelo.
+1 - Os sujeitos passivos devem apresentar, anualmente, uma declaração de modelo oficial, relativa aos rendimentos do ano anterior e a outros elementos informativos relevantes para a sua concreta situação tributária, nomeadamente para os efeitos do artigo 89.º-A da Lei Geral Tributária, devendo ser-lhe juntos, fazendo dela parte integrante, os anexos e outros documentos que para o efeito sejam mencionados no referido modelo.
 
 2 - Sem prejuízo do disposto no artigo 63.º, no caso de falecimento do sujeito passivo, incumbe ao administrador da herança apresentar a declaração de rendimentos em nome daquele, relativa aos rendimentos correspondentes ao período decorrido de 1 de janeiro até à data do óbito.
 
@@ -22,4 +22,22 @@ b) Comprovar, quando solicitado, a afetação do imóvel à sua habitação perm
 
 6 - Sempre que, no mesmo ano, o sujeito passivo tenha, em Portugal, dois estatutos de residência, deve proceder à entrega de uma declaração de rendimentos relativa a cada um deles, sem prejuízo da possibilidade de dispensa, nos termos gerais.
 
-7 - Para efeitos do n.º 1, são obrigatoriamente reportados, designadamente, os rendimentos sujeitos a taxas liberatórias não englobados e os rendimentos não sujeitos a IRS, quando superiores a 500 (euro), bem como os ativos detidos em países, territórios ou regiões com regime fiscal claramente mais favorável.
+7 - Os sujeitos passivos do IRS devem mencionar na declaração prevista no n.º 1, os seguintes ativos por si detidos em países, territórios ou regiões com regime fiscal claramente mais favorável:
+
+a) Direitos de propriedade ou figuras parcelares desses direitos sobre bens imóveis aí situados;
+
+b) Automóveis, embarcações ou aeronaves aí registados;
+
+c) Valores detidos em contas de depósito ou de títulos em entidades com sede ou domicílio nessas jurisdições ou em sucursais aí situadas;
+
+d) Ações, quotas e partes de capital em entidades com sede ou domicílio nessas jurisdições;
+
+e) Unidades de participação e títulos análogos em organismos de investimento coletivo, organismos de investimento alternativo ou organismos de investimento em capital de risco geridos ou administrados por entidades com sede ou domicílio nessas jurisdições ou por sucursais aí situadas;
+
+f) Obrigações e outros valores mobiliários emitidos por entidades com sede ou domicílio nessas jurisdições;
+
+g) Suprimentos e outros empréstimos concedidos a entidades com sede ou domicílio nessas jurisdições ou a sucursais aí situadas;
+
+h) Contratos de seguro ou de renda com entidades com sede ou domicílio nessas jurisdições ou por sucursais aí situadas;
+
+i) Ativos ou valores detidos por intermédio de sociedades de pessoas e estruturas fiduciárias, de que seja beneficiário, aí registadas ou geridas ou administradas por entidades com sede ou domicílio nessas jurisdições ou por sucursais aí situadas.

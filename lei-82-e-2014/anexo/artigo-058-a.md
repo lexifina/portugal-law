@@ -33,3 +33,5 @@ b) No termo do prazo legal de entrega a que se refere o n.º 1 do artigo 60.º, 
 10 - A declaração automática de rendimentos não dispensa os sujeitos passivos da obrigação prevista no artigo 128.º
 
 11 - Nos casos previstos no n.º 3 não há lugar à audição prévia do sujeito passivo, sendo disponibilizados na área reservada do Portal das Finanças, os elementos informativos que serviram de base à liquidação.
+
+12 - O disposto no presente artigo não abrange os sujeitos passivos que detenham ativos a que se refere o n.º 7 do artigo 57.º

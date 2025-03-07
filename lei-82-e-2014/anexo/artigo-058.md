@@ -22,7 +22,9 @@ b) Aufiram rendas temporárias e vitalícias que não se destinam ao pagamento d
 
 c) Aufiram rendimentos em espécie;
 
-d) Aufiram rendimentos de pensões de alimentos a que se refere o n.º 9 do artigo 72.º de valor superior a (euro) 4104.
+d) Aufiram rendimentos de pensões de alimentos a que se refere o n.º 9 do artigo 72.º de valor superior a (euro) 4104;
+
+e) Detenham ativos a que se refere o n.º 7 do artigo 57.º
 
 4 - A dispensa de apresentação de declaração não impede os sujeitos passivos de, querendo, apresentarem declaração de rendimentos nos termos gerais.
 
