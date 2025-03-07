@@ -1,0 +1,8 @@
+Aviso (extrato)  n.º 6324/2025/2
+
+Aprovação do Regulamento de Apoio à Natalidade
+Torna-se público, nos termos do disposto na alínea h) do n.º 1, do artigo 16.º, conjugado com a alínea f) do n.º 1 do artigo 9.º, do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, na sua redação atual, e para os efeitos previstos no artigo 139.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Assembleia de Freguesia de Santa Catarina, em sessão ordinária de 24 de fevereiro de 2025, sob proposta oportunamente aprovada pela Junta de Freguesia na sua reunião ordinária de 05 de dezembro de 2024, deliberou aprovar por unanimidade o Projeto de Regulamento de Apoio à Natalidade, publicitado através do Diário da República, na 2.ª série, n.º 241/2024 para consulta pública no dia 12 de dezembro de 2024, e sob o Edital n.º 10/2024, afixado no dia 13 de dezembro de 2024.
+Mais se informa que após o decurso do prazo para consulta pública não houve qualquer alteração ao projeto inicial e já publicado, como tal o mesmo entra em vigor após cinco dias da publicação deste aviso no Diário da República podendo ser consultado na íntegra na sede da Junta de Freguesia, durante o período normal de funcionamento ou no sítio institucional da Junta Freguesia de Santa Catarina, em www.santacatarina.pt.
+Para constar e para geral conhecimento se publica este e outros de igual teor, os quais serão afixados nos lugares de estilo desta Freguesia e no sítio institucional em www.santacatarina.pt.
+28 de fevereiro de 2025. - O Presidente da Junta de Freguesia, Fernando Manuel Martins Fialho.
+318757969
