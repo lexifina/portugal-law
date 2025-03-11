@@ -6,7 +6,7 @@
 
 a) Resultem de planos ou programas plurianuais legalmente aprovados;
 
-b) Os seus encargos não excedam o limite de 20000 contos em cada um dos anos económicos seguintes ao da sua contracção e o prazo de execução de três anos.
+b) Os seus encargos não excedam o limite de 500 000,00 euros em cada um dos anos económicos seguintes ao da sua contração e o prazo de execução de três anos.
 
 2 - Os contratos e as portarias a que se refere o número anterior devem fixar o limite máximo do encargo correspondente a cada ano económico.
 

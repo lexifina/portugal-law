@@ -1,3 +1,7 @@
+## Capítulo XII
+
+## Recursos hierárquicos
+
 ## Secção I
 
 ## Disposições gerais
