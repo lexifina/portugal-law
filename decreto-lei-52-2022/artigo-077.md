@@ -11,3 +11,5 @@
 4 - A remuneração prevista no número anterior corresponde a uma percentagem da remuneração da respetiva categoria correspondente ao lugar ou posto de trabalho de origem, calculada em função do número de horas semanais efetivamente prestadas, não podendo exceder 50 % da remuneração que compete ao exercício de funções de gestão.
 
 5 - Quando o médico designado membro do conselho de administração ou conselho diretivo não esteja integrado na carreira especial médica, a remuneração prevista nos números anteriores tem por referência a primeira posição remuneratória da categoria de assistente graduado e é calculada em função do número de horas semanais efetivamente prestadas, não podendo exceder 50 % da remuneração que compete ao exercício de funções de gestão.
+
+6 - A percentagem da remuneração prevista nos n.ºs 4 e 5 pode ser aumentada até 100 % pelo exercício de atividade médica de natureza assistencial, exclusivamente nas unidades locais de saúde onde desempenham o cargo de diretor clínico, mediante despacho favorável dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
