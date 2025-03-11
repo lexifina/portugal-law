@@ -1,0 +1,31 @@
+# Artigo 11.º
+
+### Âmbito da contratação nos setores da água, da energia, dos transportes e dos serviços postais
+
+1 - A parte ii do presente Código só é aplicável à formação dos contratos a celebrar pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º desde que:
+
+a) Esses contratos digam direta e principalmente respeito a uma ou a várias das atividades por elas exercidas nos setores da água, da energia, dos transportes e dos serviços postais; e
+
+b) O objeto desses contratos abranja prestações típicas dos seguintes contratos:
+
+i) Empreitada de obras públicas cujo valor seja igual ou superior ao limiar referido na alínea a) do n.º 4 do artigo 474.º;
+
+ii) Concessão de obras públicas;
+
+iii) Concessão de serviços públicos;
+
+iv) Locação ou aquisição de bens móveis e aquisição de serviços cujo valor seja igual ou superior ao limiar referido na alínea b) do n.º 4 do artigo 474.º;
+
+v) Aquisição de serviços sociais ou outros específicos enumerados no anexo ix ao presente Código, cujo valor seja igual ou superior ao limiar referido na alínea c) do n.º 4 do artigo 474.º
+
+2 - A parte ii do presente Código é sempre aplicável à formação de contratos, a celebrar por quaisquer entidades adjudicantes, quando estes digam direta e principalmente respeito a uma ou a várias das atividades por elas exercidas nos setores da água, da energia, dos transportes e dos serviços postais, nos seguintes casos:
+
+a) Contratos de aquisição de serviços de caráter financeiro prestados pelo Banco de Portugal;
+
+b) Contratos relativos à aquisição, ao desenvolvimento, à produção ou à coprodução de programas destinados a emissão por parte de entidades de radiodifusão ou relativos a tempos de emissão.
+
+3 - A parte ii do presente Código é sempre aplicável à formação dos seguintes contratos, a celebrar pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º, quando estas exerçam uma ou várias atividades no setor da água:
+
+a) Contratos relacionados com projetos de engenharia hidráulica, de irrigação ou de drenagem, desde que o volume de água destinada ao abastecimento de água potável represente mais de 20 % do volume total de água fornecida de acordo com aqueles projetos ou por instalações de irrigação ou de drenagem;
+
+b) (Revogada.)

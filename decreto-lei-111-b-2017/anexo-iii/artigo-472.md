@@ -1,0 +1,11 @@
+# Artigo 472.º
+
+### Obrigações perante a Comissão Europeia
+
+1 - Para efeitos do cumprimento das obrigações previstas no artigo 45.º da Diretiva n.º 2014/23/UE, nos artigos 83.º e 85.º da Diretiva n.º 2014/24/UE e nos artigos 99.º e 101.º da Diretiva n.º 2014/25/UE, todas do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, compete ao Instituto dos Mercados Públicos, Imobiliário e Construção, I. P., elaborar e remeter à Comissão Europeia, de três em três anos, um relatório relativo aos contratos de aquisição e locação de bens e de aquisição de serviços, um relatório estatístico relativo aos contratos de empreitada de obras públicas e um relatório estatístico relativo aos contratos de concessão de obras e serviços públicos, os quais devem conter dados de monitorização adequados, incluindo, se for o caso, informações sobre as situações de dúvidas mais frequentes ou de aplicação incorreta das regras de contratação pública, sobre o nível de participação das pequenas e médias empresas e a prevenção, deteção e notificação dos casos de fraude, corrupção, conflitos de interesses e outras irregularidades graves no domínio da contratação pública.
+
+2 - Para efeitos do disposto no número anterior, o Instituto dos Mercados Públicos, Imobiliário e Construção, I. P., recolhe os dados necessários a partir do portal dos contratos públicos e dos instrumentos de comunicação da informação inerentes à sua atividade.
+
+3 - Para efeitos do cumprimento das obrigações previstas no n.º 2 do artigo 4.º da Diretiva n.º 89/665/CEE, do Conselho, de 21 de dezembro, e no n.º 2 do artigo 12.º da Diretiva n.º 92/13/CEE, do Conselho, de 25 de fevereiro, compete ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., comunicar à Comissão Europeia, até 30 de setembro de cada ano, de acordo com informação fornecida pelo Conselho Superior dos Tribunais Administrativos e Fiscais, a compilação de todas as decisões que tenham transitado em julgado no ano anterior, nos termos previstos no n.º 4 do artigo 285.º e no n.º 7 do artigo 287.º
+
+4 - É obrigatória a comunicação das decisões referidas no número anterior, bem como da respetiva fundamentação, por via eletrónica, ao portal da Internet dedicado aos contratos públicos, em termos a regular por portaria dos membros do Governo responsáveis pelas áreas da justiça e das obras públicas.
