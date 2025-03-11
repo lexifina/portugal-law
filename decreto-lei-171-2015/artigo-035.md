@@ -25,3 +25,5 @@ b) As entidades públicas competentes para a instrução de procedimentos admini
 c) As pessoas singulares ou coletivas quando no exercício do direito de acesso ao conteúdo integral dos registos que lhes respeitem;
 
 d) As pessoas singulares ou coletivas que, previamente ao pedido de código de acesso ao registo criminal ou ao registo de contumazes, ou de emissão de certificado, demonstrem insuficiência económica para suportar a taxa devida, nos termos da lei sobre apoio judiciário, com as devidas adaptações.
+
+7 - Nos casos previstos na alínea a) do número anterior, o arguido fica obrigado ao pagamento da respetiva taxa, por cada emissão de certificado, a título de encargos imputados na conta, quando o pagamento das custas judiciais seja da sua responsabilidade.
