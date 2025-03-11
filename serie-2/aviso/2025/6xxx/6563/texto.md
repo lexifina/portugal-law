@@ -1,0 +1,7 @@
+Aviso n.º 6563/2025/2
+
+Dr. José António do Deserto Videira, Presidente da Junta de Freguesia de Marvila, torna público que de acordo com a deliberação da Junta de Freguesia de 21 de fevereiro de 2025, foi aprovado o projeto do Regulamento dos Tronos de Santo António, da Junta de Freguesia de Freguesia de Marvila, ao abrigo da alínea h) do n.º 1, do artigo 16.º do Regime Jurídico das Autarquias Locais, aprovado em Anexo I da Lei n.º 75/2013, de 12 de setembro, o qual se submete a consulta pública, para recolha de sugestões, no prazo de 30 dias, a contar da data da publicação do presente aviso, em conformidade com o artigo 100.º, n.º 3, alínea c), conjugado com o artigo 101.º do Código do Procedimento Administrativo (CPA).
+O presente projeto de regulamento poderá ser consultado nas instalações da Junta de Freguesia de Marvila (sita na Avenida Paulo VI, 60, 1950-231 Lisboa) e encontra-se disponível para consulta página eletrónica desta Junta em www.jf-marvila.pt.
+No âmbito da participação, e nos termos do artigo 101.º do CPA, os interessados devem apresentar as suas sugestões, por escrito, de forma fundamentada, e dirigidas ao Senhor Presidente da Junta de Freguesia, para a Avenida Paulo VI, 60, 1950-231 Lisboa, ou através de correio eletrónico para o endereço isidora.varanda@jf-marvila.pt, no prazo acima fixado.
+24 de fevereiro de 2025. - O Presidente da Junta de Freguesia, José António do Deserto Videira.
+318735652
