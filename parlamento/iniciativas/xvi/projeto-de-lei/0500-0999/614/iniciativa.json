@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "tipo": "Projeto de Lei",
+  "numero": "614",
+  "id": "315021",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-03-12",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2025-06-02",
+    "DataInicioleg": "2024-03-26",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a45784e6a6b305a546b744e5467355a5330304f5749354c54686a4d7a67744d6a52684e4445344e57466d4f4449794c6e426b5a673d3d&fich=211694e9-589e-49b9-8c38-24a4185af822.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "2114",
+        "nome": "Emídio Guerreiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7345",
+        "nome": "Pedro dos Santos Frazão"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7331",
+        "nome": "Rui Rocha"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "817",
+        "nome": "Alfredo Maia"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "7337",
+        "nome": "Rui Tavares"
+      }
+    ],
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "315021",
+    "IniLeg": "XVI",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a677a5a5449795a6a63744d32597a4e6930304d6a6b784c574a6d4d4755744f5468684f4755324e6a51324d6a417a4c6d527659773d3d&fich=c83e22f7-3f36-4291-bf0e-98a8e6646203.doc&Inline=true",
+    "IniNr": "614",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Segunda alteração à Lei n.º 23/2011, de 20 de maio",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
