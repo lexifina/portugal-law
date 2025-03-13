@@ -1,0 +1,45 @@
+Portaria n.º 98/2025/1
+de 12 de março
+O Decreto-Lei n.º 45/2017, de 27 de abril, que transpôs para a ordem jurídica nacional a Diretiva 2014/32/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, alterada pela Diretiva Delegada (UE) 2015/13, da Comissão, de 31 de outubro de 2014, fixa os requisitos essenciais a que deve obedecer o fabrico e comercialização de «contadores de água», «contadores de gás e instrumentos de conversão de volume», «contadores de energia elétrica ativa», «contadores de energia térmica», «sistemas de medição contínua e dinâmica de quantidades de líquidos com exclusão da água», «instrumentos de pesagem automáticos», «taxímetros», «medidas materializadas», «instrumentos de medição de dimensões» e «analisadores de gases de escape», novos ou em segunda mão, aplicando-se a todas as formas de fornecimento daqueles instrumentos, incluindo a venda à distância.
+Nos termos do disposto no artigo 41.º do identificado decreto-lei, aos instrumentos de medição por ele abrangidos são aplicáveis, após colocação em serviço, as disposições do Decreto-Lei n.º 291/90, de 20 de setembro, que estabelece o regime de controlo metrológico de métodos e instrumentos de medição, da Portaria n.º 962/90, de 9 de outubro, que aprova o regulamento geral do controlo metrológico, bem como as disposições previstas no regulamento específico do controlo metrológico legal dos instrumentos de medição, aprovado pela Portaria n.º 321/2019, de 19 de setembro.
+Sucede que, com a entrada em vigor do Decreto-Lei n.º 29/2022, de 7 de abril, foi aprovado o novo regime geral do controlo metrológico legal dos métodos e dos instrumentos de medição que revogou o Decreto-Lei n.º 291/90, de 20 de setembro, tornando necessário adaptar a regulamentação específica a que deve obedecer o controlo metrológico legal dos instrumentos de medição atrás referidos.
+A presente portaria procede, assim, à primeira alteração ao regulamento aprovado pela Portaria n.º 321/2019, de 19 de setembro, atualizando as referências legais efetuadas ao novo regime geral do controlo metrológico legal e adaptando as regras aplicáveis às verificações metrológicas dos sistemas de medição contínua e dinâmica de quantidades de líquidos com exclusão da água às especificidades do Gás Natural Veicular, em particular do Gás Natural Liquefeito e do Hidrogénio, enquanto líquidos criogénicos. Com efeito, o uso destes combustíveis acolhe importância estratégica crescente no sentido de atingir as metas climáticas definidas, nomeadamente para a redução das emissões de gases com efeito de estufa e para a neutralidade carbónica, pelo que, face à função dos sistemas de medição contínua e dinâmica de quantidades destes combustíveis, nomeadamente no abastecimento de veículos motorizados, cuja rede se encontra em expansão, importa assegurar que tal desígnio é tido em consideração na adaptação da regulamentação específica aplicável.
+Assim:
+Ao abrigo do disposto na alínea a) do artigo 2.º e no n.º 1 do artigo 25.º do Decreto-Lei n.º 29/2022, de 7 de abril, conjugados com o disposto no n.º 4 do artigo 1.º do Regulamento anexo à Portaria n.º 211/2022, de 23 de agosto, e bem assim ao abrigo dos poderes delegados através do disposto na alínea f) do n.º 1 do Despacho n.º 12082/2024, de 7 de outubro, do Ministro da Economia, publicado no Diário da República, 2.ª série, n.º 199, de 14 de outubro de 2024, manda o Governo, pelo Secretário de Estado da Economia, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria procede à primeira alteração ao Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição aprovado em anexo à Portaria n.º 321/2019, de 19 de setembro.
+Artigo 2.º
+Alteração ao Regulamento aprovado em anexo à Portaria n.º 321/2019, de 19 de setembro
+São alterados os artigos 4.º, 5.º, 7.º e 9.º do Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição aprovado em anexo à Portaria n.º 321/2019, de 19 de setembro, que, pela presente, passam a ter a seguinte redação:
+«Artigo 4.º
+[...]
+1 - O controlo metrológico legal dos instrumentos de medição compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), sem prejuízo do disposto no n.º 1 do artigo 13.º do Decreto-Lei n.º 29/2022, de 7 de abril.
+2 - [...]
+Artigo 5.º
+[...]
+1 - [...]
+a) [...]
+b) No caso dos sistemas de medição contínua e dinâmica de quantidades de líquidos com exclusão da água, o controlo em serviço aplica-se apenas aos sistemas de medição identificados no Quadro 5 do IM - 005 do anexo ii ao Decreto-Lei n.º 45/2017, de 27 de abril, para as classes de exatidão 0,5 e 1,0, bem como para a classe de exatidão 2,5 no caso de se tratar de quantidades de Gás Natural Liquefeito e de Hidrogénio, quando utilizados para o cálculo de impostos e taxas ou na venda direta;
+c) [...]
+2 - [...]
+Artigo 7.º
+[...]
+1 - A verificação periódica tem uma periodicidade anual e é válida durante um ano após a sua realização, salvo no caso dos contadores de água, dos contadores de gás e instrumentos de conversão de volume e dos contadores de energia elétrica ativa, cuja periodicidade é a indicada no quadro 1, constante do anexo ao presente Regulamento e que dele faz parte integrante, e é válida durante o prazo aí designado após a sua última realização.
+2 - [...]
+Artigo 9.º
+[...]
+1 - [...]
+2 - [...]
+a) [...]
+b) [...]
+3 - [...]
+a) [...]
+b) [...]
+4 - Para efeitos do n.º 1, a primeira verificação dos instrumentos de sistemas de medição contínua e dinâmica de quantidades de líquidos com exclusão da água, identificados no quadro 5 do IM - 005 do anexo ii ao Decreto-Lei n.º 45/2017, de 27 de abril, com a classe 2,5, em uso, deve ser requerida, pelos utilizadores, ao IPQ, I. P., ou a entidade por este designada, no prazo de 180 dias a partir da data da entrada em vigor deste diploma.
+5 - (Anterior n.º 4.)»
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 20 de fevereiro de 2025.
+118792409
