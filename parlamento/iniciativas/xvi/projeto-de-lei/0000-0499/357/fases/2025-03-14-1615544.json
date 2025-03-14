@@ -1,0 +1,934 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XsKaxCgurJ%2bVr685e0gIw1bNv31%2f9wjffKyhNtPoSCDgxtMhL3G9P%2bPYCJ3XCmT14tFZhrS1yxMrJahc%2fsS3ELJl5jMTnTy6%2fbXqXMaz4Rii%2b%2f0%2bjo5QuNUTHGtuBJEhx5PXa%2byErektXqSBejfCyb7%2bfHB0dO8yjs8ODROrRxvd71TFu0MOFsAqef%2fvYh21TdFgW2Ix2If4w%2bW%2fbxdRtI%2bbk2pzxSoahUB9MsPRW8QM8wcRQ%2fjBe9mmLG0SzWM0HHRdpYMoOyGC2CGJOe8sEZooEsucjL1U%2fLTy4pSUCsg2RBcB5Y3JOykpGUFhlPNHsqra94LsOqZDWmVxPWCO5C%2frNeLJwqk0Wasdn1fOz6vYQxzX7DsvlQOz55owRDWM&fich=IniciativasXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "96591ac610317dfcab1b49c9b88ddd2b717f103f4e62f3de70807db224728a69",
+  "legislatura": "XVI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "357",
+    "id": "304346",
+    "titulo": "Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança"
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2025-03-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61274",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a45775a444e6c4d3249744e44677a596930304d4752694c546735597a6b744e6a59795a6a41314e7a67304f44566d4c6d52765933673d&fich=f10d3e3b-483b-40db-89c9-662f0578485f.docx&Inline=true",
+        "anexoNome": "Requerimento PS, CH, IL, BE, L e PAN"
+      }
+    ],
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2025-03-14",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": [
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "273948",
+        "leg": "XVI",
+        "nr": "214",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304338",
+        "leg": "XVI",
+        "nr": "353",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304347",
+        "leg": "XVI",
+        "nr": "358",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "304353",
+        "leg": "XVI",
+        "nr": "360",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56705",
+            "obs": null,
+            "pag": [
+              "37-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-03-15",
+            "pubLeg": "XVI",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-40&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-03-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7369",
+                "nome": "Vanessa Barata"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:57",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/102/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção; Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea; Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança; Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento; Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:57",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/102/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466625",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção; Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea; Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança; Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento; Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:57",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/102/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466626",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção; Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea; Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança; Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento; Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:57",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/102/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção; Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea; Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança; Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento; Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:57",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/102/52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção; Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea; Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança; Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento; Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:57",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/102/53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção; Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea; Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança; Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento; Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7973",
+                "nome": "Mariana Leitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:57",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/102/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção; Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea; Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança; Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento; Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4396",
+                "nome": "Andreia Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:57",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/102/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção; Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea; Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança; Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento; Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:57",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/102/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Possibilidade da Família de Acolhimento ser Candidata à Adoção; Altera os requisitos e os impedimentos para a candidatura a família de acolhimento e alarga os apoios concedidos ao abrigo da medida de apoio junto de outro familiar e de confiança a pessoa idónea; Prevê a possibilidade de uma família candidata a acolhimento familiar ser candidata a adopção em respeito pelo superior interesse da criança; Altera o Regime Jurídico do DL n.º 139/2019 de forma a incluir e priorizar nos processos de adopção as Famílias de acolhimento; Possibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1615544",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1021550",
+        "obs": null,
+        "pag": [
+          "37-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-15",
+        "pubLeg": "XVI",
+        "pubNr": "102",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/102/2025-03-15/37?pgs=37&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2025-03-14",
+        "descricao": "Requerimento, apresentado pelo PS, CH, IL, BE, L e PAN de avocação pelo Plenário da votação na especialidade dos Projetos de Lei n.º 214/XVI/1.ª (IL); n.º 353/XVI/1.ª (BE); n.º 357/XVI/1.ª (PAN); n.º 358/XVI/1.ª (CH); n.º 360/XVI/1.ª (L)",
+        "detalhe": "A Favor: <I>PS</I>, <I> CH</I>, <I> IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>, <I> PAN</I><BR>Contra:<I>PSD</I>",
+        "id": "138821",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "101",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
