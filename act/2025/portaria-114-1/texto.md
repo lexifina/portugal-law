@@ -1,0 +1,29 @@
+Portaria n.º 114/2025/1
+de 14 de março
+O Decreto-Lei n.º 96/89, de 28 de março, criou o Registo Internacional de Navios da Madeira, abreviadamente designado por MAR, incumbindo-lhe, em especial, o registo de todos os atos e contratos referentes aos navios a ele sujeitos e o controlo dos requisitos de segurança exigidos pelas convenções internacionais aplicáveis.
+A Portaria n.º 715/89, de 23 de agosto, veio aprovar o regulamento de diversas matérias inerentes e necessárias ao cabal desempenho das funções do MAR.
+No sentido de garantir a simplificação de procedimentos para o registo de navios no MAR, mas ainda assim continuar a garantir a sua conformidade com os instrumentos legais relevantes, proteger os interesses e segurança da bandeira, e tendo por base outros registos internacionais de referência, verifica-se a necessidade de proceder à alteração do regulamento aprovado pela Portaria n.º 715/89, de 23 de agosto.
+Assim, ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 96/89, de 28 de março, na alínea f) do n.º 3 e do n.º 5 do artigo 23.º do Decreto-Lei n.º 32/2024, de 10 de maio, e ao abrigo da competência delegada nas alíneas b) e n) do n.º 1, do ponto III do Despacho n.º 12082/2024, de 14 de outubro, todos nas suas redações atuais, manda o Governo, pela Secretária de Estado do Mar, o seguinte:
+Artigo 1.º
+Objeto
+1 - A presente portaria procede à terceira alteração do regulamento anexo à Portaria n.º 715/89, de 23 de agosto, que dispõe sobre diversas matérias inerentes e necessárias ao Registo Internacional de Navios da Madeira (MAR), criado na Zona Franca da Região Autónoma da Madeira pelo Decreto-Lei n.º 96/89, de 28 de março, na sua redação atual.
+2 - As referências feitas à Inspeção-Geral de Navios (IGN), no Regulamento referido no número anterior, devem ler-se como feitas à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM).
+Artigo 2.º
+Alteração ao regulamento anexo à Portaria n.º 715/89, de 23 de agosto
+Os artigos 4.º e 5.º do regulamento anexo à Portaria n.º 715/89, de 23 de agosto, na sua redação atual, passam a ter a seguinte redação:
+«Artigo 4.º
+1 - Para o registo no MAR será necessário apresentar o relatório de vistoria inicial de registo, feito por perito a indicar pela DGRM ou por ela reconhecido ou por perito de sociedade de classificação reconhecida em Portugal, no caso de o navio estar nela classificado, em modelo previsto no acordo celebrado entre a DGRM e as organizações reconhecidas ou, caso não esteja ainda previsto nesse acordo, em modelo aprovado pela DGRM.
+2 - Esta vistoria tem por finalidade verificar a conformidade do navio com o disposto nas convenções internacionais e na legislação europeia vigentes no ordenamento jurídico português.
+3 - Será necessária a realização da vistoria prevista no n.º 1, para o navio proposto e aceite para registo pela comissão técnica do MAR, sempre que se enquadre em pelo menos uma das seguintes situações:
+a) Efetuou no último ano, ou pretende efetuar em simultâneo com a mudança de bandeira, alteração de classificação, proveniente de uma sociedade de classificação não reconhecida pela Administração Marítima Portuguesa;
+b) A idade do navio excede o patamar base do intervalo de idades, definido no critério de extensão de idades, em conformidade com os critérios de elegibilidade definidos pela comissão técnica do MAR, por cada tipologia de navio;
+c) Por determinação da comissão técnica do MAR, em situações excecionais e devidamente fundamentadas, sempre que estejam em causa o desempenho da companhia, o histórico e a condição do navio no que respeita à certificação de classe e certificação estatutária.
+4 - Nas situações não abrangidas pelo número anterior, o relatório de vistoria inicial de registo, referido no n.º 1, pode ser substituído por declaração de conformidade, emitida pelas organizações reconhecidas, com acordo celebrado com a DGRM, em modelo previsto no mesmo, ou, caso não esteja ainda previsto nesse acordo, em modelo aprovado pela DGRM.
+5 - Após o registo do navio, no caso daquele ter sido alvo de vistoria inicial referida no n.º 1 ou de declaração de conformidade emitida pela sociedade de classificação, referida no n.º 4, as anomalias, limitações, condições pendentes, isenções e equivalências identificadas na declaração são tratadas no âmbito da certificação estatutária do navio, que ocorre imediatamente após o registo.
+Artigo 5.º
+Para o registo no MAR, um navio pode encontrar-se surto em qualquer porto nacional ou estrangeiro onde possa ser feita a vistoria inicial para o registo, quando haja lugar à realização da mesma.»
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+A Secretária de Estado do Mar, Lídia Maria Bulcão Rosa da Silveira Dutra, em 11 de março de 2025.
+118799579
