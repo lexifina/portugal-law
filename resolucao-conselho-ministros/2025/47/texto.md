@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 47/2025
+
+A Lei n.º 67/2003, de 23 de agosto, veio estabelecer o regime de concessão de proteção temporária no caso de afluxo maciço de pessoas deslocadas de países terceiros, impossibilitadas de regressar, em curto prazo, ao seu país de origem, transpondo para a ordem jurídica interna a Diretiva n.º 2001/55/CE, do Conselho, de 20 de julho.
+A proteção temporária permite conceder uma proteção imediata e acesso a um conjunto harmonizado de direitos, numa situação de afluxo maciço de pessoas para a União Europeia.
+A 4 de março de 2022, a proteção temporária foi ativada pelo Conselho da União Europeia através da Decisão de Execução (UE) 2022/382, em consequência da guerra vivida na Ucrânia após a invasão russa do seu território, tendo sido declarada a existência de um afluxo maciço de pessoas deslocadas da Ucrânia na aceção do disposto na Diretiva 2001/55/CE, que teve por efeito aplicar o regime da proteção temporária aos cidadãos deslocados da Ucrânia.
+Nesta circunstância, tendo concluído que o elevado número de pessoas deslocadas na União que beneficiam de proteção temporária não deverá diminuir enquanto durar a guerra contra a Ucrânia, e que subsistem as razões para renovar a mencionada proteção temporária, o Conselho da União Europeia aprovou, através da Decisão de Execução (UE) 2024/1836, de 25 de junho de 2024, a prorrogação da proteção temporária introduzida pela Decisão de Execução (UE) 2022/382, até março de 2026.
+Paralelamente, através da aprovação da Resolução do Conselho de Ministros n.º 29-A/2022, de 1 de março, que tem por base a Lei n.º 67/2003, de 23 de agosto, Portugal definiu os critérios e o procedimento de atribuição automática de proteção temporária aos cidadãos nacionais da Ucrânia e seus familiares, pelo período de um ano, bem como dos números de segurança social, de identificação fiscal e de utente do Serviço Nacional de Saúde.
+Uma vez esgotadas as possibilidades legais de prorrogação deste regime ao nível nacional, tendo em conta os termos da Lei n.º 67/2003, de 23 de agosto, na redação dada pelo Decreto-Lei n.º 41/2023, de 2 de junho, tornou-se necessário alterar este diploma, por intermédio da Lei n.º 20-A/2025, de 26 de fevereiro, para permitir o cumprimento da Decisão de Execução (UE) 2024/1836, do Conselho, de 25 de junho de 2024.
+Nestes termos, e uma vez realizada a alteração legislativa referida, é agora necessário proceder a nova prorrogação da validade dos títulos de proteção temporária concedidos pelo Estado português às pessoas deslocadas da Ucrânia.
+Assim:
+Nos termos do n.º 2 do artigo 7.º da Lei n.º 67/2003, de 23 de agosto, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Prorrogar a validade dos títulos de proteção temporária concedidos ao abrigo da Resolução do Conselho de Ministros n.º 29-A/2022, de 1 de março, na sua redação atual, até 4 de março de 2026.
+2 - Estabelecer que a presente resolução produz efeitos a 1 de março de 2025.
+Presidência do Conselho de Ministros, 7 de março de 2025. - O Primeiro-Ministro, Luís Montenegro.
+118813339
