@@ -1,0 +1,7 @@
+Edital n.º 498/2025
+
+José Alexandre Silva Almeida, Presidente da Câmara Municipal de Paredes, torna público que, em reunião ordinária realizada no dia seis de março de dois mil e vinte e cinco, o Executivo Municipal, deliberou, aprovar a proposta de projeto de revisão do Regulamento de Urbanização e Edificação.
+Nos termos do artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, a proposta do projeto de revisão é submetido a consulta pública pelo prazo de 30 dias e de acordo com a informação técnica a ter inicio no quinto dia após a publicação deste edital na 2.ª série do Diário da República e na Internet no sítio institucional da Câmara Municipal.
+Durante este período, o projeto de regulamento e demais elementos complementares serão disponibilizados junto da Divisão de Gestão Urbanística - DGU (Atendimento ao Público), desta Câmara Municipal, nas horas de expediente, desde as 9 horas às 12h30 m e das 14 horas às 16h30 m, e encontra-se também disponível para consulta na página da internet do Município (www.cm-paredes.pt), podendo, ainda, os interessados apresentar os seus comentários, as observações, os pedidos de esclarecimento e as sugestões que possam ser consideradas no âmbito do respetivo processo, presencialmente junto do Atendimento ao Público da DGU, via correio eletrónico para urbanismo@cm-paredes.pt, via correio físico para a morada: Divisão Gestão Urbanística - Câmara Municipal, Parque José Guilherme, 4580-229 Paredes.
+10 de março de 2025. - O Presidente da Câmara, Alexandre Almeida, Dr.
+318791478
