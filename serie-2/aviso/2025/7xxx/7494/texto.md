@@ -1,0 +1,6 @@
+Aviso n.º 7494/2025/2
+
+Dr. João Germano Mourato Leal Pinto, Presidente da Câmara Municipal de Mêda, ao abrigo das disposições previstas na alínea g) do n.º 1 do artigo 25.º e da alínea k), do n.º 1 do artigo 33.º, ambas do Anexo I da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, conjugadas com os artigos 146.º e 139.º, ambos do Código do Procedimento Administrativo, torna público que a Câmara Municipal de Meda, em sua Deliberação tomada em reunião extraordinária de 20/02/2025, e a Assembleia Municipal de Mêda, por sua Deliberação tomada em sessão ordinária de 28/02/2025, aprovaram a Revogação do Regulamento para Atribuição de Lotes, sitos na Área de Acolhimento Empresarial de Mêda, publicado pelo Aviso n.º 162 no Diário da República, 2.ª série, datado de 22/08/2024, o qual tinha sido aprovado pela Assembleia Municipal de Mêda em sua Sessão de 28 de junho de 2024, por não se encontrar no presente adequado nem compaginável com os seus objetivos e resultados pretendidos, o qual será substituído por novo Regulamento.
+A revogação do presente Regulamento n.º 956/2024 deverá produzir efeitos imediatos, à data da deliberação tomada pela Assembleia Municipal de Mêda.
+5 de março de 2025. - O Presidente da Câmara Municipal, Dr. João Germano Mourato Leal Pinto.
+318785987
