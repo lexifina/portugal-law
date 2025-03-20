@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Informação para comparação na contratação de seguro
-
 # Artigo 79.º-A
 
 ### Ferramentas independentes de comparação
