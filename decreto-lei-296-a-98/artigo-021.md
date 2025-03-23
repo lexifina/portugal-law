@@ -6,7 +6,7 @@
 
 a) A fixação do elenco e subelencos de provas e dos cursos integrados em cada área de organização dos subelencos;
 
-b) A concessão da autorização a que se refere o n.º 5 do artigo 20.º;
+b) [Revogada.];
 
 c) As condições de utilização dos exames a que se refere o artigo 19.º;
 
