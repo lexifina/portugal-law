@@ -4,12 +4,22 @@
 
 1 - O Fundo de Garantia Automóvel garante, nos termos do n.º 1 do artigo anterior, e até ao valor do capital mínimo do seguro obrigatório de responsabilidade civil automóvel, a satisfação das indemnizações por:
 
-a) Danos corporais, quando o responsável seja desconhecido ou não beneficie de seguro válido e eficaz, ou for declarada a insolvência da empresa de seguros;
+a) Danos corporais, quando causados por veículo não identificado ou em relação ao qual não haja seguro válido e eficaz;
 
-b) Danos materiais, quando o responsável, sendo conhecido, não beneficie de seguro válido e eficaz;
+b) Danos materiais, quando causados por veículo em relação ao qual não haja seguro válido e eficaz;
 
-c) Danos materiais, quando, sendo o responsável desconhecido, deva o Fundo satisfazer uma indemnização por danos corporais significativos, ou tenha o veículo causador do acidente sido abandonado no local do acidente, não beneficiando de seguro válido e eficaz, e a autoridade policial haja efectuado o respectivo auto de notícia, confirmando a presença do veículo no local do acidente.
+c) Danos materiais, quando, sendo causados por veículo não identificado, exista, em simultâneo, direito a uma indemnização por danos corporais significativos;
 
-2 - Para os efeitos previstos na primeira parte da alínea c) do número anterior, consideram-se danos corporais significativos a lesão corporal que determine morte ou internamento hospitalar igual ou superior a sete dias, ou incapacidade temporária absoluta por período igual ou superior a 60 dias, ou incapacidade parcial permanente igual ou superior a 15 %.
+d) Danos corporais e materiais, quando causados por veículo objeto de seguro por empresa de seguros sujeita a um processo de insolvência ou de liquidação.
 
-3 - Para os efeitos previstos na segunda parte da alínea c) do n.º 1, considera-se aplicável ao veículo abandonado a exclusão prevista na alínea a) do n.º 4 do artigo 14.º
+2 - Para efeitos do disposto na alínea c) do número anterior, consideram-se danos corporais significativos a lesão corporal que determine:
+
+a) Morte ou internamento hospitalar igual ou superior a sete dias; ou
+
+b) Incapacidade temporária absoluta por período igual ou superior a 60 dias; ou
+
+c) Incapacidade parcial permanente igual ou superior a 15 %.
+
+3 - (Revogado.)
+
+4 - O Fundo de Garantia Automóvel não pode subordinar o pagamento da indemnização a condições diferentes das estabelecidas no presente capítulo, nomeadamente a prova, pelo lesado, por qualquer meio, de que a pessoa responsável não pode ou não quer pagar a indemnização.

@@ -1,6 +1,10 @@
 ## Título IV
 
-## Informação para a regularização de sinistros automóvel
+## Informação sobre seguro automóvel
+
+## Capítulo I
+
+## Informação para fiscalização do cumprimento da obrigação de seguro e para a regularização de sinistros
 
 # Artigo 76.º
 

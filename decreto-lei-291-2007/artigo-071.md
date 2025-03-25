@@ -6,7 +6,7 @@
 
 2 - Assim que receba um pedido de indemnização, o Fundo de Garantia Automóvel informa imediatamente do mesmo, bem como de que vai responder-lhe no prazo previsto no número anterior, a empresa de seguros do veículo cuja utilização causou o acidente ou o seu representante para sinistros, o organismo de indemnização do Estado membro do estabelecimento da empresa de seguros que efectuou o contrato de seguro e, bem assim, caso seja conhecida, a pessoa que causou o acidente.
 
-3 - O Fundo de Garantia Automóvel não pode subordinar o pagamento da indemnização a condições diferentes das estabelecidas no presente título, nomeadamente à de a vítima provar, por qualquer meio, que a pessoa responsável não pode ou não quer pagar.
+3 - O Fundo de Garantia Automóvel não pode subordinar o pagamento da indemnização a condições diferentes das estabelecidas no presente título, nomeadamente a prova, pelo lesado, por qualquer meio, de que a pessoa responsável não pode ou não quer pagar a indemnização.
 
 4 - A intervenção do Fundo de Garantia Automóvel nos termos do presente artigo é subsidiária da obrigação da empresa de seguros, pelo que, designadamente, depende do não cumprimento pela empresa de seguros ou pelo civilmente responsável.
 

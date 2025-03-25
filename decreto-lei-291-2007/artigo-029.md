@@ -35,3 +35,5 @@ d) (Revogada.)
 12 - Os documentos emitidos através de meios eletrónicos nos termos do número anterior substituem o certificado de seguro em papel para os efeitos do disposto na alínea c) do n.º 1 do artigo 85.º do Código da Estrada, aprovado em anexo ao Decreto-Lei n.º 114/94, de 3 de maio, aplicando-se, com as necessárias adaptações, o disposto no n.º 5 do mesmo artigo.
 
 13 - A Autoridade de Supervisão de Seguros e Fundos de Pensões pode estabelecer, em norma regulamentar, as regras que sejam necessárias à operacionalização do disposto nos números anteriores.
+
+14 - O disposto no n.º 12 é aplicável aos documentos comprovativos do seguro referidos nas alíneas b) a d) do n.º 1 do artigo anterior, se emitidos nos termos do ordenamento jurídico respetivo.
