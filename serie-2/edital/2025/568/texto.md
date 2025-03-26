@@ -1,0 +1,8 @@
+Edital n.º 568/2025
+
+Proposta de Regulamento das Creches Municipais do Município de Ponte de Lima
+Eng.º Vasco Nuno Magalhães Velho de Almeida Ferraz, na Qualidade de Presidente da Câmara Municipal de Ponte de Lima: Faz Público Que, nos termos e para os efeitos do artigo 101.º do Código de Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, a Câmara Municipal na reunião de 11 de março de 2025, deliberou aprovar e submeter a Proposta de Regulamento das Creches Municipais do Município de Ponte de Lima, a consulta pública, para a recolha de sugestões, mediante publicação do mesmo, no sítio institucional do Município, na lnternet em www.cm-pontedelima.pt, podendo o documento ser consultado no edifício da Câmara Municipal de Ponte de Lima, no Gabinete de Atendimento ao Munícipe, nos dias úteis entre as 9h00 m e as 16h00 m, e na página da Internet da Câmara Municipal de Ponte de Lima (www.cm-pontedelima.pt).
+Assim, nos termos do n.º 2 do artigo 101.º do CPA, os interessados devem dirigir por escrito as suas sugestões à Câmara Municipal, no prazo de 30 dias, a contar da data da sobredita publicação, através do correio eletrónico geral@cm-pontedelima.pt ou para o seguinte endereço: Município de Ponte de Lima, Praça da República, 4990-062 Ponte de Lima, ou, ainda, mediante entrega das mesmas diretamente no Gabinete de Atendimento ao Munícipe no Edifício dos Paços do Concelho.
+Para constar e devidos efeitos se lavrou o presente edital e outros de igual teor que vão ser afixados nos lugares de estilo, publicado no Diário da República e será objeto de divulgação na página eletrónica do Município.
+17 de março de 2025. - O Presidente da Câmara Municipal de Ponte de Lima, Vasco Ferraz, eng.º
+318829823
