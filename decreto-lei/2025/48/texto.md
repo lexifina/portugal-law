@@ -1,0 +1,44 @@
+Decreto-Lei n.º 48/2025
+de 27 de março
+Uma das metas do programa do XXIV Governo Constitucional é incrementar o acesso aos cuidados domiciliários enquanto estratégia para proporcionar às pessoas com dependência no autocuidado, viver, o mais tempo possível, nos seus contextos familiares.
+Através do Decreto-Lei n.º 101/2006, de 6 de junho, alterado pelo Decreto-Lei n.º 136/2015, de 28 de junho, pela Lei n.º 114/2017, de 29 de dezembro, e pelo Decreto-Lei n.º 116/2021, de 15 de dezembro, foi criada a Rede Nacional de Cuidados Continuados Integrados (RNCCI), cujo um dos objetivos específicos é a manutenção das pessoas com perda de funcionalidade ou em risco de a perder, no domicílio, sempre que mediante o apoio domiciliário possam ser garantidos os cuidados terapêuticos e o apoio social necessários à provisão e manutenção de conforto e qualidade de vida.
+O progressivo envelhecimento da população determina um crescimento das necessidades, em cuidados de saúde e sociais, associadas à dependência no autocuidado, que desafia a RNCCI a evoluir, para dar resposta adequada e ajustada à condição que caracteriza o envelhecimento.
+Nesse sentido, o processo de desinstitucionalização torna-se imprescindível para se alcançar o máximo de independência no autocuidado, dignidade e qualidade de vida da população.
+Ao longo dos últimos anos, esta tipologia tem diminuído a sua resposta por falta de recursos humanos, justificada pela ausência de capacidade de atrair e captar profissionais de saúde para integrar estas equipas. Esta situação tem levado ao incremento do número de cidadãos em lista de espera para admissão nesta tipologia da RNCCI.
+Neste sentido, torna-se necessário melhorar o desempenho das Equipas de Cuidados Continuados Integrados (ECCI), enquanto tipologia da RNCCI, de forma a serem capazes de assegurar a completude assistencial face às necessidades identificadas, aumentar o bem-estar dos utentes e dos cuidadores informais, quando um membro da família apresenta uma dependência no autocuidado.
+Nestes termos, o presente diploma vem estabelecer um regime remuneratório para os enfermeiros das ECCI, adequado à natureza e especificidade das atividades por eles desenvolvidas.
+A mudança agora proposta será objeto de projetos-piloto, a implementar no âmbito das ECCI, promovendo a complementaridade entre os serviços e tendo por base uma abordagem global das necessidades dos utentes e respetivos cuidadores informais.
+Foram ouvidas as estruturas representativas dos trabalhadores enfermeiros.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente decreto-lei estabelece o regime de incentivos a atribuir a enfermeiros que integrem as Equipas de Cuidados Continuados Integrados (ECCI), das Unidades de Cuidados na Comunidade (UCC).
+Artigo 2.º
+Âmbito de aplicação
+O presente decreto-lei aplica-se aos trabalhadores detentores das categorias de enfermeiro e de enfermeiro especialista, das carreiras de enfermagem, das ECCI, integradas nas UCC, que prestem cuidados de saúde domiciliários no âmbito da Rede Nacional de Cuidados Continuados Integrados (RNCCI).
+Artigo 3.º
+Articulação das ECCI
+1 - A assistência aos utentes das ECCI e respetivos cuidadores informais resulta de um plano de cuidados individual, numa perspetiva multiprofissional, que inclui o apoio social.
+2 - No âmbito da sua autonomia, cada ULS promove a articulação das ECCI com os restantes serviços.
+3 - Para efeitos do número anterior a articulação pode abranger:
+a) O desenvolvimento de protocolos de atuação focados nas situações patológicas, a definir em articulação com os serviços envolvidos;
+b) Introdução de tecnologias facilitadoras de comunicação, em tempo real, entre os enfermeiros das ECCI nos domicílios, os médicos de família e outros serviços que se sejam relevantes.
+Artigo 4.º
+Regime de incentivos
+1 - O regime de incentivos a que se refere o presente decreto-lei assenta em indicadores de desempenho das equipas multiprofissionais de cuidados continuados integrados, designadamente: satisfação dos utentes; satisfação dos cuidadores; saúde e bem-estar dos utentes, proporção de utentes com internamento hospitalar.
+2 - O desenvolvimento do regime de incentivos e respetivos indicadores de desempenho previsto no número anterior, bem como o respetivo montante a atribuir aos trabalhadores enfermeiros, serão definidos em portaria a aprovar pelos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da saúde.
+Artigo 5.º
+Projetos-piloto
+1 - Sem prejuízo do disposto no artigo anterior, e ao abrigo do presente decreto-lei podem ser constituídos projetos-piloto no âmbito das ECCI.
+2 - Os projetos referidos no número anterior serão monitorizados por equipas de acompanhamento e avaliação, constituídas por representantes das diversas entidades envolvidas no projeto-piloto.
+3 - Compete à equipa de acompanhamento e avaliação, nomeadamente:
+a) Monitorizar e avaliar a implementação e execução dos projetos-piloto;
+b) Elaborar um relatório final de avaliação e conclusões, incluindo recomendações e propostas concretas que deve ser remetido aos membros do Governo responsáveis pelas áreas da saúde e segurança social.
+Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Ana Paula Martins.
+Promulgado em 19 de março de 2025.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 20 de março de 2025.
+O Primeiro-Ministro, Luís Montenegro.
+118862563
