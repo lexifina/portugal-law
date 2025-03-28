@@ -2,9 +2,9 @@
 
 ### Suplemento de condição de bombeiro sapador
 
-1 - Os bombeiros profissionais têm direito ao suplemento de condição de bombeiro sapador, independentemente do tipo de funções que exercem, pago em 12 meses, que visa cobrir o risco, a insalubridade, a penosidade e a prontidão de comparência inerentes ao exercício de funções.
+1 - Os bombeiros profissionais têm direito ao suplemento de condição de bombeiro sapador, pago em 12 meses, que visa cobrir o risco, a insalubridade, a penosidade e a prontidão de comparência inerentes ao exercício de funções.
 
-2 - Nas categorias de bombeiro sapador, incluindo na fase da recruta, durante o período experimental, no período de formação prática, subchefe de 2.ª classe, subchefe de 1.ª classe e de subchefe principal, o suplemento é atribuído com o seguinte faseamento:
+2 - Nas categorias de bombeiro sapador, de subchefe de 2.ª classe, de subchefe de 1.ª classe e de subchefe principal, o suplemento será atribuído com o seguinte faseamento:
 
 a) A partir de 1 de janeiro de 2025 corresponde a 10 % da remuneração base da respetiva categoria;
 
@@ -36,7 +36,7 @@ d) Prontidão de comparência para prestação de trabalho de carácter obrigat�
 
 5 - A prontidão de comparência não pode ser utilizada para colmatar faltas de efetivos, devendo reportar-se apenas às seguintes funções:
 
-a) O combate a incêndios;
+a) O combate a incêndios e ações de vigilância;
 
 b) O socorro às populações em caso de incêndios, inundações, desabamentos, abalroamentos e em todos os acidentes, catástrofes ou calamidades;
 
