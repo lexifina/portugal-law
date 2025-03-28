@@ -1,0 +1,7 @@
+Aviso n.º 8381/2025/2
+
+Projeto de Regulamento de Concessão de Benefícios Sociais aos Bombeiros Voluntários de Mortágua - Consulta Pública
+Ricardo Sérgio Pardal Marques, Presidente da Câmara Municipal de Mortágua torna público, que nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na redação atual, foi deliberado na Reunião da Câmara Municipal de Mortágua submeter a consulta pública o Regulamento de Concessão de Benefícios Sociais aos Bombeiros Voluntários de Mortágua durante o prazo de 30 dias, a contar da data de publicação do presente aviso no Diário da República, podendo o mesmo ser consultado nos serviços da Divisão de Administração Geral e Finanças, sitos na Rua Dr. João Lopes de Morais, 3450-153 Mortágua, durante o horário normal de expediente ou na página eletrónica do Município em www.cm-mortagua.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme o disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, dirigidas ao Presidente da Câmara Municipal de Mortágua, Rua Dr. João Lopes de Morais, 3450-153 Mortágua ou através do e-mail mortagua@cm-mortagua.pt.
+4 de setembro de 2024. - O Presidente da Câmara Municipal, Ricardo Sérgio Pardal Marques.
+318825798
