@@ -1,3 +1,7 @@
+Decreto-Lei n.º 147/2003
+
+de 11 de Julho
+
 O regime regulador dos documentos que devem acompanhar as mercadorias em circulação que ora se substitui datava de 1989, sem que até agora tivesse tido qualquer revisão sensível.
 
 A evolução entretanto verificada nos regimes tributários substantivos e, mais recentemente, as profundas modificações operadas no quadro sancionatório das infracções fiscais impunham uma revisão profunda do regime em causa no sentido não apenas de o adequar a tais quadros normativos mas também de actualizar algumas das soluções normativas que ao tempo nele foram acolhidas.
