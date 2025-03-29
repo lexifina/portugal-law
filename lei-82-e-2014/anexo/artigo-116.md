@@ -24,6 +24,10 @@ b) As importâncias recebidas a título de provisão ou a qualquer outro título
 
 c) Os lançamentos devem ser sempre suportados por documentos comprovativos.
 
-5 - Os titulares dos rendimentos referidos nas alíneas h) e i) do n.º 2 do artigo 3.º ficam dispensados do cumprimento das obrigações previstas no n.º 1.
+5 - Ficam dispensados do cumprimento das obrigações previstas no n.º 1:
+
+a) Os titulares dos rendimentos referidos nas alíneas h) e i) do n.º 2 do artigo 3.º;
+
+b) Os titulares de rendimentos da categoria B que sejam sujeitos passivos de IVA enquadrados no regime especial de isenção do artigo 53.º do Código do IVA que, não possuindo nem sendo obrigados a possuir contabilidade organizada, emitam faturas exclusivamente através das aplicações de faturação disponibilizadas pela Autoridade Tributária e Aduaneira.
 
 6 - Os titulares de rendimentos da categoria B que, não sendo obrigados a dispor de contabilidade organizada, possuam, no entanto, um sistema de contabilidade que satisfaça os requisitos adequados ao correto apuramento e fiscalização do imposto podem não efetuar os registos referidos no presente artigo.
