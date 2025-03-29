@@ -10,7 +10,7 @@ b) Transmissões de bens e prestações de serviços que consistam em:
 
 I) Exportações e operações isentas nos termos do artigo 14.º;
 
-II) Operações efectuadas no estrangeiro que seriam tributáveis se fossem efectuadas no território nacional;
+II) Operações efetuadas no estrangeiro que seriam tributadas se fossem efetuadas no território nacional, com exceção das operações isentas ao abrigo do regime de isenção das pequenas empresas;
 
 III) Prestações de serviços cujo valor esteja incluído na base tributável de bens importados, nos termos da alínea b) do n.º 2 do artigo 17.º;
 

@@ -6,7 +6,7 @@
 
 ### Âmbito de aplicação
 
-1 - Sem prejuízo do disposto no n.º 2 do artigo 53.º, os retalhistas que sejam pessoas singulares, não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos do IRS e não tenham tido no ano civil anterior um volume de compras superior a (euro) 50 000, para apurar o imposto devido ao Estado, aplicam um coeficiente de 25 % ao valor do imposto suportado nas aquisições de bens destinados a vendas sem transformação.
+1 - Sem prejuízo do disposto no n.º 1 do artigo 53.º, os retalhistas que sejam pessoas singulares, não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos do IRS e não tenham tido no ano civil anterior um volume de compras superior a (euro) 50 000, para apurar o imposto devido ao Estado, aplicam um coeficiente de 25 % ao valor do imposto suportado nas aquisições de bens destinados a vendas sem transformação.
 
 2 - Ao imposto determinado nos termos do número anterior é deduzido o valor do imposto suportado na aquisição ou locação de bens de investimento e outros bens para uso da própria empresa, salvo tratando-se dos que estejam excluídos do direito à dedução nos termos do n.º 1 do artigo 21.º
 

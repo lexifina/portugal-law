@@ -2,7 +2,7 @@
 
 ### Compensação forfetária
 
-1 - Os sujeitos passivos que optem pelo presente regime beneficiam da isenção de imposto prevista no artigo 53.º, podendo ainda solicitar à Autoridade Tributária e Aduaneira uma compensação calculada sobre o preço, determinado de acordo com as regras previstas no artigo 16.º, dos seguintes bens e serviços:
+1 - Os sujeitos passivos abrangidos pelo n.º 1 do artigo 53.º que optem pelo presente regime beneficiam da isenção de imposto, podendo ainda solicitar à Autoridade Tributária e Aduaneira uma compensação calculada sobre o preço, determinado de acordo com as regras previstas no artigo 16.º, dos seguintes bens e serviços:
 
 a) Produtos agrícolas transmitidos a outros sujeitos passivos que não beneficiem do presente regime ou de regime idêntico no Estado membro onde se encontrem estabelecidos;
 

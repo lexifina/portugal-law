@@ -26,10 +26,10 @@ b) Quando as mercadorias que compõem a unidade de venda sofram alterações da 
 
 5 - Nas prestações de serviços respeitantes a contratos de locação financeira, o imposto é aplicado com a mesma taxa que seria aplicável no caso de transmissão dos bens dados em locação financeira.
 
-6 - A taxa aplicável às prestações de serviços a que se refere a alínea c) do n.º 2 do artigo 4.º é a mesma que seria aplicável no caso de transmissão de bens obtidos após a execução da empreitada.
-
-7 - Sem prejuízo do disposto na verba 2.1. da Lista I anexa ao presente Código, às prestações de serviços por via eletrónica, nomeadamente as descritas no anexo D, aplica-se a taxa referida na alínea c) do n.º 1.
+6 - (Revogado.)
 
 8 - Às importações de bens a que seja aplicável o regime de declaração e pagamento do IVA referido nos n.os 10 e 11 do artigo 28.º, bem como, quando não isentas ao abrigo do artigo 13.º ou de outros diplomas, às importações de mercadorias que sejam objeto de pequenas remessas enviadas a particulares ou que sejam contidas nas bagagens pessoais dos viajantes, sujeitas ao direito aduaneiro forfetário previsto nas disposições preliminares da Pauta Aduaneira Comum, aplica-se a taxa referida na alínea c) do n.º 1, independentemente da sua natureza.
 
 9 - A taxa aplicável é a que vigora no momento em que o imposto se torna exigível.
+
+10 - Às transmissões de objetos de arte e de coleção ou de antiguidades sujeitas ao regime especial de tributação dos bens em segunda mão, objetos de arte, de coleção e antiguidades, aplica-se a taxa referida na alínea c) do n.º 1.

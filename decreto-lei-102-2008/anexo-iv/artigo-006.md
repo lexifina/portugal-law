@@ -38,7 +38,7 @@ c) Prestações de serviços de alimentação e bebidas, que não as referidas n
 
 d) Prestações de serviços de alimentação e bebidas, executadas a bordo de uma embarcação, de uma aeronave ou de um comboio, durante um transporte intracomunitário de passageiros, quando o lugar de partida do transporte ocorra fora do território nacional;
 
-e) Prestações de serviços relativas ao acesso a manifestações de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo o acesso a feiras e exposições, assim como as prestações de serviços acessórias relacionadas com o acesso, que não tenham lugar no território nacional;
+e) Prestações de serviços relativas ao acesso, na forma presencial, a manifestações de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo o acesso a feiras e exposições, assim como as prestações de serviços acessórias relacionadas com o acesso, que não tenham lugar no território nacional;
 
 f) Locação de curta duração de um meio de transporte, quando o lugar da colocação à disposição do destinatário se situe fora do território nacional.
 
@@ -52,7 +52,7 @@ c) Prestações de serviços de alimentação e bebidas, que não as referidas n
 
 d) Prestações de serviços de alimentação e bebidas, executadas a bordo de uma embarcação, de uma aeronave ou de um comboio durante um transporte intracomunitário de passageiros, quando o lugar de partida do transporte ocorra no território nacional;
 
-e) Prestações de serviços relativas ao acesso a manifestações de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo o acesso a feiras e exposições, assim como as prestações de serviços acessórias relacionadas com o acesso, que tenham lugar no território nacional;
+e) Prestações de serviços relativas ao acesso, na forma presencial, a manifestações de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo o acesso a feiras e exposições, assim como as prestações de serviços acessórias relacionadas com o acesso, que tenham lugar no território nacional;
 
 f) Locação de curta duração de um meio de transporte, quando o lugar da colocação à disposição do destinatário se situe no território nacional.
 
@@ -68,11 +68,13 @@ d) Prestações de serviços que consistam em trabalhos efectuados sobre bens m�
 
 e) Prestações de serviços efectuadas por intermediários agindo em nome e por conta de outrem, quando a operação a que se refere a intermediação tenha lugar fora do território nacional.
 
-f) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, não abrangidas pela alínea e) do n.º 7, compreendendo as dos organizadores daquelas actividades e as prestações de serviços que lhes sejam acessórias, que não tenham lugar no território nacional.
+f) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, não abrangidas pela alínea e) do n.º 7, compreendendo as dos organizadores daquelas atividades e as prestações de serviços que lhes sejam acessórias, com exceção das que digam respeito a atividades transmitidas em fluxo contínuo (streaming) ou por outras formas de disponibilização virtual, que não tenham lugar no território nacional;
 
 g) Locação de um meio de transporte, que não seja de curta duração, quando o destinatário for uma pessoa estabelecida ou domiciliada fora do território nacional.
 
 h) Prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica, nomeadamente os descritos no anexo D, quando o destinatário for uma pessoa estabelecida ou domiciliada fora do território nacional.
+
+i) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, compreendendo as dos organizadores daquelas atividades e as prestações de serviços que lhes sejam acessórias, cujo acesso seja virtual ou que digam respeito a atividades transmitidas em fluxo contínuo (streaming) ou por outras formas de disponibilização virtual, quando o destinatário for uma pessoa estabelecida ou domiciliada fora do território nacional.
 
 10 - Não obstante o disposto na alínea b) do n.º 6, são tributáveis as seguintes operações:
 
@@ -86,11 +88,13 @@ d) Prestações de serviços que consistam em trabalhos efectuados sobre bens m�
 
 e) Prestações de serviços efectuadas por intermediários agindo em nome e por conta de outrem, quando a operação a que se refere a intermediação tenha lugar no território nacional.
 
-f) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, não abrangidas pela alínea e) do n.º 8, compreendendo as dos organizadores daquelas actividades e as prestações de serviços que lhes sejam acessórias, que tenham lugar no território nacional.
+f) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, não abrangidas pela alínea e) do n.º 8, compreendendo as dos organizadores daquelas atividades e as prestações de serviços que lhes sejam acessórias, com exceção das que digam respeito a atividades transmitidas em fluxo contínuo (streaming) ou por outras formas de disponibilização virtual, que tenham lugar no território nacional;
 
 g) Locação de um meio de transporte, que não seja de curta duração, quando o destinatário for uma pessoa estabelecida ou domiciliada no território nacional.
 
 h) Prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica, nomeadamente os descritos no anexo D, quando o destinatário for uma pessoa estabelecida ou domiciliada no território nacional.
+
+i) Prestações de serviços de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, compreendendo as dos organizadores daquelas atividades e as prestações de serviços que lhes sejam acessórias, cujo acesso seja virtual ou que digam respeito a atividades transmitidas em fluxo contínuo (streaming) ou por outras formas de disponibilização virtual, quando o destinatário for uma pessoa estabelecida ou domiciliada no território nacional.
 
 11 - Não obstante o disposto na alínea b) do n.º 6, não são tributáveis as prestações de serviços adiante enumeradas, quando o adquirente for uma pessoa estabelecida ou domiciliada fora da Comunidade:
 
@@ -130,9 +134,11 @@ d) Prestações de serviços de telecomunicações, de radiodifusão ou televis�
 
 e) Locação de uma embarcação de recreio, que não seja de curta duração, efetuada a pessoa que não seja um sujeito passivo, quando o locador tenha no território nacional sede, estabelecimento estável ou, na sua falta, domicílio, a partir do qual os serviços são prestados, e a efetiva colocação da embarcação à disposição do destinatário ocorra no território nacional.
 
+f) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, compreendendo as dos organizadores destas atividades e as prestações de serviços que lhes sejam acessórias, cujo acesso seja virtual, sejam transmitidas em fluxo contínuo (streaming) ou por outras formas de disponibilização virtual, quando o destinatário seja uma pessoa estabelecida ou domiciliada fora da Comunidade, o prestador tenha no território nacional a sede da sua atividade, um estabelecimento estável ou, na sua falta, o domicílio, a partir do qual os serviços sejam prestados, e a utilização ou exploração efetivas desses serviços tenham lugar no território nacional.
+
 13 - O disposto na alínea g) do n.º 10 não tem aplicação relativamente à locação de uma embarcação de recreio, que não seja de curta duração, quando o locador tenha sede, estabelecimento estável ou, na sua falta, domicílio fora do território nacional, a partir do qual os serviços são prestados, e a efetiva colocação da embarcação à disposição do destinatário ocorra no mesmo território.
 
-14 - Para efeitos da alínea d) do n.º 12, considera-se que a utilização e exploração efetivas ocorrem no território nacional em situações em que a presença física neste território do destinatário direto dos serviços seja necessária para a prestação dos mesmos, nomeadamente, quando os mesmos sejam prestados em locais como cabines ou quiosques telefónicos, lojas abertas ao público, átrios de hotel, restaurantes, cibercafés, áreas de acesso a uma rede local sem fios e locais similares.
+14 - Para efeitos das alíneas d) e f) do n.º 12, considera-se que a utilização ou exploração efetivas ocorrem no território nacional em situações em que a presença física neste território do destinatário direto dos serviços seja necessária para a prestação dos mesmos, nomeadamente, quando os mesmos sejam prestados em locais como cabines ou quiosques telefónicos, lojas abertas ao público, átrios de hotel, restaurantes, cibercafés, áreas de acesso a uma rede local sem fios e locais similares.
 
 15 - Sendo o destinatário dos serviços uma pessoa que não seja um sujeito passivo dos referidos no n.º 5 do artigo 2.º, para além das situações abrangidas pelo número anterior, considera-se que a utilização e exploração efetivas ocorrem no território nacional quando se situar neste território o local em que aquele disponha de uma linha fixa instalada, o local a que pertença o indicativo da rede móvel de um módulo de identificação de assinante (cartão SIM), ou o local em que esteja situado um descodificador ou dispositivo similar ou, sendo este local desconhecido, para onde tenha sido remetido um cartão de visualização, através dos quais os serviços de telecomunicações, de radiodifusão ou televisão ou os serviços por via eletrónica sejam prestados.
 

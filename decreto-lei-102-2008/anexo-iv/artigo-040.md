@@ -8,6 +8,8 @@ a) Transmissões de bens efetuadas por retalhistas ou vendedores ambulantes a n�
 
 b) Outras transmissões de bens e prestações de serviços em que o montante da fatura não seja superior a (euro) 100.
 
+c) Transmissões de bens e prestações de serviços efetuadas por sujeitos passivos abrangidos pelo regime de isenção previsto no artigo 53.º
+
 2 - As faturas referidas no número anterior devem ser datadas, numeradas sequencialmente e conter os seguintes elementos:
 
 a) Nome ou denominação social e número de identificação fiscal do fornecedor dos bens ou prestador dos serviços;
