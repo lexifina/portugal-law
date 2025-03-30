@@ -4,13 +4,13 @@
 
 1 - O acolhimento residencial tem lugar em casa de acolhimento e obedece a modelos de intervenção socioeducativos adequados às crianças e jovens nela acolhidos.
 
-2 - As casas de acolhimento podem organizar-se por unidades especializadas, designadamente:
+2 - As casas de acolhimento podem organizar-se por unidades especializadas:
 
-a) Casas de acolhimento para resposta em situações de emergência;
+a) Unidade para resposta a situações de emergência;
 
-b) Casas de acolhimento para resposta a problemáticas específicas e necessidades de intervenção educativa e terapêutica evidenciadas pelas crianças e jovens a acolher;
+b) (Revogada.)
 
-c) Apartamentos de autonomização para o apoio e promoção de autonomia dos jovens.
+c) Unidade de apoio e promoção da autonomia dos jovens, nomeadamente apartamento de autonomização para preparação dos jovens para a vida ativa, de forma autónoma.
 
 3 - Para além das casas de acolhimento, as instituições que desenvolvem respostas residenciais, nomeadamente nas áreas da educação especial e da saúde podem, em situações devidamente fundamentadas e pelo tempo estritamente necessário, executar medidas de acolhimento residencial relativamente a crianças ou jovens com deficiência permanente, doenças crónicas de caráter grave, perturbação psiquiátrica ou comportamentos aditivos, garantindo os cuidados socioeducativos e terapêuticos a prestar no âmbito da execução da medida.
 
