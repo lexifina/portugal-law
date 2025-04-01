@@ -26,8 +26,8 @@ f) Promover, nos termos da lei e de acordo com as orientações do membro do Gov
 
 g) Assegurar o arquivo dos originais de atos legislativos e regulamentares do Governo que sejam enviados para publicação no Diário da República.
 
-4 - Os secretários-gerais adjuntos exercem as competências que lhes sejam delegadas ou subdelegadas pelo secretário-geral do Governo, sujeito à aprovação do Primeiro-Ministro ou do membro do Governo competente, nos termos do n.º 2 do artigo 1.º
+4 - Para o exercício das suas funções podem ser designados, pelo secretário-geral da SG-GOV, até dois assessores, com domínio de conhecimentos em áreas especializadas relacionadas com as atribuições da SG-GOV, titulares de licenciatura ou grau académico superior a estas, e um trabalhador com função de secretariado.
 
-5 - O secretário-geral do Governo designa quem o substitui nas suas ausências, faltas e impedimentos.
+5 - O exercício das funções pelos assessores e secretário é efetuado em regime de comissão de serviço, pelo período de dois anos, renovável por iguais períodos, sendo os assessores e secretários pessoais remunerados, respetivamente, pelos níveis remuneratórios 77 e 50 da tabela remuneratória única dos trabalhadores em funções públicas.
 
 6 - Sem prejuízo do disposto no n.º 2, podem ser delegadas a um dos secretários-gerais adjuntos as competências relativas à organização, funcionamento e gestão das unidades orgânicas afetas à prossecução das atribuições previstas nas alíneas p) e q) do artigo 3.º
