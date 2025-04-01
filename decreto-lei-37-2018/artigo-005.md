@@ -15,3 +15,5 @@ d) Inadequação, por incompatibilidade das condições da habitação com carac
 i) Tem barreiras no acesso ao piso em que se situa; e ou
 
 ii) As medidas dos vãos e áreas interiores impedem uma circulação e uma utilização ajustadas às características específicas das pessoas que nelas residem.
+
+e) Sobrecarga de custos com a renda ou a prestação mensal do crédito à habitação, quando esta implique uma taxa de esforço superior a 40 % do rendimento médio mensal a que se refere o artigo 9.º

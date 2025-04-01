@@ -10,15 +10,13 @@ a) Soluções habitacionais concretizadas, com contrato de arrendamento celebrad
 
 b) Soluções habitacionais em fase de obra, em processo de aquisição ou de arrendamento para subarrendamento, com previsão de concretização ou de celebração de contrato de arrendamento, quando aplicável, até junho de 2025;
 
-c) Soluções habitacionais em fase de obra, em processo de aquisição ou de arrendamento para subarrendamento com previsão de conclusão da solução habitacional, incluindo a celebração de contrato de arrendamento se aplicável, até 30 de junho de 2026;
+c) Soluções habitacionais em fase de obra, em processo de aquisição ou de arrendamento para subarrendamento com previsão de concretização até março de 2026 e de celebração de contrato de arrendamento, quando aplicável, até junho de 2026;
 
-d) Soluções habitacionais com previsão de conclusão da obra, incluindo a celebração de contrato de arrendamento, se aplicável, até 30 de junho de 2026 que se encontrem numa das seguintes fases anteriores ao início da obra:
+d) Soluções habitacionais com previsão de conclusão da obra até março de 2026, e de celebração de contrato de arrendamento, quando aplicável, até junho de 2026, que se encontrem numa das seguintes fases anteriores ao início da obra:
 
 i) Com concurso de empreitada a decorrer; ou
 
-ii) Com empreitada orçamentada, quando a obra não seja sujeita a concurso; ou
-
-iii) Com os projetos concluídos.
+ii) Com empreitada orçamentada, quando a obra não seja sujeita a concurso.
 
 3 - A ordenação das candidaturas em sede de cada prioridade definida no número anterior é efetuada de acordo com a antiguidade da respetiva data de submissão.
 

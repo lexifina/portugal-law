@@ -10,7 +10,7 @@
 
 4 - Para efeito do cálculo das comparticipações às áreas habitacionais, a parcela das despesas com obras e equipamentos destinados a conferir aos prédios e às habitações as condições de cumprimento das normas técnicas de acessibilidade e de soluções de sustentabilidade ambiental é acrescentada na totalidade ao correspondente valor de referência, até ao máximo de 10 % do valor total da empreitada de construção ou de reabilitação, sem prejuízo do disposto nos números seguintes.
 
-5 - No caso de intervenções de reabilitação, apenas são comparticipáveis as despesas relativas a soluções de eficiência energética que permitam um aumento da classe energética, certificada antes das obras, em, pelo menos, dois níveis.
+5 - No caso de intervenções de reabilitação, apenas são comparticipáveis as despesas relativas a soluções de eficiência energética que incluam melhoria do desempenho energético, evidenciado mediante certificação energética final que ateste o cumprimento do Decreto-Lei n.º 101-D/2020, de 7 de dezembro, alterado pelo Decreto-Lei n.º 102/2021, de 19 de novembro, e pelo Decreto-Lei n.º 11/2025, de 19 de fevereiro, que estabelece os requisitos aplicáveis a edifícios para a melhoria do seu desempenho energético e regula o Sistema de Certificação Energética de Edifícios.
 
 6 - Com exceção do apoio ao arrendamento para subarrendamento, quando haja lugar à aplicação conjugada de duas ou mais majorações da comparticipação, a percentagem total dessas majorações não pode ser superior a 25 %.
 
