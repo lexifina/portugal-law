@@ -1,0 +1,15 @@
+Resolução da Assembleia da República n.º 108/2025
+
+Recomenda ao Governo a rápida constituição e operacionalização das comissões de acompanhamento para os projetos de exploração de lítio na Mina do Barroso e na Mina do Romano
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Garanta a rápida constituição e operacionalização das comissões de acompanhamento, previstas nas declarações de impacte ambiental (DIA), para os projetos de exploração de lítio na Mina do Barroso e na Mina do Romano, assegurando que estas se tornam plenamente funcionais no mais curto prazo possível.
+2 - Assegure que as comissões de acompanhamento incluem representantes da Agência Portuguesa do Ambiente (APA), da Comissão de Coordenação e Desenvolvimento Regional do Norte (CCDR-N), da Administração Regional de Saúde do Norte (ARS Norte), da Direção-Geral de Energia e Geologia (DGEG), do Laboratório Nacional de Energia e Geologia (LNEG), do Instituto da Conservação da Natureza e das Florestas (ICNF), das autarquias locais, das juntas de freguesia afetadas, das associações ambientais e das comunidades locais, bem como das empresas concessionárias e de especialistas independentes.
+3 - Defina um calendário regular de reuniões para as comissões de acompanhamento e assegure que estas sejam realizadas com uma periodicidade adequada à complexidade e ao desenvolvimento dos projetos da Mina do Barroso e da Mina do Romano.
+4 - Estabeleça as condições de funcionamento das comissões de acompanhamento, com um regimento e normas aprovadas por todos os membros, garantindo a transparência e a eficácia na execução das suas funções.
+5 - Promova a divulgação pública dos relatórios elaborados pelas comissões de acompanhamento, assegurando o acesso transparente à informação sobre o cumprimento das medidas de mitigação, os impactes dos projetos e as ações corretivas adotadas em caso de incumprimento das condicionantes das DIA.
+6 - Faculte sessões regulares de esclarecimento com as populações locais das regiões afetadas pela Mina do Barroso e pela Mina do Romano, para informar sobre o progresso dos projetos e ouvir as suas preocupações, de forma a restabelecer a confiança nas instituições e nos processos de exploração de lítio.
+7 - Implemente mecanismos de compensação e desenvolvimento territorial, envolvendo as autarquias locais na gestão e implementação de projetos que assegurem o desenvolvimento económico, social e cultural das regiões afetadas pela exploração de lítio, e garantindo que estas medidas estão alinhadas com as condicionantes das DIA e com os princípios de justiça social e desenvolvimento sustentável.
+8 - Defina um plano de envolvimento de partes interessadas, um memorando de entendimento e um acordo de partilha de benefícios, para garantir que os benefícios económicos decorrentes da exploração de lítio são equitativamente distribuídos e que os impactos negativos são minimizados em ambas as regiões afetadas.
+Aprovada em 28 de fevereiro de 2025.
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+118878537
