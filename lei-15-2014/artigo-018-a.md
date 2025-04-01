@@ -1,7 +1,7 @@
 # Artigo 18.º-A
 
-### Informação sobre direitos e prevenção de práticas inadequadas, desrespeitosas ou não consentidas na gravidez, parto e puerpério
+### Informação sobre direitos e prevenção da violência obstétrica
 
-1 - Os estabelecimentos de saúde que prestam cuidados na gravidez, parto e puerpério têm obrigatoriamente de afixar cartazes em formatos acessíveis e linguagem clara, com informação sobre o regime de proteção na preconceção, na procriação medicamente assistida, na gravidez, parto e puerpério previsto na presente secção e na Lei n.º 33/2025, de 31 de março.
+1 - Todos os estabelecimentos de saúde que prestam atendimento ao parto e nascimento têm obrigatoriamente de afixar cartazes com informações sobre o regime de proteção na preconceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério.
 
-2 - A informação prevista no número anterior inclui a identificação das entidades competentes às quais devem ser denunciadas situações de práticas inadequadas, desrespeitosas ou não consentidas na gravidez, parto e puerpério.
+2 - Os cartazes previstos no número anterior incluem informação relativa às entidades às quais devem ser denunciadas situações de violência obstétrica.
