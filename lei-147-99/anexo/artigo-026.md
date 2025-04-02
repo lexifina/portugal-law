@@ -10,4 +10,4 @@
 
 4 - Os comissários mantêm-se em funções até ao final do seu mandato.
 
-5 - Decorrido o período de nove anos consecutivos de exercício de funções na comissão de proteção, só pode ocorrer designação do mesmo comissário para o referido exercício, decorrido que seja o período completo de duração de um mandato, com exceção das situações previstas no n.º 2.
+5 - (Revogado.)

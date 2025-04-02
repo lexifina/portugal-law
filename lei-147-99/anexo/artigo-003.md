@@ -21,3 +21,7 @@ f) Está sujeita, de forma directa ou indirecta, a comportamentos que afectem gr
 g) Assume comportamentos ou se entrega a actividades ou consumos que afectem gravemente a sua saúde, segurança, formação, educação ou desenvolvimento sem que os pais, o representante legal ou quem tenha a guarda de facto se lhes oponham de modo adequado a remover essa situação.
 
 h) Tem nacionalidade estrangeira e está acolhida em instituição pública, cooperativa, social ou privada com acordo de cooperação com o Estado, sem autorização de residência em território nacional.
+
+i) Foi submetida a casamento infantil, precoce ou forçado, ou união similar, bem como à prática de atos que tenham em vista tal união, mesmo que não concretizada.
+
+3 - Para efeitos da presente lei, entende-se por casamento infantil, precoce ou forçado, ou união similar qualquer situação em que alguém com idade inferior a 18 anos viva com outrem em condições análogas às dos cônjuges, tenha ou não sido constrangido a tal união, independentemente da sua origem cultural, étnica ou de nacionalidade.

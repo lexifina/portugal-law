@@ -16,10 +16,10 @@
 
 3 - O acolhimento familiar tem lugar quando seja previsível a posterior integração da criança ou jovem numa família ou, não sendo possível, para a preparação da criança ou jovem para a autonomia de vida.
 
-4 - Privilegia-se a aplicação da medida de acolhimento familiar sobre a de acolhimento residencial, em especial relativamente a crianças até aos seis anos de idade, salvo:
+4 - Deve ser sempre priorizada a aplicação da medida de acolhimento familiar sobre a de acolhimento residencial, salvo:
 
 a) Quando a consideração da excecional e específica situação da criança ou jovem carecidos de proteção imponha a aplicação da medida de acolhimento residencial;
 
 b) Quando se constate impossibilidade de facto.
 
-5 - A aplicação da medida de acolhimento residencial nos casos previstos nas alíneas a) e b) do número anterior é devidamente fundamentada.
+5 - A aplicação excecional da medida de acolhimento residencial tem de ser devidamente fundamentada.
