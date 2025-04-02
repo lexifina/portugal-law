@@ -6,11 +6,11 @@
 
 a) O nome completo, idade, estado, naturalidade, residência habitual e filiação dos nubentes;
 
-b) O nome completo e residência habitual do tutor do nubente menor;
+b) [Revogada.]
 
 c) A indicação de o casamento ser celebrado com ou sem convenção antenupcial, referindo o auto ou a escritura respectiva e o regime de bens adoptado, se já tiver sido apresentado documento comprovativo;
 
-d) As indicações referentes à existência de consentimento prévio dos pais ou do tutor dos nubentes menores ou a menção do nome das pessoas que o podem prestar no acto da celebração do casamento, bem como o respectivo suprimento, havendo-o;
+d) [Revogada.]
 
 e) O nome completo do procurador de algum dos nubentes, se o houver;
 

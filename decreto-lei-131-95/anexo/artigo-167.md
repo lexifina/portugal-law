@@ -18,9 +18,9 @@ b) Nome completo do pároco da freguesia e do sacerdote que tiver oficiado no ca
 
 c) Nome completo, idade, naturalidade e residência habitual dos nubentes;
 
-d) Nome completo dos pais ou do tutor dos nubentes e do procurador de algum deles, se os houver;
+d) Nome completo do procurador de algum dos nubentes, se o houver;
 
-e) Referência à existência do consentimento dos pais ou representantes legais dos nubentes menores ou ao respectivo suprimento e, quando tiver sido prestado no acto da celebração, a menção desta circunstância;
+e) (Revogada.)
 
 f) Referência ao facto de o casamento se ter celebrado com ou sem convenção antenupcial e a menção do respectivo auto ou escritura, com indicação do regime de bens estipulado, se for um dos regimes tipo, e, se for imperativo, da menção desta circunstância;
 
@@ -32,7 +32,7 @@ i) Apresentação do certificado exigido pelo artigo 146.º, com a indicação d
 
 j) Nome completo e residência habitual de duas testemunhas.
 
-2 - Se os elementos de identificação dos cônjuges ou de seus pais, constantes dos documentos eclesiásticos, não coincidirem com os do certificado, devem indicar-se no assento também estes últimos, com a declaração de que o pároco verificou tratar-se de meras divergências formais.
+2 - Se os elementos de identificação dos cônjuges, constantes dos documentos eclesiásticos, não coincidirem com os do certificado, devem indicar-se no assento também estes últimos, com a declaração de que o pároco verificou tratar-se de meras divergências formais.
 
 3 - A menção da existência de convenção antenupcial, no caso previsto no n.º 2 do artigo 147.º, só é feita se, até ao acto da celebração do casamento, for apresentado o respectivo documento, devendo referir-se no assento a data do auto ou escritura e a indicação da conservatória ou do cartório em que o documento foi lavrado.
 

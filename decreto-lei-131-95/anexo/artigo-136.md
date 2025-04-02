@@ -8,9 +8,9 @@
 
 a) O nome completo, idade, estado, naturalidade e residência habitual dos nubentes;
 
-b) O nome completo dos pais e a menção do falecimento de algum deles, se o nubente for menor;
+b) [Revogada.]
 
-c) O nome completo e residência habitual do tutor, se algum dos nubentes for menor e tiver tutela instituída;
+c) [Revogada.]
 
 d) No caso de novas núpcias de algum dos nubentes, a data do óbito ou da morte presumida do cônjuge anterior e a data da sentença que a declarou, ou a data do divórcio ou de anulação do casamento anterior, com a indicação da data do trânsito em julgado das sentenças, ou, tratando-se de casamento católico, a data do averbamento da declaração de nulidade ou da dissolução por dispensa;
 

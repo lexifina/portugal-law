@@ -4,4 +4,4 @@
 
 1 - No acto da celebração do casamento só um dos nubentes pode fazer-se representar por procurador.
 
-2 - A procuração para representação de um dos nubentes ou para concessão do consentimento necessário à celebração do casamento de menores deve individualizar o outro nubente e indicar a modalidade do casamento.
+2 - A procuração para representação de um dos nubentes deve individualizar o outro nubente e indicar a modalidade do casamento.

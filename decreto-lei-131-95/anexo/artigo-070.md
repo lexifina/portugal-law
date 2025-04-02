@@ -12,7 +12,7 @@ c) A morte presumida de qualquer dos cônjuges;
 
 d) A sanação in radice do casamento católico nulo;
 
-e) A sanação da anulabilidade do casamento celebrado por menor não núbil, por maior acompanhado, nos casos em que o acompanhamento constitua um impedimento, ou sem a intervenção das testemunhas exigidas;
+e) A sanação da anulabilidade do casamento celebrado por maior acompanhado, nos casos em que o acompanhamento constitua um impedimento, ou sem a intervenção das testemunhas exigidas;
 
 f) A separação de pessoas e bens, a reconciliação dos cônjuges separados e a simples separação judicial de bens;
 
