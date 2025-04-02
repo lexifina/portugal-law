@@ -1,10 +1,14 @@
+## Subsecção II
+
+## Órgãos de fiscalização
+
 # Artigo 81.º
 
 ### Fiscal único
 
-1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do estabelecimento de saúde, E. P. E., nos termos do artigo 413.º do Código das Sociedades Comerciais, e dos estabelecimentos de saúde, S. P. A.
+1 - O fiscal único, que é revisor oficial de contas, é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do estabelecimento de saúde, E. P. E., nos termos do artigo 413.º do Código das Sociedades Comerciais, e dos estabelecimentos de saúde, S. P. A.
 
-2 - O fiscal único é designado por despacho do membro do Governo responsável pela área das finanças, obrigatoriamente de entre os auditores e, no caso do estabelecimento de saúde, E. P. E., de entre os revisores oficiais de contas e sociedades revisoras oficiais de contas registados na Comissão do Mercado de Valores Mobiliários.
+2 - O fiscal único é designado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde, obrigatoriamente de entre os auditores e, no caso do estabelecimento de saúde, E. P. E., de entre os revisores oficiais de contas e sociedades revisoras oficiais de contas registados na Comissão do Mercado de Valores Mobiliários.
 
 3 - O fiscal único não pode:
 

@@ -12,7 +12,7 @@
 
 a) O conselho de administração;
 
-b) O conselho fiscal, um revisor oficial de contas ou uma sociedade de revisores oficiais de contas; ou
+b) (Revogada.)
 
 c) O fiscal único; e
 

@@ -28,6 +28,8 @@ j) Elaborar relatórios sobre os relatórios trimestrais de execução orçament
 
 k) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado;
 
-l) Verificar se os critérios valorimétricos adotados pelo estabelecimento de saúde, E. P. E., conduzem a uma correta avaliação do património e dos resultados.
+l) Verificar se os critérios valorimétricos adotados pelo estabelecimento de saúde, E. P. E., conduzem a uma correta avaliação do património e dos resultados;
+
+m) Com base na proposta de plano de desenvolvimento organizacional apresentada pelo conselho de administração, o fiscal único emite um relatório e parecer, o qual é remetido aos membros do Governo responsáveis pelas áreas das finanças e da saúde.
 
 3 - O fiscal único dos estabelecimentos de saúde, S. P. A., tem as competências, os poderes e os deveres estabelecidos na lei-quadro dos institutos públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, e nos estatutos previstos no capítulo iv do presente decreto-lei.
