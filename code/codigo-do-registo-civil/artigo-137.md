@@ -20,7 +20,7 @@ d) (Revogada).
 
 a) Os registos de nascimento dos nubentes;
 
-b) O registo de óbito do pai ou da mãe de nubente menor, quando o progenitor falecido estivesse investido no exercício do poder paternal, excepto se houver tutela instituída;
+b) [Revogada.]
 
 c) A celebração de convenção antenupcial declarada perante o conservador, caso tenha sido celebrada.
 

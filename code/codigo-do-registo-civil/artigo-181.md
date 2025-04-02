@@ -8,9 +8,9 @@ a) Hora, data e lugar da celebração;
 
 b) Nome completo, idade, naturalidade e residência habitual dos nubentes;
 
-c) Nome completo dos pais e tutor dos nubentes, do intérprete e do procurador de algum deles, se os houver;
+c) Nome completo do intérprete e do procurador de algum dos nubentes, se os houver;
 
-d) Referência ao consentimento dos pais ou representantes legais dos nubentes menores ou ao seu suprimento e, quando a autorização tenha sido prestada no acto da celebração, a menção desta circunstância;
+d) (Revogada.)
 
 e) Indicação de o casamento se ter celebrado com ou sem convenção antenupcial e a menção do respectivo auto ou escritura com a indicação do regime de bens estipulado, se for um dos regimes tipo, e, se for imperativo, da menção dessa circunstância;
 

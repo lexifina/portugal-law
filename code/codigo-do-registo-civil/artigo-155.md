@@ -6,7 +6,7 @@
 
 a) O conservador, depois de anunciar que naquele local vai ter lugar a celebração do casamento, lê, da declaração inicial, os elementos relativos à identificação dos nubentes e os referentes ao seu propósito de o contrair, bem como o despacho final previsto no artigo 144.º;
 
-b) Se os nubentes forem menores e ainda não tiver sido dado o consentimento dos pais ou tutor, nem suprida essa autorização, o conservador pergunta às pessoas que o devem prestar se o concedem, suspendendo a realização do acto se não for concedido;
+b) [Revogada.]
 
 c) Em seguida, o conservador interpela as pessoas presentes para que declarem se conhecem algum impedimento que obste à realização do casamento;
 

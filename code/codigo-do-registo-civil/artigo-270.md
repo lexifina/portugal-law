@@ -6,7 +6,7 @@
 
 a) De nascimento de estrangeiro nascido em território ao tempo considerado português;
 
-b) De óbito do cônjuge anterior ou de algum dos pais do nubente menor, dentro do processo de casamento;
+b) De óbito do cônjuge anterior, dentro do processo de casamento;
 
 c) (Revogado).
 
