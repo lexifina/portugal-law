@@ -1,6 +1,6 @@
 ## Subsecção II
 
-## Maioridade e emancipação
+## Maioridade
 
 # Artigo 130.º
 

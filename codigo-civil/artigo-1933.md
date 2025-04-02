@@ -2,9 +2,9 @@
 
 ### (Quem não pode ser tutor)
 
-1. Não podem ser tutores:
+1 - Não podem ser tutores:
 
-a) Os menores não emancipados;
+a) Os menores;
 
 b) Os afetados por perturbação mental notória, ainda que não estejam em situação de acompanhamento com limitação para o exercício de direitos pessoais;
 

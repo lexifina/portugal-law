@@ -10,4 +10,4 @@
 
 ### (Duração das responsabilidades parentais)
 
-Os filhos estão sujeitos às responsabilidades parentais até à maioridade ou emancipação.
+Os filhos estão sujeitos às responsabilidades parentais até à maioridade.

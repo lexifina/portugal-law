@@ -1,3 +1,7 @@
+## Capítulo VII
+
+## Sanções especiais
+
 # Artigo 1650.º
 
 ### (Casamento com impedimento impediente)

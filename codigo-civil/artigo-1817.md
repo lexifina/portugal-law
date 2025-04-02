@@ -2,7 +2,7 @@
 
 ### (Prazo para a proposição da acção)
 
-1 - A acção de investigação de maternidade só pode ser proposta durante a menoridade do investigante ou nos dez anos posteriores à sua maioridade ou emancipação.
+1 - A ação de investigação de maternidade só pode ser proposta durante a menoridade do investigante ou nos 10 anos posteriores à sua maioridade.
 
 2 - Se não for possível estabelecer a maternidade em consequência do disposto no artigo 1815.º, a acção pode ser proposta nos três anos seguintes à rectificação, declaração de nulidade ou cancelamento do registo inibitório.
 

@@ -8,6 +8,6 @@
 
 3 - O tribunal deve, sempre que possível, ouvir o menor.
 
-4 - O exercício das responsabilidades parentais, nos termos do presente artigo, inicia-se e extingue-se antes da maioridade ou emancipação apenas por decisão judicial, com fundamento nos artigos 1913.º a 1920.º-A.
+4 - O exercício das responsabilidades parentais, nos termos do presente artigo, inicia-se e extingue-se antes da maioridade apenas por decisão judicial, com fundamento nos artigos 1913.º a 1920.º-A.
 
 5 - Em caso de divórcio, separação de pessoas e bens, declaração de nulidade ou anulação do casamento, separação de facto ou cessação da coabitação entre os corresponsáveis parentais aplica-se o disposto nos artigos 1905.º e 1906.º, com as devidas adaptações.

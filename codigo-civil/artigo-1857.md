@@ -2,7 +2,7 @@
 
 ### (Perfilhação de maiores)
 
-1 - A perfilhação de filho maior ou emancipado, ou de filho predefunto de quem vivam descendentes maiores ou emancipados, só produz efeitos se aquele ou estes ou, tratando-se de maiores acompanhados com restrições ao exercício de direitos pessoais, o acompanhante, precedendo autorização judicial, derem o seu assentimento.
+1 - A perfilhação de filho maior ou de filho predefunto de quem vivam descendentes maiores, só produz efeitos se aquele ou estes ou, tratando-se de maiores acompanhados com restrições ao exercício de direitos pessoais, o acompanhante, precedendo autorização judicial, derem o seu assentimento.
 
 2- O assentimento pode ser dado antes ou depois da perfilhação, ainda que o perfilhante tenha falecido, por alguma das seguintes formas:
 

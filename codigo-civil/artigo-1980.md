@@ -8,6 +8,6 @@ a) Que tenham sido confiadas ao adotante mediante confiança administrativa ou m
 
 b) Filhas do cônjuge do adotante.
 
-2 - O adotando deve ter menos de 18 anos e não se encontrar emancipado à data do requerimento de adoção.
+2 - O adotando deve ter menos de 18 anos à data do requerimento de adoção.
 
 3 - (Revogado.)

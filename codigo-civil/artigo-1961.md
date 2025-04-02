@@ -10,7 +10,7 @@ A tutela termina:
 
 a) Pela maioridade, salvo o disposto no artigo 131.º;
 
-b) Pela emancipação, salvo o disposto no artigo 1649.º;
+b) [Revogada.]
 
 c) Pela adopção;
 
