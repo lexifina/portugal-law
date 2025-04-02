@@ -1,0 +1,27 @@
+# Artigo 3.º
+
+### Legitimidade da intervenção
+
+1 - A intervenção para promoção dos direitos e protecção da criança e do jovem em perigo tem lugar quando os pais, o representante legal ou quem tenha a guarda de facto ponham em perigo a sua segurança, saúde, formação, educação ou desenvolvimento, ou quando esse perigo resulte de acção ou omissão de terceiros ou da própria criança ou do jovem a que aqueles não se oponham de modo adequado a removê-lo.
+
+2 - Considera-se que a criança ou o jovem está em perigo quando, designadamente, se encontra numa das seguintes situações:
+
+a) Está abandonada ou vive entregue a si própria;
+
+b) Sofre maus tratos físicos ou psíquicos ou é vítima de abusos sexuais;
+
+c) Não recebe os cuidados ou a afeição adequados à sua idade e situação pessoal;
+
+d) Está aos cuidados de terceiros, durante período de tempo em que se observou o estabelecimento com estes de forte relação de vinculação e em simultâneo com o não exercício pelos pais das suas funções parentais;
+
+e) É obrigada a actividades ou trabalhos excessivos ou inadequados à sua idade, dignidade e situação pessoal ou prejudiciais à sua formação ou desenvolvimento;
+
+f) Está sujeita, de forma directa ou indirecta, a comportamentos que afectem gravemente a sua segurança ou o seu equilíbrio emocional;
+
+g) Assume comportamentos ou se entrega a actividades ou consumos que afectem gravemente a sua saúde, segurança, formação, educação ou desenvolvimento sem que os pais, o representante legal ou quem tenha a guarda de facto se lhes oponham de modo adequado a remover essa situação.
+
+h) Tem nacionalidade estrangeira e está acolhida em instituição pública, cooperativa, social ou privada com acordo de cooperação com o Estado, sem autorização de residência em território nacional.
+
+i) Foi submetida a casamento infantil, precoce ou forçado, ou união similar, bem como à prática de atos que tenham em vista tal união, mesmo que não concretizada.
+
+3 - Para efeitos da presente lei, entende-se por casamento infantil, precoce ou forçado, ou união similar qualquer situação em que alguém com idade inferior a 18 anos viva com outrem em condições análogas às dos cônjuges, tenha ou não sido constrangido a tal união, independentemente da sua origem cultural, étnica ou de nacionalidade.
