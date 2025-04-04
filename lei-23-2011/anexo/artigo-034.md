@@ -4,7 +4,7 @@
 
 1 - Podem candidatar-se ao procedimento para a categoria de ingresso das carreiras especiais da Assembleia da República:
 
-a) Funcionários parlamentares integrados em outras carreiras;
+a) Funcionários parlamentares;
 
 b) Trabalhadores que exerçam cargos em comissão de serviço na Assembleia da República ou que sejam sujeitos de outras relações jurídicas de emprego público por tempo indeterminado, determinado ou determinável;
 

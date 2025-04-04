@@ -6,7 +6,7 @@
 
 ### Alteração do posicionamento remuneratório: Regra
 
-1 - Há lugar a alteração obrigatória para a posição remuneratória imediatamente seguinte àquela em que o funcionário parlamentar se encontrar quando, desde a última alteração do posicionamento remuneratório, tenha acumulado 8 pontos nas avaliações de desempenho relativas às funções que exerce.
+1 - Há lugar a alteração obrigatória para a posição remuneratória imediatamente seguinte àquela em que o funcionário parlamentar se encontrar quando, desde a última alteração do posicionamento remuneratório, tenha acumulado seis pontos nas avaliações de desempenho relativas às funções que exerce.
 
 2 - Os pontos referidos no número anterior são contados nos seguintes termos:
 
