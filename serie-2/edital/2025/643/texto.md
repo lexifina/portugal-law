@@ -1,0 +1,13 @@
+Edital n.º 643/2025
+
+Consulta pública, pelo prazo de 30 dias úteis, do Projeto do Regulamento de Segurança, Saúde e Bem-Estar no Trabalho do Instituto Politécnico de Leiria
+
+Carlos Manuel da Silva Rabadão, Presidente do Instituto Politécnico de Leiria (IPLeiria), no uso da competência que lhe é conferida pela alínea o), do n.º 1, do artigo 92.º do Regime Jurídico das Instituições de Ensino Superior (RJIES) e pela alínea n), do n.º 1, do artigo 32.º dos Estatutos do IPLeiria, homologados pelo Despacho Normativo n.º 6/2024, publicado no Diário da República, 2.ª série, n.º 58, de 21 de março de 2024, torna público o projeto do Regulamento de Segurança, Saúde e Bem-Estar no Trabalho do Instituto Politécnico de Leiria, submetendo-o, nos termos do artigo 101.º do Código de Procedimento Administrativo e do artigo 110.º, n.º 3 do RJIES, a consulta pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente edital no Diário da República.
+
+O projeto pode ser consultado nos Serviços Administrativos do Edifício Sede do IPLeiria, sitos em Rua General Norton de Matos, 2411-901 Leiria, e ainda no sítio na Internet do IPLeiria (www.ipleiria.pt), área de Discussão Pública.
+
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais devem ser endereçadas ao Presidente do IPLeiria, para o correio eletrónico ipleiria@ipleiria.pt, sendo esta a via preferencial para efeitos de apresentação de contributos. No entanto, em caso de dificuldade no uso da referida via de contacto, os interessados podem, dentro do prazo acima referido, remeter os pedidos por via postal para Instituto Politécnico de Leiria, Rua General Norton de Matos, apartado 4133, 2411-901 Leiria ou contactar os serviços centrais do IPLeiria para o seguinte número de telefone: 244 830 010.
+
+26 de março de 2025. - O Presidente, Carlos Manuel da Silva Rabadão.
+
+318883283
