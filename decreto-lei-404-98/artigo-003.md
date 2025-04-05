@@ -6,6 +6,6 @@
 
 ### Legislação aplicável
 
-1 - A NAV, E. P., rege-se pelo presente decreto-lei, pelos seus Estatutos, que constituem o anexo I a este diploma e que dele faz parte integrante, e pelas normas legais que lhe sejam especialmente aplicáveis.
+1 - A Navegação Aérea de Portugal - NAV Portugal, E. P. E., rege-se pelo regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, com as especificidades previstas neste diploma e nos seus Estatutos e regulamentos internos, bem como na demais legislação aplicável.
 
-2 - Subsidiariamente aplicar-se-á o Decreto-Lei n.º 260/76, de 8 de Abril, e a demais legislação aplicável às empresas públicas e, na sua falta, as normas de direito privado, salvo relativamente a actos de autoridade ou cuja natureza implique o recurso a normas de direito público.
+2 - (Revogado.)
