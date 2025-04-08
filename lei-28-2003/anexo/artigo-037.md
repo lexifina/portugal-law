@@ -6,7 +6,7 @@
 
 2 - Este regime é fixado pelo Presidente da Assembleia da República, mediante proposta do Conselho de Administração, podendo compreender, nomeadamente, horário especial de trabalho, regime de trabalho extraordinário, prestação de serviços por turnos e remuneração suplementar, ficando sempre ressalvados os direitos fundamentais dos trabalhadores consignados na Constituição e na lei geral.
 
-3 - A remuneração suplementar a que se refere o número anterior é calculada com base no vencimento, sendo paga em 12 duodécimos, e faz parte integrante do vencimento, contando para todos os efeitos, designadamente os de aposentação, não sendo acumulável com quaisquer outras remunerações acessórias ou abonos.
+3 - A remuneração suplementar a que se refere o número anterior é calculada e abonada nos mesmos termos da remuneração base anual, sendo paga em 14 mensalidades, e faz parte integrante do vencimento, contando para todos os efeitos, designadamente os de aposentação, não sendo acumulável com quaisquer outras remunerações acessórias ou abonos.
 
 4 - Em situações excepcionais de funcionamento dos serviços da Assembleia da República pode ser atribuído ao respectivo pessoal um subsídio de alimentação e transporte.
 
