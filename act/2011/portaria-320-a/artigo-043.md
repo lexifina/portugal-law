@@ -8,7 +8,7 @@ a) Grupo I: Direções de Finanças de Lisboa e Porto;
 
 b) Grupo II: Direções de Finanças de Aveiro, Braga, Coimbra, Faro, Leiria, Santarém, Setúbal e Viseu;
 
-c) Grupo III: Direções de Finanças de Angra do Heroísmo, Beja, Bragança, Castelo Branco, Évora, Guarda, Horta, Ponta Delgada, Portalegre, Viana do Castelo e Vila Real.
+c) Grupo III: Direções de Finanças dos Açores, Beja, Bragança, Castelo Branco, Évora, Guarda, Portalegre, Viana do Castelo e Vila Real.
 
 2 - Até à publicação dos despachos a que se referem os n.os 4 do artigo 35.º e 8 do artigo 39.º, as direções de finanças, as alfândegas, as delegações aduaneiras e os postos aduaneiros mantêm a atual jurisdição.
 

@@ -6,7 +6,7 @@
 
 2 - As Direções de Finanças que integram os serviços desconcentrados da AT a nível regional, são as seguintes:
 
-a) Direção de Finanças de Angra do Heroísmo (Ilhas de Graciosa, São Jorge e Terceira);
+a) (Revogada.)
 
 b) Direção de Finanças de Aveiro;
 
@@ -26,13 +26,13 @@ i) Direção de Finanças de Faro;
 
 j) Direção de Finanças da Guarda;
 
-k) Direção de Finanças da Horta (Ilhas do Corvo, Faial, Flores e Pico);
+k) (Revogada.)
 
 l) Direção de Finanças de Leiria;
 
 m) Direção de Finanças de Lisboa;
 
-n) Direção de Finanças de Ponta Delgada (Ilhas de Santa Maria e São Miguel);
+n) (Revogada.)
 
 o) Direção de Finanças de Portalegre;
 
@@ -46,7 +46,9 @@ s) Direção de Finanças de Viana do Castelo;
 
 t) Direção de Finanças de Vila Real;
 
-u) Direção de Finanças de Viseu.
+u) Direção de Finanças de Viseu;
+
+v) Direção de Finanças dos Açores (Ilhas de Graciosa, São Jorge, Terceira, Corvo, Faial, Flores, Pico, Santa Maria e São Miguel).
 
 3 - As Alfândegas que integram os serviços desconcentrados da AT, a nível regional são as seguintes:
 
