@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-04-09, processo 0371/09.3BEAVR 0221/18
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0371/09.3BEAVR 0221/18
+
+**Data do Acordão:** 04/09/2025
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** CONHECIMENTO DA PRESCRIÇÃO; FORMAS DE PROCESSO; CITAÇÃO; EFEITO DURADOURO; FISCALIZAÇÃO CONCRETA DA CONSTITUCIONALIDADE
+
+**Nº Convencional:** JSTA000P33569
+
+**Nº do Documento:** SA2202504090371/09
+
+**Recorrente:** AA
+
+**Recorrido 1:** INSTITUTO DE SOLIDARIEDADE E SEGURANÇA SOCIAL, I.P. E OUTROS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Embora o legislador consagre, há muito, a possibilidade da prescrição da dívida exequenda constituir fundamento de oposição à execução (cfr.artº.176, al.d), do C.P.C.Impostos; artº.286, nº.1, al.d), do C.P.Tributário; artº.204, nº.1, al.d), do C.P.P.Tributário), a mesma prescrição consubstancia uma excepção peremptória de conhecimento oficioso no âmbito do processo tributário (cfr.artº.27, §2 e 3, do C.P.C.Impostos; artº.259, do C.P.Tributário; artº.175, do C.P.P.Tributário), a qual é passível de exame noutras formas de processo, que não a oposição a execução fiscal.
+
+II - Especificamente, sobre a possibilidade de conhecimento da excepção de prescrição dos créditos exequendos em sede de incidente/apenso de verificação e graduação de créditos, quando tal se torne relevante para a posterior estruturação da ordem de graduação dos créditos, nele a efectuar, também já a jurisprudência de Tribunais Superiores desta Jurisdição se pronunciou.
+
+III - Nas leis tributárias prevêem-se factos a que é atribuído efeito interruptivo da obrigação tributária, pelo que não há que fazer apelo às normas do C.Civil, no que concerne a determinar os factos interruptivos. Porém, os efeitos da interrupção da prescrição não estão completamente regulados, assim devendo aplicar-se, quanto a estes, subsidiariamente, o regime do Código Civil.
+
+IV - Com estes pressupostos, é legal a aplicação do regime consagrado no artº.327, nº.1, do C.Civil (normativo aplicável "ex vi" do artº.2, al.d), da L.G.T.), face ao acto interruptivo que se consubstancia na citação em processo de execução fiscal, o qual ostenta um efeito duradouro derivado do novo prazo de prescrição não começar a correr enquanto não transitar em julgado a decisão que puser termo ao processo, sendo que no processo de execução fiscal também a declaração em falhas, prevista no artº.272, do C.P.P.T., se deve equiparar à dita decisão que põe termo ao processo.
+
+V - É uniforme a jurisprudência deste Tribunal e Secção a concluir que a aplicação, no domínio tributário, da regra prevista no mencionado artº.327, nº.1, do C.Civil, quanto ao reconhecimento do efeito duradouro do acto de citação em execução fiscal, não padece de qualquer vício de inconstitucionalidade, nomeadamente, por infracção dos princípios da legalidade, da segurança jurídica e da protecção da confiança ou das garantias dos contribuintes. Recente jurisprudência do Tribunal Constitucional vai no mesmo sentido.
+
+(sumário da exclusiva responsabilidade do relator)
