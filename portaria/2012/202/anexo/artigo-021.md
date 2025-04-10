@@ -1,13 +1,19 @@
 # Artigo 21.º
 
-### Reclamações
+### Dispensa de audiência dos interessados e reclamações
 
-1 - Do resultado final podem os candidatos apresentar reclamação fundamentada, no prazo fixado nos termos do artigo 25.º, mediante exposição dirigida ao reitor.
+1 - Ao abrigo do disposto nas alíneas c) e d) do n.º 1 do artigo 124.º do Código do Procedimento Administrativo, é dispensada a realização da audiência dos interessados sobre os resultados tornados públicos das colocações, porquanto:
 
-2 - A reclamação é entregue em mão no local onde o reclamante apresentou a candidatura ou enviada pelo correio, em carta registada.
+a) É razoável prever que a diligência de audiência dos interessados possa comprometer o cumprimento da execução dos calendários de candidaturas e a utilidade da decisão relativa ao resultado da seriação no concurso;
 
-3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.
+b) Poderá acontecer que o número de interessados a ouvir seja de tal forma elevado que a audiência dos interessados torna impraticável a decisão final do concurso em tempo útil, não sendo possível igualmente a realização de consulta pública.
 
-4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas nos termos do número anterior são notificadas aos reclamantes através de carta registada com aviso de receção.
+2 - Os resultados públicos das colocações são alvo de reclamação por parte dos interessados, no prazo máximo de quinze dias a partir da data da notificação dos resultados do concurso, de acordo com o n.º 3 do artigo 191.º do Código do Procedimento Administrativo, que o candidato recebe no endereço de correio eletrónico usado na candidatura.
 
-5 - Ao procedimento relativo à apresentação e decisão de reclamações é aplicável o regime do Código do Procedimento Administrativo.
+3 - A reclamação, devidamente fundamentada, deve ser efetuada exclusivamente através do Sistema de Informação Integrado da Universidade Évora (SIIUE), com as credências usadas na candidatura, tendo em conta que se privilegiam os meios eletrónicos, conforme previsto no artigo 61.º do Código do Procedimento Administrativo.
+
+4 - A decisão sobre a reclamação compete ao reitor, ou em quem delegue, sendo proferida no prazo máximo de trinta dias após a mesma ser submetida, de acordo com o n.º 2 do artigo 192.º do Código do Procedimento Administrativo.
+
+5 - A decisão é comunicada ao candidato pela mesma via, ou seja, através do SIIUE, com notificação para o endereço de correio eletrónico usado na candidatura.
+
+6 - Uma decisão favorável a um candidato não porá em causa os resultados de colocação dos outros candidatos, recorrendo-se à possibilidade de abertura de vagas adicionais, se necessário, havendo lugar a divulgação pública dos resultados retificados por via de reclamação.

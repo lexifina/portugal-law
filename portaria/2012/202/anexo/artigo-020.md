@@ -8,7 +8,7 @@
 
 a) Nome;
 
-b) Número e local de emissão do bilhete de identidade ou número do cartão de cidadão;
+b) [Revogada];
 
 c) Nota de candidatura a que se refere o artigo 15.º e valor das suas componentes;
 

@@ -2,6 +2,6 @@
 
 ### Local e prazo de apresentação da candidatura
 
-1 - O requerimento de candidatura é apresentado no Departamento de Música da Universidade de Évora.
+1 - A candidatura é submetida online no Sistema de Informação Integrado da Universidade de Évora, conforme divulgado no sítio da Internet da Universidade de Évora.
 
-2 - O prazo para entrega do requerimento de candidatura é fixado nos termos do artigo 25.º
+2 - O prazo para submissão da candidatura é fixado nos termos do artigo 25.º
