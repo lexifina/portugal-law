@@ -8,7 +8,7 @@ a) Veículos destinados à venda de quaisquer artigos ou a publicidade de qualqu
 
 b) Automóveis pesados utilizados em transporte público, quando não estejam em serviço, salvas as exceções previstas em regulamentos locais;
 
-c) Veículos de categorias diferentes daquelas a que o parque, zona ou lugar de estacionamento tenha sido exclusivamente afeto nos termos dos n.os 2 e 3 do artigo anterior;
+c) Veículos de categorias diferentes daquelas a que o parque, zona ou lugar de estacionamento tenha sido exclusivamente afeto nos termos dos n.os 2 a 4 do artigo anterior;
 
 d) Por tempo superior ao estabelecido ou sem o pagamento da taxa fixada nos termos do n.º 2 do artigo anterior.
 
