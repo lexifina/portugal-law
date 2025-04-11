@@ -1,0 +1,21 @@
+# Artigo 110.º
+
+### Reboques
+
+1 - Reboque é o veículo destinado a transitar atrelado a um veículo a motor.
+
+2 - Semirreboque é o reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este.
+
+3 - Os veículos referidos nos números anteriores tomam a designação de reboque ou semirreboque agrícola ou florestal quando se destinam a ser atrelados a um trator agrícola ou a um motocultivador.
+
+4 - Máquina agrícola ou florestal rebocável é a máquina destinada a trabalhos agrícolas ou florestais que só transita na via pública quando rebocada.
+
+5 - Máquina industrial rebocável é a máquina destinada a trabalhos industriais que só transita na via pública quando rebocada.
+
+6 - A cada veículo a motor não pode ser atrelado mais de um reboque.
+
+7 - É proibida a utilização de reboques em transporte público de passageiros.
+
+8 - Excetua-se do disposto nos n.os 6 e 7 a utilização de um reboque destinado ao transporte de bagagem nos táxis e em veículos pesados afetos ao transporte de passageiros, de reboques em comboios turísticos, bem como, nos termos a fixar em regulamento local, de reboques em tratores agrícolas ou florestais.
+
+9 - Quem infringir o disposto nos n.os 6 e 7 é sancionado com coima de (euro) 120 a (euro) 600.
