@@ -10,7 +10,7 @@ a) Assegurar o apoio ao exercício das funções de coordenação político-dipl
 
 b) Coordenar a participação portuguesa nas reuniões do Conselho Europeu, do Conselho dos Assuntos Gerais e nas sessões das diversas formações do Conselho da União Europeia;
 
-c) Assegurar a representação do Estado Português junto do Tribunal de Justiça da União Europeia e coordenar as acções para a definição da posição portuguesa em todos os casos de pré-contencioso e contencioso da União Europeia;
+c) [Revogada;]
 
 d) Preparar e assegurar a representação portuguesa no Comité da Política Comercial previsto no artigo 207.º do Tratado sobre o Funcionamento da União Europeia e articular a posição portuguesa no âmbito das relações comunitárias externas da União Europeia;
 
