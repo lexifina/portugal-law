@@ -6,7 +6,7 @@ Nos termos do n.º 6 do artigo 20.º do Decreto-Lei n.º 121/2011, de 29 de Deze
 
 a) Todos os cargos de direcção superior e de direcção intermédia do DGA;
 
-b) Todos os cargos de direcção superior e de direcção intermédia do DAJ;
+b) [Revogada;]
 
 c) Todos os cargos de direcção superior e de direcção intermédia do IDI;
 

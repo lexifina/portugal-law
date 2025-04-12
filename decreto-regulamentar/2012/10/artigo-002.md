@@ -2,7 +2,7 @@
 
 ### Missão e atribuições
 
-1 - A SG tem por missão assegurar as funções de apoio político diplomático, técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios do desenvolvimento das linhas estratégicas da política externa portuguesa, da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, do apoio jurídico e contencioso, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação, acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar atividades administrativas dos demais serviços do MNE, e ainda, assegurar a prestação de apoio técnico especializado à intervenção em matéria de política externa das diferentes áreas governativas, de forma a garantir, através dos serviços e organismos tutelados pela área governativa dos negócios estrangeiros, a unidade da ação externa do Estado.
+1 - A SG tem por missão assegurar as funções de apoio político diplomático, técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios do desenvolvimento das linhas estratégicas da política externa portuguesa, da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação, acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar atividades administrativas dos demais serviços do MNE, e ainda assegurar a prestação de apoio técnico especializado à intervenção em matéria de política externa das diferentes áreas governativas, de forma a garantir, através dos serviços e organismos tutelados pela área governativa dos negócios estrangeiros, a unidade da ação externa do Estado.
 
 2 - A preparação e execução pela Secretaria-Geral das actividades administrativas dos serviços da administração indirecta do MNE, são regulamentados em diploma próprio.
 
@@ -18,7 +18,7 @@ d) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços inte
 
 e) Assegurar o exercício das funções desempenhadas pelo Protocolo do Estado, legalmente cometidas ao MNE;
 
-f) Assegurar o apoio técnico-jurídico e contencioso aos serviços internos e aos serviços periféricos externos do MNE, bem como acompanhar a negociação de tratados e de acordos internacionais;
+f) [Revogada;]
 
 g) Coligir e publicar os documentos relativos à política externa portuguesa, de acordo com as orientações do ministro, bem como coordenar a organização e preservação do património e do arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do MNE e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;
 
@@ -60,8 +60,8 @@ v) Investigação e análise estratégica;
 
 vi) Formação em assuntos europeus e relações internacionais;
 
-vii) Direito internacional e negociação;
+vii) [Revogada;]
 
-viii) Contencioso do Estado no estrangeiro e cooperação judiciária internacional;
+viii) [Revogada;]
 
 ix) Organização, comunicação e diplomacia pública.

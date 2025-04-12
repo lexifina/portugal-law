@@ -10,7 +10,7 @@ b) O Protocolo de Estado;
 
 c) O Departamento Geral de Administração;
 
-d) O Departamento de Assuntos Jurídicos;
+d) [Revogada;]
 
 e) O Instituto Diplomático;
 
