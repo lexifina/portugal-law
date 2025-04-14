@@ -8,9 +8,9 @@ a) Requalificação do solo decorrente de:
 
 i) Cessação de servidões administrativas e de restrições de utilidade pública;
 
-ii) Desafetação de bens móveis do domínio público ou dos fins de utilidade pública a que se encontravam adstritos, designadamente os do domínio privado indisponível do Estado;
+ii) Desafetação de bens imóveis do domínio público ou dos fins de utilidade pública a que se encontravam adstritos, designadamente os do domínio privado indisponível do Estado;
 
-iii) Cessação de atividades económicas ou do uso de infraestruturas ou equipamentos determinantes da qualificação da área abrangida, desde que pelo menos 700/1000 da área total de construção acima do solo se destine a habitação pública ou a habitação de valor moderado nos termos do n.º 8 do artigo 72.º-B, sem prejuízo das infraestruturas e equipamentos de utilização coletiva necessários e da necessidade de garantir o habitat;
+iii) Cessação de atividades económicas ou do uso de infraestruturas ou equipamentos determinantes da qualificação da área abrangida, desde que pelo menos 700/1000 da área total de construção acima do solo se destine a habitação pública, a arrendamento acessível nos termos do Decreto-Lei n.º 68/2019, de 22 de maio, ou a habitação a custos controlados, nos termos da Portaria n.º 65/2019, de 19 de fevereiro, sem prejuízo das infraestruturas e equipamentos de utilização coletiva necessários e da necessidade de garantir o habitat;
 
 b) Alteração de delimitação da área de solo urbano inicialmente abrangida por plano de urbanização ou de pormenor ou pelas respetivas unidades de execução e ou previsão de outra forma de execução de uma unidade operativa de planeamento e gestão;
 
@@ -22,7 +22,7 @@ e) Adoção dos parâmetros para o dimensionamento das áreas destinadas a cedê
 
 f) Concretização do disposto na alínea b) do n.º 6 do artigo 22.º da Lei n.º 83/2019, de 3 de setembro, na sua redação atual;
 
-g) Previsão da possibilidade de majoração até 20 % do índice de construção aplicável em áreas específicas a delimitar pela alteração simplificada, na condição de pelo menos 700/1000 da área total de construção acima do solo correspondente à majoração ser afeta a habitação pública ou a habitação de valor moderado, nos termos do n.º 8 do artigo 72.º-B.
+g) Previsão da possibilidade de majoração até 20 % do índice de construção aplicável em áreas específicas a delimitar pela alteração simplificada, na condição de pelo menos 700/1000 da área total de construção acima do solo correspondente à majoração ser afeta a habitação pública, a arrendamento acessível nos termos do Decreto-Lei n.º 68/2019, de 22 de maio, ou a habitação a custos controlados, nos termos da Portaria n.º 65/2019, de 19 de fevereiro.
 
 2 - A requalificação a que se refere a alínea a) do número anterior depende da existência, na continuidade da área abrangida, de um regime de uso do solo que permita uma unidade harmoniosa, sendo esse o regime aplicável, com as devidas adaptações, à área objeto de requalificação do solo.
 
@@ -41,3 +41,7 @@ g) Previsão da possibilidade de majoração até 20 % do índice de construçã
 9 - (Revogado.)
 
 10 - (Revogado.)
+
+11 - As alterações referidas no presente artigo, quando não ocorram em solo de propriedade exclusivamente pública, dependem de parecer não vinculativo da comissão de coordenação e desenvolvimento regional, quanto à conformidade com as disposições legais e regulamentares vigentes e à compatibilidade ou conformidade com os programas e os planos territoriais eficazes, devendo convocar uma conferência procedimental previamente à emissão de parecer, o qual deve ser proferido no prazo de 20 dias a contar da data do envio da proposta, sob pena de deferimento tácito.
+
+12 - A conferência procedimental prevista no número anterior é feita com todos os órgãos, serviços e pessoas coletivas públicas relevantes em função da matéria, que expressam a sua posição, a qual fica registada em ata, aplicando-se, com as devidas adaptações, o disposto no artigo 84.º
