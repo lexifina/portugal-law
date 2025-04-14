@@ -1,0 +1,19 @@
+Aviso n.º 10073/2025/2
+
+Suspensão ao regime do solo das áreas urbanizáveis ou de urbanização programada do Plano de Urbanização de Quarteira Norte/Nordeste (PUQNNE)
+Vítor Manuel Gonçalves Aleixo, Presidente do Município de Loulé, em cumprimento do disposto no n.º 4 e n.º 5, ambos do artigo 199.º e no artigo 191.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na redação conferida pelo Decreto-Lei n.º 117/2024, de 30 de dezembro, em articulação com o artigo 56.º do Regime Jurídico das Autarquias Locais, na sua atual redação, torna público que foi aprovada na reunião de Câmara de 10 de março de 2025, a emissão da declaração que identifica e delimita as áreas integrantes do Plano de Urbanização de Quarteira Norte/Nordeste (PUQNNE) que são objeto da exceção ao n.º 3 do artigo 199.º do RJIGT.
+Nos termos do disposto no n.º 5 do artigo 199.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), ficam excecionadas da suspensão prevista no n.º 3 do mesmo artigo, as áreas urbanizáveis ou de urbanização programada do Plano de Urbanização de Quarteira Norte/Nordeste (PUQNNE) identificada na planta anexa (Planta de Zonamento e Extrato) à presente declaração, por nos termos do n.º 4 do artigo 199.º do RJIGT terem adquirido, entretanto, as características de solo urbano nos termos do RJIGT e do Decreto Regulamentar n.º 15/2015, de 19 de agosto.
+A exceção/levantamento à suspensão abrange a totalidade das áreas urbanizáveis e urbanização programada.
+Para efeitos de eficácia, conforme presente no n.º 5 do artigo 199.º do RJIGT, procede-se à divulgação da deliberação emitida pela câmara municipal, planta de zonamento e extrato a qual é transmitida à Comissão de Coordenação e Desenvolvimento Regional de Algarve, sendo sujeita a publicação, publicitação e depósito nos termos previstos no RJIGT.
+11 de março de 2025. - O Presidente do Município de Loulé, Vítor Manuel Gonçalves Aleixo.
+Deliberação
+5.ª Reunião de Câmara, de 10 de março do ano de dois mil e vinte cinco, onde se deliberou aprovar a proposta n.º 517/2025 [DP] referente às “Áreas urbanizáveis ou de urbanização programada do Plano de Urbanização de Quarteira Norte/Nordeste (PUQNNE) objeto de exceção à suspensão, nos termos do n.º 4 do Artigo 199.º do Regime Jurídico dos Instrumentos de Gestão Territorial” (RJIGT), a qual corresponde ao n.º 127 do “Período da Ordem do Dia” da Minuta da Ata n.º 5 /2025, aprovada na mesma data.
+A Câmara Municipal de Loulé, na sua reunião de 10 de março de 2025, deliberou:
+1 - Nos termos do n.º 4 e n.º 5, ambos do artigo 199.º do RJIGT, emitir a declaração que identifica e delimita as áreas objeto da exceção ao n.º 3 do artigo 199.º do RJIGT, por serem áreas classificadas como espaços urbanizáveis ou de urbanização programada no Plano de Urbanização de Quarteira Norte/Nordeste (PUQNNE) que, entretanto, adquiriram caraterísticas de solo urbano nos termos do RJIGT e do Decreto Regulamentar n.º 15/2015.
+2 - Enviar à Comissão de Coordenação e Desenvolvimento Regional do Algarve (CCDR Algarve), para conhecimento, nos termos do disposto no n.º 5 do artigo 199.º do RJIGT, a presente declaração e respetivos anexos.
+3 - Enviar para publicação no Diário da República e para efeitos de depósito, através da plataforma de Submissão Automática de Instrumentos de Gestão Territorial (SSAIGT), nos termos que resultam da conjugação do disposto no n.º 5 do artigo 199.º e no artigo 191.º, ambos do RJIGT, a Declaração e demais peças escritas e gráficas, pela plataforma da Direção Geral do Território (DGT), para efeitos de publicação.
+11 de março de 2025. - O Presidente da Câmara Municipal, Vítor Manuel Gonçalves Aleixo.
+Identificadores das imagens e respetivos endereços do sítio do SNIT (conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+81859 - https://ssaigt.dgterritorio.pt/i/PZon_81859_ORTO.jpg
+81859 - https://ssaigt.dgterritorio.pt/i/PZon_81859_Planta.jpg
+618920648
