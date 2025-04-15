@@ -1,0 +1,35 @@
+Decreto-Lei n.º 103/2023
+
+de 7 de novembro
+
+Sumário: Aprova o regime jurídico de dedicação plena no Serviço Nacional de Saúde e da organização e do funcionamento das unidades de saúde familiar.
+
+A Lei de Bases da Saúde, aprovada em anexo à Lei n.º 95/2019, de 4 de setembro, prevê que o funcionamento do Serviço Nacional de Saúde (SNS) se sustenta numa força de trabalho planeada e organizada, de modo a satisfazer as necessidades assistenciais da população, em termos de disponibilidade, acessibilidade, aceitabilidade e qualidade. Nesse contexto, o Estado deve promover uma política de recursos humanos que valorize a dedicação plena como regime de trabalho dos profissionais de saúde do SNS, no âmbito de uma organização interna dos seus estabelecimentos e serviços que se baseie em modelos que privilegiam a autonomia de gestão, os níveis intermédios de responsabilidade e o trabalho de equipa.
+
+No desenvolvimento da Lei de Bases da Saúde e do Estatuto do SNS, aprovado pelo Decreto-Lei n.º 52/2022, de 4 de agosto, na sua redação atual, o presente decreto-lei procede à definição do regime de dedicação plena, que tem por objetivo potenciar os ganhos de acessibilidade, qualidade e eficiência nos diversos níveis de cuidados em que se organiza o SNS.
+
+O regime de dedicação plena corresponde a um modelo de organização do trabalho, assente, em regra, no trabalho desenvolvido por equipas multidisciplinares que integram as unidades de saúde familiar (USF), na área dos cuidados de saúde primários, e os centros de responsabilidade integrados (CRI), na área hospitalar, associando-se o cumprimento de objetivos previamente contratualizados a um sistema retributivo misto, composto pela remuneração base, por suplementos e por incentivos ao desempenho. Nas áreas dos cuidados de saúde primários e hospitalar, estabelece-se ainda a possibilidade de adesão individual, por parte dos trabalhadores médicos, ao regime de dedicação plena. Por fim, encontram-se ainda sujeitos ao regime de dedicação plena, na área hospitalar, os trabalhadores médicos designados, em regime de comissão de serviço, para o exercício de funções de direção de serviço ou de departamento dos estabelecimentos e serviços de saúde do SNS, bem como, na área de saúde pública, os trabalhadores médicos, salvo oposição expressa dos mesmos.
+
+No que respeita à aprovação do novo regime jurídico da organização e do funcionamento das USF, importa ter presente que os cuidados de saúde primários (CSP) são a base central do sistema de saúde em Portugal, nomeadamente do SNS, desempenhando um papel essencial na garantia do acesso universal ao conjunto de cuidados.
+
+Neste enquadramento, as USF representam um modelo de organização associado a maior motivação dos profissionais e satisfação dos utentes, razão pela qual, em linha com a Agenda 2030 para o Desenvolvimento Sustentável e assente na sua tripla dimensão - económica, social e ambiental, o XXIII Governo Constitucional assumiu o compromisso de prosseguir o trabalho de revisão e generalização deste modelo de organização, garantindo que as USF cobrem, pelo menos, 80 % da população até ao final da corrente legislatura. Este compromisso contribui, assim, para a concretização dos Objetivos de Desenvolvimento Sustentável (ODS), em particular do ODS 3 («Saúde de Qualidade»).
+
+A área dos CSP experimentou uma profunda reforma nos últimos anos, sendo as USF a face mais visível dessa reforma. Considera-se agora necessário atualizar o regime atualmente em vigor, fazendo-o evoluir para responder às necessidades em saúde da população e para potenciar o investimento na promoção de cuidados equitativos e universais, que acompanhem todo o ciclo vital de cada pessoa e que, simultaneamente, possam contribuir para valorizar os profissionais do SNS. Neste contexto, é também especialmente relevante destacar que o modelo das USF permite o alargamento da cobertura populacional por equipa de saúde familiar. São múltiplos os desafios que impelem à valorização dos CSP. Em linha com o que sucede nos países mais desenvolvidos, assistimos em Portugal a uma profunda mudança demográfica, com aumento proporcional da população idosa, também em resultado do aumento da esperança média de vida que se tem registado nas últimas décadas.
+
+Adicionalmente, não podem ser ignorados os padrões de morbilidade e mortalidade existentes no país, face à alta incidência de doenças crónicas não transmissíveis, como a diabetes e a hipertensão arterial, entre outras.
+
+A reforma dos cuidados de saúde primários que se iniciou em 2005 traduziu-se em enormes e inquestionáveis benefícios para a população, assentes no resultado do trabalho de equipas multidisciplinares, constituídas de forma voluntária, que se organizam com autonomia técnica e funcional e que asseguram resposta às necessidades em saúde de um conjunto de utentes pelos quais são solidariamente responsáveis facultando, em especial, cuidados médicos e de enfermagem personalizados.
+
+Volvidas quase duas décadas, é premente a necessidade de alterar, ainda que pontualmente, o regime atualmente em vigor, destacando-se, nesse âmbito, como principais inovações, a forma de constituição da lista de utentes, a qual passará a ponderar, e a ser proporcionalmente ajustada, ao risco individual de cada utente, privilegiando, desse modo as populações vulneráveis, que, naturalmente, têm maiores e mais complexas necessidades em saúde.
+
+Simultaneamente, procede-se ao alargamento do regime remuneratório e de incentivos, anteriormente previsto para as USF modelo B, a todos os profissionais que integram as USF, e a uma atualização, resultante da análise da experiência acumulada, na avaliação da componente da compensação pelo desempenho, nomeadamente a que está associada a atividades específicas, a qual continua a privilegiar a qualidade de cuidados, mas passa também a valorizar a melhoria do acesso, da qualidade, da eficiência e da integração de cuidados.
+
+Por outro lado, cumpre ainda referir que até à aprovação do novo regime dos CRI, que serão integrados por equipas multiprofissionais sujeitas ao regime de dedicação plena, mantêm-se em funcionamento os CRI existentes à data da produção de efeitos do presente decreto-lei ou que venham a constituir-se nos termos do artigo 90.º do Estatuto do SNS.
+
+Por último, procede-se à prorrogação da vigência do Decreto-Lei n.º 50-A/2022, de 25 de julho, na sua redação atual, que aprovou o regime remuneratório do trabalho suplementar realizado por médicos em serviços de urgência, até ao dia 10 de janeiro de 2024.
+
+Foram observados os procedimentos de negociação coletiva, decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.
+
+Assim:
+
+No desenvolvimento do n.º 3 da base 29 da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro, e nos termos do artigo 16.º-A do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 52/2022, de 4 de agosto, na sua redação atual, e das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
