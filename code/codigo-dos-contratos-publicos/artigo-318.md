@@ -20,7 +20,7 @@ a) Da prévia apresentação dos documentos de habilitação relativos ao potenc
 
 b) Do preenchimento, por parte do potencial subcontratado, de requisitos mínimos de capacidade técnica ou de capacidade financeira, quando o contrato subordinar expressamente a subcontratação à avaliação dessas capacidades ou de uma delas, ou do preenchimento, por parte do potencial subcontratado, dos requisitos mínimos de capacidade técnica relativos às prestações a subcontratar, sempre que o co-contratante recorra à capacidade de potenciais subcontratados, para efeitos de qualificação na fase de formação do contrato.
 
-4 - O contrato pode proibir a subcontratação de determinadas prestações contratuais ou de prestações cujo valor acumulado exceda uma percentagem do preço contratual.
+4 - O contrato pode exigir que determinadas prestações contratuais críticas, tendo em conta o objeto do contrato a celebrar, sejam executadas diretamente pelo cocontratante.
 
 5 - A estipulação contratual prevista no número anterior não pode ter por efeito restringir, limitar ou falsear a concorrência garantida pelo disposto no presente Código relativamente à formação do contrato, não podendo, designadamente, limitar a possibilidade de recurso à capacidade técnica de terceiras entidades que se afigure essencial para efeitos de qualificação do co-contratante.
 
