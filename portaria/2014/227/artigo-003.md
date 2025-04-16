@@ -22,11 +22,11 @@ c) Um representante Autoridade Nacional do Medicamento e Produtos de Saúde, I. 
 
 d) Um representante da Direção-Geral da Saúde (DGS);
 
-e) Um representante de cada uma das Administrações Regionais de Saúde;
+e) Um representante da Direção Executiva do Serviço Nacional de Saúde (DE-SNS);
 
-f) Um representante de cada um de cinco Hospitais ou Unidades Locais de Saúde indicados anualmente, em sistema de rotatividade, pela SPMS, E. P. E.;
+f) Um representante de cada uma de cinco Unidades Locais de Saúde, indicados anualmente, em sistema de rotatividade, pela SPMS, E. P. E;
 
-g) Um representante da Secretária-Geral do Ministério da Saúde.
+g) Um representante da Administração Central do Sistema de Saúde, I. P. (ACSS).
 
 4 - Os representantes da CACS são nomeados por despacho do membro do Governo responsável pela área da saúde e publicitadas no Portal da SPMS, E. P. E..
 
