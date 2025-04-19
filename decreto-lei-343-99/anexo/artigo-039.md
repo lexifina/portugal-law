@@ -1,3 +1,11 @@
+## Subsecção IV
+
+## Secretários de tribunal superior
+
+## Subsecção V
+
+## Secretários de justiça em secretarias-gerais
+
 # Artigo 39.º
 
 ### Provimento em secretarias-gerais
