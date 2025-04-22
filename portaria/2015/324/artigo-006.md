@@ -4,7 +4,7 @@
 
 1 - As iniciativas são publicitadas na Bolsa de Iniciativas a partir da data do respetivo registo.
 
-2 - A publicitação de uma iniciativa na plataforma eletrónica da RRN é realizada com base na seguinte informação:
+2 - A publicitação de uma iniciativa na plataforma eletrónica da RNPAC é realizada com base na seguinte informação:
 
 a) Data de registo da iniciativa;
 
@@ -12,4 +12,4 @@ b) Os elementos previstos no n.º 4 do artigo 4.º;
 
 c) Os elementos previstos nas alíneas a) e b) do n.º 5 do artigo 4.º
 
-3 - A iniciativa permanece na Bolsa de Iniciativas pelo período de um ano, com exceção das situações em que o coordenador da iniciativa comunique à ETA da RRN o interesse na sua continuação.
+3 - A iniciativa permanece na Bolsa de Iniciativas pelo período de um ano.

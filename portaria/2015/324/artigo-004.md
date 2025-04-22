@@ -2,11 +2,13 @@
 
 ### Apresentação de iniciativas
 
-1 - A Bolsa de Iniciativas funciona na plataforma eletrónica da RRN em www.rederural.pt.
+1 - A Bolsa de Iniciativas funciona na plataforma eletrónica da RNPAC em https://www.rederural.gov.pt.
 
-2 - Todos os parceiros de uma iniciativa têm de ser membros da RRN (https://www.rederural.gov.pt/membros-da-rede).
+2 - Todos os parceiros de uma iniciativa têm de ser membros da RNPAC:
 
-3 - A apresentação de iniciativas é efetuada através do preenchimento e submissão de formulário disponível na plataforma eletrónica da RRN, em www.rederural.pt, considerando-se a iniciativa apresentada na data em que este se encontre devidamente submetido.
+(https://www.rederural.gov.pt/membros-da-rede).
+
+3 - A apresentação de iniciativas é efetuada através do preenchimento e submissão de formulário disponível na plataforma eletrónica da RNPAC, em https://www.rederural.gov.pt, considerando-se a iniciativa apresentada na data em que este se encontre devidamente submetido.
 
 4 - A iniciativa deve incluir os seguintes elementos:
 

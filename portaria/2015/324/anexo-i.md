@@ -1,8 +1,8 @@
 # Anexo I
 
-### Prioridades e domínios temáticos para a inovação no âmbito da Política de Desenvolvimento Rural
+### Prioridades e domínios temáticos para a inovação no âmbito da Política de Desenvolvimento Rural e da Agricultura
 
-[a que se referem a alínea c) do n.º 3 do artigo 4.º e a alínea a) do n.º 1 do artigo 5.º]
+[a que se referem a alínea d) do n.º 4 do artigo 4.º e a alínea a) do n.º 2 do artigo 5.º]
 
 1.ª Prioridade - Aumento da eficiência dos recursos na produção agrícola e florestal
 
@@ -53,3 +53,5 @@ Domínios Temáticos:
 4.ª Prioridade - Valorização dos territórios
 
 Melhoria da inserção dos bens e serviços agrícolas e florestais na valorização de territórios.
+
+5.ª Prioridade: Outros domínios temáticos previstos nas iniciativas emblemáticas da Agenda de Inovação 2030
