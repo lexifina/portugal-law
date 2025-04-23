@@ -8,20 +8,22 @@
 
 O processo de avaliação dos trabalhadores compreende as seguintes fases:
 
-a) Planeamento do processo de avaliação e definição de objectivos e resultados a atingir;
+a) Planeamento do processo de avaliação, definição de competências, objetivos e resultados a atingir;
 
-b) Realização da auto-avaliação e da avaliação;
+b) Controlo do cumprimento da contratualização dos parâmetros de avaliação;
 
-c) Harmonização das propostas de avaliação;
+c) Realização da auto-avaliação e da avaliação;
 
-d) Reunião entre avaliador e avaliado para avaliação de desempenho, contratualização dos objectivos e respectivos indicadores e fixação das competências;
+d) Harmonização e validação das propostas de avaliação e reconhecimento de desempenhos excelentes;
 
-e) Validação de avaliações e reconhecimento de Desempenhos excelentes;
+e) (Revogada.)
 
-f) Apreciação do processo de avaliação pela comissão paritária;
+f) Reunião entre avaliador e avaliado para comunicação da avaliação de desempenho anterior e contratualização dos objetivos, respetivos indicadores e fixação das competências e formação associada;
 
-g) Homologação;
+g) Apreciação do processo de avaliação pela comissão paritária;
 
-h) Reclamação e outras impugnações;
+h) Homologação;
 
-i) Monitorização e revisão dos objectivos.
+i) Reclamação e outras impugnações;
+
+j) Monitorização e revisão dos objectivos

@@ -18,4 +18,4 @@ a) SIADAPRA 1, anual;
 
 b) SIADAPRA 2, de três anos, de acordo com a duração da comissão de serviço;
 
-c) SIADAPRA 3, bienal.
+c) SIADAPRA 3, anual.

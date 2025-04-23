@@ -1,3 +1,11 @@
+## Título VI
+
+## Disposições transitórias e finais
+
+## Capítulo I
+
+## Disposições transitórias
+
 # Artigo 81.º
 
 ### Estratégia de aplicação

@@ -10,11 +10,15 @@ b) Estabelecer orientações gerais em matéria de fixação de objectivos, de e
 
 c) Estabelecer o número de objectivos e de competências a que se deve subordinar a avaliação de desempenho, podendo fazê-lo para os trabalhadores dos serviços dependentes ou, quando se justifique, por unidade orgânica ou por carreira;
 
-d) Garantir o rigor e a diferenciação de desempenhos do SIADAPRA 3, cabendo-lhe validar as avaliações de Desempenho relevante e Desempenho inadequado, bem como proceder ao reconhecimento do Desempenho excelente;
+d) Garantir o rigor e a diferenciação de desempenhos, cabendo-lhe validar as avaliações de Desempenho inadequado, bem como proceder ao reconhecimento de Desempenho excelente;
 
 e) Emitir parecer sobre os pedidos de apreciação das propostas de avaliação dos dirigentes intermédios avaliados;
 
-f) Exercer as demais competências que, por lei ou regulamento, lhe sejam cometidas.
+f) Exercer as demais competências que, por lei ou regulamento, lhe sejam cometidas;
+
+g) Garantir, no início de cada ciclo de avaliação, o cumprimento da contratualização dos parâmetros de avaliação e das orientações a que se refere a alínea b);
+
+h) Atribuir, nos casos de não validação das avaliações de desempenho de inadequado, classificação final quantitativa com a correspondente menção qualitativa, nos termos previstos no n.º 6 do artigo 50.º
 
 2 - O conselho é presidido pelo dirigente máximo designado para o efeito pelo respectivo membro do Governo Regional e integra o responsável pela gestão dos recursos humanos e demais dirigentes máximos do departamento, assim como o chefe de gabinete quando tenha competências delegadas em matéria de pessoal.
 

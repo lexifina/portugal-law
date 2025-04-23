@@ -18,6 +18,6 @@
 
 4 - A avaliação do desempenho dos dirigentes intermédios realizada nos termos do presente título não produz quaisquer efeitos na respetiva carreira de origem.
 
-5 - A avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores que exercem cargos dirigentes, assim como os que aludem os artigos 6.º e 7.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na redação atual, é realizada bienalmente nos termos dos n.os 5 a 7 do artigo 42.º, e do artigo 43.º
+5 - A avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores que exercem cargos dirigentes, assim como aos que aludem os artigos 6.º e 7.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na redação atual, é realizada anualmente, nos termos dos n.os 5 a 7 do artigo 42.º e do artigo 43.º
 
-6 - A avaliação do desempenho do pessoal integrado em carreira que se encontre em exercício de funções de direção ou equiparadas inerentes ao conteúdo funcional da carreira, quando tal exercício não for titulado em comissão de serviço, é feita bienalmente, nos termos do SIADAPRA 3, não sendo aplicável o disposto nos n.os 4 e 5.
+6 - A avaliação do desempenho do pessoal integrado em carreira que se encontre em exercício de funções de direção ou equiparadas inerentes ao conteúdo funcional da carreira, quando tal exercício não for titulado em comissão de serviço, é feita anualmente, nos termos do SIADAPRA 3, não sendo aplicável o disposto nos n.os 4 e 5.

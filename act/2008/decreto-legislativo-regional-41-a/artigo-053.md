@@ -8,4 +8,6 @@ a) Analisar os fundamentos de insuficiência no desempenho e identificar as nece
 
 b) Fundamentar decisões de melhor aproveitamento das capacidades do trabalhador.
 
-2 - As necessidades de formação identificadas devem traduzir-se em acções a incluir no plano de desenvolvimento profissional.
+2 - As necessidades de formação identificadas devem traduzir-se em ações a incluir no plano de desenvolvimento profissional, no ano subsequente imediato.
+
+3 - Para efeitos de aplicação do disposto em matéria de procedimento disciplinar, na LTFP, a avaliação de desempenho negativa nela prevista corresponde à menção qualitativa de inadequado.
