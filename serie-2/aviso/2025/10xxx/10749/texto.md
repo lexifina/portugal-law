@@ -1,0 +1,7 @@
+Aviso n.º 10749/2025/2
+
+Catarina Isabel Gaspar Manito, Presidente da Câmara Municipal da Madalena do Pico, Faz saber que, no uso das competências conferidas pela alínea t) do n.º 1 do artigo 35.º, em cumprimento e para efeitos do disposto artigo 56.º, ambos, da Lei n.º 75/2013, de 12 de setembro, na sua redação atual e em conformidade com o disposto no artigo 139.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Assembleia Municipal, na sua reunião realizada no dia 09 de abril de 2025, aprovou o Alteração ao Regulamento do Transporte Público de Aluguer em Veículos Automóveis Ligeiros de Passageiros - Transporte em Táxi no uso da competência prevista no disposto na alínea g) do n.º 1 do artigo 25.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, sob proposta da Câmara Municipal tomada na sua reunião ordinária de 24 de março de 2025 e após a realização da respetiva audiência de interessados.
+Mais faz saber que a presente versão do Regulamento, entra em vigor no dia seguinte à sua publicação no Diário da República.
+Para constar e para os devidos efeitos lavra-se Edital para ser afixado nos Edifício dos Paços do Concelho e demais lugares de costume e faz-se publicação do Regulamento, na íntegra, no site da Câmara Municipal da Madalena (www.cm-madalena.pt).
+11 de abril de 2025. - A Presidente da Câmara Municipal, Catarina Isabel Gaspar Manito.
+318943393
