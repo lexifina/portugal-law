@@ -1,0 +1,115 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34210",
+  "numero": "164",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-04-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2025-07-04",
+        "DataArquivo": "2025-07-04",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": "2025-07-04",
+        "DataReaberta": "2025-07-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-07-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a63324f54686d4f57526b4c544a6d593259744e446b7a4d5331695a4759794c5755794e7a6b78597a42684f575531597935775a47593d&fich=7698f9dd-2fcf-4931-bdf2-e2791c0a9e5c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8447",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-05-05",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8393",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-05-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a45784e4759304e6d5a684c54417a4d6a67744e4459775a69316959546c6c4c574e6d4e32593459574d795a6d4d304e5335775a47593d&fich=114f46fa-0328-460f-ba9e-cf7f8ac2fc45.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34210",
+    "PetAssunto": "Lei Relativa ao Registo de Estrangeiros no SIBA para Proprietários de Alojamento Local (AL)",
+    "PetDataEntrada": "2025-04-29",
+    "PeticoesAssociadas": null,
+    "PetId": "34210",
+    "PetLeg": "XVI",
+    "PetNr": "164",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
