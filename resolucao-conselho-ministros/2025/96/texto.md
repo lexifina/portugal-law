@@ -1,0 +1,24 @@
+Resolução do Conselho de Ministros n.º 96/2025
+
+A construção de um novo Hospital Central no Alentejo é reconhecida como um projeto da maior relevância estratégica para o Serviço Nacional de Saúde, permitindo a obtenção de ganhos de racionalidade e eficiência no desempenho e funcionamento da rede hospitalar, com importantes benefícios para o desenvolvimento regional do Alentejo ao nível da proximidade, modernização e qualidade de prestação de cuidados de saúde à população.
+Tendo como objetivo garantir a plena entrada em funcionamento deste equipamento hospitalar, considerado como um projeto estruturante de investimento público, é, igualmente, necessário garantir a construção das respetivas infraestruturas rodoviárias, de água e saneamento e energia.
+Para o efeito, segundo o Despacho n.º 6627-B/2023, publicado no Diário da República, 2.ª série, n.º 118, de 20 de junho de 2023, foi determinado que competia ao conselho diretivo da Administração Regional de Saúde do Alentejo, I. P., desenvolver todas as diligências para criar as condições de acesso e circulação viária da área envolvente ao novo Hospital Central do Alentejo, bem como as infraestruturas de saneamento e de fornecimento de águas a este edifício.
+Nos termos das competências referidas, a Administração Regional de Saúde do Alentejo outorgou, a 21 de junho de 2023, um Protocolo com o Município de Évora e com a Comissão de Coordenação e Desenvolvimento Regional do Alentejo, I. P., considerado como estratégico, com o objetivo de congregar esforços para a concretização destas infraestruturas.
+Releva que a concretização destas infraestruturas tem de considerar, igualmente, a eventualidade de expropriações, assim como a ligação à rede elétrica.
+Importa, por isso, autorizar a despesa que suportará o Protocolo em apreço, em todas as vertentes mencionadas. Acresce que, a infraestrutura relativa ao saneamento e fornecimento de água será objeto de candidatura a financiamento da União Europeia, no âmbito Programa Regional do Alentejo - Alentejo 2030, aviso com código ALT2030-2024-33.
+Considerando o estado da obra do novo Hospital Central do Alentejo e a maturidade da candidatura referida, importa submetê-la na fase 6 do referido Programa que termina a 30 de abril.
+Face ao exposto, a aprovação da presente resolução é urgente, inadiável e indispensável, desde logo para garantir a continuidade da execução dos projetos com financiamento da União Europeia não colocando em causa os investimentos, bem como, dar continuidade à concretização das infraestruturas do Novo Hospital Central do Alentejo.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Administração Regional de Saúde do Alentejo, I. P. (ARS do Alentejo, I. P.), e a entidade que lhe suceda, neste âmbito, após a sua extinção, a realizar a despesa, até ao montante máximo de € 13 776 000,00, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, com a construção das acessibilidades do novo Hospital Central do Alentejo, a saber, infraestrutura rodoviária, incluindo expropriações, abastecimento de água, saneamento e ligação à rede elétrica pública.
+2 - Determinar que os encargos com a despesa referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+a) 2025: € 450 000,00;
+b) 2026: € 12 900 000,00;
+c) 2027: € 426 000,00.
+3 - Estabelecer que a importância fixada para cada ano económico pode ser acrescida do saldo apurado no ano que o antecede.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são suportados por verbas inscritas e a inscrever no Programa Orçamental da Saúde.
+5 - Determinar que, no âmbito da despesa que ora se autoriza, a Administração Central do Sistema de Saúde, I. P., pode efetuar, por conta da ARS do Alentejo, I. P., e até à conclusão do processo de extinção, os pagamentos que venham a ser necessários.
+6 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da saúde, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+7 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 23 de abril de 2025. - O Primeiro-Ministro, Luís Montenegro.
+118995988
