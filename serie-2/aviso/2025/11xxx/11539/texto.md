@@ -1,0 +1,7 @@
+Aviso n.º 11539/2025/2
+
+Discussão Pública da 2.ª Versão do Projeto do Novo Regulamento Municipal de Urbanização e de Edificação
+Nuno Vaz Ribeiro, na qualidade de Presidente da Câmara Municipal de Chaves, faz público que, por deliberação do executivo camarário, tomada em sua reunião ordinária, realizada no dia 24/04/2025, foi aprovada a 2.ª versão do projeto do novo «Regulamento Municipal de Urbanização e de Edificação» (RMUE), tendo por base a Informação/Proposta n.º 26/SPU/2025.
+O referido projeto de regulamento encontra-se em discussão pública para audiência dos interessados (2.ª consulta pública), por um período de 30 dias úteis, a contar do dia da sua publicação no Diário da República, nos termos e para os efeitos previstos no n.º 4 do artigo 3.º do RJUE e no n.º 1 do artigo 101.º do CPA, devendo as sugestões ser apresentadas, por escrito, mediante requerimento devidamente identificado, dirigido ao Presidente da Câmara Municipal de Chaves, o qual deverá ser entregue junto do Balcão de Atendimento da autarquia sito na Rua da Infantaria XIX, Edifício Duques de Bragança, podendo os interessados consultar o documento durante as horas normais de expediente, das 9:00 às 13:00 e das 14:00 às 17:00 horas, junto da Divisão de Ordenamento do Território e Gestão Urbanística, sita no 2.º piso do edifício mencionado, ou através da Internet, no endereço eletrónico deste Município (http://www.chaves.pt/).
+28 de abril de 2025. - O Presidente da Câmara Municipal, Nuno Vaz Ribeiro.
+318995022
