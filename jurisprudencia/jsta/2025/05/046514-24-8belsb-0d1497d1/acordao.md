@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-05-07, processo 046514/24.8BELSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 046514/24.8BELSB
+
+**Data do Acordão:** 05/07/2025
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** FREDERICO MACEDO BRANCO
+
+**Descritores:** CONTENCIOSO PRÉ-CONTRATUAL; CONCURSO PÚBLICO; AQUISIÇÃO DE SERVIÇOS; PODER DE REPRESENTAÇÃO; PREÇO ANORMALMENTE BAIXO
+
+**Nº Convencional:** JSTA000P33693
+
+**Nº do Documento:** SA120250507046514/24
+
+**Recorrente:** A..., UNIPESSOAL, LDA.
+
+**Recorrido 1:** ASSEMBLEIA DA REPÚBLICA PORTUGUESA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – Relativamente aos poderes de representação do subscritor de proposta contratual e no que respeita à contagem do mandato de um Administrador Único de Sociedade, conta a data da nomeação e a correspondente aceitação, não a data da publicação, não se mostrando, pois, necessário o registo para que o ato possa produzir efeitos, como decorre do Artº 409.º do CSC.
+
+A data da nomeação é que determina o início do período de mandato, enquanto a publicação serve apenas para dar publicidade à nomeação e para efeitos de oposição de terceiros, sendo que, em qualquer caso, o Administrador em funções, que é o mesmo que veio a ser nomeado para novo mandato, sempre se manteria em funções, como resulta do Artº 391.º, n.º 5 do CSC, no qual se refere expressamente que "(…) os administradores mantêm-se em funções até nova designação …”.
+
+II – Resultando provado que a obrigatória Formação dos motoristas ocorreu dentro da janela temporal constante do programa do procedimento, não constituem falsas declarações a circunstância de ter sido indicado que a mesma tenha ocorrido em momento diverso do declarado.
+
+III – A decisão do Júri não padece de erro quanto aos pressupostos de facto, no que respeita ao invoca “preço anormalmente baixo”, pois que ficou por demonstrar que o proposto concursalmente pela Contrainteressada corresponda a uma conduta anti-concorrencial suscetível de falsear a concorrência.
+
+Na realidade, a al. g), do n.° 2, do art.° 70.° do CCP, pressupõe que seja identificada uma conduta anti-concorrencial, à luz dos art.°s 9.° a 12.° da Lei n.° 19/2012, de 8 de maio, o que não se mostra evidenciado a ponto de determinar a exclusão da proposta, pois que se não vislumbram os necessários «fortes indícios» da verificação de atos anti-concorrenciais.
+
+A mera comparação de propostas, mostra-se insuficiente para justificar a verificação de atos, acordos, práticas ou informações suscetíveis de falsear as regras da concorrência
+
+IV - A avaliação dos fortes indícios de atos, acordos, práticas ou informações suscetíveis de falsear as regras de concorrência, remete para uma prova objetiva, real, concordante e circunstanciada, que não tem de ser feita através de prova direta, firme e irrefutável, pois pode basear-se num conjunto de elementos factuais a partir dos quais se retirem factos presumidos, competindo ao júri do procedimento e à entidade adjudicante também apenas comprovar a existência daqueles “fortes indícios” e não a prática efetiva de uma conduta anticoncorrencial, sendo que, em concreto, não foram estabelecidas as situações em que o preço ou o custo da proposta é considerado anormalmente baixo.
+
+V - Não se pode atender, em exclusivo, a um preço unitário referido numa proposta, quando este nem sequer integra diretamente o preço global da proposta, tal como este é discriminado, nos termos fixados pela entidade adjudicante. O n.° 2 do artigo 71.° do CCP aplica-se ao preço global da proposta, e não a cada um dos preços unitários propostos, sendo que a lei apenas releva os preços anormalmente baixos dentro dos parâmetros globalmente definidos.
+
+Não tendo sido feita prova cabal de que a proposta da Contrainteressada apresentasse um preço anormalmente baixo, à luz dos normativos aplicáveis, a saber, os artigos 1.°-A, n.° 2, 71.°, n.° 2, 70.°, n.° 2, alínea e) e 146.°, n.° 2, alínea o) do CCP, não pode a proposta ser excluída, pois que, mesmo que se entendesse que os valores remuneratórios unitários apresentados seriam baixos, essa circunstancia não deixaria de constituir um mero indicio da invocada violação, que não foi confirmado pelo conjunto da prova disponível.
