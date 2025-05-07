@@ -1,0 +1,27 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-05-07, processo 03838/23.7BELSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 03838/23.7BELSB
+
+**Data do Acordão:** 05/07/2025
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** SUZANA TAVARES DA SILVA
+
+**Descritores:** SISTEMA DE CLASSIFICAÇÃO; FUNCIONÁRIO PÚBLICO; TRANSIÇÃO; CARREIRA; AVALIAÇÃO
+
+**Nº Convencional:** JSTA000P33709
+
+**Nº do Documento:** SA12025050703838/23
+
+**Recorrente:** INSTITUTO NACIONAL DE ESTATÍSTICA
+
+**Recorrido 1:** AA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+É de admitir a revista para verificar a correcta interpretação jurídica que deve ser dada a um caso de implicações em termos de avaliação SIADAP decorrentes da transição ope legis de carreiras.
