@@ -1,0 +1,5 @@
+Aviso n.º 11733/2025/2
+
+Nos termos do disposto nos artigos 97.º a 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º da Lei n.º 62/2007 de 10 de setembro, que aprova o Regime Jurídico das Instituições de Ensino Superior (RJIES), na sua atual redação, submete-se a consulta pública o projeto de alteração ao Regulamento de Estágios Curriculares de cursos das licenciaturas do Departamento de Engenharia Eletrotécnica do Instituto Superior de Engenharia da Universidade do Algarve, com vista à recolha de contributos e sugestões, procedendo-se, para o efeito, à publicação do Aviso na 2.ª série do Diário da República e à divulgação no sítio da Internet https://www.ualg.pt/content/documentos-ualg, devendo os interessados apresentar as sugestões ou comentários por escrito, no prazo de 30 dias a contar da data da referida publicação, ao Diretor do Instituto Superior de Engenharia da Universidade do Algarve, utilizando o endereço eletrónico diretorise@ualg.pt.
+21 de abril de 2025. - O Diretor, Paulo Jorge Maia dos Santos.
+319013043
