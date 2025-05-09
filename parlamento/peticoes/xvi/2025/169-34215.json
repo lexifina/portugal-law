@@ -1,0 +1,246 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OtwD43gBTpICggS9IEBetJmXCwCDrVoq5YtoiXMM5SxDFPT5LnCv70ecr4YBUwd87tMg4JCj5x%2fNgsYyok8oJ%2fMXBB7qwL6En5ZnJfUeouR72o5ZRWB%2faBuru8zUSMEYHJ1NuDwaqYwjEXzQI6x4psjZ1I7CditeWF612mzPTSVEsknE7EUHF2pPQXeFmkjVTlLHigJq7K1qmDLJusMG2PzbHkWj0SMH8bon4q3WkZt0vdFbnKIFIrXKEjPxhKv9ReNOMufSFpJDqKt2rff%2feLahtD2jEUVCLsqAan%2f6xc%2fs0ZGvT67x9ijXz5%2bVl6166wUtcRc%2ffYD2qlBwT7gUtSK8FGfuF8NsKKNSFo8GTCj8Sk3C586jQgCqKCVKJzAE&fich=PeticoesXVI_json.txt&Inline=true",
+  "ficheiro_sha256": "f41ceb5d022d2960e92ff70890f6e9ab96b7f498c9888de914d0b139a72fbd0c",
+  "legislatura": "XVI",
+  "id": "34215",
+  "numero": "169",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-05-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-09-17",
+            "entidades": null,
+            "id": "159517",
+            "tipo": null,
+            "titulo": "Audição em 2025-09-17 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2025-09-26",
+            "dataResposta": null,
+            "entidades": [
+              "DGAV - Direção Geral de Alimentação e Veterinária"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2025-09-26",
+            "dataResposta": "2025-10-15",
+            "entidades": [
+              "Federação  Portuguesas das  Associações Avicolas - FEPASA"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2025-09-26",
+            "dataResposta": "2025-10-22",
+            "entidades": [
+              "Ordem dos Médicos Veterinários"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2025-09-26",
+            "dataResposta": "2025-10-17",
+            "entidades": [
+              "APEZ - Associação Portuguesa de Engenharia Zootécnica"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-07-08",
+        "DataArquivo": "2026-01-20",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": "2026-01-21",
+        "DataReaberta": "2025-07-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-07-08",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a59573876597a59304d4463775a444974597a4a6b595330304e444d794c546b32595759744f544d305a6a4e685a6a45354e444e694c6e426b5a673d3d&fich=c64070d2-c2da-4432-96af-934f3af1943b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-01-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a5957387659324d30596d5a684d474d744d6d55784e533030597a466c4c546b305a4749744d6a45305a475a6c597a466a4e6a45304c6e426b5a673d3d&fich=cc4bfa0c-2e15-4c1e-94db-214dfec1c614.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2025-10-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764f57466c4e7a6379596a51744d5759305a6930304d57526d4c546733593251744d6d466b596a4131597a4e6a4f4441304c6e426b5a673d3d&fich=9ae772b4-1f4f-41df-87cd-2adb05c3c804.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-10-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738765a6d5a6c5a44497a4e5449745a4459304d5330304d6a63794c574a6d595441744e5759344e6a6c6b4f446c6a4d445a6d4c6e426b5a673d3d&fich=ffed2352-d641-4272-bfa0-5f869d89c06f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-10-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738765a6d497a4d6a4531596a49744d4467334e4330304d7a51354c574579595445744f446b315a6a566a4d474d334d7a637a4c6e426b5a673d3d&fich=fb3215b2-0874-4349-a2a1-895f5c0c7373.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8453",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Agricultura e Pescas ",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2025-07-08",
+            "gp": "PS",
+            "id": "2885",
+            "motivoCessacao": null,
+            "nome": "Joana Lima"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-05-14",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8399",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Agricultura e Pescas             ",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-05-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a426d4e325a684f475a684c5745314d3251744e4445795a4330354e4463334c544e6b4e6d55794f475933596a5534597935775a47593d&fich=0f7fa8fa-a53d-412d-9477-3d6e28f7b58c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2025-05-14",
+        "TipoDocumento": "Link",
+        "URL": "https://abrirdeasas.pt/wp-content/uploads/2022/10/dominion.mp4"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34215",
+    "PetAssunto": "Pelo fim do Abate Indiscriminado de Pintainhos Machos em Portugal",
+    "PetDataEntrada": "2025-05-09",
+    "PeticoesAssociadas": null,
+    "PetId": "34215",
+    "PetLeg": "XVI",
+    "PetNr": "169",
+    "PetNrAssinaturas": "9521",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "1",
+    "PetSituacao": "Proposta para apreciação em plenário",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915321",
+        "obs": null,
+        "pag": [
+          "23-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-05",
+        "pubLeg": "XVII",
+        "pubNr": "5",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/17/01/005/2025-07-05/23?pgs=23-24&org=PLC"
+      }
+    ]
+  }
+}
