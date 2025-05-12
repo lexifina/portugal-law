@@ -1,0 +1,26 @@
+# Resolução do Conselho do Governo Regional n.º 222/2025
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 82/2025, 2.º suplemento, de 2025-05-12
+
+**Sumário:** Autoriza a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a Associação Regional de Vela da Madeira, tendo em vista a execução de um projeto intitulado “Festival Náutico do Atlântico”, cujas iniciativas a apoiar decorrem em junho e julho de 2025, mediante uma comparticipação financeira que não excederá 95.000,00 €.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 222/2025
+Sumário: Autoriza a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a Associação Regional de Vela da Madeira, tendo em vista a execução de um projeto intitulado “Festival Náutico do Atlântico”, cujas iniciativas a apoiar decorrem em junho e julho de 2025, mediante uma comparticipação financeira que não excederá 95.000,00 €.
+Texto: Resolução n.º 222/2025 Considerando que o Decreto Legislativo Regional n.º 25/99/M, de 27 de agosto estabeleceu o enquadramento e definição legal dos apoios financeiros a projetos de interesse cultural ou de promoção e animação turísticas;
+
+Considerando que o referido diploma foi regulamentado, para a área do turismo, pela Portaria n.º 78/2001, de 17 de julho, que veio definir os princípios gerais e as condições de acesso a esses apoios financeiros através da celebração de contratosprograma de dinamização das atividades de promoção e animação turísticas e protocolos de desenvolvimento e cooperação no âmbito da promoção e animação turísticas;
+Considerando que com a celebração de contratos-programa e protocolos, nos termos definidos na Portaria n.º 78/2001, de 17 de julho, pretende-se disponibilizar às diversas entidades, em nome individual ou coletivo, meios de financiamento público destinados à prossecução de projetos de relevante interesse turístico;
+Considerando que as práticas náuticas são um recurso turístico de grande importância, com forte influência no fortalecimento da economia azul e na valorização do território local, as mesmas destacam-se como uma atração para novos públicos. Esse impulso favorece a diversificação da oferta turística da Madeira, desempenhando, assim, um papel multiplicador no desenvolvimento do setor turístico regional;
+Considerando que o projeto proposto pela Associação Regional de Vela da Madeira, denominado “Festival Náutico do Atlântico”, visa destacar e promover as qualidades da Madeira no setor do turismo náutico, ampliando a oferta de experiências, e ainda fomentar o interesse e a divulgação do cartaz turístico do Festival do Atlântico, alinhando-se à estratégia de posicionamento da Madeira como destino turístico de excelência;
+Considerando que a Associação Regional de Vela da Madeira é uma associação de reconhecido mérito e com capacidade para executar o projeto por si apresentado, o qual apresenta um grande potencial para atrair novos turistas e impulsionar a procura, desempenhando, assim, um papel essencial na promoção e na projeção do destino além-fronteiras, mantém-se ainda, o compromisso de apoiar a política de Turismo do Governo Regional.
+Assim, ao abrigo do disposto no n.º 11 do artigo 38.º e do n.º 2 do artigo 39.º do Decreto Legislativo Regional n.º 6/2024/M, de 29 de julho, por via do artigo 15.º da Lei n.º 28/92, de 1 de outubro na sua redação atual, em conjugação com a alínea d) do artigo 3.º e no artigo 7.º do Decreto Legislativo Regional n.º 25/99/M, de 27 de agosto, conjugada com a Portaria n.º 78/2001, de 17 de julho o Conselho do Governo reunido em plenário em 8 de maio de 2025, resolve:
+1. Autorizar a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a Associação Regional de Vela da Madeira, tendo em vista a execução de um projeto intitulado “Festival Náutico do Atlântico”, cujas iniciativas a apoiar decorrem em junho e julho de 2025.
+2. Para a prossecução do projeto previsto no número anterior, conceder à Associação Regional de Vela da Madeira uma comparticipação financeira que não excederá 95.000,00 € (noventa e cinco mil euros).
+3. Aprovar a minuta do protocolo, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-geral da Presidência, para a atribuição do referido apoio financeiro.
+4. Mandatar o Secretário Regional das Finanças, em substituição do Secretário Regional de Turismo, Ambiente e Cultura (Resolução n.º 210/2025, de 30 de abril, publicado em JORAM, I Série, n.º 76, de 2 de maio) e a Diretora Regional do Turismo para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o protocolo, o qual produzirá efeitos desde a data da assinatura até 30 de dezembro de 2025.
+5. As despesas resultantes do protocolo a celebrar têm cabimento orçamental na Secretaria 46, Capítulo 50, Divisão 01, Subdivisão 02, Classificação Funcional 047, Classificação Económica D.04.07.01.RD.F0, Fonte 381, Programa 043, Medida 010, Projeto 50975.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
