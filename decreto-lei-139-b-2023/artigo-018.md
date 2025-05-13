@@ -1,0 +1,29 @@
+## Capítulo III
+
+## Disposições complementares, transitórias e finais
+
+# Artigo 18.º
+
+### Alteração ao Decreto-Lei n.º 241/99, de 25 de junho
+
+O artigo 13.º do Decreto-Lei n.º 241/99, de 25 de junho, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 13.º
+
+[...]
+
+1 - [...]
+
+2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação e dos respetivos polos.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)»
