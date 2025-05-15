@@ -1,0 +1,17 @@
+Aviso n.º 12462/2025/2
+
+Discussão pública da elaboração do Plano de Pormenor do Alfamar e Envolvente e consulta pública do relatório de avaliação ambiental
+Torna-se público, que a Câmara Municipal de Albufeira, em reunião pública de 15 de abril de 2025, deliberou dar início ao período de discussão pública relativa à elaboração do Plano de Pormenor do Alfamar e Envolvente e em simultâneo o período de consulta pública do Relatório de Avaliação Ambiental, nos termos do artigo 89.º, em articulação com o artigo 119.º, do Decreto-Lei n.º 80/2015, de 14 de maio, e nos termos do n.º 6 e n.º 7 do artigo 6.º do DL n.º 232/2007 de 15/06, alterado pelo Decreto-Lei n.º 58/2011 de 04/05, respetivamente.
+Também deliberou estabelecer um período de discussão pública e de consulta pública de 30 dias a contar 5 dias úteis da publicação do presente aviso na 2.ª série do Diário da República.
+Os interessados podem consultar os documentos da proposta de plano e o Relatório de Avaliação Ambiental, na página da internet (http://www.cm-albufeira.pt) ou no Gabinete de Apoio ao Munícipe do Município de Albufeira e na Junta de Freguesia de Albufeira e Olhos de Água, durante as horas normais de expediente.
+No decurso do período de discussão pública, os interessados poderão formular, reclamações, observações ou sugestões sobre quaisquer questões no âmbito da referida proposta de plano, por escrito, devendo, para o efeito, utilizar a ficha de participação disponibilizada, com o signatário devidamente identificado e dirigido ao Exmo. Sr. Presidente da Câmara Municipal de Albufeira, entregue no Gabinete de Apoio ao Munícipe do Município de Albufeira, remetido por correio eletrónico para geral@cm-albufeira.pt ou endereçado para Município de Albufeira, Paços do Concelho, Rua do Município, 8200-863 Albufeira.
+23 de abril de 2025. - O Presidente da Câmara Municipal de Albufeira, José Carlos Martins Rolo.
+Apreciado em Reunião de Câmara de 15/04/2025
+Deliberação
+“Foi deliberado, tendo em conta o teor da informação e nos termos da mesma:
+1) Manifestar concordância com a presente proposta de Plano de Pormenor do Alfamar e Envolvente;
+2) Determinar a abertura do procedimento de discussão pública, da referida proposta de plano, nos termos do artigo 89.º do RJIGT, e em simultâneo a abertura da consulta pública do Relatório Ambiental, nos termos do n.º 6 e n.º 7 do artigo 6.º do Decreto-Lei n.º 232/2007 de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011 de 4 de maio, nos seguintes moldes:
+a) Determinar que o referido período de discussão pública tenha a duração de 30 dias, anunciado com a antecedência de 5 dias (nos termos previstos no n.º 2 do artigo do artigo 89.º do RJIGT em conjugação com o previsto no n.º 7 do artigo 7.º do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio;
+b) Determinar a necessária divulgação através de Aviso a publicar no Diário da República e a divulgar através da comunicação social, em pelo menos duas edições sucessivas, do sítio na internet do Município de Albufeira e no Boletim Municipal, nos termos do previsto no n.º 1 do artigo 89.º, da alínea a) do n.º 4 do artigo 191.º e do n.º 3 do artigo 192.º do RJIGT, em conjugação com o previsto no n.º 7 do artigo 7.º do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio;
+c) Aprovar a Minuta de Aviso e de Ficha de Participação apresentadas.”
+618980215
