@@ -52,11 +52,11 @@ w) «Empresa verticalmente integrada», uma empresa ou um grupo de empresas em q
 
 x) «ERSE», a Entidade Reguladora dos Serviços Energéticos;
 
-y) «Gás», a mistura homogénea de gás natural e outros gases, nas quotas estipuladas nos termos do presente decreto-lei, do Regulamento da RNTG e do Regulamento da RNDG, destinada à introdução no consumo;
+y) «Gás», gás natural, gases de origem renovável ou de baixo teor de carbono, puros ou em mistura homogénea com gás natural, nas concentrações permitidas, de forma a garantir a interoperacionalidade das redes;
 
-z) «Gás natural», a mistura de compostos de hidrocarbonetos e de pequenas quantidades de vários não-hidrocarbonetos, cujo maior componente é o metano, com as características definidas na regulamentação aplicável e assegura a interoperabilidade com a rede europeia de gás natural;
+z) «Gás natural», o gás constituído principalmente por metano, incluindo o biometano ou outros tipos de gás, e que, do ponto de vista técnico e de segurança, pode ser injetado e transportado através do sistema de gás natural;
 
-aa) «Gases de baixo teor de carbono», os combustíveis gasosos produzidos a partir de um processo que utilize energia de fontes de origem não renovável, mas cujas emissões de carbono sejam inferiores a 36,4 gCO(índice 2)-eq/MJ;
+aa) «Gases de baixo teor de carbono», a parte correspondente aos combustíveis gasosos presente nos combustíveis de carbono reciclado na aceção da alínea i) do artigo 2.º do Decreto-Lei n.º 84/2022, de 9 de dezembro, na sua redação atual, o hidrogénio hipocarbónico e os combustíveis gasosos sintéticos cujo teor energético é proveniente de hidrogénio hipocarbónico, que cumprem o limiar de redução das emissões de gases com efeito de estufa de 70 % face ao valor do combustível fóssil de referência para os combustíveis renováveis de origem não biológica estabelecido na metodologia adotada nos termos do Regulamento Delegado (UE) 2023/1185 da Comissão, de 10 de fevereiro de 2023;
 
 bb) «Gases de origem renovável», os combustíveis gasosos produzidos a partir de processos que utilizem energia de fontes renovável na aceção da Diretiva (UE) 2018/2001, do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018;
 
@@ -134,4 +134,8 @@ lll) «Transporte», a veiculação de gás numa rede interligada de alta press�
 
 mmm) «Unidade Autónoma de Gás» ou «UAG», a instalação autónoma de receção, armazenamento e regaseificação de GNL, outros gases ou mistura de gases para emissão em rede de distribuição ou diretamente ao consumidor;
 
-nnn) «Utilizador da rede», a pessoa singular ou coletiva que entrega gás na rede ou que é abastecida através dela.
+nnn) «Utilizador da rede», a pessoa singular ou coletiva que entrega gás na rede ou que é abastecida através dela;
+
+ooo) «Hidrogénio hipocarbónico», o hidrogénio cujo teor energético é proveniente de fontes não renováveis, que cumpre o limiar de redução das emissões de gases com efeito de estufa de 70 % face ao valor do combustível fóssil de referência para os combustíveis renováveis de origem não biológica estabelecido na metodologia para avaliar a redução das emissões de gases com efeito de estufa provenientes de combustíveis renováveis de origem não biológica e de combustíveis de carbono reciclado, adotada nos termos do Regulamento Delegado (UE) 2023/1185 da Comissão, de 10 de fevereiro de 2023;
+
+ppp) «Hidrogénio renovável» é o hidrogénio produzido por eletrólise da água (num eletrolisador, alimentado por eletricidade), e com eletricidade proveniente de fontes renováveis. As emissões de gases com efeito de estufa ao longo de todo o ciclo de produção de hidrogénio renovável são próximas de zero. O hidrogénio renovável pode também ser produzido por reformação de biogás (em vez de gás natural) ou por conversão bioquímica de biomassa, desde que cumpra requisitos de sustentabilidade.

@@ -18,19 +18,19 @@ e) Termo de responsabilidade pelo projeto da unidade de produção;
 
 f) Cronograma das ações necessárias para a instalação da unidade de produção de gases de origem renovável, incluindo a indicação do prazo de entrada em exploração;
 
-g) Parecer da Autoridade de Avaliação de Impacte Ambiental pronunciando-se sobre a não sujeição do projeto a avaliação de impacte ambiental ou, no caso de projeto sujeito a esta avaliação, declaração de impacte ambiental (DIA) favorável ou condicionalmente favorável e decisão de conformidade com a DIA, quando exigível ou, se for o caso, comprovativo de se ter produzido ato tácito favorável, quando exigível nos termos previstos no regime jurídico da avaliação e impacte ambiental;
+g) (Revogada.)
 
-h) Decisão favorável ou favorável condicionada, referente à avaliação de incidências ambientais quando exigível nos termos previstos no respetivo regime jurídico;
+h) (Revogada.)
 
-i) Parecer favorável sobre a localização da unidade de produção emitido pela câmara municipal e quando o projeto não esteja sujeito ao regime jurídico de avaliação de impacte ambiental ou a avaliação de incidências ambientais, parecer de localização emitido pela comissão de coordenação e desenvolvimento regional territorialmente competente;
+i) Parecer favorável sobre a localização da unidade de produção emitido pela câmara municipal;
 
-j) Requerimento de emissão de título de emissão de gases com efeito de estufa ou decisão de exclusão temporária do regime de comércio de emissões, quando um deles seja exigível, nos termos do regime jurídico aplicável, e comprovativo de receção do referido requerimento emitido pela entidade licenciadora competente;
+j) (Revogada.)
 
-k) Prova do cumprimento da obrigação de notificação e cópia do relatório de segurança, nos termos do regime de prevenção de acidentes graves que envolvem substâncias perigosas e de limitação das suas consequências para a saúde humana e para o ambiente, quando exigíveis;
+k) (Revogada.)
 
 l) Perfil da empresa requerente, dos sócios ou acionistas e das percentagens do capital social detido, quando igual ou superior a 5 %, elementos demonstrativos da capacidade técnica, económico-financeira e experiência de que dispõe para assegurar a realização do projeto, bem como o cumprimento das obrigações legais e regulamentares e as derivadas da autorização do exercício da atividade.
 
-2 - No caso de nova instalação a implementar no perímetro autorizado de unidade de produção de gases de origem renovável já existente ou de aumento de capacidade da unidade de produção preexistente, que utilizem a mesma ou diversa fonte primária, é dispensada a apresentação dos elementos previstos nas alíneas c), g), h) e i) do número anterior.
+2 - No caso de nova instalação a implementar no perímetro autorizado de unidade de produção de gases de origem renovável já existente ou de aumento de capacidade da unidade de produção preexistente, que utilizem a mesma ou diversa fonte primária, é dispensada a apresentação dos elementos previstos na alínea c) do número anterior.
 
 3 - O projeto de execução da unidade de produção de gases de origem renovável, acompanhado pelo termo de responsabilidade do técnico pela sua elaboração, é entregue em suporte digital e deve compreender:
 
@@ -57,5 +57,3 @@ d) Planta do traçado proposto para a interligação à rede recetora do gás pr
 4 - Todas as peças do projeto são rubricadas pelo técnico responsável, à exceção da última peça em que devem constar a assinatura digital, o nome por extenso e as referências da sua inscrição na entidade competente.
 
 5 - As peças escritas e desenhadas que constituírem o projeto devem ter dimensões normalizadas, ser elaboradas e dobradas de acordo com as normas em vigor e as regras da técnica e ser numeradas ou identificadas por letras e algarismos.
-
-113509653

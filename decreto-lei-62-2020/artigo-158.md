@@ -14,4 +14,4 @@
 
 6 - Os regulamentos referidos no n.º 2 são alterados de acordo com a disciplina do presente decreto-lei, no prazo de seis meses a contar da data da sua publicação.
 
-7 - O membro do Governo responsável pela área da energia fixa por portaria, no prazo de três meses, as taxas de registo e reconhecimento de comercializador e as taxas de registo e de averbamento de alteração de titularidade no registo de produtor de gases de origem renovável previstas, respetivamente, no n.º 12 do artigo 51.º e nos n.ºs 3 e 6 do artigo 70.º
+7 - O membro do Governo responsável pela área da energia fixa, por portaria e no prazo de três meses, as taxas de registo e reconhecimento de comercializador e as taxas de registo e de averbamento previstas, respetivamente, no n.º 12 do artigo 51.º e na subalínea i) da alínea c) do n.º 1 e no n.º 5 do artigo 70.º

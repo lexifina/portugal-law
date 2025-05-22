@@ -2,13 +2,13 @@
 
 ### Procedimento de registo
 
-1 - O pedido de registo é apresentado no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, na sua redação atual, devendo ser dirigido à DGEG e incluir a identificação completa do requerente, com menção do nome ou firma, do número de identificação fiscal, domicílio profissional ou sede, do estabelecimento principal no território nacional, quando este exista, bem como o número do telefone, fax e endereço eletrónico.
+1 - O pedido de registo é apresentado no Portal Único dos Serviços Digitais - o Gov.pt, referido no Decreto-Lei n.º 49/2024, de 8 de agosto, na sua redação atual, devendo ser dirigido à DGEG e incluir a identificação completa do requerente, com menção do nome ou firma, do número de identificação fiscal, domicílio profissional ou sede, do estabelecimento principal no território nacional, quando este exista, bem como o número do telefone, fax e endereço eletrónico.
 
 2 - Estão impedidos de requerer o registo referido no número anterior os interessados que, nos cinco anos anteriores à data do pedido de registo, tenham sido detentores de participação de capital, membros do conselho de administração ou exercido a gerência em comercializador que tenha visto o seu registo revogado nos termos do n.º 4 do artigo 53.º
 
 3 - Estão ainda impedidos de requerer o registo referido no n.º 1 os interessados cujos detentores de participação de capital, membros do conselho de administração ou gerentes, se encontrem impedidos nos termos do número anterior.
 
-4 - A atribuição do registo de comercialização carece de prévia demonstração da capacidade e idoneidade técnica e económica para operar nos mercados para os quais se solicita o respetivo registo.
+4 - A atribuição do registo de comercialização carece da demonstração da capacidade e idoneidade técnica e económica para operar nos mercados, de acordo com os critérios publicitados pela Direção-Geral de Energia e Geologia (DGEG) no seu sítio na Internet.
 
 5 - Os interessados devem instruir o seu pedido de registo com os seguintes elementos:
 
@@ -36,4 +36,4 @@ e) Documento contendo a identificação dos meios utilizados para o cumprimento 
 
 12 - Pelos custos de apreciação do pedido de registo e da efetivação do registo é devida uma taxa que reverte a favor da DGEG.
 
-13 - Para efeitos do n.º 4, a DGEG, ouvida a ERSE, apresenta, no prazo de 90 dias após a data de entrada em vigor do presente decreto-lei, uma proposta fundamentada de critérios económicos para a verificação da idoneidade e capacidade económica dos agentes de mercado que pretendem obter o registo de comercialização.
+13 - (Revogado.)
