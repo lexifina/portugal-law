@@ -1,0 +1,6 @@
+Aviso (extrato)  n.º 13120/2025/2
+
+Carlos Manuel Martins da Saúde Fernandes, Presidente da Freguesia de São Gonçalo de Lagos, Concelho de Lagos, torna público, nos termos do disposto no artigo 139.º, do Código do Procedimento Administrativo, que o órgão executivo da freguesia deliberou no dia 07 de maio, submeter a consulta pública pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente anúncio na 2.ª série do Diário da República, o Regulamento de Atribuição de Apoios às Atividades de Natureza Social, Cultural, Educativa, Desportiva, Recreativa ou outra de interesse para a Freguesia, cujo texto pode ser consultado nas instalações da Junta de Freguesia de São Gonçalo de Lagos.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do artigo 101.º do Código do Procedimento Administrativo, endereçados ao Presidente da Freguesia de São Gonçalo de Lagos, entregues nas instalações situadas na Rua das Juntas de Freguesia, Lote 12 - R/C, 8600-706 Lagos, ou ainda através do e-mail freguesiasaogoncalo@gmail.com.
+5 de maio de 2025. - O Presidente da Freguesia de São Gonçalo de Lagos, Carlos Manuel Martins da Saúde Fernandes.
+319074045
