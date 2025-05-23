@@ -1,0 +1,33 @@
+# Anexo VII
+
+### Modelo de mandato
+
+(a que se refere o n.º 5 do artigo 20.º)
+
+A. Modelo de mandato
+
+[Identificação do produtor/embalador - nome e número de identificação fiscal europeu ou nacional]
+
+[Endereço do produtor/embalador]
+
+[Indicar o país de origem]
+
+Nomeia [Identificação do representante autorizado - nome e número de identificação fiscal nacional]
+
+[Endereço do representante autorizado]
+
+Portugal como seu representante autorizado em Portugal, nos termos do Decreto-Lei n.º.../..., de ... [número e data de publicação do Decreto-lei que estabelece o regime jurídico a que fica sujeita a gestão dos fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do produtor], que estabelece o regime jurídico a que fica sujeita a gestão dos fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do produtor.
+
+O presente mandato abrange as seguintes categorias de produto/tipo de produto/material de embalagem:
+
+O [Representante autorizado] compromete-se, enquanto representante autorizado do [produtor/embalador] em Portugal, a representá-lo nos termos constantes no Decreto-Lei n.º .../..., de ... [número e data de publicação do Decreto-lei que estabelece o regime jurídico a que fica sujeita a gestão dos fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do produtor], sendo legalmente responsável por assegurar o cumprimento das obrigações do [produtor/embalador] previstas nos [referir números e artigos respetivos] do referido decreto-lei.
+
+Não obstante o disposto no presente mandato, o [produtor/embalador] só fica desonerado das responsabilidades ora delegadas no [Representante autorizado] desde que se verifique o efetivo cumprimento do mandato pelo delegatário.
+
+O presente mandato, assinado por ambas as partes, produz efeito a [data] e termina a sua vigência assim que uma das partes informar a APA, I. P., de que o mesmo foi rescindido.
+
+[Data]
+
+[Assinatura produtor/embalador]
+
+[Assinatura do Representante Autorizado]
