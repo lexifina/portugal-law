@@ -28,9 +28,11 @@ d) Minimizando a quantidade de resíduos perigosos a depositar em aterro.
 
 7 - Qualquer produtor ou detentor de resíduos perigosos é obrigado a embalar ou acondicionar os resíduos perigosos e a afixar a rotulagem em embalagens ou recipientes de acordo com as regras internacionais e europeias em vigor ou as regras a definir por portaria do membro do Governo responsável pelo ambiente.
 
-8 - É proibida a mistura, incluindo a diluição, de resíduos perigosos de diferentes categorias, a mistura de resíduos perigosos com resíduos não perigosos e a mistura de resíduos perigosos com substâncias, materiais ou produtos que não sejam resíduos.
+8 - Não se aplica a obrigação de rotulagem prevista no número anterior, nem as obrigações de registo às frações separadas de resíduos perigosos, produzidos pelas habitações, enquanto estes não forem aceites para recolha, eliminação ou valorização por um estabelecimento ou empresa licenciada ou autorizada.
 
-9 - Excetuam-se do disposto no número anterior as operações de mistura devidamente autorizadas em que se demonstre que a operação satisfaz os seguintes requisitos cumulativos:
+9 - É proibida a mistura, incluindo a diluição, de resíduos perigosos de diferentes categorias, a mistura de resíduos perigosos com resíduos não perigosos e a mistura de resíduos perigosos com substâncias, materiais ou produtos que não sejam resíduos.
+
+10 - Excetuam-se do disposto no número anterior as operações de mistura devidamente autorizadas em que se demonstre que a operação satisfaz os seguintes requisitos cumulativos:
 
 a) Ser executada por um operador licenciado nos termos do capítulo vi;
 
@@ -38,6 +40,8 @@ b) Observar o disposto no artigo 6.º e não agravar os impactes negativos da ge
 
 c) Ser conforme às melhores técnicas disponíveis.
 
-10 - Caso tenha ocorrido mistura de resíduos perigosos em violação do disposto no n.º 8, deve proceder-se à sua separação, se a mistura tiver como consequência pôr em risco a saúde humana ou prejudicar o ambiente, na medida em que seja tecnicamente e economicamente possível, num operador licenciado ou autorizado para o seu tratamento.
+11 - Caso tenha ocorrido mistura de resíduos perigosos em violação do disposto no n.º 8, deve proceder-se à sua separação, se a mistura tiver como consequência pôr em risco a saúde humana ou prejudicar o ambiente, na medida em que seja tecnicamente e economicamente possível, num operador licenciado ou autorizado para o seu tratamento.
 
-11 - As disposições deste artigo não se aplicam aos resíduos indiferenciados produzidos em habitações.
+12 - As disposições deste artigo não se aplicam aos resíduos indiferenciados produzidos em habitações.
+
+13 - Por forma a assegurar ou melhorar a valorização dos resíduos, no respeito pela proteção da saúde humana e do ambiente, devem ser removidas, antes ou depois da valorização, e sempre que necessário, as substâncias, misturas e componentes perigosos dos resíduos perigosos tendo em vista o seu tratamento.

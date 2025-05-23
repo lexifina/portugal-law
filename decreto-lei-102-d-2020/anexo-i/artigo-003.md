@@ -74,11 +74,11 @@ cc) ‘Resíduo de construção e demolição’, o resíduo proveniente de ativ
 
 dd) «Resíduo perigoso», o resíduo que apresenta uma ou mais características de perigosidade constantes do Regulamento (UE) n.º 1357/2014, da Comissão, de 18 de dezembro de 2014;
 
-ee) «Resíduo urbano», o resíduo:
+ee) ‘Resíduo urbano’, o resíduo classificado no subcapítulo 15 01 e no capítulo 20, com exceção dos códigos 20 02 02, 20 03 04 e 20 03 06, da Lista Europeia de Resíduos (LER) estabelecida pela Decisão da Comissão 2014/955/UE, de 18 de dezembro de 2014, na sua redação atual, incluindo, ainda, os resíduos urbanos após tratamento classificados com os códigos enumerados no capítulo 19 da LER:
 
 i) De recolha indiferenciada e de recolha seletiva das habitações, incluindo papel e cartão, vidro, metais, plásticos, biorresíduos, madeira, têxteis, embalagens, resíduos de equipamentos elétricos e eletrónicos, resíduos de pilhas e acumuladores, bem como resíduos volumosos, incluindo colchões e mobiliário; e
 
-ii) De recolha indiferenciada e de recolha seletiva provenientes de outras origens, como de estabelecimentos de comércio a retalho, serviços e restauração, de estabelecimentos escolares, de unidades de prestação de cuidados de saúde e de empreendimentos turísticos, ou outras, caso sejam semelhantes aos resíduos das habitações pela sua natureza e composição e correspondem aos resíduos classificados no subcapítulo 15 01 e no capítulo 20, com exceção dos códigos 20 02 02, 20 03 04 e 20 03 06, da Lista Europeia de Resíduos (LER) estabelecida pela Decisão 2014/955/UE da Comissão, de 18 de dezembro de 2014, na sua redação atual, incluindo-se ainda os resíduos urbanos após tratamento classificados com os códigos enumerados no capítulo 19 da LER;
+ii) De recolha indiferenciada e de recolha seletiva provenientes de outras origens, como de estabelecimentos de comércio a retalho, serviços e restauração, de estabelecimentos escolares, de unidades de prestação de cuidados de saúde e de empreendimentos turísticos, ou outras, caso sejam semelhantes aos resíduos das habitações pela sua natureza e composição;
 
 ff) (Revogada.)
 
@@ -90,11 +90,13 @@ ii) «Resíduo hospitalar», o resíduo resultante de atividades de prestação 
 
 jj) Resíduo industrial», o resíduo resultante de atividades industriais, bem como o que resulte das atividades de produção e distribuição de eletricidade, gás e água;
 
-kk) «Responsável técnico ambiental», o técnico designado pelo operador, competente para a gestão ambiental do estabelecimento ou da instalação de tratamento de resíduos e/ou interlocutor preferencial, tanto durante o procedimento de licenciamento, como para acompanhamento das licenças emitidas ao abrigo do presente regime;
+kk) ‘Resíduo não perigoso’, o resíduo não abrangido pela alínea dd);
 
-ll) «Reutilização», qualquer operação mediante a qual produtos ou componentes que não sejam resíduos são utilizados novamente para o mesmo fim para que foram concebidos;
+ll) «Responsável técnico ambiental», o técnico designado pelo operador, competente para a gestão ambiental do estabelecimento ou da instalação de tratamento de resíduos e/ou interlocutor preferencial, tanto durante o procedimento de licenciamento, como para acompanhamento das licenças emitidas ao abrigo do presente regime;
 
-mm) «Transferência», o transporte de resíduos com vista à valorização ou à eliminação que se efetue ou esteja previsto:
+mm) «Reutilização», qualquer operação mediante a qual produtos ou componentes que não sejam resíduos são utilizados novamente para o mesmo fim para que foram concebidos;
+
+nn) «Transferência», o transporte de resíduos com vista à valorização ou à eliminação que se efetue ou esteja previsto:
 
 i) Entre dois países;
 
@@ -110,15 +112,15 @@ vi) No interior de um país, transitando por qualquer uma das áreas supramencio
 
 vii) Numa área geográfica não sujeita à jurisdição de qualquer país, com destino a um país;
 
-nn) «Tratamento», qualquer operação de valorização ou de eliminação de resíduos, incluindo a preparação prévia à valorização ou eliminação;
+oo) «Tratamento», qualquer operação de valorização ou de eliminação de resíduos, incluindo a preparação prévia à valorização ou eliminação;
 
-oo) «Triagem», o ato de separação de resíduos mediante processos manuais ou mecânicos, sem alteração das suas características, com vista ao seu tratamento;
+pp) «Triagem», o ato de separação de resíduos mediante processos manuais ou mecânicos, sem alteração das suas características, com vista ao seu tratamento;
 
-pp) «Triagem preliminar», o ato de separação de resíduos mediante processos manuais, sem alteração das suas características, enquanto parte do processo de recolha, com vista ao seu envio para tratamento;
+qq) «Triagem preliminar», o ato de separação de resíduos mediante processos manuais, sem alteração das suas características, enquanto parte do processo de recolha, com vista ao seu envio para tratamento;
 
-qq) «Valorização», qualquer operação de tratamento de resíduos, nomeadamente as constantes do anexo ii ao presente regime, cujo resultado principal seja a utilização, com ou sem transformação, dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, caso contrário, teriam sido utilizados para um fim específico ou a preparação dos resíduos para esse fim na instalação ou conjunto da economia;
+rr) «Valorização», qualquer operação de tratamento de resíduos, nomeadamente as constantes do anexo ii ao presente regime, cujo resultado principal seja a utilização, com ou sem transformação, dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, caso contrário, teriam sido utilizados para um fim específico ou a preparação dos resíduos para esse fim na instalação ou conjunto da economia;
 
-rr) «Valorização material», qualquer operação de valorização, que não seja a valorização energética nem o reprocessamento em materiais que são utilizados como combustíveis ou outros meios de produção de energia, incluindo, entre outras, a preparação para reutilização a reciclagem e o enchimento.
+ss) «Valorização material», qualquer operação de valorização, que não seja a valorização energética nem o reprocessamento em materiais que são utilizados como combustíveis ou outros meios de produção de energia, incluindo, entre outras, a preparação para reutilização a reciclagem e o enchimento.
 
 2 - Para efeitos do presente regime, mais se entende por:
 

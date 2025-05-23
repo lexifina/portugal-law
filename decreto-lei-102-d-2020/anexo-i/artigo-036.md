@@ -34,8 +34,8 @@ g) Resíduos de construção e demolição resultantes de pequenas reparações 
 
 9 - A ANR avalia a recolha seletiva assegurada pelas entidades referidas no n.º 2, tendo em consideração os pontos de recolha que resultem da celebração de acordos voluntários no âmbito dos artigos 32.º e 33.º, e pode fixar metas de disponibilização de pontos e centros de recolha, as quais são integradas nos respetivos planos.
 
-10 - É proibida a incineração, com ou sem valorização energética, e a deposição em aterro dos resíduos recolhidos de forma seletiva para preparação para reutilização e para reciclagem, em conformidade com o artigo 7.º, à exceção dos resíduos gerados nas operações de valorização, se desta forma oferecerem o melhor resultado ambiental ou em situações de paragens de equipamentos de tratamento por avaria ou para manutenção.
+10 - É proibida a incineração, com ou sem valorização energética, e a deposição em aterro dos resíduos recolhidos de forma seletiva para preparação para reutilização e para reciclagem, em conformidade com o artigo 7.º, à exceção dos resíduos gerados nas operações de valorização, se desta forma oferecerem o melhor resultado ambiental.
 
-11 - Para efeitos de cumprimento do n.º 2 e do n.º 4 pode ser estabelecida pela ANR a percentagem máxima de contaminantes em cada uma das frações para que a recolha possa ser considerada seletiva.
+11 - Para efeitos de cumprimento dos n.os 2 e 5, pode ser estabelecida pela ANR a percentagem máxima de contaminantes em cada uma das frações para que a recolha possa ser considerada seletiva.
 
 12 - Para garantir a integridade e harmonização, a nível nacional, da mensagem constante nos equipamentos de recolha seletiva, a ANR desenvolve as normas a observar.

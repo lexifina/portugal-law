@@ -50,13 +50,13 @@ ii) Custos da comunicação das informações adequadas aos detentores de resíd
 
 iii) Custos da recolha e comunicação de dados, nos termos das alíneas c) ou d) do n.º 1;
 
-b) Ser determinados para produtos ou grupos de produtos semelhantes, tendo em conta, nomeadamente, a sua durabilidade, reparabilidade e possibilidade de reutilização e de reciclagem, bem como a presença de substâncias perigosas, segundo uma abordagem baseada no ciclo de vida do produto;
+b) Ser determinados para produtos ou grupos de produtos semelhantes, tendo em conta, nomeadamente, a sua durabilidade, reparabilidade e possibilidade de reutilização e de reciclagem, bem como a presença de substâncias perigosas, segundo uma abordagem baseada no ciclo de vida do produto, consentânea com os requisitos previstos no direito da União Europeia aplicável, e baseada, caso existam, em critérios harmonizados a fim de assegurar o bom funcionamento do mercado interno;
 
 c) Limitar-se à cobertura dos custos necessários para prestar os serviços de gestão dos resíduos de uma forma economicamente eficiente, devendo tais custos ser estabelecidos de modo transparente entre os intervenientes em causa.
 
 4 - O disposto na alínea a) do número anterior não se aplica aos regimes de responsabilidade alargada do produtor criados para os fluxos específicos de resíduos de equipamentos elétricos e eletrónicos, dos veículos em fim de vida e das pilhas e acumuladores.
 
-5 - Caso se justifique pela necessidade de assegurar a gestão adequada dos resíduos, bem como a viabilidade económica do regime de responsabilidade alargada do produtor, a responsabilidade financeira estabelecida na alínea a) do número anterior pode ser repartida pelos produtores de resíduos e/ou pelos distribuidores, desde que os produtores dos produtos suportem pelo menos 80 % dos custos necessários.
+5 - Caso se justifique pela necessidade de assegurar a gestão adequada dos resíduos, bem como a viabilidade económica do regime de responsabilidade alargada do produtor, a responsabilidade financeira estabelecida na alínea a) do n.º 3 pode ser repartida pelos produtores de resíduos e/ou pelos distribuidores, desde que os produtores dos produtos suportem pelo menos 80/prct. dos custos necessários.
 
 6 - Os produtores de produtos estabelecidos noutro Estado-Membro da União Europeia que coloquem produtos no mercado nacional podem nomear uma pessoa singular ou coletiva estabelecida em Portugal como seu representante autorizado para efeitos do cumprimento das obrigações do produtor decorrentes dos regimes de responsabilidade alargada do produtor.
 

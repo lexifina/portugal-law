@@ -18,7 +18,7 @@ iii) Sejam suscetíveis de recolha, através das redes de recolha de resíduos u
 
 c) Resultantes da manutenção de parques e jardins públicos ou de serviços de limpeza de mercados e ruas, nomeadamente, o conteúdo dos contentores de lixo e os resíduos provenientes da varredura das ruas, que não constituam areia, pedra, lama ou pó.
 
-3 - Em caso de impossibilidade de determinação do produtor do resíduo, a responsabilidade pela respetiva gestão recai sobre o seu detentor.
+3 - Em caso de impossibilidade de determinação do produtor do resíduo, a responsabilidade pela respetiva gestão recai sobre o seu detentor atual ou, caso seja possível identificar, sobre os seus detentores anteriores.
 
 4 - Quando os resíduos tenham proveniência externa, a sua gestão cabe ao responsável pela sua introdução em território nacional, salvo nos casos expressamente definidos na legislação referente à transferência de resíduos.
 

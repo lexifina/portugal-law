@@ -4,7 +4,7 @@
 
 1 - (Revogado.)
 
-2 - Os planos de gestão de resíduos de nível nacional e respetivos programas de prevenção com horizontes temporais de cinco ou mais anos são avaliados e, se necessário, revistos, atingido o ponto médio do horizonte temporal do plano ou programa.
+2 - Os planos de gestão de resíduos de nível nacional e respetivos programas de prevenção são avaliados e, se necessário, revistos, pelo menos uma vez atingido o ponto médio do horizonte temporal do plano ou programa, no máximo de seis em seis anos, em conformidade com as disposições em matéria de prevenção de resíduos e preparação para a reutilização e reciclagem do presente decreto-lei.
 
 3 - Os planos municipais, intermunicipais e multimunicipais de ação são avaliados e, se necessário, revistos no prazo máximo de oito meses a contar da aprovação da revisão do plano nacional para os resíduos urbanos.
 

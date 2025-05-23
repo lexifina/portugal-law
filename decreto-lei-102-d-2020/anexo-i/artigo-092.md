@@ -32,4 +32,6 @@ e) Um modelo de declaração de conformidade e as condições da sua emissão e 
 
 6 - A pessoa singular ou coletiva que utilizar pela primeira vez um material que deixou de ser resíduo e que não foi colocado no mercado, ou que colocar um material no mercado pela primeira vez depois de este ter deixado de ser resíduo, deve assegurar que o material cumpre os requisitos pertinentes estabelecidos na legislação aplicável sobre produtos químicos e outros produtos.
 
-7 - Quando o reconhecimento do fim do estatuto de resíduo esteja dependente de determinada utilização final do produto e o operador não o encaminhe diretamente para a sua utilização final, deve comprová-lo quando solicitado pela ANR ou demais entidades com competência de fiscalização.
+7 - Para efeitos do referido no número anterior, as condições estabelecidas no n.º 1 têm de ser cumpridas antes da legislação sobre produtos químicos e outros produtos ser aplicável ao material que deixou de ser resíduo.
+
+8 - Quando o reconhecimento do fim do estatuto de resíduo esteja dependente de determinada utilização final do produto e o operador não o encaminhe diretamente para a sua utilização final, deve comprová-lo quando solicitado pela ANR ou demais entidades com competência de fiscalização.
