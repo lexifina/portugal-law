@@ -6,7 +6,7 @@
 
 2 - Caso o achador não saiba a quem pertence o bem e manifeste intenção de fazer sua a coisa perdida, se não for reclamada pelo dono dentro do prazo de um ano, a contar do anúncio ou aviso, deve providenciar pela sua guarda, observando-se o disposto no artigo 1323.º do Código Civil, cabendo às forças de segurança unicamente registar e anunciar o achado.
 
-3 - Em caso algum, o achador ficará fiel depositário de documentos pessoais e intransmissíveis pertencentes a outrem.
+3 - Em caso algum o achador ficará fiel depositário de documentos pessoais e intransmissíveis pertencentes a outrem, bem como de quaisquer outros objetos que, pela sua natureza, sejam suscetíveis de conter dados pessoais, designadamente equipamentos informáticos e de comunicações.
 
 4 - Quando sejam entregues e confiados à guarda das forças de segurança bens perecíveis, bens degradados ou bens que por lei hajam de ser apreendidos ou sujeitos a outro tratamento especial, deve ser adoptado o procedimento seguinte:
 
