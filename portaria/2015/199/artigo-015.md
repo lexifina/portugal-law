@@ -26,4 +26,4 @@
 
 12 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.
 
-13 - No ano de encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR 2020, em www.pdr-2020.pt.
+13 - (Revogado.)
