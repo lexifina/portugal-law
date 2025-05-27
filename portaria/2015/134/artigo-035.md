@@ -26,6 +26,6 @@
 
 12 - Em cada pedido de pagamento é obrigatória a apresentação da cartografia que evidencie as áreas intervencionadas que estão a ser objeto de pedido de reembolso.
 
-13 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.
+13 - (Revogado.)
 
 14 - O disposto nos n.os 2, 3, 6, 7 e 8 não é aplicável aos projetos ou parte de projetos com custos definidos através de custos unitários.
