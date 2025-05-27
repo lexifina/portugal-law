@@ -22,6 +22,6 @@
 
 10 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR 2020, em www.pdr-2020.pt.
 
-10 - O disposto nos n.os 2, 3, 5 e 6 não é aplicável aos projetos com custos definidos exclusivamente através de tabelas normalizadas de custos unitários, podendo, nesse caso, ser apresentados até dois pedidos de pagamento por operação.
+10 - (Revogado.)
 
 11 - O disposto nos n.os 2 e 3 não é aplicável aos projetos ou parte de projetos com custos definidos através de custos unitários.
