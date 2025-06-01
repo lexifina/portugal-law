@@ -4,7 +4,7 @@
 
 1 - São competentes para a concessão do passaporte especial, com possibilidade de delegação e de subdelegação:
 
-a) O membro do Governo responsável pela área dos negócios estrangeiros sempre que as situações ocorram fora do território nacional ou nos casos a que se referem as alíneas c) a f) do n.º 2 e o n.º 3 do artigo anterior;
+a) O membro do Governo responsável pelas áreas dos negócios estrangeiros sempre que as situações ocorram fora do território nacional ou nos casos a que se referem as alíneas f) e g) do n.º 1 do artigo anterior;
 
 b) O membro do Governo responsável pela área da justiça;
 
