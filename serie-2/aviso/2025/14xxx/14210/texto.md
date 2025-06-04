@@ -1,0 +1,8 @@
+Aviso n.º 14210/2025/2
+
+Nuno Piteira Lopes, Vice Presidente da Câmara Municipal de Cascais, torna público, ao abrigo das disposições conjugadas previstas nas alíneas b) e t) do n.º 1 do artigo 35.º e no artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de Setembro, na redação vigente, nos termos e para os efeitos previstos nos artigos 101.º do Código do Procedimento Administrativo, que a Câmara Municipal, em reunião de 27 de maio de 2025, deliberou no âmbito da Proposta n.º 776/2025, dar início ao período de consulta pública do Projeto de Alteração ao Regulamento Municipal para a Gestão das Praias Balneares do Concelho de Cascais, pelo período de trinta dias, a contar da data da publicação do presente Aviso no Diário da República.
+O projeto de alteração ao regulamento encontra-se disponível para consulta na página da internet da Câmara Municipal de Cascais (www.cm-cascais.pt).
+Durante o período de consulta pública, podem os interessados formular as reclamações, observações ou sugestões que entendam por convenientes, as quais devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Câmara Municipal de Cascais, podendo ser remetidas, por correio eletrónico para o endereço eletrónico atendimento.municipal@cm-cascais.pt, por correio convencional ou entregues no balcão de atendimento da Loja Cascais (Edifício Cascais Center, na Rua Manuel Joaquim Avelar, n.º 118, piso -1, 2750-281 Cascais), durante o período normal de expediente.
+E, para que conste, mandei publicar este Aviso no Diário da República e outros de igual teor, que serão afixados nos locais de estilo, na página da internet da Câmara Municipal de Cascais e no Boletim Municipal.
+28 de maio de 2025. - O Vice-Presidente da Câmara Municipal de Cascais, Nuno Piteira Lopes.
+319120636
