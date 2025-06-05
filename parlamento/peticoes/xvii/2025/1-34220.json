@@ -1,0 +1,133 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34220",
+  "numero": "1",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-06-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-09-10",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "JPP",
+                "PAN",
+                "BE",
+                "PCP",
+                "L",
+                "IL"
+              ],
+              "data": "2025-09-10",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> CDS-PP</I><BR>Ausência: <I>IL</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I>",
+              "id": "139546",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "7",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-07-09",
+        "DataArquivo": "2025-09-10",
+        "DataBaixaComissao": "2025-07-01",
+        "DataEnvioPAR": "2025-09-10",
+        "DataReaberta": "2025-07-09",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-07-09",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a67795957566c4f446c6c4c5751344e7a51744e44466b4d5331694f546c694c5749335a446730596a6c6b4f4445344e4335775a47593d&fich=82aee89e-d874-41d1-b99b-b7d84b9d8184.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-09-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c32526b5a4463324e444e6c4c5459305a6a63744e4441314d5330344d544a6d4c544a6d4e7a686859324d794e4468684f5335775a47593d&fich=ddd7643e-64f7-4051-812f-2f78acc248a9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8447",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-09-10",
+            "dataNomeacao": "2025-07-09",
+            "gp": "PSD",
+            "id": "7274",
+            "motivoCessacao": "Entrega de relatório ",
+            "nome": "Hugo Carneiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-07-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938775a57466a4f5467775a6930334e574e6c4c54526b4d5751744f4463784f433033596d52684e5459354d545a69597a51756347526d&fich=0eac980f-75ce-4d1d-8718-7bda56916bc4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2025-07-03",
+        "TipoDocumento": "Link",
+        "URL": "https://youtu.be/3UAXGGzpHUg"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34220",
+    "PetAssunto": "Revisão Constitucional para melhorar o Sistema Eleitoral para a Assembleia da República",
+    "PetDataEntrada": "2025-06-05",
+    "PeticoesAssociadas": null,
+    "PetId": "34220",
+    "PetLeg": "XVII",
+    "PetNr": "1",
+    "PetNrAssinaturas": "169",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
