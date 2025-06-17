@@ -8,7 +8,7 @@
 
 3 - O IEFP terá no CA do centro protocolar um número de votos correspondente a 50% do total.
 
-4 - O CA só reúne validamente desde que esteja presente pelo menos um representante do primeiro outorgante e um representante do segundo outorgante.
+4 - O CA só reúne validamente desde que esteja presente pelo menos um representante de cada outorgante.
 
 5 - As deliberações do CA são tomadas por maioria de votos. Nas deliberações referentes à aprovação do programa de actividades e do orçamento o presidente goza de voto de qualidade.
 

@@ -6,7 +6,7 @@
 
 ### Composição
 
-1 - O CA é constituído por quatro elementos, sendo dois em representação do IEFP e os restantes em representação do segundo outorgante.
+1 - O CA é constituído por quatro membros efetivos, todos com direito a voto quando em exercício efetivo de funções, dois dos quais em representação do IEFP, I. P., e os restantes em representação de cada uma das segundas outorgantes.
 
 2 - O presidente do CA do Centro é, necessariamente, um dos representantes do primeiro outorgante e, nas suas faltas ou impedimentos, será substituído pelo seu outro representante.
 
