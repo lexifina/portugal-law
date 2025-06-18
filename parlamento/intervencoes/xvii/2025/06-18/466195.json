@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q3tLU3T%2ftQB6kCRTmsviUEw%2fy%2fJMJwprZGZONxeuiw2Awhxt0D4FJNh9Vvu6gd%2fxqOvqPfxMPSMEL8JoRsG6zokbyoNv3F9VMzHBTkJnE562jsPb88udv%2bipg%2bI2%2fJwlALHkYz2hC32ILov%2bpmYyNPQZYnfy9b5%2bE0BWIVBZxQAFH%2fA%2fOvfimA1p2Iq0VhrBGBHCnAKD15twSTJsXYSS0BceMGZQ67ysAp7F3%2bujnnU0HtADMViT4c6gJNSAKjBMCFFWCVEDlu6lZRNU9rXOT1JSfIjIe1eiULgcEQ8rDAXx9757mS%2fqCwH2CE3gCv5atTqGSaBnJ79aLNIXFFahSXVZEV3%2fjRVKMyZj6fZklvY%3d&fich=IntervencoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3236f01f1a16cea27c8f649548948df90008154a381a4d2df53a252155c44361",
+  "legislatura": "XVII",
+  "id": "466195",
+  "tipo": "Interpelação à mesa",
+  "orador": "Rui Tavares (L)",
+  "data_registo": "2025-06-18",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "1628337",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "315096",
+        "tipo": "INI",
+        "titulo": "Projeto de Deliberação - Distribuição de lugares nas reuniões plenárias da XVII Legislatura"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Em Interpelação à Mesa, pede a distribuição de duas notícias sobre pedidos do CH e do CDS-PP relacionados com a contestação da atribuição de lugares parlamentares.",
+        "duracao": "00:01:45.821",
+        "tipoIntervencao": "Interpelação à mesa",
+        "url": "https://av.parlamento.pt/videos/Plenary/17/1/3/36"
+      }
+    ],
+    "DataReuniaoPlenaria": "2025-06-18",
+    "Debate": null,
+    "Deputados": {
+      "GP": "L",
+      "idCadastro": "7337",
+      "nome": "Rui Tavares"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "466195",
+    "IdDebate": "61179",
+    "Iniciativas": [
+      {
+        "fase": "Votação na generalidade",
+        "id": "315096",
+        "tipo": "Projeto de Deliberação"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "466195",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "45-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-06-20",
+        "pubLeg": "XVII",
+        "pubNr": "3",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/003/2025-06-20/45?pgs=45-46&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Pede a distribuição de duas notícias sobre pedidos do CH e do CDS-PP relacionados com a contestação da atribuição de lugares parlamentares",
+    "Sessao": "1",
+    "Sumario": "Distribuição de lugares nas reuniões plenárias da XVII Legislatura\n",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Interpelação à mesa"
+  }
+}
