@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Resolução",
+  "numero": "68",
+  "id": "315142",
+  "fases": 12,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-06-20",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "7494",
+        "nome": "Irene Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6962",
+        "nome": "Susana Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6934",
+        "nome": "Mariana Vieira da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6884",
+        "nome": "Jorge Botelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4209",
+        "nome": "Elza Pais"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6710",
+        "nome": "Sofia Andrade"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "315142",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3246684e574d314d7a51774c5449354e7a67744e475531597930344e3259314c54526859545a6a4d6a677a4f44466d5969356b62324e34&fich=aa5c5340-2978-4e5c-87f5-4aa6c28381fb.docx&Inline=true",
+    "IniNr": "68",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de Epidermólise Bolhosa",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Comparticipação em material/medicamentos para pessoas com Epidermólise Bolhosa",
+        "dcl": null,
+        "descTipo": null,
+        "id": "23955",
+        "legislatura": "XV",
+        "numero": "224",
+        "sessao": "2",
+        "tipo": null
+      },
+      {
+        "assunto": "Reposição da comparticipação das vacinas antialérgicas em Portugal",
+        "dcl": null,
+        "descTipo": null,
+        "id": "33986",
+        "legislatura": "XV",
+        "numero": "256",
+        "sessao": "2",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
