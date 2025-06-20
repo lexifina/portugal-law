@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34227",
+  "numero": "8",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-06-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2025-07-16",
+        "DataArquivo": "2025-07-16",
+        "DataBaixaComissao": "2025-07-10",
+        "DataEnvioPAR": "2025-07-21",
+        "DataReaberta": "2025-07-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-07-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d475a684d5755785a4451744e32557a4d4330305a6a4e694c546c6c4d324574597a51334d5755304d6a4a684f546b7a4c6e426b5a673d3d&fich=0fa1e1d4-7e30-4f3b-9e3a-c471e422a993.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-07-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4e6a5177596d51354f4331694e4463324c5451345a444d74596a45784e43316b4e54426a4d7a67785a6d4d7a4f4441756347526d&fich=f640bd98-b476-48d3-b114-d50c381fc380.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2025-07-10",
+        "TipoDocumento": "Link",
+        "URL": "https://www.dropbox.com/scl/fi/asuwl4bzh85bw44k126r7/SPOT_Video70Anos_720.mp4?rlkey=6wp3s3dcxrw7c87ta75udixmg&st=jjdraqzk&dl=0"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34227",
+    "PetAssunto": "Reconhecimento do Dia Nacional do Ortopedista",
+    "PetDataEntrada": "2025-06-20",
+    "PeticoesAssociadas": null,
+    "PetId": "34227",
+    "PetLeg": "XVII",
+    "PetNr": "8",
+    "PetNrAssinaturas": "55",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
