@@ -1,0 +1,31 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-06-25, processo 0116/24.8BALSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0116/24.8BALSB
+
+**Data do Acordão:** 06/25/2025
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** NUNO BASTOS
+
+**Descritores:** UNIFORMIZAÇÃO DE JURISPRUDÊNCIA; PRESSUPOSTOS; MESMA QUESTÃO FUNDAMENTAL DE DIREITO
+
+**Nº Convencional:** JSTA000P33908
+
+**Nº do Documento:** SAP202506250116/24
+
+**Recorrente:** A... S.A.
+
+**Recorrido 1:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Constitui pressuposto do conhecimento do mérito do recurso para uniformização de jurisprudência a que alude o artigo 25.º do RJAT que o acórdão recorrido e o acórdão fundamento tenham apreciado a mesma questão fundamental de direito;
+
+II - O acórdão recorrido e o acórdão fundamento não apreciam a mesma questão fundamental de direito se a questão apreciada no acórdão fundamento foi a de saber se os elementos contidos em faturas emitidas pelo sujeito passivo respeitam os requisitos formais da alínea b) do n.º 5 do artigo 36.º do Código do IVA e a questão apreciada no acórdão recorrido foi a de saber se os elementos contidos em notas de crédito respeitam os requisitos formais previstos no n.º 6 do mesmo artigo;
+
+III - O acórdão recorrido e o acórdão fundamento também não apreciam a mesma questão fundamental de direito se no acórdão fundamento foi apreciada a questão de saber se as autoridades tributárias nacionais podiam recusar o direito à dedução do IVA quando dispõem de todas as informações necessárias para verificar se os requisitos substantivos relativos ao exercício desse direito se encontram satisfeitos e o acórdão recorrido se limitou a verificar que tal não sucedia no caso respetivo.
