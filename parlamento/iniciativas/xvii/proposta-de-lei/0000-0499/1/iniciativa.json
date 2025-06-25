@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Proposta de Lei",
+  "numero": "1",
+  "id": "315160",
+  "fases": 48,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-06-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a49344e6d51354f5445774c5449304f4467744e446c694e693035597a4d784c54646d4d446b335a5459775a4759354e7935775a47593d&fich=286d9910-2488-49b6-9c31-7f097e60df97.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a41355a5451354d44457a4c546c694d6a51744e446869597930344e47466a4c5452695a4463784e475132593249354d4335775a47593d&fich=09e49013-9b24-48bc-84ac-4bd714d6cb90.pdf&Inline=true",
+        "anexoNome": "Ofício pedido de processo de urgência"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "315160",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a49794f4467344d5745334c5441314f5451744e474933596931694d3259314c546c684e574a6b4d7a5178596a686c4f43356b62324e34&fich=228881a7-0594-4b7b-b3f5-9a5bd341b8e8.docx&Inline=true",
+    "IniNr": "1",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Altera a Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Pela criação de um regime transitório que mantenha temporariamente o prazo de cinco anos para a naturalização dos estrangeiros residentes legalmente em Portugal, em caso de alteração à Lei da Nacionalidade (Lei n.º 37/81)",
+        "dcl": null,
+        "descTipo": null,
+        "id": "34231",
+        "legislatura": "XVII",
+        "numero": "12",
+        "sessao": "1",
+        "tipo": null
+      },
+      {
+        "assunto": "Alteração à Lei da Nacionalidade relativa à contagem dos cinco anos de residência legal em Portugal para naturalização",
+        "dcl": null,
+        "descTipo": null,
+        "id": "34298",
+        "legislatura": "XVII",
+        "numero": "60",
+        "sessao": "1",
+        "tipo": null
+      },
+      {
+        "assunto": "Solicitam a alteração da Lei da Nacionalidade, no sentido de o prazo de residência, para efeitos de naturalização, continuar a contar-se a partir do momento do pedido da autorização de residência, por qualquer via formulado, e de ser estabelecida uma norma transitória para quem já reúne o requisito vigente da residência legal de 5 anos mas ainda não apresentou o seu pedido",
+        "dcl": null,
+        "descTipo": null,
+        "id": "34311",
+        "legislatura": "XVII",
+        "numero": "73",
+        "sessao": "1",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
