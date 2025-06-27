@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "12",
+    "id": "315062",
+    "titulo": "Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos\n"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87141",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-06-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2025-08-07",
+        "DatainicioApreciacaoPublica": "2025-07-08",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-07-01",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta pública - Recolha de contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=240"
+          },
+          {
+            "DataDocumento": "2025-08-06",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos - Apreciação Pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVIILeg/10CTSSI/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=&Path=yNAZEthjurYUpJokUd0ZrKt1BivUq7sNNE8hRCtDFfKArnvwogS78OWerUaEAf%2fux%2f21rxn0Wnl5pPVUJ58neTKuwjrEroznwHh%2fZQ9jjiHzYMqNq5162w%2fNkuTHCPS%2fpEp%2bww6xIy7LrKuEC9HaQRv3DdLW5ed%2fqFl1LYdoZarSlOFnq1MtuSjC4G2xJqYvTQK%2fONs4Ik1J%2byXVBE0UA84qLE90fldTTyqwfa%2fu4UcepaucGluHoHPOFK8fp9yYqrmgRaGrbRfGBoWMyOaAqk9k9wMd8g7IjZRHM2tfec3T%2fu0LishX5AtMpduYXP1qJXxDczOq6bNSniTN0Qx0in8WgSNHsbASubIBHYxQGTfvQ6r1qfktF3lksij30YcUSndpCe4Oaoa4mije7unwuQ9LslFir5bHcmvkzauE8jvxZoOefqmt79%2fqeI3AvopG"
+          },
+          {
+            "DataDocumento": "2026-05-26",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3249304d6d59344e5451744d7a4a6b4d5330304d7a4a694c5745794e4463745a445977597a55324d4467784d7a51354c6e426b5a673d3d&fich=7b42f854-32d1-432b-a247-d60c56081349.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "8456",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "5841",
+            "motivoCessacao": null,
+            "nome": "Miguel Cabrita"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-06-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1627797",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
