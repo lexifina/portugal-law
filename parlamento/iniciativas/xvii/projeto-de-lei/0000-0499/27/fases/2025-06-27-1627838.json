@@ -1,0 +1,190 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "27",
+    "id": "315090",
+    "titulo": "Reforça as medidas de proteção das vítimas de violência doméstica (10.ª alteração à Lei n.º 112/2009, de 16 de setembro)"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87182",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-06-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2025-10-10",
+        "DatainicioApreciacaoPublica": "2025-09-10",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-09-10",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e544a6c5a4463355a545174597a6733595330304e6a6b344c5745334d7a41745a47466b4e7a4a6c4d4451774e5745314c6e426b5a673d3d&fich=52ed79e4-c87a-4698-a730-dad72e0405a5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-09-10",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4451785954566a4e6a59744e6d59784f533030595441314c5745795a4455744f446732595755774d6a59354d54646a4c6e426b5a673d3d&fich=d41a5c66-6f19-4a05-a2d5-886ae026917c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-06-27",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - Consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=208"
+          },
+          {
+            "DataDocumento": "2025-09-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo  - APAV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d497a5a6a6c6d4d6a63744e5445794d4330304f4445334c5745304e6d5174596a6b794e47526a4e6d45795a6d45304c6e426b5a673d3d&fich=bb3f9f27-5120-4817-a46d-b924dc6a2fa4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324d305a446b344e546b744e474e6b4f5330304f4759304c5749304d6d45744f444a6b4e5751774e474d774d7a4e684c6e426b5a673d3d&fich=3c4d9859-4cd9-48f4-b42a-82d5d04c033a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a6c6c4e3245794f4745744d4752684f4330305a5445334c5745304d5467744e546731596a45775a6a55794e446c694c6e426b5a673d3d&fich=29e7a28a-0da8-4e17-a418-585b10f5249b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-06",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a45314f5746684d44517459324d3459693030597a59334c546b7a4f47457459574a6b5954566a5a47526b5a6d46684c6e426b5a673d3d&fich=b159aa04-cc8b-4c67-938a-abda5cdddfaa.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-07-14"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-18"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-10-06"
+          },
+          {
+            "link": "",
+            "nome": "APAV - Associação Portuguesa de Apoio à Vítima  em 2025-09-03"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-07-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-07-04"
+          },
+          {
+            "link": "",
+            "nome": "APAV - Associação Portuguesa de Apoio à Vítima  em 2025-07-04"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "5749",
+            "motivoCessacao": null,
+            "nome": "Sandra Pereira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-09-10",
+            "dataRemessa": "2025-09-10",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "PCP",
+              "BE",
+              "PAN"
+            ],
+            "data": "2025-09-10",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> CDS-PP</I>, <I> JPP</I><BR>Ausência: <I>L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>",
+            "id": "139534",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "7",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-06-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1627838",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
