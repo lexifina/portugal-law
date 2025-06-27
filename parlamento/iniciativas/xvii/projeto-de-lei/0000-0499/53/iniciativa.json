@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "53",
+  "id": "315178",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-06-27",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3251304e444d304f4449334c54417a597a59744e445a695a6931684d5456694c54526a4f4467304e6a4a6a595746684e53356b62324e34&fich=d4434827-03c6-46bf-a15b-4c88462caaa5.docx&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão 1 de 2025-06-27"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a46694d6a41795a4759314c57466a5a6a6b744e4449354d4330344f4445784c575a6b4e3249325a4455334e3245334d7935775a47593d&fich=1b202df5-acf9-4290-8811-fd7b6d577a73.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "IL",
+        "idCadastro": "8636",
+        "nome": "Mário Amorim Lopes"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "8246",
+        "nome": "Angélique Da Teresa"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7343",
+        "nome": "Carlos Guimarães Pinto"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7339",
+        "nome": "Joana Cordeiro"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "8343",
+        "nome": "Jorge Miguel Teixeira"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7973",
+        "nome": "Mariana Leitão"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "9428",
+        "nome": "Miguel Rangel"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "6945",
+        "nome": "Rodrigo Saraiva"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7331",
+        "nome": "Rui Rocha"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "IL"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "315178",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a41794d7a51314e5442694c575a69597a6b744e444a684e5330344d324a6d4c57466d5a6a63334d475a6d4e6a426c4d43356b62324e34&fich=0234550b-fbc9-42a5-83bf-aff770ff60e0.docx&Inline=true",
+    "IniNr": "53",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto a pedido do autor em 2025-07-02.",
+    "IniTipo": "J",
+    "IniTitulo": "Reduzir o IRS: Valorizar o trabalho e potenciar a nossa economia",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
