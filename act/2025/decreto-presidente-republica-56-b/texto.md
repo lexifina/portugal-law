@@ -1,0 +1,8 @@
+Decreto do Presidente da República n.º 56-B/2025
+de 27 de junho
+O Presidente da República decreta, nos termos do n.º 2 do artigo 26.º da Lei Orgânica n.º 2/2021, de 9 de agosto, o seguinte:
+É homologada a promoção ao posto de Vice-Almirante do Contra-Almirante da classe de Marinha José Rafael Salvado de Figueiredo, efetuada por deliberação de 9 de junho de 2025 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 18 de junho de 2025.
+Assinado em 27 de junho de 2025.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+119235049
