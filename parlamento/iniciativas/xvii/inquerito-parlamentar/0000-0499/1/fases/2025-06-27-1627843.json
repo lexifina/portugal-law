@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "1",
+    "id": "315051",
+    "titulo": "Comissão Parlamentar de Inquérito à preparação, prontidão e planeamento de crises e emergências de larga escala na sequência do apagão energético de 28 de abril "
+  },
+  "fase": "Votação Deliberação",
+  "codigo_fase": "335",
+  "data_registo": "2025-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "335",
+    "Comissao": null,
+    "DataFase": "2025-06-27",
+    "EvtId": "73",
+    "Fase": "Votação Deliberação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1627843",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022167",
+        "obs": null,
+        "pag": [
+          "40-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-06-28",
+        "pubLeg": "XVII",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/40?pgs=40&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2025-06-27",
+        "descricao": "Proposta de aditamento apresentada pelo PCP ao Inquérito Parlamentar n.º 1/XVII/1.ª (L)",
+        "detalhe": "A Favor: <I>L</I>, <I> PCP</I>, <I> BE</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>, <I> PAN</I>",
+        "id": "138996",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "6",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2025-06-27",
+        "descricao": null,
+        "detalhe": "A Favor: <I>L</I>, <I> PCP</I>, <I> BE</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>, <I> IL</I>, <I> PAN</I>",
+        "id": "138997",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "6",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
