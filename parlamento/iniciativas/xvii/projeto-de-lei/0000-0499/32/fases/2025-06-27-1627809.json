@@ -1,0 +1,144 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "32",
+    "id": "315104",
+    "titulo": "Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio\n"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87153",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-06-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-07-04",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação não emissão de relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f44646a4f5446694e6d51744d446c684e7930304e546b334c574a6b5a5455744e3246684e32497a4d6d5933596a51774c6e426b5a673d3d&fich=87c91b6d-09a7-4597-bde5-7aa7b32f7b40.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-06-27",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - Consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=216"
+          },
+          {
+            "DataDocumento": "2025-07-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer da Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5463305a6a4d334e6d51745a4749774e5330305a6a6b354c574a6a596a4d744e5749344e7a4e6d5a5446695a4467344c6e426b5a673d3d&fich=e74f376d-db05-4f99-bcb3-5b873fe1bd88.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-09-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5755314d7a4a694e5445744d325a6a4d6930304f446b784c546c6a4d7a55744d474d314f444e6a4e6d466b4e545a6d4c6e426b5a673d3d&fich=5e532b51-3fc2-4891-9c35-0c583c6ad56f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-09-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659574533597a51794f5745744e6d597a4f5330304e5445784c5745794f544d744f4467334f57526c5a54526b596d49774c6e426b5a673d3d&fich=aa7c429a-6f39-4511-a293-8879dee4dbb0.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Bastonário da Ordem dos Advogados em 2025-07-09"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-09-18"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-09-08"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Bastonário da Ordem dos Advogados em 2025-07-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-07-04"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "8788",
+            "motivoCessacao": null,
+            "nome": "Carolina Marques"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-06-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1627809",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
