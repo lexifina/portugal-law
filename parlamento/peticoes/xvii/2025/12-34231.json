@@ -1,0 +1,166 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34231",
+  "numero": "12",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-06-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-10-17",
+            "entidades": null,
+            "id": "159580",
+            "tipo": null,
+            "titulo": "Audição em 2025-10-17 com Ilia Bobin, Nazarova Arrobas Da Silva , Eriskhan Geshaev , Lucas Da Silva Chagas , Uladzislau Artsiomau , Yurchak Anna "
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-03-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "PCP",
+                "PAN",
+                "JPP"
+              ],
+              "data": "2026-03-25",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> CDS-PP</I>, <I> BE</I><BR>Ausência: <I>PCP</I>, <I> PAN</I>, <I> JPP</I>",
+              "id": "171204",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "49",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-07-16",
+        "DataArquivo": "2026-03-25",
+        "DataBaixaComissao": "2025-07-09",
+        "DataEnvioPAR": "2026-03-25",
+        "DataReaberta": "2025-07-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-07-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3259784f4745344e6a63314c5751794d7a67744e44677a597930354e444a6b4c5451304d6a63354d4441785932466b5a6935775a47593d&fich=f18a8675-d238-483c-942d-44279001cadf.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-03-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a5578593251784f574e6a4c545a695a5751744e4455304d7931694f54466b4c5445774e4463325a5449784d6a4a694d4335775a47593d&fich=51cd19cc-6bed-4543-b91d-10476e2122b0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8447",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-03-25",
+            "dataNomeacao": "2025-07-16",
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-07-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774e44566a5a6d466b595330774d4759304c545132593245744f4749794e69316b4d5759304e5451344e7a55774f5455756347526d&fich=045cfada-00f4-46ca-8b26-d1f454875095.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2026-01-08",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938794f446b33597a45304d6931694f4755334c5451304f54497459544a684e43316d4d444e6d4f4749344e4759304d6a45756347526d&fich=2897c142-b8e7-4492-a2a4-f03f8b84f421.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315160",
+      "315160",
+      "315160"
+    ],
+    "Iniciativasoriginadas": [
+      "315160"
+    ],
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34231",
+    "PetAssunto": "Pela criação de um regime transitório que mantenha temporariamente o prazo de cinco anos para a naturalização dos estrangeiros residentes legalmente em Portugal, em caso de alteração à Lei da Nacionalidade (Lei n.º 37/81)",
+    "PetDataEntrada": "2025-06-30",
+    "PeticoesAssociadas": [
+      "34298",
+      "34311"
+    ],
+    "PetId": "34231",
+    "PetLeg": "XVII",
+    "PetNr": "12",
+    "PetNrAssinaturas": "12378",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915327",
+        "obs": null,
+        "pag": [
+          "15-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-19",
+        "pubLeg": "XVII",
+        "pubNr": "8",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/17/01/008/2025-07-19/15?pgs=15-18&org=PLC"
+      }
+    ]
+  }
+}
