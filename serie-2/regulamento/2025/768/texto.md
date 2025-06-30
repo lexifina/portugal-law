@@ -1,0 +1,11 @@
+Regulamento n.º 768/2025
+
+Projeto de Regulamento Municipal para Atribuição de Incentivos à Fixação de Médicos no Concelho do Ourique
+
+Marcelo David Coelho Guerreiro, Presidente da Câmara Municipal de Ourique, no uso da competência conferida pela alínea t) do n.º 1 do artigo 35.º e para efeitos do disposto no artigo 56.º do Anexo I, à Lei n.º 75/2013, de 12 de setembro, torna público, em cumprimento do disposto no artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, que o Órgão Executivo Municipal na sua reunião ordinária realizada em 28/05/2025, deliberou por unanimidade submeter a consulta pública, para recolha de sugestões, durante o prazo de 30 dias úteis, a contar da data da publicação do presente Aviso no Diário da República, 2.ª série, o Projeto de Regulamento Municipal para Atribuição de Incentivos à Fixação de Médicos no Concelho do Ourique, o qual se encontra disponível no sitio do Município de Ourique na Internet em: www.cm-ourique.pt.
+
+Qualquer interessado poderá apresentar por escrito, durante o período de consulta pública, sugestões que possam ser consideradas relevantes no âmbito do presente projeto, conforme disposto no n.º 2 do citado artigo 101.º, as quais devem ser dirigidas ao Presidente da Câmara por via postal para: Av. 25 de abril, n.º 26, 7670-250 Ourique, ou via correio eletrónico para: geral@cmourique.pt.
+
+18 de junho de 2025. - O Presidente da Câmara, Marcelo David Coelho Guerreiro.
+
+319208562
