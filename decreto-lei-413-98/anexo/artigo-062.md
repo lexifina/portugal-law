@@ -32,7 +32,7 @@ l) Descrição sucinta dos resultados dos actos de inspecção e propostas formu
 
 m) Identificação dos funcionários que o subscreveram, com menção do nome, categoria e número profissional;
 
-n) A não regularização ou a regularização parcial da situação tributária acordada no documento de regularização, nos termos do disposto no n.º 5 do artigo 58.º-A;
+n) A não regularização ou a regularização parcial da situação tributária acordada no documento de regularização, nos termos do disposto no n.º 7 do artigo 58.º-A;
 
 o) Outros elementos relevantes.
 

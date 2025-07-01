@@ -16,7 +16,7 @@ c) (Revogada);
 
 d) Quando seja necessário realizar novas diligências em resultado de o sujeito passivo apresentar factos novos durante a audição prévia;
 
-e) Outros motivos de natureza excecional, mediante autorização fundamentada do diretor-geral da Autoridade Tributária e Aduaneira.
+e) Seja requerida a regularização da situação tributária pela entidade inspecionada, mantendo-se a suspensão até ao termo do prazo previsto no n.º 3 do artigo 58.º-A ou, se anterior, à data da reunião, ou, caso haja lugar à assinatura ou aceitação do documento de regularização no âmbito do procedimento de inspeção, até ao termo do prazo previsto no n.º 6 do artigo 58.º-A.
 
 4 - A prorrogação do prazo do procedimento de inspeção deve ocorrer até ao seu termo, antes da emissão da nota de diligência, e é notificada à entidade inspecionada com a indicação da data previsível do termo do procedimento.
 
