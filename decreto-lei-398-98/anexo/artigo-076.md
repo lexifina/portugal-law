@@ -1,0 +1,11 @@
+# Artigo 76.º
+
+### Valor probatório
+
+1 - As informações prestadas pela inspecção tributária fazem fé, quando fundamentadas e se basearem em critérios objectivos, nos termos da lei.
+
+2 - As cópias obtidas a partir dos dados registados informaticamente ou de outros suportes arquivísticos da administração tributária têm a força probatória do original, desde que devidamente autenticadas.
+
+3 - A autenticação pode efectuar-se pelos meios genericamente definidos pelo dirigente máximo do serviço.
+
+4 - São abrangidas pelo n.º 1 as informações prestadas pelas administrações tributárias estrangeiras ao abrigo de convenções internacionais de assistência mútua a que o Estado Português esteja vinculado, sem prejuízo da prova em contrário do sujeito passivo ou interessado.

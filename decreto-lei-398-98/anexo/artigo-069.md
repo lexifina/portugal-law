@@ -1,0 +1,15 @@
+## Capítulo III
+
+## Do procedimento
+
+## Secção I
+
+## Início do procedimento
+
+# Artigo 69.º
+
+### Impulso
+
+1 - O procedimento inicia-se nos prazos e com os fundamentos previstos na lei, por iniciativa dos interessados ou da administração tributária.
+
+2 - O início do procedimento dirigido ao apuramento de qualquer situação tributária é comunicado aos interessados, salvo quando a comunicação possa pôr em causa os efeitos úteis que visa prosseguir ou o procedimento incida sobre situações tributárias em que os interessados não estão ainda devidamente identificados.

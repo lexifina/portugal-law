@@ -1,0 +1,17 @@
+# Artigo 8.º
+
+### Princípio da legalidade tributária
+
+1 - Estão sujeitos ao princípio da legalidade tributária a incidência, a taxa, os benefícios fiscais, as garantias dos contribuintes, a definição dos crimes fiscais e o regime geral das contra-ordenações fiscais.
+
+2 - Estão ainda sujeitos ao princípio da legalidade tributária:
+
+a) A liquidação e cobrança dos tributos, incluindo os prazos de prescrição e caducidade;
+
+b) A regulamentação das figuras da substituição e responsabilidade tributárias;
+
+c) A definição das obrigações acessórias;
+
+d) A definição das sanções fiscais sem natureza criminal;
+
+e) As regras de procedimento e processo tributário.

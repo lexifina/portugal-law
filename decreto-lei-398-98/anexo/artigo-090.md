@@ -1,0 +1,29 @@
+## Subsecção II
+
+## Critérios
+
+# Artigo 90.º
+
+### Determinação da matéria tributável por métodos indirectos
+
+1 - Em caso de impossibilidade de comprovação e quantificação directa e exacta da matéria tributável, a determinação da matéria tributável por métodos indirectos poderá ter em conta os seguintes elementos:
+
+a) As margens médias do lucro líquido sobre as vendas e prestações de serviços ou compras e fornecimentos de serviços de terceiros;
+
+b) As taxas médias de rentabilidade de capital investido;
+
+c) O coeficiente técnico de consumos ou utilização de matérias-primas e outros custos directos;
+
+d) Os elementos e informações declaradas à administração tributária, incluindo os relativos a outros impostos e, bem assim, os relativos a empresas ou entidades que tenham relações económicas com o contribuinte;
+
+e) A localização e dimensão da actividade exercida;
+
+f) Os custos presumidos em função das condições concretas do exercício da actividade;
+
+g) A matéria tributável do ano ou anos mais próximos que se encontre determinada pela administração tributária.
+
+h) O valor de mercado dos bens ou serviços tributados;
+
+i) Uma relação congruente e justificada entre os factos apurados e a situação concreta do contribuinte.
+
+2 - No caso de a matéria tributável se afastar significativamente para menos, sem razão justificada, dos indicadores objectivos de actividade de base técnico-científica, a sua determinação efectua-se de acordo com esses indicadores.
