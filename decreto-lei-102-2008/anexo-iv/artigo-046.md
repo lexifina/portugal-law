@@ -6,7 +6,7 @@
 
 2 - O registo referido no número anterior deve ser efetuado, o mais tardar, no 1.º dia útil seguinte ao da realização das operações, com base em duplicados das faturas emitidas, em extratos diários produzidos pelos equipamentos eletrónicos relativos a todas as operações realizadas ou em folhas de caixa, que podem substituir o mesmo registo desde que contenham a indicação inequívoca de um único total diário.
 
-3 - Os registos diários a que se referem os números anteriores devem ser objecto de relevação contabilística ou de inscrição nos livros referidos no artigo 50.º, conforme os casos, no prazo previsto no artigo 45.º
+3 - Os registos diários a que se referem os números anteriores devem ser objeto de relevação contabilística ou de classificação nos termos do artigo 50.º, conforme os casos, no prazo previsto no artigo 45.º
 
 4 - (Revogado.)
 

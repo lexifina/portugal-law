@@ -1,11 +1,11 @@
 # Artigo 65.º
 
-### Registo das operações e livros obrigatórios
+### Registo das operações
 
-1 - Os retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º são obrigados a registar no prazo de 30 dias a contar da respetiva receção as faturas e guias ou notas de devolução relativas aos bens ou serviços adquiridos e a conservá-las com observância do disposto no n.º 2 do artigo 48.º
+1 - Os retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º procedem à classificação das faturas que titulam as respetivas operações, diretamente no Portal das Finanças, até à confirmação da declaração a que se refere a alínea b) do n.º 1 do artigo 67.º, se enviada dentro do prazo legal, ou até ao fim desse prazo, se essa obrigação não tiver sido cumprida, diferenciando:
 
-2 - Para cumprimento do mencionado no n.º 1, devem os retalhistas possuir os seguintes elementos de escrita:
+a) Nas operações ativas, as transmissões de bens e prestações de serviços;
 
-a) Livro de registo de compras, vendas e serviços prestados;
+b) Nas operações passivas, as despesas efetuadas no âmbito da atividade, designadamente os inventários, as despesas gerais e as operações ligadas a bens de investimento.
 
-b) Livro de registo de despesas gerais e operações ligadas a bens de investimento.
+2 - (Revogado.)

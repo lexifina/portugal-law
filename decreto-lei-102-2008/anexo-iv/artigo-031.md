@@ -6,4 +6,4 @@
 
 2 - (Revogado.)
 
-3 - Não há lugar à entrega da declaração referida no n.º 1 quando se trate de pessoas sujeitas a IVA pela prática de uma só operação tributável nos termos da alínea a) do n.º 1 do artigo 2.º, exceto se a mesma exceder o limite previsto nas alíneas e) e f) do n.º 1 do artigo 29.º
+3 - Não há lugar à entrega da declaração referida no n.º 1 quando se trate de pessoas sujeitas a IVA pela prática de uma só operação tributável nos termos da alínea a) do n.º 1 do artigo 2.º

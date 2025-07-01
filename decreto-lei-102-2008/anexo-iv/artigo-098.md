@@ -6,4 +6,4 @@
 
 2 - Sem prejuízo de disposições especiais, o direito à dedução ou ao reembolso do imposto entregue em excesso só pode ser exercido até ao decurso de quatro anos após o nascimento do direito à dedução ou pagamento em excesso do imposto, respectivamente.
 
-3 - Não se procede à anulação de qualquer liquidação quando o seu valor seja inferior ao limite previsto no n.º 4 do artigo 94.º
+3 - Não se procede à anulação de qualquer liquidação quando o seu valor seja inferior ao limite previsto no n.º 5 do artigo 94.º
