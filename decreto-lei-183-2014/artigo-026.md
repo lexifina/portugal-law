@@ -1,9 +1,9 @@
 # Artigo 26.º
 
-### Criação, extinção e reestruturação
+### Transferência de atribuições e competências
 
-1 - É criada a Direção-Geral de Recursos da Defesa Nacional.
+1 — Os serviços integradores identificados nas alíneas d) e e) do n.º 2 do artigo 4.º do presente decreto-lei sucedem nos direitos e obrigações e nas posições contratuais do serviço que as transfere nos termos dos respetivos diplomas orgânicos e demais regimes legais aplicáveis.
 
-2 - São extintas, sendo objeto de fusão, a Direção-Geral de Pessoal e Recrutamento Militar e a Direção-Geral de Armamento e Infraestruturas de Defesa, sendo as suas atribuições integradas na Direção-Geral de Recursos da Defesa Nacional.
+2 — (Revogado.)
 
 3 - São objeto de reestruturação os restantes serviços e organismos referidos no artigo 4.º

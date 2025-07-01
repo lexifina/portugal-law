@@ -16,10 +16,12 @@ b) A Inspeção-Geral da Defesa Nacional;
 
 c) A Direção-Geral de Política de Defesa Nacional;
 
-d) A Direção-Geral de Recursos da Defesa Nacional;
+d) A Direção-Geral de Recursos Humanos da Defesa Nacional;
 
-e) O Instituto da Defesa Nacional;
+e) A Direção-Geral de Armamento e Património da Defesa Nacional;
 
-f) A Polícia Judiciária Militar.
+f) O Instituto da Defesa Nacional;
+
+g) A Polícia Judiciária Militar.
 
 3 - As Forças Armadas e os serviços centrais, no desenvolvimento das respetivas competências nas áreas complementares devem assegurar, de forma recíproca e permanente, a devida articulação entre os diversos níveis de atuação.
