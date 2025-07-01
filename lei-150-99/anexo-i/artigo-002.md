@@ -1,0 +1,71 @@
+# Artigo 2.º
+
+### Incidência subjectiva
+
+1 - São sujeitos passivos do imposto:
+
+a) Notários, conservadores dos registos civil, comercial, predial e de outros bens sujeitos a registo, outras entidades públicas, incluindo os estabelecimentos e organismos do Estado, bem como todas as entidades ou profissionais que autentiquem os documentos particulares, relativamente aos actos, contratos e outros factos em que sejam intervenientes, com excepção dos celebrados perante notários relativos a crédito e garantias concedidos por instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e por quaisquer outras instituições financeiras, e quando, nos termos da alínea n) do artigo 5.º, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal;
+
+b) Entidades concedentes do crédito e da garantia ou credoras de juros, prémios, comissões e outras contraprestações;
+
+c) Instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas, residentes em território nacional, que tenham intermediado operações de crédito, de prestação de garantias ou juros, comissões e outras contraprestações devidos por residentes no mesmo território a instituições de crédito ou sociedades financeiras não residentes;
+
+d) Entidades mutuárias, beneficiárias de garantia ou devedoras de juros, comissões e outras contraprestações, no caso das operações referidas na alínea anterior, que não tenham sido intermediadas por instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e cujo credor não exerça a actividade, em regime de livre prestação de serviços, no território português;
+
+e) Empresas seguradoras relativamente à soma do prémio do seguro, custo da apólice e quaisquer outras importâncias cobradas em conjunto ou em documento separado, bem como às comissões pagas a mediadores, líquidas de imposto;
+
+f) Entidades emitentes de letras e outros títulos de crédito, entidades editantes de cheques e livranças ou, no caso de títulos emitidos no estrangeiro, a primeira entidade que intervenha na negociação ou pagamento;
+
+g) (Revogada);
+
+h) Outras entidades que intervenham em actos e contratos ou emitam ou utilizem os documentos, títulos ou papéis;
+
+i) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal pelas entidades emitentes de apólices de seguros efectuados no território de outros Estados membros da União Europeia ou fora desse território, cujo risco ocorra em território português;
+
+j) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal pelas instituições de crédito ou sociedades financeiras que, no território português, realizam operações financeiras em regime de livre prestação de serviços que não sejam intermediadas por instituições de crédito ou sociedades financeiras domiciliadas em Portugal;
+
+l) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal por quaisquer entidades que, no território português, realizem quaisquer outras operações abrangidas pela incidência do presente Código em regime de livre prestação de serviços.
+
+m) (Revogada.)
+
+n) (Revogada.)
+
+o) A Santa Casa da Misericórdia de Lisboa, relativamente aos contratos de jogo celebrados no âmbito dos jogos sociais do Estado, cuja organização e exploração se lhe encontre atribuída em regime de direito exclusivo, bem como relativamente aos prémios provenientes dos jogos sociais do Estado;
+
+p) As entidades que concedem os prémios do bingo, das rifas e do jogo do loto, bem como quaisquer prémios de sorteios ou de concursos.
+
+q) As entidades abrangidas pelo regime estabelecido no artigo 22.º do EBF, quando estas tenham personalidade jurídica, ou as respetivas sociedades gestoras, nos restantes casos.
+
+r) O subconcedente e o trespassante, respetivamente, nas subconcessões e trespasses de concessões feitos pelo Estado, pelas regiões autónomas ou pelas autarquias locais, para exploração de empresas ou de serviços de qualquer natureza, tenha ou não principiado a exploração.
+
+s) As entidades abrangidas pelo regime estabelecido no artigo 22.º do EBF, quando estas tenham personalidade jurídica, ou as respetivas sociedades gestoras, nos restantes casos.
+
+t) O primeiro adquirente, nas operações de reporte, salvo se este não for domiciliado em território nacional, caso em que os sujeitos passivos do imposto são:
+
+i) As contrapartes centrais, instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e quaisquer outras instituições financeiras domiciliadas em território nacional que tenham intermediado as operações;
+
+ii) O primeiro alienante domiciliado em território nacional, caso as operações não tenham sido intermediadas pelas entidades referidas na subalínea anterior.
+
+u) Os prestadores de serviços de criptoativos, nas operações previstas na verba n.º 30 da Tabela Geral, salvo se estes não forem domiciliados em território nacional, caso em que os sujeitos passivos do imposto são:
+
+i) Os prestadores de serviços de criptoativos domiciliados em território nacional que tenham intermediado as operações;
+
+ii) Os representantes que, para o efeito, são obrigatoriamente nomeados em Portugal, caso as operações não tenham sido intermediadas pelas entidades referidas na subalínea anterior.
+
+2 - Nas transmissões gratuitas, são sujeitos passivos do imposto as pessoas singulares para quem se transmitam os bens, sem prejuízo das seguintes regras:
+
+a) Nas sucessões por morte, o imposto é devido pela herança, representada pelo cabeça-de-casal, e pelos legatários;
+
+b) Nas demais transmissões gratuitas, incluindo as aquisições por usucapião, o imposto é devido pelos respectivos beneficiários.
+
+3 - Não obstante o disposto no n.º 1, nos atos ou contratos da verba 1.1 da Tabela Geral, são sujeitos passivos do imposto os adquirentes dos bens imóveis.
+
+4 - (Revogado).
+
+5 - Nas situações previstas na verba n.º 2 da Tabela Geral, é sujeito passivo do imposto o locador e o sublocador.
+
+6 - Para efeitos do disposto no número anterior, é sujeito passivo:
+
+a) Em caso de pluralidade de locadores ou de sublocadores, aquele que proceder à apresentação da declaração prevista no artigo 60.º ou o primeiro locador ou sublocador identificado na referida declaração, quando apresentada por terceiro autorizado, sem prejuízo da responsabilidade de qualquer dos locadores ou sublocadores, nos termos gerais, em caso de incumprimento da obrigação declarativa;
+
+b) No arrendamento e subarrendamento de prédio pertencente a herança indivisa ou de parte comum de prédio constituído em propriedade horizontal, a herança indivisa representada pelo cabeça de casal e o condomínio representado pelo administrador, respetivamente.
