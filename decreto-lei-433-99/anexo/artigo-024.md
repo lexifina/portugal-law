@@ -8,7 +8,7 @@
 
 3 - As certidões poderão ser passadas no prazo de 48 horas caso a administração tributária disponha dos elementos necessários e o contribuinte invoque fundamentadamente urgência na sua obtenção.
 
-4 - Salvo o disposto em lei especial, a validade das certidões passadas pela administração tributária é de um ano, exceto as certidões comprovativas de situação tributária regularizada, que têm a validade de três meses.
+4 - Salvo o disposto em lei especial, a validade das certidões passadas pela administração tributária é de um ano, exceto as certidões comprovativas de situação tributária regularizada, que têm a validade de quatro meses.
 
 5 - A validade de certidões passadas pela administração tributária que estejam sujeitas a prazo de caducidade pode ser prorrogada, a pedido dos interessados, por períodos sucessivos de um ano, que não pode ultrapassar três anos, desde que não haja alteração dos elementos anteriormente certificados, exceto as respeitantes à situação tributária regularizada, cujo prazo de validade nunca pode ser prorrogado.
 
