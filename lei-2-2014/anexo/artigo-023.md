@@ -48,6 +48,6 @@ e) Data em que os bens foram adquiridos ou em que os serviços foram realizados.
 
 5 - (Revogado.)
 
-6 - Quando o fornecedor dos bens ou prestador dos serviços esteja obrigado à emissão de fatura ou documento legalmente equiparado nos termos do Código do IVA, o documento comprovativo das aquisições de bens ou serviços previsto no n.º 4 deve obrigatoriamente assumir essa forma.
+6 - Quando o fornecedor dos bens ou prestador dos serviços esteja obrigado à emissão de fatura nos termos do Código do IVA, o documento comprovativo das aquisições de bens ou serviços previsto no n.º 4 deve obrigatoriamente assumir essa forma.
 
 7 - Os gastos respeitantes a ações preferenciais sem voto classificadas como passivo financeiro de acordo com a normalização contabilística em vigor, incluindo os gastos com a emissão destes títulos, são dedutíveis para efeitos da determinação do lucro tributável da entidade emitente.
