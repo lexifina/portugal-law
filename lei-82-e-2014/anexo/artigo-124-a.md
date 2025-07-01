@@ -2,4 +2,4 @@
 
 ### Declaração de comunicação de operações com criptoativos
 
-As pessoas singulares ou coletivas, os organismos e outras entidades sem personalidade jurídica, que prestem serviços de custódia e administração de criptoativos por conta de terceiros ou tenham a gestão de uma ou mais plataformas de negociação de criptoativos, devem comunicar à Autoridade Tributária e Aduaneira, até ao final do mês de janeiro de cada ano, relativamente a cada sujeito passivo, através de modelo oficial, as operações efetuadas com a sua intervenção, relativamente a criptoativos.
+As pessoas singulares ou coletivas, os organismos e outras entidades sem personalidade jurídica, que prestem serviços de custódia e administração de criptoativos por conta de terceiros ou tenham a gestão de uma ou mais plataformas de negociação de criptoativos, devem comunicar à Autoridade Tributária e Aduaneira, até ao final do mês de fevereiro de cada ano, relativamente a cada sujeito passivo, através de modelo oficial, as operações efetuadas com a sua intervenção, relativamente a criptoativos.

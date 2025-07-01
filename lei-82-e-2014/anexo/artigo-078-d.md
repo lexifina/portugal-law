@@ -30,7 +30,7 @@ iii) Que constem de outros documentos, no caso de prestações de serviços e tr
 
 4 - Não são dedutíveis as despesas de formação e educação até ao montante que no ano em causa seja excluído de tributação nos termos da alínea b) do n.º 1 do artigo 2.º-A ou reembolsado no âmbito de um Plano Poupança-Educação, nos termos previstos na legislação aplicável.
 
-5 - Os estabelecimentos públicos comunicam à Autoridade Tributária e Aduaneira o valor das propinas e demais encargos considerados dedutíveis nos termos deste artigo, mediante a entrega de declaração de modelo oficial, a aprovar por portaria do membro do Governo responsável pela área das finanças, até ao final do mês de janeiro do ano seguinte àquele em que ocorreu o respetivo pagamento.
+5 - Os estabelecimentos públicos comunicam à Autoridade Tributária e Aduaneira o valor das propinas e demais encargos considerados dedutíveis nos termos deste artigo, mediante a entrega de declaração de modelo oficial, a aprovar por portaria do membro do Governo responsável pela área das finanças, até ao final do mês de fevereiro do ano seguinte àquele em que ocorreu o respetivo pagamento.
 
 6 - O disposto no número anterior é igualmente aplicável, com as necessárias adaptações, às prestações de serviços e transmissões de bens efetuadas pelas entidades a que se refere a subalínea ii) da alínea b) do n.º 6 do artigo 78.º, exceto quando emitam e comuniquem faturas.
 
@@ -52,6 +52,6 @@ a) É dedutível a título de rendas um valor máximo de 400 (euro) anuais, send
 
 b) As faturas ou outro documento que, nos termos da lei, titule o arrendamento serão emitidos com a indicação de que este se destina ao arrendamento de estudante deslocado;
 
-c) Para efeitos do disposto na alínea anterior, os sujeitos passivos devem, no caso de faturas comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 198/2012, de 24 de agosto, indicar no Portal das Finanças que as mesmas titulam encargos com arrendamento de estudante deslocado;
+c) Para efeitos do disposto na alínea anterior, os sujeitos passivos devem, no caso de faturas comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 198/2012, de 24 de agosto, na sua redação atual, indicar no Portal das Finanças, até ao final do mês de fevereiro do ano seguinte ao da sua emissão, que as mesmas titulam encargos com arrendamento de estudante deslocado;
 
 d) A dedução em causa não é cumulável, em relação ao mesmo imóvel, com a dedução relativa a encargos com imóveis prevista no artigo 78.º-E.

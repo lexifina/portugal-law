@@ -12,7 +12,7 @@ c) Entregar à Autoridade Tributária e Aduaneira uma declaração de modelo ofi
 
 i) Até ao dia 10 do mês seguinte ao do pagamento ou colocação à disposição, caso se trate de rendimentos do trabalho dependente, ainda que isentos ou não sujeitos a tributação, sem prejuízo de poder ser estabelecido por portaria do Ministro das Finanças a sua entrega anual nos casos em que tal se justifique;
 
-ii) Até ao dia 10 de fevereiro de cada ano, relativamente aos restantes rendimentos do ano anterior.
+ii) Até ao final do mês de fevereiro de cada ano, relativamente aos restantes rendimentos do ano anterior;
 
 d) Apresentar a declaração a que se refere a alínea anterior nos 30 dias imediatos à ocorrência de qualquer facto que determine a alteração dos rendimentos já declarados ou que implique a obrigação de os declarar.
 

@@ -10,7 +10,7 @@ b) As importâncias que respeitem a reembolso de despesas efetuadas em nome e po
 
 c) Os rendimentos da categoria B referidos nas alíneas c), d), e), f) e h) do n.º 2 do artigo 3.º;
 
-d) Os rendimentos da categoria E, sempre que o montante de cada retenção seja inferior a (euro) 5;
+d) Os rendimentos das categorias B, E e F, sempre que o montante de cada retenção seja inferior a € 25;
 
 e) Os rendimentos da categoria A, que respeitem a atividades exercidas no estrangeiro por pessoas singulares residentes em território português, sempre que tais rendimentos sejam sujeitos a tributação efetiva no país da fonte em imposto similar ou idêntico ao IRS.
 

@@ -14,7 +14,7 @@ b) Que tenham sido objeto de comunicação nos termos do n.º 3.
 
 2 - A dedução a que se refere o número anterior abrange encargos com apoio domiciliário, lares e instituições de apoio à terceira idade relativos aos sujeitos passivos, bem como dos encargos com lares e residências autónomas para pessoas com deficiência, seus dependentes, ascendentes e colaterais até ao 3.º grau que não possuam rendimentos superiores à retribuição mínima mensal garantida.
 
-3 - Os estabelecimentos públicos comunicam à Autoridade Tributária e Aduaneira o valor dos encargos considerados dedutíveis nos termos deste artigo, mediante a entrega de declaração de modelo oficial, a aprovar por portaria do membro do Governo responsável pela área das finanças, até ao final do mês de janeiro do ano seguinte àquele em que ocorreu o respetivo pagamento.
+3 - Os estabelecimentos públicos comunicam à Autoridade Tributária e Aduaneira o valor dos encargos considerados dedutíveis nos termos deste artigo, mediante a entrega de declaração de modelo oficial, a aprovar por portaria do membro do Governo responsável pela área das finanças, até ao final do mês de fevereiro do ano seguinte àquele em que ocorreu o respetivo pagamento.
 
 4 - O disposto no número anterior é igualmente aplicável, com as necessárias adaptações, às prestações de serviços e transmissões de bens efetuadas pelas entidades a que se refere a subalínea ii) da alínea b) do n.º 6 do artigo 78.º, exceto quando emitam e comuniquem faturas.
 

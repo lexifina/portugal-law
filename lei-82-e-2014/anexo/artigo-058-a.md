@@ -22,7 +22,7 @@ b) No termo do prazo legal de entrega a que se refere o n.º 1 do artigo 60.º, 
 
 5 - Os sujeitos passivos consideram-se notificados da liquidação efetuada nos termos do n.º 2 no momento da confirmação quando não haja lugar a cobrança de imposto, sendo notificados nos termos gerais nos restantes casos, através de carta registada.
 
-6 - Para efeitos do disposto no n.º 1, os sujeitos passivos podem, até 15 de fevereiro, indicar no Portal das Finanças os elementos pessoais relevantes, nomeadamente a composição do seu agregado familiar no último dia do ano a que o imposto respeite, mediante autenticação de todos os membros do agregado familiar.
+6 - Para efeitos do disposto no n.º 1, os sujeitos passivos podem, até ao final do mês de fevereiro, indicar no Portal das Finanças os elementos pessoais relevantes, nomeadamente a composição do seu agregado familiar no último dia do ano a que o imposto respeite, mediante autenticação de todos os membros do agregado familiar.
 
 7 - Caso os sujeitos passivos não efetuem a comunicação prevista no número anterior, a declaração de rendimentos provisória disponibilizada pela Autoridade Tributária e Aduaneira tem por base os elementos pessoais declarados em relação ao período de tributação anterior e, na sua falta, considera-se que o sujeito passivo não é casado ou unido de facto e não tem dependentes.
 

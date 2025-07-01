@@ -4,7 +4,7 @@
 
 1 - Os titulares dos rendimentos da categoria B são obrigados:
 
-a) A passar fatura, recibo ou fatura-recibo, em modelo oficial, de todas as importâncias recebidas dos seus clientes, pelas transmissões de bens ou prestações de serviços referidas nas alíneas a) e b) do n.º 1 do artigo 3.º, ainda que a título de provisão, adiantamento ou reembolso de despesas, bem como dos rendimentos indicados na alínea c) do n.º 1 do mesmo artigo; ou
+a) A emitir fatura, recibo ou fatura-recibo, nas aplicações de faturação disponibilizadas pela Autoridade Tributária e Aduaneira, de todas as importâncias recebidas dos seus clientes, pelas transmissões de bens ou prestações de serviços referidas nas alíneas a) e b) do n.º 1 do artigo 3.º, ainda que a título de provisão, adiantamento ou reembolso de despesas, bem como dos rendimentos indicados na alínea c) do n.º 1 do mesmo artigo; ou
 
 b) A emitir fatura nos termos da alínea b) do n.º 1 do artigo 29.º do Código do IVA por cada transmissão de bens, prestação de serviços ou outras operações efetuadas e a emitir documento de quitação de todas as importâncias recebidas.
 
@@ -18,4 +18,4 @@ b) A emitir fatura nos termos da alínea b) do n.º 1 do artigo 29.º do Código
 
 a) A passar recibo de quitação, em modelo oficial, de todas as importâncias recebidas dos seus inquilinos, pelo pagamento das rendas referidas nas alíneas a) a e) e h) do n.º 2 do artigo 8.º, ainda que a título de caução, adiantamento ou reembolso de despesas; ou
 
-b) A entregar à Autoridade Tributária e Aduaneira uma declaração de modelo oficial que descrimine os rendimentos mencionados na alínea anterior até ao fim do mês de janeiro de cada ano, por referência ao ano anterior.
+b) Entregar à Autoridade Tributária e Aduaneira uma declaração de modelo oficial que discrimine os rendimentos mencionados na alínea anterior até ao fim do mês de fevereiro de cada ano, por referência ao ano anterior.

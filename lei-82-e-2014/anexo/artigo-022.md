@@ -42,6 +42,6 @@ a) Ser incluídos na declaração do agregado em que se integram, salvo o dispos
 
 b) Ser divididos em partes iguais a incluir, respetivamente, em cada uma das declarações dos sujeitos passivos, em caso de residência alternada estabelecida em acordo de regulação do exercício das responsabilidades parentais em vigor no último dia do ano a que o imposto respeita.
 
-9 - Para efeitos do disposto na alínea b) do número anterior, devem os sujeitos passivos, comunicar no Portal das Finanças, até 15 de fevereiro do ano seguinte àquele a que o imposto respeita, a existência de residência alternada prevista no referido acordo.
+9 - Para efeitos do disposto na alínea b) do número anterior, devem os sujeitos passivos comunicar no Portal das Finanças, até ao final do mês de fevereiro do ano seguinte àquele a que o imposto respeita, a existência de residência alternada prevista no referido acordo.
 
 10 - Sempre que a lei imponha o englobamento de rendimentos auferidos por sujeitos passivos não residentes em território português são tidos em consideração, para efeitos de determinação da taxa a aplicar de acordo com a tabela prevista no n.º 1 do artigo 68.º, todos os rendimentos auferidos, incluindo os obtidos fora deste território, nas mesmas condições que são aplicáveis aos residentes.

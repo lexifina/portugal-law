@@ -68,9 +68,9 @@ f) Importações ou aquisições intracomunitárias de bens e serviços relacion
 
 15 - Para efeitos da afetação à atividade empresarial ou profissional das despesas e encargos referidos no n.º 13, o sujeito passivo deve identificar:
 
-a) As faturas e outros documentos referidos nas alíneas c) e e) do n.º 13, que titulem despesas e encargos relacionados exclusiva ou parcialmente com a sua atividade empresarial ou profissional, através do Portal das Finanças, sendo aplicável com as necessárias adaptações o disposto nos n.os 2 a 6 e 8 do artigo 78.º-B;
+a) As faturas e outros documentos referidos nas alíneas c) e e) do n.º 13, que titulem despesas e encargos relacionados exclusiva ou parcialmente com a sua atividade empresarial ou profissional, através do Portal das Finanças, até ao final do mês de fevereiro do ano seguinte ao da sua emissão, sendo aplicável, com as necessárias adaptações, o disposto nos n.os 2 a 6 e 8 do artigo 78.º-B;
 
-b) Os imóveis afetos exclusiva ou parcialmente à sua atividade empresarial ou profissional e, de entre estas, a afetação a atividades hoteleiras ou de alojamento local, através do Portal das Finanças;
+b) Os imóveis afetos exclusiva ou parcialmente à sua atividade empresarial ou profissional e, de entre estas, a afetação a atividades hoteleiras ou de alojamento local, através do Portal das Finanças, até ao final do mês de fevereiro do ano seguinte àquele a que o imposto respeita;
 
 c) As importações e aquisições intracomunitárias de bens e serviços efetuadas, específica e exclusivamente, no âmbito da sua atividade empresarial ou profissional são indicadas na declaração de rendimentos prevista no artigo 57.º
 

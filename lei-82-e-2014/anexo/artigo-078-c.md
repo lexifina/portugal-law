@@ -20,7 +20,7 @@ c) Que tenham sido objeto de comunicação nos termos dos n.os 2 e 5.
 
 d) Que conste de faturas que titulem prestações de serviços e aquisições de bens, tributados à taxa normal do IVA, comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 198/2012, de 24 de agosto, ou emitidas no Portal das Finanças, nos termos da alínea a) do n.º 1 do artigo 115.º, pelos emitentes que estejam enquadrados nos setores de atividade referidos na alínea a), desde que devidamente justificados através de receita médica.
 
-2 - Os estabelecimentos públicos de saúde são obrigados a comunicar à Autoridade Tributária e Aduaneira, através de modelo a aprovar por portaria do membro do Governo responsável pela área das finanças, o valor das taxas moderadoras pagas pelos sujeitos passivos, cujos montantes são considerados para efeitos da dedução à coleta prevista no número anterior.
+2 - Os estabelecimentos públicos de saúde são obrigados a comunicar à Autoridade Tributária e Aduaneira, até ao final do mês de fevereiro do ano seguinte àquele em que ocorreu o respetivo pagamento, através de modelo a aprovar por portaria do membro do Governo responsável pela área das finanças, o valor das taxas moderadoras pagas pelos sujeitos passivos, cujos montantes são considerados para efeitos da dedução à coleta prevista no número anterior.
 
 3 - O disposto no número anterior é igualmente aplicável, com as necessárias adaptações, às prestações de serviços e transmissões de bens efetuadas pelas entidades a que se refere a subalínea ii) da alínea b) do n.º 6 do artigo 78.º, exceto quando emitam e comuniquem faturas.
 
