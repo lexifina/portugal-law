@@ -12,8 +12,14 @@
 
 5 - Findo o prazo de pagamento previsto no n.º 4 sem que a prestação em dívida ou o imposto tenha sido pago, há lugar a procedimento executivo, o qual abrange todas as prestações vincendas, que para o efeito se consideram logo vencidas.
 
-6 - A notificação a efectuar é acompanhada do plano de pagamento em prestações e do desconto, devendo o interessado comunicar ao serviço de finanças competente, no prazo de 15 dias a contar da notificação, se pretende efectuar o pagamento do imposto de pronto, sendo o mesmo pago em prestações na falta de tal comunicação.
+6 - Da notificação referida nos n.os 1 a 3, constam duas opções de pagamento:
 
-7 - O imposto respeitante à transmissão de bens móveis só pode ser dividido em prestações mediante prestação de garantia idónea, nos termos do artigo 199.º do Código de Procedimento e de Processo Tributário.
+a) O pronto pagamento com o desconto, nos termos do n.º 2;
 
-8 - Havendo lugar a liquidação adicional por erro imputável aos serviços, é aplicável o disposto nos números antecedentes.
+b) O plano de pagamento em prestações, nos termos do n.º 3.
+
+7 - A realização de um dos pagamentos mencionados no número anterior, no prazo previsto no n.º 1, implica a opção definitiva pela respetiva modalidade de pagamento.
+
+8 - O imposto respeitante à transmissão de bens móveis só pode ser dividido em prestações mediante prestação de garantia idónea, nos termos do artigo 199.º do Código de Procedimento e de Processo Tributário.
+
+9 - Havendo lugar a liquidação adicional por erro imputável aos serviços, é aplicável o disposto nos números antecedentes.
