@@ -18,7 +18,7 @@ i) A primeira prestação, na data de cumprimento da obrigação de pagamento em
 
 ii) As restantes prestações mensais, na mesma data dos meses subsequentes;
 
-b) Os pedidos de pagamentos em prestações mensais a que se referem as alíneas b) e c) do número anterior são apresentados por via eletrónica, até ao termo do prazo de pagamento voluntário;
+b) Os pedidos de pagamentos em prestações mensais a que se referem as alíneas b) e c) do número anterior são apresentados por via eletrónica, até ao termo do prazo de entrega das declarações periódicas;
 
 c) Os pagamentos em prestações abrangidos pelo presente regime não dependem da prestação de quaisquer garantias;
 
