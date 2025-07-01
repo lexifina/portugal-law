@@ -32,9 +32,9 @@ l) A comunicação antecipada do início da inspecção da escrita, com a indica
 
 m) Informação ao contribuinte dos seus direitos e obrigações, designadamente nos casos de obrigações periódicas;
 
-n) A interpelação ao contribuinte para proceder à regularização da situação tributária e ao exercício do direito à redução da coima, quando a administração tributária detecte a prática de uma infracção de natureza não criminal.
+n) A interpelação ao contribuinte para proceder à regularização da situação tributária e ao exercício do direito à redução da coima, quando a administração tributária detecte a prática de uma infracção de natureza não criminal;
 
-o) A disponibilização no Portal das Finanças dos formulários digitais, em formato que possibilite o seu preenchimento e submissão, para o cumprimento das obrigações declarativas previstas nos artigos 57.º e 113.º do Código do IRS e nos artigos 120.º e 121.º do Código do IRC, com uma antecedência mínima de 120 dias em relação à data limite do cumprimento da obrigação declarativa.
+o) A disponibilização no Portal das Finanças dos formulários digitais, em formato que possibilite o seu preenchimento e submissão, para o cumprimento das obrigações declarativas previstas nos artigos 57.º e 113.º do Código do IRS e nos artigos 120.º e 121.º do Código do IRC, com uma antecedência mínima de 90 dias em relação à data limite do cumprimento da obrigação declarativa.
 
 4 - A colaboração dos contribuintes com a administração tributária compreende o cumprimento das obrigações acessórias previstas na lei e a prestação dos esclarecimentos que esta lhes solicitar sobre a sua situação tributária, bem como sobre as relações económicas que mantenham com terceiros.
 
