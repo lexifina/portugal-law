@@ -1,0 +1,164 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "47",
+    "id": "315166",
+    "titulo": "Proíbe a ocultação do rosto em espaços públicos salvo determinadas exceções\n\n"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-07-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87206",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-07-01",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-07-01",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - Consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=226"
+          },
+          {
+            "DataDocumento": "2025-10-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a4a694d7a45784d6d55744e3256685a6930304d4463354c54686c595459744d5745774d4451354f574d314e6a6b784c6e426b5a673d3d&fich=b2b3112e-7eaf-4079-8ea6-1a00499c5691.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-16",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a55794f5467324d544d744d6d4d794d7930305a6a63354c546b344e7a63744f4751304f4751774e3256684d445a6c4c6e426b5a673d3d&fich=65298613-2c23-4f79-9877-8d48d07ea06e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação de não emissão de Parecer -  Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e444d784e6a566a4e5749744e5751335a533030597a6b304c5745324e4759744e444d354d7a4e6a596d5531595449314c6e426b5a673d3d&fich=43165c5b-5d7e-4c94-a64f-43933cbe5a25.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a426b5a6d45314d4451744e5464684d6930304d6a597a4c546c694d6d45744d6a4e6b4f57493459546733597a466b4c6e426b5a673d3d&fich=70dfa504-57a2-4263-9b2a-23d9b8a87c1d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-23",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595467794e3252684e7a45744e5467314e6930305a5459324c546b32596d51744e6a4a6d597a6868595451784d5449774c6e426b5a673d3d&fich=a827da71-5856-4e66-96bd-62fc8aa41120.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Amnistia Internacional",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f446b304d4745304d6a59745a5451355a6930305a546b344c5467774e4449744e544e6c4f5442694d324979596a6b794c6e426b5a673d3d&fich=8940a426-e49f-4e98-8042-53e90b3b2b92.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Bastonário da Ordem dos Advogados em 2025-07-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-08"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-07-23"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Bastonário da Ordem dos Advogados em 2025-07-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-07-04"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-10-16",
+            "dataRemessa": "2025-10-16",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-07-01",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1627948",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
