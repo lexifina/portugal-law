@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q3tLU3T%2ftQB6kCRTmsviUEw%2fy%2fJMJwprZGZONxeuiw2Awhxt0D4FJNh9Vvu6gd%2fxqOvqPfxMPSMEL8JoRsG6zokbyoNv3F9VMzHBTkJnE562jsPb88udv%2bipg%2bI2%2fJwlALHkYz2hC32ILov%2bpmYyNPQZYnfy9b5%2bE0BWIVBZxQAFH%2fA%2fOvfimA1p2Iq0VhrBGBHCnAKD15twSTJsXYSS0BceMGZQ67ysAp7F3%2bujnnU0HtADMViT4c6gJNSAKjBMCFFWCVEDlu6lZRNU9rXOT1JSfIjIe1eiULgcEQ8rDAXx9757mS%2fqCwH2CE3gCv5atTqGSaBnJ79aLNIXFFahSXVZEV3%2fjRVKMyZj6fZklvY%3d&fich=IntervencoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3236f01f1a16cea27c8f649548948df90008154a381a4d2df53a252155c44361",
+  "legislatura": "XVII",
+  "id": "466539",
+  "tipo": "Declaração politica",
+  "orador": "Hugo Carneiro (PSD)",
+  "data_registo": "2025-07-02",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "147394",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "147394",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Elenca as medidas apresentadas pelo Executivo, destacando a diminuição da carga fiscal sobre o trabalho"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Alfredo Maia (PCP), Mariana Mortágua (BE) e Rui Tavares (L), no âmbito da Declaração Política em que elencou as medidas apresentadas pelo Executivo, destacando a diminuição da carga fiscal sobre o trabalho.\n",
+        "duracao": "00:03:25.691",
+        "tipoIntervencao": "Declaração politica",
+        "url": "https://av.parlamento.pt/videos/Plenary/17/1/7/14"
+      }
+    ],
+    "DataReuniaoPlenaria": "2025-07-02",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "7274",
+      "nome": "Hugo Carneiro"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "466539",
+    "IdDebate": "36686",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "466539",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "14-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-03",
+        "pubLeg": "XVII",
+        "pubNr": "7",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/007/2025-07-03/14?pgs=14-16&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Respondeu a pedidos de esclarecimento dos deputados ",
+    "Sessao": "1",
+    "Sumario": "Elenca as medidas apresentadas pelo Executivo, destacando a diminuição da carga fiscal sobre o trabalho",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração politica"
+  }
+}
