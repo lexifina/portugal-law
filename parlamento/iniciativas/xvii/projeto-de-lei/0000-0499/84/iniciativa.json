@@ -1,0 +1,87 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "84",
+  "id": "315252",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-07-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a59354d544535596d5a6d4c545133593259744e44526a5a5331685a474a6c4c5451334f54466d4e6a67304e6a5a68597935775a47593d&fich=69119bff-47cf-44ce-adbe-4791f68466ac.pdf&Inline=true",
+        "anexoNome": "Texto da iniciativa - versão 1, de 03-07-2025"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a55794d5756684e5751314c5463334f5751744e4759314f5331694f4463784c5459325a6a6c684d6a6c694d7a5533595335775a47593d&fich=521ea5d5-779d-4f59-b871-66f9a29b357a.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "L",
+        "idCadastro": "7356",
+        "nome": "Isabel Mendes Lopes"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "8491",
+        "nome": "Filipa Pinto"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "6968",
+        "nome": "Patrícia Gonçalves"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "8869",
+        "nome": "Jorge Pinto"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "6932",
+        "nome": "Paulo Muacho"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "7337",
+        "nome": "Rui Tavares"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "L"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "315252",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a646d595451774d6d55304c545179593245744e4455775a4331685a4755304c546330595759774d7a426d4f44466c597935775a47593d&fich=7fa402e4-42ca-450d-ade4-74af030f81ec.pdf&Inline=true",
+    "IniNr": "84",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do título e do texto a pedido do autor em 2026-03-17.",
+    "IniTipo": "J",
+    "IniTitulo": "Segurança e saúde no Trabalho: proteção dos trabalhadores que executam atividades ao ar livre em condições meteorológicas extremas",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
