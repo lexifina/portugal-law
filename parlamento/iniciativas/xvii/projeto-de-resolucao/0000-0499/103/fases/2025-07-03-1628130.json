@@ -1,0 +1,1433 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "103",
+    "id": "315203",
+    "titulo": "Pela preservação do património natural da península de Tróia"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2025-07-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61129",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2025-07-03",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315154",
+        "leg": "XVII",
+        "nr": "78",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315182",
+        "leg": "XVII",
+        "nr": "89",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315193",
+        "leg": "XVII",
+        "nr": "96",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315212",
+        "leg": "XVII",
+        "nr": "109",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56729",
+            "obs": null,
+            "pag": [
+              "29-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Em defesa da costa litoral do concelho de Grândola"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-07-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467325",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467326",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8736",
+                "nome": "Bernardo Pessanha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467327",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467328",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467370",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467371",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467372",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467373",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467374",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8343",
+                "nome": "Jorge Miguel Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467375",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467376",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6050",
+                "nome": "André Pinotes Batista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467377",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467378",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6050",
+                "nome": "André Pinotes Batista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467379",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6858",
+                "nome": "Diogo Pacheco de Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467380",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6081",
+                "nome": "Sonia dos Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467381",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação do património natural da Península de Tróia (Catarina Pires de Almeida Rosa e outros); Recomenda a proteção e restauro dos ecossistemas dunares da península de Tróia e das pradarias marinhas do estuário do Sado; Recomenda a suspensão das dragagens no estuário do Sado até à avaliação e cumprimento das medidas previstas na Declaração de Impacte Ambiental; Recomenda ao Governo a implementação de medidas para salvaguarda e valorização ecológica da Península de Tróia em equilíbrio com o interesse nacional; Pela preservação do património natural da península de Tróia; Em defesa da costa litoral do concelho de Grândola. ",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1628130",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XVI",
+        "nr": "1",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Pela Preservação do Património Natural da Península de Tróia"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022565",
+        "obs": null,
+        "pag": [
+          "29-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-04",
+        "pubLeg": "XVII",
+        "pubNr": "8",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/29?pgs=29-42&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
