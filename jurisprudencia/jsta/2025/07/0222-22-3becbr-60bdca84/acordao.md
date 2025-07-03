@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-07-03, processo 0222/22.3BECBR
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0222/22.3BECBR
+
+**Data do Acordão:** 07/03/2025
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** FREDERICO MACEDO BRANCO
+
+**Descritores:** PRESCRIÇÃO; RESTITUIÇÃO; COMPARTICIPAÇÃO
+
+**Nº Convencional:** JSTA000P34024
+
+**Nº do Documento:** SA1202507030222/22
+
+**Recorrente:** SANTA CASA DA MISERICÓRDIA ...
+
+**Recorrido 1:** CENTRO DISTRITAL DE COIMBRA DO INSTITUTO DA SEGURANÇA SOCIAL, IP
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A questão em apreciação, respeita à prescrição da obrigação de restituição à entidade pública demandada dos valores pagos pelo ISS à Autora, entendendo-se ser aplicável o regime da prescrição previsto no Decreto-Lei n° 155/92, aplicável até à entrada em vigor do Decreto-Lei n° 79/2019, o que ocorreu em 15.06.2019, sendo que, a partir daí seria aplicável o novo regime da prescrição independentemente do prazo que tenha decorrido até então.
+
+II - Porque no momento da entrada em vigor da lei nova, perante ela, faltava todo o tempo que ela prevê, apenas é necessário calcular o tempo que, nesse momento, falta para a prescrição à face da lei antiga (e se faltar menos tempo do que o previsto no novo prazo, é de aplicar a lei antiga).
+
+III - Tendo a interpelação do devedor ocorrido em 26.10.2021 tal significa que o prazo de prescrição aplicável de 5 anos, nos termos do Decreto-Lei n° 155/92, de 28 de Julho, determina que sejam reclamáveis por parte do ISS como restituição das comparticipações, apenas os valores pagos de 25.10.2016 até 25.10.2021, pois que nos termos do Artº 40º do mesmo Decreto-Lei n° 155/92, o termo inicial do prazo de prescrição conta-se a partir do momento em que ocorre o recebimento das comparticipações.
+
+IV - Efetivamente, o regime de prescrição a aplicar ao caso será o que resulta do artigo 40°, do Decreto-Lei n° 155/92, sendo que, de acordo com o mesmo, o seu termo inicial ocorre com o recebimento das quantias, havendo de considerar como facto interruptivo desse prazo, a notificação feita a 26.10.2021, o que permite concluir que se verificou a extinção por prescrição do direito à restituição das comparticipações recebidas até 25.10.2016 (5 anos entre o recebimento e a notificação).
+
+V- Julga-se, assim, verificada a extinção por prescrição do direito à restituição das comparticipações recebidas até à requerida data de 25.10.2016.
