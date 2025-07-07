@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "116",
+  "id": "315326",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-07-07",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3251774f4749794d6d5a6a4c5756695a5745744e4746694d5330344d4445784c5749344e7a553059544d7959544d354e53356b62324e34&fich=d08b22fc-ebea-4ab1-8011-b8754a32a395.docx&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão 1 de 2025-07-04"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a63335a5449784d5445324c545a6d4d5441744e446778596931684e6a59774c5745324e544e6c4f575a684d5449344e43356b62324e34&fich=77e21116-6f10-481b-a660-a653e9fa1284.docx&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão 2 de 2025-07-16"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a49784e44566a5a444d324c544a6a4f4751744e47526c5a693035596d49794c546c6c5a6a6734597a56694f4441305a4335775a47593d&fich=2145cd36-2c8d-4def-9bb2-9ef88c5b804d.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7369",
+        "nome": "Vanessa Barata"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "6547",
+        "nome": "Cristina Rodrigues"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8551",
+        "nome": "Idalina Durães"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8418",
+        "nome": "Madalena Cordeiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8693",
+        "nome": "Nuno Gabriel"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CH"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "315326",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c325a6b5a6a4d334f54686b4c5745774e444d744e44426d5a4330354e6d55314c546b774e3251305a4459314e47566d5a53356b62324e34&fich=fdf3798d-a043-40fd-96e5-907d4d654efe.docx&Inline=true",
+    "IniNr": "116",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do título e do texto a pedido do autor em 2025-07-16. Substituição do texto a pedido do autor em 2025-07-18.",
+    "IniTipo": "J",
+    "IniTitulo": "Consagra a possibilidade de os trabalhadores integrados nas carreiras de especialista superior, especialista, especialista adjunto e especialista auxiliar, previstas no Decreto-Lei n.º 275-A/2000, de 8 de novembro, transitarem para a carreira de especialista de polícia científica constante do Decreto-Lei n.º 138/2019, de 13 de setembro",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
