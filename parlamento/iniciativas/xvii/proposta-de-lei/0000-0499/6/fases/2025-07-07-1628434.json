@@ -1,0 +1,183 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "6",
+    "id": "315260",
+    "titulo": "Altera os estatutos dos Magistrados Judiciais, do Ministério Público e dos Tribunais Administrativos e Fiscais, bem como a Lei da Organização do Sistema Judiciário"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-07-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87297",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-07-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-07-09",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação de não emissão de relatório ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f47497a596d55304d446b744d444d33595330305a444e684c546c6a596d51744e6a67795a6d5268597a51794d4455314c6e426b5a673d3d&fich=8b3be409-037a-4d3a-9cbd-682fdac42055.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-06-27",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - Consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=268"
+          },
+          {
+            "DataDocumento": "2025-07-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo ASJP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d466b597a426c4d5455744d6d566a4e4330304f474d324c5745314e574d744e47566b4e6a49794f4463304e4446694c6e426b5a673d3d&fich=badc0e15-2ec4-48c6-a55c-4ed62287441b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54646a5a6a67784f4467744d474e6c5a5330304d6a4a6a4c5467304d4445744d475979595441305a5459324d7a5a684c6e426b5a673d3d&fich=57cf8188-0cee-422c-8401-0f2a04e6636a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-21",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4752684f44553059324d744f5463304d6930304e6d49314c546b344e6d49744d3246685a5751314e324d304d44466a4c6e426b5a673d3d&fich=8da854cc-9742-46b5-986b-3aaed57c401c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-11",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4752684f4463314e6a67744e4451774f5330304d44426d4c5467785a446b745a6a4e6b5a5451314e5445334d6a51304c6e426b5a673d3d&fich=8da87568-4409-400f-81d9-f3de45517244.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - SMMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a51324e7a46694d3255744f4449354f4330304d546b784c546c6b4e5463744f5452694d7a4d324e544a684d32466d4c6e426b5a673d3d&fich=f4671b3e-8298-4191-9d57-94b33652a3af.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-09"
+          },
+          {
+            "link": "",
+            "nome": "Bastonário da Ordem dos Advogados em 2025-07-09"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2025-07-08"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2025-07-10"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público em 2025-07-18"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Bastonário da Ordem dos Advogados em 2025-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2025-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2025-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Oficiais de Justiça em 2025-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Funcionários Judiciais  em 2025-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Conselho dos Oficiais de Justiça em 2025-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público em 2025-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Solicitadores e dos Agentes de Execução em 2025-07-07"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-07-07",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1628434",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
