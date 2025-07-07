@@ -1,0 +1,186 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "8",
+    "id": "315262",
+    "titulo": "Autoriza o Governo a adaptar a ordem jurídica interna ao Regulamento (UE) 2021/784 do Parlamento Europeu e do Conselho, de 29 de abril de 2021, relativo ao combate à difusão de conteúdos terroristas em linha"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-07-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87298",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-07-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-09-17",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a67795a444930597a4974597a41355a5330304e7a426b4c574a6d4f446b745a5749324d3259784e7a59324d4452694c6e426b5a673d3d&fich=b82d24c2-c09e-470d-bf89-eb63f176604b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-09-17",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54593259544d304d5449744e474d324f4330305a4755354c546b334e6d55745a5459785a44566a4d6a5a6c5a54497a4c6e426b5a673d3d&fich=966a3412-4c68-4de9-976e-e61d5c26ee23.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-06-27",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - Consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=269"
+          },
+          {
+            "DataDocumento": "2025-07-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595441784d544d78596a55745a6a4530596930304d57457a4c546869596a5974597a417a4d324934597a557a4e44566d4c6e426b5a673d3d&fich=a01131b5-f14b-41a3-8bb6-c033b8c5345f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-08-27",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4459304f475a6a4f54417459574a6a4e5330304d444d344c546b795a544d74597a686a596d4a6b597a59774d57566d4c6e426b5a673d3d&fich=d648fc90-abc5-4038-92e3-c8cbbdc601ef.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-23",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer ANACOM - Autoridade Nacional de Comunicações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d325a68596a67794d6a63744e47526d5a6930304e6a6b334c546b334e7a45744f444d77596d55774d7a4d315a6a45784c6e426b5a673d3d&fich=3fab8227-4dff-4697-9771-830be0335f11.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-21",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4455774d444a6d4d5455744d445177595330304e4749304c546777596a6b7459545a6a596d51304d546c694e474e694c6e426b5a673d3d&fich=05002f15-040a-44b4-80b9-a6cbd419b4cb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-09-22",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a52694f545a6b4d54557459575932596930304e5751774c546c684d7a41744f545931595755354d4441355a44646c4c6e426b5a673d3d&fich=b4b96d15-af6b-45d0-9a30-965ae9009d7e.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-18"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-09-22"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-07-21"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2025-08-20"
+          },
+          {
+            "link": "",
+            "nome": "ANACOM - Autoridade  Nacional de Comunicações em 2025-07-23"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-09"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2025-07-09"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2025-07-09"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2025-07-09"
+          },
+          {
+            "link": "",
+            "nome": "ANACOM - Autoridade  Nacional de Comunicações em 2025-07-09"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-09-17",
+            "dataRemessa": "2025-09-17",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-07-07",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 14.ª comissão",
+    "OevId": "1628443",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
