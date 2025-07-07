@@ -1,0 +1,181 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Resolução",
+  "numero": "174",
+  "id": "315338",
+  "fases": 13,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-07-07",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "8723",
+        "nome": "Paulo Núncio"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2641",
+        "nome": "Paulo Cavaleiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3918",
+        "nome": "Paula Cardoso"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7489",
+        "nome": "Adriana Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8152",
+        "nome": "Almiro Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8788",
+        "nome": "Carolina Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9060",
+        "nome": "Firmino Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5490",
+        "nome": "Helga Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2106",
+        "nome": "Regina Bastos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2071",
+        "nome": "Miguel Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8526",
+        "nome": "Gonçalo Lage"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2397",
+        "nome": "Francisco Covelinhas Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7240",
+        "nome": "Alexandre Poço"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9650",
+        "nome": "Bruno Faria"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5984",
+        "nome": "Germana Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4090",
+        "nome": "Margarida Saavedra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4221",
+        "nome": "Vânia Jesus"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8157",
+        "nome": "Amílcar Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7753",
+        "nome": "Andreia Bernardo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7928",
+        "nome": "Célia Freire"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6537",
+        "nome": "Paulo Moniz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9108",
+        "nome": "Ricardo Barroso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7205",
+        "nome": "Ricardo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9107",
+        "nome": "Sofia Machado Fernandes"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "CDS-PP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "315338",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a6b304f57566c597a6c684c57517a593249744e4751784d793034596d46694c54426a5a5749354d6d55314d444e6c4e79356b62324e34&fich=949eec9a-d3cb-4d13-8bab-0ceb92e503e7.docx&Inline=true",
+    "IniNr": "174",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo a criação de um Nó de Acesso à Autoestrada A1 entre Anadia e Oliveira do Bairro",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
