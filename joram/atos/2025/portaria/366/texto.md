@@ -1,0 +1,22 @@
+# Portaria n.º 366/2025
+
+**Emissor:** SECRETARIA REGIONAL DAS FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 116/2025, 2.º suplemento, de 2025-07-08
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais respeitantes à cessão da posição contratual detida pela Região Autónoma da Madeira, no contrato de arrendamento relativo ao prédio urbano destinado a comércio e serviços, sito à Rua Nova de São Pedro, n.º 26, bem como no subarrendamento de uma unidade destinada a estacionamento individualizada pelas letras “AU- 3”, integrada no prédio urbano em regime de propriedade horizontal, denominado “Edifício Arriaga”, para a “Agência de Inovação e Modernização da Região Autónoma da Madeira, IP-RAM, no valor mensal de 4.345,96 €.
+
+## Texto
+
+Portaria n.º 366/2025
+de 8 de julho
+Sumário: Autoriza a distribuição dos encargos orçamentais respeitantes à cessão da posição contratual detida pela Região Autónoma da Madeira, no contrato de arrendamento relativo ao prédio urbano destinado a comércio e serviços, sito à Rua Nova de São Pedro, n.º 26, bem como no subarrendamento de uma unidade destinada a estacionamento individualizada pelas letras “AU- 3”, integrada no prédio urbano em regime de propriedade horizontal, denominado “Edifício Arriaga”, para a “Agência de Inovação e Modernização da Região Autónoma da Madeira, IP-RAM, no valor mensal de 4.345,96 €.
+Texto: Dando cumprimento ao disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho e considerando o disposto na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua atual redação, do n.º 1 do artigo 29.º do Decreto Legislativo Regional n.º 2 /2025/M, de 2 de julho e do n.º 1 do artigo 23.º do Decreto Regulamentar n.º 17/2024/M, de 11 de setembro, que se mantém em vigor nos termos do artigo 32.º daquele diploma, manda o Governo Regional, através do Secretário Regional das Finanças, o seguinte:
+1. Os encargos orçamentais decorrentes da cessão da posição contratual detida pela Região Autónoma da Madeira, no contrato de arrendamento relativo ao prédio urbano destinado a comércio e serviços, sito à Rua Nova de São Pedro n.º 26, inscrito na matriz predial respetiva sob o artigo 1714, descrito na Conservatória do Registo Predial do Funchal sob o n.º 1104, bem como no subarrendamento de uma unidade destinada a estacionamento individualizada pelas letras “AU- 3”, integrada no prédio urbano em regime de propriedade horizontal, denominado “Edifício Arriaga”, para a “Agência de Inovação e Modernização da Região Autónoma da Madeira, IP RAM, no valor mensal de 4.345,96 € (Quatro mil trezentos e quarenta e cinco euros e noventa e seis cêntimos), que foi celebrado a 1 de janeiro de 2020 pelo prazo de cinco anos, que se renovou automaticamente no seu termo por períodos sucessivos de 1 (um) ano, encontram-se escalonados na forma abaixo indicada:
+Ano Económico de 2025: ............................................................................... 150.568,40 €; Ano Económico de 2026: ................................................................................. 53.976,84 €; Ano Económico de 2027: ................................................................................. 55.866,00 €; Ano Económico de 2028: ................................................................................. 57.821,28 €; Ano Económico de 2029: ................................................................................. 59.845,08 €.
+2. O montante fixado no número anterior para cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
+3. À importância fixada para cada ano económico será acrescido o valor das atualizações anuais das rendas previstas no contrato de arrendamento de acordo com os coeficientes legalmente fixados.
+4. A despesa em causa tem cabimento orçamental no orçamento da Agência de Inovação e Modernização da Região Autónoma da Madeira, IP RAM em 2025 na rubrica com a classificação orgânica 44 1 03 01 00, classificação económica D.02.02.04.00.00, classificação funcional 0130, fonte de financiamento 522, atividade 258, programa 41, medida 004 com os números de cabimento 85 e 86.
+5. As verbas necessárias para o ano económico de 2026 e seguintes, são inscritas nas respetivas propostas de orçamento da Região Autónoma da Madeira para cada ano.
+Secretaria Regional das Finanças, aos 7 dias do mês de julho de 2025.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Duarte Nuno Nunes de Freitas
