@@ -1,0 +1,1586 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "130",
+    "id": "315258",
+    "titulo": "Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2025-07-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61189",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2025-07-09",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315244",
+        "leg": "XVII",
+        "nr": "124",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315272",
+        "leg": "XVII",
+        "nr": "134",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315289",
+        "leg": "XVII",
+        "nr": "148",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola "
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315293",
+        "leg": "XVII",
+        "nr": "150",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315324",
+        "leg": "XVII",
+        "nr": "164",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56736",
+            "obs": null,
+            "pag": [
+              "60-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-07-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1517",
+                "nome": "Rui Jorge Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467420",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8596",
+                "nome": "João Tilly"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467421",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/62?pgs=62&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467422",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1517",
+                "nome": "Rui Jorge Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467423",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/63?pgs=63&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467424",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/64?pgs=64&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7345",
+                "nome": "Pedro dos Santos Frazão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467425",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467426",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467427",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467428",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "9628",
+                "nome": "Fernando Queiroga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467429",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467430",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467431",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/70?pgs=70&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8783",
+                "nome": "Carlos Silva Santiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/94"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467432",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5600",
+                "nome": "Eurico Brilhante Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467433",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/73?pgs=73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/96"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467434",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/72?pgs=72&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5600",
+                "nome": "Eurico Brilhante Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467435",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/72?pgs=72&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7345",
+                "nome": "Pedro dos Santos Frazão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/98"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/73?pgs=73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1517",
+                "nome": "Rui Jorge Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/99"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467437",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1628468",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022598",
+        "obs": null,
+        "pag": [
+          "60-74"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-10",
+        "pubLeg": "XVII",
+        "pubNr": "10",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/60?pgs=60-74&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
