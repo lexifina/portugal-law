@@ -1,0 +1,112 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "84",
+    "id": "315252",
+    "titulo": "Segurança e saúde no Trabalho: proteção dos trabalhadores que executam atividades ao ar livre em condições meteorológicas extremas"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-07-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87308",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-07-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2025-08-14",
+        "DatainicioApreciacaoPublica": "2025-07-15",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-09-25",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos - Apreciação Pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVIILeg/10CTSSI/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=5545704d4947347577726f674f44517457465a4a535330784c734b71494330675231416754456c57556b553d&Path=Xqofd8zBFrOz2DXHOGnmOsWdCIi5qkczHiEgsIljnkAJEZ3u7Qe26EkxLwKnrRL9Xryszjb3KC%2bsNT6P9YuS3zzOctnkCNPeTE3dzSed8qq%2btmDfTMu4buJpjVsFXM4717qKB7BGEHz1LSOB31Ogh%2f5jbJT586gYN0Je%2btWBqpRoGc1TYzvuy1J4RqO1JiX04C3fo2hckAVePxBReFRc7U6jNcsrC50%2fm88JtKpNtYJbpx6PGZpztnKLIftsd4sVJbAzZEuZ2XNfqni6ux4ovAIWk63s5LsN444etLuBN3VV2oG4JecBPEO53YZlWG5mCHv%2bH71NraAk5%2b0fDeQTKax5Q4qUQl4hthUAI0vr6je%2fcOE8S%2bnRIUCmiW9%2f5QxnarRNzLnSIoxOEWNbY0Mt2OEbgDWxBIg7Q9Q1KQpr3tjQ05%2fUMKHvJ6YMSva%2fJ67POQSXfSWhdsFZNbJLvTDlmQ%3d%3d"
+          },
+          {
+            "DataDocumento": "2025-10-17",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a4d7a5a544e6c4d446b744d7a4a6b4f4330304f54526d4c546735596a45744d445933595746695a546c684e446b794c6e426b5a673d3d&fich=333e3e09-32d8-494f-89b1-067aabe9a492.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-07-09",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos -  Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=290"
+          },
+          {
+            "DataDocumento": "2025-10-15",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Relatório PJL 84/XVII/1.ª (L)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d444a6b596a646b4e4467744e574e68597930304f4459304c5749315a6d4d745a446b794e6a6c6c5932497a4d7a457a4c6e426b5a673d3d&fich=02db7d48-5cac-4864-b5fc-d9269ecb3313.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "8456",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7460",
+            "motivoCessacao": null,
+            "nome": "Eduardo Pinheiro"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-07-09",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1628557",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
