@@ -1,0 +1,1452 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "13",
+    "id": "315066",
+    "titulo": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2025-07-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61183",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2025-07-09",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315104",
+        "leg": "XVII",
+        "nr": "32",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56735",
+            "obs": null,
+            "pag": [
+              "39-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56735",
+            "obs": null,
+            "pag": [
+              "39-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56735",
+            "obs": null,
+            "pag": [
+              "39-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio\n"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315269",
+        "leg": "XVII",
+        "nr": "90",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56735",
+            "obs": null,
+            "pag": [
+              "39-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56735",
+            "obs": null,
+            "pag": [
+              "39-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56735",
+            "obs": null,
+            "pag": [
+              "39-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315323",
+        "leg": "XVII",
+        "nr": "163",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56735",
+            "obs": null,
+            "pag": [
+              "39-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56735",
+            "obs": null,
+            "pag": [
+              "39-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56735",
+            "obs": null,
+            "pag": [
+              "39-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-10",
+            "pubLeg": "XVII",
+            "pubNr": "10",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pelo combate célere eficaz às ocupações ilegais de imóveis"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-07-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467413",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7331",
+                "nome": "Rui Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/43?pgs=43&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8230",
+                "nome": "André Rijo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467417",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/43?pgs=43-45&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467418",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8230",
+                "nome": "André Rijo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/64"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467419",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/65"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467768",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/47?pgs=47&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/47?pgs=47-49&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7331",
+                "nome": "Rui Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467770",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/50?pgs=50&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4300",
+                "nome": "Hugo Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5600",
+                "nome": "Eurico Brilhante Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/55?pgs=55-57&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7330",
+                "nome": "Jorge Galveias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/80"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/10/81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-10",
+                "pubLeg": "XVII",
+                "pubNr": "10",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis; Alteração ao Código Penal, Código de Processo Penal e ao Código de Processo Civil, em defesa da propriedade privada e do domicílio; Protege o direito de propriedade, através do reforço da tutela penal dos imóveis objeto de ocupação ilegal, procedendo à alteração do Código Penal e do Código de Processo Penal; Pelo combate célere eficaz às ocupações ilegais de imóveis.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1628461",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022593",
+        "obs": null,
+        "pag": [
+          "39-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-10",
+        "pubLeg": "XVII",
+        "pubNr": "10",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/010/2025-07-10/39?pgs=39-60&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
