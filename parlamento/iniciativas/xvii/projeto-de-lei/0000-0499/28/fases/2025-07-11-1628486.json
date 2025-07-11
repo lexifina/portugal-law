@@ -1,0 +1,2140 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "28",
+    "id": "315095",
+    "titulo": "Revoga a Lei n.º 33/2025"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2025-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61207",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2025-07-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315264",
+        "leg": "XVII",
+        "nr": "88",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315277",
+        "leg": "XVII",
+        "nr": "93",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315294",
+        "leg": "XVII",
+        "nr": "98",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315295",
+        "leg": "XVII",
+        "nr": "99",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315307",
+        "leg": "XVII",
+        "nr": "106",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei de prevenção e proteção contra a violência obstétrica"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315265",
+        "leg": "XVII",
+        "nr": "131",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde \n"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315287",
+        "leg": "XVII",
+        "nr": "146",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Por medidas de combate à violência ginecológica e obstétrica no SNS "
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315318",
+        "leg": "XVII",
+        "nr": "161",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56738",
+            "obs": null,
+            "pag": [
+              "59-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela promoção dos direitos na gravidez e no parto"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-07-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467651",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4330",
+                "nome": "Ana Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467652",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/61?pgs=61-63&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8812",
+                "nome": "Cláudia Estêvão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4330",
+                "nome": "Ana Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/64?pgs=64&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467657",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467658",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/67?pgs=67&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7494",
+                "nome": "Irene Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467659",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/77"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467660",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/78"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467661",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/70?pgs=70&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/12/79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467662",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 33/2025; Pela garantia de proteção à mulher grávida e ao nascituro em todas as fases e circunstâncias e o reforço de redes de apoio e cuidados; Promove a qualidade, adequação, segurança e humanização dos cuidados de saúde na gravidez e no parto, alterando a Lei n.º 33/2025, de 31 de março; Reforça as medidas de combate e prevenção da violência obstétrica, alterando a Lei n.º 33/2025, de 31 de março; Reforça os direitos da mulher no parto e no internamento no puerpério, e dos jovens com cancro durante o seu internamento, alterando a Lei n.º 15/2014, de 21 de março; Lei de prevenção e proteção contra a violência obstétrica; Promove a otimização do serviço prestado pelos Enfermeiros Especialistas em Saúde Materna e Obstétrica no Serviço Nacional de Saúde; Por medidas de combate à violência ginecológica e obstétrica no SNS; Pela promoção dos direitos na gravidez e no parto.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1628486",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022627",
+        "obs": null,
+        "pag": [
+          "59-71"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-12",
+        "pubLeg": "XVII",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/59?pgs=59-71&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
