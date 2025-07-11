@@ -1,0 +1,769 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "164",
+    "id": "315324",
+    "titulo": "Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2025-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61321",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2025-07-11",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315244",
+        "leg": "XVII",
+        "nr": "124",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315258",
+        "leg": "XVII",
+        "nr": "130",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315272",
+        "leg": "XVII",
+        "nr": "134",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315289",
+        "leg": "XVII",
+        "nr": "148",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola "
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315293",
+        "leg": "XVII",
+        "nr": "150",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56741",
+            "obs": null,
+            "pag": [
+              "104-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-12",
+            "pubLeg": "XVII",
+            "pubNr": "12",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-07-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8157",
+                "nome": "Amílcar Almeida"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "9629",
+                "nome": "Ana Silveira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "9650",
+                "nome": "Bruno Faria"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "9060",
+                "nome": "Firmino Ferreira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8863",
+                "nome": "Dulcineia Catarina Moura"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8783",
+                "nome": "Carlos Silva Santiago"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8525",
+                "nome": "Gonçalo Valente"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8546",
+                "nome": "Hernâni Dias"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4300",
+                "nome": "Hugo Soares"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "9628",
+                "nome": "Fernando Queiroga"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8689",
+                "nome": "Nuno Jorge Gonçalves"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4328",
+                "nome": "Maurício Marques"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6081",
+                "nome": "Sonia dos Reis"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1738",
+                "nome": "Pedro Alves"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8558",
+                "nome": "Isabel Fernandes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7205",
+                "nome": "Ricardo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "14:39",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467719",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "104-105"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-12",
+                "pubLeg": "XVII",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/104?pgs=104-105&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma linha de apoio financeiro aos pequenos e médios agricultores da Região Demarcada do Douro, no contexto da crise vitivinícola; Recomenda ao Governo a adoção urgente de medidas aos viticultores do Douro; Recomenda ao Governo a implementação imediata de uma linha de crédito financeiro, aos viticultores da Região Demarcada do Douro (RDD) e outras medidas; Recomenda ao Governo a adoção de medidas de mitigação da crise vitivinícola; Recomenda ao Governo a reorganização voluntária da produção vitivinícola na Região Demarcada do Douro com realocação dos direitos de benefício; Recomenda ao Governo que adote um conjunto de medidas na defesa da Região Demarcada do Douro e do setor vitivinícola.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1628887",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022439",
+        "obs": null,
+        "pag": [
+          "91-91"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-12",
+        "pubLeg": "XVII",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/012/2025-07-12/91?pgs=91&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2025-07-11",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> L</I>, <I> CDS-PP</I>, <I> BE</I>, <I> JPP</I><BR>Abstenção:<I>IL</I>, <I> PCP</I>, <I> PAN</I>",
+        "id": "139154",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "12",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
