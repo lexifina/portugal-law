@@ -1,0 +1,163 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "13",
+    "id": "315066",
+    "titulo": "Introduz medidas de celeridade no julgamento de processos relacionados com a ocupação ilegal de imóveis"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2025-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "87360",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-07-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-10-09",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Audição da Associação Lisbonense de Proprietários, a requerimento oral do Grupo Parlamentar do CDS-PP",
+            "URL": "https://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheAudicao.aspx?BID=159528"
+          },
+          {
+            "DataDocumento": "2025-10-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 1 - Proposta de alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f574d324d44686b4d5467744e574e6d4e5330304e5745324c57497a4e4445744d7a4e6a4d7a4933597a67775a6a4d304c6e426b5a673d3d&fich=9c608d18-5cf5-45a6-b341-33c327c80f34.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 2 - Proposta de alteração GP CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d47566a4d5463324d7a5174596a63334f4330304e5441774c5467314d4459744d4745325a5449354e4746684e6a41344c6e426b5a673d3d&fich=0ec17634-b778-4500-8506-0a6e294aa608.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 3 - Proposta de alteração JPP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a67304e6a41334f4745744d47526a4d7930304e5455774c5745774f5467745a6a4130597a49324d7a41314d4755794c6e426b5a673d3d&fich=f846078a-0dc3-4550-a098-f04c263050e2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 4 - Proposta de alteração GP IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54557859325a6c597a59745a544e6a596930304d6a41784c546b7a5a4467745a6a46694e5463314d474e6b4e5441354c6e426b5a673d3d&fich=551cfec6-e3cb-4201-93d8-f1b5750cd509.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 5 - Proposta de alteração GP CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f446b794d4745344e5455744e546777596930304d3255774c546b795a5455744d7a41314d444e6c4d5451324f4755354c6e426b5a673d3d&fich=8920a855-580b-43e0-92e5-30503e1468e9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 6 - Proposta de alteração GP PS ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f474d304f47566a4e6d55744f446b315a433030593251344c5745344d7a51744f5445314d7a59314f5449774d32566c4c6e426b5a673d3d&fich=8c48ec6e-895d-4cd8-a834-9153659203ee.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-21",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e544e6c4f54426c5a6a6b744d4467794f5330304e4467334c574a684e5745744e6a5a6d4f574e6d4e32557a4f4759774c6e426b5a673d3d&fich=53e90ef9-0829-4487-ba5a-66f9cf7e38f0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da discussão e votação na especialidade e texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a41304e546b355a5445744e6d59324e4330304f44566c4c5749354d4745745a544579596d4a6a4e5749325a6d4e684c6e426b5a673d3d&fich=204599e1-6f64-485e-b90a-e12bbc5b6fca.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2025-07-29"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2025-07-29"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-10-22",
+            "dataRemessa": "2025-10-22",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2025-10-22",
+            "descricao": null,
+            "detalhe": null,
+            "id": "139980",
+            "publicacao": null,
+            "resultado": "Rejeitado",
+            "reuniao": "20",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-07-11",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1628872",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
