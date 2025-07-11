@@ -1,0 +1,311 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "106",
+    "id": "315307",
+    "titulo": "Lei de prevenção e proteção contra a violência obstétrica"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2025-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "87392",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-04-09",
+            "id": "180003",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-04-09",
+            "id": "180001",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-04-23",
+            "id": "180079",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-04-28",
+            "id": "180098",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-04-28",
+            "id": "180097",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-04-29",
+            "id": "180107",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-05",
+            "id": "180115",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-13",
+            "id": "180165",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-21",
+            "id": "180175",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-26",
+            "id": "180185",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2026-05-12",
+            "id": "117724",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2026-06-09",
+            "id": "117748",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-07-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-09-25",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Ordem das Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d575a6b4e5745794f53307a59546b304c54526a5a6a6b744f5751334d69316a4e6d45314e5749314d444d32595749756347526d&fich=31fd5a29-3a94-4cf9-9d72-c6a55b5036ab.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-11-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer- Associação Portuguesa de Mulheres Juristas (18-11-2025)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d7a4d795a6a513159693079593255344c54526a596a4974595463334e7930774d44646b5a6a63324d6d4577595445756347526d&fich=c332f45b-2ce8-4cb2-a777-007df762a0a1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Observatório de Violência Obstétrica em Portugal (OVO PT)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e6a6c69597a686c4d7930794f44566b4c54526d4d6a4d744f546c6a4f4330314d7a59354f4759794d7a646a4d5463756347526d&fich=369bc8e3-285d-4f23-99c8-53698f237c17.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-28",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer e Contributo - Associação Portuguesa dos Enfermeiros Obstetras (APEO)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794e54637a59544579596931694e444a6a4c5451775a5759744f5755345a6930305a544e6d4d57466c4f446731596a55756347526d&fich=2573a12b-b42c-40ef-9e8f-4e3f1ae885b5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-12",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Sociedade Portuguesa de Sexologia Clínica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e4441334e7a466b4d4330324d6d45304c5451344f546b74596a457a5a693168596d4931596d526d593259304e7a4d756347526d&fich=840771d0-62a4-4899-b13f-abb5bdfcf473.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Ordem dos Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684e7a51784d4446684d5330785a6d4d354c5451324e6a41745957566b4d433168596a4e684d6a51344e7a6730593249756347526d&fich=a74101a1-1fc9-4660-aed0-ab3a248784cb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-21",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Plataforma Portuguesa para os Direitos das Mulheres",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d6a646a4f5445784d5330314f546c6d4c54526b5a544174596d45305969307a595749785a4745784e7a466c5a6a4d756347526d&fich=a27c9111-599f-4de0-ba4b-3ab1da171ef3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-29",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Doular ou Associação Portuguesa de Doulas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d4463345a6d51784e43307a5a5755324c54526d4e5463744f546b355a69316d4d6a49335a544d795957497a4d4441756347526d&fich=4078fd14-3ee6-4f57-999f-f227e32ab300.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-13",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer 2 - Associação Portuguesa de Mulheres Juristas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795a545532597a6333595330344d7a67784c54526d4f475974595759784e6930305a4451794d7a67784e6d4e6a596a49756347526d&fich=2e56c77a-8381-4f8f-af16-4d423816ccb2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a4755315a5467334d5330784e5459334c54526a5a44497459574579596930314e7a5a6c597a45335a6d526c5a6d59756347526d&fich=0de5e871-1567-4cd2-aa2b-576ec17fdeff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-21",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d6a5a6c4d6a51334d4330305932517a4c545130596a51744f5445794f5330335a44526a4e44677a4d7a686a4e6a63756347526d&fich=926e2470-4cd3-44b4-9129-7d4c48338c67.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - GP PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d444668596a59774d53303159324d7a4c5451345a4445744f475a6c4e79316c4d544a69595449344e6a52685a5463756347526d&fich=701ab601-5cc3-48d1-8fe7-e12ba2864ae7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - GP IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d325a69596d59315953316a5a6a63324c5452684d444174595749344f4330304f54686959574d324d47526b4e544d756347526d&fich=13fbbf5a-cf76-4a00-ab88-498bac60dd53.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d3252694f57566d4e79307a4d574d344c54517a4d6a6b7459575177596930784d3249324d5751325957466c4e5745756347526d&fich=c3db9ef7-31c8-4329-ad0b-13b61d6aae5a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - GP L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938305a6d4d7a4e5759324e693078595745354c5451795a6d51744f5759314d6930304d546b30597a4e68595451774d474d756347526d&fich=4fc35f66-1aa9-42fd-9f52-4194c3aa400c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - GP PSD-CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e6d5a694e6a55774e43316c5a6a41324c5451334f446774596d59334d53316a59544534596a457a5a6a59345a574d756347526d&fich=36fb6504-ef06-4788-bf71-ca18b13f68ec.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8455",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde ",
+        "Numero": "8455",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Associação das Mulheres e Crianças Ciganas Portuguesas (AMUCIP) em 2026-04-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a6d46684d7a4d774e69316a5a6d45324c5451304d3249744f44526c4d7930354d4749354d7a59334e544a6d4e5745756347526d&fich=0faa3306-cfa6-443b-84e3-90b936752f5a.pdf&Inline=true",
+            "nome": "Associação FEM - Feministas em Movimento em 2026-03-31"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e6a466959324a694f5330334e474a6c4c545133596a6b74596a4a694e4330345a6a4a6b4d54637a4f4752684d5745756347526d&fich=461bcbb9-74be-47b9-b2b4-8f2d1738da1a.pdf&Inline=true",
+            "nome": "Associação Portuguesa Voz do Autista em 2026-05-07"
+          },
+          {
+            "link": "",
+            "nome": "Consórcio Português de Dados Obstétricos em 2026-03-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d4455774e5755324e43316b5a4749324c5451775a6d59744f54466c4f5330304e324a694d324d354d6a41774e5455756347526d&fich=50505e64-ddb6-40ff-91e9-47bb3c920055.pdf&Inline=true",
+            "nome": "Movimento Democrático de Mulheres-MDM em 2026-04-01"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d546c684e4455334f4330794d3245324c5452684e6d4974596a677a595330304d5467314f4441324e575a6b4f4441756347526d&fich=819a4578-23a6-4a6b-b83a-41858065fd80.pdf&Inline=true",
+            "nome": "Associação P&D Factor em 2026-03-31"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324f4442694f444d77596931684d6d45794c545177597a6b744f574a694d79316d5957526c4e7a55324d3249795a4751756347526d&fich=680b830b-a2a2-40c9-9bb3-fade7563b2dd.pdf&Inline=true",
+            "nome": "Associação SaMaNe - Saúde das Mães Negras e Racializadas em Portugal em 2026-03-30"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Associação das Mulheres e Crianças Ciganas Portuguesas (AMUCIP) em 2026-03-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a6d46684d7a4d774e69316a5a6d45324c5451304d3249744f44526c4d7930354d4749354d7a59334e544a6d4e5745756347526d&fich=0faa3306-cfa6-443b-84e3-90b936752f5a.pdf&Inline=true",
+            "nome": "Associação FEM - Feministas em Movimento em 2026-03-02"
+          },
+          {
+            "link": "",
+            "nome": "Associação ILGA Portugal em 2026-03-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e6a466959324a694f5330334e474a6c4c545133596a6b74596a4a694e4330345a6a4a6b4d54637a4f4752684d5745756347526d&fich=461bcbb9-74be-47b9-b2b4-8f2d1738da1a.pdf&Inline=true",
+            "nome": "Associação Portuguesa Voz do Autista em 2026-03-02"
+          },
+          {
+            "link": "",
+            "nome": "Associação Vida Independente  em 2026-03-02"
+          },
+          {
+            "link": "",
+            "nome": "Consórcio Português de Dados Obstétricos em 2026-03-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d4455774e5755324e43316b5a4749324c5451775a6d59744f54466c4f5330304e324a694d324d354d6a41774e5455756347526d&fich=50505e64-ddb6-40ff-91e9-47bb3c920055.pdf&Inline=true",
+            "nome": "Movimento Democrático de Mulheres-MDM em 2026-03-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d546c684e4455334f4330794d3245324c5452684e6d4974596a677a595330304d5467314f4441324e575a6b4f4441756347526d&fich=819a4578-23a6-4a6b-b83a-41858065fd80.pdf&Inline=true",
+            "nome": "Associação P&D Factor em 2026-03-02"
+          },
+          {
+            "link": "",
+            "nome": "Plataforma Saúde em Diálogo em 2026-03-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324f4442694f444d77596931684d6d45794c545177597a6b744f574a694d79316d5957526c4e7a55324d3249795a4751756347526d&fich=680b830b-a2a2-40c9-9bb3-fade7563b2dd.pdf&Inline=true",
+            "nome": "Associação SaMaNe - Saúde das Mães Negras e Racializadas em Portugal em 2026-03-02"
+          },
+          {
+            "link": "",
+            "nome": "União de Mulheres Alternativa e Resposta (UMAR) em 2026-03-02"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-07-11",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1628962",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
