@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Resolução",
+  "numero": "182",
+  "id": "315365",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-07-14",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "5600",
+        "nome": "Eurico Brilhante Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8396",
+        "nome": "Luís Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7913",
+        "nome": "Ana Bernardo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "9331",
+        "nome": "Frederico Francisco"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5509",
+        "nome": "Hugo Oliveira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6934",
+        "nome": "Mariana Vieira da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6371",
+        "nome": "Patrícia Faro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1517",
+        "nome": "Rui Jorge Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "315365",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a49774e5756684e5459324c5463304e546b744e444d324f5331695a6d51314c575132593249304e47517a5a47566d4d79356b62324e34&fich=205ea566-7459-4369-bfd5-d6cb44d3def3.docx&Inline=true",
+    "IniNr": "182",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo que dê seguimento ao processo de revisão do Conceito Estratégico de Defesa Nacional ",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
