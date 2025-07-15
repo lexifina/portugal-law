@@ -16,7 +16,7 @@ e) Assegurar a articulação com as unidades de saúde do SRS;
 
 f) Planear e coordenar os setores de atividade;
 
-g) Celebrar contratos-programa com a SAUDAÇOR, S. A., bem como protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades e visando atingir os seus objetivos;
+g) Celebrar protocolos de colaboração ou de apoio, e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades e visando atingir os seus objetivos;
 
 h) Promover a formação do pessoal;
 

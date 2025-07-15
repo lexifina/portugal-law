@@ -1,23 +1,19 @@
 # Artigo 5.º
 
-### Conselho Consultivo para o Combate à Doença Oncológica nos Açores
+### Conselho Consultivo
 
-1 - O CCCDOA é o órgão de consulta do COA, cujo funcionamento será definido por regulamento interno elaborado e aprovado pelo próprio.
+1 - O CC é o órgão de consulta do COA, cujo funcionamento é definido por regulamento interno, elaborado e aprovado pelo próprio.
 
-2 - Ao CCCDOA compete:
+2 - O CC tem a seguinte composição:
 
-a) Assessorar o COA no desenvolvimento da sua atividade;
+a) O Diretor Regional da Saúde;
 
-b) Colaborar na elaboração, acompanhamento e execução do Plano Regional de Saúde, na vertente das doenças oncológicas;
+b) Os responsáveis por cada um dos serviços de oncologia dos hospitais da Região, ou quem seja por estes indicado;
 
-c) Submeter à DRS uma proposta de rede de referenciação oncológica nos Açores e propostas de alteração ou atualização;
+c) Um representante dos cuidados de saúde primários, indicado por despacho do membro do Governo Regional com competência em matéria de saúde;
 
-d) Acompanhar e estimular a articulação entre o COA, os hospitais da Região e as unidades de saúde de ilha;
+d) Um elemento representativo da sociedade civil, sempre que possível, de entre os membros das associações de utentes dos serviços de saúde na área da oncologia, designado por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do conselho de administração do COA.
 
-e) Emitir pareceres sempre que solicitados pelo conselho de administração do COA;
+e) Os elementos do conselho de administração do COA.
 
-f) Acompanhar e estimular as medidas e ações relacionadas com a investigação científica da problemática oncológica;
-
-g) Colaborar na conceção, manutenção e desenvolvimento de um programa global de controlo e garantia de qualidade das medidas e ações adotadas.
-
-3 - A coordenação operacional do CCCDOA é efetuada pelo COA.
+3 - (Revogado.)

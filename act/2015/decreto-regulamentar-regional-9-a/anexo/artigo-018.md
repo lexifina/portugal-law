@@ -2,4 +2,4 @@
 
 ### Gestão orçamental
 
-A gestão orçamental do COA está sujeita às regras e princípios orientadores da SAUDAÇOR, S. A., à qual compete, igualmente, acompanhar a respetiva execução.
+A gestão orçamental do COA está sujeita às regras e princípios orientadores aplicáveis à DRS, à qual compete, igualmente, acompanhar a respetiva execução.

@@ -8,7 +8,11 @@
 
 São órgãos e serviços do COA:
 
-a) De caráter consultivo - Conselho Consultivo para o Combate à Doença Oncológica nos Açores (CCCDOA);
+a) De caráter consultivo:
+
+i) Conselho Consultivo (CC);
+
+ii) Comissão de Ética (CES);
 
 b) De caráter executivo - Conselho de Administração;
 
