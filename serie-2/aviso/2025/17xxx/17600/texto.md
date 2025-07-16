@@ -1,0 +1,9 @@
+Aviso n.º 17600/2025/2
+
+Torna-se público que, em reunião ordinária da Câmara Municipal, realizada em vinte e sete de junho de dois mil e vinte e cinco, a Câmara Municipal deliberou, por unanimidade, ao abrigo das disposições conjugadas no n.º 7 do artigo 112.º e no artigo 241.º, ambos da Constituição da República Portuguesa, na sua redação atual, com as alíneas m) do n.º 2 do artigo 23.º e k) do n.º 1 do artigo 33.º, ambos do Anexo I à Lei n.º 75/2013, de 12 de setembro, na sua redação atual, bem como da alínea d) do artigo 15.º e dos n.<sup>os </sup>2 e 3 do artigo 16.º, ambos da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, e considerando a Informação prestada, em 24 de junho de 2025, pelo Departamento de Administração Geral, submeter o Projeto de Alteração ao Regulamento de Atribuição de Benefícios Fiscais do Município de Mafra, a consulta pública, nos termos do artigo 101.º do Código do Procedimento Administrativo, pelo prazo de 30 (trinta) dias seguidos, contados do dia seguinte ao da sua publicação na 2.ª série do Diário da República, para a recolha de sugestões, devendo os interessados, para o efeito, dirigir, por escrito, ao Presidente da Câmara Municipal de Mafra, as suas sugestões.
+
+Mais se torna público que durante o período de consulta pública, os interessados poderão consultar o referido Projeto de Alteração ao Regulamento de Atribuição de Benefícios Fiscais do Município de Mafra, na Secção de Atendimento da Unidade de Atendimento ao Cidadão, situada no piso 0 do Edifício-sede dos Paços do Município, em Mafra, durante o horário normal de atendimento (nos dias úteis, de segunda a sexta-feira, das 09:00 às 17:00 horas) ou através da Internet, na página eletrónica institucional desta autarquia (https://www.cm-mafra.pt/).
+
+3 de julho de 2025. - O Presidente da Câmara Municipal, Hugo Manuel Moreira Luís.
+
+319262492
