@@ -1,0 +1,1270 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "4",
+    "id": "315164",
+    "titulo": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2025-07-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61306",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32466b4e574d345a6a4d314c5759334d446b744e4755325a5331684e57566b4c5749784d544d775a6a5a6d597a6c6a4d6935775a47593d&fich=ad5c8f35-f709-4e6e-a5ed-b1130f6fc9c2.pdf&Inline=true",
+        "anexoNome": "Resultado das votações"
+      }
+    ],
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2025-07-16",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-07-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8982",
+                "nome": "Sofia Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5600",
+                "nome": "Eurico Brilhante Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6968",
+                "nome": "Patrícia Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "2576",
+                "nome": "Eduardo Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares\n",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto Final, apresentado pela Comissão de Orçamento, Finanças e Administração Pública, relativo à Proposta de Lei n.º 4/XVII/1.ª (GOV)",
+    "OevId": "1629116",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "57419",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "28-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-17",
+        "pubLeg": "XVII",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/28?pgs=28-38&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Artigo 1.º - Proposta de alteração do PS - Aditamento de alínea b) ao artigo 1.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>, <I> PCP</I>, <I> BE</I>",
+        "id": "139479",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927548",
+            "obs": null,
+            "pag": [
+              "38-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/38?pgs=38&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Artigo 1.º - Artigo 1.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>, <I> PAN</I><BR>Contra:<I>L</I>, <I> PCP</I>, <I> BE</I><BR>Abstenção:<I>PS</I>, <I> JPP</I>",
+        "id": "139480",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927549",
+            "obs": null,
+            "pag": [
+              "39-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/39?pgs=39&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Artigo 2.º - Artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>, <I> PAN</I><BR>Contra:<I>L</I>, <I> PCP</I>, <I> BE</I><BR>Abstenção:<I>PS</I>, <I> JPP</I>",
+        "id": "139481",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927550",
+            "obs": null,
+            "pag": [
+              "39-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/39?pgs=39&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Artigo 2.º-A - Proposta de alteração do PS - Aditamento de um artigo 2.º -A",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>, <I> PCP</I>, <I> BE</I>",
+        "id": "139482",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927551",
+            "obs": null,
+            "pag": [
+              "39-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/39?pgs=39&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Artigo 2.º-A - Artigo 2.º-A do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> CDS-PP</I>, <I> PAN</I><BR>Contra:<I>L</I>, <I> PCP</I>, <I> BE</I><BR>Abstenção:<I>PS</I>, <I> IL</I>, <I> JPP</I>",
+        "id": "139483",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927552",
+            "obs": null,
+            "pag": [
+              "39-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/39?pgs=39&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Artigo 2.º-B - Proposta de alteração do PS - Aditamento de um artigo 2.º -B",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>, <I> PCP</I>, <I> BE</I>",
+        "id": "139484",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927553",
+            "obs": null,
+            "pag": [
+              "39-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/39?pgs=39&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Artigo 2.º-C - Proposta de alteração do PS - Aditamento de um artigo 2.º -C",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>, <I> PCP</I>, <I> BE</I>",
+        "id": "139485",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927554",
+            "obs": null,
+            "pag": [
+              "40-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/40?pgs=40&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Artigo 3.º - Proposta de alteração do PS - Substituição do artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>, <I> PCP</I>, <I> BE</I>",
+        "id": "139486",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927555",
+            "obs": null,
+            "pag": [
+              "40-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/40?pgs=40&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Artigo 3.º - Artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>, <I> PAN</I><BR>Contra:<I>L</I>, <I> PCP</I>, <I> BE</I><BR>Abstenção:<I>PS</I>, <I> JPP</I>",
+        "id": "139487",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927556",
+            "obs": null,
+            "pag": [
+              "40-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/40?pgs=40&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
