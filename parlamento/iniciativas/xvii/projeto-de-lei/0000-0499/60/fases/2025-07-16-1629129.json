@@ -1,0 +1,162 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "60",
+    "id": "315208",
+    "titulo": "Cria a Unidade Nacional de Polícia de Estrangeiros e Fronteiras da Polícia de Segurança Pública"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2025-07-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61311",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2025-07-16",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "315161",
+        "leg": "XVII",
+        "nr": "2",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56726",
+            "obs": null,
+            "pag": [
+              "62-62"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-07-17",
+            "pubLeg": "XVII",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/62?pgs=62&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Cria a Unidade Nacional de Estrangeiros e Fronteiras, na Polícia de Segurança Pública"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-07-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/62?pgs=62&org=PLC"
+              }
+            ],
+            "sumario": "Cria a unidade nacional de estrangeiros e fronteiras, na Polícia de Segurança Pública",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1629129",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1022514",
+        "obs": null,
+        "pag": [
+          "57-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-17",
+        "pubLeg": "XVII",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/57?pgs=57&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2025-07-16",
+        "descricao": "Texto Final, apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, relativo à Proposta de Lei n.º 2/XVII/1.ª (GOV) e ao Projeto de Lei n.º 60/XVII/1.ª (CH) – Cria a Unidade Nacional de Estrangeiros e Fronteiras, na Polícia de Segurança Pública",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I><BR>Contra:<I>L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I><BR>Abstenção:<I>PS</I>, <I> JPP</I>",
+        "id": "139252",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
