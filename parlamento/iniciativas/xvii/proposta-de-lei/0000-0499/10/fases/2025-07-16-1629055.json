@@ -1,0 +1,272 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "10",
+    "id": "315352",
+    "titulo": "Autoriza o Governo a transpor a Diretiva (UE) 2021/2167, que harmoniza o acesso e o exercício da gestão de créditos bancários não produtivos e define os requisitos para os adquirentes de créditos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2025-07-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61271",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2025-07-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-07-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministro dos Assuntos Parlamentares",
+              "governo": "XXV GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Abreu Amorim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/58?pgs=58&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transpor a Diretiva (UE) 2021/2167, que harmoniza o acesso e o exercício da gestão de créditos bancários não produtivos e define os requisitos para os adquirentes de créditos ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transpor a Diretiva (UE) 2021/2167, que harmoniza o acesso e o exercício da gestão de créditos bancários não produtivos e define os requisitos para os adquirentes de créditos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/77"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transpor a Diretiva (UE) 2021/2167, que harmoniza o acesso e o exercício da gestão de créditos bancários não produtivos e define os requisitos para os adquirentes de créditos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:03",
+            "horaTermo": "14:08",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/13/78"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467223",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-17",
+                "pubLeg": "XVII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transpor a Diretiva (UE) 2021/2167, que harmoniza o acesso e o exercício da gestão de créditos bancários não produtivos e define os requisitos para os adquirentes de créditos\n",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1629055",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "57418",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "58-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-17",
+        "pubLeg": "XVII",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/013/2025-07-17/58?pgs=58-60&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
