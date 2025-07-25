@@ -8,7 +8,7 @@
 
 3 - É aplicável aos adjuntos o disposto no artigo 18.º
 
-4 - Quando numa subsecção não seja possível garantir o número de juízes exigido para o exame do processo e para a decisão da causa, a substituição defere-se aos juízes de outra subsecção que imediatamente se sigam ao juiz substituído na ordem de antiguidade.
+4 - Quando numa subsecção não seja possível garantir o número de juízes exigido para o exame do processo e para a decisão da causa, são chamados a intervir, através de distribuição, os juízes de outra subsecção.
 
 5 - Para efeitos do disposto no número anterior, quando a impossibilidade se verifique na secção administrativa, a substituição defere-se:
 

@@ -1,12 +1,16 @@
 # Artigo 56.º-A
 
-### Gabinetes de apoio
+### Assessores
 
-1 - É criado, na dependência orgânica do Conselho Superior dos Tribunais Administrativos e Fiscais, um gabinete de apoio aos magistrados da jurisdição administrativa e fiscal.
+1 - O Supremo Tribunal Administrativo dispõe de assessores que coadjuvam os magistrados judiciais e os magistrados do Ministério Público, nos termos definidos na lei.
 
-2 - Os tribunais administrativos de círculo e os tribunais tributários, bem como os tribunais centrais administrativos podem ser dotados de gabinetes de apoio destinados a assegurar assessoria e consultadoria técnica aos juízes, ao presidente do respetivo tribunal, e aos magistrados do Ministério Público, nos termos definidos para os gabinetes de apoio dos tribunais judiciais, com as necessárias adaptações.
+2 - Na dependência orgânica do Conselho Superior dos Tribunais Administrativos e Fiscais, da Procuradoria-Geral da República ou do respetivo tribunal, conforme aplicável, podem ser criados, nos termos a definir em diploma próprio:
 
-3 - Aos especialistas dos gabinetes de apoio é aplicável o regime de impedimentos estabelecido na lei do processo civil para os juízes, com as necessárias adaptações.
+a) Gabinetes de assessores, para coadjuvar os juízes e os magistrados do Ministério Público dos tribunais administrativos de círculo, dos tribunais tributários e dos tribunais centrais administrativos;
+
+b) Gabinetes de apoio ao juiz presidente dos tribunais dos tribunais administrativos de círculo e dos tribunais tributários.
+
+3 - (Revogado.)
 
 4 - (Revogado.)
 

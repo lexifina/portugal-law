@@ -2,6 +2,6 @@
 
 ### Adjuntos
 
-1 - Os adjuntos são apurados aleatoriamente, sendo a distribuição feita de entre todos os juízes da secção ou subsecção competente.
+1 - A distribuição de processos aos juízes adjuntos é realizada nos termos previstos no Código de Processo Civil, aprovado em anexo à Lei n.º 41/2013, de 26 de junho, na sua redação atual.
 
-2 - Cada adjunto é substituído, em caso de falta ou impedimento, pelo juiz que imediatamente se lhe segue.
+2 - (Revogado.)

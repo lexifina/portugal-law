@@ -24,7 +24,7 @@ a) Presidente do júri - o Presidente do Supremo Tribunal Administrativo, podend
 
 b) Vogais:
 
-i) Um magistrado membro do Conselho Superior dos Tribunais Administrativos e Fiscais com categoria não inferior à de juiz desembargador;
+i) Dois magistrados membros do Conselho Superior dos Tribunais Administrativos e Fiscais com categoria não inferior à de juiz desembargador, para além do membro referido na alínea a), caso o Presidente do Supremo Tribunal Administrativo se faça substituir;
 
 ii) Dois membros do Conselho Superior dos Tribunais Administrativos e Fiscais, não pertencentes à magistratura, a eleger por aquele órgão;
 
@@ -34,4 +34,4 @@ iii) Um professor universitário de Direito, com categoria não inferior à de p
 
 5 - O Conselho Superior dos Tribunais Administrativos e Fiscais solicita, a cada uma das universidades, institutos universitários e outras escolas universitárias, públicos e privados, que ministrem o curso de Direito, a indicação, no prazo de 20 dias úteis, do nome de um professor de Direito, com categoria não inferior à de professor associado, procedendo, subsequentemente, à escolha do vogal a que se refere a subalínea iii) da alínea b) do n.º 3, por votação, por voto secreto, de entre os indicados.
 
-6 - O concurso é aberto para cada uma das secções e tem a validade de dois anos, prorrogável até seis meses.
+6 - O concurso tem a validade de dois anos, prorrogável até seis meses.

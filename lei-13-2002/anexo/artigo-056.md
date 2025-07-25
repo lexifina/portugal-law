@@ -14,4 +14,4 @@
 
 4 - Os tribunais da jurisdição administrativa e fiscal dispõem de serviços administrativos de apoio, regulados na lei.
 
-5 - Sem prejuízo do disposto no artigo seguinte, os tribunais da jurisdição administrativa e fiscal dispõem de assessores que coadjuvam os magistrados judiciais.
+5 - (Revogado.)

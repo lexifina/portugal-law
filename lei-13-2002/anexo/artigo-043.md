@@ -14,7 +14,7 @@ a) Exerçam funções efetivas como juízes desembargadores e possuam classifica
 
 b) Exerçam funções efetivas como juízes de Direito e possuam 10 anos de serviço efetivo nos tribunais administrativos e classificação não inferior a Bom com distinção.
 
-5 - A nomeação para o exercício das funções de presidente pressupõe a habilitação prévia com curso de formação próprio, o qual inclui as seguintes áreas de competências:
+5 - Durante o período em que exerce funções, o presidente do tribunal frequenta, obrigatoriamente, curso de formação específico, o qual inclui, designadamente, as seguintes áreas de competências:
 
 a) Organização e atividade administrativa;
 
@@ -34,4 +34,4 @@ h) Informação e conhecimento;
 
 i) Qualidade, inovação e modernização.
 
-6 - O curso de formação a que se refere o número anterior é ministrado pelo Centro de Estudos Judiciários com a colaboração de outras entidades formadoras, nos termos definidos por portaria do membro do Governo responsável pela área da justiça, que aprova o respetivo regulamento.
+6 - O curso de formação é ministrado pelo Conselho Superior dos Tribunais Administrativos e Fiscais, com a eventual colaboração de outras entidades formadoras, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.
