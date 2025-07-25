@@ -6,4 +6,4 @@
 
 2 - O exercício de funções a que alude o número anterior confere apenas direito a ajudas de custo e ao reembolso das despesas de transporte em função das necessidades de deslocação nos termos da lei geral.
 
-3 - Os magistrados do Ministério Público podem exercer funções em mais de um tribunal, juízo, secção ou departamento da mesma comarca, nas condições previstas nos números anteriores, por determinação do Conselho Superior do Ministério Público.
+3 - Os magistrados do Ministério Público podem exercer funções em mais de um tribunal, juízo, secção ou departamento da mesma comarca, nas condições previstas nos números anteriores, por determinação do Conselho Superior do Ministério Público, sob proposta do magistrado do Ministério Público coordenador de comarca.

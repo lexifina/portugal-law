@@ -16,7 +16,7 @@ c) Os procuradores-gerais-adjuntos;
 
 d) Os procuradores da República;
 
-e) Os procuradores-adjuntos.
+e) (Revogada.)
 
 2 - Os magistrados do Ministério Público são responsáveis e hierarquicamente subordinados, sem prejuízo da sua autonomia, nos termos do respetivo estatuto.
 

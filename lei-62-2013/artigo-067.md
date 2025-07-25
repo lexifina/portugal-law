@@ -22,6 +22,8 @@
 
 6 - Até à instalação da secção de comércio, as causas referidas no artigo 128.º são sempre distribuídas à mesma secção cível.
 
-7 - As causas referidas no artigo 113.º são sempre distribuídas à mesma secção cível, distinta da indicada no número anterior.
+7 - As causas relativas às restantes matérias previstas no n.º 4 e não abrangidas pelo número anterior podem, por deliberação do Conselho Superior da Magistratura, sob proposta do presidente do respetivo tribunal da Relação, ser sempre distribuídas à mesma secção cível, quando o volume ou complexidade do serviço não justifiquem a criação da respetiva secção.
 
-8 - Os tribunais da Relação podem organizar serviços comuns para efeitos administrativos.
+8 - As causas referidas no artigo 113.º são sempre distribuídas à mesma secção cível, distinta da indicada no número anterior.
+
+9 - Os tribunais da Relação podem organizar serviços comuns para efeitos administrativos.
