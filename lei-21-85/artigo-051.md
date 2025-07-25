@@ -4,7 +4,7 @@
 
 1 - Com a antecedência mínima de noventa dias relativamente à data previsível de abertura de vagas ou nos oito dias posteriores à ocorrência destas, o Conselho Superior da Magistratura, por aviso publicado no Diário da República, declara aberto concurso curricular de acesso ao Supremo Tribunal de Justiça.
 
-2 - São concorrentes necessários os juízes desembargadores dos tribunais da Relação que se encontrem no quarto superior da lista de antiguidade e não declarem renunciar à promoção.
+2 - São concorrentes necessários os juízes desembargadores dos tribunais da Relação que se encontrem no terço superior da lista de antiguidade à data da abertura do concurso e não renunciem à promoção.
 
 3 - São concorrentes voluntários:
 
@@ -12,7 +12,7 @@ a) Os procuradores-gerais-adjuntos que o requeiram, com antiguidade igual ou sup
 
 b) Os juristas de mérito que o requeiram, com, pelo menos, 30 anos de atividade profissional exclusiva ou sucessivamente na docência universitária ou na advocacia.
 
-4 - Os requerimentos, com os documentos que os devam instruir e as declarações de renúncia, são apresentados no prazo de vinte dias, contado da data de publicação do aviso a que se refere o n.º 1.
+4 - Os requerimentos, com os documentos que os devem instruir, são apresentados no prazo de vinte dias, contados da data da publicação do aviso a que se refere o n.º 1, considerando-se a não apresentação de requerimento pelos concorrentes necessários uma renúncia à promoção.
 
 5 - No mesmo prazo, a Procuradoria-Geral da República envia ao Conselho Superior da Magistratura os elementos curriculares dos magistrados do Ministério Público que se encontrem na situação a que se refere a alínea a) do n.º 3.
 
