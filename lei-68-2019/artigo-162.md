@@ -6,4 +6,4 @@
 
 2 - As funções previstas no número anterior são exercidas em comissão de serviço de três anos, renovável por igual período, podendo ser excecionalmente renovada por novo período de igual duração caso não exista outro candidato para a comarca em causa.
 
-3 - O exercício de funções de magistrado do Ministério Público coordenador de comarca implica a aprovação em curso de formação específica.
+3 - Durante o período em que exerce funções, o magistrado do Ministério Público coordenador frequenta, obrigatoriamente, curso de formação específico.
