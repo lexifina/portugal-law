@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "141",
+    "id": "315407",
+    "titulo": "Estabelece medidas de proteção dos trabalhadores expostos a temperaturas extremas"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-07-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87452",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-07-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2025-08-30",
+        "DatainicioApreciacaoPublica": "2025-07-31",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-07-25",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta pública - recolha de contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=344"
+          },
+          {
+            "DataDocumento": "2025-08-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos - Apreciação Pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVIILeg/10CTSSI/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=5545704d4947347577726f674d5451784c56685753556b744d5337437169417449455256556c4167516b553d&Path=m9XKcp5GmC7mXw2JNPilUgthqI4tu8Z9M2gcfKH0K%2ffoVIWUwsLujK6%2f9kNw33qVGF12ULdveJOJZsrH6xrsUHZJFNnpPnd%2fcgYGE3DyNKgtPpXPowBvZ5v68i8eR%2b22Le600oPoUlotSlewxceADnfAH%2b0PUXvZfMWrcTJYtP1rkIyAN1za7EKSWmPKVoIsPSp6NTbSSDra87wqnFUN7ESoh9ccpsR8H2dG5ceCx2%2f7V78yD%2bU62%2brcYKqlsKJsmLNZh1y2Z7s8SxxSzCPk%2bkwjrI691UaQI1Z98H1mRvJSipXBzJfpqkFl%2b1uGpKT1dRiViQgB42kIPPg%2bcx%2b%2bP0kWVdu3ClkNHaPr8B1FSiWT9yHdvgBcXZJLIGdnXifaI8axTeBSmHUeI0xNxu0ylgX4E4H33JsngqNT8njyv5KV0KFNrbbgWehYulhkor5M"
+          },
+          {
+            "DataDocumento": "2026-05-26",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f444d7a4f575268597a6b744d445a6d597930304d32497a4c546c69596a55744e32497759324532596a41335a6a497a4c6e426b5a673d3d&fich=8339dac9-06fc-43b3-9bb5-7b0ca6b07f23.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "8456",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "321",
+            "motivoCessacao": null,
+            "nome": "Francisco José Martins"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-07-25",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1629363",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
