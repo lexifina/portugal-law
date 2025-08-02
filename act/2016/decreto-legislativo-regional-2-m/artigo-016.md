@@ -1,7 +1,5 @@
 # Artigo 16.º
 
-### Pessoal
+### Direito a senhas de presença
 
-1 - Os serviços de apoio técnico e administrativo dispõem de pessoal pertencente à administração pública regional, em regime de mobilidade nos termos da lei.
-
-2 - A mobilidade a que se refere o número anterior tem como limite o prazo de exercício de funções dos membros do Conselho
+A participação nas reuniões do Conselho Coordenador confere aos membros que não sejam titulares de órgão de governo próprio da Região ou que não aufiram remunerações devidas por funções desempenhadas no Conselho, o direito a senhas de presença, em montante e condições a fixar por despacho do Presidente da Assembleia Legislativa da Região Autónoma da Madeira, sob proposta do conselho de administração.

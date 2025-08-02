@@ -10,7 +10,7 @@ a) Dois membros do Governo, a designar por despacho do Presidente do Governo Reg
 
 b) Um representante da União de Sindicatos do Arquipélago da Madeira (USAM);
 
-c) Um representante da Delegação Regional do União Geral de Trabalhadores (UGT Madeira);
+c) Um representante da UGT - União Geral de Trabalhadores da Madeira;
 
 d) Um representante da Delegação da Madeira da União dos Sindicatos Independentes (USI);
 
@@ -19,6 +19,8 @@ e) Um representante da Associação Comercial e Industrial do Funchal (ACIF);
 f) Um representante da Associação de Agricultores da Madeira;
 
 g) Um representante de Associação de Indústria - Associação da Construção da Região Autónoma da Madeira (ASSICOM);
+
+h) O presidente do Conselho, sem direito a voto.
 
 3 - A Comissão Permanente de Concertação Social é presidida pelo Presidente do Governo Regional ou por um Secretário Regional em que ele delegar.
 

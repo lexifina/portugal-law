@@ -2,7 +2,7 @@
 
 ### Conselho Coordenador
 
-1 - O Conselho Coordenador é composto pelo presidente do Conselho, com voto de qualidade, pelos vice-presidentes e pelos presidentes das comissões especializadas e pelo secretário-geral cujas competências estão dispostas em regulamento próprio.
+1 - O Conselho Coordenador é composto pelo presidente do Conselho, com voto de qualidade, pelos vice-presidentes, pelos presidentes das comissões especializadas permanentes e pelo secretário-geral.
 
 2 - Compete ao Conselho Coordenador:
 

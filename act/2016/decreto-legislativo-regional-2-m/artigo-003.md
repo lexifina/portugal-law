@@ -14,15 +14,15 @@ b) Emitir decisões, pareceres e recomendações, nos processos legislativos e o
 
 c) Emitir parecer sobre propostas legislativas no domínio das matérias inerentes às suas atribuições;
 
-d) Pronunciar-se sobre matérias de segurança social, emprego, formação profissional, concertação social, contratação coletiva e política de rendimentos em geral;
+d) Pronunciar-se sobre matérias de segurança social, emprego, formação profissional, economia social, concertação social, contratação coletiva e política de rendimentos em geral;
 
 e) Pronunciar-se sobre os planos sectoriais e espaciais, e a acompanhar a sua execução;
 
 f) Pronunciar-se a solicitação do Governo Regional, sobre matérias inerentes às suas atribuições.
 
-g) Acompanhar a atividade dos representantes da Região no Conselho Económico e da Concertação Social;
+g) Acompanhar a atividade dos representantes da Região no Conselho Económico e Social nacional;
 
-h) Apreciar as posições da Região nas instâncias da União Europeias, no âmbito da política económica, social e laboral;
+h) Apreciar as posições da Região nas instâncias da União Europeia, no âmbito da política económica, social e laboral e emitir parecer sobre a participação portuguesa no processo de construção europeia, nomeadamente quanto às implicações económicas, financeiras e sociais de maior impacto na Região, assim como sobre a execução dos fundos estruturais ou outros programas onde se preveja a utilização de fundos da União Europeia na Região;
 
 i) Apreciar, em geral, a evolução da economia e as medidas da política económica, social e laboral no âmbito da Região;
 

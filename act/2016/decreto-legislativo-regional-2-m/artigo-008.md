@@ -6,13 +6,13 @@
 
 a) Representar o Conselho;
 
-b) Preparar a ordem de trabalhos, convocar e dirigir as reuniões plenárias;
+b) Preparar a ordem de trabalhos, convocar e dirigir as reuniões plenárias e do Conselho Coordenador;
 
 c) Solicitar às comissões a elaboração de estudos, pareceres e informações;
 
 d) Solicitar, quando necessário, a empresas ou entidades nacionais ou não, a elaboração de estudos e outros trabalhos de interesse económico para a Região;
 
-e) Apresentar ao Governo, com aprovação do conselho coordenador, proposta orçamental do Conselho;
+e) Apresentar à Assembleia Legislativa da Região Autónoma da Madeira, com aprovação do Conselho Coordenador, a proposta orçamental do Conselho;
 
 f) Convidar, por sua iniciativa, ou a pedido das comissões, quaisquer entidades, entre elas os membros do Governo, consideradas úteis ao assunto em análise;
 
