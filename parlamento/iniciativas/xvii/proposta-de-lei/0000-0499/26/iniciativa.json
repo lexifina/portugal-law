@@ -1,0 +1,56 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Proposta de Lei",
+  "numero": "26",
+  "id": "315458",
+  "fases": 17,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-08-12",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a6335597a67774d574d304c57457a4d6a67744e4749345a693168596a42684c5749794d325a6d596a41794d54646c4e4335775a47593d&fich=79c801c4-a328-4b8f-ab0a-b23ffb0217e4.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a413159574e6c596a6b324c544e6b4d7a49744e4441324d4331694f57566b4c54526c5a546c69596a6b315a4755344d53356b62324e34&fich=05aceb96-3d32-4060-b9ed-4ee9bb95de81.docx&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão 1 de 2025-08-12"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a67324d6a67784f574a6c4c546c6c4d4463744e474e6d4e6930344d6a646d4c574e6b5a4441344f4441304d7a646b4f4335775a47593d&fich=862819be-9e07-4cf6-827f-cdd0880437d8.pdf&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão assinada"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "315458",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426b4e6a6b305a6a4d314c546c684d5449744e446c6c4f5331694e6d59324c5752684f4459794e6a51304e32457a4e43356b62324e34&fich=0d694f35-9a12-49e9-b6f6-da8626447a34.docx&Inline=true",
+    "IniNr": "26",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do título a pedido do autor em 2025-08-13.",
+    "IniTipo": "P",
+    "IniTitulo": "Autorização Legislativa que estabelece o regime especial aplicável às embarcações de alta velocidade e fixa o respetivo regime sancionatório",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
