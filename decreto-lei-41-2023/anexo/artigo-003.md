@@ -24,7 +24,7 @@ c) Conceder prorrogações de permanência, autorizações de residência, renov
 
 d) Conceder em território nacional documentos de viagem para cidadãos estrangeiros, assegurando o controlo e registo nacional dos títulos de viagem emitidos;
 
-e) Assegurar o cumprimento das atribuições de natureza administrativa previstas na lei sobre a entrada, permanência, saída e afastamento de estrangeiros do território nacional, designadamente a instauração, tramitação e decisão administrativa de afastamento, de readmissão e de retorno;
+e) Assegurar o cumprimento das atribuições de natureza administrativa previstas na lei sobre a entrada, permanência e saída de estrangeiros do território nacional;
 
 f) Disponibilizar apoio nos postos de passagem de fronteira na emissão de vistos concedidos em postos de fronteira e no acolhimento de requerentes de asilo, em articulação com as forças de segurança responsáveis pela vigilância, fiscalização e controlo de pessoas nas fronteiras;
 

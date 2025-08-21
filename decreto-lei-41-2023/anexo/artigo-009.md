@@ -12,8 +12,16 @@
 
 5 - Os oficiais de ligação de imigração atuam de forma unificada com os serviços periféricos externos do Ministério dos Negócios Estrangeiros da respetiva área de jurisdição e na dependência funcional do chefe de missão diplomática, ou a ele equiparado.
 
-6 - Os oficiais de ligação mantêm o direito à remuneração correspondente ao lugar de origem, tendo igualmente direito a remunerações e abonos adicionais, os quais são estabelecidos com base no critério e subordinados ao regime em vigor para o pessoal da carreira diplomática colocado nos serviços periféricos externos do serviço diplomático do Ministério dos Negócios Estrangeiros.
+6 - Sem prejuízo do disposto no número anterior, os oficiais de ligação de imigração prosseguem a missão da AIMA, IP, e colaboram com as autoridades nacionais com competência em matéria de imigração e fronteiras, designadamente através:
 
-7 - Aos oficiais de ligação, quando chamados a Portugal ou mandados deslocar em serviço extraordinário dentro do país em que estão colocados ou fora dele, são atribuídos abonos para despesas, a fixar nos termos do número anterior.
+a) Do apoio aos postos consulares onde se encontrem colocados, com as funções de análise de pedidos de visto, bem como de elaboração dos pareceres previstos no n.º 3 do artigo 53.º da Lei n.º 23/2007, de 4 de julho;
 
-8 - Compete aos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das migrações, nos termos da lei geral, autorizar o desempenho de funções em organismos internacionais por funcionários da AIMA, I. P., que para eles sejam designados ou a eles se candidatem.
+b) Da elaboração mensal de relatórios de análise à evolução do risco migratório;
+
+c) Da constituição de um canal técnico que assegure uma colaboração na resposta às necessidades de informação identificadas pelas entidades nacionais com competência em matéria de imigração e fronteiras.
+
+7 - Os oficiais de ligação mantêm o direito à remuneração correspondente ao lugar de origem, tendo igualmente direito a remunerações e abonos adicionais, os quais são estabelecidos com base no critério e subordinados ao regime em vigor para o pessoal da carreira diplomática colocado nos serviços periféricos externos do serviço diplomático do Ministério dos Negócios Estrangeiros.
+
+8 - Aos oficiais de ligação, quando chamados a Portugal ou mandados deslocar em serviço extraordinário dentro do país em que estão colocados ou fora dele, são atribuídos abonos para despesas, a fixar nos termos do número anterior.
+
+9 - Compete aos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das migrações, nos termos da lei geral, autorizar o desempenho de funções em organismos internacionais por funcionários da AIMA, I. P., que para eles sejam designados ou a eles se candidatem.
