@@ -14,4 +14,4 @@
 
 6 - Do despacho de validação da detenção cabe recurso nos termos previstos no artigo 158.º
 
-7 - Após a execução da medida de afastamento a AIMA, I. P., informa a autoridade competente do Estado membro autor da decisão de afastamento.
+7 - Após a execução da medida de afastamento a PSP informa a autoridade competente do Estado membro autor da decisão de afastamento.

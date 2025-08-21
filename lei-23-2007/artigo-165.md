@@ -2,7 +2,7 @@
 
 ### Readmissão activa
 
-1 - Sempre que um cidadão estrangeiro em situação irregular em território nacional deva ser readmitido por outro Estado, a AIMA, I. P., formula o respetivo pedido, observando-se, com as necessárias adaptações, o disposto no artigo 153.º
+1 - Sempre que um cidadão estrangeiro em situação irregular em território nacional deva ser readmitido por outro Estado, a PSP formula o respetivo pedido, observando-se, com as necessárias adaptações, o disposto no artigo 153.º
 
 2 - Durante a instrução do processo de readmissão é assegurada a audição do cidadão estrangeiro a reenviar para o Estado requerido, valendo a mesma, para todos os efeitos, como audiência do interessado.
 

@@ -4,11 +4,11 @@
 
 1 - O cidadão estrangeiro que entre ou permaneça ilegalmente em território nacional é detido por autoridade policial, devendo ser presente, no prazo máximo de 48 horas a contar da detenção, ao juiz do juízo de pequena instância criminal, na respetiva área de jurisdição, ou do tribunal de comarca, nas restantes áreas do País, para validação e eventual aplicação de medidas de coação.
 
-2 - Se for determinada a colocação em centro de instalação temporária ou espaço equiparado, é dado conhecimento do facto à AIMA, I. P., para que promova o competente processo visando o afastamento do cidadão estrangeiro do território nacional.
+2 - Se for determinada a colocação em centro de instalação temporária ou espaço equiparado, é dado conhecimento do facto à PSP para que promova o competente processo visando o afastamento do cidadão estrangeiro do território nacional.
 
 3 - A colocação prevista no número anterior não pode prolongar-se por mais tempo do que o necessário para permitir a execução da decisão de afastamento coercivo, sem que possa exceder 60 dias.
 
-4 - Se não for determinada colocação em centro de instalação temporária, é igualmente feita a comunicação à AIMA, I. P., para os fins indicados no n.º 2, notificando-se o cidadão estrangeiro de que deve comparecer no respetivo serviço.
+4 - Se não for determinada colocação em centro de instalação temporária, é igualmente feita a comunicação à PSP para os fins indicados no n.º 2, notificando-se o cidadão estrangeiro de que deve comparecer no respetivo serviço.
 
 5 - Não é organizado processo de afastamento coercivo contra o cidadão estrangeiro que:
 
