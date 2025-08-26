@@ -1,0 +1,56 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Proposta de Lei",
+  "numero": "27",
+  "id": "315492",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-08-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a55324d6a493159544a694c574d304e6a4d744e474d315a4330354f5452694c545a6a4e54426c5a5445784f544e6b596935775a47593d&fich=56225a2b-c463-4c5d-994b-6c50ee1193db.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a566d596d45344d444a694c54646d4d6d4d744e444979597931684d7a4d794c544532595749785a6a41355a4749314e7935775a47593d&fich=5fba802b-7f2c-422c-a332-16ab1f09db57.pdf&Inline=true",
+        "anexoNome": "Ofício pedido de processo de urgência"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3259774e444e694d32526d4c54553059324d744e44686d4f5331695a6d45354c5749354d4455784d6d4d795a445a684f5335775a47593d&fich=f043b3df-54cc-48f9-bfa9-b90512c2d6a9.pdf&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão assinada"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "315492",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426c597a63784d32566d4c5449304f5745744e47566d4e5330344d5451304c544d775a57466b596d4d3459546b354f43356b62324e34&fich=0ec713ef-249a-4ef5-8144-30eadbc8a998.docx&Inline=true",
+    "IniNr": "27",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Altera o Decreto-Lei n.º 98-A/2025, de 24 de agosto, que estabelece medidas de apoio e mitigação do impacto de incêndios rurais",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
