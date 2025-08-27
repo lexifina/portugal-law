@@ -1,0 +1,112 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "148",
+    "id": "315428",
+    "titulo": "Prevê medidas de reforço da proteção na parentalidade, aprova uma licença parental inicial igualitária de seis meses e aumenta o período de dispensa para aleitação "
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-08-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87494",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-08-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2025-10-01",
+        "DatainicioApreciacaoPublica": "2025-09-01",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-08-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta pública - Recolha de contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=368"
+          },
+          {
+            "DataDocumento": "2025-09-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link Contributos - Apreciação pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVIILeg/10CTSSI/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=&Path=rX236geIZo6yOwLX%2bbW2QRBRDvyaQOCCNcXnYw67O2BPBNIEuH3OkyEJ0D0RqDMWd5WkfYcboWQ3yTZR9IEAFmkuHJVXKiuWCG3weym67s0OAmLo8c77u8Je1hihDANgXE8gYHeToZGy6Tv2cofvmMADWZd9L%2b2mTDWPO8JqFRe%2bI8wTTTIbrFmQv9UCYv%2fV6xQimSDETi5x41DhCMnoJSYgFjIV9TCkIJmqUc%2b%2bIxzg109hEn%2fEpayTBbr7CqNmumnpu857cEWn95TugVVTmKKWZkhVaqlslPAWhbdIkOOZqMg4M5%2fVdN7SXBa7p1i17Slbs1E7xXxEGgdyqNkKpo2Syb8T10okWQ1RAsevlpE6p1vg2QJwb6j2WtDD0iTvtj8dAvJo1R7Do%2fPcodULzkQC8ZJeoXCCpeRz6qxsqJ11cJh8Pu%2bNak7kmu5%2fdMkN"
+          },
+          {
+            "DataDocumento": "2026-05-26",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a446b795a57566b4e5745744e545a6a4e4330304e324a6a4c5467784e5467744d3249335a6a4d33595759324e544d344c6e426b5a673d3d&fich=d92eed5a-56c4-47bc-8158-3b7f37af6538.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-21",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765957517a4e6a677759574d74596d526c596930304e6a51334c546778596a41744e7a6c68593255304d7a566d4e4455354c6e426b5a673d3d&fich=ad3680ac-bdeb-4647-81b0-79ace435f459.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "8456",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "IL",
+            "id": "7973",
+            "motivoCessacao": null,
+            "nome": "Mariana Leitão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-08-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1629663",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
