@@ -1,0 +1,125 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "147",
+    "id": "315427",
+    "titulo": "Consagra o direito a um mínimo de 25 dias de férias anuais para todos os trabalhadores"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-08-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87491",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-08-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2025-10-01",
+        "DatainicioApreciacaoPublica": "2025-09-01",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-08-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta pública - Recolha de contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=367"
+          },
+          {
+            "DataDocumento": "2025-09-25",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link Contributos - Apreciação Pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVIILeg/10CTSSI/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=&Path=6ON5H9VM5z1On4V0XImhrBPGQFWHoD1AKCXXQNTaAXCGfvgkGMhbsgoo%2fNDAfJhozXCzoA3UmXpt4vGayzJ0vBlIw%2boikTQZngL3sDaKLXDHIRWVv3FtUj3mwjdXwC6NNN57nCQEqh7qn4lFIJ06EZrC94KFjv79FyNy87UfMbV0qkOR24ifakYYz7DIy2Uo4GOQCIgv%2bkOCDPdlCFNDD5ogisDt%2bqlpX2STF%2bg4%2bggPCg6UNZeoGkgPFjaS32oL3vj0RVr5rXXSRtYUqg1S7VPRPwJ%2bPvb8YihS%2bTgnyMa9AOHGI%2bI6DOJLgYD4f%2fW8DAgT%2b%2f9QngJJ0qlxljcX8%2fROC3mVq8imiBX2oIT1S4ui89CVmveIjn%2fLc8Zye5VxBQ81286fQTXQO8GSiBUUhjQP25AfMwLH11wrm3fiPar%2bGN9sfJzGLm5iGfTxVGM47jfi0LP1Y%2b%2bFGDv9HStTSICEdfVp71G6k1j7rIsds%2f8%3d"
+          },
+          {
+            "DataDocumento": "2026-01-29",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5451304f544d7a5a4449745a6a686b4f4330304e3245354c546c6b4f546374595442685a6a67324e32566d4e4464684c6e426b5a673d3d&fich=944933d2-f8d8-47a9-9d97-a0af867ef47a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-01-29",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593259784e5463304d4455745a5759794e7930304e544a6d4c57466a4d6a55744e47597a4d7a59344d6a49325a474d7a4c6e426b5a673d3d&fich=cf157405-ef27-452f-ac25-4f3368226dc3.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "8456",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "L",
+            "id": "7356",
+            "motivoCessacao": null,
+            "nome": "Isabel Mendes Lopes"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2026-01-29",
+            "descricao": "Ausentes IL e CDS-PP",
+            "detalhe": null,
+            "id": "150571",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "26",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-08-28",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1629659",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
