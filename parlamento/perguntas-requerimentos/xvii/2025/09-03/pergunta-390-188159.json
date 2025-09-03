@@ -1,0 +1,62 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=xufylJiod6iO3gxDgTq8Z%2baqTslY6pEXcj7t%2buB%2bZ6oJR9rwDWlzOCmzyEBEkbCeLshbckKnuEl2%2fslUdQrfUvcLK7sEqcnby0Xn2v2J8y%2bazJMDABTJnbj2AfRMC%2fVaE4lm9042gKGsYnOIZt8RUevFTVG%2bcFVqfbZy%2b6QfqG9j0So4wI%2bC%2bsy%2bAYlRSTTrM%2b9ApTuMh8Jqw%2fxbcOcD4fmcMIBI8rAbtj2D8MJpPgdWRv%2bYDC1cLHI4T1GRJ7z2sFsrUu8LfF2tPw%2f63Xgp8QyFwTEdUZL56Mgt%2bTTIN05bugl%2fKHziJI21ak%2fgZsPs0ZcDE7ii2ewozM6rOeO%2b96tQ%2baCq7cg5S5qGuHqY3n1aW%2bCUX0tU8ovRf%2fmIVOtvi6XnPGz69JWLsUP0Wi1MuiGEWJWf4LzjdGKWBqEuUDw%3d&fich=RequerimentosXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0c078ab59d1f1e6ee75ab185389510b4dec98030e4c29c8761b2fd448c315c80",
+  "legislatura": "XVII",
+  "id": "188159",
+  "tipo": "Pergunta",
+  "numero": "390",
+  "data_registo": "2025-09-03",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Reestruturação do IHRU, Papel do Banco de Fomento, Execução do PRR e Riscos para as Políticas Públicas de Habitação",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "9484",
+        "nome": "Humberto Brito"
+      }
+    ],
+    "DataEnvio": "2025-09-03",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2025-09-03",
+        "dataProrrogacao": "2025-09-23",
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro das Infraestruturas e Habitação",
+        "prazoProrrogacao": "30",
+        "prorrogado": "S",
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2025-10-20",
+            "docRemetida": null,
+            "entidade": "Ministro das Infraestruturas e Habitação",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544339694f4751354d6a51355a5330794e5455334c5451794e6a6b744f47566b4e53307a5a5445324e32457a4f57466c4d7a55756347526d&fich=b8d9249e-2557-4269-8ed5-3e167a39ae35.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2025-09-03",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396b4e6d526a4e32466a4d43307a59546c6c4c54526d596a597459544179595330774e6a51794d5749344e475a6b4d4467756347526d&fich=d6dc7ac0-3a9e-4fb6-a02a-06421b84fd08.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "188159",
+    "Legislatura": "XVII",
+    "Nr": "390",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
