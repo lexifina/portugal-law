@@ -1,8 +1,8 @@
 # Anexo V
 
-### (a que se refere o n.º 4 dos artigos 3.º e 4.º)
+### Planta de localização das zonas de proteção
 
-Planta de localização das zonas de proteção
+(a que se refere o n.º 4 dos artigos 3.º e 4.º)
 
 Extrato da Carta Militar de Portugal.
 
@@ -10,7 +10,7 @@ Série M888 - 1/25.000 (IGeoE)
 
 Polo de captação de Água das Casas
 
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Água Travessa
 
@@ -54,7 +54,7 @@ Polo de captação de Caniceira
 
 Polo de captação de Casal das Mansas
 
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Chaminé
 
@@ -66,19 +66,19 @@ Polo de captação de Concavada
 
 Polo de captação de Esteveira
 
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Lampreia
 
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Martinchel
 
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Matagosa
 
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Pego
 
@@ -86,9 +86,7 @@ SL2
 
 (ver documento original)
 
-AC1 e AC2
-
-(ver documento original)
+AC1
 
 Polo de captação de S. Macário
 
@@ -126,7 +124,7 @@ Polo de captação de Vale das Mós
 
 Polo de captação de Vale de Açor
 
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Abrantes
 

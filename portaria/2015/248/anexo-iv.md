@@ -1,18 +1,12 @@
 # Anexo IV
 
-### (a que se refere o n.º 1 do artigo 4.º)
+### Zona de proteção alargada
 
-Zona de proteção alargada
+(a que se refere o n.º 1 do artigo 4.º)
 
 Polo de captação de Água das Casas
 
-As zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.
-
-Polo de captação de Água Travessa
-
-LS1
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Alvega
 
@@ -22,9 +16,7 @@ Poço e Dreno
 
 Polo de captação de Amoreira
 
-AC1 e AC2
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Arrancada
 
@@ -68,9 +60,7 @@ CPQ1 e LSR2
 
 Polo de captação de Casal das Mansas
 
-FD1
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Chaminé
 
@@ -86,23 +76,19 @@ SL1
 
 Polo de captação de Esteveira
 
-As zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.
+(Revogado.)
 
 Polo de captação de Lampreia
 
-As zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.
+(Revogado.)
 
 Polo de captação de Martinchel
 
-MF1
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Matagosa
 
-Dreno 1 - Antigo e Dreno 2 - Novo
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Pego
 
@@ -110,11 +96,7 @@ SL2
 
 (ver documento original)
 
-AC1 e AC2
-
-(ver documento original)
-
-Polo de captação de S. Macário
+AC1 Polo de captação de S. Macário
 
 CPQ1
 
@@ -158,7 +140,7 @@ FD2
 
 Polo de captação de Vale de Açor
 
-As zonas de proteção intermédia e alargada da Nascente são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.
+(Revogado.)
 
 Polo de captação de Abrantes
 

@@ -1,14 +1,12 @@
 # Anexo III
 
-### (a que se refere o n.º 1 do artigo 3.º)
+### Zona de proteção intermédia
 
-Zona de proteção intermédia
+(a que se refere o n.º 1 do artigo 3.º)
 
 Polo de captação de Água das Casas
 
-Dreno
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Água Travessa
 
@@ -24,9 +22,7 @@ Poço e Dreno
 
 Polo de captação de Amoreira
 
-AC1 e AC2
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Arrancada
 
@@ -76,9 +72,7 @@ LSR2
 
 Polo de captação de Casal das Mansas
 
-FD1
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Chaminé
 
@@ -94,27 +88,19 @@ SL1
 
 Polo de captação de Esteveira
 
-Dreno
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Lampreia
 
-Dreno
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Martinchel
 
-MF1
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Matagosa
 
-Dreno 1 - Antigo e Dreno 2 - Novo
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Pego
 
@@ -128,7 +114,7 @@ AC1
 
 AC2
 
-(ver documento original)
+(Revogado.)
 
 Polo de captação de S. Macário
 
@@ -178,9 +164,7 @@ FD2
 
 Polo de captação de Vale de Açor
 
-Nascente
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação de Abrantes
 

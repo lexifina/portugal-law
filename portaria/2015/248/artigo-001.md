@@ -4,13 +4,13 @@
 
 1 - É aprovada a delimitação dos perímetros de proteção das seguintes captações, localizadas no concelho de Abrantes:
 
-a) Dreno do polo de captação de Água das Casas;
+a) (Revogada.)
 
 b) LS1 do polo de captação de Água Travessa;
 
 c) Poço e Dreno do polo de captação de Alvega;
 
-d) AC1 e AC2 do polo de captação de Amoreira;
+d) (Revogada.)
 
 e) Dreno do polo de captação de Arrancada;
 
@@ -26,21 +26,21 @@ j) AC1 do polo de captação de Brunheirinho;
 
 k) CPQ1 e LSR2 do polo de captação de Caniceira;
 
-l) FD1 do polo de captação de Casal das Mansas;
+l) (Revogada.)
 
 m) AC1 do polo de captação de Chaminé;
 
 n) SL1 do polo de captação de Concavada;
 
-o) Dreno do polo de captação de Esteveira;
+o) (Revogada.)
 
-p) Dreno do polo de captação de Lampreia;
+p) (Revogada.)
 
-q) MF1 do polo de captação de Martinchel;
+q) (Revogada.)
 
-r) Dreno 1 (Antigo) e dreno 2 (Novo) do polo de captação de Matagosa;
+r) (Revogada.)
 
-s) SL2, AC1 e AC2 do polo de captação de Pego;
+s) SL2 e AC1 do polo de captação do Pego;
 
 t) CPQ1 do polo de captação de S. Macário;
 
@@ -58,7 +58,7 @@ Miguel do Rio Torto);
 
 z) FD2 do polo de captação de Vale das Mós;
 
-aa) Nascente do polo de captação de Vale de Açor;
+aa) (Revogada.)
 
 bb) JK5 do polo de captação de Abrantes.
 
