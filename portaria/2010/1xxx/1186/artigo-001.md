@@ -14,7 +14,7 @@ d) DA1 do pólo de captação dos Olhos de Água;
 
 e) SL1 do pólo de captação da Quinta de Alviela;
 
-f) AC1 do pólo de captação de Bugalhos/Filhós;
+f) CAPT1 do polo de captação de Bugalhos/Filhós.
 
 localizadas no concelho de Alcanena, nos termos dos artigos seguintes.
 

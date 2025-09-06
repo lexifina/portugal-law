@@ -2,4 +2,4 @@
 
 ### Coordenadas das captações
 
-(ver documento original)
+Polo de captaçãoCaptaçãoM (m)P (m)[...][...][...][...][...][...][...][...][...][...][...][...][...][...][...][...][...][...][...][...]Bugalhos/FilhósCAPT1-45077-24851
