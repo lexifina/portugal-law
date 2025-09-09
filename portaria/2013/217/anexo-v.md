@@ -14,7 +14,7 @@ Polo de captação da Pedra Furada
 
 Polo de captação da Mina do Duche
 
-(ver documento original)
+(Revogado.)
 
 Polos de captação da Azóia-Rio Touro, Queimada Alta, Queimada Baixa, Urca e Encosta do Sol
 

@@ -6,7 +6,7 @@
 
 a) Furo da Pedra Furada do polo de captação da Pedra Furada;
 
-b) Mina do Duche do polo de captação da Mina do Duche;
+b) (Revogada.)
 
 c) RT1, RT2, RT3, RT4, RT5, RT6, RT7, RT8, RT9, RT10, RT11, RT12, RT13, RT14, RT15, RT16, RT17, RT18, RT19, RT20, RT21, RT22, RT23, RT24, RT25, RT26, RT27, RT28, RT29, RT30 e RT31 do polo de captação da Azóia-Rio Touro;
 

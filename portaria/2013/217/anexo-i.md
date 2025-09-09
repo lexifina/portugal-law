@@ -4,4 +4,4 @@
 
 Coordenadas das captações
 
-(ver documento original)
+(ver documento)

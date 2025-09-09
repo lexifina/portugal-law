@@ -12,9 +12,7 @@ Captação Furo da Pedra Furada
 
 Polo de captação da Mina do Duche
 
-Captação Mina do Duche
-
-(ver documento original)
+(Revogado.)
 
 Polo de captação da Azóia-Rio Touro
 
