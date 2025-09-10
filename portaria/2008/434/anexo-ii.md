@@ -50,7 +50,7 @@ a) Divisão Policial de Faro, que integra as seguintes subunidades operacionais:
 
 b) Divisão Policial de Portimão, que integra as seguintes subunidades operacionais: Esquadra de Portimão, Esquadra de Lagos, Esquadra de Trânsito de Portimão, Esquadra de Investigação Criminal de Portimão e Esquadra de Intervenção e Fiscalização Policial de Portimão.
 
-c) Divisão de Segurança Aeroportuária de Faro, que integra as seguintes subunidades operacionais: Esquadra de Segurança Aeroportuária de Faro e Esquadra de Intervenção e Fiscalização Aeroportuária de Faro.
+c) Divisão de Segurança Aeroportuária e Controlo Fronteiriço no Aeroporto Gago Coutinho, que integra as seguintes Esquadras de Polícia: Esquadra de Segurança Aeroportuária; Esquadra de Controlo Fronteiriço e Esquadra de Intervenção e Fiscalização Policial Aeroportuária.
 
 Comando Distrital da Guarda
 
@@ -88,7 +88,9 @@ d) Divisão Policial do Seixal, que integra as seguintes subunidades operacionai
 
 Comando Distrital de Viana do Castelo
 
-Divisão Policial de Viana do Castelo, que integra as seguintes Esquadras de Polícia: 1.ª Esquadra de Viana do Castelo, 2.ª Esquadra de Viana do Castelo, Esquadra de Ponte de Lima, Esquadra de Trânsito de Viana do Castelo, Esquadra de Investigação Criminal de Viana do Castelo e Esquadra de Intervenção e Fiscalização Policial de Viana do Castelo.
+a) Divisão Policial de Viana do Castelo, que integra as seguintes Esquadras de Polícia: 1.ª Esquadra de Viana do Castelo, 2.ª Esquadra de Viana do Castelo, Esquadra de Trânsito de Viana do Castelo, Esquadra de Investigação Criminal de Viana do Castelo e Esquadra de Intervenção e Fiscalização Policial de Viana do Castelo;
+
+b) Esquadra de Ponte de Lima.
 
 Comando Distrital de Vila Real
 
