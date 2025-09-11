@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-09-11, processo 0609/24.7BEVIS
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0609/24.7BEVIS
+
+**Data do Acordão:** 09/11/2025
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** CATARINA GONÇALVES JAMELA
+
+**Descritores:** AMPLIAÇÃO DO OBJECTO DO RECURSO; CONTENCIOSO PRÉ-CONTRATUAL; IMPUGNAÇÃO; EXECUÇÃO DE SENTENÇA; NULIDADE DE SENTENÇA; ANULAÇÃO; CONTRATO
+
+**Nº Convencional:** JSTA00071959
+
+**Nº do Documento:** SA1202509110609/24
+
+**Recorrente:** A..., LDA.
+
+**Recorrido 1:** B..., S.A.
+
+**Votação:** UNANIMIDADE
+
+**Legislação Nacional:** CPC ART636; CCP ART283 N2
+
+## Sumário
+
+I – A ampliação do âmbito do recurso, nos termos do art. 636º, do CPC, exige um pedido claro e expresso nesse sentido por parte do recorrido, o que pode ser feito através da menção de que se pretende ampliar o âmbito do recurso ou que se pretende usar da faculdade prevista no art. 636º, do CPC, ou ainda através da identificação do segmento da decisão recorrida que se pretende ver revogado.
+
+II - A falta de impugnação das peças do procedimento não preclude o direito dos interessados de impugnarem o acto final de adjudicação com fundamento na ilegalidade dessas normas, desde que nele se repercutam, ou seja, a impugnação directa e autónoma dessas peças é uma mera faculdade conferida aos interessados e não uma obrigatoriedade.
+
+III - Se o Tribunal se limita a conhecer do pedido (condenatório) formulado na acção de execução da decisão de anulação do acto de adjudicação não ocorre a nulidade prevista no art. 615º n.º 1, al. d), do CPC, sendo certo que na apreciação desse pedido o Tribunal não está vinculado ao invocado pelo autor, pois pode decidir que os actos necessários para dar execução à decisão de anulação do acto de adjudicação são distintos dos actos indicados pelo autor, razão pela qual não ocorre a nulidade prevista no art. 615º n.º 1, al. e), do CPC.
+
+IV - Do n.º 2 deste art. 283º, do CCP, na redacção da DL 111-B/2017, de 31/8, resulta que a anulabilidade do contrato não se basta com a anulação do acto procedimental em que tenha assentado a sua celebração, pois também se torna necessário demonstrar que o vício que levou à anulação do acto procedimental é causa adequada e suficiente da invalidade do contrato, designadamente por implicar uma modificação subjectiva do contrato celebrado ou uma alteração do seu conteúdo essencial, ou seja, este n.º 2 manifesta uma evidente preferência pela manutenção em vigor do contrato anulável.
+
+V - Implicando a anulação do acto de adjudicação o refazer do procedimento concursal, desconhecendo-se quem poderá ser o adjudicatário, é prematura, face ao estatuído n.º 2 desse art. 283º, a anulação do contrato, dado que não se pode afirmar que o vício de que padece o acto de adjudicação é causa adequada e suficiente da invalidade do contrato.
