@@ -1,0 +1,89 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "4",
+    "id": "315491",
+    "titulo": "Comissão Parlamentar de Inquérito aos Negócios dos Incêndios Rurais"
+  },
+  "fase": "Admissão",
+  "codigo_fase": "20",
+  "data_registo": "2025-09-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a6c6c5a47566a4e4756684c5441775a4445744e444268595331695a544d324c54526a597a55304d4451324d5467775a5335775a47593d&fich=9edec4ea-00d1-40aa-be36-4cc54046180e.pdf&Inline=true",
+        "anexoNome": "Despacho do PAR - versão de 17-09-2025"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a646a5a6a49784d6a5a684c54497a4f4751744e474e685953316859545a6a4c544d774d47566d4d545a6a5a54686b4e6935775a47593d&fich=7cf2126a-238d-4caa-aa6c-300ef16ce8d6.pdf&Inline=true",
+        "anexoNome": "Despacho do PAR - versão de 09-09-2025"
+      }
+    ],
+    "CodigoFase": "20",
+    "Comissao": null,
+    "DataFase": "2025-09-17",
+    "EvtId": "2",
+    "Fase": "Admissão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1629943",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1025150",
+        "obs": "Despacho n.º 26/XVII do PAR ",
+        "pag": [
+          "3-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-09-10",
+        "pubLeg": "XVII",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/17/01/012/2025-09-10/3?pgs=3-10&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1025152",
+        "obs": "Despacho n.º 29/XVII do PAR ",
+        "pag": [
+          "3-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-09-22",
+        "pubLeg": "XVII",
+        "pubNr": "15",
+        "pubSL": "1",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/17/01/015/2025-09-22/3?pgs=3-6&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
