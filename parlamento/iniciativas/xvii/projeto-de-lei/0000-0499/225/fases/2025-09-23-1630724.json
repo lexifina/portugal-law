@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "225",
+    "id": "315615",
+    "titulo": "Altera o regime do despedimento coletivo e do despedimento por extinção do posto de trabalho e revoga o despedimento por inadaptação, para reforçar a proteção dos trabalhadores (21.ª alteração à Lei n.º 7/2009, de 12 de fevereiro que aprova o Código do Trabalho)\n"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-09-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87692",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-09-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2025-10-30",
+        "DatainicioApreciacaoPublica": "2025-09-30",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-09-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta pública - recolha de contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=464"
+          },
+          {
+            "DataDocumento": "2025-10-29",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos Apreciação Pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVIILeg/10CTSSI/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=5545704d4947347577726f674d6a49314c56685753556b744d53374371694174494564514946424455413d3d&Path=1vYSTjrA6DEseHxv7FEHctAOM4tw%2bUa0%2fvngZYqBQlzfY9%2fp3Pb8aeIp%2fHeMJK5OvL3xytRxAiZrcqbLFDF1fjthu0TdiGeMQjgEjaORtZ%2f6t3zVoJFk%2f2AGpgWqBK3VSRpfS5HSBMLZe7Pl3rFqB7WgZxFGXyaGfhahZv1ogiur%2bJFFuoYfz5JUCx0cTOiAaEK1staXhNWp4cn0noGQqLmCypzJlE2YgC%2fWrXcbdVIuYbU5uXIVZXg94pGcI%2beTjgieQ1qztFklcCNXi4noVPjZM5J8tLJ54sHo35sGX7l9OOiDRNAPI7NxLBwZsqLTCQGVrSXMYfzSgysAWXFIlle04O1tnPfESD4yxXDIprv%2bdheyVMjNYVR2oBp9FCGdR3jejaVGGDFEOh01p7oKXnxNptToRB0UlmBCMMnhObU68lM%2fwidJOc2X7scuVNHR"
+          },
+          {
+            "DataDocumento": "2026-05-26",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54637a4f44426c4f5445744f54637a4d7930304f54646d4c5745794e575574595468695a4452684d6d49354d6a52694c6e426b5a673d3d&fich=97380e91-9733-497f-a25e-a8bd4a2b924b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "8456",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1992",
+            "motivoCessacao": null,
+            "nome": "Pedro Roque"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-09-23",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630724",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
