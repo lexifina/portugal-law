@@ -1,0 +1,163 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "216",
+    "id": "315602",
+    "titulo": "Elevação da Povoação da Silveira à Categoria de Vila"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-09-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87681",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-09-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-10-01",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=479"
+          },
+          {
+            "DataDocumento": "2025-12-03",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a597a4e6a63334f4467744e44526a4f5330305a6a4d794c546b775a5745744e4749774d44526b596d59354e4468694c6e426b5a673d3d&fich=66367788-44c9-4f32-90ea-4b004dbf948b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório do PJL 216/XVII/1 (PSD/CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5459334e7a41324d7a63745a47466d4e4330304e3251784c546b344d6a55744d6a63315a6d526c4e544d784d6a63314c6e426b5a673d3d&fich=16770637-daf4-47d1-9825-275fde531275.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-18",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a646b4d44686d597a55744e574e6d4f5330304f544a694c546b785a545974596d4932597a686c4f5459795a4459784c6e426b5a673d3d&fich=67d08fc5-5cf9-492b-91e6-bb6c8e962d61.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324533595449794e4751744f4455775a5330304d7a46684c54673059324d745a6a45334f4455314e5449304e4464694c6e426b5a673d3d&fich=3a7a224d-850e-431a-84cc-f1785552447b.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Torres Vedras em 2025-12-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d45785a546332597a49744e474d794f4330305a6a686a4c5749355a4455745a6a59334d4451354f4463354f44557a4c6e426b5a673d3d&fich=2a1e76c2-4c28-4f8c-b9d5-f67049879853.pdf&Inline=true",
+            "nome": "Câmara Municipal de Torres Vedras em 2025-12-29"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4451334d6a67794d6a497459324d33595330304e4751324c546b784e4463744d446b35597a55324f4751325a6d45334c6e426b5a673d3d&fich=d4728222-cc7a-44d6-9147-099c568d6fa7.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Silveira em 2026-02-25"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a49314d474a6d595445744e474e68597930304e7a6c694c5746695a6d49744e6a59774d444d7a4f4445305954526d4c6e426b5a673d3d&fich=b250bfa1-4cac-479b-abfb-660033814a4f.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Silveira em 2026-02-25"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324533595449794e4751744f4455775a5330304d7a46684c54673059324d745a6a45334f4455314e5449304e4464694c6e426b5a673d3d&fich=3a7a224d-850e-431a-84cc-f1785552447b.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Torres Vedras em 2025-10-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d45785a546332597a49744e474d794f4330305a6a686a4c5749355a4455745a6a59334d4451354f4463354f44557a4c6e426b5a673d3d&fich=2a1e76c2-4c28-4f8c-b9d5-f67049879853.pdf&Inline=true",
+            "nome": "Câmara Municipal de Torres Vedras em 2025-10-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4451334d6a67794d6a497459324d33595330304e4751324c546b784e4463744d446b35597a55324f4751325a6d45334c6e426b5a673d3d&fich=d4728222-cc7a-44d6-9147-099c568d6fa7.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Silveira em 2025-10-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a49314d474a6d595445744e474e68597930304e7a6c694c5746695a6d49744e6a59774d444d7a4f4445305954526d4c6e426b5a673d3d&fich=b250bfa1-4cac-479b-abfb-660033814a4f.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Silveira em 2025-10-24"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "8017",
+            "motivoCessacao": null,
+            "nome": "Felicidade Vital"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "CDS-PP",
+              "JPP"
+            ],
+            "data": "2026-02-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> CDS-PP</I>, <I> JPP</I>",
+            "id": "170741",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "22",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-09-23",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630705",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
