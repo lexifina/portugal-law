@@ -1,0 +1,23 @@
+# Portaria n.º 535/2025
+
+**Emissor:** SECRETARIAS REGIONAIS DAS FINANÇAS E DE INCLUSÃO, TRABALHO E JUVENTUDE
+
+**Publicação:** JORAM, I série, n.º 166/2025, 2.º suplemento, de 2025-09-24
+
+**Sumário:** Autoriza o Instituto de Segurança Social da Madeira, IP-RAM, a assumir os encargos orçamentais nos anos de 2025 a 2027, no valor total de 138.049,17 €, relativamente à celebração de um protocolo entre o ISSM, IP-RAM e a EAPN Portugal: Rede Europeia Anti Pobreza, relativo ao financiamento do funcionamento do Núcleo Regional da Região Autónoma da Madeira.
+
+## Texto
+
+Portaria n.º 535/2025
+de 24 de setembro Sumário: Autoriza o Instituto de Segurança Social da Madeira, IP-RAM, a assumir os encargos orçamentais nos anos de 2025 a 2027, no valor total de 138.049,17 €, relativamente à celebração de um protocolo entre o ISSM, IP-RAM e a EAPN Portugal: Rede Europeia Anti Pobreza, relativo ao financiamento do funcionamento do Núcleo Regional da Região Autónoma da Madeira.
+Texto: Considerando que o Instituto de Segurança Social da Madeira, IP-RAM, adiante abreviadamente designado por ISSM, IP-RAM, pretende celebrar um protocolo com a Instituição Particular de Solidariedade Social, EAPN Portugal: Rede Europeia Anti Pobreza, relativo ao financiamento do funcionamento do Núcleo Regional na Região Autónoma da Madeira da EAPN Portugal; Considerando que os encargos orçamentais decorrentes da celebração do protocolo em causa se fixam em 138.049,17 €, encargos esses a assumir para os anos económicos de 2025 a 2027. Assim, manda o Governo Regional da Madeira, pelo Secretário Regional das Finanças e pela Secretária Regional de Inclusão, Trabalho e Juventude, ao abrigo do disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual, conjugado com o previsto na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro (LCPA), na sua redação atual, no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e de harmonia com o previsto no n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 11/2015/M, de 18 de dezembro, na sua redação atual, o seguinte:
+1. Fica o ISSM, IP-RAM autorizado a assumir os encargos orçamentais nos anos de 2025 a 2027, no valor total de 138.049,17 € (centro e trinta e oito mil, quarenta e nove euros e dezassete cêntimos), relativamente à celebração de um protocolo entre o ISSM, IP-RAM e a EAPN Portugal: Rede Europeia Anti Pobreza, relativo ao financiamento do funcionamento do Núcleo Regional da Região Autónoma da Madeira.
+2. Os encargos resultantes do protocolo não excederão, em cada ano económico, as seguintes importâncias:
+Ano Económico de 2025 ................................................................................. 46.016,39 €; Ano Económico de 2026 ................................................................................. 46.016,39 €; Ano Económico de 2027 ................................................................................. 46.016,39 €.
+3. A importância fixada para cada ano económico poderá ser acrescida do saldo apurado no ano anterior.
+4. A despesa emergente da celebração do protocolo em causa, para o ano económico de 2025, no valor de 46.016,39 €, tem cabimento na rubrica orçamental sob a Classificação Funcional DA113003, Classificação Económica D.04.07.03.01.99, do Orçamento do ISSM, IP-RAM e os respetivos cabimento e compromisso foram registados no sistema informático de suporte à execução orçamental, Sistema de Informação Financeira (SIF) com os n.ºs 2825007307 e 2925007020, respetivamente.
+5. A assunção do compromisso plurianual resultante do presente protocolo para os anos de 2026 e 2027, nos montantes de 46.016,39 € e 46.016,39 €, respetivamente, será suportada pela rubrica orçamental sob a Classificação Funcional DA113003, Classificação Económica D.04.07.03.01.99, através de dotações a inscrever no referido orçamento do ISSM, IP-RAM, em conformidade com o compromisso de anos futuros registado no sistema informático de suporte à execução orçamental, Sistema de Informação Financeira (SIF) n.º 2925007023 e no Sistema Central de Encargos Plurianuais (SCEP) com o n.º 0112025/2025.
+6. A presente Portaria entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do protocolo produzir efeitos a reportados a 1 de janeiro de 2025.
+Secretaria Regional das Finanças e Secretaria Regional de Inclusão, Trabalho e Juventude, no Funchal, aos 23 dias do mês de setembro de 2025.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Duarte Nuno Nunes de Freitas
+A SECRETÁRIA REGIONAL DE INCLUSÃO, TRABALHO E JUVENTUDE, Paula Cristina Baptista Margarido
