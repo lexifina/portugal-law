@@ -1,0 +1,1885 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "173",
+    "id": "315512",
+    "titulo": "Aumenta a moldura penal do crime de incêndio florestal e equipara os incendiários a terroristas"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2025-09-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61534",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2025-09-25",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315361",
+        "leg": "XVII",
+        "nr": "124",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Atribui a qualificação de profissão de desgaste rápido, bem como a atribuição de subsídio de risco, aos Bombeiros de Associações Humanitárias e aos Sapadores Florestais"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315391",
+        "leg": "XVII",
+        "nr": "133",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reconhece a profissão de bombeiro como de risco e desgaste rápido (oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, e terceira alteração ao Decreto-Lei n.º 106/2002, de 13 de abril) \n"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315416",
+        "leg": "XVII",
+        "nr": "144",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Define o regime de horário de trabalho dos bombeiros sapadores das autarquias locais e reconhece a profissão como de risco e de desgaste rápido, bem como o regime de aposentação ou reforma"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315468",
+        "leg": "XVII",
+        "nr": "163",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Torna obrigatória a imposição de pulseira eletrónica aos condenados pela prática do crime de incêndio florestal que estão em liberdade, alterando o Código Penal"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315509",
+        "leg": "XVII",
+        "nr": "172",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros  "
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315585",
+        "leg": "XVII",
+        "nr": "211",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estrutura dos quadros das associações humanitárias de bombeiros, carreira e estatuto remuneratório dos bombeiros voluntários"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315626",
+        "leg": "XVII",
+        "nr": "230",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Atribui aos bombeiros o estatuto de profissão de risco e de desgaste rápido, confere o direito ao subsídio de risco e penosidade e à cumulação de suplementos remuneratórios e antecipa a idade da reforma"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315501",
+        "leg": "XVII",
+        "nr": "252",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a criação de um Fundo Nacional de Proteção às Famílias dos Bombeiros das Associações Humanitárias, destinado a apoiar os agregados afetados por morte ou incapacidade em serviço"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315623",
+        "leg": "XVII",
+        "nr": "305",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56763",
+            "obs": null,
+            "pag": [
+              "61-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-09-26",
+            "pubLeg": "XVII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a criação de uma Unidade de Missão para a Reorganização Estrutural do Setor Operacional dos Bombeiros"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-09-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8246",
+                "nome": "Angélique Da Teresa"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "7343",
+                "nome": "Carlos Guimarães Pinto"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "8343",
+                "nome": "Jorge Miguel Teixeira"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "7973",
+                "nome": "Mariana Leitão"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "9428",
+                "nome": "Miguel Rangel"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "6945",
+                "nome": "Rodrigo Saraiva"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "7331",
+                "nome": "Rui Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "17:47",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-09-26",
+                "pubLeg": "XVII",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/021/2025-09-26/61?pgs=61-63&org=PLC"
+              }
+            ],
+            "sumario": "Atribui a qualificação de profissão de desgaste rápido, bem como a atribuição de subsídio de risco, aos bombeiros de associações humanitárias e aos sapadores florestais; Define o regime de horário de trabalho dos bombeiros sapadores das autarquias locais e reconhece a profissão como de risco e de desgaste rápido, bem como o regime de aposentação ou reforma; Aumenta a moldura penal do crime de incêndio florestal e equipara os incendiários a terroristas; Estrutura dos quadros das associações humanitárias de bombeiros, carreira e estatuto remuneratório dos bombeiros voluntário; Reconhece a profissão de bombeiro como de risco e desgaste rápido; Torna obrigatória a imposição de pulseira eletrónica aos condenados pela prática do crime de incêndio florestal que estão em liberdade, alterando o Código; Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015,  de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros; Atribui aos bombeiros o estatuto de profissão de risco e de desgaste rápido, confere o direito ao subsídio de risco e penosidade e à cumulação de suplementos remuneratórios e antecipa a idade da reforma; Recomenda a criação de um fundo nacional de proteção às famílias dos bombeiros das associações humanitárias, destinado a apoiar os agregados afetados por morte ou incapacidade em serviço; Recomenda ao Governo a criação de uma unidade de missão para a reorganização \nestrutural do setor operacional dos bombeiros\n\n",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630806",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2025-09-25",
+        "descricao": null,
+        "detalhe": "A Favor: <I>CH</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> PCP</I>, <I> BE</I><BR>Abstenção:<I>CDS-PP</I>, <I> PAN</I>, <I> JPP</I>",
+        "id": "139735",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "19",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
