@@ -1,0 +1,237 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "198",
+    "id": "315566",
+    "titulo": "Alarga a proteção das vítimas de violência doméstica através da modificação das condições do subsídio de reestruturação familiar "
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2025-09-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "87725",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-03-03",
+            "id": "169873",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-03-13",
+            "id": "169905",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-03-20",
+            "id": "169924",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-03-31",
+            "id": "179940",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-04-24",
+            "id": "180086",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-09-26",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d444e6b4f575a695a6a41744e6d49334d5330304d6a55334c546b35595467744e5463774d4445344e7a59314e57566c4c6e426b5a673d3d&fich=03d9fbf0-6b71-4257-99a8-5700187655ee.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-22",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação de não emissão de contributo escrito - Maria Teresa Féria Gonçalves de Almeida - Coordenadora do Observatório Judicial da Violência de Género e Doméstica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5455774d6d51354e6d4574593245334d5330305a47526c4c546b7a4d4751744d4459784d54426d5a4463324f575a6d4c6e426b5a673d3d&fich=e502d96a-ca71-4dde-930d-06110fd769ff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Associação Quebrar o Silêncio",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d32517a4d546c684d544d744f5463774e5330305a6d55304c5467325a6a4d744d446c6b596d566d4f5456695a5749354c6e426b5a673d3d&fich=3d319a13-9705-4fe4-86f3-09dbef95beb9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-24",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Direção-Geral de Reinserção e Serviços Prisionais (DGRSP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3259304e6a426a5a5441744d4459344f4330304e5455324c5745354f544574596a49784d474a695a544534595749324c6e426b5a673d3d&fich=3f460ce0-0688-4556-a991-b210bbe18ab6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-27",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54526c4d7a453559324d744f4455304f4330304d5455324c5749314e6a67744e7a59794d6d566d4f445a694f575a6a4c6e426b5a673d3d&fich=e4e319cc-8548-4156-b568-7622ef86b9fc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-30",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Ordem dos Psicólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a4d784e5459345a6a55744e4445774d4330305a5751774c546b325a6d45744f4467324e6a51355a446b78597a55314c6e426b5a673d3d&fich=c31568f5-4100-4ed0-96fa-886649d91c55.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-05",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo da CGTP-IN remetido pelo CES",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d557859325a6b4e7a55744e4441314e5330304d544d794c574a68596a5174596d4e694e324d344e6a49304e4449304c6e426b5a673d3d&fich=2e1cfd75-4055-4132-bab4-bcb7c8624424.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Rui do Carmo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d49304d7a59795a6a49744e6d5a6c4e7930305a57566d4c5745324e5745744e6a41324f546c694e57466c4d6d55774c6e426b5a673d3d&fich=2b4362f2-6fe7-4eef-a65a-60699b5ae2e0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Cruz Vermelha Portuguesa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a446b775a4449784d6a49744d6d59334d4330304e6d526a4c5467774f5455744d47566a5a4755304e44466d5a5749314c6e426b5a673d3d&fich=d90d2122-2f70-46dc-8095-0ecde441feb5.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-03-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-04-27"
+          },
+          {
+            "link": "",
+            "nome": "Maria Teresa Féria Gonçalves de Almeida - Coordenadora do Observatório Judicial da Violência de Género e Doméstica em 2026-04-22"
+          },
+          {
+            "link": "",
+            "nome": "Direção-Geral de Reinserção e Serviços Prisionais (DGRSP) em 2026-04-24"
+          },
+          {
+            "link": "",
+            "nome": "Associação Quebrar o Silêncio em 2026-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Psicólogos em 2026-04-30"
+          },
+          {
+            "link": "",
+            "nome": "CES - Conselho Económico e Social em 2026-05-05"
+          },
+          {
+            "link": "",
+            "nome": "Rui do Carmo em 2026-05-06"
+          },
+          {
+            "link": "",
+            "nome": "Cruz Vermelha Portuguesa em 2026-05-07"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-02-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-02-19"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-02-19"
+          },
+          {
+            "link": "",
+            "nome": "Maria Teresa Féria Gonçalves de Almeida - Coordenadora do Observatório Judicial da Violência de Género e Doméstica em 2026-04-17"
+          },
+          {
+            "link": "",
+            "nome": "Direção-Geral de Reinserção e Serviços Prisionais (DGRSP) em 2026-04-17"
+          },
+          {
+            "link": "",
+            "nome": "Associação Quebrar o Silêncio em 2026-04-17"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Psicólogos em 2026-04-17"
+          },
+          {
+            "link": "",
+            "nome": "CES - Conselho Económico e Social em 2026-04-17"
+          },
+          {
+            "link": "",
+            "nome": "Rui do Carmo em 2026-04-17"
+          },
+          {
+            "link": "",
+            "nome": "Cruz Vermelha Portuguesa em 2026-04-17"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-09-26",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630898",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
