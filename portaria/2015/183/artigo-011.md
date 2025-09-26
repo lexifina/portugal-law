@@ -2,4 +2,4 @@
 
 ### Avaliação
 
-O desempenho do estagiário é avaliado no final da 2.ª fase do INOV Contacto.
+O desempenho dos estagiários e das entidades de acolhimento são objeto de avaliação intercalar e final do INOV Contacto.

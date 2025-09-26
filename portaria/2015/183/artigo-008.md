@@ -4,9 +4,9 @@
 
 1 - No âmbito do INOV Contacto são suportadas as seguintes despesas por estagiário:
 
-a) Durante a 1.ª fase:
+a) Durante a 1.ª fase, desde o primeiro dia do curso intensivo de práticas internacionais:
 
-i) Bolsa de formação mensal, no valor correspondente ao nível 12 da tabela remuneratória única (posição remuneratória 1 - técnico superior) do regime jurídico das Carreiras Gerais da Administração Pública;
+i) Bolsa de formação mensal, determinada em função do Indexante dos Apoios Sociais (IAS), no valor correspondente a 2,76 vezes esse indexante;
 
 ii) Subsídio de refeição, nos termos fixados para os trabalhadores da Administração Pública;
 
@@ -14,11 +14,11 @@ iii) Seguro de acidentes de trabalho, segundo a legislação em vigor;
 
 iv) (Revogada.)
 
-b) Durante a 2.ª fase são elegíveis, para além das despesas previstas na alínea anterior, as seguintes:
+b) Durante a 2.ª fase, para além das despesas previstas na alínea anterior, são também elegíveis, desde o dia da partida para o estrangeiro até ao último dia efetivo do estágio no país de destino, as seguintes:
 
-i) Subsídio de alojamento, devido desde o dia da partida para o estrangeiro até ao último dia efetivo do estágio no país de destino, de acordo com a tabela publicada no site INOV Contacto;
+i) Subsídio de alojamento, de acordo com a tabela publicada no site INOV Contacto;
 
-ii) Viagens (ida e volta) entre Portugal e o país de estágio, por via aérea e/ou outro transporte público, em classe económica;
+ii) Viagens de ida e volta entre Portugal e o país de destino do estágio, por via aérea e/ou outro transporte público, em classe económica;
 
 iii) Seguro de Acidentes Pessoais, que garante a reparação dos acidentes decorrentes de riscos profissionais e extraprofissionais;
 

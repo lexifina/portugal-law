@@ -6,7 +6,7 @@ São destinatários do INOV Contacto os jovens que preencham os seguintes requis
 
 a) Permaneçam legalmente no território de Portugal;
 
-b) Tenham idade até 29 anos, à data do início do estágio;
+b) Tenham idade até 29 anos, inclusive, à data da apresentação da candidatura ao INOV Contacto;
 
 c) Possuam uma qualificação superior, comprovada pelo respetivo certificado;
 
