@@ -1,0 +1,211 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "221",
+    "id": "315609",
+    "titulo": "Limita a publicidade a jogos e apostas, alterando o Código da Publicidade\n"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2025-09-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "87713",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-01-14",
+            "id": "159711",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-01-14",
+            "id": "159710",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-01-14",
+            "id": "159709",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2025-12-02",
+            "id": "117579",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2025-12-02",
+            "id": "117577",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2025-12-17",
+            "id": "117601",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-09-26",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-10-27",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49355a6a6c694d7a45334c5459324d6d59744e4449344e5331685a446b784c544931596d4d784d6d59325a5463354f5335775a47593d&fich=29f9b317-662f-4285-ad91-25bc12f6e799.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração remetida pelo Grupo Parlamentar do L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426b4d474e684e57597a4c5749344e4749744e474534595331685a5467304c54466b5a4452685a6d497a597a6c6a4f4335775a47593d&fich=0d0ca5f3-b84b-4a8a-ae84-1dd4afb3c9c8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-12-10",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41305a574a684d5441774c54457a4e4441744e44566a4d4331684e4749304c5445775a544a6b4d324d784e546b304f4335775a47593d&fich=04eba100-1340-45c0-a4b4-10e2d3c15948.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-22",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Relatório de Votações 6.ª - CECT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51305a4451794e544a6a4c544e6a597a55744e444d3459533034595456694c57566c5a5445354e544178595463304d6935775a47593d&fich=44d4252c-3cc5-438a-8a5b-eee19501a742.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-03",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resposta da OMS às questões apresentadas pelos Grupos Parlamentares",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67305a474e6c5a5445794c5455354d4759744e4463314d4330344f44646a4c546868595445314d6d49314f545a694d6935775a47593d&fich=84dcee12-590f-4750-887c-8aa152b596b2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-02",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resposta da SIBS FPS às questões apresentadas pelos Grupos Parlamentares",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41344d44686c5a546c6c4c544e6a597a41744e44566a4d7930344d47466a4c544977593246695a444934593249785a4335775a47593d&fich=0808ee9e-3cc0-45c3-80ac-20cabd28cb1d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-11",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resposta do Banco de Portugal às questões apresentadas pelos Grupos Parlamentares",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d354d4463314f54686b4c54637a4f5745744e474d7a4e5331684e4455324c544d344d5451785957526a4e6a4d30596935775a47593d&fich=c907598d-739a-4c35-a456-38141adc634b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-02",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resposta do SRIJ às questões Grupo Parlamentar do Livre",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a694d54526a4d4759774c54566d4e5745744e444268596931695a6a457a4c5467324e5749315a54566c5a6d49345a5335775a47593d&fich=6b14c0f0-5f5a-40ab-bf13-865b5e5efb8e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-02",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resposta do SRIJ às questões Grupo Parlamentar do PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a497a596d4d7a5a54566a4c574d775a546b744e4746694e4331694e47517a4c546b7a5954426c4e574e6c5a6a5a6b4e6935775a47593d&fich=23bc3e5c-c0e9-4ab4-b4d3-93a0e5cef6d6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-12-19",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Prorrogação para nova apreciação na generalidade por 60 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6b4d6a6c694e5445344c5445304f4755744e4749345a6931695a57566d4c546b34596a6b334d324e6859545a6c4d5335775a47593d&fich=fd29b518-148e-4b8f-beef-98b973caa6e1.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8452",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Coesão Territorial ",
+        "Numero": "8452",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "9543",
+            "motivoCessacao": null,
+            "nome": "Ricardo Lopes Reis"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-12-10",
+            "dataRemessa": "2025-12-10",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2026-04-23",
+            "dataRemessa": "2026-04-23",
+            "numeroOficio": null,
+            "observacoes": "Requerida avocação pelo LIVRE  para votação em Plenário",
+            "tipoRemessa": "Informação"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PCP",
+              "CDS-PP"
+            ],
+            "data": "2025-12-10",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> JPP</I><BR>Ausência: <I>PCP</I>, <I> CDS-PP</I>",
+            "id": "140172",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "18",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-09-26",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630845",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
