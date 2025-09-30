@@ -8,7 +8,7 @@
 
 1 - Integram o Parque Natural com a categoria de reserva natural:
 
-a) A Reserva Natural dos Ilhéus das Formigas;
+a) (Revogado.)
 
 b) A Reserva Natural do Ilhéu da Vila.
 
