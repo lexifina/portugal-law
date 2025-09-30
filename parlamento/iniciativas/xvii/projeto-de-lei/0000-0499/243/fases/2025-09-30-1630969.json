@@ -1,0 +1,172 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "243",
+    "id": "315653",
+    "titulo": "Elevação de Botão à categoria de vila"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87752",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-09-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-10-01",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=484"
+          },
+          {
+            "DataDocumento": "2025-12-03",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4759345a4759334e6a67744e5449354d6930304e32557a4c574a685a5445745a5464694f47557a4e5459784d7a5a684c6e426b5a673d3d&fich=df8df768-5292-47e3-bae1-e7b8e356136a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-03",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório PJL 243-XVII-1 (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a557a595445304d4749744e6d5579595330304f5464684c574a695a6d457459546b30596d55324d7a566859324d7a4c6e426b5a673d3d&fich=c53a140b-6e2a-497a-bbfa-a94be635acc3.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3259784e544532596a49744f5445324d7930305a4751324c57466d4d47497459574577595468694d6d59784d6d55314c6e426b5a673d3d&fich=7f1516b2-9163-4dd6-af0b-aa0a8b2f12e5.pdf&Inline=true",
+            "nome": "Academia Portuguesa da História em 2025-11-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659546b324d6a45354d4467745a4759784e6930304f47497a4c546730596d51744d7a45344f446c6b597a41314d6d566b4c6e426b5a673d3d&fich=a9621908-df16-48b3-84bd-31889dc052ed.pdf&Inline=true",
+            "nome": "Câmara Municipal de Coimbra em 2026-06-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a686d597a4a6b4d6d51744f444d314d6930304e4441794c574a6b5a6a59744d6d597a5a5756694d6a42684e446b344c6e426b5a673d3d&fich=f8fc2d2d-8352-4402-bdf6-2f3eeb20a498.pdf&Inline=true",
+            "nome": "União de Freguesias de Souselas e Botão em 2026-04-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f475269596d526c595445745a474e6c4e5330304f5445324c54686d4e6a45744d6d526d597a6c6c4e324d78597a4a6b4c6e426b5a673d3d&fich=8dbbdea1-dce5-4916-8f61-2dfc9e7c1c2d.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2025-10-22"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d526a4f5745774f546374597a63314e7930304e544e6a4c54686959325974595752695a6a6378597a4e685a54677a4c6e426b5a673d3d&fich=bdc9a097-c757-453c-8bcf-adbf71c3ae83.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2025-10-29"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3259784e544532596a49744f5445324d7930305a4751324c57466d4d47497459574577595468694d6d59784d6d55314c6e426b5a673d3d&fich=7f1516b2-9163-4dd6-af0b-aa0a8b2f12e5.pdf&Inline=true",
+            "nome": "Academia Portuguesa da História em 2025-10-16"
+          },
+          {
+            "link": "",
+            "nome": "Assembleia Municipal de Coimbra em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659546b324d6a45354d4467745a4759784e6930304f47497a4c546730596d51744d7a45344f446c6b597a41314d6d566b4c6e426b5a673d3d&fich=a9621908-df16-48b3-84bd-31889dc052ed.pdf&Inline=true",
+            "nome": "Câmara Municipal de Coimbra em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a686d597a4a6b4d6d51744f444d314d6930304e4441794c574a6b5a6a59744d6d597a5a5756694d6a42684e446b344c6e426b5a673d3d&fich=f8fc2d2d-8352-4402-bdf6-2f3eeb20a498.pdf&Inline=true",
+            "nome": "União de Freguesias de Souselas e Botão em 2025-10-27"
+          },
+          {
+            "link": "",
+            "nome": "Assembleia de Freguesia de Souselas e Botão em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f475269596d526c595445745a474e6c4e5330304f5445324c54686d4e6a45744d6d526d597a6c6c4e324d78597a4a6b4c6e426b5a673d3d&fich=8dbbdea1-dce5-4916-8f61-2dfc9e7c1c2d.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2025-10-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d526a4f5745774f546374597a63314e7930304e544e6a4c54686959325974595752695a6a6378597a4e685a54677a4c6e426b5a673d3d&fich=bdc9a097-c757-453c-8bcf-adbf71c3ae83.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2025-10-15"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "8591",
+            "motivoCessacao": null,
+            "nome": "João Ribeiro"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "CDS-PP"
+            ],
+            "data": "2026-03-03",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> JPP</I><BR>Ausência: <I>L</I>, <I> CDS-PP</I>",
+            "id": "170952",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "24",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-09-30",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630969",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
