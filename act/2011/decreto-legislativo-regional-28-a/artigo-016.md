@@ -1,15 +1,19 @@
-## Secção III
-
-## Áreas marinhas protegidas para a gestão de habitats ou espécies
-
 # Artigo 16.º
 
-### Áreas marinhas protegidas para a gestão de habitats ou espécies
+### Níveis de proteção das áreas marinhas protegidas
 
-Integram o Parque Marinho dos Açores com a categoria de área marinha protegida para a gestão de habitats ou espécies:
+1 - Os objetivos de gestão das áreas marinhas protegidas que integram a RAMPA são concretizados através do nível de proteção associado à categoria da área marinha protegida em presença.
 
-a) A área marinha protegida para a gestão de habitats ou espécies oceânica do Corvo, adiante designada por Área Marinha Protegida Oceânica do Corvo;
+2 - O nível de proteção a que se refere o número anterior é definido tendo em consideração os usos e atividades proibidos ou condicionados relativos a cada área marinha protegida em concreto.
 
-b) A área marinha protegida para a gestão de habitats ou espécies oceânica do Faial, adiante designada por Área Marinha Protegida Oceânica do Faial;
+3 - Deve recorrer-se a zonamento quando a mesma área marinha protegida abranja zonas com diferentes níveis de proteção, ou quando seja necessário balizar usos ou atividades.
 
-c) A área marinha protegida para a gestão de habitats ou espécies do cume do Banco Princesa Alice, adiante designada por Área Marinha Protegida do Banco Princesa Alice.
+4 - Constituem níveis de proteção os seguintes:
+
+a) Nível de proteção total;
+
+b) Nível de proteção alta;
+
+c) Nível de proteção ligeira;
+
+d) Nível de proteção mínima.

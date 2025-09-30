@@ -1,17 +1,19 @@
-## Secção II
-
-## Reserva natural marinha
-
 # Artigo 11.º
 
-### Reservas naturais marinhas
+### Inclusão de áreas marinhas protegidas
 
-Integram o Parque Marinho dos Açores com a categoria de reserva natural marinha:
+1 - Nos termos do disposto na alínea a) do n.º 2 e no n.º 3 do artigo 4.º, integram a RAMPA, com a natureza de áreas marinhas protegidas costeiras dos Parques Naturais de Ilha (PNI):
 
-a) A Reserva Natural Marinha do Banco D. João de Castro;
+a) As áreas marinhas protegidas classificadas que compreendam, na sua delimitação, zonas de interface terra-mar, podendo abranger águas interiores marítimas e mar territorial;
 
-b) A Reserva Natural Marinha do Campo Hidrotermal Menez Gwen;
+b) As áreas marinhas protegidas classificadas nas águas interiores marítimas e, ou, no mar territorial.
 
-c) A Reserva Natural Marinha do Campo Hidrotermal Lucky Strike;
+2 - Nos termos do previsto na alínea b) do n.º 2 e no n.º 3 do artigo 4.º, integram a RAMPA, com a natureza de áreas marinhas protegidas oceânicas do Parque Marinho dos Açores:
 
-d) A Reserva Natural Marinha do Monte Submarino Sedlo.
+a) As áreas marinhas protegidas classificadas no mar territorial e na zona económica exclusiva;
+
+b) As áreas marinhas protegidas classificadas na zona económica exclusiva e plataforma continental subjacente;
+
+c) As áreas marinhas protegidas classificadas em zonas da plataforma continental situada além do limite exterior da ZEE, adjacente ao arquipélago dos Açores, nos termos do disposto na secção iv do capítulo iv.
+
+3 - Integram e são identificadas, também, na RAMPA, as áreas da rede fundamental de conservação da natureza nos termos da secção iii do capítulo ii.
