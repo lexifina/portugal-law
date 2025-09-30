@@ -1,0 +1,177 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "246",
+    "id": "315656",
+    "titulo": "Elevação de Nogueira do Cravo à categoria de vila"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87750",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-09-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-10-01",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=487"
+          },
+          {
+            "DataDocumento": "2025-12-03",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d575a695a57526c4d474d744f4452684f4330304d544d784c546b314e3259745a546b784d6a41334e7a68684e324d334c6e426b5a673d3d&fich=1fbede0c-84a8-4131-957f-e9120778a7c7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório do PJL 246/XVII/1 (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f444d775a6a597a4e7a6374596d5977597930305a6a52684c5749784e5759745a6d49335a44637a595755314e47526a4c6e426b5a673d3d&fich=830f6377-bf0c-4f4a-b15f-fb7d73ae54dc.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595455345a6d51774e4755744e6a4668595330304d4468694c5745775a4745744f4745785a57517a5a574d7a4e6a64684c6e426b5a673d3d&fich=a58fd04e-61aa-408b-a0da-8a1ed3ec367a.pdf&Inline=true",
+            "nome": "Academia Portuguesa da História em 2025-11-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595459344f44686a5a474574596a42694d7930304d6d4d7a4c5467785a6a4d744f4749324f47466b59324e685a6a59344c6e426b5a673d3d&fich=a6888cda-b0b3-42c3-81f3-8b68adccaf68.pdf&Inline=true",
+            "nome": "Câmara Municipal de Oliveira do Hospital em 2025-11-17"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e57566b4e446c6c4f544d74596d5a6d4f5330304f474e6d4c5467334f4455745a574d784e5749324d575a6c4e6a6c6b4c6e426b5a673d3d&fich=5ed49e93-bff9-48cf-8785-ec15b61fe69d.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Nogueira do Cravo em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a4e6b5a6d4d31595451744d574d77597930305a4751314c546c684e6a45744d6a45774f4455775a6d51784f4459794c6e426b5a673d3d&fich=73dfc5a4-1c0c-4dd5-9a61-210850fd1862.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Nogueira do Cravo em 2025-10-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f47453459544d784e6d55745932566d5a4330304d6a55314c54686c4d5751744f445131597a56694f47497959574d784c6e426b5a673d3d&fich=8a8a316e-cefd-4255-8e1d-845c5b8b2ac1.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2025-10-22"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a45344d4455334e574d744e3249305a6930305a5463334c5745774d54557459324a6b4e6d45305957466d4d7a41314c6e426b5a673d3d&fich=b180575c-7b4f-4e77-a015-cbd6a4aaf305.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2025-10-29"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595455345a6d51774e4755744e6a4668595330304d4468694c5745775a4745744f4745785a57517a5a574d7a4e6a64684c6e426b5a673d3d&fich=a58fd04e-61aa-408b-a0da-8a1ed3ec367a.pdf&Inline=true",
+            "nome": "Academia Portuguesa da História em 2025-10-16"
+          },
+          {
+            "link": "",
+            "nome": "Assembleia Municipal de Oliveira do Hospital em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595459344f44686a5a474574596a42694d7930304d6d4d7a4c5467785a6a4d744f4749324f47466b59324e685a6a59344c6e426b5a673d3d&fich=a6888cda-b0b3-42c3-81f3-8b68adccaf68.pdf&Inline=true",
+            "nome": "Câmara Municipal de Oliveira do Hospital em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e57566b4e446c6c4f544d74596d5a6d4f5330304f474e6d4c5467334f4455745a574d784e5749324d575a6c4e6a6c6b4c6e426b5a673d3d&fich=5ed49e93-bff9-48cf-8785-ec15b61fe69d.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Nogueira do Cravo em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a4e6b5a6d4d31595451744d574d77597930305a4751314c546c684e6a45744d6a45774f4455775a6d51784f4459794c6e426b5a673d3d&fich=73dfc5a4-1c0c-4dd5-9a61-210850fd1862.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Nogueira do Cravo em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f47453459544d784e6d55745932566d5a4330304d6a55314c54686c4d5751744f445131597a56694f47497959574d784c6e426b5a673d3d&fich=8a8a316e-cefd-4255-8e1d-845c5b8b2ac1.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2025-10-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a45344d4455334e574d744e3249305a6930305a5463334c5745774d54557459324a6b4e6d45305957466d4d7a41314c6e426b5a673d3d&fich=b180575c-7b4f-4e77-a015-cbd6a4aaf305.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2025-10-15"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4330",
+            "motivoCessacao": null,
+            "nome": "Ana Oliveira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "CDS-PP",
+              "JPP"
+            ],
+            "data": "2026-02-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> CDS-PP</I>, <I> JPP</I>",
+            "id": "170789",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "22",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-09-30",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630965",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
