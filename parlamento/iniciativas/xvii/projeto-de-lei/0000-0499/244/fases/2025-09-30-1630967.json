@@ -1,0 +1,169 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "244",
+    "id": "315654",
+    "titulo": "Elevação de Cernache à categoria de vila "
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87751",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-09-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-10-01",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=485"
+          },
+          {
+            "DataDocumento": "2025-12-03",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a475135597a4a684e474d744e7a55794d533030597a56694c5468694d6d4d744e5755774e5445775a44646d5a6a6c6a4c6e426b5a673d3d&fich=dd9c2a4c-7521-4c5b-8b2c-5e0510d7ff9c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório PJL 244-XVII-1 (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a67355a6d526b4d6d49744d475a6a5a5330305a445a684c546b7a4d7a6b744d4755785a6a59324e574d334d6a6c6a4c6e426b5a673d3d&fich=f89fdd2b-0fce-4d6a-9339-0e1f665c729c.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a6b33596a59324d6d51744e324d324d4330305a6a59324c546b784e6d51744f544a6c5a545931595451774e47597a4c6e426b5a673d3d&fich=f97b662d-7c60-4f66-916d-92ee65a404f3.pdf&Inline=true",
+            "nome": "Academia Portuguesa da História em 2025-11-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d44466c4e6a4d7a4e446b744d7a46695a6930305a544a6a4c5745314d6a59744e6d5931595751324e6a557a4f5449304c6e426b5a673d3d&fich=01e63349-31bf-4e2c-a526-6f5ad6653924.pdf&Inline=true",
+            "nome": "Câmara Municipal de Coimbra em 2026-06-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a67774f5441314d4463744f4446694f433030596d4e6c4c5467354d6a6b74596a4d7a5a6a4e695954497a4d544d314c6e426b5a673d3d&fich=b8090507-81b8-4bce-8929-b33f3ba23135.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2025-10-22"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a466a4d6d4d35595441744e474e6b4e793030597a41334c546c6a4f444d744d5459324d6a426d4e574d794f4449354c6e426b5a673d3d&fich=c1c2c9a0-4cd7-4c07-9c83-16620f5c2829.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2025-10-29"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a6b33596a59324d6d51744e324d324d4330305a6a59324c546b784e6d51744f544a6c5a545931595451774e47597a4c6e426b5a673d3d&fich=f97b662d-7c60-4f66-916d-92ee65a404f3.pdf&Inline=true",
+            "nome": "Academia Portuguesa da História em 2025-10-16"
+          },
+          {
+            "link": "",
+            "nome": "Assembleia Municipal de Coimbra em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d44466c4e6a4d7a4e446b744d7a46695a6930305a544a6a4c5745314d6a59744e6d5931595751324e6a557a4f5449304c6e426b5a673d3d&fich=01e63349-31bf-4e2c-a526-6f5ad6653924.pdf&Inline=true",
+            "nome": "Câmara Municipal de Coimbra em 2025-10-27"
+          },
+          {
+            "link": "",
+            "nome": "Assembleia de Freguesia de Cernache  em 2025-10-27"
+          },
+          {
+            "link": "",
+            "nome": "Junta de Freguesia de Cernache em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a67774f5441314d4463744f4446694f433030596d4e6c4c5467354d6a6b74596a4d7a5a6a4e695954497a4d544d314c6e426b5a673d3d&fich=b8090507-81b8-4bce-8929-b33f3ba23135.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2025-10-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a466a4d6d4d35595441744e474e6b4e793030597a41334c546c6a4f444d744d5459324d6a426d4e574d794f4449354c6e426b5a673d3d&fich=c1c2c9a0-4cd7-4c07-9c83-16620f5c2829.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2025-10-15"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "8650",
+            "motivoCessacao": null,
+            "nome": "Martim Syder"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "CDS-PP",
+              "JPP"
+            ],
+            "data": "2026-02-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> CDS-PP</I>, <I> JPP</I>",
+            "id": "170790",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "22",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-09-30",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630967",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
