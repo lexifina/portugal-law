@@ -1,0 +1,114 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "86",
+    "id": "315257",
+    "titulo": "Regulamenta a atividade de Lobbying em Portugal e procede à criação do Sistema de Transparência dos Poderes Públicos"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2025-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a466a4d44646d4f5441324c5745305a4745744e4749305a5331684e5755304c5441305a6a51794f4449354d6a63774f5335775a47593d&fich=1c07f906-a4da-4b4e-a5e4-04f428292709.pdf&Inline=true",
+        "anexoNome": "Ofício de redistribuição"
+      }
+    ],
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "87735",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-09-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-11-28",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4459304e6a56694d5451744d5749775a4330305a6a59794c54673059544d745a54517a597a4d335a5756694e5455354c6e426b5a673d3d&fich=46465b14-1b0d-4f62-84a3-e43c37eeb559.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-12-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 1 - Proposta de alteração GP PS e GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d49354d446c6a5a4455744d47566d4e6930304d574d334c5467784e3249745a6a55305a6d526a4e574e695932566b4c6e426b5a673d3d&fich=fb909cd5-0ef6-41c7-817b-f54fdc5cbced.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-12-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 2 - Proposta de alteração GP L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a49344d4746695a4463745a6a64684f4330304d54466b4c5749784f4449744e545a69595451784d44426c4f546c694c6e426b5a673d3d&fich=7280abd7-f7a8-411d-b182-56ba4100e99b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-12-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 3 - Proposta de alteração GP CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765957517a4d3252685a6a517459544d324e4330304f47466c4c5745354e7a4d74595456684e575a6a4f474e6c596a49794c6e426b5a673d3d&fich=ad33daf4-a364-48ae-a973-a5a5fc8ceb22.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-12-10",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e relatório da discussão e votação na especialidade CACDLG ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5449304f57526a596d51744d5467774f4330305a6a49314c57457a4d5445744e4745785a544a6d5a47566a4d3259344c6e426b5a673d3d&fich=9249dcbd-1808-4f25-a311-4a1e2fdec3f8.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2025-09-30",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630943",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
