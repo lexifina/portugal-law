@@ -1,0 +1,171 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "245",
+    "id": "315655",
+    "titulo": "Elevação de Côja à categoria de vila"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87749",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-09-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-10-01",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=486"
+          },
+          {
+            "DataDocumento": "2025-12-03",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e544a6c4e324d304e5749744f4751314e6930304e444d344c546b784f5467744f54466d4d444e6d5a6d5a685a6a51304c6e426b5a673d3d&fich=52e7c45b-8d56-4438-9198-91f03fffaf44.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório do PJL 245/XVII/1 (PS) e PJL 278/XVII/1 (PSD/CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e446b304e3259304d575174595441354d79303059325a6d4c54686c4e4449744d6a6335596a5a6c5a6d4d324e3251334c6e426b5a673d3d&fich=4947f41d-a093-4cff-8e42-279b6efc67d7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-18",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544a6b4e47466b4e3259744d544134596930304d32466b4c546733596d4d74596d466d5a5463314d7a5a6a4e4756684c6e426b5a673d3d&fich=12d4ad7f-108b-43ad-87bc-bafe7536c4ea.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d444a684d47466c5a544d744f5752684d6930304d6a6c6d4c54677a5a4445744e6d49314f44566a5a574977596a51354c6e426b5a673d3d&fich=02a0aee3-9da2-429f-83d1-6b585ceb0b49.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Arganil em 2026-01-08"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d444a684d47466c5a544d744f5752684d6930304d6a6c6d4c54677a5a4445744e6d49314f44566a5a574977596a51354c6e426b5a673d3d&fich=02a0aee3-9da2-429f-83d1-6b585ceb0b49.pdf&Inline=true",
+            "nome": "Câmara Municipal de Arganil em 2026-01-08"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d5a6b4d325a684d545574595441774f4330304f474d344c546b315a5751744d6a67354d544132597a41324e54637a4c6e426b5a673d3d&fich=6fd3fa15-a008-48c8-95ed-289106c06573.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2025-10-22"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659324934596d55325a4451744e6a55774d4330304e4745314c546c6c597a6b745a6a56684d7a49774e546b324e44686d4c6e426b5a673d3d&fich=cb8be6d4-6500-44a5-9ec9-f5a32059648f.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2025-10-29"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d444a684d47466c5a544d744f5752684d6930304d6a6c6d4c54677a5a4445744e6d49314f44566a5a574977596a51354c6e426b5a673d3d&fich=02a0aee3-9da2-429f-83d1-6b585ceb0b49.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Arganil em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d444a684d47466c5a544d744f5752684d6930304d6a6c6d4c54677a5a4445744e6d49314f44566a5a574977596a51354c6e426b5a673d3d&fich=02a0aee3-9da2-429f-83d1-6b585ceb0b49.pdf&Inline=true",
+            "nome": "Câmara Municipal de Arganil em 2025-10-27"
+          },
+          {
+            "link": "",
+            "nome": "Assembleia de Freguesias de Côja e Barril de Alva em 2025-10-27"
+          },
+          {
+            "link": "",
+            "nome": "União das Freguesias de Côja e Barril de Alva em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d5a6b4d325a684d545574595441774f4330304f474d344c546b315a5751744d6a67354d544132597a41324e54637a4c6e426b5a673d3d&fich=6fd3fa15-a008-48c8-95ed-289106c06573.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2025-10-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659324934596d55325a4451744e6a55774d4330304e4745314c546c6c597a6b745a6a56684d7a49774e546b324e44686d4c6e426b5a673d3d&fich=cb8be6d4-6500-44a5-9ec9-f5a32059648f.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2025-10-15"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "7353",
+            "motivoCessacao": null,
+            "nome": "Luís Paulo Fernandes"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "CDS-PP",
+              "JPP"
+            ],
+            "data": "2026-02-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> CDS-PP</I>, <I> JPP</I>",
+            "id": "170740",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "22",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-09-30",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1630963",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
