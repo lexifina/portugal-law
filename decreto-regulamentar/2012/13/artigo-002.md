@@ -16,7 +16,7 @@ d) Prestar apoio técnico estatístico em matéria de definição e estruturaç�
 
 e) Elaborar, difundir e apoiar a criação de instrumentos estatísticos de planeamento e de avaliação das políticas e programas das áreas governativas da ciência, tecnologia e ensino superior e educação, procedendo ao respetivo acompanhamento e avaliação;
 
-f) Desenvolver e coordenar estudos sobre os sistemas educativo, científico e tecnológico;
+f) (Revogada.)
 
 g) (Revogada.)
 
@@ -32,8 +32,12 @@ m) (Revogada.)
 
 n) (Revogada.)
 
-o) Garantir, a nível nacional, a inquirição e observação dos instrumentos dos sistemas educativo, científico e tecnológico, definidos nos quadros europeu e na Organização para a Cooperação e o Desenvolvimento Económico (OCDE);
+o) (Revogada.)
 
 p) Assegurar a articulação com estruturas congéneres, a nível nacional e internacional, tendo em vista a harmonização estatística e a intercomunicabilidade de dados, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;
 
-q) Assegurar o desempenho das actividades da Unidade Portuguesa da Rede Eurydice.
+q) (Revogada.)
+
+r) Desenvolver análises descritivas de indicadores estatísticos no âmbito dos sistemas educativo,
+
+científico e tecnológico.
