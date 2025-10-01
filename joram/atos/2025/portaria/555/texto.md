@@ -1,0 +1,34 @@
+# Portaria n.º 555/2025
+
+**Emissor:** SECRETARIA REGIONAL DAS FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 171/2025, 3.º suplemento, de 2025-10-01
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais relativos à aquisição de vinte veículos automóveis, no âmbito do protocolo celebrado entre a Região Autónoma da Madeira e a Polícia de Segurança Pública, no valor de 745.899,74 €, a que acresce IVA à taxa legal em vigor. Portaria n.º 556/2025 Procede à redistribuição e alteração dos encargos orçamentais previstos na Portaria n.º 387/2025, de 22 de julho, publicada no Suplemento do Jornal Oficial, I Série, n.º 125, referentes ao contrato de arrendamento não habitacional a celebrar pela Agência de Inovação e Modernização da Região Autónoma da Madeira, IP-RAM, que tem como objeto a fração autónoma “O”, com a área total de 97m2, inserida no prédio urbano constituído em regime de propriedade horizontal denominado “Edifício Arriaga”, sito à Avenida Arriaga n.º 42 B, Sala 3.7, da freguesia da Sé, concelho do Funchal, com fim destinado a comércio ou serviços, no valor global de 186.613,68 €.
+
+## Texto
+
+Portaria n.º 555/2025
+de 1 de outubro
+Sumário: Autoriza a distribuição dos encargos orçamentais relativos à aquisição de vinte veículos automóveis, no âmbito do protocolo celebrado entre a Região Autónoma da Madeira e a Polícia de Segurança Pública, no valor de 745.899,74 €, a que acresce IVA à taxa legal em vigor.
+Texto: Dando cumprimento ao disposto nos números 1 e 2, do artigo 22.º, do Decreto-Lei n.º 197/99, de 8 de Junho, por referência à alínea f) do n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de Janeiro, e n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, e para efeitos do n.º 1 do artigo 29.º e artigo 34.º do Decreto Legislativo Regional n.º 2/2025/M, de 2 de julho, e do n.º 1 do artigo 23.º do Decreto Regulamentar Regional n.º 11/2025/M, de 22 de agosto, manda o Governo Regional, através do Secretário Regional das Finanças, o seguinte:
+1. Os encargos orçamentais relativos à aquisição de vinte veículos automóveis no âmbito do protocolo celebrado entre a Região Autónoma da Madeira e a Polícia de Segurança Pública, no valor de 745.899,74 €, a que acresce IVA à taxa legal em vigor, encontram-se escalonados na forma abaixo indicada:
+Ano económico 2025 ................................................................................................ 0,00 € Ano económico 2026 ..................................................................................... 745.899,74 €
+2. As verbas necessárias para o ano económico de 2026 serão inscritas na respetiva proposta de orçamento da Região Autónoma da Madeira para esse ano.
+3. Esta Portaria entra em vigor no dia seguinte ao da sua publicação.
+Assinada em 25 de setembro de 2025.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Duarte Nuno Nunes de Freitas
+
+Portaria n.º 556/2025
+de 1 de outubro
+Sumário: Procede à redistribuição e alteração dos encargos orçamentais previstos na Portaria n.º 387/2025, de 22 de julho, publicada no Suplemento do Jornal Oficial, I Série, n.º 125, referentes ao contrato de arrendamento não habitacional a celebrar pela Agência de Inovação e Modernização da Região Autónoma da Madeira, IP-RAM, que tem como objeto a fração autónoma “O”, com a área total de 97m2, inserida no prédio urbano constituído em regime de propriedade horizontal denominado “Edifício Arriaga”, sito à Avenida Arriaga n.º 42 B, Sala 3.7, da freguesia da Sé, concelho do Funchal, com fim destinado a comércio ou serviços, no valor global de 186.613,68 €.
+Texto: Dando cumprimento ao disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho e considerando o disposto na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, nas suas atuais redações, no n.º 1 do artigo 29.º do Decreto Legislativo Regional n.º 2/2025/M, de 2 de julho, retificado pela Declaração de Retificação n.º 1/2025/M/1, de 9 de julho e no n.º 1 do artigo 23.º do Decreto Regulamentar n.º 11/2025/M, de 22 de agosto, manda o Governo Regional, através do Secretário Regional das Finanças, o seguinte:
+1. Redistribuir e alterar os encargos orçamentais previstos na Portaria n.º 387/2025, de 21 de julho, publicada na I Série, número 125, em Suplemento, no Jornal Oficial da Região Autónoma da Madeira, de 22 de julho, referentes ao contrato de arrendamento não habitacional a celebrar pela Agência de Inovação e Modernização da Região Autónoma da Madeira, IP-RAM, que tem como objeto a fração autónoma “O”, com a área total de 97m2, inserida no prédio urbano constituído em regime de propriedade horizontal denominado “Edifício Arriaga”, sito à Avenida Arriaga n.º 42 B, Sala 3.7, da freguesia da Sé, concelho do Funchal, com fim destinado a comércio ou serviços, no valor global de 186.613,68 € (Cento e oitenta e seis mil seiscentos e treze euros e sessenta e oito cêntimos), a que corresponde uma renda mensal de 2.900,00 € (Dois mil e novecentos euros), e respetivas atualizações, isento de IVA, nos termos do disposto no n.º 29 do artigo 9.º do Código do IVA, que ficam escalonados na forma abaixo indicada:
+Ano Económico de 2025 .................................................................................. 11.600,00 €; Ano Económico de 2026 .................................................................................. 35.104,50 €; Ano Económico de 2027 .................................................................................. 36.333,15 €; Ano Económico de 2028 .................................................................................. 37.604,79 €; Ano Económico de 2029 ................................................................................. 38.920,95 €; Ano Económico de 2030 .................................................................................. 27.050,29 €.
+
+2. Estabelecer que o montante fixado no número anterior para cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
+3. Quando os valores das atualizações anuais das rendas previstas no contrato sejam superiores ao valor de 3,5% previstos na presente Portaria, o montante dessas atualizações acresce à importância fixada para cada ano económico.
+4. A despesa em causa tem cabimento orçamental no orçamento da Agência de Inovação e Modernização da Região Autónoma da Madeira, IP RAM em 2025 na rubrica com a classificação orgânica 47 1 03 01 00, classificação económica D.02.02.04.S0.00, classificação funcional 130, fonte de financiamento 522, programa 041, medida 004, com os números de cabimento 88 e com o número de compromisso 77.
+5. A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretaria Regional das Finanças, aos 30 dias do mês de setembro de 2025.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Duarte Nuno Nunes de Freitas
