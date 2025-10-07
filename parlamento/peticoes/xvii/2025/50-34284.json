@@ -1,0 +1,120 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34284",
+  "numero": "50",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-10-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-02-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "L"
+              ],
+              "data": "2026-02-04",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I><BR>Ausência: <I>IL</I>, <I> L</I>",
+              "id": "170656",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "21",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-12-17",
+        "DataArquivo": "2026-02-04",
+        "DataBaixaComissao": "2025-10-13",
+        "DataEnvioPAR": "2026-02-24",
+        "DataReaberta": "2025-12-17",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-02-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738764d6a6c6959324979595467745a6a466d4e693030596a6b334c546c6c4d6a55744d6d56695a5467354d7a59774d7a686b4c6e426b5a673d3d&fich=29bcb2a8-f1f6-4b97-9e25-2ebe8936038d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8448",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas ",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-02-04",
+            "dataNomeacao": "2026-01-20",
+            "gp": "CH",
+            "id": "8918",
+            "motivoCessacao": "Entrega relatório ",
+            "nome": "Ricardo Dias Pinto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-12-16",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a593259774e5751304f53307759546b354c5452694e4441744f475669597930344f444d795a54457a5a44426b597a63756347526d&fich=ccf05d49-0a99-4b40-8ebc-8832e13d0dc7.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2025-10-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938315a5451325a5446685a69316a4f4752684c5451784e446b7459544d775953316a4d6a45774d7a41344d7a4e6b4f574d756347526d&fich=5e46e1af-c8da-4149-a30a-c21030833d9c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34284",
+    "PetAssunto": "Portugal deve impedir o trânsito de material militar para-Israel",
+    "PetDataEntrada": "2025-10-07",
+    "PeticoesAssociadas": null,
+    "PetId": "34284",
+    "PetLeg": "XVII",
+    "PetNr": "50",
+    "PetNrAssinaturas": "3207",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
