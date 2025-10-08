@@ -6,7 +6,7 @@
 
 a) No continente: Viana do Castelo, Matosinhos, Figueira da Foz, Peniche, Sesimbra, Sines e Olhão;
 
-b) Na Região Autónoma da Madeira: Funchal e Caniçal;
+b) Na Região Autónoma da Madeira: Funchal, Caniçal, Porto Santo, Porto Moniz e Paul do Mar;
 
 c) Na Região Autónoma dos Açores:
 

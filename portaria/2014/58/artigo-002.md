@@ -6,7 +6,7 @@ Os portos designados para a descarga de qualquer mistura de produtos da pesca co
 
 a) No Continente: Viana do Castelo, Póvoa do Varzim, Matosinhos, Aveiro, Figueira da Foz, Nazaré, Peniche, Sesimbra, Setúbal, Sines, Sagres, Portimão, Olhão e Vila Real de Santo António;
 
-b) Na Região Autónoma da Madeira: Funchal, Caniçal, Porto Moniz e Porto Santo;
+b) Na Região Autónoma da Madeira: Funchal, Caniçal, Porto Moniz, Paul do Mar e Porto Santo;
 
 c) Na Região Autónoma dos Açores:
 
