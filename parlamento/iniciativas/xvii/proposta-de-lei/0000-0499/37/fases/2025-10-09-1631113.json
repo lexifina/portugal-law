@@ -1,0 +1,259 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "37",
+    "id": "315671",
+    "titulo": "Orçamento do Estado para 2026"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-10-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87778",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2025-10-24",
+            "id": "159589",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-10-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2025-11-15",
+        "DatainicioApreciacaoPublica": "2025-10-16",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-07-22",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Confederação Portuguesa das Colectividades de Cultura, Recreio e Desporto",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e5449345a6d45305969316c5a6a55344c5451784e7a5174595459784e7930344d544534597a55314e6a6c69595441756347526d&fich=5528fa4b-ef58-4174-a617-8118c5569ba0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-09-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Associação dos Inquilinos Lisbonenses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e4441334e574d344e5330324d5441344c5451344e6a49744f444e685a53303559574e6c5a6a5a6d596a5a684d4451756347526d&fich=b4075c85-6108-4862-83ae-9acef6fb6a04.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-09-08",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Associação Lisbonense de Proprietários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334f574d304d546c684d7930334f4745784c5451334d546774595451794d53316b4e57566d4d5449795a6a426d4d6a45756347526d&fich=79c419a3-78a1-4718-a421-d5ef122f0f21.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-09-22",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Domingos Mendes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334e6a4269596a59324f5330774e546c6d4c5451355a4751744f4755354d4330774d6d49795a444d784d4759334e6a45756347526d&fich=760bb669-059f-49dd-8e90-02b2d310f761.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-06",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Mecanismo Nacional de Monitorização da Implementação da Convenção sobre os Direitos das Pessoas com Deficiência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794f446b334e6a42685a53316c597a51324c5452694e3251744f575531595330324d7a67774d4749344f444a6d4e7a6b756347526d&fich=289760ae-ec46-4b7d-9e5a-63800b882f79.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-07",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Associação pela Mobilidade Urbana em Bicicleta",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d324a6d4d6d5a6a5a5330354e6d4d794c54526a4d474974596a5178595331694e546c6b4d546469597a55334e544d756347526d&fich=73bf2fce-96c2-4c0b-b41a-b59d17bc5753.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CFP - Previsões macroeconómicas subjacentes à Proposta de Orçamento do Estado para 2026",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d3249344d4746684e6930345a44557a4c54526c4d5445744f544a694e79307a5a5446694d6a45344e6d45314e4451756347526d&fich=b3b80aa6-8d53-4e11-92b7-3e1b2186a544.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-13",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Confederação Nacional de Reformados, Pensionistas e Idosos ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d47566c4d6d5a6b4d69307a4e6a4d344c54526a4e575574596d52694d5330775a44686d59546378596d4e685a6a6b756347526d&fich=30ee2fd2-3638-4c5e-bdb1-0d8fa71bcaf9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-16",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Maria Elisabete Ferreira - Habitação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e7a4e684f545a6d4f5330324e544d774c5451334d6a51744f4468684d69307959325a69597a6730597a466d596a4d756347526d&fich=173a96f9-6530-4724-88a2-2cfbc84c1fb3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-16",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Maria Elisabete Ferreira - Trabalhadores Função Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a47466d59324d355a5330304d4442694c5452684d4459744f4756684d5330785a474935596a6b79595445355a6d55756347526d&fich=1dafcc9e-400b-4a06-8ea1-1db9b92a19fe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Associação Portuguesa de Cuidados Paliativos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d6a4d355a54686c4e433078595445314c54517a4e5751744f4749794e43316c4d544d7a4e7a426c596a67774d544d756347526d&fich=9239e8e4-1a15-435d-8b24-e13370eb8013.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-20",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Sindicato Independente dos Agentes de Polícia",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d7a5a6b595463354f4330325a47466a4c5451334d6a6b74596d51334d7930314e7a4e6d5a6a41774f475577597a55756347526d&fich=a36da798-6dac-4729-bd73-573ff008e0c5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-20",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Plataforma das Funções Soberanas do Estado",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f44526d4e6d49774e5330785a4755314c5451775a574d74596a6c695a4331685954686a596d526a596d4e6d595451756347526d&fich=584f6b05-1de5-40ec-b9bd-aa8cbdcbcfa4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-22",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório UTAO - Apreciação preliminar da Proposta de Orçamento do Estado para 2026",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4f444d315932517a4f5330304d7a4e684c545179596a63744f474a6d4d53316b5932466a5a5755304f47526a4d5749756347526d&fich=c835cd39-433a-42b7-8bf1-dcacee48dc1b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANMP - Associação Nacional de Munícipios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d4451775a5749334f53316c4d6a52684c54526b4e545174595751334f5330354f575669593259334d474a6d4d6d45756347526d&fich=0040eb79-e24a-4d54-ad79-99ebcf70bf2a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-23",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório Final COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938305a54646d5a6d566c5a6930774e44686c4c545179595451744f54557859693078596d4534596d4669597a526a4d4441756347526d&fich=4e7ffeef-048e-42a4-951b-1ba8babc4c00.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-23",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório CFP - Análise da proposta de Orçamento do Estado para 2026",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a444e6b59574a6d4e5330304d5449324c5451305a446774595455784d433168596d52694d5751355a546731595467756347526d&fich=bd3dabf5-4126-44d8-a510-abdb1d9e85a8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-23",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Liga Portuguesa dos Bombeiros Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e5759305a6a457a4e6930794d474e6d4c5451314f4749744f44526a4e43316b4d5746694d4445325a444a6c4d5455756347526d&fich=e5f4f136-20cf-458b-84c4-d1ab016d2e15.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-24",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANAFRE - Associação Nacional de Freguesias ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793879595759334d444a6d4e43316c595441794c54517a4d7a4d745957566b4d7930774d324a684f446b355a44466c4d6a51756347526d&fich=2af702f4-ea02-4333-aed3-03ba899d1e24.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-24",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Confederação Empresarial de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383159325131596a6b334e4330775a474a6c4c5451344f4455744f4745334f4330325a544e6b4d3249784f4745355a6d55756347526d&fich=5cd5b974-0dbe-4885-8a78-6e3d3b18a9fe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-24",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Sindicato Independente de Professores e Educadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a544d355a444a6d4e4330794e544e684c5452694f5459744f57466b4e5330315a6a51354f475a684d4451335a4467756347526d&fich=ae39d2f4-253a-4b96-9ad5-5f498fa047d8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-28",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo FNSTFPS - Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354e4459345a54526b4d43307a5a6a45344c5451794d6d4574596a51354d43316c4e54677859325a695932526b5a5451756347526d&fich=9468e4d0-3f18-422a-b490-e581cfbcdde4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-10-28",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CNPD - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e444d314d54686d59793035597a45334c5452685a57597459574e6c5a69316c4f5752684f5445335a5749795a6a55756347526d&fich=f43518fc-9c17-4aef-acef-e9da917eb2f5.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8451",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública ",
+        "Numero": "8451",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7888",
+            "motivoCessacao": null,
+            "nome": "António Mendonça Mendes"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-10-23",
+            "dataRemessa": "2025-10-23",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "IL",
+              "L",
+              "PCP",
+              "BE",
+              "PAN"
+            ],
+            "data": "2025-10-23",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> CDS-PP</I><BR>Ausência: <I>IL</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>",
+            "id": "139994",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "22",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-10-09",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1631113",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
