@@ -1,0 +1,160 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34292",
+  "numero": "54",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-10-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-12-02",
+        "DataArquivo": "2026-02-24",
+        "DataBaixaComissao": "2025-10-22",
+        "DataEnvioPAR": "2026-02-25",
+        "DataReaberta": "2025-12-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-12-04",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3251774d7a6b7a5a6a63314c5452684e3251744e446334597930344d6a63794c5749354d7a41325a6d55794e544e694e7935775a47593d&fich=d0393f75-4a7d-478c-8272-b9306fe253b7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-02-27",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a517a596a517859574a684c544d7a4d7a4d744e47526d4d4330344f546b304c5745775a6a67344d6d466a4d6a55335a6935775a47593d&fich=43b41aba-3333-4df0-8994-a0f882ac257f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-12-04",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a6c685932466b4d6d49314c5745334d4759744e445931597931684f575a694c545177597a63774d6a4d35596d52684f4335775a47593d&fich=9acad2b5-a70f-465c-a9fb-40c70239bda8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-12-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c324535597a59334d7a6b334c574d784f4449744e4441324e6931685a6a4d354c5464685957526d4d4463314d324d324e4335775a47593d&fich=a9c67397-c182-4066-af39-7aadf0753c64.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2025-12-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3251334e5759314e4755324c54566a4d444d744e44557a5a4330355957466c4c54566d4d5459314e3259794d6a6c6b4e5335775a47593d&fich=d75f54e6-5c03-453d-9aae-5f1657f229d5.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-02-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3249344e6a67324f5441334c5749794e7a59744e4455344e4330344d6d4d354c5745304d3259774e4445304d6a5179595335775a47593d&fich=b8686907-b276-4584-82c9-a43f0414242a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2025-12-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a677a4d6a646b4e57526a4c54457a4d3249744e4755785a6931684d574e6b4c5756684e6d4d7a4d7a67314e32466c5a5335775a47593d&fich=8327d5dc-133b-4e1f-a1cd-ea6c33857aee.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-12-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a426a4d7a55794f57497a4c54637a4e4749744e4441795a5331685a6d51784c5751335a5449345a6a55335a54566b5a4335775a47593d&fich=0c3529b3-734b-402e-afd1-d7e28f57e5dd.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8458",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto ",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2025-12-02",
+            "gp": "PSD",
+            "id": "9149",
+            "motivoCessacao": null,
+            "nome": "Joana Seabra"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-10-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793834597a67304f44466959793032596d566a4c5452694d574d74596d4e694f43316c4e3245314e6d51334e7a5a6a596a41756347526d&fich=8c8481bc-6bec-4b1c-bcb8-e7a56d776cb0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2025-10-28",
+        "TipoDocumento": "Link",
+        "URL": "https://www.instagram.com/reel/DKe4qeVsnbO/?igsh=MnBrcWY5dWk4MjNh"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34292",
+    "PetAssunto": "Proibição de músicas com conteúdo sexualizado em contextos e eventos direcionados a crianças",
+    "PetDataEntrada": "2025-10-14",
+    "PeticoesAssociadas": null,
+    "PetId": "34292",
+    "PetLeg": "XVII",
+    "PetNr": "54",
+    "PetNrAssinaturas": "17660",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Proposta para apreciação em plenário",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
