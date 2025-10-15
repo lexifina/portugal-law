@@ -1,0 +1,69 @@
+Portaria n.º 359/2025/1
+de 14 de outubro
+O XXV Governo Constitucional, reconhecendo a centralidade dos professores no sistema educativo e o seu contributo para o desenvolvimento do País, assumiu, no seu Programa, o compromisso da adoção de medidas que valorizem a profissão docente e que promovam a atração de novos profissionais para a escola pública, designadamente quanto à adequação da formação inicial e da formação contínua dos docentes, em consonância com as necessidades dos professores e do sistema educativo.
+
+Neste quadro, o Governo, através do Decreto-Lei n.º 9-A/2025, de 14 de fevereiro, procedeu à revisão do Decreto-Lei n.º 79/2014, de 14 de maio, que aprova o regime jurídico da habilitação profissional para a docência na educação pré-escolar e nos ensinos básico e secundário, com vista, designadamente, a apostar na formação de educadores e de docentes para o exercício de funções nos estabelecimentos de educação pré-escolar e nos ensinos básico e secundário.
+
+O Decreto-Lei n.º 79/2014, de 14 de maio, alterado e republicado pelo Decreto-Lei n.º 9-A/2025, de 14 de fevereiro, determina, no n.º 1 do seu artigo 22.º, que os estabelecimentos de ensino superior que pretendam organizar e ministrar ciclos de estudos que visam a aquisição de habilitação profissional para a docência devem celebrar protocolos de cooperação com estabelecimentos de educação pré-escolar e de ensino básico e secundário, designados «escolas cooperantes», com vista ao desenvolvimento de atividades de iniciação à prática profissional, incluindo a prática de ensino supervisionada.
+
+De acordo com o disposto nos n.<sup>os </sup>16 e 17 do artigo 23.º-A do Decreto-Lei n.º 79/2014, de 14 de maio, na sua redação atual, é reconhecido aos estudantes o direito a uma bolsa a ser atribuída durante os dois últimos semestres do mestrado que coincidam com prática de ensino supervisionada em estabelecimentos de educação pré-escolar e de ensino básico e secundário, sendo as condições de atribuição e os montantes dessa bolsa definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+Assim:
+
+Nos termos do disposto no n.º 17 do artigo 23.º-A do Decreto-Lei n.º 79/2014, de 14 de maio, alterado e republicado pelo Decreto-Lei n.º 9-A/2025, de 14 de fevereiro, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Educação, Ciência e Inovação, o seguinte:
+
+Artigo 1.º
+
+Objeto
+
+A presente portaria define as condições e os montantes das bolsas a atribuir aos estudantes de mestrado com prática de ensino supervisionada em estabelecimentos de educação pré-escolar e de ensino básico e secundário, nos termos do disposto no n.º 17 do artigo 23.º-A do Decreto-Lei n.º 79/2014, de 14 de maio, alterado e republicado pelo Decreto-Lei n.º 9-A/2025, de 14 de fevereiro.
+
+Artigo 2.º
+
+Âmbito de aplicação
+
+As bolsas reguladas na presente portaria são atribuídas aos estudantes que frequentem os dois últimos semestres do mestrado que coincidam com prática de ensino supervisionada em estabelecimentos de educação pré-escolar e de ensino básico e secundário, com os quais os estabelecimentos de ensino superior que organizem e ministrem ciclos de estudos que visam a aquisição de habilitação profissional para a docência tenham celebrado protocolos de cooperação, designados «escolas cooperantes», nos termos previstos no Decreto-Lei n.º 79/2014, de 14 de maio, na sua redação atual.
+
+Artigo 3.º
+
+Conceito e montante da bolsa
+
+1 - A bolsa regulada na presente portaria é uma prestação pecuniária atribuída a cada estudante que esteja inscrito nos dois últimos semestres do mestrado que coincidam com prática de ensino supervisionada em estabelecimento de educação pré-escolar ou de ensino básico e secundário na dependência do Ministério da Educação, Ciência e Inovação, nos termos do Decreto-Lei n.º 79/2014, de 14 de maio, na sua redação atual, e do artigo anterior.
+
+2 - A bolsa atribuída ao estudante corresponde ao montante de € 3600,00, por ano escolar, e é paga fracionadamente, em 10 prestações mensais, pela respetiva escola cooperante.
+
+3 - As bolsas reguladas na presente portaria são suportadas por verbas inscritas anualmente no orçamento do Instituto de Gestão Financeira da Educação, I. P., ou na entidade que lhe suceda, que, para o efeito do disposto no número anterior e no artigo seguinte, disponibiliza a cada uma das escolas cooperantes os montantes a pagar.
+
+Artigo 4.º
+
+Pagamento da bolsa
+
+1 - A escola cooperante procede ao pagamento da bolsa diretamente ao estudante respetivo, através de transferência bancária.
+
+2 - Para o efeito do disposto no número anterior, o estudante deve apresentar os seguintes elementos:
+
+a) Comprovativo da frequência de semestre de prática de ensino supervisionada no respetivo curso de mestrado que visa a aquisição de habilitação profissional para a docência em estabelecimento de ensino superior que tenha celebrado protocolo de cooperação para a realização dessa componente de formação prática naquela escola cooperante;
+
+b) Comprovativo da aprovação na unidade curricular que concretiza a prática de ensino supervisionada, caso já tenha tido lugar a respetiva avaliação;
+
+c) Comprovativo do número internacional de conta bancária/international bank account number (IBAN); e
+
+d) Comprovativo ou comprovativos da inexistência de dívidas fiscais e de dívidas à segurança social em vigor.
+
+Artigo 5.º
+
+Aplicação no tempo
+
+A presente portaria é aplicável a partir do início do ano escolar de 2025-2026, inclusive.
+
+Artigo 6.º
+
+Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de setembro de 2025.
+
+Em 1 de outubro de 2025.
+
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre.
+
+119623347
