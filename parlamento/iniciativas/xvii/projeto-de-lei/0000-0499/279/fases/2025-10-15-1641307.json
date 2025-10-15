@@ -1,0 +1,155 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "279",
+    "id": "315727",
+    "titulo": "Elevação da Povoação Vila Cova de Alva à Categoria de Vila Histórica"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2025-10-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "87823",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-10-15",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-10-16",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=510"
+          },
+          {
+            "DataDocumento": "2025-12-03",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5467345a6d453159575574596a6b3559693030596d517a4c5745344d4459745a5449795a546b794e6a4d31597a646c4c6e426b5a673d3d&fich=988fa5ae-b99b-4bd3-a806-e22e92635c7e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-10",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório do Projeto de Lei n.º 279/XVII/1 (PSD/CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a45304f57526a4d4455744e7a51314d6930304e574a6a4c574a684d6d51744d7a51774d6a56694f4449794f5467314c6e426b5a673d3d&fich=f149dc05-7452-45bc-ba2d-34025b822985.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-18",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4459324d6d4d315a6d4d744d5751775a4330304d4463304c5749344e6a4974597a4e6d4f4751785a544d32597a64694c6e426b5a673d3d&fich=d662c5fc-1d0d-4074-b862-c3f8d1e36c7b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4451324e6a646a4d7a59744e5463344f4330304f546b774c5467324d4451745a4445774d3251344d44597a5a5445784c6e426b5a673d3d&fich=84667c36-5788-4990-8604-d103d8063e11.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Arganil em 2026-01-08"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4451324e6a646a4d7a59744e5463344f4330304f546b774c5467324d4451745a4445774d3251344d44597a5a5445784c6e426b5a673d3d&fich=84667c36-5788-4990-8604-d103d8063e11.pdf&Inline=true",
+            "nome": "Câmara Municipal de Arganil em 2026-01-08"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a513259575134593259745a545a685a433030595751334c5467344e575574595756695a54637a5a4749314e6a49344c6e426b5a673d3d&fich=746ad8cf-e6ad-4ad7-885e-aebe73db5628.pdf&Inline=true",
+            "nome": "Assembleia de Freguesias de Vila Cova de Alva e Anceriz em 2025-11-03"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4451324e6a646a4d7a59744e5463344f4330304f546b774c5467324d4451745a4445774d3251344d44597a5a5445784c6e426b5a673d3d&fich=84667c36-5788-4990-8604-d103d8063e11.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Arganil em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4451324e6a646a4d7a59744e5463344f4330304f546b774c5467324d4451745a4445774d3251344d44597a5a5445784c6e426b5a673d3d&fich=84667c36-5788-4990-8604-d103d8063e11.pdf&Inline=true",
+            "nome": "Câmara Municipal de Arganil em 2025-10-27"
+          },
+          {
+            "link": "",
+            "nome": "União das Freguesias De Vila Cova de Alva e Anseriz em 2025-10-27"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a513259575134593259745a545a685a433030595751334c5467344e575574595756695a54637a5a4749314e6a49344c6e426b5a673d3d&fich=746ad8cf-e6ad-4ad7-885e-aebe73db5628.pdf&Inline=true",
+            "nome": "Assembleia de Freguesias de Vila Cova de Alva e Anceriz em 2025-10-27"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "9149",
+            "motivoCessacao": null,
+            "nome": "Joana Seabra"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2026-02-10",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> CDS-PP</I>, <I> JPP</I>",
+            "id": "171108",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "21",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-10-15",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1641307",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
