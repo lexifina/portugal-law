@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-10-15, processo 0651/23.5BEVIS
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0651/23.5BEVIS
+
+**Data do Acordão:** 10/15/2025
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PEDRO VERGUEIRO
+
+**Descritores:** IMPUGNAÇÃO JUDICIAL; PARQUE EÓLICO; VALOR PATRIMONIAL TRIBUTÁRIO; AEROGERADORES
+
+**Nº Convencional:** JSTA000P34415
+
+**Nº do Documento:** SA2202510150651/23
+
+**Recorrente:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A..., LDA.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A jurisprudência deste Tribunal ao caracterizar o parque eólico como prédio para efeitos de IMI assenta no facto de estarmos perante uma universalidade de equipamentos, com implantação física no terreno, que constitui um parque eólico, reúne as características de construção incorporada ou assente em fracção de território, com carácter de permanência, dotada de autonomia económica em relação a este [ao terreno] e integrada no património de uma pessoa singular ou colectiva.
+
+II - A segunda avaliação foi feita de acordo com a Portaria nº 11/2017, de 09-01, em cujo anexo se prevê na lista de categoria de prédios, os centros electroprodutores entre outros, para cuja avaliação se determina a aplicabilidade do método previsto no artigo 46º nº 2 do CIMI, a saber, o método do “Custo adicionado do valor do terreno”, tendo atribuído valor às fundações, às torres dos aerogeradores e a dois edifícios de comando.
+
+III - Na situação do “parque eólico” nenhum dos elementos que fazem parte do mesmo ganha autonomia para efeitos de qualificação como prédio, pois só a conjugação de todos eles permite reunir os requisitos de prédio para efeitos fiscais, o que significa que não existe fundamento “a priori” para afastar a inclusão dos aerogeradores na determinação do valor do parque eólico, já que se trata de um dos elementos preponderantes da sua composição e que mais revela o valor intrínseco do prédio assim configurado.
+
+IV - Acresce que o facto de poderem ser objecto de remoção ou substituição, seja pelo decurso da sua vida útil, seja pelos avanços tecnológicos, certo é que essa situação não põe em causa o seu assentamento no solo com carácter de permanência, tal como este está definido nos nºs 2 e 3 do artigo 2º do CIMI.
