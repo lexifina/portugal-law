@@ -1,0 +1,1554 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "327",
+    "id": "315672",
+    "titulo": "Valorização da carreira de Bombeiro Sapador"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2025-10-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61507",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2025-10-17",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315586",
+        "leg": "XVII",
+        "nr": "212",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315694",
+        "leg": "XVII",
+        "nr": "262",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos, procedendo à alteração de diversos diplomas"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315485",
+        "leg": "XVII",
+        "nr": "245",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a valorização dos bombeiros das Associações Humanitárias de Bombeiros\n"
+      },
+      {
+        "autor": "JPP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315489",
+        "leg": "XVII",
+        "nr": "249",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315695",
+        "leg": "XVII",
+        "nr": "338",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315717",
+        "leg": "XVII",
+        "nr": "347",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56771",
+            "obs": null,
+            "pag": [
+              "73-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-10-18",
+            "pubLeg": "XVII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a valorização da profissão de bombeiro "
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-10-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro\nprocedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468889",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468890",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468891",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/75?pgs=75-76&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468892",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8230",
+                "nome": "André Rijo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468893",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/77?pgs=77&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7257",
+                "nome": "Andreia Galvão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468894",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/78?pgs=78&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7331",
+                "nome": "Rui Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468895",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/78?pgs=78&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468896",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/79?pgs=79&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7317",
+                "nome": "João Antunes dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/94"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468897",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/79?pgs=79-81&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7353",
+                "nome": "Luís Paulo Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468898",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7317",
+                "nome": "João Antunes dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/96"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468899",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/82?pgs=82&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:30",
+            "horaTermo": "14:09",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/27/97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "468900",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-10-18",
+                "pubLeg": "XVII",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo da República um novo regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras, por via de um aditamento ao Decreto-Lei n.º 86/2019, de 2 de julho; Aumenta o valor da retribuição-base e estabelece o direito à perceção de subsídio de turno e de diuturnidades por parte dos bombeiros que integram as equipas de intervenção permanente; Cria um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras e assegura a valorização dos bombeiros e os seus direitos; Recomenda a valorização dos bombeiros das associações humanitárias de bombeiros; Valorização da carreira de bombeiro sapador; Recomenda ao Governo que no âmbito do Decreto-Lei n.º 86/2019, de 2 de julho, proceda à criação de um regime excecional e transitório de equiparação de bombeiros sapadores recrutados noutras carreiras; Recomenda a valorização da profissão de bombeiro procedendo à alteração de diversos diplomas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1641358",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1023183",
+        "obs": null,
+        "pag": [
+          "73-83"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-10-18",
+        "pubLeg": "XVII",
+        "pubNr": "27",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/73?pgs=73-83&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
