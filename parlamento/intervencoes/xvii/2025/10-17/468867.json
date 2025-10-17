@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q3tLU3T%2ftQB6kCRTmsviUEw%2fy%2fJMJwprZGZONxeuiw2Awhxt0D4FJNh9Vvu6gd%2fxqOvqPfxMPSMEL8JoRsG6zokbyoNv3F9VMzHBTkJnE562jsPb88udv%2bipg%2bI2%2fJwlALHkYz2hC32ILov%2bpmYyNPQZYnfy9b5%2bE0BWIVBZxQAFH%2fA%2fOvfimA1p2Iq0VhrBGBHCnAKD15twSTJsXYSS0BceMGZQ67ysAp7F3%2bujnnU0HtADMViT4c6gJNSAKjBMCFFWCVEDlu6lZRNU9rXOT1JSfIjIe1eiULgcEQ8rDAXx9757mS%2fqCwH2CE3gCv5atTqGSaBnJ79aLNIXFFahSXVZEV3%2fjRVKMyZj6fZklvY%3d&fich=IntervencoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3236f01f1a16cea27c8f649548948df90008154a381a4d2df53a252155c44361",
+  "legislatura": "XVII",
+  "id": "468867",
+  "tipo": "Interpelação à mesa",
+  "orador": "Rui Tavares (L)",
+  "data_registo": "2025-10-17",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "1641264",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "315166",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Proíbe a ocultação do rosto em espaços públicos salvo determinadas exceções\n\n"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Em Interpelação à Mesa, solicita a distribuição ata com a transcrição do Plenário, defendendo que foi claro sobre a quem dirigiu a expressão \"gajos\".",
+        "duracao": "00:01:20.825",
+        "tipoIntervencao": "Interpelação à mesa",
+        "url": "https://av.parlamento.pt/videos/Plenary/17/1/27/49"
+      }
+    ],
+    "DataReuniaoPlenaria": "2025-10-17",
+    "Debate": null,
+    "Deputados": {
+      "GP": "L",
+      "idCadastro": "7337",
+      "nome": "Rui Tavares"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "468867",
+    "IdDebate": "61478",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "315166",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "468867",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "41-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-10-18",
+        "pubLeg": "XVII",
+        "pubNr": "27",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/027/2025-10-18/41?pgs=41-42&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Solicita a distribuição ata com a transcrição do Plenário, defendendo que foi claro sobre a quem dirigiu a expressão \"gajos\"",
+    "Sessao": "1",
+    "Sumario": "Projeto de Lei 47/XVII/1",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Interpelação à mesa"
+  }
+}
