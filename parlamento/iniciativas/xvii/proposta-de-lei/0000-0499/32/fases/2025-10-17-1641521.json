@@ -1,0 +1,178 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "32",
+    "id": "315595",
+    "titulo": "Assegura a execução do Regulamento (UE) 2023/1114, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) n.º 1093/2010, e (UE) n.º 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2025-10-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "87843",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2025-10-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2025-10-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PSD e GP CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793834597a41774f574d785a69316b4d54686b4c5451774e444574596d56694d6930775a6d49334d54526a4e6d4a6a595755756347526d&fich=8c009c1f-d18d-4041-beb2-0fb714c6bcae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-11-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d6d4d335a546b314d53307a4e7a566b4c5451774e4445744f54426a4e7930334e324d7a5a444d314e474d324e4751756347526d&fich=a2c7e951-375d-4041-90c7-77c3d354c64d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-12-03",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resultado das Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938355a446b314e475a6b4d793078597a55324c54526d4f444974595441345a5330354d57557859544e694d446b334d6a6b756347526d&fich=9d954fd3-1c56-4f82-a08e-91e1a3b09729.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2025-12-03",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e5445334f574a6a5953316c4e546b774c5451324e7a5174596a63334e5330334d5756684f475a6a4f5751795a5459756347526d&fich=b5179bca-e590-4674-b775-71ea8fc9d2e6.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8451",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública ",
+        "Numero": "8451",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f44497a4f445933595331684f446c6b4c5451314e6d4d74596a4a6a4d6931685a6d51324e5463354e6d55354d7a41756347526d&fich=0823867a-a89d-456c-b2c2-afd65796e930.pdf&Inline=true",
+            "nome": "Banco de Portugal em 2025-11-21"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e5468684f4449344d7930794d546c6a4c54526d4f4467744f5467315a69316d4e7a6b324e5452695a5751354e5449756347526d&fich=d58a8283-219c-4f88-985f-f79654bed952.pdf&Inline=true",
+            "nome": "Portugal Fintech em 2025-11-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d7a67314f474a6a4f43307a5a6a55314c5451775a545574596a426a5979316b4e7a55324e444d77596a63795a544d756347526d&fich=43858bc8-3f55-40e5-b0cc-d756430b72e3.pdf&Inline=true",
+            "nome": "Associação Nacional de Instituições de Pagamento e Moeda Eletrónica em 2025-11-21"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a57597a4d6a51314f53316c4d6d4d344c5451354f5459744f4467304e4330324d6d5a6b5a5451314d6a426d595449756347526d&fich=5ef32459-e2c8-4996-8844-62fde4520fa2.pdf&Inline=true",
+            "nome": "Conselho Nacional de Supervisores Financeiros      em 2025-11-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5a44597a595445774d4330334f4749774c5451314d5755744f57526c59693078596a517a4e6a63334e4451794d474d756347526d&fich=dd63a100-78b0-451e-9deb-1b436774420c.pdf&Inline=true",
+            "nome": "Conselho Nacional do Consumo em 2025-11-18"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "CMVM - Comissão de Mercados e Valores Mobiliários em 2025-10-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f44497a4f445933595331684f446c6b4c5451314e6d4d74596a4a6a4d6931685a6d51324e5463354e6d55354d7a41756347526d&fich=0823867a-a89d-456c-b2c2-afd65796e930.pdf&Inline=true",
+            "nome": "Banco de Portugal em 2025-10-24"
+          },
+          {
+            "link": "",
+            "nome": "Federação Portuguesa das Associações da Criptoeconomia em 2025-10-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e5468684f4449344d7930794d546c6a4c54526d4f4467744f5467315a69316d4e7a6b324e5452695a5751354e5449756347526d&fich=d58a8283-219c-4f88-985f-f79654bed952.pdf&Inline=true",
+            "nome": "Portugal Fintech em 2025-10-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d7a67314f474a6a4f43307a5a6a55314c5451775a545574596a426a5979316b4e7a55324e444d77596a63795a544d756347526d&fich=43858bc8-3f55-40e5-b0cc-d756430b72e3.pdf&Inline=true",
+            "nome": "Associação Nacional de Instituições de Pagamento e Moeda Eletrónica em 2025-10-24"
+          },
+          {
+            "link": "",
+            "nome": "AFIP - Associação FinTech e InsurTech em Portugal em 2025-10-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a57597a4d6a51314f53316c4d6d4d344c5451354f5459744f4467304e4330324d6d5a6b5a5451314d6a426d595449756347526d&fich=5ef32459-e2c8-4996-8844-62fde4520fa2.pdf&Inline=true",
+            "nome": "Conselho Nacional de Supervisores Financeiros      em 2025-10-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5a44597a595445774d4330334f4749774c5451314d5755744f57526c59693078596a517a4e6a63334e4451794d474d756347526d&fich=dd63a100-78b0-451e-9deb-1b436774420c.pdf&Inline=true",
+            "nome": "Conselho Nacional do Consumo em 2025-10-24"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2025-12-03",
+            "dataRemessa": "2025-12-03",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2025-12-03",
+            "descricao": "A votações estão disponíveis no documento \"Resultado das votações\"",
+            "detalhe": null,
+            "id": "140094",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "50",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2025-10-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1641521",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
