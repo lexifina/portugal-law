@@ -1,7 +1,21 @@
 # Artigo 217.º
 
-### Segunda distribuição
+### Nova distribuição
 
-1 - Se no ato da distribuição constar que está impedido o juiz a quem o processo foi distribuído, é logo feita segunda distribuição na mesma escala; o mesmo se observa caso, mais tarde, o relator fique impedido ou deixe de pertencer ao tribunal.
+1 - É feita nova distribuição quando o relator ou um dos juízes-adjuntos se encontrem numa das seguintes situações:
 
-2 - Se o impedimento for temporário e cessar antes do julgamento, dá-se baixa da segunda distribuição, voltando a ser relator do processo o primeiro designado e ficando o segundo para ser preenchido em primeira distribuição; se o impedimento se tornar definitivo, subsiste a segunda distribuição.
+a) Fique impedido nos termos dos artigos 115.º a 129.º;
+
+b) Fique impedido nos termos do artigo 661.º por período superior a 60 dias;
+
+c) Fique impedido nos termos do artigo 661.º e o processo distribuído tenha natureza urgente;
+
+d) Deixe de pertencer ao tribunal respetivo.
+
+2 - (Revogado.)
+
+3 - Nas situações previstas no n.º 1, procede-se da seguinte forma:
+
+a) Quando se trate de relator, mantém-se a competência dos adjuntos que tenham visto para julgamento, sendo a distribuição ao relator feita nos termos da alínea a) do n.º 3 do artigo 213.º, e a distribuição aos juízes adjuntos que não tenham visto feita nos termos da alínea b) do n.º 3 do artigo 213.º;
+
+b) Quando se trate de juiz-adjunto mantém-se o relator e o outro juiz-adjunto, sendo a distribuição ao primeiro feita nos termos da alínea b) do n.º 3 do artigo 213.º

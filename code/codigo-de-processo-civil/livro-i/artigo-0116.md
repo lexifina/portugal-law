@@ -8,6 +8,6 @@
 
 3 - Declarado o impedimento, a causa passa ao juiz substituto, com exceção do caso previsto no n.º 2 do artigo 84.º.
 
-4 - Nos tribunais superiores observa-se o disposto no n.º 1 do artigo 217.º, se o impedimento respeitar ao relator, ou a causa passa ao juiz imediato, se o impedimento respeitar a qualquer dos adjuntos.
+4 - Nos tribunais superiores observa-se o disposto no artigo 217.º
 
 5 - É sempre admissível recurso da decisão de indeferimento para o tribunal imediatamente superior.

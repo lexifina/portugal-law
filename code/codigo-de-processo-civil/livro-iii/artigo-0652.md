@@ -24,7 +24,7 @@ g) Declarar a suspensão da instância;
 
 h) Julgar extinta a instância por causa diversa do julgamento ou julgar findo o recurso, por não haver que conhecer do seu objeto.
 
-2 - Na decisão do objeto do recurso e das questões a apreciar em conferência intervêm, pela ordem de antiguidade no tribunal, os juízes seguintes ao relator.
+2 - (Revogado.)
 
 3 - Salvo o disposto no n.º 6 do artigo 641.º, quando a parte se considere prejudicada por qualquer despacho do relator, que não seja de mero expediente, pode requerer que sobre a matéria do despacho recaia um acórdão; o relator deve submeter o caso à conferência, depois de ouvida a parte contrária.
 

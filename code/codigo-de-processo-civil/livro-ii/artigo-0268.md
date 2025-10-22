@@ -2,7 +2,7 @@
 
 ### Apensação de processos em fase de recurso
 
-1 - É aplicável aos processos em fase de recurso o disposto nos n.os 1 e 4 do artigo anterior, com as especialidades previstas nos números seguintes.
+1 - É aplicável aos processos em fase de recurso o disposto nos n.os 1, 4 e 5 do artigo anterior, com as especialidades previstas nos números seguintes.
 
 2 - Apenas pode haver lugar a apensação de processos que estejam pendentes nos tribunais da Relação ou no Supremo Tribunal de Justiça.
 
