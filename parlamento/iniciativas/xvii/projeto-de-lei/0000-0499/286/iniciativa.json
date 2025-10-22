@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "286",
+  "id": "315745",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-10-22",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32566c595441334d5755324c546b304f4467744e474d344d6931685a6d55304c5441314f544d784e6a56684f4751784d6935775a47593d&fich=eea071e6-9488-4c82-afe4-0593165a8d12.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8863",
+        "nome": "Dulcineia Catarina Moura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4396",
+        "nome": "Andreia Neto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8152",
+        "nome": "Almiro Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8698",
+        "nome": "Olga Freire"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4484",
+        "nome": "Marco Claudino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8783",
+        "nome": "Carlos Silva Santiago"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9149",
+        "nome": "Joana Seabra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7406",
+        "nome": "José Lago Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6937",
+        "nome": "Alberto Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7753",
+        "nome": "Andreia Bernardo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9184",
+        "nome": "Bárbara do Amaral Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9628",
+        "nome": "Fernando Queiroga"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7351",
+        "nome": "Francisco Pimentel"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5984",
+        "nome": "Germana Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1478",
+        "nome": "Gonçalo Dinis Capitão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8546",
+        "nome": "Hernâni Dias"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "315745",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a63354d5464694e574a684c575530595751744e44686a4f5331694d6a55784c54426b4e4451774e4467354d5751785a43356b62324e34&fich=7917b5ba-e4ad-48c9-b251-0d4404891d1d.docx&Inline=true",
+    "IniNr": "286",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Primeira alteração à Lei n.º 25-A/2025, de 13 de março, que procede à reposição de freguesias agregadas pela Lei n.º 11-A/2013, de 28 de janeiro, concluindo o procedimento especial, simplificado e transitório de criação de freguesias previsto na Lei n.º 39/2021, de 24 de junho",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
