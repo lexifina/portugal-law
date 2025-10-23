@@ -1,7 +1,3 @@
-## Secção II
-
-## Autorização de residência
-
 ## Subsecção I
 
 ## Autorização de residência para exercício de atividade profissional

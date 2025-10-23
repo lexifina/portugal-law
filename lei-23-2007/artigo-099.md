@@ -33,3 +33,5 @@ b) O seu tutor legal ou qualquer outro familiar, se o refugiado não tiver ascen
 a) Tenha entrado no território nacional não acompanhado nem se encontre a cargo de adulto responsável, por força da lei ou costume; ou
 
 b) Seja abandonado após a sua entrada em território nacional.
+
+6 - O direito ao reagrupamento de cônjuge ou equiparado depende de o casamento ou a união de facto serem válidos e reconhecidos nos termos da lei portuguesa, e de o requerente do reagrupamento e o seu cônjuge ou equiparado terem uma idade mínima de 18 anos à data do pedido.

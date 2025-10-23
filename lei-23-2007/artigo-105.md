@@ -2,10 +2,10 @@
 
 ### Prazo
 
-1 - Logo que possível, e em todo o caso no prazo de três meses, a AIMA, I. P., notifica por escrito a decisão ao requerente.
+1 - O pedido deve ser decidido no prazo de nove meses.
 
-2 - Em circunstâncias excepcionais associadas à complexidade da análise do pedido, o prazo a que se refere o número anterior pode ser prorrogado por três meses, sendo o requerente informado desta prorrogação.
+2 - Com exceção dos casos previstos nos n.os 1 e 2 do artigo 98.º, o prazo a que se refere o número anterior pode ser prorrogado, em circunstâncias excecionais associadas à complexidade da análise do pedido, pelo órgão competente para a decisão final por igual período, sendo o requerente informado desta prorrogação.
 
-3 - Corresponde a deferimento tácito do pedido a ausência de decisão no prazo de seis meses.
+3 - (Revogado.)
 
-4 - Em caso de deferimento tácito, a AIMA, I. P., certifica-o, a pedido do interessado, comunicando-o, no prazo de 48 horas, à Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas, para efeitos de emissão do visto de residência nos termos do artigo 64.º
+4 - (Revogado.)

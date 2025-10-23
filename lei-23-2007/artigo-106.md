@@ -10,7 +10,11 @@ b) Quando o membro da família esteja interdito de entrar e de permanecer em ter
 
 c) Quando a presença do membro da família em território nacional constitua uma ameaça à ordem pública, à segurança pública ou à saúde pública.
 
-2 - Quando à decisão de deferimento de pedido de reagrupamento familiar obstem razões de ordem pública ou segurança pública, devem ser tomadas em consideração a gravidade ou o tipo de ofensa à ordem pública ou à segurança pública cometida pelo familiar, ou os perigos que possam advir da permanência dessa pessoa em território nacional.
+2 - Quando à decisão de deferimento de pedido de reagrupamento familiar obstem razões de:
+
+a) Ordem pública ou segurança pública, devem ser tomadas em consideração a gravidade ou o tipo de ofensa à ordem pública ou à segurança pública cometida pelo familiar, ou os perigos que possam advir da permanência dessa pessoa em território nacional, bem como a gravidade da evolução da situação de ordem pública ou segurança pública em parte ou na totalidade do território nacional;
+
+b) Saúde pública, devem ser tomadas em consideração doenças definidas nos instrumentos aplicáveis da Organização Mundial de Saúde ou outras doenças infeciosas ou parasitárias contagiosas objeto de medidas de proteção em território nacional, assim como a capacidade de resposta dos serviços de saúde.
 
 3 - Antes de ser proferida decisão de indeferimento de pedido de reagrupamento familiar, são tidos em consideração a natureza e a solidez dos laços familiares da pessoa, o seu tempo de residência em Portugal e a existência de laços familiares, culturais e sociais com o país de origem.
 

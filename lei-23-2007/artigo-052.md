@@ -2,7 +2,7 @@
 
 ### Condições gerais de concessão de vistos de residência, de estada temporária e de curta duração
 
-1 - Sem prejuízo das condições especiais de concessão de vistos previstas em lei ou em convenção, instrumento internacional ou qualquer outro regime especial constante dos instrumentos previstos no n.º 1 do artigo 5.º, assim como do disposto no artigo seguinte, só são concedidos vistos de residência, de estada temporária, de curta duração ou para procura de trabalho a nacional de Estado terceiro que preencha as seguintes condições:
+1 - Sem prejuízo das condições especiais de concessão de vistos previstas em lei ou em convenção, instrumento internacional ou qualquer outro regime especial constante dos instrumentos previstos no n.º 1 do artigo 5.º, assim como do disposto no artigo seguinte, só são concedidos vistos de residência, de estada temporária, de curta duração ou para procura de trabalho qualificado a nacional de Estado terceiro que preencha as seguintes condições:
 
 a) Não tenha sido sujeito a medida de afastamento e se encontre no período subsequente de interdição de entrada e de permanência em território nacional;
 
@@ -18,7 +18,7 @@ f) Disponha de seguro de viagem;
 
 g) Disponha de autorização parental ou documento equivalente, quando o requerente for menor de idade e durante o período de estada não esteja acompanhado por quem exerce as responsabilidades parentais ou responsabilidades no âmbito do maior acompanhado.
 
-2 - Para a concessão de visto de estada temporária, de visto para procura de trabalho e de visto de curta duração é ainda exigido título de transporte que assegure o seu regresso.
+2 - Para a concessão de visto de estada temporária, de visto para procura de trabalho qualificado e de visto de curta duração é ainda exigido título de transporte que assegure o seu regresso.
 
 3 - É recusado visto de residência ou de estada temporária ao nacional de Estado terceiro que tenha sido condenado por crime que, em Portugal, seja punível com pena privativa de liberdade de duração superior a um ano, ainda que esta não tenha sido cumprida ou a sua execução tenha sido suspensa.
 
@@ -33,3 +33,7 @@ g) Disponha de autorização parental ou documento equivalente, quando o requere
 8 - O visto de residência concedido para estudo, intercâmbio de estudantes, atividade de investigação ou voluntariado contém a menção de «investigador», «estudante de ensino superior», «estudante do ensino secundário», «estagiário» ou «voluntário» na rubrica observações da vinheta.
 
 9 - A decisão de concessão de vistos de residência ou de estada temporária a cidadãos nacionais de países terceiros objeto de indicações de regresso ou para efeitos de recusa de entrada e de permanência, compete ao diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas.
+
+10 - É recusado visto de residência, visto para procura de trabalho qualificado ou de estada temporária ao nacional de Estado terceiro que tenha entrado ou permanecido em território nacional de forma ilegal e se verifique o disposto no n.º 1 do artigo 144.º
+
+11 - O período referido no número anterior pode ser superior, até ao limite de 7 anos, quando se verifique existir ameaça grave para a ordem pública, a segurança pública ou a segurança nacional e ponderando o previsto no n.º 2 do artigo 144.º

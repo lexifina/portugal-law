@@ -40,9 +40,11 @@ o) Que, tendo beneficiado de autorização de residência para estudantes do ens
 
 p) Que, tendo beneficiado de autorização de residência para estudo em instituição de ensino superior nos termos do artigo 91.º ou de autorização de residência para investigação nos termos do artigo 91.º-B, e concluídos, respetivamente, os estudos ou a investigação, pretendam usufruir do período máximo de um ano para procurar trabalho ou criar uma empresa em território nacional compatível com as suas qualificações;
 
-q) Que, tendo beneficiado de visto de estada temporária para atividade de investigação ou altamente qualificada, pretendam exercer em território nacional uma atividade de investigação, uma atividade docente num estabelecimento de ensino superior ou altamente qualificada, subordinada ou independente:
+q) Que, tendo beneficiado de visto de estada temporária para atividade de investigação ou altamente qualificada, pretendam exercer em território nacional uma atividade de investigação, uma atividade docente num estabelecimento de ensino superior ou altamente qualificada, subordinada ou independente;
 
-r) Que façam prova da atividade de investimento, nos termos a que se refere a alínea d) do artigo 3.º
+r) Que façam prova da atividade de investimento, nos termos a que se refere a alínea d) do artigo 3.º;
+
+s) As crianças e jovens acolhidos em instituição pública, cooperativa, social ou privada com acordo de cooperação com o Estado, na sequência e na vigência de um processo de promoção e proteção.
 
 2 - Para efeitos do disposto na alínea m) do número anterior, apenas são consideradas as infrações que se traduzam em condições de desproteção social, de exploração salarial ou de horário, em condições de trabalho particularmente abusivas ou no caso de utilização da atividade de menores em situação ilegal.
 

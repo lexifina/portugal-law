@@ -4,7 +4,7 @@
 
 1 - Cabe ao titular do direito ao reagrupamento familiar solicitar à AIMA, I. P., a entrada e residência dos membros da sua família, sempre que estes se encontrem fora do território nacional.
 
-2 - Sempre que os membros da família se encontrem em território nacional, o reagrupamento familiar pode ser solicitado por estes ou pelo titular do direito.
+2 - O titular do direito ao reagrupamento familiar pode ainda requerer a residência dos familiares referidos no n.º 3 do artigo 98.º que se encontrem em território nacional e nele tenham entrado e assim permaneçam à data do pedido de reagrupamento.
 
 3 - O pedido deve ser acompanhado de:
 
