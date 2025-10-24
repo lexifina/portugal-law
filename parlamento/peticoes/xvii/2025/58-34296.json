@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34296",
+  "numero": "58",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-10-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2026-01-20",
+            "entidades": null,
+            "id": "159724",
+            "tipo": null,
+            "titulo": "Audição em 2026-01-20 com Peticionários da Petição n.º 58/XVII/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-02-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "L",
+                "IL",
+                "PCP",
+                "CDS-PP",
+                "BE"
+              ],
+              "data": "2026-02-04",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I><BR>Ausência: <I>IL</I>, <I> L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>",
+              "id": "170652",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "21",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-12-03",
+        "DataArquivo": "2026-02-04",
+        "DataBaixaComissao": "2025-10-31",
+        "DataEnvioPAR": "2026-02-11",
+        "DataReaberta": "2025-12-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2025-12-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738765a444a6c59544e6a5a4755744d4455324d7930304e5759344c5749354e446774597a67784d4745775932526d4f4751784c6e426b5a673d3d&fich=d2ea3cde-0563-45f8-b948-c810a0cdf8d1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-01-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738765a4759304e574e695a5749744f5455334e79303059574d794c5749795a4441745a6a566c4f474e6b5a5745335a474d304c6e426b5a673d3d&fich=df45cbeb-9577-4ac2-b2d0-f5e8cdea7dc4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-02-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e4745344f4459334d6d5974596a45334f4330304f5759784c54686a4d6a51744d7a64694d6d4d304d5441334f54597a4c6e426b5a673d3d&fich=4a88672f-b178-49f1-8c24-37b2c4107963.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-02-04",
+            "dataNomeacao": "2025-12-03",
+            "gp": "CH",
+            "id": "9409",
+            "motivoCessacao": "Aprovação do Relatório Final em reunião da Comissão de Saúde",
+            "nome": "Patrícia Nascimento"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-10-31",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a5a546377597a49355a5330315a574d784c54526b596a6374595752684d79303359575177596a426c5a474a6d5a544d756347526d&fich=3e70c29e-5ec1-4db7-ada3-7ad0b0edbfe3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34296",
+    "PetAssunto": "Pela Dignidade da Enfermagem, pela Transparência do Acordo Coletivo de Trabalho (ACT) e pela Defesa do Serviço Nacional de Saúde (SNS)",
+    "PetDataEntrada": "2025-10-24",
+    "PeticoesAssociadas": null,
+    "PetId": "34296",
+    "PetLeg": "XVII",
+    "PetNr": "58",
+    "PetNrAssinaturas": "16679",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Proposta para apreciação em plenário",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
