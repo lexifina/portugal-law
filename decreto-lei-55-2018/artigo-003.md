@@ -16,7 +16,7 @@ e) «Domínios de autonomia curricular» (DAC), áreas de confluência de trabal
 
 f) «Dupla certificação», o reconhecimento de competências para exercer uma ou mais atividades profissionais e de uma habilitação escolar, através de um diploma;
 
-g) «Estratégia Nacional de Educação para a Cidadania», a estratégia que visa o desenvolvimento de competências para uma cultura de democracia e aprendizagens com impacto na atitude cívica individual, no relacionamento interpessoal e no relacionamento social e intercultural, através da componente de Cidadania e Desenvolvimento;
+g) «Estratégia Nacional de Educação para a Cidadania», a estratégia, aprovada por resolução do Conselho de Ministros, que visa o desenvolvimento de competências e aprendizagens promotoras de uma cidadania ativa e alinhada com os Direitos Humanos e com os valores democrático-constitucionais;
 
 h) «Matrizes curriculares-base», o conjunto de componentes de currículo, áreas disciplinares e disciplinas, que integram os planos curriculares de âmbito nacional, por ciclo e ano de escolaridade ou por ciclo de formação, bem como a carga horária prevista para cada um deles, que serve de suporte ao desenvolvimento do currículo concretizado nos instrumentos de planeamento curricular, ao nível da escola e da turma ou grupo de alunos;
 

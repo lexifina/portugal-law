@@ -2,9 +2,9 @@
 
 ### Cidadania e Desenvolvimento
 
-1 - No âmbito da Estratégia Nacional da Educação para a Cidadania, a componente Cidadania e Desenvolvimento é desenvolvida de acordo com o disposto nos números seguintes.
+1 - A componente de Cidadania e Desenvolvimento é desenvolvida pelas escolas no âmbito da Estratégia Nacional de Educação para a Cidadania e de acordo com o disposto nos números seguintes.
 
-2 - Cabe a cada escola aprovar a sua estratégia de educação para a cidadania, definindo:
+2 - Cabe a cada escola aprovar a sua estratégia de educação para a cidadania.
 
 a) Os domínios, os temas e as aprendizagens a desenvolver em cada ciclo e ano de escolaridade;
 
