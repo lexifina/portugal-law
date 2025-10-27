@@ -1,0 +1,7 @@
+Aviso n.º 26867/2025/2
+
+Por despacho do Reitor da Universidade do Algarve, torna-se público que, nos termos conjugados do disposto nos artigos 97.º a 101.º do Código do Procedimento Administrativo (CPA), com o n.º 3 do artigo 110.º da Lei n.º 62/2007, de 10 de setembro, que aprova o Regime Jurídico das Instituições de Ensino Superior (RJIES) na sua atual redação, em cumprimento do disposto na alínea c) do artigo 327.º da Lei Geral do Trabalho em Funções Públicas, que determina a obrigatoriedade de submeter o projeto a parecer prévio da Comissão de Trabalhadores da Universidade do Algarve, e com vista a ouvir as estruturas sindicais, em conformidade com as disposições conjugadas dos artigos 90.º, 343.º e 350.º, n.º 1, alínea k), da Lei Geral do Trabalho em Funções Públicas, submete-se a consulta pública o Projeto de Regulamento Geral de Avaliação do Desempenho dos Investigadores de Carreira da Universidade do Algarve, com vista à recolha de contributos e sugestões, procedendo-se, para o efeito, à publicação do aviso na 2.ª série do Diário da República e à divulgação no sítio da internet https://www.ualg.pt/content/documentos-ualg, devendo os interessados apresentar as sugestões ou comentários por escrito, no prazo de 30 dias a contar da data da referida publicação, ao Reitor da Universidade do Algarve, utilizando o endereço eletrónico reitor@ualg.pt.
+
+22 de outubro de 2025. - O Reitor, Paulo Águas.
+
+319686658
