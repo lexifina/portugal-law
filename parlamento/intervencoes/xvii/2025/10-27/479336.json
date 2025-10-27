@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q3tLU3T%2ftQB6kCRTmsviUEw%2fy%2fJMJwprZGZONxeuiw2Awhxt0D4FJNh9Vvu6gd%2fxqOvqPfxMPSMEL8JoRsG6zokbyoNv3F9VMzHBTkJnE562jsPb88udv%2bipg%2bI2%2fJwlALHkYz2hC32ILov%2bpmYyNPQZYnfy9b5%2bE0BWIVBZxQAFH%2fA%2fOvfimA1p2Iq0VhrBGBHCnAKD15twSTJsXYSS0BceMGZQ67ysAp7F3%2bujnnU0HtADMViT4c6gJNSAKjBMCFFWCVEDlu6lZRNU9rXOT1JSfIjIe1eiULgcEQ8rDAXx9757mS%2fqCwH2CE3gCv5atTqGSaBnJ79aLNIXFFahSXVZEV3%2fjRVKMyZj6fZklvY%3d&fich=IntervencoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3236f01f1a16cea27c8f649548948df90008154a381a4d2df53a252155c44361",
+  "legislatura": "XVII",
+  "id": "479336",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Paulo Núncio (CDS-PP)",
+  "data_registo": "2025-10-27",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "1641273",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "315671",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Orçamento do Estado para 2026"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Dirige Pedido de Esclarecimento a Luís Montenegro (Primeiro-Ministro), no âmbito da apreciação, na generalidade, da Proposta de Lei n.º 37/XVII/1.ª (GOV) — Orçamento do Estado para 2026.\n",
+        "duracao": "00:05:36.378",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "https://av.parlamento.pt/videos/Plenary/17/1/28/34"
+      }
+    ],
+    "DataReuniaoPlenaria": "2025-10-27",
+    "Debate": null,
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "8723",
+      "nome": "Paulo Núncio"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "479336",
+    "IdDebate": "61487",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "315671",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "479336",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "40-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-10-28",
+        "pubLeg": "XVII",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/028/2025-10-28/40?pgs=40-42&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Ao Primeiro-Ministro (Luís Montenegro)",
+    "Sessao": "1",
+    "Sumario": "Orçamento do Estado para 2026 (Discussão generalidade)",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
