@@ -2,11 +2,11 @@
 
 ### Caderno de encargos do procedimento de formação de contratos de empreitada
 
-1 - Sem prejuízo do disposto no n.º 2 do artigo anterior, o caderno de encargos do procedimento de formação de contratos de empreitada de obras públicas deve incluir um projeto de execução.
+1 - Sem prejuízo do disposto no n.º 2 do artigo anterior e no n.º 3 do presente artigo, o caderno de encargos do procedimento de formação de contratos de empreitada de obras públicas deve incluir um projeto de execução.
 
 2 - Quando a obra seja classificada, nos termos da portaria prevista no n.º 7, na categoria iii ou superior, bem como naqueles casos em que o preço base, fixado no caderno de encargos, seja enquadrável na classe 3 de alvará ou em classe superior, o projeto de execução referido no número anterior deve ser objeto de prévia revisão por entidade devidamente qualificada para a sua elaboração, distinta do autor do mesmo.
 
-3 - Em casos excecionais devidamente fundamentados, nos quais o adjudicatário deva assumir, nos termos do caderno de encargos, obrigações de resultado relativas à utilização da obra a realizar, ou nos quais a complexidade técnica do processo construtivo da obra a realizar requeira, em razão da tecnicidade própria dos concorrentes, a especial ligação destes à conceção daquela, a entidade adjudicante pode prever, como aspeto da execução do contrato a celebrar, a elaboração do projeto de execução, caso em que o caderno de encargos deve ser integrado apenas por um programa preliminar.
+3 - A entidade adjudicante pode prever a elaboração do projeto de execução como aspeto da execução do contrato a celebrar, caso em que o caderno de encargos deve ser integrado apenas por um programa preliminar e o preço base nele definido deve discriminar separadamente os montantes máximos que a entidade adjudicante se dispõe a pagar pela execução das prestações correspondentes à conceção e à execução da obra.
 
 4 - Em qualquer dos casos previstos nos números anteriores, o projecto de execução deve ser acompanhado de:
 
