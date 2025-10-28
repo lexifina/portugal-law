@@ -1,0 +1,74 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "137",
+    "id": "315275",
+    "titulo": "Recomenda ao Governo que garanta financeiramente a execução dos investimentos na Habitação e regulamente o Fundo de Emergência para a Habitação"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2025-10-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2025-10-28",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Texto Final, apresentado pela Comissão de Infraestruturas, Mobilidade e Habitação, relativo aos Projetos de Resolução n.º 12/XVII/1.ª (L), n.º 137/XVII/1.ª (PS) e n.º 141/XVII/1.ª (PAN)",
+    "OevId": "1641783",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1023307",
+        "obs": null,
+        "pag": [
+          "149-150",
+          "150-150"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-10-29",
+        "pubLeg": "XVII",
+        "pubNr": "29",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/029/2025-10-29/149?pgs=149-150,150&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2025-10-28",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> IL</I>, <I> L</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>CH</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>, <I> CDS-PP</I>",
+        "id": "140036",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "27",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
