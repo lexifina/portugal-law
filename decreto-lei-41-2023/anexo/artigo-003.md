@@ -78,9 +78,9 @@ dd) Manter a necessária colaboração com as entidades às quais compete a fisc
 
 ee) Estudar, planear, gerir e manter as bases de dados e sistemas de informação em matéria de estrangeiros que não contenham informação de natureza policial;
 
-ff) Assegurar a componente nacional do Sistema Europeu de Comparação de Impressões Digitais dos Requerentes de Asilo (EURODAC), inserindo, consultando e comunicando os dados relativos aos requerentes de proteção internacional;
+ff) (Revogada.)
 
-gg) Assegurar o acesso das forças e serviços de segurança e demais serviços e organismos competentes, em razão da matéria, à informação constante dos sistemas e das bases de dados sob sua gestão e do EURODAC, nos termos da legislação aplicável, com respeito pela proteção dos dados pessoais e dos direitos, liberdades e garantias dos cidadãos nacionais e estrangeiros;
+gg) (Revogada.)
 
 hh) Compilar e manter atualizada uma base de dados que congregue indicadores sobre os requerentes e beneficiários de proteção internacional, bem como da informação resultante de processos de avaliação e monitorização do acolhimento e integração que incluam consultas a requerentes e beneficiários de proteção internacional, em conformidade com o regime jurídico de proteção de dados pessoais;
 
