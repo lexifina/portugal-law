@@ -1,0 +1,23 @@
+# Artigo 12.º
+
+### Núcleos degradados
+
+1 - Têm direito a aceder a uma habitação adequada, através da concessão de financiamento aos proprietários das habitações, as pessoas e agregados que residem em áreas urbanas degradadas cujas edificações, pelas suas características específicas de vetustez, organização espacial e construção ou de risco, constituem núcleos habitacionais com uma identidade própria e diferenciada no espaço urbano, usualmente identificados com designações como «ilha», «pátio» ou «vila».
+
+2 - No caso do número anterior, ainda que não seja o município o proprietário das edificações, as intervenções de reabilitação no espaço urbano, caso ocorram, devem ser ativamente acompanhadas por ele, preferencialmente no âmbito de operações de reabilitação urbana sistemática, a promover diretamente ou através de uma entidade gestora da reabilitação, nos termos do Regime Jurídico da Reabilitação Urbana (RJRU) estabelecido pelo Decreto-Lei n.º 307/2009, de 23 de outubro, na sua redação atual.
+
+3 - A reabilitação no âmbito do RJRU pode ser assumida pelo município ou pela entidade gestora da reabilitação através de uma empreitada única nos termos do artigo 56.º do RJRU, cabendo-lhe contratar e gerir a empreitada, bem como contratar o correspondente financiamento ao abrigo do 1.º Direito, em representação dos proprietários que utilizem as habitações para residência permanente ou as tenham cedido às pessoas que nelas residem, nomeadamente, através de arrendamento, garantindo o cumprimento do princípio da participação.
+
+4 - Os proprietários que se oponham à representação da entidade gestora da reabilitação e não contratem as obrigações que lhes cabem no processo de reabilitação urbana ou que, contratando, não cumpram essas obrigações, são notificados nos termos do n.º 2 do artigo 55.º do RJRU e ficam sujeitos à tomada de posse administrativa das frações ou dos prédios por parte da entidade gestora da reabilitação para dar execução às obras ou promover a expropriação por utilidade pública ao abrigo do disposto nos n.os 2 e 3 do artigo 55.º e no n.º 2 do artigo 61.º do RJRU.
+
+5 - Para viabilização das intervenções de reabilitação de frações ou prédios habitacionais situados em núcleos degradados cujos titulares não podem ou não querem promover a reabilitação, o município ou, no caso de operação de reabilitação urbana, a respetiva entidade gestora tem direito a aceder a financiamento nos termos do artigo 36.º, quer a aquisição se efetue por acordo com o titular, quer pela via expropriativa.
+
+6 - Os moradores das frações ou prédios objeto da reabilitação têm os direitos que lhes são atribuídos nos termos do artigo 73.º do RJRU, conjugado com o Decreto-Lei n.º 157/2006, de 8 de agosto, na sua redação atual, sendo, em especial, aplicável o disposto no artigo 17.º e no n.º 3 do artigo 20.º do Decreto-Lei n.º 157/2006, de 8 de agosto, na sua redação atual, no caso do morador preterir o direito a realojamento equivalente ou a indemnização e permanecer na habitação reabilitada ou a reocupar após a conclusão das obras.
+
+7 - Quando, por aplicação do disposto na parte final do número anterior, o montante total anual das rendas pagas pelo morador for inferior ao encargo anual suportado pelo proprietário com o reembolso do empréstimo relativo à respetiva reabilitação, este pode solicitar apoio para suportar a diferença entre aqueles montantes.
+
+8 - A intervenção num núcleo degradado deve preferencialmente abranger a totalidade do mesmo e, sempre que, no âmbito da mesma, exista prédio ou fração devoluto ou que deva ser demolido ou reconfigurado, são de considerar as seguintes condições:
+
+a) Se da intervenção resultar a existência de prédio ou frações vagos, estes devem ser destinados a pessoas e agregados sinalizados na ELH do município; ou
+
+b) Se daí decorrer uma redução do número de habitações preexistentes, além da aplicação pelo município dos mecanismos de perequação entre proprietários, as pessoas e os agregados residentes nesse núcleo que devam ser realojados podem aceder a uma habitação adequada através de uma solução financiada ao abrigo do 1.º Direito.
