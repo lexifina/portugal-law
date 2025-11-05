@@ -1,0 +1,65 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-11-05, processo 0279/13.8BEMDL
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0279/13.8BEMDL
+
+**Data do Acordão:** 11/05/2025
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** ANA CELESTE CARVALHO
+
+**Descritores:** SISTEMA MULTIMUNICIPAL; ÁGUAS; CONCESSÃO
+
+**Nº Convencional:** JSTA00071972
+
+**Nº do Documento:** SA1202511050279/13
+
+**Recorrente:** A..., SA
+
+**Recorrido 1:** MUNICÍPIO DE BOTICAS
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** revista admitida
+
+**Objecto:** Ac TCAN
+
+**Decisão:** negar provimento ao rec.
+
+**Área Temática 1:** Concessão
+
+**Área Temática 2:** Sistema municipal água
+
+**Legislação Nacional:** CPC: art. 613.º n.º 1, alíneas c), d); DL 319/94, 24/12; DL 195/2009, 20/08
+
+## Sumário
+
+I - Para conhecer dos créditos reclamados pela Autora torna-se imperioso conhecer da relação que une as partes em litígio, convocando a matéria referente à cláusula 16.ª do Contrato de Concessão e à cláusula 3.ª do Contrato de Fornecimento de água, invocada pela Entidade Demandada na contestação, implicando que não possa proceder a nulidade decisória, por excesso de pronúncia.
+
+II - Está em causa matéria eminentemente decorrente do exercício da função administrativa e não da função político-legislativa, para estar subtraída do conhecimento do Tribunal.
+
+III - Basta uma mera leitura da petição inicial para perceber que a Autora optou por não trazer aos autos a globalidade dos factos que enformam a relação jurídica estabelecida com a Entidade Demandada, numa alegação de facto minimalista, mas que de modo algum é apta a limitar ou condicionar, quer o direito de defesa, por exceção e por impugnação, da Entidade Demandada, quer o conhecimento da questão de direito por parte do Tribunal, nos termos do artigo 5.º, n.º 3 do CPC.
+
+IV - Nos termos do regime legal e contratual estabelecido, as fontes de financiamento da concessionária são as que decorrem da Base XIII, prevendo-se como condição de equilíbrio económico-financeiro, que os Municípios utilizadores tinham a obrigação de consumir um valor mínimo de água, que seria quantitativamente determinado por contrato, nos termos constantes do Anexo I ao Contrato de Fornecimento.
+
+V - Se o Município utilizador não consumisse, em determinado ano, o valor mínimo fixado, para esse mesmo ano, no Contrato de Fornecimento, a concessionária estava autorizada a cobrar a diferença entre o valor mínimo garantido e o valor efetivamente consumido pelo utilizador, nos termos da Base XXVIII, n.º 3, na sua redação inicial.
+
+VI - Porém, foram aprovadas alterações ao D.L. n.º 319/94, de 24/12, pelo D.L. n.º 195/2009, de 20/08, com entrada em vigor em 01/01/2010 (artigo 12.º), em que a Base XIII passou a prever, de forma expressa, como uma das fontes de financiamento da concessão, os valores garantidos cobrados pela concessionaria [alínea c)].
+
+VII - A partir de 01/01/2010 a Base XXVIII passou a adotar outra redação, prevendo que os valores mínimos garantidos cobrados com fundamento no consumo de água em quantidade inferior ao mínimo anual garantido no contrato para esse Município utilizador, independentemente de as razões que motivaram a falta de consumo mínimo serem, ou não, imputáveis ao próprio Município utilizador, só podia ocorrer até ao termo do primeiro terço do prazo inicial da concessão, ou seja, até outubro de 2011.
+
+VIII - Após essa data, ou seja, a partir de novembro de 2011, a concessionária continuava investida no poder de cobrar os mínimos garantidos previstos no Contrato de Fornecimento celebrado com o utilizador caso este consumisse, em dado ano, um valor de água inferior ao mínimo estabelecido nesse contrato, por motivos que lhe fossem imputáveis.
+
+IX - Fosse com base no regime vigente até outubro de 2011, fosse nos termos da prerrogativa que vigorou a partir de novembro de 2011, poderia o utilizador recusar o pagamento dos valores mínimos cobrados, no caso de se verificar o atraso na realização dos investimentos necessários à prestação do serviço no respetivo território, por motivo imputável à concessionária.
+
+X - Se até outubro de 2011 a Autora poderia cobrar o valor mínimo garantido caso o consumo de água fosse inferior ao mínimo anual garantido no Contrato de Fornecimento celebrado com o Município de Boticas, independentemente de as razões que motivaram a falta de consumo mínimo serem ou não, a este imputáveis, a partir de novembro de 2011 apenas poderia fazê-lo caso o consumo de água pelo Município houvesse sido inferior ao contratualmente garantido por razões que lhe fossem imputáveis.
+
+XI - Desde a alteração introduzida em 2010 e após 2011, cabe à concessionária a alegação do incumprimento da cláusula atinente ao consumo dos valores mínimos garantidos, impondo-se não apenas a alegação de que o Município consumiu menos água do que o mínimo previsto no contrato de fornecimento, como também que esse consumo abaixo do mínimo só aconteceu por razões imputáveis ao próprio Município utilizador, e ao Município utilizador alegar e fazer a prova de que não foi por culpa sua que o valor mínimo garantido no contrato de fornecimento não foi, em dado ano, atingido.
+
+XII - Nos autos, nunca a Autora logrou alegar e, por isso, demonstrar, que o consumo de menos água, de forma a não ser atingido o valor mínimo garantido, se deva a razões imputáveis ao Município utilizador.
+
+XIII - Acresce lograr o Município alegar e demonstrar nos autos circunstâncias que se referem à falta de cumprimento das obrigações contratuais da concessionária, como as relativas à obrigação de ligação entre os sistemas multimunicipais e municipais, previstas na Base XXXIII, aprovadas pelo D.L. n.º 319/94 e da Base XXXI, aprovadas pelo D.L. n.º 162/96.
+
+XIV - Logrou o Demandado, ora Recorrido, alegar e demonstrar o atraso na realização dos investimentos necessários à prestação do serviço de abastecimento de água no seu território, por motivo imputável à concessionária, razão por que lhe é legítima a recusa do pagamento de valores mínimos garantidos nos primeiros dez meses do ano de 2011 e em relação aos meses de novembro e de dezembro de 2011.
