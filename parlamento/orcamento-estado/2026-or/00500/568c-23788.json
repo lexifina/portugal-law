@@ -1,0 +1,104 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XUrGSQZWAGRb0W%2f8GvqdQHXLnRr1eviRCw%2bugWr04JjC44XdFODZfuUTSb40MRJdrgZ06AK0j24ckeWSbvLTIQjmTmXOLwF5dwxyT%2b9ipnpMLpOFq4yLKACNO97V28fRaAjJWyiiZYPikJpnMgR3XRfA6j7KVjHgBPGrOUCAkU0YqfvhXkUtqb5vD72dZ9og16bozW5nDB%2fuXrzkzyj8tJf0y4so83RtutoVmusWzMItSPKKD9vcSNpdCRI5Pb0Hx98xmHEunPtVX8oTEW6D0GtTu5rzu6VvSvswMmfU8x52EUz7vQAxrANimWdGmnf%2f5BeKZMsBfeH2PGI%2fpWsuv7t%2bsJjqB2PWcKahHXRkmVnt6l1YoXYpzjT1xJZVx%2bzk1RZXq6Utnr0UFEwqYIB0wtPF6mrPIbyML3jo%2f%2fo%2fvclJ2Grn4biC4E6vFoEpdlJ0&fich=OEPropostasAlteracao2026Or_json.txt&Inline=true",
+  "ficheiro_sha256": "48c4a115922ae50048770eefb0234b3444b2b3650b2b84356bdb8d4621d0ea5f",
+  "legislatura": "XVII",
+  "id": "23788",
+  "numero": "568C",
+  "orcamento": "2026",
+  "versao": "Or",
+  "data_registo": "2025-11-05",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "23788",
+    "Numero": "568C",
+    "Data": "05/11/2025 12:28:00",
+    "Titulo": "N.º 9, Artigo 3.º",
+    "Tema": "Agricultura e Pescas; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793942556b356c6443397a6158526c63793959566b6c4a544556484c3039464c7a49774d6a59794d4449314d5441774f53395151533969597a686b596a45795a53316b4e6a4d354c54517a4e324574595745344e4330344d3259794e54426c5a6a6b354f4467756347526d&Fich=bc8db12e-d639-437a-aa84-83f250ef9988.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "Alfredo Maia"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "Paula Santos"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "Paulo Raimundo"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 3.º",
+        "Titulo": "Utilização condicionada das dotações orçamentais",
+        "Texto": "1 - Em cada missão de base orgânica é criada uma reserva correspondente a 5% da dotação do programa orçamental inscrita na rubrica 060203R2 «Outras despesas correntes - Diversas - Outras - Reserva», a qual pode ser utilizada mediante despacho do membro do Governo responsável pela respetiva área setorial, sem ",
+        "Estado": "Aprovado(a) em Comissão",
+        "Numeros": {
+          "Numero": "N.º 9",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Entrada"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 9, Artigo 3.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "20/11/2025 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Chega",
+            "Partido Socialista",
+            "Iniciativa Liberal",
+            "Livre",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Favor",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
