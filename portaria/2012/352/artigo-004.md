@@ -14,10 +14,10 @@ c) A forma de apresentação das candidaturas;
 
 d) Os requisitos de pré-seleção dos candidatos previstos no artigo 6.º;
 
-e) A data, a hora e o local do sorteio dos candidatos;
+e) (Revogada.)
 
 f) Os termos de prestação da caução.
 
 3 - A data fixada para a apresentação das candidaturas não pode ser superior a 20 dias a contar da publicação no Diário da República do aviso de abertura do procedimento concursal.
 
-4 - Quando se verifique a necessidade de proceder ao sorteio, o mesmo deve ter lugar no prazo máximo de 70 dias a contar da publicação no Diário da República do aviso do procedimento concursal.
+4 - (Revogada.)

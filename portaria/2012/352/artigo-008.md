@@ -10,7 +10,7 @@ a) Não cumpram os requisitos legais das proprietárias de farmácia;
 
 b) Apresentem a candidatura após a data limite referida no aviso de abertura do procedimento concursal;
 
-c) Não apresentem toda a documentação exigida no aviso abertura do procedimento concursal;
+c) Não apresentem toda a documentação exigida no artigo anterior;
 
 d) Prestem falsas declarações;
 

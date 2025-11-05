@@ -8,7 +8,7 @@ a) Sejam apresentados no mesmo dia;
 
 b) Sejam objeto de decisão de aptidão;
 
-c) As novas localizações das farmácias distem menos de 350 m entre si.
+c) As novas localizações das farmácias distem menos de 500 m entre si.
 
 2 - De entre os pedidos conflituantes, o INFARMED, I. P., seleciona um, através de sorteio.
 

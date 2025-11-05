@@ -4,7 +4,7 @@
 
 O INFARMED, I. P., disponibiliza, no seu sítio da Internet, os seguintes formulários:
 
-a) Pedido das administrações regionais de saúde e das autarquias locais para a abertura do procedimento concursal, referido no n.º 2 do artigo 3.º;
+a) Pedido das autarquias locais para a abertura do procedimento concursal, referido no n.º 2 do artigo 3.º;
 
 b) Apresentação da candidatura referida no artigo 7.º;
 

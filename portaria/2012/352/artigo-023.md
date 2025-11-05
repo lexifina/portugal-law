@@ -10,10 +10,10 @@
 
 4 - O INFARMED, I. P., dispõe do prazo de 30 dias para realizar a vistoria requerida.
 
-5 - Se o INFARMED, I. P., considerar que a farmácia cumpre as normas legais e regulamentares, notifica o proprietário da farmácia, no prazo de 5 dias, para, no prazo de 10 dias, proceder ao pagamento da quantia referida na alínea d) do n.º 2 do artigo 28.º.
+5 - Se o INFARMED, I. P., considerar que a farmácia cumpre as normas legais e regulamentares, procede à emissão do respetivo alvará.
 
-6 - No prazo de cinco dias a contar do pagamento referido no número anterior, o INFARMED, I. P., averba a nova localização da farmácia no respetivo alvará.
+6 - (Revogado.)
 
-7 - A farmácia deve abrir ao público, nas novas instalações, no prazo de 20 dias a contar da receção do alvará, que lhe é remetido pelo INFARMED, I. P., por via postal.
+7 - A farmácia deve abrir ao público, nas novas instalações, no prazo de 20 dias a contar da notificação do INFARMED, I. P., a informar que foi emitido o alvará com o averbamento das novas instalações.
 
 8 - Decorridos os prazos previstos nos n.os 1 e 2 do presente artigo sem que seja solicitada a vistoria às novas instalações, caduca a autorização concedida para a transferência de localização da farmácia.
