@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=XUrGSQZWAGRb0W%2f8GvqdQHXLnRr1eviRCw%2bugWr04JjC44XdFODZfuUTSb40MRJdrgZ06AK0j24ckeWSbvLTIQjmTmXOLwF5dwxyT%2b9ipnpMLpOFq4yLKACNO97V28fRaAjJWyiiZYPikJpnMgR3XRfA6j7KVjHgBPGrOUCAkU0YqfvhXkUtqb5vD72dZ9og16bozW5nDB%2fuXrzkzyj8tJf0y4so83RtutoVmusWzMItSPKKD9vcSNpdCRI5Pb0Hx98xmHEunPtVX8oTEW6D0GtTu5rzu6VvSvswMmfU8x52EUz7vQAxrANimWdGmnf%2f5BeKZMsBfeH2PGI%2fpWsuv7t%2bsJjqB2PWcKahHXRkmVnt6l1YoXYpzjT1xJZVx%2bzk1RZXq6Utnr0UFEwqYIB0wtPF6mrPIbyML3jo%2f%2fo%2fvclJ2Grn4biC4E6vFoEpdlJ0&fich=OEPropostasAlteracao2026Or_json.txt&Inline=true",
+  "ficheiro_sha256": "48c4a115922ae50048770eefb0234b3444b2b3650b2b84356bdb8d4621d0ea5f",
+  "legislatura": "XVII",
+  "id": "24462",
+  "numero": "1221C",
+  "orcamento": "2026",
+  "versao": "Or",
+  "data_registo": "2025-11-07",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "24462",
+    "Numero": "1221C",
+    "Data": "07/11/2025 08:02:00",
+    "Titulo": "N.º 3, Artigo 106.º",
+    "Tema": "Orçamento, Finanças e Administração Pública; Reforma do Estado e Poder Local; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Rejeitado(a) em Plenário",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793942556b356c6443397a6158526c63793959566b6c4a544556484c3039464c7a49774d6a59794d4449314d5441774f533951515338334e544d794e32557a596931695a54426d4c5451774d444174596a557a5a4330785a5752695a5746684d6a526c4e6d4d756347526d&Fich=75327e3b-be0f-4000-b53d-1edbeaa24e6c.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "JPP",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "JPP",
+        "Deputado": "Filipe Sousa"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 106.º",
+        "Titulo": "Aumento da margem de endividamento",
+        "Texto": "1 - Excecionalmente, durante o ano de 2026 a margem de endividamento prevista na alínea b) do n.º 3 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, é aumentada para 40 %.\r\n2 - A margem de endividamento referida no número anterior é aumentada para 100 %, exclusivamente para assegurar",
+        "Estado": "Aprovado(a) em Plenário",
+        "Numeros": {
+          "Numero": "N.º 3",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Entrada"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 3, Artigo 106.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "24/11/2025 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Plenário",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Chega",
+            "Partido Socialista",
+            "Iniciativa Liberal",
+            "Livre",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza",
+            "Juntos pelo Povo"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Abstenção",
+            "Contra",
+            "Abstenção",
+            "Abstenção",
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
