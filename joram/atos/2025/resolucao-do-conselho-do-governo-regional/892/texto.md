@@ -1,0 +1,16 @@
+# Resolução do Conselho do Governo Regional n.º 892/2025
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 198/2025, de 2025-11-10
+
+**Sumário:** Autoriza a transferência do Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) para a Secretaria Regional das Finanças da importância de 7.667.242,00 €, correspondente à restante dotação disponível para financiamento das políticas ativas de emprego e valorização profissional.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 892/2025
+Sumário: Autoriza a transferência do Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) para a Secretaria Regional das Finanças da importância de 7.667.242,00 €, correspondente à restante dotação disponível para financiamento das políticas ativas de emprego e valorização profissional.
+Texto: Resolução n.º 892/2025 Considerando que, de acordo com o n.º 3 do artigo 52.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, na sua atual redação, constitui receita própria das Regiões Autónomas da Madeira e dos Açores uma dotação correspondente a 5% das contribuições orçamentadas nos respetivos territórios, destinada ao financiamento das políticas ativas de emprego e valorização profissional; Considerando que é no quadro do Orçamento Regional que se executam essas políticas do Governo da Região Autónoma da Madeira; Considerando que, para efeitos do mencionado no n.º 3 do artigo 52.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, o Orçamento do Instituto de Segurança Social da Madeira, IP-RAM é dotado, no âmbito do Orçamento da Segurança Social, de um valor afeto ao financiamento das mesmas políticas; Considerando que o correspondente valor orçamentado para 2025 é de 15.334.484,00 € (quinze milhões, trezentos e trinta e quatro mil, quatrocentos e oitenta e quatro euros), conforme decorre do n.º 2 do artigo 68.º da Lei n.º 45-A/2024, de 31 de dezembro, que aprovou o Orçamento do Estado para 2025, na sua redação atual; Considerando que, de acordo com a Resolução do Conselho do Governo n.º 260/2025, de 23 de maio, já foi transferido para a Secretaria Regional das Finanças o montante de 7.667.242,00 € (sete milhões, seiscentos e sessenta e sete mil, duzentos e quarenta e dois euros), correspondente a 50% do referido valor orçamentado. Nestes termos, o Conselho do Governo reunido em plenário em 6 de novembro de 2025, resolve:
+1. Autorizar a transferência do Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) para a Secretaria Regional das Finanças da importância de 7.667.242,00 € (sete milhões, seiscentos e sessenta e sete mil, duzentos e quarenta e dois euros), correspondente à restante dotação disponível para financiamento das políticas ativas de emprego e valorização profissional.
+2. A despesa decorrente da presente Resolução, no montante de 7.667.242,00 €, tem cabimento na rubrica do Orçamento do ISSM, IP-RAM, designadamente no fundo/classificação económica DA211005/04.04.02.02 - Transferências para emprego e valorização profissional e tem compromisso registado sob o n.º 2925009544 no SIF - Sistema de Informação Financeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
