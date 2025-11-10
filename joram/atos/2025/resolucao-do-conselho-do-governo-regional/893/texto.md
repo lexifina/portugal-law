@@ -1,0 +1,29 @@
+# Resolução do Conselho do Governo Regional n.º 893/2025
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 198/2025, de 2025-11-10
+
+**Sumário:** Autoriza a celebração de um contrato-programa com a Associação Casa do Voluntário, com vista a comparticipar a aquisição de passes sociais para cidadãos residentes na Região Autónoma da Madeira, integrados na bolsa de voluntários da citada associação, atribuindo para o efeito um apoio financeiro até ao montante máximo de 14.400,00 €.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 893/2025
+Sumário: Autoriza a celebração de um contrato-programa com a Associação Casa do Voluntário, com vista a comparticipar a aquisição de passes sociais para cidadãos residentes na Região Autónoma da Madeira, integrados na bolsa de voluntários da citada associação, atribuindo para o efeito um apoio financeiro até ao montante máximo de 14.400,00 €.
+Texto: Resolução n.º 893/2025 Considerando que a Associação Casa do Voluntário é uma Instituição Particular de Solidariedade Social, sem fins lucrativos e cuja área de intervenção abrange toda a Região Autónoma da Madeira; Considerando que a citada Associação tem como objetivo principal a promoção do voluntariado social, através da formação e encaminhamento de voluntários nas áreas da ação social, educação, ambiente e saúde, promovendo atividades de caráter cívico e social, o exercício de formação profissional e ainda a promoção de ações de apoio social destinadas a crianças, jovens, adultos, idosos e população em geral na Região Autónoma da Madeira;
+
+Considerando que, a 21 de junho de 2019, foi celebrado um Protocolo de Cooperação entre a Região Autónoma da Madeira, através da então Secretaria Regional da Inclusão e Assuntos Sociais e a Casa do Voluntário, tendo por objeto o estabelecimento de uma parceria destinada à concretização de ações de apoio ao voluntariado na Região Autónoma da Madeira, de harmonia com o plasmado no n.º 1 do artigo 2.º do Decreto Legislativo Regional n.º 3/2019/M, de 7 de junho, nas seguintes áreas: Formação, Informação, Promoção, Transportes e Registo;
+Considerando que foi celebrado em 2023, o Protocolo Adicional n.º 2, com vista a definir os termos e as condições da execução da medida de atribuição de passes sociais gratuitos para utilização nos transportes públicos pelos cidadãos residentes na Região Autónoma da Madeira, integrados na bolsa de voluntários da Associação Casa do Voluntário, de harmonia com o preceituado na cláusula primeira do referido protocolo de cooperação;
+Considerando que a Associação Casa do Voluntário solicitou um apoio financeiro que tem como finalidade financiar a aquisição de passes sociais gratuitos para os cidadãos residentes na Região Autónoma da Madeira, integrados na bolsa de voluntários da sobredita Associação;
+Considerando que as receitas próprias da referida Associação se manifestam insuficientes para fazer face às despesas inerentes ao peticionado apoio financeiro;
+Considerando que tais despesas constituem um esforço meritório indispensável à prossecução dos objetivos de serviço público por parte da supracitada Associação;
+Considerando que são atribuições da Direção Regional da Cidadania e dos Assuntos Sociais, designadamente, apoiar iniciativas que promovam a cidadania e a consciencialização cívica nos seus vários domínios, a inclusão e o apoio social, a igualdade de oportunidades, assim como a promoção da economia social e do desenvolvimento local, bem como assegurar a cooperação e o apoio às respetivas instituições, conforme previsto nas alíneas b) e c) do artigo 4.º do Decreto Regulamentar Regional n.º 40/2024/M, de 16 de dezembro.
+Nestes termos, o Conselho do Governo reunido em plenário em 6 de novembro de 2025, resolve:
+1. Autorizar, ao abrigo do disposto no artigo 36.º do Decreto Legislativo Regional n.º 2/2025/M, de 2 de julho, que aprova o Orçamento da Região Autónoma da Madeira para 2025, retificado pela Declaração de Retificação n.º 1/2025/M/1, de 9 de julho, e na Resolução n.º 1231/2024, de 16 de dezembro, que aprova o Regulamento de Atribuição de Apoios Financeiros a Entidades da Economia Social, a celebração de um contrato-programa com a Associação Casa do Voluntário, com vista à aquisição de passes sociais para cidadãos residentes na Região Autónoma da Madeira, integrados na bolsa de voluntários da citada Associação.
+2. Para a prossecução dos objetivos referidos no número anterior, conceder à citada Associação, uma comparticipação financeira que não poderá ultrapassar o montante máximo de 14.400,00 € (catorze mil e quatrocentos euros), que será processada numa única prestação, após a celebração do contrato-programa e até 31 de dezembro de 2025.
+3. O contrato-programa a celebrar com a referida Associação produz efeitos desde a data de assinatura até 31 de dezembro de 2025.
+4. Aprovar a minuta do contrato-programa, que faz parte integrante desta Resolução e que fica arquivada na Secretaria Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+5. Mandatar a Diretora Regional da Cidadania e dos Assuntos Sociais para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e celebrar o contrato-programa.
+6. Mandatar a Secretária Regional de Inclusão, Trabalho e Juventude para, em representação da Região Autónoma da Madeira, homologar o contrato-programa.
+7. As despesas resultantes do contrato-programa a celebrar estão inscritas no orçamento da Direção Regional da Cidadania e dos Assuntos Sociais, na Classificação orgânica 49 0 01 02 00, Classificação funcional 109, Classificação económica D.04.07.01.AF.H0, Fonte 381, Programa 049, Medida 020, Atividade 168, Centro Financeiro M100801, Compromisso n.º CY52516029.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
