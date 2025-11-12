@@ -8,7 +8,7 @@ a) O aumento da retribuição base anual média na empresa, por referência ao f
 
 b) O aumento da retribuição base anual dos trabalhadores que aufiram um valor inferior ou igual à retribuição base média anual da empresa no final do ano anterior seja, no mínimo, de 4,7 %.
 
-2 - Estão excluídos do presente regime os sujeitos passivos relativamente aos quais se verifique um aumento do leque salarial dos trabalhadores face ao exercício anterior.
+2 - (Revogado).
 
 3 - Apenas são considerados os encargos relativos a trabalhadores abrangidos por instrumento de regulamentação coletiva de trabalho celebrado ou atualizado há menos de três anos.
 
