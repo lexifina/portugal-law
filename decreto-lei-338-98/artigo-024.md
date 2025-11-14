@@ -1,0 +1,3 @@
+# Artigo 24.º
+
+São revogados o artigo 14.º do Decreto-Lei n.º 348/86, de 16 de Outubro, e o Decreto-Lei n.º 376/89, de 25 de Outubro.
