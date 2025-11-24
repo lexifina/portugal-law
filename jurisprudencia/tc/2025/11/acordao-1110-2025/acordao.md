@@ -1,0 +1,277 @@
+# Acórdão do Tribunal Constitucional n.º 1110/2025, de 2025-11-24
+
+**Acórdão:** 1110/25
+
+**Processo:** 356/25
+
+**Formação:** 3ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 24.11.2025
+
+**Relator:** Cons. Afonso Patrão
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/20251110.html
+
+## Texto integral
+
+ACÓRDÃO Nº 1110/2025
+
+Processo n.º 356/2025
+
+3.ª Secção
+
+Relator: Conselheiro Afonso Patrão
+
+Acordam na 3.ª Secção do Tribunal Constitucional:
+
+I. Relatório
+
+1. O Ministério Público interpôs o presente recurso para o Tribunal Constitucional ao abrigo da alínea a) do n.º 1 do artigo 70.ºda Lei n.º 28/82 de 15 de novembro (Lei da Organização, Funcionamento e Processo do Tribunal Constitucional, doravante LTC), da sentença do Tribunal Administrativo e Fiscal de Penafiel de 24 de janeiro de 2025.
+
+2. O ora recorrido A. propôs ação administrativa contra a Caixa Geral de Aposentações (CGA) e o Ministério da Educação, Ciência e Inovação, aí requerendo a extensão de efeitos da sentença proferida no Processo n.º 485/19.2BEPNF e, como consequência necessária, a condenação dos requeridos a reinscreverem o demandante na CGA com efeitos reportados a 16 de outubro de 2018, bem como a concretizar os atos materiais necessários a repor essa inscrição.
+
+O Tribunal Administrativo e Fiscal de Penafiel (TAF de Penafiel) julgou a ação totalmente procedente, desaplicando a norma do n.º 2 do artigo 2.º da Lei n.º 45/2024, de 27 de dezembro, e condenando as entidades demandadas à inscrição do demandante na CGA nos termos peticionados.
+
+3. Desta decisão, o Ministério Público interpôs recurso para o Tribunal Constitucional, com objeto na norma do n.º 2 do artigo 2.º da Lei n.º 45/2024, de 27 de dezembro, cuja aplicação foi recusada com fundamento na sua inconstitucionalidade, por violação do princípio da confiança contido no artigo 2.º da Constituição.
+
+4. Tendo o recurso sido admitido pelo tribunal a quo, foram as partes notificadas para apresentar alegações, nos termos do disposto no artigo 79.º da LTC.
+
+O Ministério Público pronunciou-se pela improcedência do recurso, militando pelo julgamento de inconstitucionalidade da norma do n.º 2 do artigo 2.º da Lei n.º 45/2024.
+
+Apesar de regularmente notificado, o recorrido A. não contra-alegou.
+
+Cumpre apreciar e decidir.
+
+II. Fundamentação
+
+5. Importa começar por identificar o objeto do recurso: a norma jurídica indicada pelo recorrente no requerimento de interposição e cuja aplicação foi recusada pela sentença recorrida com fundamento na sua inconstitucionalidade.
+
+Ora, o tribunal a quo desaplicou a norma contida no n.º 2 do artigo 2.º da Lei n.º 45/2024 com fundamento na sua inconstitucionalidade, por violação do princípio da confiança, ínsito no artigo 2.º da Constituição. É este o teor do artigo 2.º da Lei n.º 45/2024:
+
+«Artigo 2.º
+
+Interpretação autêntica
+
+1 - Para efeitos de interpretação do n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, considera-se que a obrigatoriedade de inscrição no regime geral de segurança social do pessoal que inicie funções a partir de 1 de janeiro de 2006, ao qual, nos termos da legislação vigente, fosse aplicável o regime de proteção social da função pública em matéria de aposentação, abrange os subscritores que cessaram o seu vínculo de emprego público após 1 de janeiro de 2006 e que voltem a estabelecer novo vínculo de emprego público em condições que, antes da entrada em vigor da Lei n.º 60/2005, de 29 de dezembro, conferiam direito de inscrição na Caixa Geral de Aposentações.
+
+2 - Ressalva-se da obrigatoriedade estabelecida no número anterior o funcionário ou agente que demonstre que, apesar da cessação do vínculo de emprego público, constituiu um novo vínculo de emprego público com a mesma ou com outra entidade pública, desde que, nos termos do n.º 1 do artigo 22.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 19 de dezembro:
+
+a) Não exista qualquer descontinuidade temporal; ou
+
+b) Existindo descontinuidade temporal, se comprove que:
+
+i) Esta seja de natureza involuntária, limitada no tempo e justificada pelas especificidades próprias da carreira em que o funcionário ou agente está inserido; e
+
+ii) O funcionário não tenha exercido atividade remunerada durante o período em que interrompeu o vínculo público.
+
+3 - Os períodos contributivos para o regime geral de segurança social dos trabalhadores abrangidos pelos números anteriores relevam para efeitos da aplicação do Regime Jurídico da Pensão Unificada, previsto no Decreto-Lei n.º 361/98, de 18 de novembro».
+
+Nestas disposições, o legislador declara pretender interpretar as normas dos artigos 1.º e 2.º da Lei n.º 60/2005, de 29 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social no que respeita às condições de aposentação e cálculo das pensões. Tais preceitos têm o seguinte teor:
+
+«Artigo 1.º
+
+Objeto
+
+A presente lei estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social no que respeita às condições de aposentação e cálculo das pensões.
+
+Artigo 2.º
+
+Inscrição
+
+1 - A Caixa Geral de Aposentações deixa, a partir de 1 de Janeiro de 2006, de proceder à inscrição de subscritores.
+
+2 - O pessoal que inicie funções a partir de 1 de Janeiro de 2006 ao qual, nos termos da legislação vigente, fosse aplicável o regime de proteção social da função pública em matéria de aposentação, em razão da natureza da instituição a que venha a estar vinculado, do tipo de relação jurídica de emprego de que venha a ser titular ou de norma especial que lhe conferisse esse direito, é obrigatoriamente inscrito no regime geral da segurança social».
+
+Por outro lado, do Decreto-Lei n.º 498/72, de 9 de dezembro (Estatuto da Aposentação), colhe-se o seguinte:
+
+«Artigo 22.º
+
+Eliminação do subscritor
+
+1. Será eliminado o subscritor que, a título definitivo, cesse o exercício do seu cargo, salvo se for investido noutro a que corresponda igualmente direito de inscrição.
+
+2. O antigo subscritor será de novo inscrito se for readmitido em quaisquer funções públicas previstas nos artigos 1.º e 2.º e satisfazer ao disposto no artigo 4.º».
+
+6. Ora, foi justamente a norma do n.º 2 do artigo 2.º da Lei n.º 45/2024, que estabelece requisitos para reinscrição na CGA aplicáveis a sujeitos cujo vínculo de emprego público haja cessado depois de 1 de janeiro de 2006 e que o hajam restabelecido antes da data de entrada em vigor da Lei n.º 45/2024, que o tribunal a quo recusou aplicar.
+
+Com efeito, o pressuposto lógico da procedência da ação foi o afastamento da regra segundo a qual a reinscrição do beneficiário na CGA dependeria dos requisitos enumerados naquela norma. Pode ler-se na sentença ora recorrida:
+
+«(…) A lei em causa, a Lei n.º 45/2024, de 27-12, e mais concretamente o art. 2.º/2 veio introduzir requisitos novos, que a jurisprudência não previa, e que não se podem retirar da letra da norma interpretada.
+
+O art. 2.º/2 da Lei n.º 45/2024 é por isso inovador, uma falsa norma interpretativa, com efeitos expressamente retroactivos, como resulta do art. 4.º/1 - A presente lei produz efeitos com a entrada em vigor da Lei n.º 60/2005, de 29 de dezembro.
+
+(…)
+
+Nada permitiria a qualquer particular nas presentes circunstâncias antever como minimamente possível que deveria provar não existir «qualquer descontinuidade temporal»; ou b) Existindo descontinuidade temporal, se comprove que:
+
+i) Esta seja de natureza involuntária, limitada no tempo e justificada pelas especificidades próprias da carreira em que o funcionário ou agente está inserido; e
+
+ii) O funcionário não tenha exercido actividade remunerada durante o período em que interrompeu o vínculo público.
+
+Por isso, o artigo 2.°/2 da Lei n.º 45/2024 de 27-12 deve ser desaplicado por inconstitucionalidade, nomeadamente violação do princípio da confiança».
+
+Nessa medida, a norma cuja aplicação foi recusada é a norma do n.º 2 do artigo 2.º da Lei n.º 45/2024, de 27 de dezembro, segundo a qual os requisitos para reinscrição na Caixa Geral de Aposentações e os requisitos para a reinscrição constantes daquele preceito se consideram aplicáveis a sujeitos cujo vínculo de emprego público haja cessado depois de 1 de janeiro de 2006 e que o hajam restabelecido antes de 27 de dezembro de 2024 (data da entrada em vigor da Lei n.º 45/2024).
+
+7. Esta questão foi já apreciada diversas vezes pelo Tribunal Constitucional.
+
+No Acórdão n.º 689/2025, decidiu-se «Julgar inconstitucional o artigo 2.º, n.ºs 1 e 2, da Lei n.º 45/2024, de 27 de dezembro, quando interpretado no sentido de a proibição de reinscrição na Caixa Geral de Aposentações e os requisitos para a reinscrição constantes destes preceitos se considerarem aplicáveis a sujeitos cujo vínculo de emprego público haja cessado depois de 1 de janeiro de 2006 e que o hajam restabelecido antes de 26 de [dezembro] de 2024 por violação do artigo 2.º da Constituição da República Portuguesa», sendo este juízo positivo de inconstitucionalidade reiterado nos Acórdãos n.ºs 928/2025, 929/2025, 930/2025, 931/2025, 932/2025 e 1047/2025.
+
+Pode ler-se no Acórdão n.º 689/2025:
+
+«(…)
+
+Entrada em vigor em 1 de janeiro de 2006 (artigo 10.º), a Lei n.º 60/2005, de 29 de dezembro, pretendeu aprovar um regime progressivo de assimilação dos trabalhadores da função pública ao regime da segurança social, designadamente em matéria de condições de reforma e cálculo de pensões (artigo 1.º). Com esse escopo, foi proibida a inscrição de novos subscritores na Caixa Geral de Aposentações após o início da vigência do diploma (artigo 2.º, n.º 1), impondo-se, em sua substituição, a inscrição na segurança social (artigo 2.º, n.º 2). Se o estatuto dos novos trabalhadores do Estado (que é dizer, daqueles que ingressaram em funções públicas depois de 1 de janeiro de 2006) nunca mereceu dúvidas, colocou-se a questão de saber qual seria a situação dos trabalhadores que já exerciam funções públicas antes de 1 de janeiro de 2006 que abandonassem a sua posição depois dessa data e que, mais tarde, readquirissem o estatuto de agente público: poderiam estes ser entendidos novos subscritores, aplicando-se a proibição de inscrição na CGA e sujeição ao regime da segurança social (artigo 2.º, n.ºs 1 e 2, da Lei n.º 60/2005, de 29 de dezembro)?
+
+A Lei n.º 45/2024, de 27 de dezembro, com início de vigência em 27 de [dezembro] de 2024 – ou seja, mais de 18 anos depois da entrada em vigor do regime de convergência estabelecido pela Lei n.º 60/2005, de 29 de dezembro – propôs-se patentear a interpretação autêntica deste programa normativo (artigo 1.º), dirimindo qualquer controvérsia respeitante a funcionários nesta situação. Segundo o disposto no artigo 2.º, n.º 1, do novo diploma, o trabalhador que, depois de 1 de janeiro de 2006, haja abandonado as funções públicas e reingressado mais tarde em carreira pública, considera-se abrangido pela proibição de inscrição na CGA constante do artigo 2.º, n.º 1, da Lei n.º 60/2005, de 29 de dezembro. Será, por necessária deriva, inscrito no regime comum da segurança social de acordo com a regra de convergência prevista no artigo 2.º, n.º 2, deste mesmo diploma. Em exceção a esta regra, porém, podem ser reinscritos na CGA os trabalhadores que, depois da cessação de funções, hajam constituído novo vínculo de emprego público desde que (i) não haja existido descontinuidade na transição (artigo 2.º, n.º 2, alínea a) – ou seja, apenas quando se trate da transferência entre diferentes posições na função pública, sem nenhuma interrupção da qualidade de servidor público) ou, caso se interponha um intervalo até à reaquisição do estatuto de agente público, desde que essa descontinuidade seja coeva à categoria profissional em referência, quando o interregno seja alheio à vontade do trabalhador e, ainda, desde que este não tenha exercido atividade remunerada durante esse intervalo (artigo 2.º, n.º 2, alínea b)).
+
+Tratando-se de norma interpretativa, como expressamente se indica no texto do diploma, esta seria a revelação autêntica da disciplina contida no artigo 2.º, n.ºs 1 e 2, da Lei n.º 60/2005, de 29 de dezembro, razão por que os seus efeitos acompanhariam o início de vigência da norma nos termos do artigo 13.º, n.º 1, do Código Civil (CC) (com as exceções aí constantes, que aqui não importam).
+
+Por outras palavras, ainda que aprovada pelo Parlamento muito mais tarde, a aquisição de eficácia da descrita disciplina remontaria a 1 de janeiro de 2006, aplicando-se a todos os trabalhadores públicos que hajam cessado funções e reingressado na função pública depois dessa data, já que não se trataria de introduzir um novo regime, mas de enunciar o que se achava em vigor.
+
+Para o Tribunal ‘a quo’, porém, o artigo 2.º da Lei n.º 45/2024, de 27 de dezembro, não possui natureza interpretativa, trata-se antes de um corpo de normas inovatório e que veio mesmo alterar substancialmente a disciplina normativa que vertia do artigo 2.º, n.ºs 1 e 2, da Lei n.º 60/2005, de 29 de dezembro. A eficácia retroativa conferida à norma mediante a atribuição artificial (meramente legal-formal) de carácter interpretativo teria permitido, em 2024, impor a proibição de inscrição na CGA de trabalhadores readmitidos ao serviço público com efeitos a partir de 2006: para a decisão recorrida, este efeito não é consentido pelo princípio da segurança jurídica que deriva do arquétipo de Estado de Direito acolhido na Lei Fundamental (artigo 2.º), aí radicando o juízo de inconstitucionalidade material e inerente desaplicação da norma, impondo-se a inerente procedência da ação proposta e a condenação da demandada a reinscrever a demandante na CGA.
+
+Assim sendo, a questão de inconstitucionalidade sinalizada pelo Tribunal ‘a quo’ reside no facto de a norma fiscalizada ter atingido um direito constituído e titulado pela demandante antes do seu início de vigência: porque a demandante tinha cessado e readquirido o vínculo de emprego público antes da entrada em vigor da Lei n.º 45/2024, de 27 de dezembro, assistir-lhe-ia o direito a reinscrição na CGA ao abrigo da Lei n.º 60/2005, de 29 de dezembro – a norma fiscalizada, aplicando-se retroativamente, teria alterado este quadro legal, produzindo a ablação do direito da demandante a reinscrição na CGA e sujeitando-a ao regime geral da Segurança Social.
+
+Posto isto, estamos em posição de concluir que o objeto normativo fiscalizado, desaplicado e objeto de recurso consiste no disposto no artigo 2.º, n.ºs 1 e 2, da Lei n.º 45/2024, de 27 de dezembro, interpretado no sentido de a proibição de reinscrição na Caixa Geral de Aposentações e os requisitos para essa reinscrição constantes daqueles preceitos se considerarem aplicáveis a sujeitos cujo vínculo de emprego público haja cessado depois de 1 de janeiro de 2006 e que o hajam restabelecido antes de 26 de outubro de 2024.
+
+Delimitado o objeto do processo e colocada a controvérsia, passemos à apreciação.
+
+7. A Caixa Geral de Aposentações foi criada pelo Decreto n.º 16:669, publicado em 27 de março de 1929, e tinha por missão a atividade gestora do sistema de pensões dos servidores públicos, presidindo a um sistema previdencial organizado que agregava os trabalhadores com vínculo ao Estado, captando receitas e conferindo direitos de pensão a esta classe profissional.
+
+Depois de iniciativas de reforma nos anos 70 (Decreto-Lei n.º 498/72, de 9 de dezembro) e 90 (Decreto-Lei n.º 277/93, de 10 de agosto e Decreto-Lei n.º 361/98, de 18 de novembro), iniciou-se na viragem do milénio o processo de liquidação do sistema previdencial dos funcionários públicos e de convergência e integração no estatuto dos trabalhadores privados, que se vem prolongando até hoje (entre outros, v. Decreto-Lei n.º 361/98, de 18 de novembro, Decreto-Lei n.º 503/99, de 20 de novembro, Lei n.º 60/2005, de 29 de dezembro, bem como subsequentes alterações, Decreto-Lei n.ºs 187/2007, de 10 de maio, Lei n.º 3-B/2010, de 28 de abril, Lei n.º 66-B/2012, de 31 de dezembro, Lei n.º 11/2014, de 6 de março, Lei n.º 82-B/2014, de 31 de dezembro, Decreto-Lei n.º 84/2019, de 28 de junho e Decreto-Lei n.º 108/2019, de 13 de agosto).
+
+Esta alteração de modelo previdencial suscita questões particulares, já que a radical alteração de paradigma do plano de reforma facilmente pode colocar em causa direitos em formação ou já adquiridos perante a entidade pública. Até à iniciativa legal, a existência da CGA foi influindo na determinação de trabalhadores em aderirem à carreira pública (já que o estatuto de reforma será, essencialmente, uma componente retributiva do período de exercício efetivo de funções) e o organismo foi obtendo financiamento nos trabalhadores públicos ao longo de todo o período em que desenvolveu atividade, conferindo-lhes, por contrapartida, direitos enquanto futuros pensionistas. Nesse pressuposto, a integridade destas posições materiais sobre o instituto público constitui uma componente necessária da transição para um sistema de previdência universal e da liquidação da pessoa coletiva de direito público que desempenhou a função de entidade gestora.
+
+De outra parte, a questão das normas interpretativas foi debatida recentemente neste Tribunal e não se mostra controverso o entendimento, alinhado com a doutrina sobre a matéria, de que uma norma apenas se entenderá interpretativa quando a solução que apresenta esteja contida na orientação da norma interpretada, que é dizer, quando constitua uma das leituras possíveis do texto legal; no caso, de acordo com a jurisprudência dos tribunais da ordem jurisdicional em que a questão se insere. Dito de outra forma, a norma será interpretativa quando por sua ação se depure a norma interpretada da ubiquidade que esta possuía, elegendo um sentido e alcance prático que, antes da norma nova, a antiga apresentava como possível, em face dos elementos interpretativos atendíveis:
+
+«A função das leis interpretativas é determinar o sentido de uma lei anterior cuja aplicação não seja uniforme. Por isso mesmo, o sentido interpretativo que ela revela já está virtualmente contido no espírito da lei interpretada, não implicando a sua determinação qualquer apreciação e valoração ex novo dos factos e situações regidas pela lei interpretada, mas apenas a clarificação do sentido que o legislador atribui às suas próprias palavras, precisando o respetivo conteúdo. Assim, uma norma será interpretativa quanto ao fundo, não porque o legislador assim a denomine, mas, sim, porque teve intenção de interpretar o direito anterior, removendo o conflito de jurisprudência que sobre ele se havia estabelecido.»
+
+(Acórdão do TC n.º 121/2023, em plenário; também, n.º 503/2024)
+
+Assim sendo, a norma interpretativa não é um conceito legal-formal: trata-se de uma qualificação que depende da forma particular como a norma se relaciona com outra norma, a cuja interpretação se dedica, cingindo o seu desempenho a um efeito específico relativo a esta última: a norma interpretativa opera apenas como fórmula de identificação de um dos sentidos possíveis contidos no texto legal de acordo com as regras gerais de interpretação, assim exibindo desempenho como determinante definitivo do seu sentido normativo e alcance disciplinador.
+
+8. Pois bem, regressando ao caso dos autos, a primeira observação que se impõe é que a jurisprudência, algum tempo depois da entrada em vigor da Lei n.º 60/2005, de 29 de dezembro, apreciou o problema dos ex-agentes públicos readmitidos a funções para efeitos de inscrição na CGA ou na segurança social. Uma vez que, por força do Estatuto da Aposentação (Decreto-Lei n.º 498/72 de 9 de dezembro), a eliminação do funcionário como subscritor da CGA dependia que o abandono de funções fosse definitivo (artigo 22.º, n.º 1: «Será eliminado o subscritor que, a título definitivo, cesse o exercício do seu cargo (…)») e porque o artigo 2.º, n.º 1, da Lei n.º 60/2005, de 29 de dezembro, só impunha a inscrição na Segurança social a funcionários que nunca antes tivessem exercido funções públicas («O pessoal que inicie funções a partir de 1 de Janeiro de 2006 (…) é obrigatoriamente inscrito no regime geral da segurança social»), os Tribunais perfilharam o entendimento de que a proibição de (re)inscrição na CGA (com a obrigatoriedade de inscrição no regime geral da segurança social) não abrangia servidores readmitidos ao serviço depois da entrada em vigor do novo diploma. Quanto a estes, permitia-se, como tal, a reinscrição na CGA, entendido como um direito antes adquirido.
+
+O problema foi assim decidido pelo Supremo Tribunal Administrativo em acórdão de 6 de março de 2014 no Proc. 0889/13:
+
+«A articulação entre os regimes do sistema de segurança social e os regimes de protecção social da função pública, nomeadamente no sentido da sua tendencial uniformização ou convergência, tem constituído um dos objectivos sucessivamente proclamados pelo legislador em vários diplomas de que constitui exemplo a Lei nº 60/2005, de 29 de Dezembro.
+
+O art. 2º deste diploma tem o seguinte conteúdo:
+
+“Artigo 2º
+
+Inscrição
+
+1-A Caixa Geral de Aposentações deixa, a partir de 1 de Janeiro de 2006, de proceder à inscrição de subscritores.
+
+2- O pessoal que inicie funções a partir de 1 de Janeiro de 2006 ao qual, nos termos da legislação vigente, fosse aplicável o regime de protecção social da função pública em matéria de aposentação, em razão da natureza da instituição a que venha estar vinculado, do tipo de relação jurídica de emprego de que venha a ser titular ou de norma especial que lhe conferisse esse direito, é obrigatoriamente inscrito no regime geral da segurança social.”
+
+Retira-se imediatamente da letra dos nºs 1 e 2 do preceito que o legislador pretende que a CGA deixe de proceder à inscrição de subscritores, a partir de 1 de Janeiro de 2006, o que significa que aos funcionários e agentes que “iniciem” funções, a partir daquela data, passa a aplicar-se o regime da segurança social. Neste sentido, a utilização do inciso “inicie” funções, afigura-se inequívoco no sentido de abranger os trabalhadores que ingressem pela primeira vez (ex novo) na função pública. O objectivo a alcançar é o de não aumentar o número de inscrições através do cancelamento da entrada de novos subscritores e, nessa medida, caminhar para a convergência ao mesmo tempo que se limita o crescimento da despesa pública nesta área.
+
+No mesmo sentido, na exposição de motivos constante da Proposta de Lei nº 38/X pode ler-se, entre o mais, que “A concretização da convergência não deve, porém, fazer-se nem à custa do sacrifício das expectativas daqueles que, no quadro do regime actualmente em vigor, já reúnem condições para se aposentarem. Nem de ruturas fracturantes, optando-se antes por um modelo de transição gradual que aplica aos funcionários, agentes da Administração Pública e demais servidores do Estado o regime de pensões do Estatuto da Aposentação, o regime de segurança social ou ambos simultaneamente.”
+
+Assim sendo, considerando a letra do preceito e a sua razão de ser, afigura-se claro poder retirar-se do preceito que o mesmo deve ser interpretado no sentido de a CGA estar impedida de inscrever como subscritor aquele funcionário/agente que pela primeira vez venha a ser titular de relação jurídica pública. (…)
+
+O art. 22º do EA, sob a epígrafe “Eliminação do subscritor”, prevê as situações em que há lugar ao cancelamento da inscrição dos subscritores, dispondo do seguinte modo:
+
+“1- Será eliminado o subscritor que, a título definitivo, cesse o exercício do seu cargo, salvo se for investido noutro a que corresponda igualmente direito de inscrição”.
+
+Por sua vez, o nº 2 do mesmo preceito permite em qualquer caso nova inscrição se o antigo subscritor vier a ser readmitido em quaisquer funções públicas contempladas no art. 1º do mesmo Estatuto.
+
+Da leitura conjugada das referidas normas retira-se que, para o legislador, só haverá cancelamento da inscrição do subscritor que cesse definitivamente o exercício do seu cargo, assistindo-lhe, porém, o direito a ser de novo inscrito, se voltar a ingressar em funções públicas.
+
+No entanto, note-se que, à luz do EA, só há lugar ao cancelamento da inscrição do subscritor, com a consequente eliminação, quando aquele cesse, a título definitivo, o seu cargo (…)
+
+Acresce que também quanto ao fim visado pelo art. 2º da Lei nº 60/2005 se afigura não existir incompatibilidade entre os dois preceitos, uma vez que, como vimos, o que se pretende é alcançar a convergência progressiva através da proibição da entrada de novos subscritores, ou seja, o objectivo é cancelar novas entradas e não propriamente eliminar os que permanecem no sistema.
+
+(…) pelo que ficou dito, o inciso “direito de inscrição” deve ser objecto de interpretação adequada de modo a harmonizar-se com a letra e a teleologia intrínseca do art. 2º da Lei nº 60/2005, preceito que, como vimos, apenas visa abranger o pessoal que inicie absolutamente funções. Logo, esta norma deve ser tomada no sentido restrito de que só há eliminação do subscritor se ele não for investido noutro cargo a que – antes de 1/1/2006 - correspondesse direito de inscrição.»
+
+Esta orientação jurisprudencial sedimentou-se e estabilizou nos nossos Tribunais, do que serão exemplos os acórdãos do Tribunal Central Administrativo Norte de 14 de fevereiro de 2020 no Proc. 01771/17.0BEPRT, de 28 de janeiro de 2022 no Proc. 01100/20.6BEBRG, de 11 de fevereiro de 2022 no Proc. 00099/21.1BRBRG, de 10 de março de 2022 no Proc. 1974/20.0BEBRG, de 10 de março de 2022 no Proc. 877/21.6BEBRG, de 30 de setembro de 2022 no Proc. 00708/20.4BEPRT, de 7 de dezembro de 2022 no Proc. 00714/20.9BEPNF e de 08 de abril de 2022 no Proc. 00307/19.3BEBRG. Mais recentemente, o mesmo entendimento foi reiterado no acórdão do Tribunal Central Administrativo Sul de 27 de março de 2025 no Proc. 108/24.7BELRA e nos acórdãos do Tribunal Central Administrativo Norte de 24 de janeiro de 2025 no Proc. 01183/23.7BEPRT, de 7 de fevereiro de 2025 no Proc. 01668/23.5BEPRT, de 7 de fevereiro de 2025 no Proc. 00567/24.8BEBRG, de 21 de fevereiro de 2025 no Proc. 00123/24.0BECBR, de 21 de fevereiro de 2025 no Proc. 01091/24.4BEBRG, de 7 de março de 2025 no Proc. 00240/24.7BECBR, de 7 de março de 2025 no Proc. 00187/24.7BEPNF, de 21 de março de 2025 no Proc. 00619/23.1BEBRG, de 21 de março de 2025 no Proc. 00953/24.3BEBRG, de 27 de março de 2025 no Proc. 108/24.7BELRA, de 4 de abril de 2025 no Proc. 00197/24.4BEPNF, de 4 de abril de 2025 no Proc. 00270/24.9BEPNF, de 10 de abril de 2025 no Proc. 795/24.6BESNT e de 24 de abril de 2025 no Proc. 00401/24.9BEPNF.
+
+O artigo 2.º da Lei n.º 45/2024, de 27 de dezembro, porém, veio opor-se com estrondo a esta disciplina normativa – extraída da Lei aplicável como unívoca e com dezoito anos de vigência – já que introduziu como regra a proibição de reinscrição na CGA de servidores públicos que regressassem a funções, abrindo exceção apenas para duas situações programadas no n.º 2 do sobredito articulado legal, que antes referimos e agora relembramos: quando se verifique mero trânsito do profissional entre posições na função pública, sem interrupção na qualidade de servidor público; ou, em alternativa, quando o interregno seja indissociável do estatuto de agente público em causa e, cumulativamente, quando a alteração seja alheia à vontade do funcionário e este não tenha desenvolvido atividade remunerada no ínterim.
+
+Muito embora resulte do já exposto, importa fazer ver que este novo programa normativo jamais poderia ser obtido com base num exercício interpretativo do Direito ordinário em vigor até à chegada ao ordenamento da Lei n.º 45/2024, de 27 de dezembro: de uma parte, a regra de exclusão da CGA dos agentes públicos que regressem à função opunha-se ao teor literal do artigo 22.º, n.º 1, do Estatuto de Aposentação, que expressis verbis exigia que o abandono fosse definitivo para que se perdesse a qualidade de beneficiário da CGA; de outra parte, a obrigação de inscrição na segurança social de funcionários públicos nos termos do artigo 2.º, n.º 1, da Lei n.º 60/2005, de 29 de dezembro, cingia-se a trabalhadores que iniciassem funções depois de 1 de janeiro de 2006, excluindo da assimilação ao regime previdencial comum os agentes que se apresentassem de regresso ao exercício de funções públicas; em terceiro lugar, e por fim, pelo menos a segunda cláusula de exceção sobre o princípio geral de proibição de reinscrição de funcionários na CGA (artigo 2.º, n.º 2, alínea b), Lei n.º 45/2024 de 27 de dezembro), com condicionantes específicas que caracterizam situações francamente circunscritas e peculiares, seria impassível de ser extraída do texto do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, cujo texto nada de remotamente associável poderia sugerir ao intérprete. Serve por dizer, a vinculação dos funcionários públicos ao programa normativo que se observa no artigo 2.º da Lei n.º 45/2024, de 27 de dezembro, estava dependente de uma iniciativa legislativa, não sendo equacionável disciplina semelhante antes deste diploma.
+
+Em reforço e emprestando adicional solidez à conclusão que já alcançámos, recordamos que a jurisprudência ganhou contornos de unanimidade sobre esta matéria, cimentando a posição material dos funcionários públicos que regressassem a funções após 1 de janeiro de 2006 perante a CGA que a Lei n.º 45/2024, de 27 de dezembro, maxime o seu artigo 2.º, veio alterar.
+
+Face a todo o exposto, a norma fiscalizada não se pode entender uma norma interpretativa, é antes um quadro normativo inovador e que alterou o estatuto legal e a relação substantiva entre servidores públicos e a Caixa Geral de Aposentações, agravando fortemente os requisitos para a reinscrição de trabalhadores regressados ao serviço e reforçando de forma intensa os casos de sujeição ao regime comum da segurança social. Diríamos mesmo que se tratou de uma alteração importante ao sistema de equilíbrios do processo de convergência com privados programado pelo Legislador e com evidente prejuízo para os sujeitos que hajam reingressado depois de 1 de janeiro de 2006 na função pública, cuja qualidade de subscritores da CGA foi abolida arbitrariamente.
+
+Dito de outra forma, enfim, desde 1 de janeiro de 2006 e até à entrada em vigor do artigo 2.º da Lei n.º 45/2024, de 27 de dezembro, todos os funcionários inscritos na CGA que interrompessem o exercício de funções públicas, mas a elas regressassem, beneficiavam do direito a reinscrição na Caixa Geral de Aposentações. O artigo 2.º, n.ºs 1 e 2, da Lei n.º 45/2024, de 27 de dezembro, porém, adotando outro paradigma, acelerou o processo de convergência por via de um efeito ablativo sobre a esfera destes funcionários, eliminando o direito a reinscrição na CGA no caso de readmissão a funções públicas (ressalvando apenas, como se disse, os casos em que a interrupção haja sido involuntária, coeva à função e desde que o trabalhador não tenha exercido atividade remunerada durante o interregno) e fazendo retroagir a nova solução ao início do processo de convergência, em 1 de janeiro de 2006.
+
+A norma sindicada mostra-se, por tudo, violadora do princípio de Estado de Direito (artigo 2.º da Constituição da República Portuguesa) e sua derivação sobre segurança jurídica, já que o seu desempenho operativo se projeta numa lesão em direitos incorporados na esfera jurídica de particulares sobre uma pessoa coletiva de Direito público, a CGA. Nada proibia o Estado de proceder à reorganização do sistema previdencial dos seus servidores optando por um novo modelo, este assente numa premissa de solidariedade universal entre trabalhadores, seja qual for o setor onde prestem funções, público ou privado. Isso não significa, porém, que fosse permitido ao Legislador amputar direitos de terceiros consolidados na ordem jurídica através da reforma conduzida por via da retroação do novo quadro legal, tal como se pretende pela norma fiscalizada:
+
+«(…) a luta pela Constituição e pelo Estado de Direito foi também, desde os primórdios das revoluções liberais, uma luta pela segurança jurídica, no sentido de um projeto de organização racional do Estado e da sua atuação que mantivesse a esfera dos particulares, nomeadamente no domínio da propriedade e da atividade económica, ao abrigo das arbitrariedades típicas de um exercício dos poderes de autoridade discricionária que caracterizavam o anterior Estado absoluto (…) uma lei retroativa restritiva de direitos é, à partida, constitucionalmente ilegítima, de tal forma ela afeta desvantajosamente posições dos particulares já estabilizadas ou resolvidas no passado, de uma forma com que estes não podiam razoavelmente contar nem a ordem jurídica de Estado de Direito poderia admitir. Uma lei retroativa restritiva de direitos é, por definição, uma lei que, apesar de aprovada num dado momento, ficciona a sua entrada em vigor em momento anterior e pretende produzir integralmente os seus efeitos, no caso efeitos restritivos, desvantajosos para os particulares, a partir desse momento ficcionado, portanto, produzindo efeitos sobre situações já estabilizadas no passado e constituídas legalmente ao abrigo do quadro jurídico então vigente.»
+
+(Jorge Reis Novais, Princípios Estruturantes do Estado de Direito, 2.ª Ed., Almedina, 2022, p. 216 e 221; v., também, Acórdão do TC n.º 188/2009)
+
+A ablação, unilateral e injustificada, do direito a reinscrição na Caixa Geral de Aposentações por funcionários que hajam sido reinstituídos em funções públicas depois de 1 de janeiro de 2006 e antes de 27 de outubro de 2024 representa, em face do exposto, uma lesão arbitrária em direitos legais e legítimos titulados por particulares, lesiva do princípio da confiança e por isso proibida pelo princípio constitucional de Estado de Direito (artigo 2.º da Constituição da República Portuguesa).
+
+Assim sendo e convergindo com as conclusões do recorrente, a norma sob sindicância será julgada inconstitucional com o descrito fundamento, improcedendo o recurso interposto».
+
+8. É esta jurisprudência que importa reiterar.
+
+Não se tratando de nenhuma das hipóteses em que a Constituição proíba expressamente a retroatividade da nova regulação — como aquela que é estabelecida na norma em crise —, a norma será inconstitucional se violar o princípio da proteção da confiança. Nos termos da jurisprudência deste Tribunal — sintetizada no Acórdão n.º 128/2009 — a proteção jurídico-constitucional da confiança depende do preenchimento cumulativo de quatro requisitos: «é necessário, em primeiro lugar, que o Estado (mormente o legislador) tenha encetado comportamentos capazes de gerar nos privados “expectativas” de continuidade; depois, devem tais expectativas ser legítimas, justificadas e fundadas em boas razões; em terceiro lugar, devem os privados ter feito planos de vida tendo em conta a perspetiva de continuidade do “comportamento” estadual; por último, é ainda necessário que não ocorram razões de interesse público que justifiquem, em ponderação, a não continuidade do comportamento que gerou a situação de expectativa».
+
+Ora, como se deu nota no Acórdão n.º 1047/2025, tais pressupostos estão inequivocamente preenchidos:
+
+«(…) Relativamente ao primeiro pressuposto, resulta efetivamente da fundamentação do Acórdão n.º 689/2025 que se está perante uma «afetação de expectativas» por força de «uma mutação da ordem jurídica com que, razoavelmente, os destinatários das normas dela constantes não po[diam] contar». Com efeito, o n.º 2 do artigo 2.º da Lei 60/2005, de 29 de dezembro, foi sempre interpretado uniformemente pelos tribunais no sentido de que o n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, apenas proíbe a inscrição de novos subscritores que iniciem ex novo funções públicas, independentemente de terem ocorrido, ou não, hiatos temporais entre os vínculos de emprego público, pelo que a solução adotada na nova lei – apenas permitir a reinscrição dos trabalhadores que não tiveram qualquer descontinuidade temporal entre vínculos de emprego público ou, existindo descontinuidade temporal, se se comprovar que esta é de natureza involuntária, limitada no tempo e justificada pelas especificidades próprias da carreira em que o sujeito está inserido e desde que este não tenha exercido atividade remunerada durante o período em que interrompeu o vínculo público – não poderia nunca ser inferida do texto original.
+
+Nota-se que, como exemplo de inexistência de proteção de confiança legítima, se menciona o caso em que o legislador se limita a acolher uma solução que corresponde à prática jurisprudencial vigente (vd. Helmuth Schulze-Fielitz, “Artikel 20”, in Horst Dreier (Hg.), Grundgesetz-Kommentar, Bd. 2, Art. 20-82 GG, 3.ª ed., Tübingen, Mohr Siebeck, 2015, n.º 160, com indicação de jurisprudência alemã). Ora, como se viu, a situação é precisamente a contrária à referida para afastar a censura da retroatividade da norma.
+
+Porém, cabe ainda mostrar que, como afirmado no Acórdão n.º 689/2025, o artigo 2.º, n.os 1 e 2, da Lei n.º 45/202[4], de 27 de dezembro, veio introduzir «uma alteração importante ao sistema de equilíbrios do processo de convergência com privados programado pelo Legislador e com evidente prejuízo para os sujeitos que hajam reingressado depois de 1 de janeiro de 2006 na função pública», ou seja, que se trata de uma afetação de expetativas «em sentido desfavorável».
+
+O regime de proteção social aplicável aos funcionários e agentes da Administração foi desenhado combinando proteção previdencial e proteção meramente administrativa, de base não contributiva (vd., para uma breve caraterização, Ilídio das Neves, Direito da segurança social, Coimbra, Coimbra Editora, 1996, pp. 805-814; Idem, “Regime de protecção social da função pública”, in Ilídio das Neves, Dicionário técnico e jurídico de protecção social, Coimbra, Coimbra Editora, 2001, pp. 595-597). O que era conhecido como regime de proteção social da função pública – que passou a ser denominado regime de proteção social convergente – vale para aqueles que entraram no sistema até 31 de dezembro de 2005. Quanto à proteção social de tipo previdencial, assenta numa obrigação contributiva, limitada às eventualidades velhice, invalidez e morte, sendo os textos fundamentais o Decreto-Lei n.º 498/72, de 9 de dezembro (Estatuto da Aposentação) e, no que toca às pensões de sobrevivência, o Decreto-Lei n.º 142/73, de 31 de março (Estatuto das Pensões de Sobrevivência), ambos com numerosas alterações. No que toca à pensão de aposentação, para os subscritores da Caixa Geral de Aposentações inscritos a partir de 1 de setembro de 1993, a fórmula de cálculo das pensões era já a aplicável aos «beneficiários do regime geral da segurança social» (artigo 1.º, n.º 1, do Decreto-Lei n.º 286/93, de 20 de agosto). Em relação aos inscritos anteriormente, ou seja, até 31 de agosto de 1993, no que toca ao serviço prestado a partir de 1 de janeiro de 2006, o cálculo da segunda parcela da pensão (P2) pertinente segue igualmente as regras da segurança social (artigo 5.º da Lei n.º 60/2005, de 29 de dezembro).
+
+Também em matéria de «parentalidade», o Decreto-Lei n.º 89/2009, de 9 de abril (Regulamenta a proteção na parentalidade, no âmbito da eventualidade maternidade, paternidade e adoção, dos trabalhadores que exercem funções públicas integrados no regime de proteção social convergente) veio, como se vê no Preâmbulo, estabelecer o seguinte:
+
+«No âmbito da concretização do direito à segurança social de todos os trabalhadores, a Lei n.º 4/2009, de 29 de Janeiro, definiu a proteção social dos trabalhadores que exercem funções públicas. Para o efeito, determinou a integração no regime geral de segurança social de todos os trabalhadores cuja relação jurídica de emprego público tenha sido constituída após 1 de Janeiro de 2006 e bem assim a manutenção dos trabalhadores que, àquela data, nele se encontravam inscritos. Quanto aos trabalhadores que até 31 de Dezembro de 2005 se encontravam abrangidos pelo denominado regime de proteção social da função pública, foi criado o regime de proteção social convergente, inequivocamente enquadrado no sistema de segurança social, com respeito pelos seus princípios, conceitos, objetivos e condições gerais, bem como os específicos do seu sistema previdencial, visando, num plano de igualdade, uma proteção efetiva e integrada em todas as eventualidades. O regime de proteção social convergente possui, assim, uma disciplina jurídica idêntica à do regime geral de segurança social no que se refere à regulamentação da proteção nas diferentes eventualidades, designadamente quanto aos respetivos objetos, objetivos, natureza, condições gerais e específicas, regras de cálculo dos montantes e outras condições de atribuição das prestações. Por razões de aproveitamento de meios, foi mantido o modelo de organização e gestão atualmente existente, bem como o sistema de financiamento próprio, não resultando, no entanto, qualquer aumento da taxa das quotizações presentemente aplicável aos trabalhadores nele integrados. Neste quadro, importa agora dar cumprimento às determinações daquela lei no domínio da sua regulamentação. Consciente da complexidade e da delicadeza do tema, o Governo optou por iniciar a regulamentação relativa à parentalidade, no âmbito da eventualidade maternidade, paternidade e adoção, por ser aquela em que as diferenças entre o regime geral e o da proteção social da função pública são mais profundas, ultrapassando assim as injustiças que atualmente se verificam entre os trabalhadores que exercem funções públicas. Destaque-se que o presente decreto-lei obedece aos princípios e regras do regime geral de segurança social, na proteção da parentalidade, no âmbito da eventualidade maternidade, paternidade e adoção, pretendendo-se, tão-só e em convergência com aquele, garantir os mesmos direitos, procedendo às adaptações tidas por necessárias em face da organização e financiamento próprios. Assim, introduz-se uma abordagem completamente diferente, distinguindo as prestações pagas como contrapartida do trabalho prestado (a remuneração), que relevam do direito laboral, das prestações sociais substitutivas do rendimento de trabalho, quando este não é prestado, que relevam do direito da segurança social. No entanto, de acordo com a organização própria do regime de proteção social convergente, as duas áreas de competências, embora legalmente distintas, permanecem sob a responsabilidade da mesma entidade, a entidade empregadora. Por outro lado, sendo mantido o esquema de financiamento anterior, não são devidos descontos para esta eventualidade por parte do trabalhador, nem da entidade empregadora, suportando esta, porém, os respetivos encargos. A não prestação de trabalho efetivo, por motivo de maternidade, paternidade e adoção, constitui, assim, uma situação legalmente equiparada à entrada de contribuições em relação às eventualidades cujo direito dependa do pagamento destas».
+
+A manutenção da inscrição ou a reinscrição na Caixa Geral de Aposentações continua a ser vista como uma mais-valia em função do regime previsto para a eventualidade doença, que não assenta numa base contributiva. Na verdade, é a permanência na Caixa Geral de Aposentações que determina, ou não, o acesso a um regime, rebatizado de proteção social convergente. Ou seja, podemos falar de uma dupla centralidade da Caixa Geral de Aposentações neste regime: por um lado, uma centralidade que resulta de assegurar prestações diferidas essenciais tendo presente a fragilidade da condição humana; por outro, a centralidade de determinação de aplicação de um regime que não se esgota nessas prestações. Estar inscrito na Caixa Geral de Aposentações é, pois, a porta de acesso a um regime mais vasto, que conjuga a dimensão prestacional contributiva com a referida proteção de base administrativa, nomeadamente como resposta à eventualidade doença.
+
+Esta relevância valia, aliás, para os funcionários e agentes subscritores da Caixa Geral de Aposentações que, continuando a ter cobertura primária por via dessa instituição, já lhes era aplicada a fórmula de cálculo das pensões da segurança social, nos termos referidos.
+
+A Lei n.º 4/2009, de 29 de janeiro (Define a proteção social dos trabalhadores que exercem funções públicas) distingue, no seu artigo 6.º, entre dois regimes de proteção social no que toca aos trabalhadores que exercem funções públicas, a saber:
+
+a) regime geral de segurança social dos trabalhadores por conta de outrem (artigo 6.º, alínea a));
+
+b) regime de proteção social convergente, com organização e sistema de financiamento próprios, num quadro de convergência com o regime geral de segurança social (artigo 6.º, alínea b)).
+
+No primeiro caso – regime geral de segurança social – estamos perante uma solução de “externalização”, ou seja, cabe a uma instância terceira à relação de emprego a garantia da resposta a eventualidades, por via de prestações sociais. Já quanto ao regime de proteção social, a resposta às eventualidades, na parte em que assenta numa base administrativa não contributiva, corresponde a um modelo de “internalização” [vd., sobre a distinção entre mecanismos de “internalização” e de “externalização”, Hans F. Zacher, “Traditional solidarity and modern social security – harmony or conflict?”, in Idem, Abhandlungen zum Sozialrecht, Heidelberg, C.F. Müller, 1993, pp. 455-470, 456-457; Idem, “Introducción a una fenomenología del derecho social”, in Maria Virginia Lorena Ossio Bustillos (Coord.), Derecho social, inclusión y protección social, La Paz, Universidad Católica Boliviana “San Pablo”, 2022, pp. 46-47]. Considerado no seu todo, o regime de proteção social convergente corresponde, pois, a uma solução mista.
+
+Em relação às respostas à eventualidade doença (não decorrente de causa profissional), comparando o quadro da segurança social e do regime de proteção social convergente, há especificidades institucionais, com expressão também em sede de controlo, sendo o quantum mais generoso nesta situação de incapacidade temporária para o trabalho.
+
+No caso de “externalização”, o subsídio de doença está a cargo do Instituto da Segurança Social, I.P. (cf. o artigo 32.º do Decreto-Lei n.º 28/2004, de 4 de fevereiro, que estabelece o novo regime jurídico de proteção social na eventualidade doença, no âmbito do subsistema previdencial de segurança social). Já no regime de proteção social convergente, vale a Lei n.º 35/2014, de 20 de junho (Lei Geral do Trabalho em Funções Públicas – LTFP).
+
+Há, além disso, sistemas próprios de verificação de incapacidades temporárias [para a segurança social, vd. Decreto-Lei n.º 360/97, de 17 de dezembro, com a última alteração (a quinta) em 2024 – Decreto-Lei n.º 8/2024, de 5 de janeiro; quanto ao regime de proteção social convergente, cf. a LTFP, que estabelece a intervenção da ADSE, nos termos previstos nomeadamente nos artigos 21.º (Verificação domiciliária da doença pela ADSE), 33.º (Junta médica) e 39.º (Junta médica de recurso)].
+
+Deixando de parte o regime dos três primeiros dias de incapacidade temporária para o trabalho (período de espera), a primeira diferença que salta à vista em termos de proteção material prende-se com a perda de apenas 10% da remuneração diária, a partir do quarto dia e até ao trigésimo dia de incapacidade temporária (artigo 15.º, n.º 2, alínea b), da LTFP); para além deste período, mantendo-se a situação referida, não há impacto remuneratório. Já no caso de trabalhadores enquadrados na segurança social o panorama é muito diferente, a saber: se o período de incapacidade temporária for de duração inferior ou igual a 30 dias, o montante do respetivo subsídio corresponde a 55% da remuneração de referência (RR); caso a duração da incapacidade ultrapasse os 30 dias, mas for inferior a 90 dias, 60%; se a incapacidade for superior a 90 dias e inferior a 365 dias de trabalho, a percentagem é de 70%, que ascende a 75% quando superior ao último período mencionado (cf. o Decreto-Lei n.º 28/2004, de 4 de fevereiro). Isto para não se considerar outras diferenças entre regimes, como a inexistência de um prazo de garantia no regime de proteção social convergente.
+
+Para além da diferença em termos de proteção na doença, há um outro aspeto que, de um ponto de vista meramente prático, pode relevar para muitos dos subscritores que foram eliminados, a partir da leitura do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, sustentada pela Caixa Geral de Aposentações. Na verdade, para os subscritores que nunca estiveram enquadrados na segurança social, mas apenas na Caixa Geral de Aposentações, a migração para a primeira vai traduzir-se na aplicação do regime da pensão unificada. Ora, são frequentes as queixas de dificuldades acrescidas resultantes da necessidade de lidar com duas instituições. Não se discutindo a existência de razões legítimas para o problema, nomeadamente a insuficiência de meios que afeta uma série de serviços públicos, tal situação tem trazido incómodos adicionais.
+
+(…)
+
+A ideia, constante das “contra-alegações” da Caixa Geral de Aposentações, de que não há «boas razões» para essa inclusão dada a inexistência de impacto em termos de formação da pensão, mas apenas em sede de proteção na eventualidade doença (da responsabilidade da entidade patronal) traduz-se numa visão redutora da proteção social convergente. Com efeito, estar ou não coberto pela Caixa Geral de Aposentações determina a aplicação ou não do regime administrativo de cobertura de algumas eventualidades, entre as quais se conta a proteção na eventualidade doença.
+
+Relativamente ao segundo pressuposto, não se tratando de leis interpretativas, as leis novas oneradoras de posições jurídicas têm de ser justificadas por um reforçado interesse público. Será que ele se verifica nesta circunstância?
+
+Sublinhe-se que com as decisões jurisprudenciais não se abriu o sistema a novos subscritores, que o não eram em/ou não haviam sido antes de 31 de dezembro de 2005. Acresce que o interesse público que motivou um conjunto de reformas em matéria de pensões (nomeadamente, de pensões de velhice), até para garantir a sustentabilidade e a justiça intergeracional (vd., por todos, o Acórdão do Tribunal Constitucional n.º 862/2013), não se verifica aqui, dado que para P2 as pensões passaram a ser calculadas com base no regime da segurança social. Conforme se referiu, para além dos reflexos em matéria de aplicação do regime de pensão unificada, o que está aqui essencialmente em causa é continuar a beneficiar do regime mais favorável, no que toca ao quanto, em caso de doença. É verdade que o legislador, à semelhança do que fez em matéria de subsídio de doença no quadro do regime da segurança social, pode vir a estabelecer, no futuro, um regime menos generoso, mas, a fazê-lo, tal valerá para todos os subscritores da Caixa Geral de Aposentações.
+
+Não configura interesse público relevante a circunstância, alegada pela Caixa Geral de Aposentações, de que «durante estes 20 anos os trabalhadores enquadrados no regime geral de segurança social perceberam subsídios por doença, maternidade ou paternidade, desemprego, etc.», ao passo que «as taxas contributivas no regime de proteção social convergente garantem apenas as eventualidades velhice, incapacidade (invalidez) e morte». Com efeito, cabe ao legislador encontrar, para as diversas categorias de casos, critérios de reposição da justiça material, quando necessário. Essa intervenção será uma consequência da correção imposta pela tutela da confiança e não pode servir, pois, para justificar o seu sacrifício.
+
+Em suma, não se prefigura um interesse público apto a justificar a afetação das expetativas dos destinatários da norma fiscalizada».
+
+Verificados os pressupostos da proteção constitucional da confiança, resta negar provimento ao recurso e julgar inconstitucional a norma sob fiscalização.
+
+III. Decisão
+
+Nestes termos e com estes fundamentos, decide-se:
+
+a) Julgar inconstitucional a norma do n.º 2 do artigo 2.º da Lei n.º 45/2024, de 27 de dezembro, segundo a qual os requisitos para reinscrição na Caixa Geral de Aposentações e os requisitos para a reinscrição constantes daquele preceito se consideram aplicáveis a sujeitos cujo vínculo de emprego público haja cessado depois de 1 de janeiro de 2006 e que o hajam restabelecido antes de 27 de dezembro de 2024 (data da entrada em vigor da Lei n.º 45/2025), por violação do princípio da proteção da confiança, contido no artigo 2.º da Constituição; e, em consequência,
+
+b) Negar provimento ao recurso.
+
+Sem custas
+
+Lisboa, 24 de novembro de 2025 - Afonso Patrão - Joana Fernandes Costa - Carlos Medeiros de Carvalho - José João Abrantes
