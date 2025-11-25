@@ -6,7 +6,7 @@
 
 ### (Requisitos gerais)
 
-1 - Nenhuma medida de coacção, à excepção da prevista no artigo 196.º, pode ser aplicada se em concreto se não verificar, no momento da aplicação da medida:
+1 - Nenhuma medida de coação, à exceção das previstas no artigo 196.º e no n.º 8 do artigo 200.º, pode ser aplicada se em concreto se não verificar, no momento da aplicação da medida:
 
 a) Fuga ou perigo de fuga;
 

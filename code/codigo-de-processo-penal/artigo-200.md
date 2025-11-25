@@ -27,3 +27,7 @@ f) Se sujeitar, mediante prévio consentimento, a tratamento de dependência de 
 6 - A aplicação de obrigação ou obrigações que impliquem a restrição de contacto entre progenitores são imediatamente comunicadas ao representante do Ministério Público que exerce funções no tribunal competente, para efeitos de instauração, com caráter de urgência, do respetivo processo de regulação ou alteração da regulação do exercício das responsabilidades parentais.
 
 7 - No caso de pessoa coletiva ou entidade equiparada arguida, o juiz pode impor a proibição de contactos, a proibição de adquirir ou usar certos objetos e a obrigação de entrega de certos objetos.
+
+8 - Se houver fortes indícios da prática dos factos descritos nos n.os 1 a 3 do artigo 215.º do Código Penal e se estiver fortemente indiciada a titularidade do imóvel por parte do queixoso, o juiz pode impor ao arguido a obrigação de restituição imediata do imóvel ao respetivo titular.
+
+9 - Quando os imóveis integrem o parque habitacional público e estiverem a ser utilizados para fins habitacionais, o órgão competente para apresentar a queixa por crime de usurpação de coisa imóvel analisa as condições socioeconómicas dos visados e, quando for o caso, ativa as respostas sociais ou habitacionais adequadas e previstas na lei e regulamentos aplicáveis, podendo prescindir da apresentação de queixa quando tiver lugar a desocupação voluntária do imóvel.
