@@ -1,0 +1,123 @@
+Resolução do Conselho de Ministros n.º 183/2025
+
+A Resolução do Conselho de Ministros n.º 104/2022, de 2 de novembro, alterada pela Resolução do Conselho de Ministros n.º 18/2023, de 13 de fevereiro, autorizou a Infraestruturas de Portugal, S. A. (IP, S. A.), a realizar despesa plurianual, abrangendo os anos de 2023 a 2026, no âmbito da implementação do sistema de cabos submarinos que integram o Atlantic CAM, até ao montante global de € 154 427 696,00, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, relativa ao lançamento dos procedimentos pré-contratuais tendentes à celebração dos seguintes contratos: a) contrato de empreitada para a conceção, construção, instalação e montagem das infraestruturas de telecomunicações e tecnologias de informação (ITTI) e da componente SMART que integram o Atlantic CAM, no montante de € 143 383 028,00; b) contrato de prestação de serviços de fiscalização da empreitada referida na alínea anterior, no montante de € 881 100,00; c) contrato de aquisição de equipamentos de transmissão, no montante de € 4 596 345,00; e d) contratos de arrendamento das estações de amarração, no montante de € 5 567 223,00.
+
+Sucede que, na presente data, identificam-se diversas razões que justificam a reprogramação da despesa plurianual, no âmbito da implementação do sistema de cabos submarinos que integram o Atlantic CAM.
+
+Em primeiro lugar, o «Contrato de Concessão da Conceção, Projeto, Construção, Exploração, Operação e Manutenção do Atlantic CAM» apenas foi celebrado, entre o Estado Português e a IP, S. A., em 6 de novembro de 2023, e só entrou em vigor, na sequência do visto prévio emitido pelo Tribunal de Contas, em 9 de fevereiro de 2024. Por conseguinte, a celebração dos contratos mencionados nas alíneas a) e b) do n.º 1 da Resolução do Conselho de Ministros n.º 104/2022, de 2 de novembro, na sua redação atual, que inicialmente se estimava poder ocorrer em 2023, apenas veio a suceder em 2024. Este facto, que teve impacto direto no calendário inicialmente estipulado para a realização da despesa prevista na resolução do Conselho de Ministros acima referida, na sua redação atual, determina assim a necessidade de reprogramar a despesa ali autorizada.
+
+Acresce que, por sua vez, o «Contrato de empreitada para a conceção, construção, instalação e montagem das infraestruturas de telecomunicações e tecnologias de informação (ITTI) e da componente SMART que integram o Atlantic CAM», previsto na alínea a) do n.º 1 da Resolução do Conselho de Ministros n.º 104/2022, de 2 de novembro, na sua redação atual, foi adjudicado pelo valor de € 139 000 000,00, o que resultou numa redução face à despesa autorizada, que cabe também refletir mediante alteração da referida resolução.
+
+Adicionalmente, já no contexto da fase de desenvolvimento do projeto tendente à implementação do sistema de cabos submarinos que integram o Atlantic CAM, concluiu-se ser conveniente - por razões de interesse público, relacionadas, designadamente, com a interdependência funcional entre os mesmos e com o reforço das condições de segurança e resiliência das ligações - proceder à concentração, num mesmo contrato e operador, do arrendamento das estações de amarração referido na alínea d) do n.º 1 da Resolução do Conselho de Ministros n.º 104/2022, de 2 de novembro, na sua redação atual, com os serviços de exploração, operação e manutenção das mesmas estruturas pelo período de duração da concessão. Para cumprimento destas decisões estratégicas, prevê-se que o valor inscrito na referida alínea d) seja acrescido em € 40 366 313,00, financiados por receitas de exploração a auferir pela IP, S. A., no quadro do «Contrato de Subconcessão da Exploração, Operação e Manutenção do Atlantic CAM», a celebrar com a IP Telecom, Serviços de Telecomunicações, S. A.
+
+Desta forma, a presente resolução do Conselho de Ministros autoriza a reprogramação da despesa plurianual, abrangendo os anos de 2023 a 2051, no âmbito da implementação do sistema de cabos submarinos que integram o Atlantic CAM, até ao montante global de € 190 410 981,00, a que acresce o IVA à taxa legal em vigor.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar que os n.<sup>os </sup>1, 2, 3, 5 e 7 da Resolução do Conselho de Ministros n.º 104/2022, de 2 de novembro, alterada pela Resolução do Conselho de Ministros n.º 18/2023, de 13 de fevereiro, passam a ter a seguinte redação:
+
+«1 - Autorizar a Infraestruturas de Portugal, S. A. (IP, S. A.), a realizar despesa até ao montante global de € 190 410 981,00, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, relativa aos procedimentos pré-contratuais relativos à celebração e à execução de:
+
+a) Um contrato de empreitada para a conceção, construção, instalação e montagem das infraestruturas de telecomunicações e tecnologias de informação (ITTI) e da componente SMART que integram o Atlantic CAM, no montante de € 139 000 000,00;
+
+b) [...]
+
+c) [...]
+
+d) Contratos mistos de utilização, acesso e de prestação de serviços, relacionados (i) com infraestruturas de amarração, estações de cabos submarinos e outras infraestruturas que permitam a ligação dos cabos submarinos que integram o ‘Sistema Atlantic CAM’ às redes de comunicações eletrónicas em terra, e (ii) com serviços associados, designadamente de acesso ao sistema elétrico, de armazenagem e internet, de acesso ‘Fronthaul’ ao mar e de operação e manutenção dessas infraestruturas e dos próprios cabos submarinos do ‘Sistema Atlantic CAM’ instalados, no montante de € 45 933 536,00;
+
+2 - [...]
+
+a) Em 2023: € 0,00.
+
+b) Em 2024: € 34 750 000,00;
+
+c) Em 2025: € 8 062 000,00;
+
+d) Em 2026: € 85 276 500,00;
+
+e) Em 2027: € 10 911 500,00.
+
+3 - [...]
+
+a) Em 2024: € 0;
+
+b) Em 2025: € 330 412,49;
+
+c) Em 2026: € 440 550,05;
+
+d) Em 2027: € 110 137,46.
+
+5 - [...]
+
+a) Em 2024: € 0;
+
+b) Em 2025: € 5 399 778,40;
+
+c) Em 2026: € 2 059 444,59;
+
+d) Em 2027: € 1 175 188,47;
+
+e) Em 2028: € 1 197 040,78;
+
+f) Em 2029: € 1 219 330,14;
+
+g) Em 2030: € 1 242 065,29;
+
+h) Em 2031: € 1 275 332,33;
+
+i) Em 2032: € 1 299 123,84;
+
+j) Em 2033: € 1 323 391,18;
+
+k) Em 2034: € 1 348 143,86;
+
+l) Em 2035: € 1 373 391,61;
+
+m) Em 2036: € 1 463 367,17;
+
+n) Em 2037: € 1 490 091,53;
+
+o) Em 2038: € 1 517 350,39;
+
+p) Em 2039: € 1 545 154,42;
+
+q) Em 2040: € 1 573 514,54;
+
+r) Em 2041: € 1 602 441,85;
+
+s) Em 2042: € 1 631 947,71;
+
+t) Em 2043: € 1 662 043,69;
+
+u) Em 2044: € 1 692 741,59;
+
+v) Em 2045: € 1 724 053,45;
+
+w) Em 2046: € 1 755 991,54;
+
+x) Em 2047: € 1 788 568,40;
+
+y) Em 2048: € 1 821 796,79;
+
+z) Em 2049: € 1 855 689,75;
+
+aa) Em 2050: € 1 890 260,57;
+
+bb) Em 2051: € 2 006 292,12.
+
+7 - [...]
+
+a) [...]
+
+b) Outras fontes de financiamento, nomeadamente empréstimos junto do Banco Europeu de Investimento ou de outras instituições financeiras, bem como verbas do orçamento da IP, S. A., designadamente pela utilização dos resultados de exploração e da respetiva concretização do projeto enquanto plataforma internacional de comunicações.
+
+c) [...]»
+
+2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 30 de outubro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119811867
