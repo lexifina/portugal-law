@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "305",
+  "id": "315810",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2025-12-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a67794d446869597a55354c5455344f5449744e4449794d4331695a475a6c4c546733596a4a684d7a4a684e6d526a4f5335775a47593d&fich=8208bc59-5892-4220-bdfe-87b2a32a6dc9.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3252695a544e685a546c6d4c546b344d3249744e4451304e6930354f546b344c5746694d544e6a596d49314d7a67314d79356b62324e34&fich=dbe3ae9f-983b-4446-9998-ab13cbb53853.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa (Versão 1, de 02-12-2025)"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "IL",
+        "idCadastro": "8246",
+        "nome": "Angélique Da Teresa"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7343",
+        "nome": "Carlos Guimarães Pinto"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7339",
+        "nome": "Joana Cordeiro"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "8343",
+        "nome": "Jorge Miguel Teixeira"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7973",
+        "nome": "Mariana Leitão"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "8636",
+        "nome": "Mário Amorim Lopes"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "9428",
+        "nome": "Miguel Rangel"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "6945",
+        "nome": "Rodrigo Saraiva"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7331",
+        "nome": "Rui Rocha"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "IL"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "315810",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3245314e544a6a4f4459304c54526b4d5451744e4745784d7931684d4755794c574a68597a6b334d7a41315a57517a4f43356b62324e34&fich=a552c864-4d14-4a13-a0e2-bac97305ed38.docx&Inline=true",
+    "IniNr": "305",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto a pedido do autor em 2025-12-04.",
+    "IniTipo": "J",
+    "IniTitulo": "Regime de compensação pelas falhas dos serviços públicos",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
