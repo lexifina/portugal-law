@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-12-03, processo 01059/19.2BESNT
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01059/19.2BESNT
+
+**Data do Acordão:** 12/03/2025
+
+**Tribunal:** SECÇÃO DO CONTENCIOSO TRIBUTÁRIO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** IRC; OBRIGAÇÕES DECLARATIVAS; INSOLVÊNCIA; ENCERRAMENTO DE ESTABELECIMENTO
+
+**Nº Convencional:** JSTA000P34696
+
+**Nº do Documento:** SA22025120301059/19
+
+**Recorrente:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** SOCIEDADE DE CONSTRUÇÕES A..., S.A.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - No artº.65, nº.3, do C.I.R.E., prevê o legislador a possibilidade da assembleia de credores deliberar no sentido do encerramento do estabelecimento da pessoa insolvente nos termos do artº.156, nº.2, do mesmo diploma, em consequência do que se extinguem todas as obrigações fiscais e declarativas inerentes à actividade do insolvente que, evidentemente, cessa. Para este efeito, o tribunal deve comunicar o facto, oficiosamente, à A. Fiscal, visto que se trata de dar satisfação a uma obrigação que resulta directamente da lei.
+
+II - O identificado artº.65, nº.3, constitui uma disposição fiscal especial enxertada naquele Código e aplicável apenas aos processos de dissolução das sociedades que decorram da declaração de insolvência das mesmas. Já o artº.8, nº.5, do C.I.R.C., consubstancia uma disposição geral, que pretendeu abranger os casos de dissolução das sociedades que não estejam ressalvados por disposições fiscais especiais, como seja, o artº.65, nº.3, do C.I.R.E.
+
+III - A inexistência de facto tributário em resultado da inactividade do sujeito passivo e falta de obtenção de receitas no ano a que respeita a tributação constitui um vício que pode ser imputado à respectiva liquidação, em sede de I.R.C. Concretizando, estamos perante vendas de bens apreendidos para a massa insolvente visando, em primeira linha, a satisfação dos credores reconhecidos, cujo resultado não integra o conceito de lucro sobre o qual possa incidir I.R.C. [cfr.artº.3, nº.1, al.a), do C.I.R.C.].
+
+(sumário da exclusiva responsabilidade do relator)
