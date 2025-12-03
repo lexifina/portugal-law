@@ -1,0 +1,35 @@
+# Resolução do Conselho do Governo Regional n.º 987/2025
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 214/2025, 4.º suplemento, de 2025-12-03
+
+**Sumário:** Autoriza a celebração de um contrato-programa de desenvolvimento desportivo (CPDD) com o PXO Golfe Clube.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 987/2025
+Sumário: Autoriza a celebração de um contrato-programa de desenvolvimento desportivo (CPDD) com o PXO Golfe Clube.
+Texto: Resolução n.º 987/2025 Considerando que a participação dos clubes nos campeonatos regionais e nacionais constitui uma forma de aferição e desenvolvimento das competências dos atletas e equipas em competição; Considerando que as atividades competitivas organizadas pelas Associações implicam a deslocação de praticantes, técnicos, dirigentes, árbitros e outros agentes, entre as ilhas da Madeira e do Porto Santo; Considerando o forte impacto das provas desportivas de golfe, nos órgãos de comunicação social regional e nacional; Considerando que o PXO Golfe Clube, pessoa coletiva de direito privado, contribui, na sua área de intervenção, para a prossecução da política desportiva adotada pelo Governo Regional da Madeira; Considerando que a participação nos campeonatos nacionais constitui um veículo promocional da Região Autónoma da Madeira no espaço nacional; Considerando que a atividade competitiva da competição desportiva nacional dos Clubes implica a deslocação de praticantes, técnicos, dirigentes, árbitros e outros agentes, entre a Região Autónoma da Madeira, o Continente e a Região Autónoma dos Açores; Considerando que o desporto regional federado constitui igualmente um veículo de divulgação dos benefícios da prática desportiva e um meio de promoção da sua prática pela juventude e pela população em geral; Considerando que os custos dessas viagens, se tivessem de ser assumidos diretamente pelas entidades desportivas regionais, constituiriam uma forte limitação à livre participação dos praticantes desportivos e clubes; Considerando que as mencionadas participações são oneradas pelo facto da sede social do PXO Golfe Clube se situar numa região insular e ultraperiférica; Considerando que o princípio da continuidade territorial não está a ser salvaguardado pelo Estado Português. O Conselho do Governo reunido em plenário em 27 de novembro de 2025, resolve:
+1. Ao abrigo do disposto nos artigos 29.º, 36.º e 40.º do Decreto Legislativo Regional n.º 2/2025/M, de 2 de julho, retificada pela Declaração de Retificação n.º 1/2025/M/1, de 9 de julho, que aprova o Orçamento da Região Autónoma da Madeira (ORAM) para o ano 2025, conjugado com os artigos 2.º e 3.º, a alínea b) do n.º 1 do artigo 4.º e n.º 1 do artigo 5.º do Decreto Legislativo Regional n.º 12/2005/M, de 26 de julho, que aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira, alterado pelo Decreto Legislativo Regional n.º 4/2007/M, de 11 de janeiro, diploma que também estabelece as bases do sistema desportivo da Região Autónoma da Madeira,
+
+pelo Decreto Legislativo Regional n.º 29/2008/M, de 12 de agosto, e pelo Decreto Legislativo Regional n.º 14/2014/M, de 21 de novembro, artigo 9.º e n.º 1 do artigo 57.º do Decreto Legislativo Regional n.º 4/2007/M, de 11 de janeiro, conjugado com a Resolução n.º 779/2021, de 26 de agosto, publicada no JORAM, I série, n.º 156, de 30 de agosto, que procede à sexta alteração à Resolução n.º 810/2012, de 6 de setembro, publicada no JORAM, I série, n.º 124, de 19 de setembro, que aprova o Regulamento de Apoio ao Desporto na Região Autónoma da Madeira, da Portaria n.º 625/2025, de 18 de novembro, que aprova o Plano Regional de Apoio ao Desporto, para a época desportiva 2025/2026, a alínea h) do n.º 2 do artigo 4.º do Decreto Regulamentar Regional n.º 15/2020/M, de 2 de março, alterado pelo Decreto Regulamentar Regional n.º 32/2024/M, de 15 de novembro, que aprova a orgânica da Direção Regional de Desporto, e alínea j) do n.º 1 do Despacho n.º 770/2025, de 11 de novembro, publicado no JORAM, II série, n.º 207, de 13 de novembro, autorizar a celebração de um contrato-programa de desenvolvimento desportivo (CPDD) com o PXO Golfe Clube, tendo em vista os encargos decorrentes com as deslocações (viagens e diárias) de agentes desportivos, necessários à concretização da participação nas competições regionais e nacionais de golfe, organizados pelas respetivas associações de modalidade, na época 2025/2026 (1 de julho de 2025 a 30 de junho de 2026).
+2. Para a prossecução do projeto previsto no número anterior, a Direção Regional de Desporto (DRD) concede uma comparticipação financeira ao PXO Golfe Clube, até ao limite máximo de 9.518,20 € (nove mil, quinhentos e dezoito euros e vinte cêntimos), distribuída da seguinte forma:
+- Ano 2025: 4.759,10 €; - Ano 2026: 4.759,10 €.
+
+Deslocações Competição Nacional Indefinida - Clubes (golfe)
+
+3 765,00 €
+
+Deslocações Definidas - Competição Regional (golfe)
+
+5 753,20 €
+
+TOTAL
+
+9 518,20 €
+
+3. A comparticipação financeira referida no número anterior é processada nos termos do artigo 3.º do Plano Regional de Apoio ao Desporto para a época 2025/2026, aprovado pela Portaria n.º 625/2025, de 18 de novembro.
+4. O contrato-programa a celebrar produz efeitos desde a data da sua assinatura e termina a 31 de dezembro de 2026. 5. Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução. 6. Mandatar a Secretária Regional de Educação, Ciência e Tecnologia para, em representação da Região Autónoma da Madeira, homologar o CPDD, que será outorgado pelas partes. 7. A despesa resultante do CPDD a celebrar tem cabimento na classificação orgânica 43.9.50.05.00, na rubrica D.04.07.01.RH.HS do projeto 50698 - Apoio às deslocações aéreas e marítimas inerentes à participação das equipas em campeonatos regionais, nacionais e internacionais, do orçamento da Direção Regional de Desporto. No ano 2026, a despesa será suportada pelo ORAM, com a mesma classificação orçamental. 8. A verba necessária para o ano de 2026 fica limitada às dotações orçamentais incluídas no ORAM, para essa finalidade. 9. A presente despesa tem o número de compromisso CY52516985.
+
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
