@@ -1,0 +1,19 @@
+# Portaria n.º 793/2025
+
+**Emissor:** SECRETARIAS REGIONAIS DAS FINANÇAS E DE EQUIPAMENTOS E INFRAESTRUTURAS
+
+**Publicação:** JORAM, I série, n.º 215/2025, 4.º suplemento, de 2025-12-04
+
+**Sumário:** Redistribui os encargos orçamentais previstos na Portaria n.º 852/2024, de 5 de dezembro, publicada no Jornal Oficial, I Série, n.º 199, relativos à concessão de uma comparticipação financeira, à lHM, com vista a financiar despesas do plano de investimentos com intervenções no parque habitacional, no montante global máximo de 14.485.300,00 €.
+
+## Texto
+
+Portaria n.º 793/2025
+de 4 de dezembro
+Sumário: Redistribui os encargos orçamentais previstos na Portaria n.º 852/2024, de 5 de dezembro, publicada no Jornal Oficial, I Série, n.º 199, relativos à concessão de uma comparticipação financeira, à lHM, com vista a financiar despesas do plano de investimentos com intervenções no parque habitacional, no montante global máximo de 14.485.300,00 €.
+
+Texto: Dando cumprimento ao disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, e no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e para efeitos do artigo 29.º do Decreto Legislativo Regional n.º 2/2025/M, de 2 de julho, que aprova o Orçamento da Região Autónoma da Madeira para 2025, em conjugação com o n.º 3 do artigo 46.º do Decreto Legislativo Regional n.º 15/2021/M, de 30 de junho, e com o n.º 2 do artigo 5.º do Decreto Legislativo Regional n.º 27/2004/M, de 24 de agosto, alterado pelos Decretos Legislativos Regionais n.os 26/2013/M, de 29 de julho, 6/2015/M, de 13 de agosto, 42-A/2016/M, de 30 de dezembro, e 1-A/2020/M, de 31 de janeiro, manda o Governo Regional da Madeira, pelo Secretário Regional das Finanças e pelo Secretário Regional de Equipamentos e Infraestruturas, o seguinte: 1. São redistribuídos os encargos orçamentais previstos na Portaria n.º 852/2024, publicada no JORAM, Série I, n.º 199, de 5 de dezembro, relativos à concessão de uma comparticipação financeira, à IHM, com vista a financiar despesas do plano de investimentos com intervenções no parque habitacional, no montante global máximo de 14.485.300,00€ (catorze milhões, quatrocentos e oitenta e cinco mil e trezentos euros), que passam a ficar repartidos da seguinte forma:
+Ano económico de 2022 no montante de 0,00€; Ano económico de 2023 no montante de 922.329,72€; Ano económico de 2024 no montante 1.416.870,62€; Ano económico de 2025 até ao montante máximo de 3.808.664,00€; Ano económico de 2026 até ao montante máximo de 4.150.000,00€; Ano económico de 2027 até ao montante máximo de 4.187.435,66€. 2. Estabelecer que o montante fixado no número anterior para cada ano económico pode ser acrescido do saldo apurado no ano que antecede. 3. A despesa relativa ao ano económico de 2025 encontra-se inscrita no orçamento da Secretaria Regional de Equipamentos e Infraestruturas, na Secretaria 50, Capítulo 50, Divisão 01, Subdivisão 09, Classificações económicas D.04.04.03.AW.Z0 e D.08.04.03.AW.Z0, Programa 051, Medida 025, Área funcional 061, Projeto PIDDAR n.º 53100 – Plano de Intervenções em Bairros 2023-2026, Fonte de Financiamento 381, Centro Financeiro M100804. 4. A despesa relativa ao ano económico de 2026 está inscrita no orçamento da Secretaria Regional de Equipamentos e Infraestruturas para o referido ano. 5. As verbas necessárias para o ano económico 2027 serão inscritas na respetiva proposta de orçamento da Secretaria Regional de Equipamentos e Infraestruturas. 6. Aos valores acima mencionados não são acrescidos do IVA à taxa legal em vigor. 7. A presente portaria entra em vigor no dia da sua publicação.
+Secretaria Regional das Finanças e Secretaria Regional de Equipamentos e Infraestruturas, assinada em 3 de dezembro de 2025.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Duarte Nuno Nunes de Freitas
+O SECRETÁRIO REGIONAL DE EQUIPAMENTOS E INFRAESTRUTURAS, Pedro Alexandre Fagundes de Freitas Rodrigues
