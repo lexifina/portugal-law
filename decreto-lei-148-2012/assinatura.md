@@ -1,0 +1,11 @@
+Visto e aprovado em Conselho de Ministros de 14 de junho de 2012. - Vítor Louçã Rabaça Gaspar - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz.
+
+Promulgado em 3 de julho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 5 de julho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
