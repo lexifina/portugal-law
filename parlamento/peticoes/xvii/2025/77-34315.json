@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34315",
+  "numero": "77",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-12-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2026-01-14",
+            "entidades": null,
+            "id": "159713",
+            "tipo": null,
+            "titulo": "Audição em 2026-01-14 com Peticionários da Petição n.º 77/XVII/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-02-11",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "L",
+                "PCP",
+                "CDS-PP",
+                "BE"
+              ],
+              "data": "2026-02-11",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I><BR>Ausência: <I>IL</I>, <I> L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>",
+              "id": "170678",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "22",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-12-17",
+        "DataArquivo": "2026-02-11",
+        "DataBaixaComissao": "2025-12-09",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2025-12-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2026-01-16",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e5463334e6a45774f5759744f544a6a4e4330304d3249784c574a685a5749744d445531595751315a446b334d4749304c6e426b5a673d3d&fich=5776109f-92c4-43b1-baeb-055ad5d970b4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2025-12-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764f5745775a6a41314e3259745954453059533030596a51344c5467794e47557459325979597a41304d6d51785a5455354c6e426b5a673d3d&fich=9a0f057f-a14a-4b48-824e-cf2c042d1e59.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-02-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e4459314d546b344f4445744d6d45354f4330305a6a4e694c574a6a5a6d5174597a4d354f5449334d545931596d4d784c6e426b5a673d3d&fich=46519881-2a98-4f3b-bcfd-c39927165bc1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-02-11",
+            "dataNomeacao": "2025-12-17",
+            "gp": "CH",
+            "id": "8255",
+            "motivoCessacao": "Apresentação e aprovação do relatório",
+            "nome": "António Carneiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-12-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379383459574d3459544e685a43316b5a44646c4c54526b4e444174595755324d7930344e3259334d6a51794f446c684d574d756347526d&fich=8ac8a3ad-dd7e-4d40-ae63-87f724289a1c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34315",
+    "PetAssunto": "Cumprimento / Alteração na Integra do Decreto Lei Nº. 120/2023 - Criação da Nova Categoria e Carreira Especial \"Técnico Auxiliar de Saúde\".",
+    "PetDataEntrada": "2025-12-05",
+    "PeticoesAssociadas": null,
+    "PetId": "34315",
+    "PetLeg": "XVII",
+    "PetNr": "77",
+    "PetNrAssinaturas": "1844",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
