@@ -1,0 +1,139 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34317",
+  "numero": "79",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2025-12-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2026-02-12",
+            "entidades": null,
+            "id": "169816",
+            "tipo": null,
+            "titulo": "Audição em 2026-02-12 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2026-01-14",
+        "DataArquivo": "2026-03-18",
+        "DataBaixaComissao": "2025-12-12",
+        "DataEnvioPAR": "2026-03-18",
+        "DataReaberta": "2026-01-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2026-01-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e515a585270593246764c3256684e6a637a593256684c5451354e7a59744e47557a4d533034596a55314c57557a4d6a56694d5755344f54526c4d4335775a47593d&fich=ea673cea-4976-4e31-8b55-e325b1e894e0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-02-26",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e515a585270593246764c7a6c6c4d574e6a5a5467344c5449304d6a67744e4441774d5330354e54426c4c546c684f474e6d4d6a686a4f5467344e5335775a47593d&fich=9e1cce88-2428-4001-950e-9a8cf28c9885.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-07-13",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e515a585270593246764c7a55785a5759334d6d4d774c544d304d6d45744e4455794d43303459574a6d4c5455314e474d314e325979597a45354d5335775a47593d&fich=51ef72c0-342a-4520-8abf-554c57f2c191.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-03-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e515a585270593246764c324a6a5a446b33595445774c544d344e5745744e47566b4e693035595468684c574e6b4d6a4e6d5a4752684d574d354e4335775a47593d&fich=bcd97a10-385a-4ed6-9a8a-cd23fdda1c94.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8456",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2026-01-14",
+            "gp": "CH",
+            "id": "9073",
+            "motivoCessacao": null,
+            "nome": "Lina Pinheiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2025-12-12",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793879593249795a57526c4e533168597a646d4c5451775a47457459546333596930795a574a684e44686c4e546b344d6a49756347526d&fich=2cb2ede5-ac7f-40da-a77b-2eba48e59822.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34317",
+    "PetAssunto": "Respeito por quem trabalha por turnos",
+    "PetDataEntrada": "2025-12-09",
+    "PeticoesAssociadas": [
+      "34343"
+    ],
+    "PetId": "34317",
+    "PetLeg": "XVII",
+    "PetNr": "79",
+    "PetNrAssinaturas": "18087",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Proposta para apreciação em plenário",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
