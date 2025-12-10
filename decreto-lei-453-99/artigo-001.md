@@ -8,7 +8,11 @@
 
 1 - O presente decreto-lei estabelece o regime da cessão de créditos e da transferência de riscos para efeitos de titularização e regula a titularização tradicional e sintética, bem como a constituição e o funcionamento dos fundos de titularização de créditos, das sociedades de titularização de créditos e das sociedades gestoras daqueles fundos.
 
-2 - O presente decreto-lei executa o Regulamento (UE) 2017/2402, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017 [Regulamento (UE) 2017/2402], que estabelece um regime geral para a titularização (titularização não STS) e cria um regime específico para a titularização simples, transparente e padronizada (titularização STS), bem como os atos delegados e atos de execução que o desenvolvem.
+2 - O presente decreto-lei:
+
+a) Executa o Regulamento (UE) 2017/2402, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017 [Regulamento (UE) 2017/2402], que estabelece um regime geral para a titularização (titularização não STS) e cria um regime específico para a titularização simples, transparente e padronizada (titularização STS) e respetiva regulamentação;
+
+b) Transpõe parcialmente, para a ordem jurídica interna, a Diretiva (UE) 2021/2167, do Parlamento Europeu e do Conselho, de 24 de novembro de 2021, relativa aos gestores de créditos e aos adquirentes de créditos e que altera as Diretivas 2008/48/CE e 2014/17/UE no âmbito da cessão para efeitos de titularização e da equivalência da sua proteção para os devedores.
 
 3 - Para efeitos do disposto no presente decreto-lei, entende-se por titularização uma operação com as características enunciadas na alínea 1) do artigo 2.º do Regulamento (UE) 2017/2402, que inclui:
 

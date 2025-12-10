@@ -6,9 +6,9 @@
 
 2 - A CMVM pode, por regulamento:
 
-a) Definir o conteúdo mínimo do relatório de notação de risco previsto na alínea c) do n.º 3 do artigo 27.º e os termos em que essa notação deva ser objecto de revisão;
+a) Definir o conteúdo mínimo do relatório de notação de risco previsto na alínea c) do n.º 3 do artigo 27.º e os termos em que essa notação deva ser objeto de revisão;
 
-b) Estabelecer as condições em que pode ser concedida a aprovação de prospecto preliminar de uma oferta pública de subscrição de unidades de titularização de fundo em constituição, com base no qual a sociedade gestora pode desenvolver acções de prospecção e sensibilização do mercado, tendo em vista aferir a viabilidade e verificar as condições em que o fundo pode ser constituído e a oferta lançada;
+b) Estabelecer as condições em que pode ser concedida a aprovação de prospeto preliminar de uma oferta pública de subscrição de unidades de titularização de fundo em constituição, com base no qual a sociedade gestora pode desenvolver ações de prospeção e sensibilização do mercado, tendo em vista aferir a viabilidade e verificar as condições em que o fundo pode ser constituído e a oferta lançada;
 
 c) Definir a periodicidade, o modo e o conteúdo da informação a prestar à CMVM e ao público;
 

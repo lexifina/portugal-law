@@ -10,7 +10,7 @@
 
 2 - Ao registo e controlo das unidades de titularização é aplicável o regime dos valores mobiliários escriturais.
 
-3 - As unidades de titularização não podem ser emitidas sem que a importância correspondente ao preço de emissão seja efectivamente integrada no activo do fundo.
+3 - As unidades de titularização não podem ser emitidas sem que a importância correspondente ao preço de emissão seja efetivamente integrada no ativo do fundo.
 
 4 - Na data de constituição do fundo, as contas de subscrição das unidades de titularização convertem-se em contas de registo de valores mobiliários, nos termos do Código dos Valores Mobiliários.
 

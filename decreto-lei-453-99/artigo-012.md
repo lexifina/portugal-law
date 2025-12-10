@@ -2,7 +2,7 @@
 
 ### Composição do património dos fundos
 
-1 - Os fundos devem aplicar os seus activos na aquisição inicial ou subsequente de créditos, nos termos do presente decreto-lei e do respectivo regulamento de gestão, os quais não podem representar menos de 75% do activo do fundo.
+1 - Os fundos devem aplicar os seus ativos na aquisição inicial ou subsequente de créditos, nos termos do presente decreto-lei e do respetivo regulamento de gestão, os quais não podem representar menos de 75% do ativo do fundo.
 
 2 - Os fundos podem ainda, a título acessório e na medida adequada para assegurar uma gestão eficiente do fundo, aplicar as respetivas reservas de liquidez em:
 
@@ -26,9 +26,9 @@ c) Créditos que integram o fundo à data da liquidação, nos termos do dispost
 
 d) Alienação de créditos pelo fundo a qualquer entidade, se se tratar de créditos em situação de incumprimento;
 
-e) Alienação de créditos em cumprimento a outros fundos de titularização de créditos, a sociedades de titularização de créditos, a instituições de crédito e a sociedades financeiras autorizadas a conceder crédito a título profissional.
+e) Alienação de créditos em cumprimento a outros fundos de titularização de créditos, a sociedades de titularização de créditos, a instituições de crédito, a sociedades financeiras e organismos de investimento alternativo de créditos.
 
-6 - Os créditos cedidos pelo Estado e pela segurança social para efeitos de titularização não são susceptíveis de posterior cessão pela entidade cessionária a terceiros, salvo para fundos de titularização de créditos ou sociedades de titularização de créditos com o consentimento do Estado ou da segurança social, conforme aplicável.
+6 - Os créditos cedidos pelo Estado e pela segurança social para efeitos de titularização não são suscetíveis de posterior cessão pela entidade cessionária a terceiros, salvo para fundos de titularização de créditos ou sociedades de titularização de créditos com o consentimento do Estado ou da segurança social, conforme aplicável.
 
 7 - Os fundos podem ainda integrar imóveis no seu ativo, quando estes sejam adquiridos em resultado de dação em pagamento ou da execução de garantias reais associadas aos ativos detidos, devendo os imóveis ser alienados no prazo máximo de dois anos a contar da data em que tenham integrado o referido património, o qual, havendo motivo fundado, poderá ser prorrogado, nos termos a fixar em regulamento da CMVM.
 

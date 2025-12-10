@@ -12,6 +12,6 @@
 
 3 - Até 31 de março de cada ano, a sociedade gestora deve colocar à disposição dos interessados, na sua sede, o balanço e a demonstração de resultados de cada fundo que administre, acompanhados de um relatório elaborado pela sociedade gestora e da certificação legal das contas referida no número anterior.
 
-4 - O relatório da sociedade gestora a que alude o número anterior contém uma descrição das actividades do respectivo exercício e as informações relevantes que permitam aos detentores das unidades de titularização apreciar a evolução da actividade do fundo.
+4 - O relatório da sociedade gestora a que alude o número anterior contém uma descrição das atividades do respetivo exercício e as informações relevantes que permitam aos detentores das unidades de titularização apreciar a evolução da atividade do fundo.
 
 5 - As sociedades gestoras são obrigadas a remeter à CMVM, até 31 de Março de cada ano, ou logo que sejam disponibilizados aos interessados, os documentos referidos no n.º 3.

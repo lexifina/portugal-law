@@ -8,4 +8,4 @@
 
 3 - [Revogado].
 
-4 - As sociedades de titularização de créditos podem ser constituídas por um único accionista.
+4 - As sociedades de titularização de créditos podem ser constituídas por um único acionista.

@@ -6,7 +6,7 @@
 
 2 - Os termos da designação prevista no número anterior são estabelecidos nas condições da emissão de obrigações titularizadas, designadamente no que respeita à remuneração do representante comum, aos custos e encargos inerentes ao desenvolvimento das suas funções, às despesas de convocação e realização de assembleias de obrigacionistas, aos limites aplicáveis à responsabilidade do representante comum e aos termos das responsabilidades que perante ele são assumidas pela sociedade de titularização de créditos e demais intervenientes na emissão em causa.
 
-3 - A assembleia de obrigacionistas delibera sobre a nomeação, remuneração e destituição do representante comum dos obrigacionistas, bem como sobre a alteração das condições iniciais da respectiva designação.
+3 - A assembleia de obrigacionistas delibera sobre a nomeação, remuneração e destituição do representante comum dos obrigacionistas, bem como sobre a alteração das condições iniciais da respetiva designação.
 
 4 - A remuneração do representante comum, os demais custos e encargos inerentes ao desenvolvimento das suas funções, as despesas de convocação e realização de assembleias de obrigacionistas, quando incorridas com respeito pelas condições da emissão, são encargos do património autónomo correspondente a essa emissão, por elas não respondendo o restante património da sociedade de titularização de créditos, e beneficiam do privilégio creditório previsto no n.º 1 do artigo 63.º
 
@@ -16,7 +16,7 @@ a) Executar as deliberações da assembleia de obrigacionistas que tenham decret
 
 b) Exercer, em representação dos obrigacionistas, os direitos que lhes sejam conferidos pela presente lei ou pelas condições da emissão;
 
-c) Representar os obrigacionistas em juízo, em qualquer tipo de acções.
+c) Representar os obrigacionistas em juízo, em qualquer tipo de ações.
 
 6 - As condições da emissão podem limitar o exercício isolado de direitos dos obrigacionistas que seja contrário às deliberações da assembleia de obrigacionistas.
 

@@ -14,7 +14,7 @@ c) As características dos créditos, ou das categorias homogéneas de créditos
 
 d) Os direitos inerentes a cada categoria de unidades de titularização a emitir pelo fundo, nomeadamente os referidos no artigo 32.º;
 
-e) Regras relativas à ordem de prioridade dos pagamentos a efectuar pelo fundo;
+e) Regras relativas à ordem de prioridade dos pagamentos a efetuar pelo fundo;
 
 f) Termos e condições de liquidação e partilha do fundo, designadamente sobre a transmissão dos créditos detidos pelo fundo à data de liquidação;
 
@@ -34,13 +34,13 @@ a) As características dos créditos;
 
 b) O montante máximo dos créditos a adquirir;
 
-c) A calendarização prevista para as aquisições e respectivos montantes;
+c) A calendarização prevista para as aquisições e respetivos montantes;
 
-d) Procedimentos a adoptar no caso de, por motivos excepcionais, não ser possível concretizar as aquisições previstas.
+d) Procedimentos a adotar no caso de, por motivos excecionais, não ser possível concretizar as aquisições previstas.
 
 4 - No caso de fundos de património variável em que se encontre prevista, nos termos da alínea b) do n.º 2 do artigo 10.º, a realização de novas emissões de unidades de titularização, o regulamento de gestão deve ainda conter informação sobre os direitos inerentes às unidades de titularização a emitir, sobre os montantes das emissões, a calendarização prevista para as emissões e sobre as eventuais consequências das novas emissões em relação às unidades de titularização existentes.
 
-5 - Na hipótese de o regulamento de gestão permitir a modificação do activo do fundo, de acordo com o previsto no artigo 11.º, deve estabelecer os termos e condições em que a mesma se pode realizar.
+5 - Na hipótese de o regulamento de gestão permitir a modificação do ativo do fundo, de acordo com o previsto no artigo 11.º, deve estabelecer os termos e condições em que a mesma se pode realizar.
 
 6 - As informações a prestar sobre as características dos créditos nunca poderão permitir a identificação dos devedores.
 

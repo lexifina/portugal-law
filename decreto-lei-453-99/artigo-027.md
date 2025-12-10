@@ -10,7 +10,7 @@
 
 2 - O pedido de registo a apresentar pela sociedade gestora deve ser instruído com os seguintes documentos:
 
-a) Projecto do regulamento de gestão;
+a) Projeto do regulamento de gestão;
 
 b) (Revogada.)
 
@@ -18,11 +18,11 @@ c) Contrato de cessão dos créditos ou de transferência dos respetivos riscos 
 
 d) Se for caso disso, projeto dos contratos de gestão dos créditos ou de gestão do património de referência, a celebrar nos termos do artigo 5.º;
 
-e) Plano financeiro previsional do fundo, detalhando os fluxos financeiros que se prevêem para toda a sua duração e a respectiva afectação aos detentores das unidades de titularização.
+e) Plano financeiro previsional do fundo, detalhando os fluxos financeiros que se preveem para toda a sua duração e a respetiva afetação aos detentores das unidades de titularização.
 
 3 - Caso as unidades de titularização se destinem a ser emitidas com recurso a subscrição pública, o pedido deve ainda ser instruído com os seguintes documentos:
 
-a) Projecto de prospecto;
+a) Projeto de prospeto;
 
 b) Contrato de colocação;
 

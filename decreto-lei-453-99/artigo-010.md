@@ -10,4 +10,4 @@ a) A aquisição de novos créditos ou a transferência de riscos, direitos e ob
 
 b) A realização de novas emissões de unidades de titularização.
 
-3 - São de património fixo os fundos em relação aos quais não seja possível, nos termos do número anterior, modificar os respectivos activos ou passivos.
+3 - São de património fixo os fundos em relação aos quais não seja possível, nos termos do número anterior, modificar os respetivos ativos ou passivos.

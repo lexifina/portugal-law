@@ -24,4 +24,4 @@ d) Não serem litigiosos e não se encontrarem dados em garantia nem judicialmen
 
 7 - Os riscos e créditos suscetíveis de titularização podem ser garantidos por terceiro ou o risco de não cumprimento transferido para empresa de seguros, desde que a entidade que concede garantias ou assume responsabilidades pelo cumprimento não se encontre em relação de domínio ou de grupo com o cedente.
 
-8 - A entidade cedente fica obrigada a revelar ao cessionário os factos relevantes susceptíveis de afectar significativamente o valor global dos créditos que sejam do seu conhecimento à data da produção de efeitos da cessão.
+8 - A entidade cedente fica obrigada a revelar ao cessionário os factos relevantes suscetíveis de afetar significativamente o valor global dos créditos que sejam do seu conhecimento à data da produção de efeitos da cessão.

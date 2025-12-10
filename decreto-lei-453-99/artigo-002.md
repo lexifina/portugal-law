@@ -14,7 +14,9 @@ d) Gestores de créditos:
 
 i) Quando não intervenha patrocinador na titularização, as entidades previstas no artigo 5.º do presente decreto-lei;
 
-ii) Quando intervenha patrocinador na titularização, o patrocinador, ou, quando este subcontrate essa função, sociedades gestoras de fundos de investimento mobiliário, sociedades gestoras de fundos de investimento imobiliário, sociedades gestoras de fundos de capital de risco, instituições de crédito ou empresas de investimento previstas no n.º 2 do artigo 293.º e autorizadas nos termos do artigo 295.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro;
+ii) Quando intervenha patrocinador na titularização, o patrocinador, ou, quando este subcontrate essa função, as sociedades gestoras de organismos de investimento coletivo habilitadas a gerir organismos de investimento coletivo em valores mobiliários (OICVM), as sociedades gestoras de organismos de investimento alternativo de grande dimensão, as instituições de crédito ou as empresas de investimento;
+
+iii) No caso de cessão referida no artigo 1.º-A, intervindo o patrocinador, uma instituição de crédito ou, quando o patrocinador subcontrate essa função, uma entidade habilitada a exercer atividade de gestão de créditos, nos termos do artigo 16.º do regime da cessão e gestão de créditos bancários (RCGCB);
 
 e) Mutuantes iniciais: as entidades que cumpram o disposto na alínea 20) do artigo 2.º do Regulamento (UE) 2017/2402, incluindo o Estado e demais pessoas coletivas públicas, as instituições de crédito, as sociedades financeiras, as empresas de investimento, as empresas de seguros, os fundos de pensões e as sociedades gestoras de fundos de pensões;
 
