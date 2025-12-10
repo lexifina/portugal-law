@@ -90,7 +90,7 @@ ao) O incumprimento das normas relativas ao cálculo da taxa de juro, constantes
 
 ap) O incumprimento do dever de colocar em documento autónomo a contratação de instrumentos financeiros para limitação de risco da taxa de juro do empréstimo, em violação do disposto no n.º 5 do artigo 21.º;
 
-aq) O incumprimento do dever de informar o consumidor de quaisquer alterações da TAN, nos termos do disposto no artigo 22.º;
+aq) O incumprimento dos deveres de prestação de informação durante a vigência do contrato de crédito ou de envio de elementos ao consumidor no seu termo, a título gratuito e no prazo estabelecido;
 
 ar) A violação do direito do consumidor ao reembolso antecipado, nos termos do disposto nos n.os 1 a 3 do artigo 23.º;
 
