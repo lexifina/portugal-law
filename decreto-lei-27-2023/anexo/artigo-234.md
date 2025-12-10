@@ -39,3 +39,5 @@ a) Informação a prestar aos mutuários em matéria de taxas de juro e outros c
 b) Contagem do prazo, juros remuneratórios, capitalização de juros e mora do devedor;
 
 c) Critério utilizado no arredondamento e no indexante da taxa de juro.
+
+5 - Em caso de cessão abrangida pelo regime da cessão e da gestão de créditos bancários, que consta do anexo i do Decreto-Lei n.º 103/2025, de 11 de setembro (RCGCB), o OIA de créditos fica sujeito, com as necessárias adaptações, ao disposto no artigo 6.º, na alínea b) do n.º 2 do artigo 7.º, no n.º 2 do artigo 9.º e nos artigos 13.º, 28.º e 29.º do referido regime, competindo ao Banco de Portugal supervisionar, com os poderes e nos termos do RCGCB, o cumprimento desses deveres.
