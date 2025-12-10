@@ -30,7 +30,7 @@ l) À Autoridade Nacional de Aviação Civil, quando praticadas em estabelecimen
 
 m) Ao Instituto da Segurança Social, I. P., e respetivos centros distritais da segurança social quando praticadas em estabelecimentos mencionados no n.º 12 do anexo ao presente decreto-lei;
 
-n) Ao Banco de Portugal, quando praticadas nos estabelecimentos mencionados no n.º 13 do anexo ao presente decreto-lei;
+n) Ao Banco de Portugal, quando praticadas nos estabelecimentos previstos no n.º 13 do anexo ao presente decreto-lei ou por um fornecedor de bens ou prestador de serviços constante desse anexo que seja um cessionário para efeitos do regime da cessão e gestão de créditos bancários, que consta do anexo i do Decreto-Lei n.º 103/2025, de 11 de setembro (RCGCB), e estiver em causa matéria relativa ao cumprimento do disposto nesse regime;
 
 o) À Autoridade de Supervisão de Seguros e Fundos de Pensões, quando praticadas em estabelecimentos mencionados no n.º 14 do anexo ao presente decreto-lei;
 

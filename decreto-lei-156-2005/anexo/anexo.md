@@ -1,8 +1,6 @@
 # Anexo
 
-### Entidades que, nos termos do artigo 2.º, estão abrangidas pela obrigação de disponibilização do livro de reclamações
-
-(a que se referem os n.os 1, 2 e 4 do artigo 2.º, os n.os 1 e 6 do artigo 5.º e os n.os 1 e 3 do artigo 11.º)
+### (a que se referem os n.ºs 1, 2 e 4 do artigo 2.º, os n.ºs 1 e 6 do artigo 5.º e os n.ºs 1 e 3 do artigo 11.º)
 
 1 - Estabelecimentos de venda ao público e de prestação de serviços de:
 
@@ -128,7 +126,7 @@ f) No âmbito do apoio à família e comunidade: serviço de atendimento e acomp
 
 g) No âmbito do apoio social: estabelecimentos em que sejam desenvolvidas atividades similares às referidas nas alíneas anteriores ainda que sob designação diferente.
 
-13 - Instituições de crédito, sociedades financeiras, instituições de pagamento, instituições de moeda eletrónica e prestadores de serviços postais no que se refere à prestação de serviços de pagamento.
+13 - Instituições de crédito, sociedades financeiras, instituições de pagamento, instituições de moeda eletrónica, prestadores de serviços postais no que se refere à prestação de serviços de pagamento, intermediários de crédito e gestores de créditos.
 
 14 - Estabelecimentos das empresas de seguros, bem como os estabelecimentos de mediadores de seguros e de sociedades gestoras de fundos de pensões.
 
