@@ -1,0 +1,698 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "119",
+    "id": "315340",
+    "titulo": "Regulamenta a atividade de representação profissional de interesses (“Lobbying”)"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2025-12-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "71788",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2025-12-12",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315165",
+        "leg": "XVII",
+        "nr": "46",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aprova regras de transparência aplicáveis a entidades privadas nacionais ou estrangeiras que realizam representação legítima de interesses junto de entidades públicas e procede à criação de um registo de transparência da representação de interesses junto da Assembleia da República"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315168",
+        "leg": "XVII",
+        "nr": "48",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regulamenta a atividade de lobbying e procede à criação de um Registo de Transparência e de um Mecanismo de Pegada Legislativa, procedendo à segunda alteração ao Decreto-Lei n.º 109-E/2021, de 9 de dezembro, e à décima sétima alteração à Lei n.º 7/93, de 1 de março"
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315257",
+        "leg": "XVII",
+        "nr": "86",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regulamenta a atividade de Lobbying em Portugal e procede à criação do Sistema de Transparência dos Poderes Públicos"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315315",
+        "leg": "XVII",
+        "nr": "110",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regulamenta a actividade de representação legítima de Interesses (“Lobbying”) junto de entidades públicas e cria um registo de transparência da representação de interesses junto da Assembleia da República"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315322",
+        "leg": "XVII",
+        "nr": "114",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56783",
+            "obs": null,
+            "pag": [
+              "57-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2025-12-13",
+            "pubLeg": "XVII",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aprova regras de transparência aplicáveis a entidades privadas que realizam representação legítima de interesses junto de entidades públicas e procede à criação de um registo de transparência da representação de interesses junto da Assembleia da República"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2025-12-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:30",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/41/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-13",
+                "pubLeg": "XVII",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "sumario": "Aprova regras de transparência aplicáveis a entidades privadas nacionais ou estrangeiras que realizam representação legítima de interesses junto de entidades públicas e procede à criação de um registo de transparência da representação de interesses junto da Assembleia da República; Regulamenta a atividade de lobbying e procede à criação de um registo de transparência e de um mecanismo de pegada legislativa, procedendo à segunda alteração ao Decreto-Lei n.º 109-E/2021, de 9 de dezembro, e à décima sétima alteração à Lei n.º 7/93, de 1 de março; Regulamenta a atividade de lobbying em Portugal e procede à criação do sistema de transparência dos poderes públicos; Regulamenta a atividade de representação legítima de interesses (lobbying) junto de entidades públicas e cria um registo de transparência; Aprova regras de transparência aplicáveis a entidades privadas que realizam representação legítima de interesses junto de entidades públicas e procede à criação de um registo de transparência da representação de interesses junto da Assembleia da República da representação de interesses junto da Assembleia da República; Regulamenta a atividade de representação profissional de interesses",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1642568",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1023371",
+        "obs": null,
+        "pag": [
+          "57-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-12-13",
+        "pubLeg": "XVII",
+        "pubNr": "41",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/041/2025-12-13/57?pgs=57&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2025-12-12",
+        "descricao": "Texto Final, apresentado pela  Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, relativo aos Projetos de Lei n.ºs 46/XVII/1.ª (PSD); 48/XVII/1.ª (PAN); 86/XVII/1.ª (IL); 110/XVII/1.ª (CH);  114/XVII/1.ª (PS); e 119/XVII/1.ª (CDS-PP)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PCP</I>",
+        "id": "140210",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "39",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
