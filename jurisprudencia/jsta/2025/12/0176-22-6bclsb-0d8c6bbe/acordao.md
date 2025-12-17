@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-12-17, processo 0176/22.6BCLSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0176/22.6BCLSB
+
+**Data do Acordão:** 12/17/2025
+
+**Tribunal:** SECÇÃO DO CONTENCIOSO ADMINISTRATIVO
+
+**Relator:** FREDERICO MACEDO BRANCO
+
+**Descritores:** DECISÃO ARBITRAL; INTEMPESTIVIDADE; PRÁTICA DO ACTO; ACTO PROCESSUAL; AUMENTO DE VENCIMENTOS; ACTO DE PROCESSAMENTO DE VENCIMENTOS
+
+**Nº Convencional:** JSTA000P34790
+
+**Nº do Documento:** SA1202512170176/22
+
+**Recorrente:** AA E OUTROS
+
+**Recorrido 1:** INSTITUTO DOS REGISTOS E DO NOTARIADO (IRN), I.P.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O entendimento adotado pelo Acórdão Recorrido no sentido de optar simultaneamente pela procedência das exceções da intempestividade da prática do ato processual e de impropriedade do meio processual, mostra-se contraditório.
+
+Efetivamente, se na fundamentação que alicerçou a procedência da exceção da intempestividade, por caducidade do respetivo direito de ação decorrente da falta da sua interposição no prazo legalmente prevista para o efeito (arts. 28°, da LPTA e 58°, n° 1, b), do CPTA), o Acórdão Recorrido necessariamente teve de pressupor que estávamos perante uma ação de impugnação de ato administrativo, pois, só assim poderia ocorrer a referida exceção dilatória prevista no artigo 89°, n° 4, alínea k) do CPTA (a intempestividade da prática do ato processual), a qual obsta a que o tribunal conheça do mérito da causa e dá lugar à absolvição do IRN, IP, da instância (cfr. artigo 89°, n° 2 do CPTA), já quanto à procedência da exceção da impropriedade do meio processual, fundamentada no disposto no art. 38°, n° 2, do CPTA, o Acórdão Recorrido assumiu contraditoriamente que o Recorrido “optou por pedir o reconhecimento de direitos, beneficiando, dessa forma, da regra geral constante do artigo 41° do CPTA”.
+
+II - Considerando o modo como o Autor configurou a ação intentada, através da respetiva causa de pedir e dos pedidos formulados, mostra-se inequívoco que nela não está manifestamente em causa a impugnação de quaisquer atos, à luz do art. 37°, n° 1, alínea a), do CPTA.
+
+III - Os atos de processamento de vencimentos e outros abonos constituem verdadeiros atos administrativos, e não meras operações materiais, suscetíveis de se consolidarem na ordem jurídica como «casos decididos» se não forem objeto de atempada impugnação, na medida em que contenham uma definição voluntária e inovatória, por parte da Administração, da situação jurídica do funcionário abonado, relativamente ao processamento em determinado sentido e com determinado conteúdo.
+
+Assim, os atos de processamento de vencimento, só se vão sucessivamente consolidando na ordem jurídica, no pressuposto de que contenham uma definição voluntária, por parte da Administração, no exercício do seu poder de autoridade, da situação jurídica do administrado relativamente ao processamento em determinado sentido e com determinado conteúdo e que o conteúdo desse ato seja levado ao conhecimento do interessado através de notificação.
+
+IV - A definição dos atos processadores de vencimentos como atos administrativos está, pois, subordinada a um duplo pressuposto, a saber;
+
+(i) que o ato consubstancie uma definição voluntária da Administração de uma situação jurídica unilateral e que,
+
+(ii) essa decisão seja notificada de forma adequada de modo a permitir uma eficaz comunicação.
