@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2025-12-17, processo 014886/25.2BELSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 014886/25.2BELSB
+
+**Data do Acordão:** 12/17/2025
+
+**Tribunal:** SECÇÃO DO CONTENCIOSO ADMINISTRATIVO
+
+**Relator:** FREDERICO MACEDO BRANCO
+
+**Descritores:** CARREIRA DOCENTE UNIVERSITÁRIA; CONTRATAÇÃO PÚBLICA; CONCURSO; JULGAMENTO
+
+**Nº Convencional:** JSTA00071982
+
+**Nº do Documento:** SA120251217014886/25
+
+**Recorrente:** AA
+
+**Recorrido 1:** FACULDADE DE LETRAS DA UNIVERSIDADE DE LISBOA
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Legislação Nacional:** DL 57/2016 DE 29/8 ART6 N5; L57/2017 DE 19/7
+
+## Sumário
+
+I - A questão que se mostra aqui controvertida resume-se em saber se, nos termos do Decreto-Lei n.º 57/2016, de 29 de agosto, com a redação introduzida pela Lei n.º 57/2017, de 19 de julho, é obrigatória a abertura do procedimento concursal ali prevista.
+
+II - Decorre dos trabalhos preparatórios e discussão parlamentar, que nunca houve a intenção de se atribuir qualquer poder discricionário às instituições universitárias quanto à decisão de abrir ou não o procedimento concursal.
+
+III - Assim terá sido intenção do legislador que a abertura de procedimento prevista no artigo 6.º/5 do Decreto-Lei n.º 57/2016, de 29 de agosto, na redação dada pela Lei n.º 57/2017, de 19 de julho, consubstancia um dever da respetiva instituição, cabendo-lhe, apenas, a escolha de abertura de concurso para categoria da carreira de investigação científica ou para categoria da carreira de docente do ensino superior, escolha que, em qualquer caso, carecerá de fundamentação em função do seu interesse estratégico.
+
+IV - Como decorre do n.° 5 do artigo 6.° do Decreto-Lei n.° 57/2016, de 29 de “A instituição, em função do seu interesse estratégico, procede à abertura de procedimento concursal para categoria da carreira de investigação científica ou da carreira de docente do ensino superior, de acordo com as funções desempenhadas pelo contratado doutorado, até seis meses antes do termo do prazo de seis anos referido no n.° 2."
+
+V - O n.° 5 ao artigo 6.° do Decreto- Lei n.° 57/2016 na redação vigente, obriga a Faculdade, até seis meses antes do termo do prazo de seis anos do contrato de trabalho em funções públicas a termo resolutivo certo celebrado com um investigador, a abrir procedimento concursal de acordo com as funções desempenhadas pelo doutorado, em função do interesse estratégico da Instituição, podendo ser aberto para categoria da carreira de investigação científica ou da carreira de docente do ensino superior.
+
+VI - Efetivamente, atento, nomeadamente o teor da discussão parlamentar que determinou a alteração do artigo 6º, n.º 5, introduzido pela Lei n.° 57/2017, não está no âmbito da discricionariedade da Faculdade, abrir ou não abrir Concurso, mas simplesmente optar por que área funcional é que o seu interesse estratégico determina que seja aberto concurso (Investigação ou docência).
