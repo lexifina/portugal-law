@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=fUjcn97H4qvVV%2femHgy5MnOLFbowYz3nChQDMoy8L9zHA4SjLzNBIzlckiHnV4WW0V0oWfzjkIGWBda5JLhi4m1Ad85KkHjNtVuHi0Vq1FK55q4DzeZ9Tpep7W11QoG3qR73LNXIoqcNx0jeUEBwoD95b2fTJTWS0hxSkzxoXMe6wvz29lZngS%2fC15aiv9evrsBVQOr0Pnqm7F8oBCvkv%2fmkN89F7CTSh5Ku2xnLkp7DxK5Bgwt2cYLL5tOimRNInWLsRZgmmnLpy2w9%2fftk5oLnu1KGI0KNrZT5M1bn46K57SPVWrCr9PT6SzNVlfytA5X5smRcCFH7rr3lria1p8JC%2ba%2bLEQW2jyW%2fjoJs0O29EtKfmnmE5hw63pIPiQDJ2saS%2b%2bMGuxwi5lXEsgEKqg%3d%3d&fich=DiplomasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0fde94e35a932a3931fd6d3a446cbc17cb0b8696b448b1d8efa1c111bea3c393",
+  "legislatura": "XVII",
+  "id": "105238",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2025-12-19",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2025",
+    "Id": "105238",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "315886",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a49355a6d45354f5749334c5441305a5451744e4441344d6931694d6a67774c57566d4e4455784e5759774f4459355a53356b62324e34&fich=29fa99b7-04e4-4082-b280-ef4515f0869e.docx&Inline=true",
+        "IniNr": "436",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XVII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849765a6d52694d54677a5a446374596a46694e7930304e6a49344c546b344d4749745a44466a4d475a69596a55314e6a41324c6d52765933673d&fich=fdb183d7-b1b7-4628-980b-d1c0fbb55606.docx&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1028647",
+        "obs": null,
+        "pag": [
+          "20-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-12-19",
+        "pubLeg": "XVII",
+        "pubNr": "116",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "3º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/17/01/116S3/2025-12-19/20?pgs=20-21&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Resolução",
+    "Titulo": "Segunda alteração ao Regulamento da Gestão do Desempenho na Assembleia da República, aprovado pela Resolução da Assembleia da República n.º 49/2015, de 8 de maio",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
