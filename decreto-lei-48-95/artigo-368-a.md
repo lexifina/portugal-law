@@ -28,7 +28,9 @@ k) Tráfico de influência, recebimento indevido de vantagem, corrupção, pecul
 
 l) Abuso de informação privilegiada ou manipulação de mercado;
 
-m) Violação do exclusivo da patente, do modelo de utilidade ou da topografia de produtos semicondutores, violação dos direitos exclusivos relativos a desenhos ou modelos, contrafação, imitação e uso ilegal de marca, venda ou ocultação de produtos ou fraude sobre mercadorias.
+m) Violação do exclusivo da patente, do modelo de utilidade ou da topografia de produtos semicondutores, violação dos direitos exclusivos relativos a desenhos ou modelos, contrafação, imitação e uso ilegal de marca, venda ou ocultação de produtos ou fraude sobre mercadorias;
+
+n) Violação de medidas restritivas, previsto no artigo 28.º da Lei n.º 97/2017, de 23 de agosto.
 
 2 - Consideram-se igualmente vantagens os bens obtidos através dos bens referidos no número anterior.
 
