@@ -8,7 +8,7 @@ a) Assegurando que os fundos:
 
 i) Não sejam, em momento algum, agregados com os fundos de qualquer pessoa singular ou coletiva distinta dos utilizadores de serviços de pagamento por conta dos quais os fundos são detidos; e
 
-ii) Sejam depositados numa conta separada em instituição de crédito ou investidos em ativos seguros, líquidos e de baixo risco, nos casos em que esses fundos se encontrem ainda detidos pela instituição de pagamento, sem terem sido entregues ao beneficiário ou transferidos para outro prestador de serviços de pagamento, até ao final do dia útil seguinte àquele em que tenham sido recebidos; e
+ii) Sejam depositados numa conta separada em instituição de crédito ou num banco central, à discricionariedade desse banco central, ou investidos em ativos seguros, líquidos e de baixo risco, nos casos em que esses fundos se encontrem ainda detidos pela instituição de pagamento, sem terem sido entregues ao beneficiário ou transferidos para outro prestador de serviços de pagamento, até ao final do dia útil seguinte àquele em que tenham sido recebidos; e
 
 iii) Sejam segregados, no interesse dos utilizadores do serviço de pagamento em causa, dos créditos de outros credores, em especial em caso de liquidação da instituição de pagamento;
 
@@ -22,4 +22,6 @@ b) Assegurando que os fundos sejam cobertos por um contrato de seguro ou outra g
 
 5 - O Banco de Portugal avalia a adequação das estimativas realizadas e dos procedimentos implementados pela instituição de pagamento em cumprimento do disposto no presente artigo, podendo determinar as alterações ou ajustamentos que considerar necessários.
 
-6 - O Banco de Portugal define, por aviso, as demais regras técnicas e procedimentos necessários à aplicação do presente artigo, designadamente o que se entende por ativos seguros, líquidos e de baixo risco, para efeitos do disposto na subalínea ii) da alínea a) do n.º 1, bem como as condições essenciais do contrato de seguro ou da garantia equivalente e os termos e procedimentos do respetivo acionamento, para efeitos do disposto na alínea b) do mesmo número.
+6 - Para efeitos da subalínea ii) da alínea a) do n.º 1, consideram-se ativos seguros, líquidos e de baixo risco os ativos referidos nos n.os 4 e 5 do artigo 58.º
+
+7 - O Banco de Portugal define, por aviso, as demais regras técnicas e procedimentos necessários à aplicação do presente artigo, designadamente as condições essenciais do contrato de seguro ou da garantia equivalente e os termos e procedimentos do respetivo acionamento, para efeitos do disposto na alínea b) do n.º 1.

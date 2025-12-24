@@ -10,7 +10,7 @@
 
 ### Infrações
 
-1 - São puníveis com coima de (euro) 3000 a (euro) 1 500 000 ou de (euro) 1000 a (euro) 500 000, consoante seja aplicada a ente coletivo ou a pessoa singular, as seguintes infrações:
+1 - Constitui infração grave, punível com coima de € 3000 a € 1 500 000 ou de € 1000 a € 500 000, consoante o agente seja pessoa coletiva ou pessoa singular:
 
 a) A violação do dever de comunicação ou de apresentação de um parecer anual de auditoria às autoridades competentes, por parte dos prestadores de pagamento, nos termos previstos nos n.os 1 e 3 do artigo 6.º;
 
@@ -60,7 +60,39 @@ w) A omissão, nos prazos legais, de publicações obrigatórias;
 
 x) A violação de regras e deveres de conduta previstos neste diploma ou em diplomas complementares que remetam para o seu regime sancionatório, bem como o não acatamento das determinações específicas emitidas pelo Banco de Portugal para assegurar o respetivo cumprimento;
 
-y) As violações dos preceitos imperativos deste diploma e da legislação específica, incluindo a legislação da União Europeia, que rege a atividade das instituições de pagamento e das instituições de moeda eletrónica, não previstas nas alíneas anteriores e no artigo seguinte, bem como dos regulamentos emitidos pelo Banco de Portugal em cumprimento ou para execução dos referidos preceitos.
+y) O incumprimento do dever de não especificar a localização do Estado-Membro da conta de pagamento, previsto no Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012;
+
+z) A violação dos seguintes deveres previstos no Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012, e na respetiva regulamentação:
+
+i) De disponibilização de acesso contínuo ao serviço de envio e receção de transferências a crédito imediatas;
+
+ii) De respeitar os requisitos de realização de transferências a crédito imediatas;
+
+iii) De respeitar as regras sobre formas de emissão de ordens de transferência a crédito imediata;
+
+iv) De verificação das condições de realização de transferência a crédito imediata;
+
+v) De execução de transferência a crédito imediata;
+
+vi) De disponibilização do montante de transferência a crédito imediata;
+
+vii) De confirmação da concretização da execução de transferência a crédito imediata;
+
+viii) De correspondência da data-valor da operação de transferência a crédito imediata;
+
+ix) De confirmação da disponibilização de fundos de transferência a crédito imediata;
+
+x) De respeitar os requisitos de fixação de limites de montantes máximos para realização de transferências a crédito imediatas;
+
+xi) De respeitar os requisitos aplicáveis ao envio de ordens de transferências a crédito imediatas agrupadas;
+
+xii) De verificação da correspondência do beneficiário da transferência a crédito ou da transferência a crédito imediata;
+
+xiii) De respeitar os requisitos de verificação da correspondência do beneficiário da transferência a crédito ou da transferência a crédito imediata;
+
+xiv) De adoção e aplicação de procedimentos internos para verificação de informação sobre beneficiários de transferências a crédito imediatas;
+
+aa) As violações dos preceitos imperativos deste diploma e da legislação específica, incluindo a legislação da União Europeia, que rege a atividade das instituições de pagamento e das instituições de moeda eletrónica, não previstas nas alíneas anteriores e no artigo seguinte, bem como dos regulamentos emitidos pelo Banco de Portugal em cumprimento ou para execução dos referidos preceitos.
 
 2 - A violação dos deveres previstos no n.º 3 do artigo 15.º respeitantes à legislação reguladora da centralização das responsabilidades de crédito é punível nos termos do artigo 9.º do Decreto-Lei n.º 204/2008, de 14 de outubro.
 
