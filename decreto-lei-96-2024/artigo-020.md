@@ -1,0 +1,5 @@
+# Artigo 20.º
+
+### Critérios de seleção de pessoal para a Secretaria-Geral do Governo
+
+São fixados como critérios gerais e abstratos de seleção de pessoal necessário à prossecução das atribuições transferidas do GEPAC para a SG-Gov o exercício de funções na Direção de Serviços de Gestão de Recursos e Informação, no Núcleo de Gestão de Tecnologias de Informação e Comunicação, Núcleo de Gestão dos Fundos Culturais, Núcleo de Gestão de Informação, Relações-Públicas e Documentação, Núcleo de Gestão dos Recursos Humanos, Núcleo de Gestão dos Recursos Financeiros, predominantemente em matérias relacionadas com a certificação e ao pagamento dos montantes devidos aos beneficiários e aos operadores postais, a título de incentivos à comunicação social, previstos no Decreto-Lei n.º 98/2007, de 2 de abril, na sua redação atual, e no Decreto-Lei n.º 23/2015, de 6 de fevereiro, bem como do reembolso dos encargos de expedição para as regiões autónomas de publicações periódicas de informação geral, nos termos previstos no Decreto-Lei n.º 43/2006, de 24 de fevereiro.
