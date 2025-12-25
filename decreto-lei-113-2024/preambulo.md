@@ -1,0 +1,13 @@
+Decreto-Lei n.º 113/2024
+
+de 20 de dezembro
+
+A ESTAMO - Participações Imobiliárias, S. A. (ESTAMO, S. A.), enquanto entidade gestora do património imobiliário público por força do disposto no Decreto-Lei n.º 60/2023, de 24 de julho, alterado pelo Decreto-Lei n.º 120-A/2023, de 22 de dezembro, sucedeu, à Direção-Geral do Tesouro e Finanças (DGTF), em matéria de gestão integrada do património imobiliário do Estado e dos institutos públicos, passando a assumir, designadamente, competências relativas à gestão da operação de cobrança do produto proveniente da alienação ou oneração do património imobiliário público, incluindo o relativo à aplicação do princípio da onerosidade. A execução das competências legalmente cometidas à ESTAMO, S. A., neste domínio implica, ato contínuo à arrecadação da receita nos termos previstos na lei, a subsequente afetação dessa receita a outras entidades, bem como a realização da despesa necessária à administração ordinária e extraordinária do património sob a gestão desta entidade, algo que a ESTAMO, S. A., não logrou concretizar até ao momento face à atual impossibilidade de utilização dos sistemas de informação contabilística da Entidade de Serviços Partilhados da Administração Pública, I. P.
+
+Assim, sendo necessário promover, em conformidade com as normas orçamentais, a distribuição das verbas arrecadadas pela ESTAMO, S. A., provenientes das operações de alienação e oneração de imóveis do Estado e dos institutos públicos efetuadas nos anos de 2023 e 2024, importa alterar o Decreto-Lei n.º 60/2023, de 24 de julho, na sua redação atual, e introduzir um regime transitório, de modo a permitir, ainda em 2024, a afetação ao Estado e às entidades beneficiárias das receitas provenientes das referidas operações de alienação, oneração, arrendamento, cedência ou qualquer outra forma de administração ou disposição de bens imóveis públicos, incluindo as relativas à aplicação do princípio da onerosidade, ocorridas em 2023 e 2024.
+
+Acresce, ainda, que, para efeitos de uniformização com o previsto na lei do Orçamento do Estado para 2024, clarifica-se o regime remuneratório da ESTAMO, S. A., pela prestação de serviços de gestão do património imobiliário do Estado, atualmente previsto no artigo 10.º do Decreto-Lei n.º 60/2023, de 24 de julho, na sua redação atual, estabelecendo-se que a receita proveniente de operações imobiliárias sobre imóveis do Estado ou de pessoas coletivas de direito público não integra a comissão de gestão, ficando antes consignada à cobertura das despesas correntes relativas à administração e gestão dos imóveis do Estado.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
