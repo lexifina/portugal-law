@@ -8,11 +8,13 @@ a) As entidades gestoras de mercados regulamentados, de sistemas de negociação
 
 b) Os organismos de investimento coletivo;
 
-c) [Revogada];
+c) [Revogada.]
 
 d) As sociedades gestoras de organismos de investimento coletivo, as sociedades de capital de risco, as sociedades gestoras de fundos de titularização de créditos e as sociedades de titularização de créditos;
 
-e) (Revogada.)
+e) [Revogada.]
+
+f) Prestadores de serviços de financiamento colaborativo.
 
 2 - A supervisão prudencial é orientada pelos seguintes princípios:
 
@@ -22,7 +24,7 @@ b) Prevenção de riscos sistémicos, designadamente mediante a avaliação do i
 
 c) Controlo da adequação dos titulares dos órgãos de administração e fiscalização, das pessoas que dirigem efetivamente a atividade e dos titulares de participações qualificadas de entidades sujeitas à supervisão prudencial da CMVM;
 
-d) [Revogada].
+d) [Revogada.]
 
 3 - Para efeitos do disposto no número anterior, as entidades referidas no n.º 1 são obrigadas a prestar à CMVM as informações que esta considere necessárias à verificação, nomeadamente, do seu grau de liquidez e de solvabilidade, dos riscos em que incorrem, incluindo o nível de exposição a diferentes tipos de instrumentos financeiros, das práticas de gestão e controlo dos riscos a que estão ou possam vir a estar sujeitas e das metodologias adoptadas na avaliação dos seus activos, em particular daqueles que não sejam transaccionados em mercados de elevada liquidez e transparência.
 
