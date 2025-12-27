@@ -16,7 +16,7 @@ a) Entre (euro) 25 000 e (euro) 5 000 000, quando sejam qualificadas como muito 
 
 b) Entre (euro) 12 500 e (euro) 2 500 000, quando sejam qualificadas como graves;
 
-c) Entre (euro) 5 000 e (euro) 1 000 000, quando sejam qualificadas como menos graves
+c) Entre (euro) 5 000 e (euro) 1 000 000, quando sejam qualificadas como menos graves.
 
 2 - O limite máximo da coima aplicável é elevado ao maior dos seguintes valores:
 
@@ -36,7 +36,9 @@ c) Ao regime relativo ao abuso de mercado;
 
 d) Organismos de investimento coletivo;
 
-e) Deveres dos particulares em relação à CMVM enquanto supervisor.
+e) Deveres dos particulares em relação à CMVM enquanto supervisor;
+
+f) Oferentes, pessoas que solicitam a admissão à negociação de criptoativos, emitentes de criptofichas referenciadas a ativos e criptofichas de moeda eletrónica e prestadores de serviços de criptoativos.
 
 4 - Se a lei ou o regulamento exigirem que dever seja cumprido num determinado prazo considera-se que existe incumprimento logo que o prazo fixado tenha sido ultrapassado.
 
