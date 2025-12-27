@@ -10,7 +10,7 @@
 
 a) À Autoridade de Supervisão de Seguros e Fundos de Pensões, ao Banco de Portugal ou à CMVM, no caso das contraordenações praticadas pelas entidades financeiras referidas nos n.os 1 e 2 e na alínea a) do n.º 3 do artigo 3.º, no âmbito específico das competências de supervisão conferidas àquelas autoridades pelos artigos 85.º a 88.º;
 
-b) Ao Banco de Portugal, no caso das contraordenações praticadas pelas entidades referidas na alínea o) do n.º 1 do artigo 4.º, na alínea a) do artigo 5.º e no artigo 6.º;
+b) Ao Banco de Portugal, no caso das contraordenações praticadas pelas entidades referidas na alínea a) do artigo 5.º e no artigo 6.º;
 
 c) À CMVM:
 

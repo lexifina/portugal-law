@@ -26,7 +26,7 @@ h) Ao membro do Governo responsável pela área da justiça, coadjuvado pelo Ins
 
 i) À ASAE, relativamente às demais pessoas ou entidades que, estando abrangidas pelo n.º 1 do artigo 4.º, não se encontrem sujeitas à supervisão ou fiscalização de uma outra autoridade referida no presente artigo;
 
-j) Ao Banco de Portugal, relativamente às entidades referidas na alínea o) do n.º 1 do artigo 4.º
+j) (Revogada.)
 
 2 - A CMVM e a Ordem dos Revisores Oficiais de Contas integram a verificação do cumprimento, pelos auditores, dos deveres e obrigações previstos na presente lei e nos respetivos diplomas regulamentares, nas atividades de supervisão que exerçam ao abrigo do Regime Jurídico de Supervisão de Auditoria, aprovado pela Lei n.º 148/2015, de 9 de setembro, e do Estatuto da Ordem dos Revisores Oficiais de Contas, aprovado pela Lei n.º 140/2015, de 7 de setembro.
 

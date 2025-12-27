@@ -24,11 +24,11 @@ g) A não adoção de medidas de segurança necessárias para assegurar a efetiv
 
 h) O incumprimento do dever de retorno de informação à Unidade de Informação Financeira previsto no n.º 2 do artigo 114.º;
 
-i) A ausência de conservação, pelos prestadores de serviços de pagamento, das informações sobre os ordenantes e os beneficiários juntamente com as transferências, em violação do disposto no artigo 10.º do Regulamento (UE) 2015/847;
+i) A ausência de conservação, pelos prestadores de serviços de pagamento, das informações sobre os ordenantes e os beneficiários juntamente com as transferências, em violação do disposto no artigo 10.º do Regulamento (UE) 2023/1113 e nas correspondentes disposições regulamentares;
 
-j) O incumprimento, pelos prestadores de serviços de pagamento, dos deveres sobre proteção de dados pessoais previstos no artigo 15.º do Regulamento (UE) 2015/847, com as especificações constantes do artigo 152.º da presente lei;
+j) O incumprimento, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, dos deveres sobre proteção de dados pessoais previstos no artigo 25.º do Regulamento (UE) 2023/1113, com as especificações constantes do artigo 152.º da presente lei e nas correspondentes disposições regulamentares;
 
-k) A não instituição, pelos prestadores de serviços de pagamento, de procedimentos internos adequados que permitam aos funcionários ou pessoas equiparadas comunicar infrações cometidas a nível interno, em violação do disposto no n.º 2 do artigo 21.º do Regulamento (UE) 2015/847, com as especificações constantes do artigo 156.º da presente lei;
+k) A não instituição, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, de procedimentos internos adequados que permitam aos funcionários ou pessoas equiparadas comunicar infrações cometidas a nível interno, em violação do disposto no n.º 2 do artigo 32.º do Regulamento (UE) 2023/1113, com as especificações constantes do artigo 156.º da presente lei e nas correspondentes disposições regulamentares;
 
 l) As violações dos preceitos imperativos da presente lei e da legislação específica, incluindo da União Europeia, que rege as medidas de natureza preventiva e repressiva de combate ao branqueamento de capitais e do financiamento do terrorismo, não previstas nas alíneas anteriores e no artigo seguinte, bem como dos regulamentos emitidos em cumprimento ou para a execução dos referidos preceitos;
 

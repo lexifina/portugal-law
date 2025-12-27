@@ -18,7 +18,7 @@ iv) Promoção imobiliária;
 
 c) «Auditores», os revisores oficiais de contas, as sociedades de revisores oficiais de contas, os auditores de Estados-Membros da União Europeia e os auditores de países terceiros registados na CMVM;
 
-d) 'Autoridade Bancária Europeia', Autoridade Europeia de Supervisão criada pelo Regulamento (UE) 1093/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010;
+d) «Autoridade Bancária Europeia», Autoridade Europeia de Supervisão criada pelo Regulamento (UE) 1093/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010;
 
 e) «Autoridades policiais», os órgãos de polícia criminal competentes para a investigação dos crimes de branqueamento e de financiamento do terrorismo, nos termos da lei, bem como para a investigação dos respetivos crimes subjacentes;
 
@@ -46,7 +46,7 @@ ii) (Revogada); e
 
 iii) A participação num dos atos a que se refere a subalínea i), a associação para praticar o referido ato, a tentativa e a cumplicidade na sua prática, bem como o facto de facilitar a sua execução ou de aconselhar alguém a praticá-lo;
 
-k) 'Centros de interesses coletivos sem personalidade jurídica', os patrimónios autónomos, tais como condomínios de imóveis em propriedade horizontal, fundos fiduciários (trusts) de direito estrangeiro e entes coletivos análogos a estes, quando e nos termos em que lhes for conferida relevância pelo direito interno, considerando-se serem análogos a fundos fiduciários (trusts) os entes coletivos que apresentem, pelo menos, as seguintes características:
+k) «Centros de interesses coletivos sem personalidade jurídica», os patrimónios autónomos, tais como condomínios de imóveis em propriedade horizontal, fundos fiduciários (trusts) de direito estrangeiro e entes coletivos análogos a estes, quando e nos termos em que lhes for conferida relevância pelo direito interno, considerando-se serem análogos a fundos fiduciários (trusts) os entes coletivos que apresentem, pelo menos, as seguintes características:
 
 i) Os bens constituem um património separado e não integram o património do seu administrador;
 
@@ -56,11 +56,11 @@ iii) O administrador está sujeito à obrigação de administrar, gerir ou dispo
 
 l) «Comissão de Coordenação», a Comissão de Coordenação das Políticas de Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo, criada pela Resolução do Conselho de Ministros n.º 88/2015, de 6 de outubro;
 
-m) 'Contas correspondentes de transferência (payable-through accounts)', as contas disponibilizadas pelos correspondentes que, diretamente ou através de uma subconta, permitem a execução de operações, por conta própria, por parte dos clientes do respondente ou outros terceiros;
+m) «Contas correspondentes de transferência (payable-through accounts)», as contas, incluindo as contas de criptoativos na aceção do n.º 19 do artigo 3.º do Regulamento (UE) 2023/1113, disponibilizadas pelos correspondentes que, diretamente ou através de uma subconta, permitem a execução de operações, por conta própria, por parte dos clientes do respondente ou outros terceiros;
 
 n) «Direção de topo», qualquer dirigente ou colaborador com conhecimentos suficientes da exposição da entidade obrigada ao risco de branqueamento de capitais e de financiamento do terrorismo e com um nível hierárquico suficientemente elevado para tomar decisões que afetem a exposição ao risco, não sendo necessariamente um membro do órgão de administração;
 
-o) 'Distribuidor', a pessoa singular ou coletiva habilitada a distribuir e reembolsar moeda eletrónica em nome e sob responsabilidade de uma instituição de moeda eletrónica;
+o) «Distribuidor», a pessoa singular ou coletiva habilitada a distribuir e reembolsar moeda eletrónica em nome e sob responsabilidade de uma instituição de moeda eletrónica;
 
 p) «Entidades financeiras», as entidades referidas no artigo 3.º;
 
@@ -98,7 +98,7 @@ iv) Um organismo de investimento coletivo que comercialize as suas ações ou un
 
 v) As sucursais, situadas na União Europeia, das instituições financeiras a que se referem as subalíneas anteriores, independentemente de a respetiva sede estar situada num Estado membro ou num país terceiro;
 
-w) 'Membros próximos da família':
+w) «Membros próximos da família»:
 
 i) O cônjuge ou unido de facto de pessoa politicamente exposta;
 
@@ -108,11 +108,11 @@ iii) Os unidos de facto dos parentes da pessoa politicamente exposta referidos n
 
 iv) As pessoas que, em outros ordenamentos jurídicos, ocupem posições similares;
 
-x) 'Moeda eletrónica', o valor monetário armazenado eletronicamente, inclusive de forma magnética, representado por um crédito sobre o emitente e emitido após a receção de notas de banco, moedas e moeda escritural, para efetuar operações de pagamento e que seja aceite por uma pessoa singular ou coletiva diferente do emitente de moeda eletrónica;
+x) «Moeda eletrónica», o valor monetário armazenado eletronicamente, inclusive de forma magnética, representado por um crédito sobre o emitente e emitido após a receção de notas de banco, moedas e moeda escritural, para efetuar operações de pagamento e que seja aceite por uma pessoa singular ou coletiva diferente do emitente de moeda eletrónica;
 
-y) 'Ordens profissionais', a Ordem dos Advogados, a Ordem dos Contabilistas Certificados, a Ordem dos Notários, a Ordem dos Revisores Oficiais de Contas e a Ordem dos Solicitadores e dos Agentes de Execução, no âmbito das competências que exercem, ao abrigo da presente lei, relativamente aos respetivos membros;
+y) «Ordens profissionais», a Ordem dos Advogados, a Ordem dos Contabilistas Certificados, a Ordem dos Notários, a Ordem dos Revisores Oficiais de Contas e a Ordem dos Solicitadores e dos Agentes de Execução, no âmbito das competências que exercem, ao abrigo da presente lei, relativamente aos respetivos membros;
 
-z) 'Organização sem fins lucrativos', pessoa coletiva, entidade sem personalidade jurídica ou organização que, na prossecução dos seus fins de interesse social, designadamente caritativos, religiosos, culturais, educacionais ou fraternais ou outros tipos de obras de beneficência, procede ou promove a recolha e a distribuição de fundos;
+z) «Organização sem fins lucrativos», pessoa coletiva, entidade sem personalidade jurídica ou organização que, na prossecução dos seus fins de interesse social, designadamente caritativos, religiosos, culturais, educacionais ou fraternais ou outros tipos de obras de beneficência, procede ou promove a recolha e a distribuição de fundos;
 
 aa) «Órgão de administração», o órgão plural ou singular da entidade obrigada responsável pela prática dos atos materiais e jurídicos necessários à execução da vontade daquela;
 
@@ -154,7 +154,7 @@ ii) Qualquer pessoa singular que seja proprietária de capital social ou detento
 
 iii) Qualquer pessoa singular, conhecida como tendo relações societárias, comerciais ou profissionais com pessoa politicamente exposta;
 
-ee) «Relação de correspondência», a prestação de serviços por banco, entidade financeira ou outra entidade prestadora de serviços similares (o correspondente), a banco, entidade financeira ou outra entidade de natureza equivalente que seja sua cliente (o respondente), a qual inclua a disponibilização de uma conta corrente ou outra conta que gere uma obrigação e serviços conexos, tais como gestão de numerário, processamento de transferências de fundos e de outros serviços de pagamento por conta do respondente, compensação de cheques, contas correspondentes de transferência (payable-through accounts), serviços de câmbio e operações com valores mobiliários;
+ee) «Relação de correspondência», a prestação de serviços por banco, entidade financeira ou outra entidade prestadora de serviços similares (o correspondente), a banco, entidade financeira ou outra entidade de natureza equivalente que seja sua cliente (o respondente), a qual inclua a disponibilização de uma conta corrente ou outra conta que gere uma obrigação e serviços conexos, tais como gestão de numerário, processamento de transferências de fundos e de outros serviços de pagamento por conta do respondente, compensação de cheques, contas correspondentes de transferência (payable-through accounts), serviços de câmbio, operações com valores mobiliários, transferências de criptoativos ou outras operações que envolvam criptoativos;
 
 ff) «Relação de negócio», qualquer relação de natureza empresarial, profissional ou comercial entre as entidades obrigadas e os seus clientes, que, no momento em que se estabelece, seja ou se preveja vir a ser duradoura, tendencialmente estável e continuada no tempo, independentemente do número de operações individuais que integrem ou venham a integrar o quadro relacional estabelecido;
 
@@ -162,7 +162,7 @@ gg) «Titulares de outros cargos políticos ou públicos», as pessoas singulare
 
 hh) «Transação ocasional», qualquer transação efetuada pelas entidades obrigadas fora do âmbito de uma relação de negócio já estabelecida, caracterizando-se, designadamente, pelo seu caráter expectável de pontualidade;
 
-ii) «Transferência de fundos», qualquer transferência na aceção do n.º 9 do artigo 3.º do Regulamento (UE) 2015/847;
+ii) «Transferência de fundos», qualquer transferência na aceção do n.º 9 do artigo 3.º do Regulamento (UE) 2023/1113;
 
 jj) «Unidade de Informação Financeira», a unidade central nacional com competência para:
 
@@ -170,21 +170,21 @@ i) Receber, analisar e difundir a informação resultante de comunicações de o
 
 ii) Cooperar com as congéneres internacionais e as demais entidades competentes para a prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo.
 
-kk) 'Moeda fiduciária', notas de banco e moedas designadas como tendo curso legal, moeda escritural e moeda eletrónica;
+kk) (Revogada.)
 
-ll) «Ativo virtual», uma representação digital de valor que não esteja necessariamente ligada a uma moeda legalmente estabelecida e que não possua o estatuto jurídico de moeda fiduciária, valor mobiliário ou outro instrumento financeiro, mas que é aceite por pessoas singulares ou coletivas como meio de troca ou de investimento e que pode ser transferida, armazenada e comercializada por via eletrónica;
+ll) «Criptoativo», um criptoativo na aceção do ponto 5 do n.º 1 do artigo 3.º do Regulamento (UE) 2023/1114, do Parlamento Europeu e do Conselho, de 31 de maio de 2023, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937 [Regulamento (UE) 2023/1114], exceto se for abrangido pelas categorias enumeradas nos n.os 2, 3 e 4 do artigo 2.º do referido regulamento ou se for considerado como fundos na aceção do ponto 14 do n.º 1 do artigo 3.º do mesmo regulamento;
 
-mm) 'Atividades com ativos virtuais', qualquer uma das seguintes atividades económicas, exercidas em nome ou por conta de um cliente:
+mm) «Serviço de criptoativos», qualquer um dos serviços e atividades relacionados com criptoativos elencados no ponto 16 do n.º 1 do artigo 3.º do Regulamento (UE) 2013/1114, com exceção da consultoria sobre criptoativos a que se refere a alínea h) do mesmo ponto;
 
-i) Serviços de troca entre ativos virtuais e moedas fiduciárias;
+nn) «Organismo de investimento coletivo», as instituições referidas na alínea aa) do n.º 1 do artigo 2.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, bem como os organismos de investimento coletivo regulados por legislação especial;
 
-ii) Serviços de troca entre um ou mais ativos virtuais;
+oo) «Prestador de serviços de criptoativos», um prestador de serviços de criptoativos na aceção do ponto 15 do n.º 1 do artigo 3.º do Regulamento (UE) 2023/1114, quando presta um ou mais serviços de criptoativos na aceção do ponto 16 do n.º 1 do artigo 3.º do referido regulamento, com exceção da consultoria sobre criptoativos a que se refere a alínea h) do mesmo ponto;
 
-iii) Serviços por via dos quais um ativo virtual é movido de um endereço ou carteira (wallet) para outro (transferência de ativos virtuais);
+pp) «Endereço autoalojado», um endereço autoalojado na aceção do ponto 20 do artigo 3.º do Regulamento (UE) 2023/1113;
 
-iv) Serviços de guarda ou guarda e administração de ativos virtuais ou de instrumentos que permitam controlar, deter, armazenar ou transferir esses ativos, incluindo chaves criptográficas privadas;
+qq) «Transferência de criptoativos», qualquer transferência na aceção do n.º 10 do artigo 3.º do Regulamento (UE) 2023/1113;
 
-nn) 'Organismo de investimento coletivo', as instituições referidas na alínea aa) do n.º 1 do artigo 2.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, bem como os organismos de investimento coletivo regulados por legislação especial.
+rr) «Autoridade para o Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo», a Autoridade criada pelo Regulamento (UE) 2024/1620 do Parlamento Europeu e do Conselho, de 31 de maio de 2024.
 
 2 - O conhecimento, a intenção ou o motivo exigidos como elemento das condutas descritas nas alíneas j) e s) do número anterior podem ser deduzidos a partir de circunstâncias factuais objetivas.
 
@@ -209,3 +209,5 @@ g) Gerir essa entidade como se ambas constituíssem uma única entidade.
 a) Adicionados aos direitos de voto, de designação e de destituição da empresa-mãe os direitos de qualquer outra sua filial e os das filiais desta, bem como os de qualquer pessoa que atue em nome próprio, mas por conta da empresa-mãe ou de qualquer outra filial;
 
 b) Deduzidos à totalidade dos direitos de voto dos titulares de capital da filial os direitos de voto relativos às ações ou quotas próprias detidas por esta entidade, por uma filial desta ou por uma pessoa que atue em nome próprio, mas por conta destas entidades.
+
+5 - Consideram-se também como referentes a criptoativos, na aceção da alínea ll) do n.º 1, as referências a fundos constantes da alínea z) do n.º 1 do presente artigo, do artigo 27.º, do artigo 28.º, da alínea c) do n.º 2 do artigo 52.º, do artigo 144.º e do artigo 146.º da presente lei.

@@ -22,7 +22,7 @@ b) Efetuem transações ocasionais, independentemente de a transação ser reali
 
 i) De montante igual ou superior a 15 000 (euro); ou
 
-ii) Que constituam uma transferência de fundos ou uma transação executada no âmbito de atividade com ativos virtuais, sempre que o montante das mesmas exceda 1000 (euro);
+ii) Que constituam uma transferência de fundos ou uma transação executada no âmbito da prestação de serviços de criptoativos, sempre que o montante das mesmas exceda 1000 €;
 
 c) Se suspeite que as operações, independentemente do seu valor e de qualquer exceção ou limiar, possam estar relacionadas com o branqueamento de capitais ou com o financiamento do terrorismo;
 

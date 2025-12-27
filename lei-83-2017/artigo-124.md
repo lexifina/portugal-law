@@ -38,6 +38,6 @@ a) A Unidade de Informação Financeira e as autoridades judiciárias, policiais
 
 b) A Autoridade Tributária e Aduaneira;
 
-c) O Serviço de Estrangeiros e Fronteiras;
+c) (Revogada.)
 
 d) O Serviço de Informações de Segurança e o Serviço de Informações Estratégicas de Defesa do Sistema de Informações da República Portuguesa.

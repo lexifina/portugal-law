@@ -8,7 +8,7 @@
 
 1 - Em complemento dos procedimentos normais de identificação e diligência, as entidades obrigadas reforçam as medidas adotadas ao abrigo do dever de identificação e diligência quando for identificado, pelas próprias entidades obrigadas ou pelas respetivas autoridades setoriais, um risco acrescido de branqueamento de capitais ou de financiamento do terrorismo nas relações de negócio, nas transações ocasionais ou nas operações que efetuem.
 
-2 - São sempre aplicáveis medidas reforçadas às situações previstas nos artigos 37.º a 39.º e 69.º a 71.º, bem como em quaisquer outras situações que, para o efeito, venham a ser designadas pelas autoridades setoriais competentes, inclusive através da identificação de pessoas singulares ou coletivas ou centros de interesses coletivos sem personalidade jurídica que devam motivar a adoção de tais medidas.
+2 - São sempre aplicáveis medidas reforçadas às situações previstas nos artigos 37.º a 39.º e 69.º a 71.º-A, bem como em quaisquer outras situações que, para o efeito, venham a ser designadas pelas autoridades setoriais competentes, inclusive através da identificação de pessoas singulares ou coletivas ou centros de interesses coletivos sem personalidade jurídica que devam motivar a adoção de tais medidas.
 
 3 - As autoridades setoriais podem igualmente definir o concreto conteúdo das medidas reforçadas que se mostrem adequadas a fazer face aos riscos acrescidos de branqueamento de capitais ou de financiamento do terrorismo identificados.
 

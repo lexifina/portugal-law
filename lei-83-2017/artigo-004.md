@@ -40,7 +40,7 @@ ii) Através de outro meio de pagamento, se o valor da transação for igual ou 
 
 n) Outros comerciantes e prestadores de serviço que transacionem bens ou prestem serviços, quando o pagamento da transação seja realizado em numerário e o valor daquelas seja igual ou superior a 3000 (euro), independentemente de o pagamento ser realizado através de uma única operação ou de várias operações;
 
-o) Entidades que exerçam qualquer atividade com ativos virtuais.
+o) (Revogada.)
 
 2 - Os profissionais abrangidos pela alínea f) do número anterior estão sujeitos às disposições da presente lei, quando intervenham ou assistam, por conta de um cliente ou noutras circunstâncias, em:
 
@@ -90,10 +90,4 @@ b) São objeto de um acompanhamento regular e baseado no risco, através da ado�
 
 c) São objeto de imediata revogação, sempre que se verifique um agravamento do risco de branqueamento de capitais e de financiamento de terrorismo que esteve na base da concessão da isenção.
 
-6 - Para efeitos da alínea o) do n.º 1, considera-se que exercem atividade em território nacional as seguintes pessoas ou entidades:
-
-a) As pessoas coletivas ou entidades equiparadas a pessoas coletivas constituídas em Portugal para o exercício de atividades com ativos virtuais;
-
-b) As pessoas singulares, as pessoas coletivas e outras entidades com domicílio em Portugal que exerçam atividades com ativos virtuais ou que disponham de estabelecimento situado em território português através do qual exerçam atividades com ativos virtuais;
-
-c) As demais pessoas singulares ou entidades que, em razão do exercício de atividades com ativos virtuais, devam apresentar declaração de início de atividade junto da Autoridade Tributária e Aduaneira.
+6 - (Revogado.)

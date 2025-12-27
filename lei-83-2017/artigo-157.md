@@ -10,7 +10,7 @@
 
 ### Divulgação ilegítima de informação
 
-1 - A divulgação ilegítima, a clientes ou a terceiros, das informações, das comunicações, das análises ou de quaisquer outros elementos previstos nas alíneas a) a d) do n.º 1 do artigo 54.º da presente lei e no artigo 14.º do Regulamento (UE) 2015/847, é punida:
+1 - A divulgação ilegítima, a clientes ou a terceiros, das informações, das comunicações, das análises ou de quaisquer outros elementos previstos nas alíneas a) a d) do n.º 1 do artigo 54.º da presente lei e no artigo 24.º do Regulamento (UE) 2023/1113, é punida:
 
 a) No caso das pessoas singulares, com pena de prisão até três anos ou com pena de multa, nos termos gerais;
 

@@ -10,7 +10,7 @@ b) Sociedades gestoras de organismos de investimento coletivo e sociedades gesto
 
 c) Sociedades de investimento coletivo autogeridas;
 
-d) Sociedades de capital de risco, investidores em capital de risco, sociedades de empreendedorismo social, sociedades gestoras de fundos de capital de risco, sociedades de investimento em capital de risco autogeridas e sociedades de investimento alternativo especializado autogeridas;
+d) Sociedades de capital de risco;
 
 e) Sociedades de titularização de créditos;
 
@@ -24,9 +24,9 @@ i) Entidades referidas nas alíneas a) a g), ou outras entidades de natureza equ
 
 j) Sociedades de investimento mobiliário para fomento da economia;
 
-k) Gestores de fundos de capital de risco qualificados;
+k) Gestores de fundos de capital de risco qualificados com a designação «EuVeca»;
 
-l) Gestores de fundos de empreendedorismo social qualificados;
+l) Gestores de fundos de empreendedorismo social qualificados com a designação «EuSEF»;
 
 m) Fundos de investimento de longo prazo da União Europeia com a designação 'ELTIF' autogeridos;
 

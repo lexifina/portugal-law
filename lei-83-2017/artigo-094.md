@@ -12,7 +12,7 @@ b) Concretizar as demais condições de exercício dos deveres preventivos previ
 
 c) Estabelecer os procedimentos, os instrumentos, os mecanismos, as formalidades de aplicação, as obrigações de prestação de informação e os demais aspetos necessários a assegurar o cumprimento daqueles deveres preventivos e uma efetiva gestão dos riscos de branqueamento de capitais e de financiamento do terrorismo, de acordo com a dimensão, a natureza e a complexidade das entidades obrigadas e das atividades por estas prosseguidas.
 
-d) Concretizar a amplitude e os termos do cumprimento dos deveres preventivos previstos na presente lei, por parte das entidades que exerçam atividades com ativos virtuais.
+d) Concretizar a amplitude e os termos do cumprimento dos deveres preventivos previstos na presente lei, pelos prestadores de serviços de criptoativos.
 
 3 - As autoridades competentes podem ainda:
 
