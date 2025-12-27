@@ -34,75 +34,109 @@ n) Aposta «Frente a Frente (1.º set)»;
 
 o) Aposta «Frente a Frente (2.º set)»;
 
-p) Aposta «Resultado exato»;
+p) «Frente a Frente (1.º Frame)»;
 
-q) Aposta «Diferença entre as equipas»;
+q) «Frente a Frente (2.º Frame)»;
 
-r) Aposta «Quem marca o primeiro golo?»;
+r) Aposta «Resultado exato»;
 
-s) Aposta «Quem marca o X.º golo?»;
+s) Aposta «Resultado exato múltiplo»;
 
-t) Aposta «Quem marca o primeiro ensaio?»;
+t) Aposta «Diferença entre as equipas»;
 
-u) Aposta «Quem marca o X.º ensaio?»;
+u) Aposta «Quem marca o primeiro golo?»;
 
-v) Aposta «Vencedor (equipa/competidor/piloto)»;
+v) Aposta «Quem marca o X.º golo?»;
 
-w) Aposta «Pódio (equipa/competidor/piloto)»;
+w) Aposta «Quem marca o primeiro ensaio?»;
 
-x) Aposta «Top X (equipa/competidor/piloto)»;
+x) Aposta «Quem marca o X.º ensaio?»;
 
-y) Aposta «Ambas as equipas marcam?»;
+y) Aposta «Vencedor (equipa/competidor/piloto)»;
 
-z) Aposta «O jogador X vencerá pelo menos um set?»;
+z) Aposta «Pódio (equipa/competidor/piloto)»;
 
-aa) Aposta «Golo por fração de X minutos»;
+aa) Aposta «Top X (equipa/competidor/piloto)»;
 
-bb) Aposta «Ensaio por fração de 10 minutos»;
+bb) Aposta «Ambas as equipas marcam?»;
 
-cc) Aposta «Primeira equipa que marcará X pontos num set»;
+cc) Aposta «O jogador X vencerá pelo menos um set?»;
 
-dd) Aposta «Margem vencedora»;
+dd) Aposta «Golo por fração de X minutos»;
 
-ee) Aposta «1X2 e Ambas marcam»;
+ee) Aposta «Ensaio por fração de 10 minutos»;
 
-ff) Aposta «1X2 e Mais/Menos»;
+ff) Aposta «Primeira equipa que marcará X pontos num set»;
 
-gg) Aposta «Empate anula a aposta»;
+gg) Aposta «Margem vencedora»;
 
-hh) Aposta «Par ou ímpar»;
+hh) Aposta «1X2 e Ambas marcam»;
 
-ii) Aposta «Marcador»;
+ii) Aposta «1X2 e Mais/Menos»;
 
-jj) Aposta «1X2 e Goleador»;
+jj) Aposta «Empate anula a aposta»;
 
-kk) Aposta «Desempenho do jogador»;
+kk) Aposta «Par ou ímpar»;
 
-ll) Aposta «Volta mais rápida»;
+ll) Aposta «Marcador»;
 
-mm) Aposta «Vencedor (equipa/competidor/piloto) e Volta mais rápida»;
+mm) Aposta «1X2 e Marcador»;
 
-nn) Aposta «Quem marca o último golo?»;
+nn) Aposta «Desempenho do jogador»;
 
-oo) Aposta «Número de sets»;
+oo) Aposta «Volta mais rápida»;
 
-pp) Aposta «Equipa X ganha as duas partes?»;
+pp) Aposta «Vencedor (equipa/competidor/piloto) e Volta mais rápida»;
 
-qq) Aposta «Equipa X marca nas duas partes?»;
+qq) Aposta «Quem marca o último golo?»;
 
-rr) Aposta «Dupla possibilidade e Ambas marcam»;
+rr) Aposta «Número de sets»;
 
-ss) Aposta «Dupla possibilidade e Mais/Menos»;
+ss) Aposta «Equipa X ganha as duas partes?»;
 
-tt) Aposta «Mais/Menos e Ambas marcam»;
+tt) Aposta «Equipa X marca nas duas partes?»;
 
-uu) Aposta «Número exato de golos/sets»;
+uu) Aposta «Dupla possibilidade e Ambas marcam»;
 
-vv) Aposta «Período com mais golos/pontos»;
+vv) Aposta «Dupla possibilidade e Mais/Menos»;
 
-ww) Aposta «Haverá prolongamento?»;
+ww) Aposta «Mais/Menos e Ambas marcam»;
 
-xx) Aposta «Equipa ou Jogador qualifica-se?».
+xx) Aposta «Número exato de golos/sets/jogos»;
+
+yy) Aposta «Período com mais golos/pontos»;
+
+zz) Aposta «Haverá prolongamento?»;
+
+aaa) Aposta «Haverá Penálties»;
+
+bbb) Aposta «Equipa ou Jogador qualifica-se?».
+
+ccc) Aposta «Número exato de X - múltiplo»;
+
+ddd) Aposta «Expulsão X’ Parte»;
+
+eee) Aposta «Equipa X vence sem sofrer golos»;
+
+fff) Aposta «Equipa X sem sofrer golos»;
+
+ggg) Aposta «Período do X golo»;
+
+hhh) Aposta «Método de vitória»;
+
+iii) Aposta «Haverá Tie Break»;
+
+jjj) Aposta «Jogador 1/2 vence exatamente 1/2 sets»;
+
+kkk) Aposta «Haverá X set»;
+
+lll) Aposta «Equipa X vence exatamente X sets»;
+
+mmm) Aposta «Equipa com entrada mais alta»;
+
+nnn) Aposta «Vai à decisão dos juízes»;
+
+ooo) Aposta «Campeão».
 
 2 - A descrição de cada um dos tipos de apostas previstas no número anterior consta do anexo i do presente Regulamento, do qual é parte integrante.
 

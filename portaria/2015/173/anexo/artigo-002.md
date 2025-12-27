@@ -24,7 +24,7 @@ i) «Montante base», o valor que o apostador associa a cada combinação de pro
 
 j) «Montante total», o valor do Montante base multiplicado pelo número de combinações selecionadas pelo apostador;
 
-k) «Período de jogo», o intervalo de tempo de um evento desportivo sobre o qual podem ser efetuadas apostas, quer seja a totalidade do tempo regulamentar do evento, ou quaisquer outros períodos de jogo previstos no presente Regulamento, na denominação dos tipos de apostas apresentadas ao apostador, ou estabelecido pelo Departamento de Jogos;
+k) «Período de jogo», o intervalo de tempo de um evento desportivo sobre o qual podem ser efetuadas apostas, quer seja a totalidade do tempo regulamentar do evento ou quaisquer outros períodos de jogo previstos no presente Regulamento, na denominação dos tipos de apostas apresentadas ao apostador e estabelecidos pelo Departamento de Jogos;
 
 l) «Prognóstico», uma das respostas possíveis à pergunta que é colocada ao apostador;
 
@@ -32,4 +32,4 @@ m) «Tempo regulamentar», o período de tempo de duração total de um evento d
 
 n) «Jogo» o período de tempo de duração total de um evento desportivo que compreende o 'tempo regulamentar' e os prolongamentos ou outro método de desempate;
 
-o) «Tipo de Aposta», a pergunta colocada ao apostador, sobre factos que ocorrem no decurso de determinado período de jogo de um ou vários eventos desportivos, nos termos previstos no artigo 6.º
+o) «Tipo de aposta», a pergunta colocada ao apostador, sobre factos que ocorrem no decurso de determinado período de jogo de um ou vários eventos desportivos, nos termos previstos no artigo 6.º, podendo ser apresentadas em simultâneo duas ou mais perguntas combinando distintos tipos de apostas.
