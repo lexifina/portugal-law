@@ -14,11 +14,11 @@
 
 2 - A sociedade gestora:
 
-a) É dotada dos meios necessários para gerir os riscos a que está exposta;
+a) Dispõe dos meios necessários para gerir os riscos a que está exposta, incluindo o risco associado às tecnologias de informação e comunicação (TIC), de acordo com o capítulo ii do Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, e, para o efeito, adota os mecanismos e sistemas adequados para identificar todos os riscos significativos para o seu funcionamento, bem como as medidas que se revelem eficazes para mitigar esses riscos;
 
-b) Implementa mecanismos e sistemas adequados para identificar todos os riscos significativos para o seu funcionamento, nomeadamente o risco de perda de dados em caso de problemas operacionais; e
+b) (Revogada.)
 
-c) Adota medidas eficazes, incluindo planos de contingência e de continuidade, para atenuar esses riscos.
+c) (Revogada.)
 
 3 - Uma fração não inferior a 10 % dos lucros líquidos apurados em cada exercício pelas sociedades gestoras de mercado regulamentado destina-se à constituição de reserva legal até ao limite do capital social.
 

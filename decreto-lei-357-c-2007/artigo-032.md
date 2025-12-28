@@ -8,7 +8,7 @@
 
 1 - As sociedades gestoras de mercado regulamentado e as empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado asseguram a manutenção de padrões de elevada qualidade e eficiência na gestão dos mercados ou sistemas a seu cargo, bem como na prestação de outros serviços.
 
-2 - As sociedades gestoras e as empresas de investimento implementam mecanismos destinados a assegurar uma gestão sã das operações técnicas dos respetivos sistemas, incluindo a adoção de medidas de emergência eficazes para fazer face aos riscos de perturbação dos sistemas.
+2 - (Revogado.)
 
 3 - Os órgãos de administração e de fiscalização das sociedades gestoras de mercados regulamentados definem, fiscalizam e são responsáveis, no âmbito das respetivas competências, pela aplicação de sistemas de governo que garantam a gestão eficaz e prudente da mesma, incluindo a separação de funções no seio da organização de modo a assegurar a integridade do mercado e a prevenção de conflitos de interesses.
 
