@@ -2,13 +2,13 @@
 
 ### Requisitos dos sistemas de negociação
 
-1 - A entidade gestora de mercado regulamentado adota sistemas, procedimentos e mecanismos eficazes para garantir, de acordo com a legislação da União Europeia, que os sistemas de negociação do mercado:
+1 - A entidade gestora de mercado regulamentado adota e mantém sistemas, procedimentos e mecanismos eficazes para garantir que, de acordo com a legislação da União Europeia, incluindo com os requisitos estabelecidos no capítulo ii do Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, os sistemas de negociação do mercado:
 
-a) São resistentes, têm capacidade suficiente para lidar com um número elevado e anormal de ofertas ou mensagens e são capazes de assegurar a negociação ordenada;
+a) São resilientes, têm capacidade suficiente para lidar com um número elevado e anormal de ofertas e grandes volumes de mensagens e são capazes de assegurar a negociação ordenada em condições de elevada pressão no mercado;
 
-b) Estão plenamente testados para garantir o cumprimento dos requisitos previstos na alínea anterior;
+b) Foram plenamente testados para garantir o cumprimento dos requisitos previstos na alínea anterior;
 
-c) Dispõem mecanismos de continuidade das atividades que asseguram a manutenção dos seus serviços, caso se verifique uma falha dos sistemas de negociação.
+c) Dispõem de planos de contingência e de continuidade de negócio, incluindo políticas e planos de continuidade das atividades no domínio das tecnologias de informação e comunicação (TIC) e planos de resposta e recuperação em matéria de TIC, estabelecidos em conformidade com o artigo 11.º do Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, que asseguram a manutenção dos seus serviços, caso se verifique uma falha dos sistemas de negociação.
 
 2 - A entidade gestora adota sistemas, procedimentos e mecanismos eficazes para rejeitar ofertas que excedam os limiares pré-determinados de volume e de preço ou se revelem manifestamente erradas, bem como para, em casos excecionais, anular, alterar ou corrigir transações efetuadas.
 

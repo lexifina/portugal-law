@@ -6,11 +6,13 @@
 
 ### Negociação algorítmica
 
-1 - O intermediário financeiro que desenvolva negociação algorítmica adota sistemas, procedimentos e controlos de risco eficazes e adequados, nos termos previstos na legislação da União Europeia, de forma a assegurar que:
+1 - O intermediário financeiro que desenvolva negociação algorítmica dispõe de sistemas, procedimentos e controlos de risco eficazes e adequados, nos termos previstos na legislação da União Europeia, de forma a assegurar que:
 
-a) Os seus sistemas de negociação têm a resistência e capacidade suficientes para a atividade desenvolvida, estão sujeitos a limiares e limites de negociação adequados e impedem o envio de ofertas erradas;
+a) Os seus sistemas de negociação são resilientes e têm capacidade suficiente, em conformidade com os requisitos definidos no capítulo ii do Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, estão sujeitos a limiares e limites de negociação adequados e impedem o envio de ofertas erradas;
 
 b) Os seus sistemas de negociação não funcionam de modo a criar ou contribuir para uma perturbação do funcionamento ordenado do mercado e não possam ser utilizados para qualquer objetivo contrário ao disposto no presente Código, no regime do abuso de mercado, ou nas regras de uma plataforma de negociação.2 - O intermediário financeiro adota planos de continuidade das atividades que desenvolve e que sejam eficazes para fazer face a qualquer falha dos seus sistemas de negociação, bem como assegurar que os seus sistemas foram plenamente testados e são devidamente supervisionados, de modo a garantir o cumprimento do disposto no número anterior.
+
+2 - O intermediário financeiro adota planos de contingência e de continuidade de negócio que sejam eficazes para fazer face a qualquer falha dos seus sistemas de negociação, incluindo políticas e planos de continuidade das atividades no domínio das TIC e planos de resposta e recuperação em matéria de TIC estabelecidos em conformidade com o artigo 11.º do Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, bem como um procedimento para testar regularmente esses sistemas e proceder à sua avaliação, por forma a garantir que satisfazem os requisitos gerais constantes do presente número e quaisquer requisitos específicos definidos nos capítulos ii e iv do Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022.
 
 3 - O intermediário financeiro, com sede em Portugal, que pretenda exercer a atividade de negociação algorítmica, comunica previamente esse facto à CMVM e à plataforma de negociação em que pretende exercer a atividade.
 
