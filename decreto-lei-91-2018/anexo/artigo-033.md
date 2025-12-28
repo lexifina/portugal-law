@@ -8,7 +8,7 @@
 
 3 - Caso as instituições recorram a terceiros para o desempenho de funções operacionais, essas instituições tomam medidas razoáveis para assegurar o cumprimento dos requisitos estabelecidos no presente Regime Jurídico.
 
-4 - Quando sejam subcontratadas funções operacionais relevantes, incluindo sistemas informáticos, as instituições de pagamento e as instituições de moeda eletrónica devem salvaguardar a qualidade do controlo interno e assegurar que o Banco de Portugal tem condições de verificar o cumprimento de todas as disposições legais aplicáveis.
+4 - Quando sejam subcontratadas funções operacionais relevantes, incluindo sistemas de TIC, as instituições de pagamento e as instituições de moeda eletrónica devem salvaguardar a qualidade do controlo interno e assegurar que o Banco de Portugal tem condições de verificar e obrigar ao cumprimento de todas as disposições legais aplicáveis.
 
 5 - A subcontratação a terceiros de funções operacionais relevantes deve respeitar as seguintes condições:
 
