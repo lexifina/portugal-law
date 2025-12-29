@@ -10,4 +10,6 @@ b) A falta, inexactidão ou deficiência das menções de rotulagem previstas no
 
 c) A não indicação da denominação exigida nos termos do artigo 5.º
 
+d) A ausência de evidência técnica documentada que comprove a inevitabilidade da remoção de pólen ou de constituintes próprios do mel, nos termos do anexo ii.
+
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
