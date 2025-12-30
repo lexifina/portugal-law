@@ -1,0 +1,11 @@
+# Artigo 112.º
+
+### Modalidades de pagamento
+
+1 — O pagamento de IRC é efectuado nos termos previstos no n.º 1 do artigo 40.º da Lei Geral Tributária.
+
+2 — Se o pagamento for efectuado por meio de cheque, a extinção da obrigação de imposto só se verifica com o recebimento efectivo da respectiva importância, não sendo, porém, devidos juros de mora pelo tempo que mediar entre a entrega ou expedição do cheque e aquele recebimento, salvo se não for possível fazer a cobrança integral da dívida por falta de provisão.
+
+3 — Tratando-se de vale postal, a obrigação do imposto considera-se extinta com a sua entrega ou expedição.
+
+Nota - O CIRC foi republicado pela Lei n.º 2/2014 - 16/01, mantendo a redação deste artigo.

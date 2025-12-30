@@ -1,0 +1,11 @@
+## CAPÍTULO I
+
+## Incidência
+
+# Artigo 1.º
+
+### Pressuposto do imposto
+
+O imposto sobre o rendimento das pessoas colectivas (IRC) incide sobre os rendimentos obtidos, mesmo quando provenientes de actos ilícitos, no período de tributação, pelos respectivos sujeitos passivos, nos termos deste Código.
+
+Nota - O CIRC foi republicado pela Lei n.º 2/2014 - 16/01, mantendo a redação deste artigo.

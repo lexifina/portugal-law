@@ -1,0 +1,7 @@
+# Artigo 100.º
+
+### Liquidações correctivas no regime de transparência fiscal
+
+Sempre que, relativamente às entidades a que se aplique o regime de transparência fiscal definido no artigo 6.º, haja lugar a correcções que determinem alteração dos montantes imputados aos respectivos sócios ou membros, a Direcção-Geral dos Impostos promove as correspondentes modificações na liquidação efectuada àqueles, cobrando-se ou anulando-se em consequência as diferenças apuradas.
+
+Nota - O CIRC foi republicado pela Lei n.º 2/2014 - 16/01, mantendo a redação deste artigo.

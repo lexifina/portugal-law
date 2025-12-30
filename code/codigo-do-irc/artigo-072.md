@@ -1,0 +1,19 @@
+## SUBSECÇÃO III
+
+## Transformação de sociedades
+
+# Artigo 72.º
+
+### Regime aplicável
+
+1 — A transformação de sociedades, mesmo quando ocorra dissolução da anterior, não implica alteração do regime fiscal que vinha sendo aplicado nem determina, por si só, quaisquer consequências em matéria de IRC, salvo o disposto nos números seguintes.
+
+2 — No caso de transformação de sociedade civil não constituída sob forma comercial em sociedade sob qualquer dos tipos previstos no Código das Sociedades Comerciais, ao lucro tributável correspondente ao período decorrido desde o início do período de tributação em que se verificou a transformação até à data desta é aplicável o regime previsto no n.º 1 do artigo 6.º.
+
+(Rectificada pela Dec.Rectificação n.º 67-A/2009 - 11/09)
+
+3 — Para efeitos do disposto no número anterior, no exercício em que ocorre a transformação deve determinar-se separadamente o lucro correspondente aos períodos anterior e posterior a esta, podendo os prejuízos anteriores à transformação, apurados nos termos deste Código, ser deduzidos nos lucros tributáveis da sociedade resultante da transformação. (Redação da Lei n.º 24-D/2022, de 30 de dezembro)
+
+4 — A data de aquisição das partes sociais resultantes da transformação de sociedade em sociedade de outro tipo é a data de aquisição das partes sociais que lhes deram origem.
+
+Nota - O CIRC foi republicado pela Lei n.º 2/2014 - 16/01, mantendo a redação deste artigo.
