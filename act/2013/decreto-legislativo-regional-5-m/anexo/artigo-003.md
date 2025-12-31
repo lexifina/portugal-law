@@ -14,7 +14,7 @@
 
 ### Missão e atribuições
 
-1 - O IVBAM, IP-RAM tem por missão a definição, coordenação e execução da política de valorização e preservação da vinha, do vinho, das bebidas espirituosas, do artesanato, do bordado e da tapeçaria, produzidos na Região Autónoma da Madeira, assim como da política de promoção e divulgação desses produtos e dos demais produtos tradicionais e agroalimentares produzidos na Região.
+1 - O IVBAM, IP-RAM tem por missão a definição, coordenação e execução da política de valorização e preservação da vinha, do vinho, das bebidas espirituosas, do bordado da Madeira, do artesanato e das artes tradicionais, produzidos na Região Autónoma da Madeira, assim como da política de promoção e divulgação desses produtos e da sidra regional.
 
 2 - Para a realização da sua missão são atribuições do IVBAM, IP-RAM:
 
