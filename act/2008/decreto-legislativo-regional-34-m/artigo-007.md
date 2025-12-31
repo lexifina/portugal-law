@@ -10,9 +10,9 @@ a) Última Declaração de Rendimentos modelo 3 ou modelo 22, este último acomp
 
 b) Última Declaração de Rendimentos e Retenções de Residentes (modelo 10) e DMR;
 
-c) Anexo Q da última informação empresarial simplificada (IES);
+c) Última Declaração Mensal de Imposto do Selo (DMIS);
 
-d) Anexo R da última declaração periódica do IVA.
+d) Última declaração periódica do IVA.
 
 3 - A documentação referida no número anterior deve ainda ser apresentada por eventuais subcontratados identificados na proposta do adjudicatário. No decurso da execução do contrato, a autorização do contraente público à subcontratação fica condicionada à apresentação daquela documentação relativa ao potencial subcontratado por parte do co-contratante.
 
