@@ -13,3 +13,7 @@
 5 - Para efeitos do previsto nos números anteriores, a APA, I. P., e a DGAE elaboram especificações técnicas que devem ser publicitadas nos respetivos sítios na Internet.
 
 6 - As entidades gestoras de sistemas integrados devem, em conjunto, apresentar à APA, I. P., e à DGAE, até 30 de junho de 2024, um estudo de viabilidade de implementação de um sistema de incentivo ou de depósito para o fluxo de REEE, acompanhado, se tecnicamente viável, de propostas de medidas.
+
+7 - A partir de 31 de dezembro de 2026 é obrigatória a existência de um sistema de incentivo ou de depósito para o fluxo de REEE.
+
+8 - Os termos e os critérios do sistema de incentivo ou de depósito referidos no número anterior são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças, da economia e do ambiente.
