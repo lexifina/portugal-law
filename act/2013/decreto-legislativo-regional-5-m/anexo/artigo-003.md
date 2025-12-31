@@ -1,11 +1,3 @@
-## Anexo
-
-## Orgânica do Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM
-
-## Capítulo I
-
-## Denominação, natureza e tutela
-
 ## Capítulo II
 
 ## Missão, atribuições e competências
