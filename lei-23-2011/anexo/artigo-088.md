@@ -6,24 +6,24 @@
 
 ### Legislação subsidiária
 
-1 - O Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas é aplicável aos funcionários e trabalhadores parlamentares.
+1 - (Revogado.)
 
-2 - Ao pessoal abrangido pelo presente Estatuto são também aplicáveis, com as necessárias adaptações, as seguintes disposições do Regime do Contrato de Trabalho em Funções Públicas e do respectivo Regulamento:
+2 - É aplicável ao pessoal abrangido pelo presente Estatuto, subsidiariamente e com as necessárias adaptações, o disposto na Lei Geral de Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, nomeadamente, em matéria de:
 
-a) Artigos 6.º a 12.º do Regime e 1.º a 3.º do Regulamento, sobre direitos de personalidade;
+a) Regime disciplinar;
 
-b) Artigos 13.º a 20.º, 22.º e 23.º do Regime e 4.º a 14.º do Regulamento, sobre igualdade e não discriminação;
+b) Direitos de personalidade;
 
-c) Artigos 21.º do Regime e 15.º a 39.º do Regulamento, sobre protecção do património genético;
+c) Igualdade e não discriminação;
 
-d) Artigos 52.º a 58.º do Regime e 87.º a 96.º do Regulamento, sobre estatuto de trabalhador-estudante;
+d) Segurança e saúde no trabalho;
 
-e) Artigos 221.º a 229.º do Regime e 132.º a 204.º do Regulamento, sobre segurança, higiene e saúde no trabalho;
+e) Constituição de comissões de trabalhadores;
 
-f) Artigos 298.º a 307.º do Regime e 205.º a 239.º do Regulamento, sobre constituição de comissões de trabalhadores;
+f) Liberdade sindical;
 
-g) Artigos 308.º a 339.º do Regime e 240.º a 253.º do Regulamento, sobre liberdade sindical;
+g) Direito à greve.
 
-h) Artigos 392.º a 407.º do Regime, sobre direito à greve.
+h) (Revogada.)
 
 3 - São ainda aplicáveis ao pessoal abrangido pelo presente Estatuto os regimes de protecção social e de protecção na parentalidade dos trabalhadores que exercem funções públicas.

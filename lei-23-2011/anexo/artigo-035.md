@@ -14,9 +14,9 @@ d) Prova de conhecimentos informáticos;
 
 e) Entrevista de avaliação das competências exigíveis ao exercício das funções.
 
-2 - Os métodos de selecção do procedimento concursal para categoria superior são os seguintes:
+2 - Os métodos de seleção do procedimento concursal para categoria superior podem incluir:
 
-a) Prova de conhecimentos ou discussão pública de monografia sobre tema relevante para o exercício das funções, com carácter eliminatório;
+a) Prova de conhecimentos ou trabalho escrito sobre tema relacionado com o exercício de funções na Assembleia da República e sua discussão pública, com caráter eliminatório;
 
 b) Avaliação curricular;
 
@@ -24,9 +24,9 @@ c) Entrevista de avaliação das competências.
 
 3 - Os métodos de selecção para a ocupação de postos de trabalho em regime de contrato a termo resolutivo certo e incerto são os seguintes:
 
-a) Avaliação curricular, com carácter eliminatório;
+a) Avaliação curricular;
 
-b) Entrevista de avaliação, incluindo prova oral de conhecimentos.
+b) Entrevista de avaliação de competências, incluindo prova oral de conhecimentos.
 
 4 - Nos procedimentos a que se referem os números anteriores podem ainda ser adoptados, no aviso de abertura, outros métodos de selecção legalmente previstos.
 

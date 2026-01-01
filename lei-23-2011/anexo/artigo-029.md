@@ -19,3 +19,5 @@ c) 1 ponto por cada menção de Suficiente;
 d) 1 ponto negativo por cada menção de Insuficiente.
 
 3 - A alteração do posicionamento remuneratório reporta-se a 1 de Janeiro do ano em que tem lugar.
+
+4 - O funcionário que, por estar na última posição remuneratória da categoria superior da sua carreira, já não tiver direito a alteração de posição remuneratória, tem direito à conversão dos pontos acumulados em férias, nos termos a definir por regulamento.

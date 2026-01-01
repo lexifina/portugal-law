@@ -14,6 +14,10 @@ c) Assistente operacional parlamentar.
 
 3 - Para a integração na carreira de grau de complexidade 1 é exigida aos candidatos a titularidade da escolaridade obrigatória de acordo com a respectiva idade, que poderá ser acrescida de formação adequada.
 
-4 - Para a integração na carreira de grau de complexidade 2 é exigida a titularidade do 12.º ano de escolaridade ou de curso que lhe seja equiparado, acrescida de curso de formação específico.
+4 - Para a integração na carreira de grau de complexidade 2 é exigida a titularidade do 12.º ano de escolaridade ou de curso que lhe seja equiparado, podendo, caso se justifique, exigir-se formação específica.
 
-5 - Para a integração na carreira de grau de complexidade 3 é exigida a titularidade da licenciatura anterior ao Processo de Bolonha ou o 2.º ciclo de Bolonha.
+5 - Para a integração na carreira de grau de complexidade 3 é exigida a titularidade de:
+
+a) Licenciatura anterior ao Processo de Bolonha ou grau académico equivalente reconhecido em Portugal; ou
+
+b) Licenciatura obtida ao abrigo do Processo de Bolonha, seguida de conclusão, com aproveitamento, da parte curricular dos cursos de mestrado ou de doutoramento obtidos em universidade portuguesa, ou grau académico e parte escolar equivalentes reconhecidos em Portugal.

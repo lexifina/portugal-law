@@ -1,7 +1,13 @@
 # Artigo 21.º
 
-### Acesso às categorias superiores
+### Carreiras parlamentares
 
-1 - A previsão de postos de trabalho nas categorias superiores das carreiras de assessor parlamentar, de técnico de apoio parlamentar e de assistente operacional parlamentar no mapa de pessoal a aprovar com o Orçamento da Assembleia da República depende de proposta fundamentada do secretário-geral, designadamente quanto ao seu impacte financeiro.
+1 - As carreiras parlamentares desenvolvem-se por duas categorias:
 
-2 - O número de postos de trabalho da categoria de encarregado operacional parlamentar da carreira de assistente operacional parlamentar é fixado anualmente no mapa de pessoal, não podendo ser inferior a três.
+a) A carreira de assessor parlamentar compreende as categorias de assessor parlamentar e de assessor parlamentar sénior;
+
+b) A carreira de técnico de apoio parlamentar compreende as categorias de técnico de apoio parlamentar e de técnico de apoio parlamentar-coordenador;
+
+c) A carreira de assistente operacional parlamentar compreende a categoria de assistente operacional parlamentar e de assistente operacional parlamentar principal.
+
+2 - Às categorias de base das carreiras parlamentares correspondem 10 posições remuneratórias e às categorias superiores correspondem 5 posições remuneratórias.

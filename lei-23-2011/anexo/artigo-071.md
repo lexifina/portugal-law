@@ -4,7 +4,7 @@
 
 1 - O serviço responsável pela gestão dos recursos humanos deve, nos cinco dias úteis seguintes à comunicação referida no artigo anterior, exigir ao funcionário parlamentar prova dos factos invocados para a justificação.
 
-2 - A prova da situação de doença prevista na alínea d) do n.º 2 do artigo 67.º é feita por estabelecimento hospitalar, por declaração do centro de saúde ou por atestado médico.
+2 - A prova da situação de doença prevista na alínea d) do n.º 2 do artigo 67.º é feita por estabelecimento hospitalar, por declaração do centro de saúde, por autodeclaração de doença, nos termos previstos na lei, ou por declaração médica.
 
 3 - A doença referida no número anterior pode ser fiscalizada por médico designado pela Assembleia da República ou, nos termos do disposto na lei geral, de acordo com o regime de protecção de doença.
 

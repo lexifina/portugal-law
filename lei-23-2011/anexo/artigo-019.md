@@ -17,3 +17,7 @@
 5 - O recrutamento referido no número anterior só pode ter lugar quando estiverem em causa necessidades permanentes da Assembleia da República.
 
 6 - A caracterização das carreiras especiais e as categorias em que se desdobram, bem como os respectivos conteúdos funcionais, os graus de complexidade funcional e o número de posições remuneratórias de cada categoria são os constantes dos anexos i e ii do presente Estatuto, dele fazendo parte integrante.
+
+7 - O funcionário parlamentar que ingresse noutra carreira parlamentar na sequência de procedimento concursal ou mobilidade intercarreiras é colocado na posição remuneratória correspondente ao nível remuneratório que detém.
+
+8 - Nos casos previstos no número anterior, se o nível remuneratório não corresponder a uma posição remuneratória da nova carreira, o funcionário parlamentar fica colocado no mesmo nível, transitando para a posição remuneratória seguinte após conclusão do estágio com sucesso.
