@@ -1,9 +1,9 @@
 # Artigo 25.º
 
-### Certificação da entrega da declaração de remunerações
+### Certificação da declaração à segurança social
 
-1 - A entrega das declarações de remunerações é certificada pelas entidades competentes para a respectiva recepção.
+1 - A confirmação das declarações à segurança social pelas entidades empregadoras, bem como, quando ocorra, a aceitação das declarações preenchidas pelo sistema com base em declarações prévias, são certificadas através da disponibilização do comprovativo respetivo.
 
-2 - A certificação da entrega da declaração de remunerações por transmissão electrónica de dados é feita através da disponibilização do comprovativo de entrega.
+2 - (Revogado.)
 
-3 - A certificação da entrega da declaração de remunerações em papel é feita mediante aposição de carimbo de recepção no duplicado da declaração de remunerações entregue.
+3 - (Revogado.)

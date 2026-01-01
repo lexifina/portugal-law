@@ -1,8 +1,8 @@
 # Artigo 24.º
 
-### Confirmação dos elementos da declaração de remunerações
+### Confirmação dos elementos das declarações à segurança social
 
-1 - As instituições de segurança social podem exigir a confirmação dos elementos constantes das declarações de remunerações que lhes suscitem dúvidas, solicitando, para o efeito, provas adicionais das declarações prestadas.
+1 - As instituições de segurança social podem exigir a confirmação dos elementos constantes das declarações que lhes suscitem dúvidas, solicitando, para o efeito, provas adicionais.
 
 2 - O disposto no número anterior aplica-se, em especial, nos casos em que, por referência a qualquer trabalhador, se verifiquem variações não justificadas no montante das remunerações declaradas.
 

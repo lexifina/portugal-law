@@ -10,7 +10,7 @@
 
 ### Comunicação da admissão de trabalhadores
 
-1 - Para efeitos da comunicação da admissão de trabalhador prevista no artigo 29.º do Código, a entidade empregadora solicita ao trabalhador e comunica à instituição de segurança social competente os elementos necessários à sua inscrição e enquadramento.
+1 - Para efeitos da comunicação da admissão de trabalhador prevista no artigo 29.º do Código, o trabalhador deve fornecer à entidade empregadora os elementos necessários à sua inscrição e enquadramento no regime.
 
 2 - A declaração deve ainda conter os elementos de identificação da entidade empregadora.
 
