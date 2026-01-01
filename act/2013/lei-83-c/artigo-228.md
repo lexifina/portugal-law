@@ -24,7 +24,7 @@ b) Sejam titulares, no caso de centros eletroprodutores licenciados ao abrigo do
 
 c) Sejam concessionárias das atividades de transporte ou de distribuição de eletricidade, nos termos definidos no Decreto-Lei n.º 29/2006, de 15 de fevereiro, alterado pelos Decretos-Leis n.os 104/2010, de 29 de setembro, 78/2011, de 20 de junho, 75/2012, de 26 de março, 112/2012, de 23 de maio, e 215-A/2012, de 8 de outubro;
 
-d) Sejam concessionárias das atividades de transporte, de distribuição ou de armazenamento subterrâneo de gás natural, nos termos definidos no Decreto-Lei n.º 140/2006, de 26 de julho, alterado pelos Decretos-Leis n.os 65/2008, de 9 de abril, 66/2010, de 11 de junho, e 231/2012, de 26 de outubro;
+d) [Revogada.]
 
 e) Sejam titulares de licenças de distribuição local de gás natural, nos termos definidos no Decreto-Lei n.º 140/2006, de 26 de julho, alterado pelos Decretos-Leis n.os 65/2008, de 9 de abril, 66/2010, de 11 de junho, e 231/2012, de 26 de outubro;
 
@@ -94,7 +94,11 @@ e) Prevenção e o controlo da poluição;
 
 f) Proteção e o restauro da biodiversidade e dos ecossistemas.
 
-15 - Para efeitos do disposto no número anterior, apenas se consideram as despesas de investimento relativas a ativos fixos tangíveis adquiridos em estado de novo, construídos ou na parte em que sejam ampliados, nos períodos de tributação que se iniciem em, ou após, 1 de janeiro de 2024.
+15 - Para efeitos do disposto no número anterior, apenas se consideram as despesas de investimento relativas a ativos fixos tangíveis adquiridos em estado de novo, construídos ou na parte em que sejam ampliados, nos períodos de tributação que se iniciem em 2024 e em 2025.
+
+16 - Para efeitos do disposto nos n.os 1 a 13, não são considerados os elementos do ativo afetos à exploração de rede de transporte e distribuição da energia elétrica.
+
+17 - Para efeitos do disposto no número anterior, apenas se consideram as despesas de investimento relativas a ativos fixos tangíveis adquiridos em estado de novo, construídos ou na parte em que sejam ampliados, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2026.
 
 Artigo 4.º
 
