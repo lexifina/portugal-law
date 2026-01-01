@@ -1,0 +1,5 @@
+# Artigo 12.º
+
+### Sociedades e outras entidades abrangidas pelo regime de transparência fiscal
+
+As sociedades e outras entidades a que, nos termos do artigo 6.º, seja aplicável o regime de transparência fiscal não são tributadas em IRC, salvo quanto às tributações autónomas.

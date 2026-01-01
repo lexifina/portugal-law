@@ -1,0 +1,19 @@
+# Artigo 114.º
+
+### Juros e responsabilidade pelo pagamento nos casos de retenção na fonte
+
+1 - Quando a retenção na fonte tenha a natureza de imposto por conta e a entidade que a deva efetuar a não tenha feito, total ou parcialmente, ou, tendo-a feito, não tenha entregue o imposto ou o tenha entregue fora do prazo, são por ela devidos juros compensatórios sobre as respetivas importâncias, contados, no último caso, desde o dia imediato àquele em que deviam ter sido entregues até à data do pagamento ou da liquidação e, no primeiro caso, desde aquela mesma data até ao termo do prazo para entrega da declaração periódica de rendimentos pelo sujeito passivo, sem prejuízo da responsabilidade que ao caso couber.
+
+2 - Sempre que a retenção na fonte tenha caráter definitivo, são devidos juros compensatórios pela entidade a quem incumbe efetuá-la, sobre as importâncias não retidas, ou retidas mas não entregues dentro do prazo legal, contados desde o dia imediato àquele em que deviam ter sido entregues até à data do pagamento ou da liquidação.
+
+3 - Aos juros compensatórios referidos nos números anteriores aplica-se o disposto no artigo 35.º da Lei Geral Tributária.
+
+4 - No caso das retenções na fonte contempladas no n.º 1, a entidade devedora dos rendimentos é subsidiariamente responsável pelo pagamento do imposto que vier a revelar-se devido pelo sujeito passivo titular dos rendimentos, até à concorrência da diferença entre o imposto que tenha sido deduzido e o que deveria tê-lo sido.
+
+5 - Quando a retenção na fonte tenha caráter definitivo, os titulares dos rendimentos são subsidiariamente responsáveis pelo pagamento do imposto, pela diferença mencionada no número anterior.
+
+6 - Os juros compensatórios devem ser pagos:
+
+a) Conjuntamente com as importâncias retidas, quando estas sejam entregues fora do prazo legalmente estabelecido;
+
+b) Autonomamente, no prazo de 30 dias a contar do termo do período em que são devidos, quando, tratando-se de retenção com a natureza de imposto por conta, esta não tenha sido efetuada.
