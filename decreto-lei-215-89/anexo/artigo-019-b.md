@@ -4,9 +4,9 @@
 
 1 - Para a determinação do lucro tributável dos sujeitos passivos do IRC e dos sujeitos passivos do IRS com contabilidade organizada, os encargos correspondentes aos aumentos salariais relativos a trabalhadores com contrato de trabalho por tempo indeterminado são considerados em 200 % do respetivo montante, contabilizado como custo do exercício, quando:
 
-a) O aumento da retribuição base anual média na empresa, por referência ao final do ano anterior seja, no mínimo, de 4,7 %; e
+a) O aumento da retribuição base anual média na empresa, por referência ao final do ano anterior, seja, no mínimo, de 4,6 %; e
 
-b) O aumento da retribuição base anual dos trabalhadores que aufiram um valor inferior ou igual à retribuição base média anual da empresa no final do ano anterior seja, no mínimo, de 4,7 %.
+b) O aumento da retribuição base anual dos trabalhadores que aufiram um valor inferior ou igual à retribuição base média anual da empresa no final do ano anterior seja, no mínimo, de 4,6 %.
 
 2 - (Revogado).
 

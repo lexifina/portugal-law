@@ -2,7 +2,7 @@
 
 ### Regime aplicável às entidades licenciadas na Zona Franca da Madeira a partir de 1 de janeiro de 2015
 
-1 - Os rendimentos das entidades licenciadas para operar na Zona Franca da Madeira a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2026 são tributados em IRC, até 31 de dezembro de 2028, à taxa de 5 % nos seguintes termos:
+1 - Os rendimentos das entidades licenciadas para operar na Zona Franca da Madeira a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2026 são tributados em IRC, até 31 de dezembro de 2033, à taxa de 5 %, nos seguintes termos:
 
 a) As entidades licenciadas no âmbito da zona franca industrial relativamente aos rendimentos derivados do exercício das atividades de natureza industrial, previstas no n.º 1 e qualificadas nos termos dos n.os 2 e 3 do artigo 4.º do Decreto Regulamentar n.º 53/82, de 23 de agosto, e, bem assim, das atividades acessórias ou complementares daquela;
 
@@ -94,7 +94,7 @@ e) As entidades sujeitas a uma injunção de recuperação, ainda pendente, na s
 
 9 - Os rendimentos das entidades licenciadas na Zona Franca da Madeira cuja atividade principal consista na gestão de participações sociais de natureza não financeira, são tributados nos termos do n.º 1, sendo-lhes igualmente aplicáveis os limites previstos no n.º 3.
 
-10 - Os sócios ou acionistas das sociedades licenciadas para operar na Zona Franca da Madeira, que beneficiem do presente regime, gozam de isenção de IRS ou de IRC, até 31 de dezembro de 2028, relativamente:
+10 - Os sócios ou acionistas das sociedades licenciadas para operar na Zona Franca da Madeira que beneficiem do presente regime gozam de isenção do IRS ou do IRC, até 31 de dezembro de 2033, relativamente:
 
 a) Aos lucros colocados à sua disposição por essas sociedades, incluindo a amortização de partes sociais sem redução de capital, na proporção da soma da parte do resultado líquido do período correspondente, acrescido do valor líquido das variações patrimoniais não refletidas nesse resultado, determinado para efeitos de IRC, que beneficie da aplicação da taxa reduzida prevista no n.º 1 e da parte daquele resultado que, não beneficiando daquela taxa, derive de rendimentos obtidos fora do território português, com exceção dos resultantes de operações realizadas com entidades que tenham residência ou domicílio em países, territórios ou regiões com regimes de tributação privilegiada, claramente mais favoráveis, constantes da lista aprovada pelo Estado português para esse efeito, de acordo com as melhores práticas internacionais;
 
