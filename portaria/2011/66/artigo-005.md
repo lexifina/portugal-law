@@ -10,7 +10,9 @@ b) NIF;
 
 c) Sede, direcção efectiva, domicílio profissional ou residência, denominação e localização dos estabelecimentos, classificação da actividade da sede e dos estabelecimentos e endereço para correspondência;
 
-d) Identificação dos responsáveis pela administração ou gerência.
+d) Identificação dos responsáveis pela administração ou gerência;
+
+e) Número de identificação bancária (IBAN) válido.
 
 2 - No caso de a entidade empregadora ser uma pessoa singular, são ainda necessários os seguintes elementos:
 

@@ -14,9 +14,11 @@ b) Modalidade de contrato;
 
 c) Duração dos contratos a termo certo e de muito curta duração;
 
-d) Remuneração base;
+d) Remuneração base e outras remunerações permanentes;
 
-e) Local do exercício da actividade.
+e) Local do exercício da actividade;
+
+f) Profissão e categoria profissional.
 
 2 - Na comunicação de admissão de trabalhadores devem ainda ser incluídos os seguintes elementos referentes à entidade empregadora:
 
