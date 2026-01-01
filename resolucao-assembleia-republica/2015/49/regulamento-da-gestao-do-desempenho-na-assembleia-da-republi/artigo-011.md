@@ -1,7 +1,3 @@
-## Secção II
-
-## Intervenientes na GEDAR
-
 # Artigo 11.º
 
 ### Avaliados

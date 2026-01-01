@@ -4,7 +4,7 @@
 
 A avaliação do desempenho é obrigatoriamente considerada para efeitos de:
 
-a) Mudança de categoria, nos termos do n.º 2 dos artigos 23.º e 25.º e no n.º 1 do artigo 27.º do Estatuto dos Funcionários Parlamentares (EFP);
+a) Mudança de categoria, nos termos do n.º 4 do artigo 21.º do Estatuto dos Funcionários Parlamentares (EFP);
 
 b) Alteração do posicionamento remuneratório, nos termos do artigo 29.º do EFP;
 

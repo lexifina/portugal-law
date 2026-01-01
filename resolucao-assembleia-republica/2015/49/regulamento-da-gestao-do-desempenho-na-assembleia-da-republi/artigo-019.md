@@ -1,8 +1,12 @@
+## Secção IV
+
+## Avaliação de dirigentes
+
 # Artigo 19.º
 
 ### Avaliados e avaliadores
 
-1 - Para efeitos da presente secção, e como tal sujeitos a avaliação, são considerados dirigentes os diretores de serviços e os chefes de divisão nomeados nos termos da LOFAR e ainda aqueles que lhes sejam legalmente equiparados.
+1 - Para efeitos da presente secção, e como tal sujeitos a avaliação, são considerados dirigentes os diretores de serviços e os chefes de divisão nomeados nos termos da LOFAR.
 
 2 - Os diretores de serviços ou equiparados são avaliados pelo Secretário-Geral.
 
