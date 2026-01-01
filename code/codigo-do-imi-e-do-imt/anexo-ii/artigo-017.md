@@ -10,7 +10,7 @@
 
 a) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente, exceto as abrangidas na alínea seguinte:
 
-Valor sobre que incide o IMT (euros)Taxas percentuaisMarginalMédia (*)Até 104 261[...][...]De mais de 104 261 e até 142 618[...][...]De mais de 142 618 e até 194 458[...][...]De mais de 194 458 e até 324 058[...][...]De mais de 324 058 e até 648 022[...][...]De mais de 648 022 e até 1 128 287[...]Superior a 1 128 287[...]
+Valor sobre que incide o IMT (euros)Taxas percentuaisMarginalMédia (*)Até 106 34600De mais de 106 346 e até 145 47020,5379De mais de 145 470 e até 198 34751,7274De mais de 198 347 e até 330 53973,8361De mais de 330 539 e até 660 9828−De mais de 660 982 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)
 
 (*) No limite superior do escalão.
 
@@ -18,17 +18,15 @@ b) Aquisição de prédio urbano ou de fração autónoma de prédio urbano dest
 
 Valor sobre que incide o IMT
 
-(em euros)Taxas percentuaisMarginalMédia (*)Até 324 05800De mais de 324 058 e até 648 0228−De mais de 648 022 e até 1 128 287 6 (taxa única)Superior a 1 128 2877,5 (taxa única)
+(em euros)Taxas percentuaisMarginalMédia (*)Até 330 53900De mais de 330 539 e até 660 9828−De mais de 660 982 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)
 
 (*) No limite superior do escalão.
 
 c) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação, não abrangida pelas alíneas anteriores:
 
-Valor sobre que incide o IMT (em euros)Taxas percentuaisMarginalMédia (*)Até 104 26111De mais de 104 261 e até 142 61821,268 9De mais de 142 618 e até 194 45852,263 6De mais de 194 458 e até 324 05874, 157 8De mais de 324 058 e até 621 5018-De mais de 621 501 e até 1 128 2876 (taxa única)Superior a 1 128 2877,5 (taxa única)(*) No limite superior do escalão.
+Valor sobre que incide o IMT (em euros)Taxas percentuaisMarginalMédia (*)Até 106 34611De mais de 106 346 e até 145 47021,268 9De mais de 145 470 e até 198 34752,263 6De mais de 198 347 e até 330 53974, 157 8De mais de 330 539 e até 633 9318-De mais de 633 931 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)(*) No limite superior do escalão.
 
 d) Aquisição de prédios rústicos - 5%;
-
-(ver tabela no documento original)
 
 e) Aquisição de outros prédios urbanos e outras aquisições onerosas - 6,5%.
 
