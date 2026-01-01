@@ -30,7 +30,7 @@ c) Os prémios em reconhecimento do valor e mérito de êxitos desportivos, nos 
 
 6 - O IRS não incide sobre os incrementos patrimoniais provenientes de transmissões gratuitas sujeitas ao imposto do selo, nem sobre os que se encontrem expressamente previstos em norma de delimitação negativa de incidência deste imposto.
 
-7 - O IRS não incide sobre as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros pela Autoridade Nacional de Proteção Civil, municípios e comunidades intermunicipais e pagos pelas respetivas entidades detentoras de corpos de bombeiros, no âmbito do dispositivo especial de combate a incêndios florestais e do dispositivo conjunto de proteção e socorro na Serra da Estrela, nos termos do respetivo enquadramento legal.
+7 - O IRS não incide sobre as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros pela Autoridade Nacional de Proteção Civil, municípios e comunidades intermunicipais e pagos pelas respetivas entidades detentoras de corpos de bombeiros, no âmbito do dispositivo especial de combate a incêndios florestais e do dispositivo conjunto de proteção e socorro na Serra da Estrela, nos termos do respetivo enquadramento legal, nem sobre as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros, pelas associações humanitárias de bombeiros, até ao limite máximo anual, por bombeiro, de seis vezes o indexante de apoios sociais.
 
 8 - O IRS não incide sobre o valor atribuído em resultado da liquidação, revogação ou extinção de estruturas fiduciárias a sujeitos passivos beneficiários das referidas estruturas distintos daqueles que as constituíram.
 

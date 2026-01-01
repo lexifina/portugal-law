@@ -62,7 +62,7 @@ c) Os ganhos previstos no n.º 3) da alínea b) e na alínea j) do n.º 1 do art
 
 d) As mais-valias previstas na alínea a) do n.º 1 do artigo 10.º auferidas por entidades não residentes sem estabelecimento estável em território português, que sejam domiciliadas em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
 
-19 - Para efeitos da aplicação da taxa prevista no n.º 3, são equiparadas a gratificações auferidas pela prestação ou em razão da prestação de trabalho, quando não atribuídas pela entidade patronal, as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros, pelas associações humanitárias de bombeiros, até ao limite máximo anual, por bombeiro, de três vezes o indexante de apoios sociais.
+19 - (Revogado.)
 
 20 - Sempre que os contratos de arrendamento previstos nos n.os 3, 4 e 5 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações, por motivo imputável ao senhorio, ou, no caso do direito real de habitação duradoura, por acordo das partes, extingue-se o direito às reduções das taxas aí previstas, com efeitos desde o início do contrato ou renovação, devendo os titulares dos rendimentos, no ano da cessação do contrato, proceder à declaração desse facto para efeitos de regularização da diferença entre o montante do imposto que foi pago em cada ano e aquele que deveria ter sido pago com base na taxa aplicável à duração efetivamente decorrida, acrescida de juros compensatórios.
 

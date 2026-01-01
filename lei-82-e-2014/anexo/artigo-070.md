@@ -2,7 +2,7 @@
 
 ### Mínimo de existência
 
-1 - O valor de referência do mínimo de existência é igual ao maior valor entre 12 180 € e 1,5 × 14 × IAS.
+1 - O valor de referência do mínimo de existência é igual ao maior valor entre 12 880 € e 1,5 × 14 × IAS.
 
 2 - No apuramento do rendimento coletável, para os titulares de rendimentos brutos predominantemente originados em trabalho dependente, em atividades previstas na tabela constante do anexo i à Portaria n.º 1011/2001, de 21 de agosto, com exceção do código 15, ou em pensões é abatido um montante por mínimo de existência, por titular, nos seguintes termos:
 

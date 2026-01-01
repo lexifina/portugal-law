@@ -16,6 +16,18 @@ e) Secção M, classe 75000 - atividades veterinárias;
 
 f) (Revogada.)
 
+g) Secção G, classe 47610 - Comércio a retalho de livros, em estabelecimentos especializados;
+
+h) Secção R, classe 90 - Atividades de teatro, de música, de dança e outras atividades artísticas e literárias;
+
+i) Secção R, classe 9004 - Exploração de salas de espetáculos e atividades conexas;
+
+j) Secção R, classe 9101 - Atividades das bibliotecas e arquivos;
+
+k) Secção R, classe 9102 - Atividades dos museus;
+
+l) Secção R, classe 9103 - Atividades dos sítios e monumentos históricos.
+
 2 - O valor do incentivo, calculado nos termos do presente artigo, pode ser atribuído:
 
 a) À mesma igreja ou comunidade religiosa radicada em Portugal, à mesma pessoa coletiva de utilidade pública de fins de beneficência, de assistência ou humanitários ou à mesma instituição particular de solidariedade social constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista na Lei da Liberdade Religiosa, aprovada pela Lei n.º 16/2001, de 22 de junho;
