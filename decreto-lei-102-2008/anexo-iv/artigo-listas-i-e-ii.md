@@ -34,6 +34,8 @@ Bens e serviços sujeitos a taxa reduzida
 
 1.2.6 – Coelhos domésticos.
 
+1.2.7 – Espécies cinegéticas de caça maior e menor.
+
 1.3 – Peixes e moluscos:
 
 1.3.1 – Peixe fresco (vivo ou morto), refrigerado, congelado, seco, salgado ou em salmoura, com exclusão do peixe fumado, do espadarte, do esturjão e do salmão, quando secos, salgados ou em conserva e preparados de ovas (caviar);
@@ -260,7 +262,9 @@ g) A destruição de plantas e animais nocivos e o tratamento de plantas e de te
 
 h) A exploração de instalações de irrigação e de drenagem;
 
-i) A poda de árvores, corte de madeira e outras operações silvícolas.
+i) A poda de árvores, corte de madeira e outras operações silvícolas;
+
+j) As operações de transformação de azeitona em azeite.
 
 5. – As transmissões de bens e prestações de serviços efetuadas no âmbito das seguintes atividades de produção agrícola:
 
