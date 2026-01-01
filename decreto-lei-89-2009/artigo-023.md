@@ -30,14 +30,16 @@ c) Subsídio por adoção é igual ao previsto nos n.os 2 e 4;
 
 d) Subsídio para assistência a filho, 100 %;
 
-e) Subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, 65 %, tendo como limite máximo mensal o valor correspondente a duas vezes o indexante dos apoios sociais (IAS);;
+e) Subsídio para assistência a filho com deficiência ou doença crónica, 80 %, tendo como limite máximo mensal o valor correspondente a três vezes o indexante dos apoios sociais (IAS);
 
-f) Subsídio para assistência a neto:
+f) Subsídio para assistência a filho com doença oncológica, 100 %, tendo como limite máximo mensal o valor correspondente a três vezes o IAS;
+
+g) Subsídio para assistência a neto:
 
 i) Nos casos previstos na alínea a) do n.º 1 do artigo 19.º, 100 %;
 
 ii) Nos casos previstos na alínea b) do n.º 1 do artigo 19.º, 65 %.
 
-g) Subsídio parental alargado caso os progenitores gozem, cada um, a totalidade da licença parental alargada de 40 %;
+h) Subsídio parental alargado caso os progenitores gozem, cada um, a totalidade da licença parental alargada de 40 %;
 
-h) Nas situações em que o progenitor goze a licença parental complementar nos termos previstos na alínea c) do n.º 1 do artigo 51.º do Código do Trabalho, o montante diário do subsídio corresponde a 20 %.
+i) Nas situações em que o progenitor goze a licença parental complementar nos termos previstos na alínea c) do n.º 1 do artigo 51.º do Código do Trabalho, o montante diário do subsídio corresponde a 20 %.
