@@ -30,4 +30,4 @@ b) No caso das cigarrilhas, de acordo com o previsto no n.º 2 do artigo 104.º;
 
 c) No caso do tabaco de corte fino destinado a cigarros de enrolar e dos restantes tabacos de fumar, de acordo com o previsto no n.º 5 do artigo 104.º-A;
 
-12 - As regras de condicionamento previstas no presente artigo não são aplicáveis aos charutos, ao tabaco para cachimbo de água, ao rapé, ao tabaco de mascar, ao tabaco aquecido e ao líquido em recipientes utilizados para carga e recarga de cigarros eletrónicos.
+12 - As regras de condicionamento previstas no presente artigo não são aplicáveis aos charutos, ao tabaco para cachimbo de água, ao rapé, ao tabaco de mascar, ao tabaco aquecido, ao líquido em recipientes utilizados para carga e recarga de cigarros eletrónicos e às bolsas de nicotina.

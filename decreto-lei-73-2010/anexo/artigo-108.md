@@ -12,7 +12,7 @@ a) Características de apresentação das marcas;
 
 b) Características físicas do produto e seu enquadramento nos termos do artigo 101.º;
 
-c) O teor de nicotina, no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos;
+c) O teor de nicotina, no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos e das bolsas de nicotina;
 
 d) Preço de venda ao público pretendido, com a adequada fundamentação.
 

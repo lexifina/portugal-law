@@ -15,3 +15,5 @@ b) Antes do início da operação de circulação, o expedidor informe a estânc
 4 - O expedidor deve manter nos seus registos uma cópia do exemplar do documento referido na alínea a) do n.º 1.
 
 5 - Caso pretenda efectuar uma alteração de destino durante a inacessibilidade do sistema, o expedidor deve previamente informar a estância aduaneira competente.
+
+6 - O documento referido na alínea a) do n.º 1 deve ser disponibilizado ao transportador e, no caso de uma exportação, ao declarante.

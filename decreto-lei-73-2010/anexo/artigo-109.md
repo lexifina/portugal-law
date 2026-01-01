@@ -12,7 +12,7 @@ c) O preço de venda ao público no território de consumo;
 
 d) O número de unidades, ou o peso líquido no caso dos tabacos de fumar, do tabaco para cachimbo de água, do rapé, do tabaco de mascar e do tabaco aquecido, ou o volume de líquido no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos;
 
-e) O teor de nicotina, no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos;
+e) O teor de nicotina, no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos e das bolsas de nicotina;
 
 f) A designação do tipo de produto;
 

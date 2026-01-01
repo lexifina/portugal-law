@@ -31,3 +31,5 @@ d) Produtos obtidos a partir da biomassa, incluindo os produtos abrangidos pelos
 10 - (Revogado.)
 
 11 - Beneficiam ainda de isenção total do imposto os biocombustíveis avançados, na aceção da alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 117/2010, de 25 de outubro, desde que certificados com o Título de Biocombustível (TdB), bem como os gases de origem renovável, na aceção da alínea bb) do artigo 3.º do Decreto-Lei n.º 62/2020, de 28 de agosto, desde que certificados com garantia de origem (GO).
+
+12 - São excluídos da isenção prevista no número anterior, os biocombustíveis avançados que utilizem efluentes da produção do óleo de palma e cachos de frutos de palma vazios.

@@ -8,7 +8,7 @@
 
 1 - Os produtos já introduzidos no consumo noutro Estado membro que forem adquiridos para fins comerciais ou para consumo próprio, que não seja considerado uma aquisição para uso pessoal, nos termos do artigo seguinte, estão sujeitos a imposto no território nacional.
 
-2 - Os produtos referidos no número anterior podem circular entre o território dos outros Estados-Membros e o território nacional, a coberto de um documento administrativo simplificado eletrónico, desde que provenientes de um expedidor certificado para um destinatário certificado.
+2 - Os produtos referidos no número anterior podem circular entre o território dos outros Estados-Membros e o território nacional, e entre dois locais do território nacional, com passagem pelo território de um outro Estado-Membro, a coberto de um documento administrativo simplificado eletrónico, desde que provenientes de um expedidor certificado para um destinatário certificado.
 
 3 - O destinatário certificado e o expedidor certificado devem cumprir as obrigações previstas nos artigos 60.º-A e 60.º-B, respetivamente.
 

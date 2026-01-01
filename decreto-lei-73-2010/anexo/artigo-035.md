@@ -22,7 +22,7 @@ e) A estância aduaneira de saída, nos casos previstos nos termos do n.º 5 do 
 
 3 - Sem prejuízo do disposto nos números anteriores, são permitidas operações de circulação em regime de suspensão do imposto no território nacional que envolvam a contentorização ou mudança do meio de transporte, desde que se realizem em armazéns de exportação, devidamente autorizados pela estância aduaneira competente.
 
-4 - Em derrogação dos n.os 1 e 2, os produtos sujeitos a impostos especiais de consumo podem circular em regime de suspensão do imposto para um local de entrega direta, designado pelo depositário autorizado ou pelo destinatário registado, situado em território nacional, salvo se for um destinatário registado temporário, nos termos previstos no artigo 30.º
+4 - Em derrogação dos n.os 1 e 2, os produtos sujeitos a impostos especiais de consumo podem circular em regime de suspensão do imposto para um local de entrega direta, situado em território nacional, designado pelo depositário autorizado ou pelo destinatário registado, salvo se este último estiver limitado a um único local de receção ou se se tratar de um destinatário registado temporário, nos termos previstos no artigo 30.º
 
 5 - Exceto nos casos em que a importação ocorra num entreposto fiscal, os produtos sujeitos a impostos especiais de consumo apenas podem ser retirados do local de importação, em regime de suspensão do imposto, se o declarante ou qualquer pessoa direta ou indiretamente envolvida no cumprimento de formalidades aduaneiras, nos termos do artigo 15.º do Regulamento (UE) 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União, apresentar à autoridade aduaneira os seguintes elementos:
 

@@ -2,9 +2,9 @@
 
 ### Circulação
 
-1 - A circulação de álcool e de bebidas alcoólicas rege-se pelo disposto na parte geral do presente diploma, com as seguintes excepções na circulação nacional:
+1 - A circulação de álcool e de bebidas alcoólicas rege-se pelo disposto na parte geral do presente diploma, com as seguintes exceções na circulação nacional:
 
-a) É proibida a circulação de produtos em regime suspensivo entre entrepostos fiscais de produção, excepto no caso de serem considerados matérias-primas ou produtos não acabados;
+a) É proibida a circulação de produtos em regime suspensivo entre entrepostos fiscais de produção, exceto no caso de serem considerados matérias-primas ou produtos não acabados;
 
 b) A circulação de produtos entre o continente e as Regiões Autónomas dos Açores e da Madeira, e vice-versa, e entre as Regiões Autónomas, deve efetuar-se em regime de suspensão do imposto, sem prejuízo da situação prevista no n.º 8 do artigo 60.º;
 
@@ -12,4 +12,8 @@ c) Excetuam-se do previsto na alínea anterior, após a introdução no consumo,
 
 d) (Revogada).
 
-2 - A circulação do álcool está subordinada à regulamentação aplicável ao transporte de mercadorias perigosas.
+2 - A circulação do álcool está subordinada à regulamentação aplicável ao transporte de mercadorias perigosas e ainda:
+
+a) No caso de álcool totalmente desnaturado, ao documento previsto no n.º 2 do artigo 60.º e respetivo regime de circulação;
+
+b) No caso de álcool puro ou parcialmente desnaturado, ao documento previsto no n.º 1 do artigo 36.º e respetivo regime de circulação.

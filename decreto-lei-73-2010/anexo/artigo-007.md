@@ -22,4 +22,6 @@ c) 'Mercadorias não-UE', as mercadorias não abrangidas ou que tenham perdido o
 
 d) 'Produção', qualquer processo de fabrico, incluindo a transformação e, se aplicável, de extração, através do qual se obtenham produtos sujeitos a impostos especiais de consumo, bem como as operações de desnaturação e as de adição de marcadores e de corantes, e ainda a envolumação de tabaco manufaturado, desde que se integrem no referido processo de fabrico.
 
-4 - Os artigos 21.º a 46.º não são aplicáveis aos produtos que tenham o estatuto aduaneiro de mercadorias não-UE.
+4 - Os produtos detidos a bordo de embarcações ou aeronaves que efetuam travessias ou voos entre os territórios de dois Estados-Membros, mas que não estão disponíveis para venda quando a embarcação ou aeronave se encontra no território nacional, não estão sujeitos a impostos especiais de consumo.
+
+5 - Os artigos 21.º a 46.º não são aplicáveis aos produtos que tenham o estatuto aduaneiro de mercadorias não-UE.

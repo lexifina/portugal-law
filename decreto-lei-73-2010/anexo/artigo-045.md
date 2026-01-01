@@ -2,9 +2,9 @@
 
 ### Provas alternativas de receção e prova de saída
 
-1 - Na ausência do relatório de recepção, no caso de uma expedição, ou do relatório de exportação ou da certificação de saída, no caso de uma exportação, e não tendo ocorrido nenhuma das situações previstas no artigo anterior, podem ser admitidas, em casos devidamente fundamentados, para efeitos do apuramento da operação de circulação, as seguintes provas:
+1 - Na ausência do relatório de receção, no caso de uma expedição, ou do relatório de exportação ou da certificação de saída, no caso de uma exportação, bem como do documento previsto no n.º 1 do artigo anterior, e não tendo ocorrido nenhuma das situações previstas no referido artigo, podem ser admitidas, em casos devidamente fundamentados, para efeitos do apuramento da operação de circulação, as seguintes provas:
 
-a) Na expedição, a confirmação pelas autoridades competentes no destino, no âmbito de um processo de cooperação administrativa, de que os produtos foram recepcionados pelo destinatário;
+a) Na expedição, a confirmação pelas autoridades competentes no destino, no âmbito de um processo de cooperação administrativa, de que os produtos foram rececionados pelo destinatário, ou, em alternativa, o documento previsto na alínea a) do n.º 1 do artigo 41.º;
 
 b) Na exportação, a confirmação pelas autoridades aduaneiras de exportação de que os produtos saíram do território da União Europeia ou a certificação de que foram sujeitos ao regime de trânsito externo.
 
