@@ -2,7 +2,7 @@
 
 ### Classes de rendimento para pessoas singulares
 
-1 - Para efeitos de determinação dos apoios a conceder no âmbito do presente diploma, os candidatos serão agrupados em classes de rendimento anual bruto familiar.
+1 - Para efeitos de determinação dos apoios a conceder no âmbito do presente diploma, os candidatos são agrupados em classes de rendimento mensal bruto familiar.
 
 2 - O valor limite de rendimento (VLR) para cada uma das classes é o que resulta da multiplicação do número de elementos do agregado familiar pelo coeficiente de correcção, determinado em função do número de elementos daquele, de acordo com a tabela i do anexo i ao presente diploma, e por um valor base, a fixar nos termos do n.º 1 do artigo 39.º
 
