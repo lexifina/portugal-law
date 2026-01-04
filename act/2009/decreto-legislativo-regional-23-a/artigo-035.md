@@ -4,7 +4,7 @@
 
 1 - O apoio financeiro previsto no capítulo iii do presente diploma é devido a partir do mês seguinte ao da publicação das listas definitivas das candidaturas aprovadas, nos termos previstos no artigo anterior.
 
-2 - O apoio financeiro referido no número anterior é pago trimestralmente aos respectivos titulares ou aos seus representantes legais, podendo, ainda, ser pago às pessoas ou entidades que prestem assistência aos titulares do direito, desde que sejam consideradas idóneas pelo departamento do Governo Regional com competência em matéria de habitação, quando os respectivos titulares:
+2. O apoio financeiro referido no número anterior é pago mensalmente aos respetivos titulares ou aos seus representantes legais, podendo, ainda, ser pago às pessoas ou entidades que prestem assistência aos titulares do direito, desde que sejam consideradas idóneas pelo departamento do Governo Regional com competência em matéria de habitação, quando os respetivos titulares:
 
 a) Sejam incapazes e se encontrem a aguardar a nomeação do respectivo representante legal;
 

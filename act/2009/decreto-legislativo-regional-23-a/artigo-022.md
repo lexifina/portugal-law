@@ -2,19 +2,7 @@
 
 ### Prioridades de instrução
 
-1 - São prioritariamente instruídos os processos de candidatura que configurem situações de maior gravidade, designadamente:
-
-a) Agregados familiares sem local para habitar;
-
-b) Agregados familiares que tenham de ser desalojados em virtude de o local habitado não oferecer condições mínimas de segurança ou de salubridade;
-
-c) Agregados familiares que incluam pessoas com deficiência ou acamados;
-
-d) Agregados familiares que incluam crianças com idade igual ou inferior a 10 anos;
-
-e) Agregados familiares que incluam idosos;
-
-f) Os casos em que, por motivos de violência doméstica, seja considerado urgente o realojamento.
+1. São prioritariamente instruídos os processos cujas candidaturas obtenham maior pontuação em função, nomeadamente, do tipo de alojamento à data do pedido e da fundamentação deste, bem como do tipo de família e escalão de rendimento per capita em função do IAS.
 
 2 - O estabelecido no número anterior, conjugado com o disposto no artigo 5.º, implica que:
 
