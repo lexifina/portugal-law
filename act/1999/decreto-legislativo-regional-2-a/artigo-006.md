@@ -4,7 +4,7 @@
 
 1 - Os sujeitos passivos do IRC podem deduzir à colecta, até ao limite da mesma, os lucros comerciais, industriais e agrícolas reinvestidos na importância correspondente a:
 
-a) 20% para os investimentos realizados nas ilhas de São Miguel e Terceira, que terão ainda uma majoração de 25% nos investimentos concretizados nos concelhos de Nordeste e Povoação;
+a) 20 % para os investimentos realizados nas ilhas de São Miguel e Terceira, que terão ainda uma majoração de 25 % nos investimentos concretizados nos concelhos de Nordeste, Povoação e Praia da Vitória;
 
 b) 30% para os investimentos realizados nas ilhas de São Jorge, Faial e Pico;
 
