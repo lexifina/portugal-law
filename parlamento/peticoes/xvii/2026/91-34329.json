@@ -1,0 +1,177 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34329",
+  "numero": "91",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2026-01-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2026-02-19",
+            "entidades": null,
+            "id": "169839",
+            "tipo": null,
+            "titulo": "Audição em 2026-02-19 com Peticionários da Petição n.º 91/XVII/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2026-03-10",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério da Saúde"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2026-03-10",
+            "dataResposta": null,
+            "entidades": [
+              "Autoridade Nacional do Medicamento e Produtos de Saúde I.P. (INFARMED)"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2026-03-10",
+            "dataResposta": null,
+            "entidades": [
+              "Bastonário da Ordem dos Médicos"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-07-15",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "L",
+                "CDS-PP",
+                "BE"
+              ],
+              "data": "2026-07-15",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> PCP</I><BR>Ausência: <I>L</I>, <I> CDS-PP</I>, <I> BE</I>",
+              "id": "172556",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "62",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2026-01-21",
+        "DataArquivo": "2026-07-15",
+        "DataBaixaComissao": "2026-01-13",
+        "DataEnvioPAR": "2026-07-16",
+        "DataReaberta": "2026-01-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2026-01-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d474933595441774f5449744f44566d4e6930304f54677a4c5749784d7a6b74597a49345932566d5954466c4e6a4a6d4c6e426b5a673d3d&fich=0b7a0092-85f6-4983-b139-c28cefa1e62f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-07-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d4459354f54597a5a5467744e446734597930304d6a55344c5745775a4751744f574a684d4452684d3249784d5749774c6e426b5a673d3d&fich=069963e8-488c-4258-a0dd-9ba04a3b11b0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2026-04-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d6a493459546b7a4d5749744f546b344e5330304f546b794c546731595749744d6d4d315a47497a4d6d56694e32466c4c6e426b5a673d3d&fich=228a931b-9985-4992-85ab-2c5db32eb7ae.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-04-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738765a6d45335a6a686d4e5759744d6a63314f5330304d6a466a4c5745334d6a6b744e474d784d7a526d4e4449354e7a4d784c6e426b5a673d3d&fich=fa7f8f5f-2759-421c-a729-4c134f429731.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-07-15",
+            "dataNomeacao": "2026-01-21",
+            "gp": "PS",
+            "id": "4186",
+            "motivoCessacao": "Apresentação e aprovação do relatório",
+            "nome": "Eurídice Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2026-01-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938794f5468684e5445305a5330314f5467304c5451314f4751744f4449354d433035596a67355a575534597a4d314d7a63756347526d&fich=298a514e-5984-458d-8290-9b89ee8c3537.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34329",
+    "PetAssunto": "Pelo acesso atempado a medicamentos inovadores para doentes oncológicos",
+    "PetDataEntrada": "2026-01-07",
+    "PeticoesAssociadas": null,
+    "PetId": "34329",
+    "PetLeg": "XVII",
+    "PetNr": "91",
+    "PetNrAssinaturas": "2974",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
