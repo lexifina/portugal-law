@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Proposta de Resolução",
+  "numero": "7",
+  "id": "335946",
+  "fases": 9,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-01-07",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a41314e574a6c4d6d49354c546c6a595759744e446b304e6931695a5463774c5759774f5463314e5755324d5746684f4335775a47593d&fich=055be2b9-9caf-4946-be70-f09755e61aa8.pdf&Inline=true",
+        "anexoNome": "Acordo de Parceria entre os Estados-Membros da União Europeia e os Estados ACP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a466d4e574d334d44677a4c574d334f574d744e44686c5a6931684f474e6c4c545a695a6d4e6c4d6a6b794e6d46694e4335775a47593d&fich=1f5c7083-c79c-48ef-a8ce-6bfce2926ab4.pdf&Inline=true",
+        "anexoNome": "Decisão n.º 1-2022 do Comité de Embaixadores ACP-UE,  de 21 de junho de 2022"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d304d4745794e54557a4c5759304e3259744e444d304d433168597a526a4c544a694d5751325a6a526c5954426a4e4335775a47593d&fich=340a2553-f47f-4340-ac4c-2b1d6f4ea0c4.pdf&Inline=true",
+        "anexoNome": "Decisão n.º 1-2023 do Comité de Embaixadores ACP-UE, de 30 de junho 2023"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a45794e444133595451774c57566a4d5751744e475934596930354d6a4e6b4c544e695a4449324e57526c5a546778597935775a47593d&fich=12407a40-ec1d-4f8b-923d-3bd265dee81c.pdf&Inline=true",
+        "anexoNome": "Decisão n.º 2-2023 do Comité de Embaixadores ACP-UE, de 25 de outubro 2023"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4a6d4d7a59354d5441794c544e69593259744e4463354d6930355a6a4d314c5459794e574a6c4d7a55794e4459774d6935775a47593d&fich=2f369102-3bcf-4792-9f35-625be3524602.pdf&Inline=true",
+        "anexoNome": "Texto da Iniciativa - Versão assinada"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "335946",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a42684e544d315954426a4c5459345a6d51744e47466d4e693035596a59354c5451784e57497a4f44686d4d5749354e79356b62324e34&fich=0a535a0c-68fd-4af6-9b69-415b388f1b97.docx&Inline=true",
+    "IniNr": "7",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova as Decisões n.º 1/2022, de 21 de junho de 2022, n.º 1/ 2023, de 30 de junho de 2023, e n.º 2/2023, de 25 de outubro de 2023, do Comité de Embaixadores ACP-EU",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
