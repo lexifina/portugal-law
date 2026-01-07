@@ -1,0 +1,1002 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "2",
+    "id": "315730",
+    "titulo": "Decreto-Lei n.º 93/2025, de 14 de agosto \"Estabelece o regime jurídico da mobilidade elétrica, aplicável à organização, acesso e exercício das atividades relativas à mobilidade elétrica\"\n"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2026-01-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61674",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2026-01-07",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-01-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8888",
+                "nome": "Pedro Vaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "9007",
+                "nome": "Raul Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "9650",
+                "nome": "Bruno Faria"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8888",
+                "nome": "Pedro Vaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8343",
+                "nome": "Jorge Miguel Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480255",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8736",
+                "nome": "Bernardo Pessanha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480257",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/64"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480258",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/55?pgs=55&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/65"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/55?pgs=55&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/56?pgs=56&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Secretária de Estado da Mobilidade",
+              "governo": "XXV GOVERNO CONSTITUCIONAL",
+              "nome": "Cristina Pinto Dias"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/56?pgs=56-58&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2397",
+                "nome": "Francisco Covelinhas Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480262",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "9331",
+                "nome": "Frederico Francisco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480263",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministro dos Assuntos Parlamentares",
+              "governo": "XXV GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Abreu Amorim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480265",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:32",
+            "horaTermo": "19:21",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/45/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Secretária de Estado da Mobilidade",
+              "governo": "XXV GOVERNO CONSTITUCIONAL",
+              "nome": "Cristina Pinto Dias"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-08",
+                "pubLeg": "XVII",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação Parlamentar n.º 2/XVII/1.ª",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1663122",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "67472",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "48-62"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-01-08",
+        "pubLeg": "XVII",
+        "pubNr": "45",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/045/2026-01-08/48?pgs=48-62&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
