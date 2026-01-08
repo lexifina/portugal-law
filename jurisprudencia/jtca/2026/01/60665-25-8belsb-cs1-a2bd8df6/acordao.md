@@ -1,0 +1,121 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2026-01-08, processo 60665/25.8BELSB.CS1
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 60665/25.8BELSB.CS1
+
+**Secção:** CA
+
+**Data do Acordão:** 01/08/2026
+
+**Relator:** JOANA COSTA E NORA
+
+**Descritores:** PROTECÇÃO INTERNACIONAL; ALEGAÇÃO DE FACTOS; PROCEDIMENTO ESPECIAL DE DETERMINAÇÃO DO ESTADO RESPONSÁVEL; FALHAS GRAVES; PREVISÍVEL TRATAMENTO DESUMANO OU DEGRADANTE; QUESTÃO NOVA
+
+**Votação:** UNANIMIDADE
+
+**Indicações Eventuais:** Subsecção Administrativa Comum
+
+**Aditamento:** 1
+
+## Sumário
+
+1. Não tendo sido alegados factos caracterizadores de uma situação de previsível tratamento desumano ou degradante pelas autoridades do Estado que aceitou a retoma a cargo, inexistem indícios de falhas graves, pressuposto da aplicação da cláusula de salvaguarda constante do artigo 3.º, n.º 2, do Regulamento n.º 604/13, do Parlamento Europeu e do Conselho, de 26 de Junho de 2013.
+
+2. Na falta de indícios de falhas sistémicas no procedimento de asilo e nas condições de acolhimento do requerente de protecção internacional por parte do Estado que aceitou a retoma a cargo, não cabe às autoridades nacionais apreciar o pedido de protecção internacional formulado pelo requerente, competindo tal responsabilidade, antes, às autoridades daquele – nos termos do citado Regulamento n.º 604/2013 -, a quem incumbe, não só a apreciação do eventual risco que implicará o regresso do requerente ao seu país de origem, mas também a aplicação do princípio do non refoulement.
+
+3. A questão invocada no recurso sem o ter sido na p.i. é uma questão nova, que logicamente que não foi apreciada pelo Tribunal a quo, e, como tal, não pode ser apreciada por este Tribunal de recurso, que não pode conhecer de questões novas, exceptuadas as que sejam de conhecimento oficioso, não sendo o caso, consubstanciando tal invocação uma ampliação da causa de pedir, sem fundamento legal, determinante da rejeição do recurso nessa parte.
+
+## Decisão Texto Integral
+
+ACÓRDÃO
+Acordam, em conferência, os juízes da subsecção comum da secção administrativa do Tribunal Central Administrativo Sul:
+
+I – RELATÓRIO
+
+W…………… W………………, natural da China, veio instaurar acção administrativa urgente contra a AIMA-AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P.. Pede que a decisão que indeferiu o seu pedido de protecção internacional seja substituída por uma outra que conceda o pedido de asilo, e, assim não se entendendo, o direito de protecção subsidiária, ou, assim não se entendendo, que se anule a decisão e ordene o prosseguimento dos autos, com o cumprimento de notificação ao requerente para se pronunciar sobre o sentido provável da decisão.
+
+Pelo Tribunal Administrativo de Círculo de Lisboa foi proferida sentença a julgar improcedente a acção e, em consequência, a absolver a entidade demandada do pedido.
+
+A autora interpôs o presente recurso de apelação, cujas alegações contêm as seguintes conclusões:
+
+“A sentença recorrida violou o direito de audiência prévia da Recorrente, previsto no artigo 121.º do CPA.
+
+A decisão impugnada desconsiderou factos relevantes para a concessão de proteção internacional.
+
+A transferência da Recorrente para a Croácia pode implicar o seu reenvio para a China, violando o princípio da não repulsão.
+
+A fundamentação sobre a segurança da Croácia é insuficiente e ignora os relatos concretos da Recorrente.
+
+A aplicação do Regulamento Dublin III foi feita de forma automática, sem ponderação das circunstâncias individuais.
+
+A sentença deve ser revogada e substituída por decisão que reconheça o direito de proteção internacional ou determine o prosseguimento do processo com garantia do contraditório.”
+
+Notificada das alegações apresentadas, a entidade demandada não apresentou contra-alegações.
+
+O Ministério Público junto deste Tribunal, notificado nos termos e para efeitos do disposto no artigo 146.º, n.º 1, do CPTA, pronunciou-se no sentido da improcedência do recurso.
+
+Sem vistos dos juízes-adjuntos, por se tratar de processo urgente (cfr. n.º 2 do artigo 36.º do CPTA), importa apreciar e decidir.
+
+II – QUESTÕES A DECIDIR
+
+Face às conclusões das alegações de recurso – que delimitam o respectivo objecto, nos termos do disposto nos artigos 635.º, n.º 4, e 639.º, n.ºs 1 e 2, do CPC -, a questão que ao Tribunal cumpre solucionar é a de saber se a sentença recorrida padece de erro de julgamento de direito.
+
+III – FUNDAMENTAÇÃO DE FACTO
+
+Considerando que não foi impugnada, nem há lugar a qualquer alteração da matéria de facto, remete-se para os termos da decisão da 1.ª instância que decidiu aquela matéria, nos termos do n.º 6 do artigo 663.º do CPC.
+
+IV – FUNDAMENTAÇÃO DE DIREITO
+
+No n.º 8 do artigo 33.º da Constituição da República Portuguesa, “É garantido o direito de asilo aos estrangeiros e aos apátridas perseguidos ou gravemente ameaçados de perseguição, em consequência da sua actividade em favor da democracia, da libertação social e nacional, da paz entre os povos, da liberdade e dos direitos da pessoa humana.”
+
+Tal direito de asilo mostra-se concretizado na Lei n.º 27/2008, de 30 de Junho, que estabelece as condições e procedimentos de concessão de asilo ou protecção subsidiária e os estatutos de requerente de asilo, de refugiado e de protecção subsidiária, transpondo para a ordem jurídica interna as Directivas n.ºs 2004/83/CE, do Conselho, de 29 de Abril, e 2005/85/CE, do Conselho, de 01 de Dezembro. Nos seus artigos 36.º a 40.º está previsto o “procedimento especial de determinação do Estado responsável pela análise do pedido de proteção internacional”. Assim, nos termos dos n.ºs 1 e 2 do artigo 37.º, quando se considere que a responsabilidade pela análise do pedido de protecção internacional pertence a outro Estado-Membro, de acordo com o previsto no Regulamento (UE) n.º 604/2013, do Parlamento Europeu e do Conselho, de 26 de Junho, a AIMA, I. P., solicita às respectivas autoridades a sua tomada ou retoma a cargo, e, aceite a responsabilidade pelo Estado requerido, profere decisão, nos termos da alínea a) do n.º 1 do artigo 19.º-A, a considerar o pedido inadmissível, caso em que, nos termos do n.º 2 do artigo 19.º-A, se prescinde da análise das condições a preencher para beneficiar do estatuto de protecção internacional.
+
+O apuramento da responsabilidade pela análise do pedido de protecção internacional é feito nos termos do citado Regulamento, que estabelece os critérios e mecanismos de determinação do Estado-Membro responsável pela análise de um pedido de protecção internacional apresentado num dos Estados-Membros por um nacional de um país terceiro ou por um apátrida. Sobre o “Acesso ao procedimento de análise de um pedido de proteção internacional”, dispõe o n.º 1 do seu artigo 3.º que “Os Estados-Membros analisam todos os pedidos de proteção internacional apresentados por nacionais de países terceiros ou por apátridas no território de qualquer Estado-Membro (…). Os pedidos são analisados por um único Estado-Membro, que será aquele que os critérios enunciados no Capítulo III designarem como responsável.” Todavia, estabelece o n.º 1 do artigo 17.º que “Em derrogação do artigo 3.º, n.º 1, cada Estado-Membro pode decidir analisar um pedido de proteção internacional que lhe seja apresentado por um nacional de um país terceiro ou por um apátrida, mesmo que essa análise não seja da sua competência por força dos critérios definidos no presente regulamento.”
+
+Nos termos do segundo parágrafo do n.º 2 do artigo 3.º do mesmo Regulamento, “Caso seja impossível transferir um requerente para o Estado-Membro inicialmente designado responsável por existirem motivos válidos para crer que há falhas sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes nesse Estado-Membro, que impliquem o risco de tratamento desumano ou degradante na aceção do artigo 4.º da Carta dos Direitos Fundamentais da União Europeia, o Estado-Membro que procede à determinação do Estado-Membro responsável prossegue a análise dos critérios estabelecidos no Capítulo III a fim de decidir se algum desses critérios permite que outro Estado-Membro seja designado responsável.” A jurisprudência dos tribunais administrativos tem vindo a decidir uniformemente pela «“desnecessidade de uma específica atividade instrutória antes da determinação da transferência, tendente ao apuramento da verificação de falhas sistémicas nos procedimentos de asilo e nas condições de acolhimento dos requerentes de proteção internacional quando não existam indícios que o requerente tenha sido, ou venha a ser, vítima dessas falhas, nomeadamente com a gravidade extrema que é pressuposto da aplicação da cláusula de salvaguarda constante no art. 3.º n.º 2 do Regulamento (EU) n.º 604/13, do Parlamento Europeu e do Conselho de 26 de Junho de 2013” (cfr. acórdãos de 16/01/2020, P. 02240/18.7BELSB; de 04/06/20, P. 01322/19.2BELSB; de 02/07/2020, P. 01786/19.4BELSB e P. 010/88/19.6BELSB; de 09/07/20, P. 1419/.9BELSB; de 10/09/2020, P. 01705/19.8BELSB e P. 03421/19.1BEPRT; de 5/11/2020, P. 2364/18.0BELSB; de 19/11/2020, P. 1301/19.0BELSB; de 19/11/2020, P. 1009/20.3BELSB; de 04/02/2021, P.115/20.9BELSB; de 11/03/2021, P. 01282/20.7BELSB; de 24/11/2022, P.0269/22.0BELSB)» e que, «apenas em casos devidamente justificados, naqueles casos em que existam motivos válidos para crer que «há falhas sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes» e que tais falhas impliquem o risco de tratamento desumano ou degradante, nomeadamente, por envolver tortura, é que se impõe ao Estado em causa diligenciar pela obtenção de informação atualizada acerca da existência de risco de o requerente ser sujeito a esse tipo de tratamentos» - cfr. o Acórdão do Supremo Tribunal Administrativo, de 19 de Abril de 2023, proferido no processo n.º 1988/20.0BELSB (in www.dgsi.pt).
+
+Finalmente, a «Proibição de repelir ('princípio de não repulsão ou non-refoulement')», “é o princípio de direito de asilo internacional, consagrado no artigo 33.º da Convenção de Genebra, nos termos do qual os requerentes de asilo devem ser protegidos contra a expulsão ou repulsão, direta ou indireta, para um local onde a sua vida ou liberdade estejam ameaçadas em virtude da sua raça, religião, nacionalidade, filiação em certo grupo social ou opiniões políticas, não se aplicando esta proteção a quem constitua uma ameaça para a segurança nacional ou tenha sido objeto de uma condenação definitiva por um crime ou delito particularmente grave” – cfr. artigo 2.º, n.º 1, alínea aa), da Lei n.º 27/2008, de 30 de Junho.
+
+Volvendo ao caso em apreço, a sentença recorrida julgou a acção improcedente, considerando que a decisão impugnada não padece dos vícios que lhe são imputados pela autora. Entendeu o Tribunal a quo que determinada a responsabilidade de Estado-Membro, que não Portugal, para a apreciação do pedido de protecção internacional da autora, e aceite, como o foi pela Croácia, a retoma a cargo, impunha-se à entidade demandada que proferisse decisão de inadmissibilidade do pedido de protecção internacional apresentado pela autora ao Estado Português, nos termos do disposto no artigo 19.º-A, n.º 1, alínea a), e artigo 37.º, n.º 2, da Lei n.º 27/2008, de 30/06, determinando a sua transferência para a Croácia, como sucedeu.
+
+Quanto à alegação de défice instrutório, violação da cláusula de salvaguarda prevista no artigo 3.º, n.º 2, do Regulamento (UE) n.º 604/2013, e do princípio da não repulsão consagrado no artigo 33.º, n.º 1, da Convenção de Genebra, considerou que não são conhecidas notícias de fontes credíveis que permitam concluir que o procedimento de asilo e as condições de acolhimento na Croácia se encontram em estado de falência sistémica de molde a afirmar que o tratamento dado aos requerentes de asilo não respeita a proibição de tratamento desumano ou degradante, não indicando a autora quaisquer fontes credíveis que o reportem, nem alegando factos que permitam concluir pela falência do sistema de protecção internacional na Croácia, pelo que, atendendo ao princípio da confiança mútua entre os Estados-Membros, há uma forte presunção de que os direitos fundamentais dos requerentes de protecção internacional serão respeitados nos Estados-Membros, inexistindo indícios sérios e objectivos que o contrariem, além de que, do relato da autora em sede de prestação de declarações, não se extraem circunstâncias que indiciem a existência de falhas graves nas condições de acolhimento e no procedimento de asilo, não sendo os factos de lhe ter sido retirado o telemóvel pelas autoridades croatas, de ter pernoitado numa sala com mais pessoas, tendo tido a oportunidade de comprar a sua comida, de ter assinado um documento em língua que não compreendia, aptos a fundamentar tais falhas sistémicas graves, sendo certo que a sua detenção e a retirada de bens pessoais decorreu da situação irregular em que se encontrava, não tendo permanecido, como relata, mais do que uma noite na Croácia, não tendo a autora relatado factos que concretizem ter sido submetida, durante a sua breve estadia na Croácia, a tratamento de gravidade tal que se afigure suscetível de ser qualificado como desumano ou degradante, não logrando, por isso, demonstrar a verificação de um risco de sujeição a esse tipo de tratamentos, por parte das autoridades croatas, em caso de transferência para esse país. Não constando dos autos elementos objectivos, fiáveis, precisos e actualizados, de que a transferência para a Croácia representa um risco efectivo para a requerente, a entidade demandada não estava obrigada a fazer averiguações quanto às condições do Estado-Membro em questão. A transferência será efectuada para outro Estado-Membro da União Europeia, que aceitou a retoma a cargo da autora, país que é responsável pela análise do seu pedido de protecção internacional e que está obrigado a cumprir as normas de direito europeu e de direito internacional que proíbem a repulsão para um local onde a vida ou liberdade da autora estejam ameaçadas em virtude da sua raça, religião, nacionalidade, filiação em certo grupo social ou opiniões políticas ou para local no qual possa ser submetida a torturas, a penas ou tratamentos desumanos ou degradantes, como estipula o artigo 3.° Convenção Europeia dos Direitos do Homem e o artigo 33.°, n.º 1 da Convenção de Genebra Relativa ao Estatuto dos Refugiados de 1951, não ocorrendo, por isso, a violação do princípio de non-refoulement.
+
+Relativamente à invocada aplicação no caso do disposto nos artigos 3.º e 7.º da Lei do Asilo, por estarem preenchidas as condições para a concessão do direito de asilo ou de protecção subsidiária, a decisão de inadmissibilidade do pedido não abrange a apreciação dos pressupostos para a concessão de asilo ou de protecção subsidiária, concluindo apenas que o pedido de protecção internacional apresentado ao Estado Português não pode ser por si instruído e decidido, porque é outro o Estado-Membro responsável para o apreciar e decidir, motivo pelo qual não se aplica o disposto nos artigos 3.°, 7.° e 18.° da Lei do Asilo, não cabendo ao Estado Português apreciar o mérito do pedido efectuado pela Autora, mas antes à Croácia.
+
+Quanto à alegada violação do direito de audiência prévia, por a autora não ter sido informada pela entidade demandada, no decurso do procedimento, da intenção de indeferir o pedido ou de o considerar inadmissível, nem das razões do seu indeferimento ou inadmissibilidade, resulta do probatório que a autora foi notificada em 03/06/2025 da proposta de decisão, em tal data tomando conhecimento do sentido provável da mesma, tendo-lhe sido facultado o prazo de 3 dias úteis para sobre a mesma se pronunciar [cf. alíneas E) e F) da matéria de facto], tendo exercido no procedimento o direito de audiência prévia que afirma ter sido violado, o qual foi considerado, em sede de apreciação das alegações da autora, na decisão final de inadmissibilidade do pedido de protecção internacional impugnado nos autos, de que foi a Autora notificada em 04/08/2025 [cf. alíneas G), J) e K) da matéria de facto], pelo que foi dado cumprimento ao disposto no artigo 17.º, n.º 2, da Lei n.º 27/2008, de 06/06.
+
+A recorrente insurge-se contra o assim decidido, alegando que a sentença recorrida violou o seu direito de audiência prévia e e que a decisão impugnada desconsiderou factos relevantes para a concessão de protecção internacional. Mais alegou que a sua transferência para a Croácia pode implicar o seu reenvio para a China, violando o princípio da não repulsão, e que a fundamentação sobre a segurança da Croácia é insuficiente e ignora os relatos concretos da recorrente, tendo a aplicação do Regulamento Dublin III sido feita de forma automática, sem ponderação das circunstâncias individuais.
+
+Vejamos.
+
+No que respeita à alegada violação do direito de audiência prévia que a recorrente imputa à sentença sob recurso, a recorrente não consubstancia minimamente tal alegação, não explicando em que termos considera ter a decisão recorrida violado tal direito, o que inviabiliza a análise deste fundamento do recurso. Sem embargo, ainda que se admita que tal alegação constitui um lapso, pretendendo a recorrente referir-se à preterição de tal direito por referência ao acto impugnado, o certo é que, para além de tal alegação não se mostrar vertida nas conclusões – que delimitam o objecto do recurso -, mas apenas no corpo das alegações, corresponde a mesma a uma questão nova, porquanto assente na circunstância de ter tido “apenas três dias úteis para responder”, quando a violação do direito de audiência prévia invocada na p.i. – e apreciada na sentença recorrida – tinha por base a falta de informação da intenção de indeferir o pedido ou de o considerar inadmissível, bem como das razões do seu indeferimento ou inadmissibilidade. Trtatando-se de uma questão nova, logicamente que não foi apreciada pelo Tribunal a quo. E, assim sendo, não pode ser apreciada por este Tribunal de recurso, que não pode conhecer de questões novas, exceptuadas as que sejam de conhecimento oficioso, não sendo o caso. Com efeito, como anota pertinentemente ANTÓNIO SANTOS ABRANTES GERALDES (Recursos em Processo Civil, 7.ª Edição, Almedina, 2022, p. 133, nota de rodapé 231), “O objeto do recurso está dependente do objeto da ação, sendo este definido essencialmente a partir da conjugação entre o pedido e a causa de pedir, elementos que, por seu lado, são submetidos a apertadas regras a respeito da sua alteração, nos termos dos arts. 264.º e 265.º. Por conseguinte, salvo nos casos em que se estabeleça acordo das partes, está afastada a possibilidade de alterar ou ampliar o pedido ou a causa de pedir em sede de recurso. Alguma iniciativa do recorrente, fora do caso previsto no art. 264.º, deve motivar a rejeição do recurso nessa parte (…).” Assim sendo, o recurso jurisdicional apenas pode ter por objecto questões que tenham sido anteriormente suscitadas, e não questões novas, salvo se forem de conhecimento oficioso – idem, ibidem, pp. 139 e 140.
+
+Quanto à invocada desconsideração de factos relevantes para a concessão de protecção internacional por parte da decisão impugnada, igualmente a recorrente se demite de os concretizar – sem que constitua, sequer, qualquer concretização a referência, vaga e genérica, constante do corpo das alegações, a “perseguição religiosa, detenção, tortura e coação para renunciar à fé” -, obstando, assim, a que este Tribunal de recurso sindique o acerto da sentença recorrida, ao manter a decisão impugnada.
+
+Alega ainda a recorrente que a decisão impugnada viola o princípio da não repulsão em virtude de a sua transferência para a Croácia poder implicar o seu reenvio para a China. Todavia, como bem refere a sentença recorrida, a Croácia, país que é responsável pela análise do seu pedido de protecção internacional, está obrigada a cumprir as normas de direito europeu e de direito internacional que proíbem a repulsão para um local onde a vida ou liberdade da autora estejam ameaçadas em virtude da sua raça, religião, nacionalidade, filiação em certo grupo social ou opiniões políticas ou para local no qual possa ser submetida a torturas, a penas ou tratamentos desumanos ou degradantes, como estipula o artigo 3.° Convenção Europeia dos Direitos do Homem e o artigo 33.°, n.º 1 da Convenção de Genebra Relativa ao Estatuto dos Refugiados de 1951. Assim, a transferência da recorrente para a Croácia não viola o princípio da não repulsão, não só porque tal país, nos termos da referida norma que ao mesmo se impõe, não a poderá encaminhar para um país em que a sua vida ou a sua liberdade estejam ameaçadas, mas também porque, tendo sido determinada a responsabilidade da Croácia para a apreciação do pedido de protecção internacional da autora, e tendo sido por tal país aceite a retoma a cargo, impunha-se a decisão de inadmissibilidade do pedido de protecção internacional apresentado pela autora ao Estado Português, nos termos do disposto no artigo 19.º-A, n.º 1, alínea a), e artigo 37.º, n.º 2, da Lei n.º 27/2008, de 30/06, com a consequente determinação da sua transferência para a Croácia, como ocorreu.
+
+Mais alega a recorrente que a fundamentação sobre a segurança da Croácia é insuficiente e ignora os relatos concretos da recorrente, tendo a aplicação do Regulamento de Dublin III sido feita de forma automática, sem ponderação das circunstâncias individuais. Porém, também por aqui não procede o recurso. Com efeito, a recorrente não alega factos concretizadores de um cenário de insegurança política e social e de limitação ao exercício de direitos pelos cidadãos na China, o que se impunha para se concluir em tal sentido, pelo que não pôs em causa que a China fosse um país seguro, sendo seu esse ónus, considerando, não só que impugna o acto assente nesse pressuposto, mas também que a própria definição de "país de origem seguro" pressupõe que o requerente "não tenha invocado nenhum motivo grave para considerar que o mesmo não é seguro" (cfr. artigo 2.º, n.º 1, alínea q), da Lei 27/2008, de 30 de Junho), e nenhum motivo grave foi invocado. De resto, como também consta da sentença recorrida, o recorrente não alegou factos concretos que sugerissem a existência de falhas sistémicas nas condições de acolhimento dos requerentes de protecção internacional na Croácia, que levantassem uma suspeita séria de que a mesma pudesse vir a sofrer um tratamento desumano ou degradante caso viesse a ser transferida para aí, pois que não relatou situações concretas, por si vivenciadas, revelando-se a sua alegação genérica e assente em juízos conclusivos. Assim, ao contrário do alegado pela recorrente, não podemos concluir que estamos perante um risco sério e real de a mesma sofrer tratamento desumano e degradante. Com efeito, no caso em apreço, a autora recorrente nada alega na p.i. que caracterize uma situação de previsível tratamento desumano ou degradante pelas autoridades da Croácia, inexistindo, assim, indícios de falhas graves, pressuposto da aplicação da cláusula de salvaguarda constante do artigo 3.º, n.º 2, do Regulamento n.º 604/13, do Parlamento Europeu e do Conselho, de 26 de Junho de 2013.
+
+Na falta de indícios de falhas sistémicas no procedimento de asilo e nas condições de acolhimento da requerente de protecção internacional por parte das autoridades croatas, não cabe às autoridades nacionais apreciar o pedido de protecção internacional formulado pela requerente, competindo tal responsabilidade, antes, às autoridades do Estado croata – nos termos do citado Regulamento n.º 604/2013 -, a quem incumbe, não só a apreciação do eventual risco que implicará o regresso do requerente ao seu país de origem, mas também a aplicação do princípio do non refoulement.
+
+Termos em que se impõe julgar o presente recurso improcedente.*
+Sem custas, nos termos do artigo 84.º da Lei n.º 27/2008, de 30 de Junho.
+
+V – DECISÃO
+
+Pelo exposto, acordam os juízes da Subsecção comum da Secção administrativa do Tribunal Central Administrativo Sul em:
+
+a) Rejeitar o recurso na parte relativa à invocação da preterição de audiência prévia;
+
+b) Negar provimento ao recurso interposto.
+
+Sem custas.
+
+Lisboa, 08 de Janeiro de 2026
+
+Joana Costa e Nora (Relatora)
+
+Lina Costa
+
+Mara de Magalhães Silveira
