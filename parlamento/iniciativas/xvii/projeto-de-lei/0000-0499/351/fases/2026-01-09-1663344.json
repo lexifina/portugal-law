@@ -1,0 +1,234 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "351",
+    "id": "335931",
+    "titulo": "Reforça e alarga o direito ao esquecimento e as proteções ao consumidor em matéria de contratação de seguros relacionados com créditos"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-01-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "88108",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-02-11",
+            "id": "169821",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-01-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-02-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo ACREDITAR",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b59574e694e7a6c6c595331694e444d324c5451314d6a51744f5455334f5330334e7a59784d3259334e54646b4e7a63756347526d&fich=dacb79ea-b436-4524-9579-77613f757d77.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo Centro Anti Discrimninação VIH e SIDA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d324a6b4d7a466d4d53316d596d597a4c5451784e5459744f5467334d79307a4e6d45774e6a4a6a4d32566d5a6a49756347526d&fich=23bd31f1-fbf3-4156-9873-36a062c3eff2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-27",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354f4455774e5445354d4330774e32557a4c5451354e6a6374596a55304d7931695a6a41795a6a49304e57457a4f5441756347526d&fich=98505190-07e3-4967-b543-bf02f245a390.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-12",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resultado das Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d597a4a694e474e6c4d79316a4e7a526d4c5452684d4455745954557a4d5330304e6a466a4e6a63784d7a4978595455756347526d&fich=fc2b4ce3-c74f-4a05-a531-461c671321a5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-12",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d6a45334e4759335a4330335a5745324c54526c4f5467744f44426b4d4331694e4756695a4442695a6a59784d6a51756347526d&fich=d2174f7d-7ea6-4e98-80d0-b4ebd0bf6124.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8451",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública ",
+        "Numero": "8451",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d4759324d7a493259693031595451784c54517a595755744f445a6d5969316a5a6d5a6a4f546335596a59314d6a49756347526d&fich=10f6326b-5a41-43ae-86fb-cffc979b6522.pdf&Inline=true",
+            "nome": "Banco de Portugal em 2026-02-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e6a51304e6a6b77596930774f5745344c545179595445744f4755305a43316b4d324530593249344d475668596a49756347526d&fich=0644690b-09a8-42a1-8e4d-d3a4cb80eab2.pdf&Inline=true",
+            "nome": "Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF)      em 2026-02-09"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a4445795a5759345a6930344d3255324c5452685a5755745954646c4f43307a4e5755785a5749314e5759304d6a59756347526d&fich=0d12ef8f-83e6-4aee-a7e8-35e1eb55f426.pdf&Inline=true",
+            "nome": "Instituto Nacional para a Reabilitação (INR) em 2026-02-10"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a6a4d784e4759774e43307a4d7a55354c5451784e6d45745954517a4e5331695954526c4d6d46695a4467344e6a63756347526d&fich=af314f04-3359-416a-a435-ba4e2abd8867.pdf&Inline=true",
+            "nome": "APB - Associação de Bancos de Portugal em 2026-02-09"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694f4445784e324e6d4d433032597a64684c5452695a544574596a67314d43316c5a4455304f4451305a6d45334d3251756347526d&fich=b8117cf0-6c7a-4be1-b850-ed54844fa73d.pdf&Inline=true",
+            "nome": "APS - Associação Portuguesa de Seguradores em 2026-02-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e4451315a6a4d345a4330354e5464684c5452685a6a59744f4745795a43316d4e546b314d6a686d4e57526c4d7a45756347526d&fich=4445f38d-957a-4af6-8a2d-f59528f5de31.pdf&Inline=true",
+            "nome": "Ordem dos Médicos em 2026-03-03"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e544d305a5751324d79316a4e4463334c5451314e475574595459795a69316a596a6b774d6a4d355a6a49334d7a59756347526d&fich=4534ed63-c477-454e-a62f-cb90239f2736.pdf&Inline=true",
+            "nome": "DECO - Associação Portuguesa para a Defesa do Consumidor em 2026-01-30"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784f546c6a4f4441354d4331684e7a49794c545268596d5174596d55345a693034596a6c684e444d344e4467784f5745756347526d&fich=199c8090-a722-4abd-be8f-8b9a4384819a.pdf&Inline=true",
+            "nome": "ABRAÇO - Associação de Apoio a Pessoas com VIH/SIDA em 2026-02-11"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832596a41334f546c6a4f43307a4e6a45324c5452695a544d744f47466b4f5331684e54426a4e5459305957497a597a63756347526d&fich=6b0799c8-3616-4be3-8ad9-a50c564ab3c7.pdf&Inline=true",
+            "nome": "Acreditar - Associação de Pais e Amigos de Crianças com Cancro em 2026-02-09"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d4759324d7a493259693031595451784c54517a595755744f445a6d5969316a5a6d5a6a4f546335596a59314d6a49756347526d&fich=10f6326b-5a41-43ae-86fb-cffc979b6522.pdf&Inline=true",
+            "nome": "Banco de Portugal em 2026-01-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e6a51304e6a6b77596930774f5745344c545179595445744f4755305a43316b4d324530593249344d475668596a49756347526d&fich=0644690b-09a8-42a1-8e4d-d3a4cb80eab2.pdf&Inline=true",
+            "nome": "Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF)      em 2026-01-28"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-01-28"
+          },
+          {
+            "link": "",
+            "nome": "Direção-Geral da Saúde (DGS) em 2026-01-28"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Nacional de Saúde (CNS)     em 2026-01-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a4445795a5759345a6930344d3255324c5452685a5755745954646c4f43307a4e5755785a5749314e5759304d6a59756347526d&fich=0d12ef8f-83e6-4aee-a7e8-35e1eb55f426.pdf&Inline=true",
+            "nome": "Instituto Nacional para a Reabilitação (INR) em 2026-01-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a6a4d784e4759774e43307a4d7a55354c5451784e6d45745954517a4e5331695954526c4d6d46695a4467344e6a63756347526d&fich=af314f04-3359-416a-a435-ba4e2abd8867.pdf&Inline=true",
+            "nome": "APB - Associação de Bancos de Portugal em 2026-01-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694f4445784e324e6d4d433032597a64684c5452695a544574596a67314d43316c5a4455304f4451305a6d45334d3251756347526d&fich=b8117cf0-6c7a-4be1-b850-ed54844fa73d.pdf&Inline=true",
+            "nome": "APS - Associação Portuguesa de Seguradores em 2026-01-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e4451315a6a4d345a4330354e5464684c5452685a6a59744f4745795a43316d4e546b314d6a686d4e57526c4d7a45756347526d&fich=4445f38d-957a-4af6-8a2d-f59528f5de31.pdf&Inline=true",
+            "nome": "Ordem dos Médicos em 2026-01-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e544d305a5751324d79316a4e4463334c5451314e475574595459795a69316a596a6b774d6a4d355a6a49334d7a59756347526d&fich=4534ed63-c477-454e-a62f-cb90239f2736.pdf&Inline=true",
+            "nome": "DECO - Associação Portuguesa para a Defesa do Consumidor em 2026-01-28"
+          },
+          {
+            "link": "",
+            "nome": "Liga Portuguesa Contra o Cancro em 2026-01-28"
+          },
+          {
+            "link": "",
+            "nome": "APDP - Associação Protetora dos Diabéticos de Portugal em 2026-01-28"
+          },
+          {
+            "link": "",
+            "nome": "Associação de Doentes com Lupus em 2026-01-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784f546c6a4f4441354d4331684e7a49794c545268596d5174596d55345a693034596a6c684e444d344e4467784f5745756347526d&fich=199c8090-a722-4abd-be8f-8b9a4384819a.pdf&Inline=true",
+            "nome": "ABRAÇO - Associação de Apoio a Pessoas com VIH/SIDA em 2026-01-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832596a41334f546c6a4f43307a4e6a45324c5452695a544d744f47466b4f5331684e54426a4e5459305957497a597a63756347526d&fich=6b0799c8-3616-4be3-8ad9-a50c564ab3c7.pdf&Inline=true",
+            "nome": "Acreditar - Associação de Pais e Amigos de Crianças com Cancro em 2026-01-28"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-03-12",
+            "dataRemessa": "2026-03-12",
+            "numeroOficio": "E-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2026-03-12",
+            "descricao": null,
+            "detalhe": null,
+            "id": "171016",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "76",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-01-09",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1663344",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
