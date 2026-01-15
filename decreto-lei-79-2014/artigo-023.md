@@ -20,7 +20,7 @@ b) Prática docente nos respetivos nível e ciclo de educação e ensino e disci
 
 7 - Aos orientadores cooperantes é atribuído um suplemento remuneratório nas condições e no montante a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.
 
-8 - Em alternativa ao suplemento a que se refere o número anterior, os orientadores cooperantes podem optar pela redução da componente letiva do trabalho semanal, desde que não exista inconveniente para o serviço, nos seguintes termos:
+8 - Nos estabelecimentos de educação e ensino públicos, em alternativa ao suplemento a que se refere o número anterior, os orientadores cooperantes podem optar pela redução da componente letiva do trabalho semanal, desde que não exista inconveniente para o serviço, nos seguintes termos:
 
 a) De três horas, para o acompanhamento de um estudante;
 
