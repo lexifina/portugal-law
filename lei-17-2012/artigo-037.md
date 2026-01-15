@@ -24,7 +24,7 @@ i) Prestar à ANACOM todas as informações que lhes sejam solicitadas, nos term
 
 j) Facultar o acesso à ANACOM às respetivas instalações, equipamentos e documentação para verificação e fiscalização das obrigações a que estão sujeitos, no quadro das competências desta entidade, tal como estabelecidas nos respetivos Estatutos, e nos termos da legislação aplicável ao tipo de procedimento ou processo em causa;
 
-k) Proceder ao pagamento das taxas aplicáveis, nos termos do artigo 44.º;
+k) Proceder ao pagamento das taxas e da contribuição financeira, nos termos dos artigos 44.º e 44.º-A;
 
 l) Exercer a atividade em conformidade com a respetiva licença ou com a comunicação enviada à ANACOM nos termos do artigo 34.º, conforme aplicável;
 

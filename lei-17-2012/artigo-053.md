@@ -10,7 +10,7 @@
 
 a) Aplicação do presente quadro regulamentar;
 
-b) Direitos, obrigações, procedimentos, taxas e decisões referentes aos regimes de licença individual e de autorização geral;
+b) Direitos, obrigações, procedimentos, taxas, contribuições financeiras e decisões referentes aos regimes de licença individual e de autorização geral;
 
 c) Registo dos prestadores de serviços postais;
 
