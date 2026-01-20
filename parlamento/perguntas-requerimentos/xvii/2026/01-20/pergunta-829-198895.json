@@ -1,0 +1,87 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=xufylJiod6iO3gxDgTq8Z%2baqTslY6pEXcj7t%2buB%2bZ6oJR9rwDWlzOCmzyEBEkbCeLshbckKnuEl2%2fslUdQrfUvcLK7sEqcnby0Xn2v2J8y%2bazJMDABTJnbj2AfRMC%2fVaE4lm9042gKGsYnOIZt8RUevFTVG%2bcFVqfbZy%2b6QfqG9j0So4wI%2bC%2bsy%2bAYlRSTTrM%2b9ApTuMh8Jqw%2fxbcOcD4fmcMIBI8rAbtj2D8MJpPgdWRv%2bYDC1cLHI4T1GRJ7z2sFsrUu8LfF2tPw%2f63Xgp8QyFwTEdUZL56Mgt%2bTTIN05bugl%2fKHziJI21ak%2fgZsPs0ZcDE7ii2ewozM6rOeO%2b96tQ%2baCq7cg5S5qGuHqY3n1aW%2bCUX0tU8ovRf%2fmIVOtvi6XnPGz69JWLsUP0Wi1MuiGEWJWf4LzjdGKWBqEuUDw%3d&fich=RequerimentosXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0c078ab59d1f1e6ee75ab185389510b4dec98030e4c29c8761b2fd448c315c80",
+  "legislatura": "XVII",
+  "id": "198895",
+  "tipo": "Pergunta",
+  "numero": "829",
+  "data_registo": "2026-01-20",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Dispensa de audiência de interessados no primeiro concurso do Fundo de Fomento Cultural ao abrigo do novo Regulamento e falhas de transparência no apuramento e fundamentação das decisões.",
+    "Autores": [
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7355",
+        "nome": "Patrícia Carvalho"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8832",
+        "nome": "Daniel Teixeira"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7330",
+        "nome": "Jorge Galveias"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8091",
+        "nome": "Sónia Monteiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7965",
+        "nome": "Marcus Santos"
+      }
+    ],
+    "DataEnvio": "2026-01-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2026-01-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministra da Cultura, Juventude e Desporto",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2026-02-04",
+            "docRemetida": null,
+            "entidade": "Ministra da Cultura, Juventude e Desporto",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338334d47557a4d5759354f53316b596d49324c5451305a4759744f546b344e79307a4f4463784d445935596d466d4d5755756347526d&fich=70e31f99-dbb6-44df-9987-3871069baf1e.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2026-01-20",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a465454433835596a63314f5749775a4330315a474d794c5451334f5749744f444e685969307a4d574669596a55785a444e684e3249756347526d&fich=9b759b0d-5dc2-479b-83ab-31abb51d3a7b.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "198895",
+    "Legislatura": "XVII",
+    "Nr": "829",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
