@@ -1,0 +1,181 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34338",
+  "numero": "100",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2026-01-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2026-03-03",
+            "entidades": null,
+            "id": "169870",
+            "tipo": null,
+            "titulo": "Audição em 2026-03-03 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-04-07",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2026-02-18",
+        "DataArquivo": "2026-04-07",
+        "DataBaixaComissao": "2026-01-30",
+        "DataEnvioPAR": "2026-04-15",
+        "DataReaberta": "2026-02-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2026-02-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a686a4e544d334f5746684c544d304e6a4d744e4445775a5331684e3255334c5459334e7a4a6c4f544d774e3249314e7935775a47593d&fich=8c5379aa-3463-410e-a7e7-6772e9307b57.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2026-02-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d344d47566b4e6a646c4c5468694d3249744e44426b596931694e444d794c57566a5a6a6734596d51355a44566d4f5335775a47593d&fich=380ed67e-8b3b-40db-b432-ecf88bd9d5f9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-02-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3246695a6d49325a6a68684c5445784f5759744e44497a4e7931684d7a67324c5751325957466d596a4e6d4d3255784d4335775a47593d&fich=abfb6f8a-119f-4237-a386-d6aafb3f3e10.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-02-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d7a596d59774f474d304c5749774e474d744e4759324e6931685a5459794c544a6c4e6a4a6c4f54466a5a445a694d4335775a47593d&fich=c3bf08c4-b04c-4f66-ae62-2e62e91cd6b0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-02-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32526a5a446c685954426d4c5467795a6a49744e4449344d5330344e6a45304c54497a4e4451794f4749355a575a6d4e6935775a47593d&fich=dcd9aa0f-82f2-4281-8614-234428b9eff6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-02-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a517a4d5441774d4755354c544d334e4745744e4449314f433034596d51324c5445324d3249775a54466a4e4752684e5335775a47593d&fich=431000e9-374a-4258-8bd6-163b0e1c4da5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-02-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251335a47557a4e54457a4c545131595463744e44597a595330344d4745774c546468595449314f5455314e44646d5a4335775a47593d&fich=d7de3513-45a7-463a-80a0-7aa2595547fd.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-04-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5a685a5467324d7a566c4c57566a4f5759744e444d784d6930354e574d774c57466c4e5455304f444a6a4e6a6c6d5a6935775a47593d&fich=6ae8635e-ec9f-4312-95c0-ae55482c69ff.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2026-02-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e6a4e4752695a6d526b4c5459304d4463744e47566b5a4330345a5749304c54526d597a45785a4445334e6a566d4d4335775a47593d&fich=cc4dbfdd-6407-4edd-8eb4-4fc11d1765f0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-03-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a526d4d6a526c4e6a41354c5463795a546b744e445a6d4d7930354f4441314c5468694e5755355a475978597a4e6a4e6935775a47593d&fich=4f24e609-72e9-46f3-9805-8b5e9df1c3c6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-03-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d774d7a4e6a4d6d46684c5467774e6d45744e47466a5a4331695a6a41774c5451335a54677a4e5755794e6d59354e4335775a47593d&fich=c033c2aa-806a-4acd-bf00-47e835e26f94.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-03-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249314f5751344e6a59324c5452694f5445744e4451784d533035596d49324c5455784e544577596a6468597a5535596935775a47593d&fich=b59d8666-4b91-4411-9bb6-51510b7ac59b.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8454",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-04-07",
+            "dataNomeacao": "2026-02-18",
+            "gp": "PS",
+            "id": "5610",
+            "motivoCessacao": null,
+            "nome": "Rosa Isabel Cruz"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2026-01-30",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a4d325a694d6d4d784e5331694f57526b4c5452684e445974596d59314f5330304d5445315a6d5979596a566b4e4445756347526d&fich=c3fb2c15-b9dd-4a46-bf59-4115ff2b5d41.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34338",
+    "PetAssunto": "Pela alteração do calendário escolar da educação pré-escolar e do 1º ciclo do ensino básico - Pela alteração do Anexo I do Despacho nº 8368/2024, de 25 de julho",
+    "PetDataEntrada": "2026-01-20",
+    "PeticoesAssociadas": null,
+    "PetId": "34338",
+    "PetLeg": "XVII",
+    "PetNr": "100",
+    "PetNrAssinaturas": "4721",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
