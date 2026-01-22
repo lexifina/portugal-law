@@ -1,0 +1,11 @@
+Aviso (extrato)  n.º 1273/2026/2
+
+Dr. Jorge Abrantes Cardoso Ferreira, Presidente da Câmara Municipal de Gouveia, torna público que, no uso da competência prevista na alínea b) e t) do n.º 1 do artigo 35.º conjugado com o artigo 56.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, ao abrigo do disposto no artigo 241.º da Constituição da República Portuguesa e das atribuições e competências do Município, prevista na alínea e) e f) do n.º 2 do artigo 23.º, alínea g) do n.º 1 do artigo 25.º e alíneas k) e ff) do n.º 1 do artigo 33.º, e ainda nos termos do n.º 1 do artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, e após deliberação da Câmara Municipal de Gouveia datada de 22 de dezembro de 2025, iniciar, com a presente publicação, o período de consulta pública da proposta de Regulamento de Funcionamento da Casa da Vivência Judaica.
+
+O referido regulamento encontrar-se-á disponível para consulta no sítio de internet do Município e no Setor de Apoio ao Munícipe e Receção - Balcão Único, de segunda-feira a sexta-feira, durante o horário de expediente (2.ª a 6.ª feira das 9h00 às 17h30), após publicação no Diário da República. No âmbito da participação pública, e nos termos do disposto no artigo 101.º do CPA, os interessados devem dirigir, por escrito, as suas sugestões à Câmara Municipal - Balcão Único, ou via digital através do endereço eletrónico geral@cm-gouveia.pt, no prazo de 30 (trinta) dias, a contar da data da publicação do presente aviso no Diário da República.
+
+Para constar se mandou passar o presente aviso e outros de igual teor que vão ser afixados nos lugares de estilo e no site do Município.
+
+14 de janeiro de 2026. - O Presidente de Câmara Municipal, Dr. Jorge Abrantes Cardoso Ferreira.
+
+319952303
