@@ -11,3 +11,5 @@
 4 - Os candidatos ao procedimento concursal para contratação a termo resolutivo que pretendam ser colocados em horários incompletos ou em regime de substituição temporária devem manifestar tais preferências por unidade orgânica, aquando da respetiva candidatura.
 
 5 - Consideram-se nulos os contratos que não obedecerem ao estabelecido no presente Regulamento.
+
+6 - Sem prejuízo do disposto no n.º 3 do artigo 19.º, os trabalhadores em funções públicas, em situação de licença sem remuneração de longa duração, que tenham requerido o regresso ao serviço de origem e cujo posto de trabalho se encontre ocupado ou cujo posto de trabalho não seja ocupado durante o período de gozo da licença, podem ser opositores aos procedimentos concursais centralizados e de escola para contratação a termo resolutivo de pessoal docente, nos termos previstos no presente Regulamento.

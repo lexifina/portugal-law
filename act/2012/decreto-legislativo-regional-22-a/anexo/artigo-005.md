@@ -26,12 +26,22 @@ d) Contratação a termo resolutivo.
 
 4 - Ao procedimento concursal externo de provimento em quadros de escola podem candidatar-se os docentes profissionalizados, não pertencentes aos quadros de escola ou agrupamentos de escolas, e, ainda, indivíduos portadores de habilitação própria para a docência, nos termos previstos no artigo 20.º do presente Regulamento.
 
-5 - Ao procedimento concursal externo de provimento em quadros de ilha, cujas colocações decorrem imediatamente após o concurso de provimento em quadros de escola, podem candidatar-se os docentes que tenham sido opositores, em concomitância, ao procedimento concursal externo de provimento em quadros de escola e aí não venham a obter colocação, e que à data da candidatura permaneçam opositores à contratação de pessoal docente ou tenham obtido colocação no ano escolar em curso.
+5 - Ao procedimento concursal externo de provimento em quadros de ilha podem candidatar-se os docentes que se encontrem, cumulativamente, nas seguintes condições:
 
-6 - O procedimento concursal interno de afetação visa a colocação, por um ano, de docentes dos quadros de escola ou agrupamentos de escolas em unidade orgânica diferente daquela em que o docente está provido, bem como da colocação de docentes dos quadros de ilha e do quadro regional de Educação Moral e Religiosa Católica numa unidade orgânica do sistema educativo regional.
+a) Sejam opositores a provimento em quadros de escola e aí não venham a obter colocação;
 
-7 - A contratação a termo resolutivo visa suprir necessidades transitórias do sistema educativo regional que não sejam satisfeitas pelos procedimentos concursais referidos nos números anteriores, à qual podem candidatar-se indivíduos portadores de habilitação profissional ou própria consideradas como tal pela legislação em vigor.
+b) À data da candidatura permaneçam opositores à contratação a termo resolutivo de pessoal docente na Região Autónoma dos Açores, ainda que se encontrem colocados ou a aguardar colocação, ou tenham obtido colocação, no ano escolar em curso, em escola da Região.
 
-8 - À contratação a termo resolutivo para a educação pré-escolar e 1.º ciclo do ensino básico apenas podem candidatar-se indivíduos profissionalizados para esses graus de docência.
+6 - O procedimento concursal interno de afetação visa:
 
-9 - Os candidatos aos concursos interno e externo de provimento e à contratação a termo resolutivo podem ser opositores a todos os grupos de recrutamento para os quais possuem habilitação profissional.
+a) A colocação, por um ano, de docentes dos quadros de escola ou agrupamentos de escolas, com vínculo definitivo, em unidade orgânica diferente daquela em que o docente está provido;
+
+b) A afetação de docentes dos quadros de ilha e do quadro regional de Educação Moral e Religiosa Católica numa unidade orgânica do sistema educativo regional.
+
+7 - A contratação a termo resolutivo visa suprir necessidades transitórias do sistema educativo regional que não sejam satisfeitas pelos procedimentos concursais referidos nos números anteriores.
+
+8 - À contratação a que se refere o número anterior podem candidatar-se indivíduos portadores de habilitação profissional para a docência, incluindo os que se encontram em situação de licença sem remuneração de longa duração, assim como indivíduos portadores de habilitação própria, consideradas como tal pela legislação em vigor.
+
+9 - À contratação a termo resolutivo para a educação pré-escolar e 1.º ciclo do ensino básico apenas podem candidatar-se indivíduos profissionalizados para esses graus de docência.
+
+10 - Os candidatos aos procedimentos concursais regulados nos números anteriores podem ser opositores a todos os grupos de recrutamento para os quais possuem habilitação profissional.

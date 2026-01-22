@@ -24,7 +24,7 @@ c) Candidatos com mais idade.
 
 6 - O tempo de serviço referido no Decreto-Lei n.º 169/85, de 20 de maio, alterado pelo Decreto-Lei n.º 17/88, de 21 de janeiro, é considerado como serviço docente oficial, para efeitos de concurso previsto neste Regulamento.
 
-7 - Para efeitos de contagem do tempo de serviço a que se refere a alínea f) do n.º 2 do artigo 7.º, são consideradas como tempo de serviço as ausências elencadas no n.º 2 do artigo 247.º do Estatuto da Carreira Docente.
+7 - Para efeitos de contagem do tempo de serviço a que se refere a alínea f) do n.º 2 do artigo 7.º, são consideradas como tempo de serviço as ausências elencadas no n.º 2 do artigo 218.º do Estatuto da Carreira Docente.
 
 8 - Sem prejuízo do disposto no n.º 1, para os candidatos aos grupos de recrutamento de Educação Especial releva, para efeitos do cálculo da graduação profissional, consoante opção dos mesmos, o curso de formação inicial para a docência ou o curso de qualificação especializada.
 

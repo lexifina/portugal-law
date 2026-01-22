@@ -10,7 +10,7 @@
 
 ### Objeto
 
-1 - O presente Regulamento rege o procedimento concursal como forma de recrutamento e seleção normal e obrigatória do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, nas modalidades previstas no Estatuto da Carreira Docente da Região Autónoma dos Açores, aprovado pelo Decreto Legislativo Regional n.º 21/2007/A, de 30 de agosto, alterado e republicado pelos Decretos Legislativos Regionais n.os 4/2009/A, 11/2009/A e 25/2015/A, respetivamente de 20 de abril, 21 de julho e 17 de dezembro, adiante, abreviadamente, designado por Estatuto da Carreira Docente.
+1 - O presente Regulamento rege o procedimento concursal como forma de recrutamento e seleção normal e obrigatória do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, nas modalidades previstas no Estatuto da Carreira Docente da Região Autónoma dos Açores, aprovado pelo Decreto Legislativo Regional n.º 23/2023/A, de 26 de junho, alterado pelo Decreto Legislativo Regional n.º 9/2024/A, de 11 de outubro, adiante, abreviadamente, designado por Estatuto da Carreira Docente.
 
 2 - O procedimento concursal tem obrigatoriamente uma fase centralizada que garante a igualdade de acesso ao mesmo e a transparência no processo de seleção.
 

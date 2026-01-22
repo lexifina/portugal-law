@@ -18,9 +18,9 @@
 
 8 - O contrato celebrado pelo período de um ano escolar vigora até 31 de agosto do ano escolar a que respeita.
 
-9 - Os contratos celebrados por período inferior a um ano podem ser renovados, até ao termo do ano escolar, por períodos de 30 dias, ou enquanto durar o impedimento do titular, por despacho do diretor regional competente em matéria de educação, sob proposta do órgão executivo competente, com a antecedência mínima de cinco dias úteis, mediante simples anotação.
+9 - Os contratos celebrados por período inferior a um ano podem ser, excecionalmente, prorrogados para além do prazo indicado no n.º 7, no limite, até ao termo do ano escolar, por despacho do diretor regional competente em matéria de administração educativa, sob proposta, fundamentada, do órgão executivo competente, com a antecedência mínima de dois dias úteis, mediante simples anotação.
 
-10 - Para além das alterações decorrentes do número de horas letivas, a aquisição de licenciatura ou habilitação profissional para a atividade docente determina a alteração do índice com efeitos ao dia 1 do mês seguinte.
+10 - Para além das alterações decorrentes do número de horas letivas, a aquisição de habilitação profissional para a docência determina a alteração do índice remuneratório com efeitos ao dia 1 do mês seguinte ao da comprovação desse facto.
 
 11 - A renovação dos contratos referidos no n.º 9 depende de comunicação ao contratado, a realizar pelo órgão de gestão da unidade orgânica.
 
@@ -30,6 +30,6 @@
 
 14 - Durante os períodos de interrupção da atividade letiva não há lugar a prorrogação da vigência do contrato a que se refere o n.º 12, salvo se o docente titular do lugar se apresentar no decurso dos trabalhos de avaliação ou durante os quinze dias seguidos imediatamente anteriores, caso em que o contrato se considera em vigor até à conclusão do processo avaliativo.
 
-15 - [Revogado.]
+15 - (Revogado.)
 
-16 - [Revogado.]
+16 - (Revogado.)

@@ -2,7 +2,7 @@
 
 ### Candidatura
 
-1 - A candidatura ao procedimento concursal é formalizada através do preenchimento de formulário eletrónico, aprovado e disponibilizado pela direção regional competente em matéria de educação.
+1 - A candidatura ao procedimento concursal é formalizada através do preenchimento de formulário eletrónico, aprovado e disponibilizado pela direção regional competente em matéria de administração educativa.
 
 2 - Do formulário devem constar obrigatoriamente:
 
@@ -16,7 +16,7 @@ d) Nível de educação ou de ensino a que o candidato concorre e respetivos gru
 
 e) Elementos necessários à ordenação do candidato, de acordo com os critérios legais estabelecidos e opções do candidato;
 
-f) Tempo de serviço docente prestado em estabelecimento do ensino oficial e prestado no ensino particular, contado nos termos do artigo 247.º do Estatuto da Carreira Docente;
+f) Tempo de serviço docente prestado em estabelecimentos de ensino oficial e prestado no ensino particular, contado nos termos do artigo 219.º do Estatuto da Carreira Docente;
 
 g) Formulação das preferências por unidade orgânica e de outras opções de candidatura.
 
