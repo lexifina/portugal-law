@@ -1,0 +1,216 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "176",
+    "id": "315518",
+    "titulo": "Alargamento da Licença Parental Inicial"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-01-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "98154",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-02-11",
+            "id": "169805",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-06-26",
+            "id": "180305",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-07-03",
+            "id": "180335",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-07-17",
+            "id": "180391",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-07-22",
+            "id": "180403",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-01-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XVII",
+            "nome": "Grupo de Trabalho – Alargamento da Licença Parental Inicial ",
+            "num": "22",
+            "orgId": "8487",
+            "publicacao": null,
+            "sigla": "GT-ALPI"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2026-07-27",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1. Proposta de alteração - GP PSD - Substituída",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595445315a47466d4d7a63744d6a55344e7930304e4451794c546732595463744e4451354e54637a4e6a5a695a44566a4c6e426b5a673d3d&fich=a15daf37-2587-4442-86a7-44957366bd5c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2. Proposta de alteração - GP L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4755324e7a67355a4455744e3245354d7930304e6a677a4c57466b4e7a49744f47593159544e6d5a6a67784d3251784c6e426b5a673d3d&fich=0e6789d5-7a93-4683-ad72-8f5a3ff813d1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3. Proposta de alteração - GP CH - substituída",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d4d304d5755354d32557459546c6a4d5330305a4456694c574a6b4d6a4d744e7a6b304d7a513359544668596a566d4c6e426b5a673d3d&fich=2c41e93e-a9c1-4d5b-bd23-794347a1ab5f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4. Proposta de alteração - DURP do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a64694d6a5178595441744e575a6a4f4330304f446c6b4c5467345a4445744f446c685932566b4e6d4e6c4e7a426d4c6e426b5a673d3d&fich=b7b241a0-5fc8-489d-88d1-89aced6ce70f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5. Proposta de alteração - GP PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765957517a4f445a6c4d6a67744f4455784f433030597a466d4c5467784e5467745a57557a4d545a6a597a41304f4759324c6e426b5a673d3d&fich=ad386e28-8518-4c1f-8158-ee316cc048f6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6. Proposta de alteração - GP PS - Retirada a pedido do proponente",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595451344d6a41794f544d74596a42685a5330305a6a526b4c546c6a4d5445744e7a41784f4451344e4467795a5451304c6e426b5a673d3d&fich=a4820293-b0ae-4f4d-9c11-701848482e44.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "7. Proposta de Alteração - GP IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4759335a6d4d344e5749744e446c6c4d693030596a45334c5468684d7a41744e6d55784f4459785a6a45345a6a426c4c6e426b5a673d3d&fich=8f7fc85b-49e2-4b17-8a30-6e1861f18f0e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-06",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório  UTAO n.º 15 - Avaliação impacto orçamental",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5455324d5455774e324d744f44466d5a4330305a6a4a6a4c54686b5954417459324a69596d557a4d6a566b4e6d59334c6e426b5a673d3d&fich=e561507c-81fd-4f2c-8da0-cbbbe325d6f7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "8. Substituição de Proposta de Alteração do PSD  - Substituída",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4467345a4455355a5759744d3251324d7930304f545a6d4c546c684e6a6774597a637a59574d335a6a55324e446b344c6e426b5a673d3d&fich=488d59ef-3d63-496f-9a68-c73ac7f56498.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "9. Substituição de Proposta de Alteração do PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4455774e475131597a55744d5442684f4330304d7a63784c5745345a6d49744d546731593255314e7a457a596a67774c6e426b5a673d3d&fich=d504d5c5-10a8-4371-a8fb-185ce5713b80.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-13",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "10. Quadro Comparativo (01)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d575a6a4f4755325a4455745a474e6b4d7930304f5749774c574a6d4d5467745a6a4d324d4451774e444e685a4749344c6d52765933673d&fich=1fc8e6d5-dcd3-49b0-bf18-f3604043adb8.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-13",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "11. Quadro Comparativo (02)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659324d334d544d7a5a444174596d526a4d6930304e4463304c54677a5a574d744d7a4d34595442694d6a67345954426c4c6d52765933673d&fich=cc7133d0-bdc2-4474-83ec-338a0b288a0e.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-13",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "12. Quadro Comparativo (03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4455794d6d52694f444d744f4452694d7930304e6d59784c5467304d6a4d7459546b774e6d45345a444d334f44466d4c6d52765933673d&fich=0522db83-84b3-46f1-8423-a906a8d3781f.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-13",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "13. Quadro Comparativo (04)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d49354e6d457a4d324d74596d59784d6930305a5441784c546b344d3245744f474d344e6d457a5a44526c5a6a55784c6d52765933673d&fich=6b96a33c-bf12-4e01-983a-8c86a3d4ef51.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-13",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "14. Proposta de substituição - GP CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a42695a444a6b596a55744e4455784d7930304f4463304c5467795a4463744d324e6c5a57597a4d5459334e4755774c6e426b5a673d3d&fich=30bd2db5-4513-4874-82d7-3ceef31674e0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-15",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f44426d4d574531595449744d47526a4e4330304e6a45304c57466d4e446b744e4441314d47526c4e54566a4d6d526d4c6e426b5a673d3d&fich=80f1a5a2-0dc4-4614-af49-4050de55c2df.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-15",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Discussão e Votação na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5445355a4445774f474d744e6a4d314d533030597a49304c5468694e5459744f54646c4d5449315a444a694e7a42694c6e426b5a673d3d&fich=919d108c-6351-4c24-8b56-97e125d2b70b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "22",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-01-23",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1683766",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
