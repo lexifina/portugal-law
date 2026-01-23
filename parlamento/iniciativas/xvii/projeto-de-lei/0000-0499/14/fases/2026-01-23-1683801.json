@@ -1,0 +1,153 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "14",
+    "id": "315067",
+    "titulo": "Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2026-01-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "98169",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-02-25",
+            "id": "169864",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2026-04-14",
+            "id": "117692",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-01-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-02-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo ADPC - Associação de Distribuidores de Propano Canalizado",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d324d774d6a4e6b5a4330344f4759784c5451324e5759744f474a6a5a5330784e7a566a597a49794d7a59304e5445756347526d&fich=53c023dd-88f1-465f-8bce-175cc2236451.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-26",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Aditamento ao contributo enviado pela Autoridade Tributária e Aduaneira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4f5464694e32517a5953316c59574e6b4c5451774e4451744f4455345a433033596a6c6a5a4755784d7a68684f4745756347526d&fich=d97b7d3a-eacd-4044-858d-7b9cde138a8a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8451",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública ",
+        "Numero": "8451",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a47466b595463344d69316b4e6d497a4c5451345a4749744f446c6b59693031595456694d5467324e324a6b597a67756347526d&fich=7dada782-d6b3-48db-89db-5a5b1867bdc8.pdf&Inline=true",
+            "nome": "EPCOL - Empresas Portuguesas de Combustíveis e Lubrificantes em 2026-02-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383259324979596a45325a53316c4f5751354c54526b4d7a45744f474977597930324e54426a5a474e6b4e7a426b4e7a51756347526d&fich=6cb2b16e-e9d9-4d31-8b0c-650cdcd70d74.pdf&Inline=true",
+            "nome": "ERSE - Entidade Reguladora dos Serviços Energéticos em 2026-03-08"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684e5451354e7a5178597930344d44677a4c5452695954557459574d33596930324e6d49335a6a6777597a6468597a59756347526d&fich=a549741c-8083-4ba5-ac7b-66b7f80c7ac6.pdf&Inline=true",
+            "nome": "ENSE - Entidade Nacional para o Setor Energético em 2026-02-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833596a4d784d44646a4e69316b5a544d784c54517a4d4459744f4449775a5330355a445a6d4f54497859544d35595749756347526d&fich=7b3107c6-de31-4306-820e-9d6f921a39ab.pdf&Inline=true",
+            "nome": "ANAREC - Associação Nacional de Revendedores de Combustíveis em 2026-02-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d474930595449335a69316d5a544e6a4c5451334d446774595459794f4330334f5449785a6a6b33596a4d7a4f4451756347526d&fich=40b4a27f-fe3c-4708-a628-7921f97b3384.pdf&Inline=true",
+            "nome": "Autoridade Tributária e Aduaneira em 2026-02-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d5459784e574a6b4e53307a4d44497a4c54526a5a6a51744f546b7a4f43316b596a417a4f4441774e7a6778593259756347526d&fich=01615bd5-3023-4cf4-9938-db03800781cf.pdf&Inline=true",
+            "nome": "DELP - Divisão de Estudos Legislativos e Parlamentares em 2026-02-23"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a47466b595463344d69316b4e6d497a4c5451345a4749744f446c6b59693031595456694d5467324e324a6b597a67756347526d&fich=7dada782-d6b3-48db-89db-5a5b1867bdc8.pdf&Inline=true",
+            "nome": "EPCOL - Empresas Portuguesas de Combustíveis e Lubrificantes em 2026-02-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383259324979596a45325a53316c4f5751354c54526b4d7a45744f474977597930324e54426a5a474e6b4e7a426b4e7a51756347526d&fich=6cb2b16e-e9d9-4d31-8b0c-650cdcd70d74.pdf&Inline=true",
+            "nome": "ERSE - Entidade Reguladora dos Serviços Energéticos em 2026-02-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684e5451354e7a5178597930344d44677a4c5452695954557459574d33596930324e6d49335a6a6777597a6468597a59756347526d&fich=a549741c-8083-4ba5-ac7b-66b7f80c7ac6.pdf&Inline=true",
+            "nome": "ENSE - Entidade Nacional para o Setor Energético em 2026-02-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833596a4d784d44646a4e69316b5a544d784c54517a4d4459744f4449775a5330355a445a6d4f54497859544d35595749756347526d&fich=7b3107c6-de31-4306-820e-9d6f921a39ab.pdf&Inline=true",
+            "nome": "ANAREC - Associação Nacional de Revendedores de Combustíveis em 2026-02-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d474930595449335a69316d5a544e6a4c5451334d446774595459794f4330334f5449785a6a6b33596a4d7a4f4451756347526d&fich=40b4a27f-fe3c-4708-a628-7921f97b3384.pdf&Inline=true",
+            "nome": "Autoridade Tributária e Aduaneira em 2026-02-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d5459784e574a6b4e53307a4d44497a4c54526a5a6a51744f546b7a4f43316b596a417a4f4441774e7a6778593259756347526d&fich=01615bd5-3023-4cf4-9938-db03800781cf.pdf&Inline=true",
+            "nome": "DELP - Divisão de Estudos Legislativos e Parlamentares em 2026-02-13"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-01-23",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1683801",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
