@@ -1,0 +1,2039 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "384",
+    "id": "346007",
+    "titulo": "Reduz o IVA sobre o gás destinado a consumo doméstico"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2026-01-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "71731",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2026-01-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315067",
+        "leg": "XVII",
+        "nr": "14",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315077",
+        "leg": "XVII",
+        "nr": "22",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado)\n"
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "345992",
+        "leg": "XVII",
+        "nr": "373",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Redução do IVA do Gás engarrafado para a taxa mínima"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "345996",
+        "leg": "XVII",
+        "nr": "377",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reduz o IVA no fornecimento de garrafas de gás butano e propano"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "346012",
+        "leg": "XVII",
+        "nr": "386",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "335954",
+        "leg": "XVII",
+        "nr": "481",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "346006",
+        "leg": "XVII",
+        "nr": "498",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56807",
+            "obs": null,
+            "pag": [
+              "28-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-01-24",
+            "pubLeg": "XVII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-01-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/39"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7344",
+                "nome": "Rui Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8343",
+                "nome": "Jorge Miguel Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8888",
+                "nome": "Pedro Vaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8465",
+                "nome": "Eliseu Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8888",
+                "nome": "Pedro Vaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7325",
+                "nome": "Carlos Cação"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6013",
+                "nome": "Hugo Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8879",
+                "nome": "Pedro Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7344",
+                "nome": "Rui Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480866",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8879",
+                "nome": "Pedro Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "13:06",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/50/55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480867",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-01-24",
+                "pubLeg": "XVII",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Controla e fixa os preços do “gás de botija” (gases de petróleo liquefeito engarrafado); Prevê a redução da taxa de IVA aplicável às garrafas de gás butano e propano; Redução do IVA do Gás engarrafado para a taxa mínima; Reduz o IVA no fornecimento de garrafas de gás butano e propano; Reduz o IVA sobre o gás destinado a consumo doméstico; Cria o regime jurídico para a definição do preço do gás, a subsidiação aos consumidores para a aquisição de GPL engarrafado, determina a alteração da regulamentação da revenda do GPL em botija e procede à quinta alteração ao Decreto-Lei n.º 31/2006, de 15 de fevereiro; Recomenda ao Governo medidas para reforçar a concorrência, a transparência e a acessibilidade no mercado do GPL engarrafado; Recomenda ao Governo que tornem o acesso ao “gás de botija” mais acessível para as famílias.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1683642",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1023824",
+        "obs": null,
+        "pag": [
+          "28-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-01-24",
+        "pubLeg": "XVII",
+        "pubNr": "50",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-24/28?pgs=28-42&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
