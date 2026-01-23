@@ -1,0 +1,216 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "44",
+    "id": "315763",
+    "titulo": "Autoriza o Governo a proceder à alteração ao Código Fiscal do Investimento, prorrogando o regime do SIFIDE II até 2026 e revogando a possibilidade de aplicação indireta do SIFIDE II através de fundos de investimento"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-01-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "98151",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-02-10",
+            "id": "169820",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-02-10",
+            "id": "169819",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-02-25",
+            "id": "169864",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-01-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-02-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo Associação Portuguesa de Investidores Early Stage - Investors Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e54466b4f5755775979316d5a6d59344c54517a5a6a4d744f444d304d6930324e7a6c6d4e5463785a54566c4d546b756347526d&fich=651d9e0c-fff8-43f3-8342-679f571e5e19.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Aditamento ao contributo enviado pela CIP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e57566a4d325a6a4f53316d5a6a51304c545133597a49744f475a6d5a433035596a49304d7a6b354e474935597a6b756347526d&fich=55ec3fc9-ff44-47c2-8ffd-9b243994b9c9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-27",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d44526b4d4749344e5330324e6a6c6b4c545134597a67744f5441325a53316d5a47513459544d7a4d6a45335a6a55756347526d&fich=004d0b85-669d-48c8-906e-fdd8a33217f5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resultado das Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833596a637a4f5459774e693077593251334c54517a5a4449744f5449784e69316c4e7a63314d4446694e54646c595451756347526d&fich=7b739606-0cd7-43d2-9216-e77501b57ea4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d6a4e6a4e7a63794e6931694d5759314c5451325a54677459544e6c4d69316d4e7a5177596a63335a54646d4f444d756347526d&fich=b23c7726-b1f5-46e8-a3e2-f740b77e7f83.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8451",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública ",
+        "Numero": "8451",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877595441774e7a6b314d7930354d5451304c5451304e6a6774596a45354d5330354d57597959574d324f546b345a6d51756347526d&fich=0a007953-9144-4468-b191-91f2ac6998fd.pdf&Inline=true",
+            "nome": "Ordem dos Contabilistas Certificados em 2026-02-16"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e575a6b4e6a51324d7930774f4751304c5451304d6d45744f5451344d53316c4d7a5a6a5a4445324d574d30597a6b756347526d&fich=e5fd6463-08d4-442a-9481-e36cd161c4c9.pdf&Inline=true",
+            "nome": "APFIPP – Associação Portuguesa de Fundos de Investimento, Pensões e Património em 2026-02-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f57497a5957566b4e5330774e6a5a6a4c54517a4e5451744f47466c4e79316c4d4449304f4756694e6a646a4e6d45756347526d&fich=59b3aed5-066c-4354-8ae7-e0248eb67c6a.pdf&Inline=true",
+            "nome": "APCRI - Associação Portuguesa de Capital de Risco em 2026-02-16"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793969595445775a4441775a533030595451344c54517a5a5759744f5751774e69316b4f4755344d32566b4f475a6b4f4463756347526d&fich=ba10d00e-4a48-43ef-9d06-d8e83ed8fd87.pdf&Inline=true",
+            "nome": "APIES - Associação Portuguesa de Investidores Early Stage - Investors Portugal em 2026-02-09"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e5756684e7a4d794e7930345a6d466b4c5451314e57517459575132595330774d44426d5a6a59794e7a4979597a63756347526d&fich=f5ea7327-8fad-455d-ad6a-000ff62722c7.pdf&Inline=true",
+            "nome": "CMVM - Comissão de Mercados e Valores Mobiliários em 2026-02-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775957526b4d7a52685a6930785a6a41774c5451324d6a67744f47517a4e69316c4e4445345a6a566a5954646d5a5759756347526d&fich=0add34af-1f00-4628-8d36-e418f5ca7fef.pdf&Inline=true",
+            "nome": "CIP - Confederação Empresarial de Portugal em 2026-02-16"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a6a6b784e5455314e43307a5a4759324c54526a5a4759744f5755354e7930785a6a59325a574932596d56684e446b756347526d&fich=bf915554-3df6-4cdf-9e97-1f66eb6bea49.pdf&Inline=true",
+            "nome": "AI2 - Agência para o Investimento e Inovação em 2026-02-16"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877595441774e7a6b314d7930354d5451304c5451304e6a6774596a45354d5330354d57597959574d324f546b345a6d51756347526d&fich=0a007953-9144-4468-b191-91f2ac6998fd.pdf&Inline=true",
+            "nome": "Ordem dos Contabilistas Certificados em 2026-02-05"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Economistas em 2026-02-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e575a6b4e6a51324d7930774f4751304c5451304d6d45744f5451344d53316c4d7a5a6a5a4445324d574d30597a6b756347526d&fich=e5fd6463-08d4-442a-9481-e36cd161c4c9.pdf&Inline=true",
+            "nome": "APFIPP – Associação Portuguesa de Fundos de Investimento, Pensões e Património em 2026-02-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f57497a5957566b4e5330774e6a5a6a4c54517a4e5451744f47466c4e79316c4d4449304f4756694e6a646a4e6d45756347526d&fich=59b3aed5-066c-4354-8ae7-e0248eb67c6a.pdf&Inline=true",
+            "nome": "APCRI - Associação Portuguesa de Capital de Risco em 2026-02-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793969595445775a4441775a533030595451344c54517a5a5759744f5751774e69316b4f4755344d32566b4f475a6b4f4463756347526d&fich=ba10d00e-4a48-43ef-9d06-d8e83ed8fd87.pdf&Inline=true",
+            "nome": "APIES - Associação Portuguesa de Investidores Early Stage - Investors Portugal em 2026-02-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e5756684e7a4d794e7930345a6d466b4c5451314e57517459575132595330774d44426d5a6a59794e7a4979597a63756347526d&fich=f5ea7327-8fad-455d-ad6a-000ff62722c7.pdf&Inline=true",
+            "nome": "CMVM - Comissão de Mercados e Valores Mobiliários em 2026-02-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775957526b4d7a52685a6930785a6a41774c5451324d6a67744f47517a4e69316c4e4445345a6a566a5954646d5a5759756347526d&fich=0add34af-1f00-4628-8d36-e418f5ca7fef.pdf&Inline=true",
+            "nome": "CIP - Confederação Empresarial de Portugal em 2026-02-05"
+          },
+          {
+            "link": "",
+            "nome": "Confederação do Turismo de Portugal em 2026-02-05"
+          },
+          {
+            "link": "",
+            "nome": "CCP - Confederação do Comércio e Serviços de Portugal em 2026-02-05"
+          },
+          {
+            "link": "",
+            "nome": "CAP - Confederação dos Agricultores de Portugal em 2026-02-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a6a6b784e5455314e43307a5a4759324c54526a5a4759744f5755354e7930785a6a59325a574932596d56684e446b756347526d&fich=bf915554-3df6-4cdf-9e97-1f66eb6bea49.pdf&Inline=true",
+            "nome": "AI2 - Agência para o Investimento e Inovação em 2026-02-05"
+          },
+          {
+            "link": "",
+            "nome": "COTEC Portugal - Associação Empresarial para a Inovação em 2026-02-05"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2026-03-04",
+            "descricao": null,
+            "detalhe": null,
+            "id": "170967",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "73",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-01-23",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1683756",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
