@@ -1,0 +1,165 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "356",
+    "id": "345974",
+    "titulo": "Inclui o jornalismo sem fins lucrativos na Lei-quadro do estatuto de utilidade pública (Alteração à Lei n.º 36/2021, de 14 de junho)"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-01-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "98185",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-01-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-01-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - Consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=637"
+          },
+          {
+            "DataDocumento": "2026-03-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3255344e4451785a5445744d5449315a5330305a5459774c546b304d7a49744f54566b4e4751305a6d566d5a6d4a6c4c6e426b5a673d3d&fich=3e8441e1-125e-4e60-9432-95d4d4feffbe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-12",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f444a6b4f4755334d7a51745a6a526a4f5330304d5459794c574a694f574d744e546b355a6a5177596a457a4f444a694c6e426b5a673d3d&fich=82d8e734-f4c9-4162-bb9c-599f40b1382b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-06",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "CSM - Informação de não emissão de parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e546b7a4d5441324d5745744e474534595330304f4745784c546c6c595451744f444e6c4d4455795a474579597a426c4c6e426b5a673d3d&fich=5931061a-4a8a-48a1-9ea4-83e052da2c0e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3249305a4455314d4455744e57526c4d533030596d4d354c5749335a444d744f575a684e3259774d5755344d544a6a4c6e426b5a673d3d&fich=7b4d5505-5de1-4bc9-b7d3-9fa7f01e812c.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "CSM - Conselho Superior de Magistratura em 2026-02-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-03-17"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "CSM - Conselho Superior de Magistratura em 2026-02-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-02-04"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-02-04"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "9020",
+            "motivoCessacao": null,
+            "nome": "Nuna Menezes"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-03-12",
+            "dataRemessa": "2026-03-12",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PCP",
+              "PAN",
+              "JPP"
+            ],
+            "data": "2026-03-12",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> CDS-PP</I>, <I> BE</I><BR>Ausência: <I>PCP</I>, <I> PAN</I>, <I> JPP</I>",
+            "id": "171011",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "47",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-01-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1683937",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
