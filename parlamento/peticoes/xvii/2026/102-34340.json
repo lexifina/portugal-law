@@ -1,0 +1,237 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34340",
+  "numero": "102",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2026-01-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2026-05-28",
+            "entidades": null,
+            "id": "180217",
+            "tipo": null,
+            "titulo": "Audição em 2026-05-28 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2026-04-21",
+            "dataResposta": "2026-05-12",
+            "entidades": [
+              "ANAFRE - Associação Nacional de Freguesias"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2026-04-21",
+            "dataResposta": "2026-05-15",
+            "entidades": [
+              "ANMP - Associação Nacional dos Municípios Portugueses"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2026-04-21",
+            "dataResposta": "2026-05-11",
+            "entidades": [
+              "INIAV - Instituto Nacional de Investigação Agrária e Veterinária, I. P."
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2026-04-21",
+            "dataResposta": "2026-05-11",
+            "entidades": [
+              "DGAV - Direção-Geral de Alimentação e Veterinária"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2026-04-21",
+            "dataResposta": "2026-05-05",
+            "entidades": [
+              "ANIPLA - Associação Nacional da Indústria para a Proteção das Plantas (CropLife Portugal)"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-06-17",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2026-02-18",
+        "DataArquivo": "2026-06-17",
+        "DataBaixaComissao": "2026-02-04",
+        "DataEnvioPAR": "2026-06-18",
+        "DataReaberta": "2026-02-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2026-02-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764f4463314d54526a4e4467745a6a59344e693030596d4a6c4c5749304e6a67745a44566a5a6a4a694e6d566c4f4751774c6e426b5a673d3d&fich=87514c48-f686-4bbe-b468-d5cf2b6ee8d0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-21",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764d3249794f5449774d4445745a544d7a595330304e3259324c546734597a45744d6a466d5a575a695a544d33595759304c6e426b5a673d3d&fich=3b292001-e33a-47f6-88c1-21fefbe37af4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-26",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764e474e684e444a69597a4d744e4749304d4330304e7a63304c54686d596a55744e57557a5a4463345a6d51344e4459794c6e426b5a673d3d&fich=4ca42bc3-4b40-4774-8fb5-5e3d78fd8462.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-26",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764e574d77593249795a546374596a646c597930304f5449344c57497a4e4451744d7a6377596d466d4d5755304e474d334c6e426b5a673d3d&fich=5c0cb2e7-b7ec-4928-b344-370baf1e44c7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-27",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764d574d7a4d7a63774e5751744e32453459533030595441774c5467334d7a59745a474e6959544d7a4d446b324d54466c4c6e426b5a673d3d&fich=1c33705d-7a8a-4a00-8736-dcba3309611e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-06-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a59573876597a51325a444a684f474d744e574d7a5a5330305a6d45774c5745324e6a55744e4456694e32517a5a575a6a5a5746684c6e426b5a673d3d&fich=c46d2a8c-5c3e-4fa0-a665-45b7d3efceaa.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2026-05-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764d4759775957566d5a4759744e6d557a4e5330305a544d774c54677a4e4745744f446b7a5a44686a597a63775a6a45314c6e426b5a673d3d&fich=0f0aefdf-6e35-4e30-834a-893d8cc70f15.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764f446b785932566a4e7a4974596a593359533030595445794c5749334d324574596a6b304d47526c4f4749324d574a6a4c6e426b5a673d3d&fich=891cec72-b67a-4a12-b73a-b940de8b61bc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764e475a6c4d574d324f445974597a426d5a5330305a47466b4c546b344e5441744f4755304d32457a4d324d775a5445774c6e426b5a673d3d&fich=4fe1c686-c0fe-4dad-9850-8e43a33c0e10.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738765a6d526c4e54646c4d3245745a6a4a6c596930304d5749314c546b354d6a6b744e5749355a574932597a51335a6a4e6b4c6e426b5a673d3d&fich=fde57e3a-f2eb-41b5-9929-5b9eb6c47f3d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738765a6a417a5a444a6b4d6a6b745a6a55354e6930304d575a684c5745304d5751745a4745794d6a646b4d5745795a474d314c6e426b5a673d3d&fich=f03d2d29-f596-41fa-a41d-da227d1a2dc5.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8453",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Agricultura e Pescas ",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-06-17",
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7494",
+            "motivoCessacao": null,
+            "nome": "Irene Costa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2026-02-04",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a4d4755774f544a6c5a4330795a4445784c5451325a574d74595459304e79316b4d5756684f544134597a4d774e6a6b756347526d&fich=30e092ed-2d11-46ec-a647-d1ea908c3069.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2026-02-04",
+        "TipoDocumento": "Link",
+        "URL": "https://www.instagram.com/reel/DMqSlCvoE3q/?igsh=MTZpdWk1anJmempuaw=="
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34340",
+    "PetAssunto": "Pela proibição do uso de herbicidas perigosos em espaços públicos urbanos em Portugal",
+    "PetDataEntrada": "2026-01-27",
+    "PeticoesAssociadas": null,
+    "PetId": "34340",
+    "PetLeg": "XVII",
+    "PetNr": "102",
+    "PetNrAssinaturas": "708",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
