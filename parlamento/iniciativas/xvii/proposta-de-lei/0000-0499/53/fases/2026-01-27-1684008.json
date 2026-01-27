@@ -1,0 +1,195 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "53",
+    "id": "345972",
+    "titulo": "Transpõe a Diretiva (UE) 2023/977, relativa ao intercâmbio de informações entre as autoridades de aplicação da lei dos Estados-Membros, e a Diretiva (UE) 2023/2123 , que altera a Decisão 2005/671/JAI do Conselho no que diz respeito à sua harmonização com as regras da União em matéria de proteção de dados pessoais"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-01-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "98209",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-01-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-01-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - Consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=646"
+          },
+          {
+            "DataDocumento": "2026-02-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595751784d6a56684e7a49745a6a55324e5330304f44426b4c546b344f545974593259775a6a4e6c4e7a6777597a526b4c6e426b5a673d3d&fich=ad125a72-f565-480d-9896-cf0f3e780c4d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e544d344f57526a596a6774596a5269597930304d6a6c6a4c546b774f5451744f446c6b595451794d6a5a6d5a5445344c6e426b5a673d3d&fich=5389dcb8-b4bc-429c-9094-89da4226fe18.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-26",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior de Segurança Interna",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a544e6b5a6d4d354d5459744f5455344e4330304d544d324c546c6b4d7a51744d54426c5a445a6b596d51775a6d51334c6e426b5a673d3d&fich=e3dfc916-9584-4136-9d34-10ed6dbd0fd7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a64694d445178596a63744e446b79596930304e544e6b4c5745314e7a45744e44566c5a445179596a45774e6a55334c6e426b5a673d3d&fich=77b041b7-492b-453d-a571-45ed42b10657.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-18",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659544e6a4e5751304d7a59744e3259794e6930305a6a51354c5468694e3255744f474a68596a4d784f546c6c595455304c6e426b5a673d3d&fich=a3c5d436-7f26-4f49-8b7e-8bab3199ea54.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4459304d6d59775a4445745954497a4d6930305a6a59354c546c6d4d444d744d324d794e475a6c4f475a6a4d6a4d304c6e426b5a673d3d&fich=d642f0d1-a232-4f69-9f03-3c24fe8fc234.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "CSM - Conselho Superior de Magistratura em 2026-02-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-02-18"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-03-17"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Sistema de Segurança Interna em 2026-02-26"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "CSM - Conselho Superior de Magistratura em 2026-02-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-02-04"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-02-04"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-02-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Sistema de Segurança Interna em 2026-02-04"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-03-18",
+            "dataRemessa": "2026-03-18",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PCP",
+              "CDS-PP",
+              "BE",
+              "PAN",
+              "JPP"
+            ],
+            "data": "2026-03-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I><BR>Ausência: <I>PCP</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I>",
+            "id": "171085",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "48",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-01-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1684008",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
