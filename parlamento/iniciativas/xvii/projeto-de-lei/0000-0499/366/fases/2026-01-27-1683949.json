@@ -1,0 +1,125 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "366",
+    "id": "345984",
+    "titulo": "Altera o regime do trabalho por turnos e noturno e reforça a proteção social dos trabalhadores por turnos e noturnos"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-01-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "98191",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-01-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2026-03-05",
+        "DatainicioApreciacaoPublica": "2026-02-03",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-01-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta pública - recolha de contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=639"
+          },
+          {
+            "DataDocumento": "2026-03-05",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Apreciação Pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVIILeg/10CTSSI/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=5545704d4947347577726f674d7a59324c56685753556b744d533743716c394556564a5149454a46&Path=RvP4mzgXqo%2fbIunq%2fbmTHUZyaP3kXHRvDDM0M6oA4pCl1MwO4RqfZ%2fEfjdQXAQR6U%2fKiAID%2fzslxSTKmMzfPfbOB7vIYIEtpU9F5dfBpHIOiyigkl%2f7p8xO9zzA5DmT2pg0x6abxtre3fFAaMdO68xdZDxvYtQ8R4hlq6CGnKLNcXHr6B6l2T%2bRllOnTM%2flpbuyNz9ZCq3k0EC4pWUIBIlC5CZN%2bAlQ82JnfsgrrPWWuAhLzxO%2bDt8HiBR8hdr0pNmrMqVN%2b7YP2JR9SDbXMvD3e5%2bJLTTHkF%2fuCqPZiuFs812M60KD52ExXHvmHSiuCSNed7VeAsXWQS5dejog2OHSe1A0goQain51niAYaDcVp%2fONy1YIaqcNxK2lFOyvfivqUngjWCCXX7U01V%2bBj6W4dzeafhCxUOtHfVR%2fYpar8IYsPK%2f8VFPmLAv7fYCox"
+          },
+          {
+            "DataDocumento": "2026-05-26",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e32466c4e3255314e7a45744e6d51314e793030596a45794c57457759574574593245325957526d4e6a67784e474e694c6e426b5a673d3d&fich=7ae7e571-6d57-4b12-a0aa-ca6adf6814cb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-02",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d474d784e47597959325974593245305a433030596a6c6d4c5467314e3249744d6a566d4d4451794e54517a595449324c6e426b5a673d3d&fich=0c14f2cf-ca4d-4b9f-857b-25f042543a26.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "8456",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "9617",
+            "motivoCessacao": null,
+            "nome": "Manuela Carvalho"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2026-06-17",
+            "descricao": "Ausência dos GP's da IL e do CDS-PP",
+            "detalhe": null,
+            "id": "172189",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "54",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-01-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1683949",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
