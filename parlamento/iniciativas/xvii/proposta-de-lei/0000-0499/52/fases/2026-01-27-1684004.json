@@ -1,0 +1,185 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "52",
+    "id": "345971",
+    "titulo": "Altera o Código de Processo Penal, a Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, e o Estatuto da Vítima, aprovado em anexo à Lei n.º 130/2015, de 4 de setembro"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-01-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "98207",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-01-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-01-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - Consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=645"
+          },
+          {
+            "DataDocumento": "2026-02-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a6b315a6d5268596d49744d6a646b4d7930304d5749794c5745334e4451744f5751325a5749784f445a694d54426b4c6e426b5a673d3d&fich=b95fdabb-27d3-41b2-a744-9d6eb186b10d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-18",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a546b784d6a67344d6a5174596d45784e4330304e5451354c574a6c4f5463744e444d305a6a67314e4463784f47526c4c6e426b5a673d3d&fich=e9128824-ba14-4549-be97-434f854718de.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo  - APAV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a45774d7a6b345a4467744e475a6a4f5330304d6a646b4c5745314e3251744d446733596d55324e546730597a55304c6e426b5a673d3d&fich=c10398d8-4fc9-427d-a57d-087be6584c54.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d44426a4d4751324e7a4d744e6a51794d5330305a6a67794c546b784f5445744e6d4a694d544a694e6a51334f4749774c6e426b5a673d3d&fich=00c0d673-6421-4f82-9191-6bb12b6478b0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo  - APMJ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e57513559574a6a4d4755744f5459344d6930305a6a686c4c574935596a41744d3259344d4451784e5451304d5752694c6e426b5a673d3d&fich=5d9abc0e-9682-4f8e-b9b0-3f80415441db.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54526d4d7a4a684e7a63745a6a64694e6930304e4441784c5745794f446b745a6d566c5a4751324e545a6a596a55354c6e426b5a673d3d&fich=94f32a77-f7b6-4401-a289-feedd656cb59.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "CSM - Conselho Superior de Magistratura em 2026-02-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-03-04"
+          },
+          {
+            "link": "",
+            "nome": "APAV - Associação Portuguesa de Apoio à Vítima  em 2026-02-19"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "CSM - Conselho Superior de Magistratura em 2026-02-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-02-04"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-02-04"
+          },
+          {
+            "link": "",
+            "nome": "APAV - Associação Portuguesa de Apoio à Vítima  em 2026-02-04"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "7369",
+            "motivoCessacao": null,
+            "nome": "Vanessa Barata"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-02-18",
+            "dataRemessa": "2026-02-18",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PCP",
+              "PAN",
+              "JPP"
+            ],
+            "data": "2026-02-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> CDS-PP</I>, <I> BE</I><BR>Ausência: <I>PCP</I>, <I> PAN</I>, <I> JPP</I>",
+            "id": "170737",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "42",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-01-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1684004",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
