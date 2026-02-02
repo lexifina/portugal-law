@@ -1,0 +1,383 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "398",
+  "id": "356058",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-02-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4533597a597a4d6a59794c5459775a4463744e4751324f5330354f4759774c5445344e474e684d57526a4f54426d596935775a47593d&fich=17c63262-60d7-4d69-98f0-184ca1dc90fb.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9357",
+        "nome": "Paulo Lopes Marcelo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8476",
+        "nome": "Eva Brás Pinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1132",
+        "nome": "António Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8689",
+        "nome": "Nuno Jorge Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7240",
+        "nome": "Alexandre Poço"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8863",
+        "nome": "Dulcineia Catarina Moura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8374",
+        "nome": "Miguel Guimarães"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6544",
+        "nome": "Isaura Morais"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9628",
+        "nome": "Fernando Queiroga"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1897",
+        "nome": "Teresa Morais"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9184",
+        "nome": "Bárbara do Amaral Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2297",
+        "nome": "Cristóvão Norte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8788",
+        "nome": "Carolina Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7504",
+        "nome": "Paulo Edson Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7489",
+        "nome": "Adriana Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8179",
+        "nome": "Ana Gabriela Cabilhas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5993",
+        "nome": "Alberto Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6937",
+        "nome": "Alberto Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5984",
+        "nome": "Germana Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1478",
+        "nome": "Gonçalo Dinis Capitão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8525",
+        "nome": "Gonçalo Valente"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8526",
+        "nome": "Gonçalo Lage"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5595",
+        "nome": "Leonor Cipriano"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7325",
+        "nome": "Carlos Cação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9506",
+        "nome": "Ana Isabel Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4484",
+        "nome": "Marco Claudino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7408",
+        "nome": "João Pedro Louro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9617",
+        "nome": "Manuela Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8650",
+        "nome": "Martim Syder"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9650",
+        "nome": "Bruno Faria"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9110",
+        "nome": "Leandro Ferreira Luís"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7406",
+        "nome": "José Lago Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6537",
+        "nome": "Paulo Moniz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6178",
+        "nome": "Paulo Neves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1992",
+        "nome": "Pedro Roque"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7586",
+        "nome": "Ricardo Carlos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7205",
+        "nome": "Ricardo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9108",
+        "nome": "Ricardo Barroso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9505",
+        "nome": "Rui Rocha Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9107",
+        "nome": "Sofia Machado Fernandes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6081",
+        "nome": "Sonia dos Reis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "321",
+        "nome": "Francisco José Martins"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3918",
+        "nome": "Paula Cardoso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4147",
+        "nome": "Carla Barros"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7274",
+        "nome": "Hugo Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8152",
+        "nome": "Almiro Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9060",
+        "nome": "Firmino Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5490",
+        "nome": "Helga Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8916",
+        "nome": "Ricardo Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4328",
+        "nome": "Maurício Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4330",
+        "nome": "Ana Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9020",
+        "nome": "Nuna Menezes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4221",
+        "nome": "Vânia Jesus"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5749",
+        "nome": "Sandra Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6857",
+        "nome": "Hugo Patrício Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1738",
+        "nome": "Pedro Alves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9109",
+        "nome": "Sónia Margarida Fernandes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9358",
+        "nome": "Pedro Soares Pimenta"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7359",
+        "nome": "Francisco Figueira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7425",
+        "nome": "Sofia Carreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8698",
+        "nome": "Olga Freire"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1713",
+        "nome": "Bruno Vitorino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9629",
+        "nome": "Ana Silveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1458",
+        "nome": "Carlos Alberto Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9149",
+        "nome": "Joana Seabra"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356058",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a55315a545a6b4d6d597a4c5445314d546b744e4445794d433034597a4d784c5745304d44553259546b314d446c6d5a43356b62324e34&fich=55e6d2f3-1519-4120-8c31-a4056a9509fd.docx&Inline=true",
+    "IniNr": "398",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Estabelece medidas de proteção de crianças em ambientes digitais",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
