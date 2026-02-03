@@ -1,0 +1,165 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "56",
+    "id": "346039",
+    "titulo": "Autoriza o Governo a rever o regime do mecenato e alterar o Estatuto dos Benefícios Fiscais"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-02-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32526c4e575a6b5a4463334c5745324e5455744e446b775a433035597a51334c5459324d7a6c6b4e6a51314e57526b4d6935775a47593d&fich=de5fdd77-a655-490d-9c47-6639d6455dd2.pdf&Inline=true",
+        "anexoNome": "Pedido de conexão"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "98237",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-02-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-02-04",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos de Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=655"
+          },
+          {
+            "DataDocumento": "2026-02-23",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4f474d304e4445304e69316d4d4751774c54526d4d544d744f4463785a53316b4f4455304e4464694f5441314d6a49756347526d&fich=38c44146-f0d0-4f13-871e-d85447b90522.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-03",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório elaborado pela 12.ª CCCJD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833593246684e7a466d5a6930794d324e6a4c5451784e5441744f544d335a6931684f44517a4f4756685a546468597a6b756347526d&fich=7caa71ff-23cc-4150-937f-a8438eae7ac9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório 5.ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793834597a41335957497a4e5330314e3255774c54526c4f4459745954426b4f533034597a637a597a63355a6a6b304e4463756347526d&fich=8c07ab35-57e0-4e86-a0d9-8c73c79f9447.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8451",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública ",
+        "Numero": "8451",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "7330",
+            "motivoCessacao": null,
+            "nome": "Jorge Galveias"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "BE",
+            "id": "7040",
+            "motivoCessacao": null,
+            "nome": "Fabian Figueiredo"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-03-04",
+            "dataRemessa": "2026-03-05",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PCP"
+            ],
+            "data": "2026-03-03",
+            "descricao": "Votação referente ao relatório da 12.ª CCCJD",
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I><BR>Ausência: <I>PCP</I>",
+            "id": "170964",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "23",
+            "tipoReuniao": null,
+            "unanime": null
+          },
+          {
+            "ausencias": [
+              "IL",
+              "PCP",
+              "CDS-PP",
+              "BE"
+            ],
+            "data": "2026-03-04",
+            "descricao": "Votação referente ao relatório da 5.ª  COFAP",
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> L</I>, <I> PAN</I><BR>Ausência: <I>IL</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>",
+            "id": "170965",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "73",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-02-03",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão à 12.ª Comissão",
+    "OevId": "1704161",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
