@@ -1,15 +1,23 @@
 # Artigo 11.º
 
-### Fornecimento de produtos de apoio
+### Responsabilidade pelo custo
 
-1 - Os produtos de apoio prescritos nos hospitais, EPER, do SRS, ou nos centros de referência, são diretamente fornecidos pelos hospitais às pessoas com deficiência ou incapacidade temporária.
+1 - A responsabilidade pelos custos com a prescrição de produtos de apoio é das seguintes entidades:
 
-2 - No caso dos produtos de apoio prescritos nas unidades de saúde de ilha, o seu fornecimento depende de verificação da adequação, necessidade e impacto do produto de apoio no contexto da vida quotidiana das pessoas com deficiência ou incapacidade temporária.
+a) No âmbito da saúde, as unidades de saúde de ilha e os hospitais, EPER, do SRS;
 
-3 - Os produtos de apoio indispensáveis ao acesso e frequência de formação profissional, ou acesso, manutenção ou progressão no emprego, dependem de verificação da sua necessidade e impacto no contexto da situação laboral das pessoas com deficiência ou incapacidade temporária.
+b) No âmbito do emprego e qualificação profissional, o Fundo Regional do Emprego;
 
-4 - Os produtos de apoio indispensáveis ao acesso e frequência do sistema educativo, no âmbito da educação pré-escolar, ensino básico e secundário, dependem de verificação da sua necessidade e impacto no contexto escolar das pessoas com deficiência ou incapacidade temporária.
+c) No âmbito da educação, o fundo escolar;
 
-5 - Os produtos de apoio indispensáveis no âmbito da segurança social dependem de verificação da sua necessidade e impacto no contexto da situação social das pessoas com deficiência ou incapacidade temporária.
+d) No âmbito da segurança social, o Instituto da Segurança Social dos Açores, IPRA.
 
-6 - A verificação prevista nos n.os 2 a 5, do presente artigo, é efetuada no prazo máximo de trinta dias, por uma comissão de verificação, nomeada por despacho dos membros do Governo Regional com competência em matéria de saúde, solidariedade social, emprego e educação.
+2 - O montante das verbas destinadas ao financiamento dos produtos de apoio é fixado, anualmente, por despacho conjunto dos membros do Governo Regional competentes em matéria de finanças, segurança social, saúde, educação, emprego e formação profissional.
+
+3 - [Revogado.]
+
+4 - [Revogado.]
+
+5 - [Revogado.]
+
+6 - [Revogado.]

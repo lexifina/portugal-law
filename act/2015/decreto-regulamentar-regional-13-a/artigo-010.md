@@ -4,20 +4,20 @@
 
 # Artigo 10.º
 
-### Responsabilidade pelo custo
+### Aquisição e fornecimento de produtos de apoio
 
-1 - A responsabilidade pelos custos com a prescrição de produtos de apoio é a seguinte, de acordo com as entidades prescritoras previstas no artigo 6.º:
+1 - A responsabilidade pela aquisição e entrega ao utente dos produtos de apoio depende da validação e encaminhamento por parte da CAA aos serviços das entidades integradas no âmbito da educação, saúde, segurança social, da formação profissional e do emprego.
 
-a) Unidades de saúde de ilha, Hospitais, EPER, do SRS, os Centros de referência, a SAUDAÇOR, S. A.;
+2 - As entidades referidas no número anterior, após a receção da prescrição médica, devidamente validada, efetuam os procedimentos relativos à aquisição dos respetivos produtos de apoio.
 
-b) Agências de emprego e qualificação profissional da Direção Regional do Emprego e Qualificação Profissional, o Fundo Regional do Emprego;
+3 - As entidades referidas no n.º 1, quando disponíveis os produtos de apoio, procedem à entrega dos mesmos ao utente.
 
-c) Entidades no âmbito da educação, o fundo escolar;
+4 - Os procedimentos referidos nos números anteriores são registados na matriz informática comum.
 
-d) Entidades no âmbito da solidariedade social, o Instituto da Segurança Social dos Açores, ISSA, IPRA.
+5 - As entidades referidas no n.º 1 têm um prazo de 90 dias para entregar o produto de apoio, a partir da data de deferimento do financiamento pela CAA.
 
-2 - Quando o produto de apoio não é comparticipado pelo SRS, subsistema de saúde ou companhia seguradora de que é beneficiária a pessoa com deficiência ou com incapacidade temporária, as entidades referidas no número anterior são responsáveis pelo seu pagamento na totalidade.
+6 - O prazo referido no número anterior pode ser excecionalmente prorrogado, mediante decisão fundamentada da entidade responsável pela aquisição e comunicação à CAA, quando:
 
-3 - Quando o produto de apoio conste nas tabelas de reembolso do SRS, ou quando seja comparticipado por subsistema de saúde ou ainda quando seja coberto pela companhia seguradora de que é beneficiária a pessoa com deficiência ou com incapacidade temporária, apenas há responsabilidade pelo pagamento do valor correspondente à diferença entre o custo do produto de apoio e o valor suportado pelo SRS, subsistema ou seguradora.
+a) O produto de apoio exija customização clínica ou técnica que imponha prazo superior;
 
-4 - A eventual comparticipação do utente é fixada, de acordo com o rendimento médio anual por membro do seu agregado familiar, por despacho conjunto dos membros do Governo Regional competentes em matéria de saúde, solidariedade social, emprego e educação.
+b) Haja rutura de stock do fornecedor em mercado nacional e necessidade de importação.

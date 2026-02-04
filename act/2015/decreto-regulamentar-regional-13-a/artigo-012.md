@@ -2,6 +2,8 @@
 
 ### Reutilização
 
-1 - O beneficiário e os seus herdeiros devem restituir o produto de apoio sujeito a reutilização, nos termos do n.º 3, do artigo 9.º, do presente diploma, logo que finde o seu uso.
+1 - [...]
 
-2 - As entidades recetoras de produtos de apoio sujeitos a reutilização, bem como os procedimentos de restituição e reutilização constam de despacho conjunto dos membros do Governo Regional responsáveis pelas áreas da saúde, solidariedade social, emprego e educação.
+2 - Os procedimentos de restituição, manutenção, armazenamento e reutilização dos produtos de apoio constam de despacho conjunto dos membros do Governo Regional competentes em matéria de saúde, segurança social, educação, emprego e formação profissional.
+
+3 - Sem prejuízo do disposto no número anterior, os produtos de apoio sujeitos a reutilização são integrados no Banco Regional de Produtos de Apoio, a implementar por despacho conjunto dos membros do Governo Regional competentes em matéria de saúde, segurança social, educação, emprego e formação profissional.
