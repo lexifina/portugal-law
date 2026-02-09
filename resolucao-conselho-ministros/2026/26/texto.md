@@ -1,0 +1,27 @@
+Resolução do Conselho de Ministros n.º 26/2026
+
+O Decreto-Lei n.º 34-B/2021, de 14 de maio, aprovou o modelo transitório de gestão, operação, manutenção, modernização e ampliação do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal (rede SIRESP), ao abrigo da qual cabe à SIRESP - Gestão de Redes Digitais de Segurança e Emergência, S. A. (SIRESP, S. A.), proceder à gestão, operação e manutenção da rede SIRESP, bem como promover a contratação dos bens e serviços para tal necessários, prestando, assim, o serviço de interesse público de manutenção da rede de comunicações e emergência do Estado.
+
+Em 8 de maio de 2025, foi determinada a constituição de uma equipa de trabalho técnica e multissetorial com a missão de desenvolver um estudo técnico-estratégico para a substituição urgente do SIRESP.
+
+Face a esta situação, caberá, portanto, manter o atual modelo da SIRESP, S. A., até à integral implementação do modelo de estrutura de gestão integrada de redes de segurança e emergência do Estado.
+
+Desta forma, e como contrapartida pela prestação do serviço público, o Estado deve atribuir à SIRESP, S. A., uma compensação financeira, que reveste a forma de indemnização compensatória, destinada a compensar aquela empresa pelos encargos diretos e indiretos decorrentes do cumprimento das respetivas obrigações, a qual se encontra devidamente aprovada no Orçamento do Estado de 2026 e inscrita no orçamento da Secretaria-Geral do Ministério da Administração Interna (SGMAI).
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do artigo 3.º do Decreto-Lei n.º 167/2008, de 26 de agosto, na sua redação atual, do artigo 45.º do Decreto-Lei n.º 13-A/2025, de 10 de março, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Atribuir à SIRESP - Gestão de Redes Digitais de Segurança e Emergência, S. A. (SIRESP, S. A.), a título de indemnização compensatória pelo cumprimento das obrigações de serviço público, para o ano de 2026, até ao montante de 26 000 000,00 €, com o imposto sobre o valor acrescentado incluído à taxa legal em vigor.
+
+2 - Autorizar a SGMAI a transferir a indemnização compensatória para a SIRESP, S. A., até ao montante previsto no número anterior, a determinar pelo apuramento do cumprimento das obrigações de serviço público efetivamente asseguradas pela SIRESP, S. A.
+
+3 - Estabelecer que os encargos financeiros decorrentes da presente resolução são satisfeitos por verbas adequadas inscritas na fonte de financiamento 311 - Receitas de impostos não afetas a projetos cofinanciados do orçamento da SGMAI para o ano de 2026.
+
+4 - Estabelecer que a indemnização compensatória atribuída pressupõe a observância das condições de prestação do serviço público que a justificam.
+
+5 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 29 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947605
