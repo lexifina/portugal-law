@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=xufylJiod6iO3gxDgTq8Z%2baqTslY6pEXcj7t%2buB%2bZ6oJR9rwDWlzOCmzyEBEkbCeLshbckKnuEl2%2fslUdQrfUvcLK7sEqcnby0Xn2v2J8y%2bazJMDABTJnbj2AfRMC%2fVaE4lm9042gKGsYnOIZt8RUevFTVG%2bcFVqfbZy%2b6QfqG9j0So4wI%2bC%2bsy%2bAYlRSTTrM%2b9ApTuMh8Jqw%2fxbcOcD4fmcMIBI8rAbtj2D8MJpPgdWRv%2bYDC1cLHI4T1GRJ7z2sFsrUu8LfF2tPw%2f63Xgp8QyFwTEdUZL56Mgt%2bTTIN05bugl%2fKHziJI21ak%2fgZsPs0ZcDE7ii2ewozM6rOeO%2b96tQ%2baCq7cg5S5qGuHqY3n1aW%2bCUX0tU8ovRf%2fmIVOtvi6XnPGz69JWLsUP0Wi1MuiGEWJWf4LzjdGKWBqEuUDw%3d&fich=RequerimentosXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0c078ab59d1f1e6ee75ab185389510b4dec98030e4c29c8761b2fd448c315c80",
+  "legislatura": "XVII",
+  "id": "209022",
+  "tipo": "Pergunta",
+  "numero": "985",
+  "data_registo": "2026-02-10",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Acesso das freguesias às candidaturas do Portugal 2030",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "6870",
+        "nome": "Marina Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1517",
+        "nome": "Rui Jorge Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6884",
+        "nome": "Jorge Botelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "9097",
+        "nome": "Paulo Lopes Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "9641",
+        "nome": "Armando Mourisco"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8230",
+        "nome": "André Rijo"
+      }
+    ],
+    "DataEnvio": "2026-02-10",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2026-02-10",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro da Economia e da Coesão Territorial",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2026-03-09",
+            "docRemetida": null,
+            "entidade": "Ministro da Economia e da Coesão Territorial",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396c595467315a446b315979307a597a45784c5451334e4459744f57457a5953307a4f5745334e7a5a694e6d45314d5463756347526d&fich=ea85d95c-3c11-4746-9a3a-39a776b6a517.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2026-02-10",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544339695a6a55774e6a426d4e7930794e32566d4c545131597a597459574d314d53307a5a444a695a4446684f4446684d4751756347526d&fich=bf5060f7-27ef-45c6-ac51-3d2bd1a81a0d.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "209022",
+    "Legislatura": "XVII",
+    "Nr": "985",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
