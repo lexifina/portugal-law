@@ -1,0 +1,87 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=xufylJiod6iO3gxDgTq8Z%2baqTslY6pEXcj7t%2buB%2bZ6oJR9rwDWlzOCmzyEBEkbCeLshbckKnuEl2%2fslUdQrfUvcLK7sEqcnby0Xn2v2J8y%2bazJMDABTJnbj2AfRMC%2fVaE4lm9042gKGsYnOIZt8RUevFTVG%2bcFVqfbZy%2b6QfqG9j0So4wI%2bC%2bsy%2bAYlRSTTrM%2b9ApTuMh8Jqw%2fxbcOcD4fmcMIBI8rAbtj2D8MJpPgdWRv%2bYDC1cLHI4T1GRJ7z2sFsrUu8LfF2tPw%2f63Xgp8QyFwTEdUZL56Mgt%2bTTIN05bugl%2fKHziJI21ak%2fgZsPs0ZcDE7ii2ewozM6rOeO%2b96tQ%2baCq7cg5S5qGuHqY3n1aW%2bCUX0tU8ovRf%2fmIVOtvi6XnPGz69JWLsUP0Wi1MuiGEWJWf4LzjdGKWBqEuUDw%3d&fich=RequerimentosXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0c078ab59d1f1e6ee75ab185389510b4dec98030e4c29c8761b2fd448c315c80",
+  "legislatura": "XVII",
+  "id": "209033",
+  "tipo": "Pergunta",
+  "numero": "995",
+  "data_registo": "2026-02-10",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Adaptações razoáveis e teletrabalho por indicação clínica: cumprimento efetivo e poderes de execução",
+    "Autores": [
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8017",
+        "nome": "Felicidade Vital"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8269",
+        "nome": "Armando Grave"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "8730",
+        "nome": "Paulo Seco"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "9073",
+        "nome": "Lina Pinheiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7387",
+        "nome": "Catarina Salgueiro"
+      }
+    ],
+    "DataEnvio": "2026-02-10",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2026-02-10",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministra do Trabalho, Solidariedade e Segurança Social",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2026-03-05",
+            "docRemetida": null,
+            "entidade": "Ministra do Trabalho, Solidariedade e Segurança Social",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544339694e6d4d334e7a6331597930794e47526a4c5452694d4463744f546c6a4e7930334d324a685a574d305a545a694d3251756347526d&fich=b6c7775c-24dc-4b07-99c7-73baec4e6b3d.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2026-02-10",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a465454433831595463335a6d4e69596930314e6a417a4c545132597a637459546b314e5330344e4463334e6a4e6c595467795a6a59756347526d&fich=5a77fcbb-5603-46c7-a955-847763ea82f6.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "209033",
+    "Legislatura": "XVII",
+    "Nr": "995",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
