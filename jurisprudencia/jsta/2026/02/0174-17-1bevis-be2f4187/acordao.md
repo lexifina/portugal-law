@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2026-02-12, processo 0174/17.1BEVIS
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0174/17.1BEVIS
+
+**Data do Acordão:** 02/12/2026
+
+**Tribunal:** SECÇÃO DO CONTENCIOSO ADMINISTRATIVO
+
+**Relator:** ADRIANO CUNHA
+
+**Descritores:** PENSÃO DE APOSENTAÇÃO; CÁLCULO DA PENSÃO; REGIMES ESPECIAIS
+
+**Nº Convencional:** JSTA000P35118
+
+**Nº do Documento:** SA1202602120174/17
+
+**Recorrente:** AA
+
+**Recorrido 1:** CAIXA GERAL DE APOSENTAÇÕES
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – Por força do disposto no art. 5º da Lei nº 60/2005, de 29/12 (“Estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social no que respeita às condições de aposentação e cálculo das pensões”), na redação introduzida pelo art. 2º da Lei nº 11/2014, de 6/3 (redação em vigor a partir de 7/3/2014), o cálculo da pensão de aposentação dos subscritores da CGA inscritos até 31/8/1993 – como é o caso do aqui Autor/Recorrente – efetua-se pela soma de duas parcelas (P1 e P2): a primeira (P1) referente ao tempo de serviço até 31/12/2005; a segunda (P2) referente ao tempo de serviço posterior a 31/12/2005 - cfr., respetivamente, alíneas a) e b) do nº 1 do referido artigo 5º.
+
+II - Ou seja, para os aposentados nessas circunstâncias, o legislador de 2005 como que ficcionou o cálculo de duas pensões de aposentação, a serem somadas: uma pelo serviço prestado até 31/12/2005 (como se o beneficiário se aposentasse nessa data) – correspondente à parcela P1; outra pelo serviço prestado posteriormente a 31/12/2005, até à data da efetiva aposentação – correspondente à parcela P2.
+
+III - E, para os aposentados em tais circunstâncias, o cálculo da primeira parcela (P1 – tempo de serviço até 31/12/2005) – única questão a decidir no presente recurso de revista - tem sempre por base a “remuneração mensal relevante nos termos do Estatuto da Aposentação” (mais precisamente, 80% dessa remuneração mensal relevante).
+
+IV – Ora, embora o “Estatuto da Aposentação” determine, no seu citado art. 47º, a regra geral de fixação da “remuneração mensal relevante”, não deixa o mesmo, nos arts. 48º e segs., de conter outras regras, ditas “especiais”, de fixação de tal “remuneração mensal relevante”, como a que consta do nº 2 do seu art. 51º (epígrafe: “Regimes especiais”) – aplicável no presente caso -, que determina que relevem as remunerações auferidas nos “últimos três anos” proporcionalmente ao tempo de serviço prestado sob diferentes regimes de trabalho em que tenha havido aumento sobre a remuneração devida em regime de tempo completo ou integral.
+
+V – Nesta situação de aplicação desta regra especial constante do nº 2 do art. 51º do E.A., por remissão da alínea a) do nº 1 do art. 5º da Lei nº 60/2005, os “últimos três anos” têm como referência a data de 31/12/2005 (e não a data da efetiva aposentação do beneficiário), uma vez que está em causa o cálculo da primeira parcela (P1) relativa a uma ficcionada aposentação em 31/12/2005, pois que a Lei nº 60/2005, pretendendo operar uma convergência do regime de proteção social da função pública com o regime geral da segurança social, previu o cálculo de uma primeira parcela (P1) como se de uma primeira aposentação (em 31/12/2005) se tratasse.
