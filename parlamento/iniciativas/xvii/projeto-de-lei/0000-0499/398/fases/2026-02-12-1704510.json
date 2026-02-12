@@ -1,0 +1,115 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "398",
+    "id": "356058",
+    "titulo": "Estabelece medidas de proteção de crianças em ambientes digitais"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-02-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "98311",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-02-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Requerimento do GP do PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f546b31596d566d5a54497459324930596930304d7a55354c546c6d5a4759744d6a42685a47466d4d445130595751354c6e426b5a673d3d&fich=995befe2-cb4b-4359-9fdf-20adaf044ad9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Requerimento do GP do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d546b305a6a55794e7a51744e7a6b78597930304e7a426c4c54686a4e574d744e544e69597a4a6c4d44646d4d7a597a4c6e426b5a673d3d&fich=194f5274-791c-470e-8c5c-53bc2e07f363.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Requerimento do GP do CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a5a6b4d7a686b4f5455744e4463324e5330304e7a6c694c54686c4e5455744d6d4d354d7a4a6d5a446c6b593259794c6e426b5a673d3d&fich=76d38d95-4765-479b-8e55-2c932fd9dcf2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Requerimento do GP do L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a474d344e54553159544d744f57466d4e4330304d324a684c5746684d6a41745a4456685a446b784d47566d4e32466b4c6e426b5a673d3d&fich=dc8555a3-9af4-43ba-aa20-d5ad910ef7ad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Requerimento do GP do CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a6b7a4e6a67794d6d59744f54526a595330304e4445324c546b794d4463745a574e684d3249794d544d784e446b334c6e426b5a673d3d&fich=b936822f-94ca-4416-9207-eca3b2131497.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-04",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Requerimento do GP da IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d474a6b5957466a595459744e474d324d6930304e5745304c5749324d324d745a6a597a4f5752684d6d51335a4449334c6e426b5a673d3d&fich=0bdaaca6-4c62-45a4-b63c-f639da2d7d27.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-02-12",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1704510",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
