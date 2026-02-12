@@ -1,0 +1,135 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "412",
+    "id": "356107",
+    "titulo": "Cria a Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde"
+  },
+  "fase": "Baixa comissão para discussão",
+  "codigo_fase": "181",
+  "data_registo": "2026-02-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "181",
+    "Comissao": [
+      {
+        "AccId": "98310",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-06-18",
+            "id": "180261",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-02-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2026-04-29",
+        "DatainicioApreciacaoPublica": "2026-04-09",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-02-12",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta Pública - Contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=663"
+          },
+          {
+            "DataDocumento": "2026-02-23",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833597a497a4d44497a4f533035595745334c5451345a6a4174596a4a6a4e7930794d6a566a4d546c684f54646b595751756347526d&fich=7c230239-9aa7-48f0-b2c7-225c19a97dad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b597a4530596a41324e69307a4d5449304c5451304e544d744f544d345a53316b4e444e6c4d7a566b5a6a55324d7a6b756347526d&fich=dc14b066-3124-4453-938e-d43e35df5639.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-28",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão de trabalhadores da Unidade Local de Saúde Loures-Odivelas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5a446c6d4f54566859793033595441334c5452684d6d4d7459544d774d693168597a45354e3259305a6a426c4d5755756347526d&fich=cd9f95ac-7a07-4a2c-a302-ac197f4f0e1e.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8455",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde ",
+        "Numero": "8455",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "BE",
+            "id": "7040",
+            "motivoCessacao": null,
+            "nome": "Fabian Figueiredo"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PCP",
+              "CDS-PP",
+              "BE"
+            ],
+            "data": "2026-03-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I><BR>Ausência: <I>PCP</I>, <I> CDS-PP</I>, <I> BE</I>",
+            "id": "171084",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "79",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-02-12",
+    "EvtId": "126",
+    "Fase": "Baixa comissão para discussão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1704507",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
