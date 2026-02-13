@@ -1,0 +1,185 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "416",
+    "id": "356116",
+    "titulo": "Procede à alteração dos limites territoriais entre as freguesias de Galegos, Rans, Irivo, Guilhufe e Urrô do Município de Penafiel "
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-02-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "98317",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-02-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-02-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=693"
+          },
+          {
+            "DataDocumento": "2026-05-19",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica - PJL 416-XVII-1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e32526c4e544a6a4d4751744e44526a5a4330304e3249784c546b7a4d7a59744d6a67775a6a686a4f546c685a6a49334c6e426b5a673d3d&fich=7de52c0d-44cd-47b1-9336-280f8c99af27.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-01",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório PJL 416-XVII-1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5746684d5449324e5759745a4459344d6930304d7a45784c57497a4d5749744d5451325a474979596a51344f5455324c6e426b5a673d3d&fich=1aa1265f-d682-4311-b31b-146db2b48956.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d475a6a595745794d7a59744e5449354f4330305a546c6d4c5746694e6a51744d44566c596a4d7a4d544e6c4e6a6b794c6e426b5a673d3d&fich=0fcaa236-5298-4e9f-ab64-05eb3313e692.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Galegos em 2026-04-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5755785a44497a59544d744f4746695a4330305a5746694c5745324e6a51744e4749335a6a466b597a566d4d6a6c684c6e426b5a673d3d&fich=1e1d23a3-8abd-4eab-a664-4b7f1dc5f29a.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Rans em 2026-04-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595759344f544e6b595455744d57497a5a693030593251794c546b794d4449745a445a6d4e574a695954466b5a6d5a6a4c6e426b5a673d3d&fich=af893da5-1b3f-4cd2-9202-d6f5bba1dffc.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Rans em 2026-04-24"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a6b7a4f544e6a4e5751744d47517a4f4330304d5752684c54686a4d7a51745a5455794e474d784f5455334e7a45794c6e426b5a673d3d&fich=f9393c5d-0d38-41da-8c34-e524c1957712.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Galegos em 2026-05-14"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544e684e44597a5a5445744d54677a4e7930304d6d4a694c546c6d4d6a41744e546c68596a63304d4759315a6d55314c6e426b5a673d3d&fich=13a463e1-1837-42bb-9f20-59ab740f5fe5.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Irivo em 2026-04-30"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544e684e44597a5a5445744d54677a4e7930304d6d4a694c546c6d4d6a41744e546c68596a63304d4759315a6d55314c6e426b5a673d3d&fich=13a463e1-1837-42bb-9f20-59ab740f5fe5.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Irivo em 2026-04-30"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d444977597a59794d4441745a6a49304d793030597a4d304c5745344e5445744f474d345a545a6c597a597a4e5745334c6e426b5a673d3d&fich=020c6200-f243-4c34-a851-8c8e6ec635a7.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Guilhufe e Urrô em 2026-04-24"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d475a6a595745794d7a59744e5449354f4330305a546c6d4c5746694e6a51744d44566c596a4d7a4d544e6c4e6a6b794c6e426b5a673d3d&fich=0fcaa236-5298-4e9f-ab64-05eb3313e692.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Galegos em 2026-03-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5755785a44497a59544d744f4746695a4330305a5746694c5745324e6a51744e4749335a6a466b597a566d4d6a6c684c6e426b5a673d3d&fich=1e1d23a3-8abd-4eab-a664-4b7f1dc5f29a.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Rans em 2026-03-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595759344f544e6b595455744d57497a5a693030593251794c546b794d4449745a445a6d4e574a695954466b5a6d5a6a4c6e426b5a673d3d&fich=af893da5-1b3f-4cd2-9202-d6f5bba1dffc.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Rans em 2026-03-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a6b7a4f544e6a4e5751744d47517a4f4330304d5752684c54686a4d7a51745a5455794e474d784f5455334e7a45794c6e426b5a673d3d&fich=f9393c5d-0d38-41da-8c34-e524c1957712.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Galegos em 2026-03-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544e684e44597a5a5445744d54677a4e7930304d6d4a694c546c6d4d6a41744e546c68596a63304d4759315a6d55314c6e426b5a673d3d&fich=13a463e1-1837-42bb-9f20-59ab740f5fe5.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Irivo em 2026-03-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544e684e44597a5a5445744d54677a4e7930304d6d4a694c546c6d4d6a41744e546c68596a63304d4759315a6d55314c6e426b5a673d3d&fich=13a463e1-1837-42bb-9f20-59ab740f5fe5.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Irivo em 2026-03-26"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d444977597a59794d4441745a6a49304d793030597a4d304c5745344e5445744f474d345a545a6c597a597a4e5745334c6e426b5a673d3d&fich=020c6200-f243-4c34-a851-8c8e6ec635a7.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Guilhufe e Urrô em 2026-03-26"
+          },
+          {
+            "link": "",
+            "nome": "Assembleia de Freguesia de Guilhufe e Urrô em 2026-03-26"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "8091",
+            "motivoCessacao": null,
+            "nome": "Sónia Monteiro"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "IL",
+              "CDS-PP",
+              "JPP"
+            ],
+            "data": "2026-06-01",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> L</I><BR>Ausência: <I>IL</I>, <I> CDS-PP</I>, <I> JPP</I>",
+            "id": "171983",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "40",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-02-13",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1704540",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
