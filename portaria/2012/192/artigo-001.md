@@ -18,6 +18,10 @@ f) O Arquivo Distrital do Porto;
 
 g) A Direção de Serviços de Bibliotecas;
 
-h) A Direção de Serviços de Planeamento, Gestão e Informação.
+h) A Direção de Serviços de Planeamento, Gestão e Informação;
+
+i) O Arquivo Nacional do Som;
+
+j) O Arquivo Geral da Administração Central.
 
 2 - As unidades orgânicas referidas no número anterior são dirigidas por diretores de serviço, cargos de direção intermédia de 1.º grau.

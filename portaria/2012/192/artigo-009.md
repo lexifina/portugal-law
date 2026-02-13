@@ -22,4 +22,6 @@ h) Incentivar e apoiar a criação de novos serviços, com recurso às tecnologi
 
 i) Cooperar com outras entidades, no plano nacional e internacional, na conceção e execução de projetos e programas específicos da área, incluindo os relativos à formação e qualificação dos técnicos de bibliotecas;
 
-j) Participar em iniciativas, a nível local, regional, nacional e internacional que contribuam para a inovação no sector.
+j) Participar em iniciativas, a nível local, regional, nacional e internacional que contribuam para a inovação no sector;
+
+k) Efetuar a gestão da biblioteca e centro de documentação da Secretaria-Geral do Governo e das entidades públicas localizadas no Campus XXI.

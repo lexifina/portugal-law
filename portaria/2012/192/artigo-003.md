@@ -20,7 +20,7 @@ g) Acompanhar o comércio e exportação de património arquivístico protegido;
 
 h) Prestar serviços de consultadoria e apoio técnico no âmbito da gestão de arquivos, independentemente do formato, suporte ou idade dos documentos;
 
-i) Promover, em articulação com a Secretaria-Geral da Presidência do Conselho de Ministros, a oferta de formação nas áreas da arquivística, da preservação, da conservação e do restauro de documentos gráficos e da transferência de suportes, tendo em vista a generalização de boas práticas e gestão de arquivos;
+i) Promover, em articulação com a Secretaria-Geral do Governo, a oferta de formação nas áreas arquivísticas, da preservação, da conservação e do restauro de documentos gráficos e da transferência de suportes, tendo em vista a generalização de boas práticas e gestão de arquivos;
 
 j) Emitir parecer sobre qualidade de serviços e sistemas de arquivo;
 
