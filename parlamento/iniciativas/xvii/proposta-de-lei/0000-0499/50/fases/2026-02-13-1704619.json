@@ -1,0 +1,123 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "50",
+    "id": "335944",
+    "titulo": "Transpõe a Diretiva (UE) n.º 2024/1260, relativa à recuperação e perda de bens, procedendo à alteração ao Código penal, ao Código de Processo Penal, à Lei n.º 5/2002, de 11 de janeiro, à Lei n.º 45/2011, de 24 de junho, e à Lei n.º 62/2013, de 26 de agosto"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-02-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "98327",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-02-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-05-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA1-PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f444e6d596a637a595441744e5467325a4330304f4464694c57466b4e4455744f54417a4f5746684f5442694e7a6b354c6e426b5a673d3d&fich=83fb73a0-586d-487b-ad45-9039aa90b799.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 2 - CH -substituída",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f445668596d4d325a444d744f44646c4e6930304e6a6c694c546c684f4751744e3255354e545a6a5a44566a4d32566d4c6e426b5a673d3d&fich=85abc6d3-87e6-469b-9a8d-7e956cd5c3ef.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-01",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 2 - CH - substitui a anterior",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d52685a444a6a596a51744e5463774f4330304e54466a4c57466a59574d744d5755334e4745775a5442685a5755314c6e426b5a673d3d&fich=fdad2cb4-5708-451c-acac-1e74a0e0aee5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-02",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA3 - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a67334d7a41315a574574596a63354e4330304f4751354c5745334d4745744f474d33596a526c595451305a6a4a6a4c6e426b5a673d3d&fich=787305ea-b794-48d9-a70a-8c7b4ea44f2c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-02",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d32466a4d4459784d3259745a544d324d6930304e7a4a694c546b354d575174596a4d34596a51315957466b4f5445304c6e426b5a673d3d&fich=3ac0613f-e362-472b-991d-b38b45aad914.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-09",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e445578596a63354d4449744e7a466a4d4330304e7a4a6b4c57466b4d7a45744d3251774d324e694d324e694d6d566d4c6e426b5a673d3d&fich=451b7902-71c0-472d-ad31-3d03cb3cb2ef.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-06-09",
+            "dataRemessa": "2026-06-09",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-02-13",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1704619",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
