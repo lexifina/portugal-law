@@ -1,0 +1,9 @@
+Aviso n.º 3395/2026/2
+
+Consulta Pública sobre o Projeto de Regulamento “Atividades de Animação e de Apoio à Família e Componente de Apoio à Família”
+
+Carlos Manuel da Fonseca Ascensão, Presidente da Câmara Municipal de Celorico da Beira, faz público, nos termos do previsto na alínea b) e t) do n.º 1 do artigo 35.º do Regime Jurídico das Autarquias Locais (RJAL - aprovado em anexo à Lei n.º 75/2013, de 12 de setembro, na sua redação atual) e em cumprimento do disposto no artigo 56.º do referido diploma, e no artigo 101.º do Código do Procedimento Administrativo (Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual), que em reunião de executivo municipal de 04/02/2026 foi aprovada, proposta de projeto de Regulamento “Atividades de Animação e de Apoio à Família e Componente de Apoio à Família”, instrumento regulamentar com eficácia externa, e deliberou submeter este projeto a Consulta Pública, pelo período de 30 dias úteis a contar da publicação do presente Aviso no Diário da República 2.ª série, com vista à recolha de sugestões e à audiência de interessados no presente procedimento de elaboração deste regulamento. As pessoas, devidamente identificadas, que pretendam apresentar as suas sugestões nos serviços do Atendimento Municipal de Celorico da Beira, no edifício dos Paços do Concelho; por via postal registada com aviso de receção para a seguinte morada: Câmara Municipal de Celorico da Beira, Rua Sacadura Cabral N.º 39, 6360-350 Celorico da Beira; ou por correio eletrónico para o endereço (geral@cm-celoricodabeira.pt). Para constar, passou-se o presente aviso, que vai ser afixado nos locais de estilo do Município, sendo igualmente objeto de publicação no Diário da República 2.ª série (cf. n.º 1 do artigo 101.º do CPA) e na página institucional do Município de Celorico da Beira na internet.
+
+5 de fevereiro de 2026. - O Presidente da Câmara Municipal, Carlos Manuel da Fonseca Ascensão.
+
+319961565
