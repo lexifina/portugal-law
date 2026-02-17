@@ -1,0 +1,124 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34350",
+  "numero": "112",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2026-02-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-05-13",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "L",
+                "PCP",
+                "CDS-PP",
+                "BE"
+              ],
+              "data": "2026-05-13",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>",
+              "id": "172392",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "39",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2026-03-18",
+        "DataArquivo": "2026-05-13",
+        "DataBaixaComissao": "2026-02-26",
+        "DataEnvioPAR": "2026-05-13",
+        "DataReaberta": "2026-03-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2026-03-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a59573876596d466a5a6a4e6d4f474d744e47466a5a5330304d324a6d4c574a68596d5574596a67774e3249775a54526a5a6a5a6b4c6e426b5a673d3d&fich=bacf3f8c-4ace-43bf-babe-b807b0e4cf6d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-05-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738765a574a69596d45314e5451744e6a55324e5330304e3249304c546b794e446b744d47526959324533595751335a5459324c6e426b5a673d3d&fich=ebbba554-6565-47b4-9249-0dbca7ad7e66.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-05-13",
+            "dataNomeacao": "2026-03-18",
+            "gp": "PSD",
+            "id": "8558",
+            "motivoCessacao": "Apresentação e aprovação do relatório final",
+            "nome": "Isabel Fernandes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2026-02-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4e7a55324d544d795a53316a59546b334c5451334e4451744f5467795a6930324f574a6d596a4a6a5a4755794e6a67756347526d&fich=f756132e-ca97-4744-982f-69bfb2cde268.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34350",
+    "PetAssunto": "Solicitam um debate na Assembleia da República sobre os Direitos das Pessoas com Deficiência Auditiva (com perda ligeira a profunda) em Portugal",
+    "PetDataEntrada": "2026-02-17",
+    "PeticoesAssociadas": null,
+    "PetId": "34350",
+    "PetLeg": "XVII",
+    "PetNr": "112",
+    "PetNrAssinaturas": "126",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
