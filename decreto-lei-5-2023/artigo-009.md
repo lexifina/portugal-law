@@ -26,7 +26,7 @@ i) Aprovar, sob proposta do órgão de coordenação técnica e ouvida a rede de
 
 j) Homologar, após parecer do órgão de coordenação técnica, as propostas de reprogramação aprovadas pelo comité de acompanhamento, sob proposta das autoridades de gestão;
 
-k) Aprovar o plano anual de avisos para apresentação de candidaturas (plano anual de avisos), sob proposta das autoridades de gestão, ouvidas, exceto no que se refere ao Programa Mar, quando aplicável, as redes de articulação funcional previstas nas alíneas e) a g) do n.º 2 do artigo 30.º e após parecer e consolidação pelo órgão de coordenação técnica;
+k) Aprovar o plano anual de avisos para apresentação de candidaturas (plano anual de avisos), sob proposta das autoridades de gestão, exceto no que se refere ao Programa Mar, quando aplicável, após parecer e consolidação pelo órgão de coordenação técnica;
 
 l) Tomar conhecimento do acompanhamento técnico das condições habilitadoras, zelando pelo respetivo cumprimento ao longo do período de programação;
 
@@ -44,7 +44,7 @@ b) Homologar a lista de organismos intermédios e os termos em que devem ser exe
 
 c) Aprovar, designadamente sob proposta das autoridades de gestão e após parecer do órgão de coordenação técnica, mecanismos que permitam ultrapassar, em termos de aprovações de apoios, a dotação orçamental afeta aos programas, com o objetivo de compensar quebras dos valores aprovados;
 
-d) Homologar as metodologias de opções de custos simplificados, definidas ao abrigo das alíneas a), c) e d) do n.º 3 do artigo 53.º do Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho de 2021, propostas pelas autoridades de gestão, após parecer do órgão de coordenação técnica e avaliação ex ante da autoridade de auditoria;
+d) [Revogada.]
 
 e) Aprovar sistemas de financiamento específicos, designadamente associados a opções de custos simplificados ou a percentagens de adiantamento, nos termos previstos na regulamentação geral de aplicação dos programas, propostos pelas autoridades de gestão, após parecer do órgão de coordenação técnica;
 

@@ -12,6 +12,6 @@
 
 5 - Aplica-se à autoridade de gestão do Programa FAMI, com as devidas adaptações, o disposto no artigo 15.º, nos n.os 1 e 3 do artigo 16.º e nos artigos 17.º e 19.º, sem prejuízo do regime previsto no Regulamento (UE) 2021/1147 do Parlamento Europeu e do Conselho, de 7 de julho de 2021.
 
-6 - Dos atos praticados pela autoridade de gestão do Programa FAMI cabe recurso administrativo facultativo para membro do Governo responsável pela área das migrações, respondendo a respetiva área governativa em juízo, em caso de impugnação judicial.
+6 - Dos atos praticados pela autoridade de gestão do Programa FAMI não cabe recurso administrativo.
 
 7 - Para a promoção da boa governação entre os fundos do Programa FAMI, o Fundo para a Segurança Interna (FSI) e o Instrumento de Apoio Financeiro à Gestão das Fronteiras e à Política de Vistos (IGFV), as respetivas autoridades de gestão asseguram a necessária articulação funcional.

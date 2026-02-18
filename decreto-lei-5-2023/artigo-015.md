@@ -4,7 +4,7 @@
 
 1 - Compete às autoridades de gestão dos programas temáticos, regionais do continente e de assistência técnica, sem prejuízo das competências definidas nos regulamentos europeus, designadamente no Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho de 2021:
 
-a) Elaborar o respetivo plano anual de avisos e proceder, quando aplicável, à respetiva articulação funcional, exceto no que se refere ao Programa Mar, no âmbito das redes previstas nas alíneas e) a g) do n.º 2 do artigo 30.º, para subsequente emissão de parecer e consolidação pelo órgão de coordenação técnica e submissão a aprovação pela CIC Portugal 2030 plenária;
+a) Elaborar o respetivo plano anual de avisos, exceto no que se refere ao Programa Mar, para subsequente emissão de parecer e consolidação pelo órgão de coordenação técnica e submissão a aprovação pela CIC Portugal 2030 plenária;
 
 b) Elaborar e propor avisos para apresentação de candidaturas que não se encontrem contemplados no plano anual referido na alínea a), para efeito de submissão à CIC Portugal 2030 permanente, com cinco dias úteis de antecedência face à respetiva publicação, sob proposta do membro do Governo responsável pela coordenação política específica e após parecer do órgão de coordenação técnica;
 
@@ -30,7 +30,7 @@ h) Verificar a capacidade administrativa, financeira e operacional dos benefici�
 
 i) Decidir sobre a aprovação das candidaturas a financiamento pelo programa, aprovar as candidaturas que, reunindo condições de elegibilidade, tenham mérito adequado para receber apoio financeiro, e decidir sobre a alteração, anulação ou revogação dos apoios, com fundamento em incumprimento das normas aplicáveis ou decorrente de desistência do beneficiário, ou sobre a redução dos apoios, e sobre a suspensão de pagamentos, bem como formalizar estas decisões, de forma fundamentada e após audição dos beneficiários;
 
-j) Propor metodologias de opções de custos simplificados ao órgão de coordenação técnica, para efeitos de emissão de parecer e envio à autoridade de auditoria, e subsequente envio à CIC Portugal 2030 permanente;
+j) Propor metodologias de opções de custos simplificados ao órgão de coordenação técnica, para efeitos de análise técnica e envio à autoridade de auditoria;
 
 k) Propor, ao órgão de coordenação técnica, para efeitos de emissão de parecer e subsequente envio à CIC Portugal 2030 permanente, sistemas de financiamento específicos, designadamente associados a opções de custos simplificados, ou a percentagens de adiantamento, nos termos previstos na regulamentação geral de aplicação dos programas;
 
@@ -42,7 +42,7 @@ n) Supervisionar o exercício das funções de gestão, sendo responsável pelo 
 
 o) Assegurar a capacitação dos organismos intermédios por forma a otimizar o exercício das funções que lhe sejam atribuídas, nomeadamente disponibilizando toda a informação técnica relevante;
 
-p) Emitir e remeter ao órgão pagador ordens de pagamento;
+p) Decidir sobre os pedidos de pagamento, emitir e remeter ao órgão pagador ordens de pagamento;
 
 q) Remeter ao órgão pagador todos os elementos que sustentam as decisões de redução, anulação ou revogação, para efeitos de recuperação dos montantes indevidamente pagos, por compensação com créditos apurados no âmbito dos fundos europeus, sempre que possível, ou cobrança coerciva, a promover por aquele órgão;
 
@@ -110,4 +110,6 @@ rr) Desenvolver e implementar, em articulação com o organismo de coordenação
 
 6 - O estabelecido na alínea b) do n.º 1 não prejudica, relativamente ao Programa Mar, a abertura pela autoridade de gestão de avisos para apresentação de candidaturas quando se verifiquem situações de catástrofe, calamidade, ocorrências climatéricas ou ambientais extremas e adversas, ou ainda factos de natureza excecional e imprevisível, não imputáveis às entidades com responsabilidade na gestão do programa, atendíveis face às exigências de boa gestão do mesmo.
 
-7 - Dos atos praticados pela autoridade de gestão cabe recurso administrativo facultativo para o membro do Governo responsável pela coordenação política específica do respetivo programa, respondendo a respetiva área governativa em juízo, em caso de impugnação judicial.
+7 - Dos atos praticados pela autoridade de gestão não cabe recurso administrativo.
+
+8 - Pode ser delegada em qualquer dos membros das comissões diretivas dos programas temáticos, regionais do continente e de assistência técnica, a competência para decidir a alteração dos apoios, prevista na alínea i) do n.º 1, desde que tal alteração não implique um aumento ou reforço do compromisso financeiro do Programa.
