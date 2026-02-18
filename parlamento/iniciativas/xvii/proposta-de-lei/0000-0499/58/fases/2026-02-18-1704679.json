@@ -1,0 +1,131 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "58",
+    "id": "356117",
+    "titulo": "Autoriza o Governo a alterar o Código das Expropriações, aprovado pela Lei n.º 168/99, de 18 de setembro"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-02-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3255325a444d324e544e6a4c5749304e6a49744e4449344f5331694d54466c4c5459304e47466c4e5441304f444e6c4d4335775a47593d&fich=e6d3653c-b462-4289-b11e-644ae50483e0.pdf&Inline=true",
+        "anexoNome": "Ofício de redistribuição"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "98328",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-02-18",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-02-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=694"
+          },
+          {
+            "DataDocumento": "2026-03-24",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e44526b4e7a597a5a4751744d6a5934595330304e4446684c5745325a6a45744e6a41304d324e684d324e694e4455784c6e426b5a673d3d&fich=44d763dd-268a-441a-a6f1-6043ca3cb451.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4755334f4749334e6a637459574e6d4e6930304e6d55354c574a6c4e4445744e7a42695a6d55774f47557a4e32497a4c6e426b5a673d3d&fich=4e78b767-acf6-46e9-be41-70bfe08e37b3.pdf&Inline=true",
+            "nome": "Associação Nacional das Assembleias Municipais (ANAM) em 2026-03-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4451344e6a45794e4467744d47593259533030596a41794c546b324f545174597a63354d5441314e5746684e7a526d4c6e426b5a673d3d&fich=44861248-0f6a-4b02-9694-c791055aa74f.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-03-16"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5745325a6d59775a5451744f54517859533030595755784c546c6a4d324d744e7a49324e444d794d6a4d794f444e684c6e426b5a673d3d&fich=5a6ff0e4-941a-4ae1-9c3c-72643223283a.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-03-13"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4755334f4749334e6a637459574e6d4e6930304e6d55354c574a6c4e4445744e7a42695a6d55774f47557a4e32497a4c6e426b5a673d3d&fich=4e78b767-acf6-46e9-be41-70bfe08e37b3.pdf&Inline=true",
+            "nome": "Associação Nacional das Assembleias Municipais (ANAM) em 2026-03-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4451344e6a45794e4467744d47593259533030596a41794c546b324f545174597a63354d5441314e5746684e7a526d4c6e426b5a673d3d&fich=44861248-0f6a-4b02-9694-c791055aa74f.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-03-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5745325a6d59775a5451744f54517859533030595755784c546c6a4d324d744e7a49324e444d794d6a4d794f444e684c6e426b5a673d3d&fich=5a6ff0e4-941a-4ae1-9c3c-72643223283a.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-03-02"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1517",
+            "motivoCessacao": null,
+            "nome": "Rui Jorge Santos"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-02-18",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1704679",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
