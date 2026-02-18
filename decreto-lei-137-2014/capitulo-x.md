@@ -1,0 +1,3 @@
+# Capítulo X
+
+Articulação funcional
