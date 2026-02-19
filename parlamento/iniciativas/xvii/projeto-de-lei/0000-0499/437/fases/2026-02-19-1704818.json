@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "437",
+    "id": "356179",
+    "titulo": "Cria a falta justificada e garante a proteção social de trabalhadores cujo posto de trabalho esteja abrangido por declaração de calamidade"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-02-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "98352",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-02-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2026-03-28",
+        "DatainicioApreciacaoPublica": "2026-02-26",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-06-01",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4463334d5455354d544d744d7a46684f5330305a4451784c574a684e6a6b744e6a4a6a5a474e695a445a6b4f474e6a4c6e426b5a673d3d&fich=87715913-31a9-4d41-ba69-62cdcbd6d8cc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-02-19",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta pública - recolha de contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=682"
+          },
+          {
+            "DataDocumento": "2026-03-17",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Apreciação Pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVIILeg/10CTSSI/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=5545704d4947347577726f674e444d334c56685753556b744d533743716941744945784a566c4a46&Path=3ed8HHXs8vVwTiIxkqKhYzeT3pKzxob9hK4AvPWpscsnTI4GtQRmJRRJ5oJfU5DR9V%2f0XTiXYYg%2bVrhHKdFtQE3QgBLX85ENLJyG01RTtdHPA8jSw4Ud5XPcKfJTqP8R5btKviS2ptsN4ZbgduCcSFGvwzqo5u97tB%2f%2bFf%2bU0RxOlmGCmTfnFAptQfILHpZvwP2V%2fPojo4CtIauxIPcoLPr3%2fzM9Yt%2fRCNqU6PDXXa7s4nKV%2bVbfCmLdjCd6olqLpQg%2furq6l0j6lpMUE3RKbd1QMMHHCKQneCZZCF7G7rMfAZgZKZRQ3siYXkt1VyVOouLbYkKvAJCrSPzxaUq1AwvVCkI8aC68S1ydV4VvMeG7CywY3roKqoEgjtLEIvw3WpS0lewt5v2iN0kQWuyylOBcWg5Pi6o6HBgUjZEjMINcm5yLq8XCLIo9e%2fPa%2bSp0fN2m4sUfKgS6g8L1IczfhA%3d%3d"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "8456",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "5749",
+            "motivoCessacao": null,
+            "nome": "Sandra Pereira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-02-19",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1704818",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
