@@ -1,0 +1,48 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "408",
+    "id": "356088",
+    "titulo": "Aproxima o regime de mobilidade por doença à sua natureza de proteção e equipara a prioridade dos docentes cuidadores de filhos com deficiência profunda, procedendo à alteração do Decreto Lei n.º 41/2022, de 17 de junho (na redação do Decreto Lei n.º 43/2025, de 15 de abril)"
+  },
+  "fase": "Não admissão",
+  "codigo_fase": "30",
+  "data_registo": "2026-02-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a59324d474a6d4e7a4d354c5451334e324d744e44426d4f5330355a5759354c545131593255334e4456694d7a517a4e7935775a47593d&fich=660bf739-477c-40f9-9ef9-45ce745b3437.pdf&Inline=true",
+        "anexoNome": "Despacho de não admissão"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a566d4e6a6c6a4d5745324c544e6d4d5467744e4745784d6930344f475a6b4c57526b4e7a63355a6a55314e6a59344e53356b62324e34&fich=5f69c1a6-3f18-4a12-88fd-dd779f556685.docx&Inline=true",
+        "anexoNome": "Nota de admissibilidade"
+      }
+    ],
+    "CodigoFase": "30",
+    "Comissao": null,
+    "DataFase": "2026-02-19",
+    "EvtId": "160",
+    "Fase": "Não admissão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1704901",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
