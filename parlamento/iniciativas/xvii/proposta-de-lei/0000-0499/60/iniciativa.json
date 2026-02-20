@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Proposta de Lei",
+  "numero": "60",
+  "id": "356212",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-02-20",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324d314e6a526d4e6a4e694c5452694d3251744e4459784e6931684d444d344c57466c4e32566c4d575930597a59354e7935775a47593d&fich=c564f63b-4b3d-4616-a038-ae7ee1f4c697.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4978597a67304d5463794c575130595751744e446c6d59793034597a55324c574e6c4e324e6959546b304d475a694e4335775a47593d&fich=21c84172-d4ad-49fc-8c56-ce7cba940fb4.pdf&Inline=true",
+        "anexoNome": "Texto - versão assinada"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3259315a6a4a69597a686d4c57557a4e5467744e4749785a6931694d3251774c5455774f544e6a4d444a6b4d474d354d7935775a47593d&fich=f5f2bc8f-e358-4b1f-b3d0-5093c02d0c93.pdf&Inline=true",
+        "anexoNome": "Parecer CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a6b345a6a6b334e7a45784c544a6d595455744e444a6c4e4330344e6a59354c5441794e6a5a6d596a6b335957466b4e4335775a47593d&fich=98f97711-2fa5-42e4-8669-0266fb97aad4.pdf&Inline=true",
+        "anexoNome": "Parecer LPC_PGR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324e6a4f5746694d4463324c5451795a6a45744e4459784d4330354e5451344c544e695a6a426d4f544e6d4e475131595335775a47593d&fich=cc9ab076-42f1-4610-9548-3bf0f93f4d5a.pdf&Inline=true",
+        "anexoNome": "Sumula CCOPC"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356212",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a686a5a6d566c596a4d314c544d794d7a55744e4452694d7931694d7a6b304c5468685a6a45784d6d5130596a67345953356b62324e34&fich=8cfeeb35-3235-44b3-b394-8af112d4b88a.docx&Inline=true",
+    "IniNr": "60",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Define os objetivos, as prioridades e orientações da política criminal para o biénio de 2025-2027, em cumprimento da Lei n.º 17/2006, de 23 de maio, que aprova a Lei-Quadro da Política Criminal",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
