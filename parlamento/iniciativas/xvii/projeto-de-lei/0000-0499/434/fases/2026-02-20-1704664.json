@@ -1,0 +1,842 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "434",
+    "id": "356163",
+    "titulo": "Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2026-02-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "71811",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2026-02-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315443",
+        "leg": "XVII",
+        "nr": "154",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56819",
+            "obs": null,
+            "pag": [
+              "30-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-21",
+            "pubLeg": "XVII",
+            "pubNr": "58",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/30?pgs=30-44&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-02-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8689",
+                "nome": "Nuno Jorge Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/31?pgs=31-33&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8689",
+                "nome": "Nuno Jorge Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7331",
+                "nome": "Rui Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/38?pgs=38-40&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8888",
+                "nome": "Pedro Vaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/41?pgs=41-43&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/43?pgs=43&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8778",
+                "nome": "Nuno Simões de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:01",
+            "horaTermo": "13:34",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/58/54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-21",
+                "pubLeg": "XVII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime jurídico de utilização de armas de fogo e explosivos pelas forças de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro; Altera o regime jurídico de utilização de armas de fogo e explosivos pelas forças e serviços de segurança, constante do Decreto-Lei n.º 457/99, de 5 de novembro.\n\n",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1704664",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024002",
+        "obs": null,
+        "pag": [
+          "30-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-02-21",
+        "pubLeg": "XVII",
+        "pubNr": "58",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/058/2026-02-21/30?pgs=30-44&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
