@@ -6,7 +6,7 @@
 
 2 - Quando o elenco estiver organizado em subelencos por áreas de estudo, a fixação das provas para cada par estabelecimento/curso é feita de entre as provas que constituem o subelenco em que se integra o curso.
 
-3 - O número de provas exigidas para o ingresso em cada par instituição/ciclo de estudos não pode ser inferior a dois e superior a três.
+3 - O número de provas exigidas para o ingresso em cada par instituição/ciclo de estudos não pode ser inferior a um nem superior a três.
 
 4 - O número de elencos alternativos de provas fixado para cada par instituição/ciclo de estudos não pode ser superior a seis.
 
