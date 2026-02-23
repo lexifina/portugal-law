@@ -1,0 +1,189 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34354",
+  "numero": "116",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2026-02-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2026-06-25",
+            "entidades": null,
+            "id": "180302",
+            "tipo": null,
+            "titulo": "Audição em 2026-06-25 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2026-04-22",
+            "dataResposta": "2026-05-12",
+            "entidades": [
+              "Ordem dos Médicos Veterinários"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2026-04-22",
+            "dataResposta": null,
+            "entidades": [
+              "SNMV - Sindicato Nacional dos Médicos Veterinários"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2026-04-22",
+            "dataResposta": "2026-04-30",
+            "entidades": [
+              "FEDRA - Federação de Defesa e Resgate Animal"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2026-04-22",
+            "dataResposta": "2026-05-11",
+            "entidades": [
+              "Associação Portuguesa de Jovens Médicos Veterinários (APJMV)"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2026-03-18",
+        "DataArquivo": "2026-07-14",
+        "DataBaixaComissao": "2026-02-27",
+        "DataEnvioPAR": "2026-07-15",
+        "DataReaberta": "2026-03-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2026-03-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764e7a426d5a6a526d596a63744e7a4d354e6930304f574d334c57466c4f446b744f574a6b4e5745304d3245344f57466c4c6e426b5a673d3d&fich=70ff4fb7-7396-49c7-ae89-9bd5a43a89ae.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-07-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738765a5451325a6a41354f4441744e6a6c684e793030595442684c546b304d6d4d745a6d4d355954497a5a6a56684e5755784c6e426b5a673d3d&fich=e46f0980-69a7-4a0a-942c-fc9a23f5a5e1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2026-04-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738765a474d7a59546b304d3255744d7a56685a6930304f546c6d4c546c695a4759744f5441795a6a55314f5751344f4459794c6e426b5a673d3d&fich=dc3a943e-35af-499f-9bdf-902f559d8862.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738765a6a526a4d6d5579596a67744d7a6b335a6930305a5759794c574a6c4f446b744e6d59304e444d334e47566c4f4755774c6e426b5a673d3d&fich=f4c2e2b8-397f-4ef2-be89-6f44374ee8e0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738765a4751774e6a597959546b744e6d5a6c4f4330304e7a686d4c57466a4e6a45745a4445775a6a4a6a4e6d51335a6a45324c6e426b5a673d3d&fich=dd0662a9-6fe8-478f-ac61-d10f2c6d7f16.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8453",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Agricultura e Pescas ",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2026-03-18",
+            "gp": "PSD",
+            "id": "9060",
+            "motivoCessacao": null,
+            "nome": "Firmino Ferreira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2026-02-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939695a6a566a5a6d4d79595330324d7a51344c5451314d474d74595449304e7930345a544a6c4e5456684d325a6a596d45756347526d&fich=bf5cfc2a-6348-450c-a247-8e2e55a3fcba.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34354",
+    "PetAssunto": "Pela limitação de Autarquias aderentes a Centros Intermunicipais de Recolha de Animais Errantes.  Pela redução do número de Autarquias afetas ao Centro Intermunicipal de Recolha de Animais Errantes de Proença-a-Nova.",
+    "PetDataEntrada": "2026-02-23",
+    "PeticoesAssociadas": null,
+    "PetId": "34354",
+    "PetLeg": "XVII",
+    "PetNr": "116",
+    "PetNrAssinaturas": "3621",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
