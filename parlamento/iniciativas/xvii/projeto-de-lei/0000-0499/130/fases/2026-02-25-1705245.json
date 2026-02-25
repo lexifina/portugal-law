@@ -1,0 +1,193 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "130",
+    "id": "315381",
+    "titulo": "Prevê a criação um Plano Nacional de busca, salvamento e socorro animal integrado na resposta a catástrofes, bem como de equipas e infraestruturas para a sua operacionalização no âmbito da proteção civil"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2026-02-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "98429",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-02-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-04-10",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Documento anexo aos contributos da FEDRA ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833597a417a59544d774f43316b4e4755774c54526859544d744f4751344d4330355a6d59314d6d55314f545534596a4d756347526d&fich=7c03a308-d4e0-4aa3-8d80-9ff52e5958b3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-13",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Documento anexo aos contributos LBP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d57566a5a5755344d4330334e4759314c5451325a57457459545a694d43316b59544d784e574e6c4d546b32596d4d756347526d&fich=31ecee80-74f5-46ea-a6b0-da315ce196bc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-27",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do DURP do JPP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d545579596a63774d6930794e574a694c5451334e7a5574595451354d53316d4f5459355a574e694d324a6d597a45756347526d&fich=c152b702-25bb-4775-a491-f969ecb3bfc1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-27",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de votação - com votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793969595745774e32557a4d69307a5a6a55774c54517a4e4467744f4459774e4330354e5467355a6d526c4e4745354e324d756347526d&fich=baa07e32-3f50-4348-8604-9589fde4a97c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-27",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Relatório de discussão e votação  doTexto de Substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a596a6c6d5a6d5a685a5330324e3245314c5451795a6d557459544e68597930314f5759775a6a4e685a6a6b7a4d7a6b756347526d&fich=cb9fffae-67a5-42fe-a3ac-59f0f3af9339.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-27",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4f475935597a41314d6930344f5751314c545130596a55744f574a6a4f4330794f4759345a5749324d5451314d7a55756347526d&fich=e8f9c052-89d5-44b5-9bc8-28f8eb614535.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8453",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Agricultura e Pescas ",
+        "Numero": "8453",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354f546b7a5a474d35597931694d4463794c54517a59546374596a45784f4330304d6a466b5a4751344f474a694e7a49756347526d&fich=9993dc9c-b072-43a7-b118-421ddd88bb72.pdf&Inline=true",
+            "nome": "SOS Animal em 2026-03-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e6d55315a474d324e43307959544d794c54517a595759744f4456684d4330345a474a6a4d546334597a5530595745756347526d&fich=46e5dc64-2a32-43af-85a0-8dbc178c54aa.pdf&Inline=true",
+            "nome": "ANEPC - Autoridade Nacional de Emergência e Proteção Civil em 2026-04-14"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383459324d334d7a41325a69307a4d5467354c545133596d457459574e6c4e6930315a6d4e6d4f445a695a474d345a5459756347526d&fich=8cc7306f-3189-47ba-ace6-5fcf86bdc8e6.pdf&Inline=true",
+            "nome": "Programa de Defesa Animal da PSP em 2026-04-14"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793878597a6c6d4e6a63794d53316d4d4755314c54517a4d3259744f446b334e69316d4d7a59784f575a6b4d5746695a6a6b756347526d&fich=1c9f6721-f0e5-433f-8976-f3619fd1abf9.pdf&Inline=true",
+            "nome": "Associação Portuguesa de Busca e Salvamento em 2026-04-01"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793831596a59355a6d51345a4331684d7a49794c5451334d6a4d74596d49334d5330774d7a55325a47566c5a5467784d5467756347526d&fich=5b69fd8d-a322-4723-bb71-0356deee8118.pdf&Inline=true",
+            "nome": "FEDRA - Federação de Defesa e Resgate Animal em 2026-04-09"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f544d314f5441324e79316d4d7a59794c5451355a4751744f5455344e5330794d4746694d47566c4e574d304d7a59756347526d&fich=09359067-f362-49dd-9585-20ab0ee5c436.pdf&Inline=true",
+            "nome": "LBP - Liga dos Bombeiros Portugueses em 2026-04-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a6a51324d6a5269595330344d54426a4c54517a596d5574596d45795953316b5a444a6a5a44517a4e544d324e6a41756347526d&fich=bf4624ba-810c-43be-ba2a-dd2cd4353660.pdf&Inline=true",
+            "nome": "Provedor do Animal de Lisboa em 2026-03-26"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354f546b7a5a474d35597931694d4463794c54517a59546374596a45784f4330304d6a466b5a4751344f474a694e7a49756347526d&fich=9993dc9c-b072-43a7-b118-421ddd88bb72.pdf&Inline=true",
+            "nome": "SOS Animal em 2026-03-20"
+          },
+          {
+            "link": "",
+            "nome": "Provedoria do Animal em 2026-03-20"
+          },
+          {
+            "link": "",
+            "nome": "Liga Portuguesa dos Direitos do Animal - LPDA em 2026-03-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e6d55315a474d324e43307959544d794c54517a595759744f4456684d4330345a474a6a4d546334597a5530595745756347526d&fich=46e5dc64-2a32-43af-85a0-8dbc178c54aa.pdf&Inline=true",
+            "nome": "ANEPC - Autoridade Nacional de Emergência e Proteção Civil em 2026-03-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383459324d334d7a41325a69307a4d5467354c545133596d457459574e6c4e6930315a6d4e6d4f445a695a474d345a5459756347526d&fich=8cc7306f-3189-47ba-ace6-5fcf86bdc8e6.pdf&Inline=true",
+            "nome": "Programa de Defesa Animal da PSP em 2026-03-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793878597a6c6d4e6a63794d53316d4d4755314c54517a4d3259744f446b334e69316d4d7a59784f575a6b4d5746695a6a6b756347526d&fich=1c9f6721-f0e5-433f-8976-f3619fd1abf9.pdf&Inline=true",
+            "nome": "Associação Portuguesa de Busca e Salvamento em 2026-03-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793831596a59355a6d51345a4331684d7a49794c5451334d6a4d74596d49334d5330774d7a55325a47566c5a5467784d5467756347526d&fich=5b69fd8d-a322-4723-bb71-0356deee8118.pdf&Inline=true",
+            "nome": "FEDRA - Federação de Defesa e Resgate Animal em 2026-03-20"
+          },
+          {
+            "link": "",
+            "nome": "Coletivo Animal em 2026-03-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f544d314f5441324e79316d4d7a59794c5451355a4751744f5455344e5330794d4746694d47566c4e574d304d7a59756347526d&fich=09359067-f362-49dd-9585-20ab0ee5c436.pdf&Inline=true",
+            "nome": "LBP - Liga dos Bombeiros Portugueses em 2026-03-20"
+          },
+          {
+            "link": "",
+            "nome": "Provedor do Animal de Almada em 2026-03-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a6a51324d6a5269595330344d54426a4c54517a596d5574596d45795953316b5a444a6a5a44517a4e544d324e6a41756347526d&fich=bf4624ba-810c-43be-ba2a-dd2cd4353660.pdf&Inline=true",
+            "nome": "Provedor do Animal de Lisboa em 2026-03-20"
+          },
+          {
+            "link": "",
+            "nome": "GNR - Serviço de Proteção da Natureza e do Ambiente (SEPNA) em 2026-03-20"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-02-25",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1705245",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
