@@ -1,0 +1,3637 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "585",
+    "id": "356145",
+    "titulo": "Pelo reforço dos Cuidados Paliativos Pediátricos"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2026-02-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "71893",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2026-02-26",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "356139",
+        "leg": "XVII",
+        "nr": "428",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "356148",
+        "leg": "XVII",
+        "nr": "431",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos "
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356064",
+        "leg": "XVII",
+        "nr": "539",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda o reforço da rede de cuidados paliativos pediátricos"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356071",
+        "leg": "XVII",
+        "nr": "546",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356108",
+        "leg": "XVII",
+        "nr": "569",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356154",
+        "leg": "XVII",
+        "nr": "591",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde "
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356160",
+        "leg": "XVII",
+        "nr": "597",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde "
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356161",
+        "leg": "XVII",
+        "nr": "598",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356165",
+        "leg": "XVII",
+        "nr": "600",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356166",
+        "leg": "XVII",
+        "nr": "601",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356169",
+        "leg": "XVII",
+        "nr": "604",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56828",
+            "obs": null,
+            "pag": [
+              "62-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Reforço da resposta em cuidados paliativos pediátricos"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-02-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6884",
+                "nome": "Jorge Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/64?pgs=64&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/64?pgs=64&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/65?pgs=65&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8091",
+                "nome": "Sónia Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481457",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/77"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/78"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481459",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6962",
+                "nome": "Susana Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481460",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "9107",
+                "nome": "Sofia Machado Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/80"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481461",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6962",
+                "nome": "Susana Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481462",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/70?pgs=70&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481463",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481464",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/71?pgs=71&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4330",
+                "nome": "Ana Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481465",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7890",
+                "nome": "Cristina Vieira Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481466",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481467",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/73?pgs=73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7356",
+                "nome": "Isabel Mendes Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481468",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481469",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/74?pgs=74&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o reforço da rede de cuidados paliativos pediátricos; Recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa; Reforça os direitos dos jovens na transição dos serviços pediátricos para os serviços para adultos quando perfazem dezoito anos de idade, alterando a Lei de Bases dos Cuidados Paliativos e a Lei n.º 15/2014, de 21 de março; Garante que são remuneradas as faltas justificadas para assistência a familiares em cuidados paliativos; Recomenda ao Governo o alargamento e reforço da rede de cuidados paliativos pediátricos; Pelo reforço dos Cuidados Paliativos Pediátricos; Recomenda ao Governo o reforço da formação em cuidados paliativos dos profissionais de saúde; Reforço dos cuidados paliativos pediátricos no Serviço Nacional Saúde; Atualização de valores da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos; Recomenda ao Governo a valorização dos Cuidados Paliativos Comunitários; Reforço da Rede Nacional de Cuidados Paliativos, assegurando uma resposta integrada ao longo do ciclo de vida; Reforço da resposta em cuidados paliativos pediátricos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1705209",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024088",
+        "obs": null,
+        "pag": [
+          "62-74"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-02-27",
+        "pubLeg": "XVII",
+        "pubNr": "60",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/62?pgs=62-74&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
