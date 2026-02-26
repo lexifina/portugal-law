@@ -1,0 +1,1660 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "430",
+    "id": "356147",
+    "titulo": "Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2026-02-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "71903",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2026-02-26",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "346040",
+        "leg": "XVII",
+        "nr": "395",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "356140",
+        "leg": "XVII",
+        "nr": "429",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "346041",
+        "leg": "XVII",
+        "nr": "517",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356062",
+        "leg": "XVII",
+        "nr": "537",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde \n"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356155",
+        "leg": "XVII",
+        "nr": "592",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356164",
+        "leg": "XVII",
+        "nr": "599",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56829",
+            "obs": null,
+            "pag": [
+              "75-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-02-27",
+            "pubLeg": "XVII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela promoção estruturada da dádiva voluntária e regular de sangue"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-02-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481470",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "9109",
+                "nome": "Sónia Margarida Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481471",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-76&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481472",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/76?pgs=76&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481473",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481474",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/77?pgs=77&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8255",
+                "nome": "António Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/94"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481475",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6968",
+                "nome": "Patrícia Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481476",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7494",
+                "nome": "Irene Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/96"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481477",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481478",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/80?pgs=80&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/98"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481479",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/81?pgs=81&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7667",
+                "nome": "Liliana Fidalgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/99"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481480",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/81?pgs=81&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8269",
+                "nome": "Armando Grave"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/100"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481481",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/82?pgs=82&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7667",
+                "nome": "Liliana Fidalgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/101"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/82?pgs=82&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/102"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:28",
+            "horaTermo": "19:11",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/60/103"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-02-27",
+                "pubLeg": "XVII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Estatuto do Dador de Sangue e o Código do Trabalho, conferindo o direito de dispensa ao trabalho no dia da dádiva sem perda de retribuição; Recomenda ao Governo a criação de mecanismos de fidelização de dadores jovens para a revitalização das reservas de sangue; Prevê a falta justificada sem perda de remuneração no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue e o Código do Trabalho; Direito à dispensa ao trabalho no dia da dádiva de sangue, alterando o Estatuto do Dador de Sangue; Pela dignidade da dádiva de sangue e pela segurança do Serviço Nacional de Saúde; Promoção da dádiva de sangue e reforço da capacidade do Instituto Português do Sangue e da Transplantação, I.P.; Pela promoção estruturada da dádiva voluntária e regular de sangue.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1705219",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024098",
+        "obs": null,
+        "pag": [
+          "75-84"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-02-27",
+        "pubLeg": "XVII",
+        "pubNr": "60",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/060/2026-02-27/75?pgs=75-84&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
