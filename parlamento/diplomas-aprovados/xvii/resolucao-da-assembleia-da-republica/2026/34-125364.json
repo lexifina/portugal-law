@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=fUjcn97H4qvVV%2femHgy5MnOLFbowYz3nChQDMoy8L9zHA4SjLzNBIzlckiHnV4WW0V0oWfzjkIGWBda5JLhi4m1Ad85KkHjNtVuHi0Vq1FK55q4DzeZ9Tpep7W11QoG3qR73LNXIoqcNx0jeUEBwoD95b2fTJTWS0hxSkzxoXMe6wvz29lZngS%2fC15aiv9evrsBVQOr0Pnqm7F8oBCvkv%2fmkN89F7CTSh5Ku2xnLkp7DxK5Bgwt2cYLL5tOimRNInWLsRZgmmnLpy2w9%2fftk5oLnu1KGI0KNrZT5M1bn46K57SPVWrCr9PT6SzNVlfytA5X5smRcCFH7rr3lria1p8JC%2ba%2bLEQW2jyW%2fjoJs0O29EtKfmnmE5hw63pIPiQDJ2saS%2b%2bMGuxwi5lXEsgEKqg%3d%3d&fich=DiplomasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0fde94e35a932a3931fd6d3a446cbc17cb0b8696b448b1d8efa1c111bea3c393",
+  "legislatura": "XVII",
+  "id": "125364",
+  "tipo": "Resolução da Assembleia da República",
+  "numero": "34",
+  "data_registo": "2026-02-27",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2026",
+    "Id": "125364",
+    "Iniciativas": null,
+    "Legislatura": "XVII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849764d7a4a684d474e6c4d444174597a5131597930304d474d324c546c6d4d324d744d6d557a4f474d305a544d7a5a4464694c6e426b5a673d3d&fich=32a0ce00-c45c-40c6-9f3c-2e38c4e33d7b.pdf&Inline=true",
+    "Numero": "34",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": [
+      {
+        "anexos": null,
+        "ano": null,
+        "dtAgendamento": null,
+        "dtAprovacaoCA": null,
+        "id": "666",
+        "leg": "XVII",
+        "obs": null,
+        "SL": null,
+        "textosAprovados": null,
+        "tipo": "Conta Gerência",
+        "titulo": "Conta de Gerência da Assembleia da República referente ao ano de 2024",
+        "tp": "CGE",
+        "votacao": null
+      }
+    ],
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1028748",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-02-27",
+        "pubLeg": "XVII",
+        "pubNr": "41",
+        "pubSL": "1",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/41/2026/0/pt/html"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1028764",
+        "obs": "Declaração n.º 6/2026/1",
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-03-09",
+        "pubLeg": "XVII",
+        "pubNr": "47",
+        "pubSL": "1",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/47/2026/0/pt/html"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Resolução da Assembleia da República",
+    "Titulo": "Aprova o relatório e a conta de gerência da Assembleia da República relativos ao ano de 2024",
+    "Tp": "A",
+    "Versao": null
+  }
+}
