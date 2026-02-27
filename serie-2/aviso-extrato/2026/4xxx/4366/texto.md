@@ -1,0 +1,11 @@
+Aviso (extrato)  n.º 4366/2026/2
+
+Torna-se público que a Câmara Municipal de Barrancos, na sua reunião ordinária de 11 de fevereiro de 2026, deliberou dar início ao período de discussão pública relativa à primeira Revisão do Plano Diretor Municipal de Barrancos (PDM), nos termos do artigo 89.º, em articulação com o artigo 191.º, do Decreto-Lei n.º 80/2015, de 14 de maio. Também deliberou estabelecer o período de discussão pública de 40 (quarenta) dias úteis, contados 5 (cinco) dias úteis após a publicação do presente aviso na 2.ª série do Diário da República.
+
+Deliberou ainda que, atentas as novas regras urbanísticas constantes da revisão do PDM de Barrancos, os procedimentos de informação prévia, de comunicação prévia e de licenciamento ficam suspensos a partir da data fixada para o início do período da discussão pública e até à data da sua entrada em vigor, em conformidade com o descrito no artigo 145.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação ou num prazo de 180 dias, contados desde a data do início da respetiva discussão pública, devendo a apreciação do pedido prosseguir até à decisão final, de acordo com as regras urbanísticas em vigor à data da sua prática, em cumprimento do n.º 3 do mesmo artigo.
+
+Quando aberto o período de discussão pública, os interessados poderão consultar os documentos, na página da Internet http://www.cm-barrancos.pt ou na Unidade de Obras e Serviços Urbanos da Câmara Municipal de Barrancos, durante as horas normais de expediente, mediante marcação prévia através do telefone 285 950 630. Qualquer sugestão, informação ou observação deverá ser apresentada por escrito até ao termo do referido período, dirigidas ao Presidente da Câmara Municipal de Barrancos, utilizando para o efeito o requerimento que pode ser obtido na Câmara Municipal, sita na Praça do Município, n.º 2, 7230-030 Barrancos, ou na página da Internet em http://www.cm-barrancos.pt. O requerimento deve conter a identificação do requerente e a indicação das pretensões em termos claros e precisos bem como uma planta do local (se aplicável), podendo ser remetido por correio eletrónico através do endereço, pcgt@cm-barrancos.pt.
+
+23 de fevereiro de 2026. - O Presidente, Emílio Carvalho Domingues.
+
+319968319
