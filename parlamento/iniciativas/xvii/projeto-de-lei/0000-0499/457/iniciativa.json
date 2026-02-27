@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "457",
+  "id": "356231",
+  "fases": 4,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-02-27",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a63344d574979595463344c574d315a5759744e44566d4d5331694d4455314c5749794f574d30595463354d3249315a4335775a47593d&fich=781b2a78-c5ef-45f1-b055-b29c4a793b5d.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "416",
+        "nome": "Pedro do Carmo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4126",
+        "nome": "Luís Moreira Testa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8396",
+        "nome": "Luís Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "9331",
+        "nome": "Frederico Francisco"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6050",
+        "nome": "André Pinotes Batista"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7341",
+        "nome": "Francisco César"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5509",
+        "nome": "Hugo Oliveira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "9484",
+        "nome": "Humberto Brito"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6731",
+        "nome": "José Carlos Barbosa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4551",
+        "nome": "Júlia Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6870",
+        "nome": "Marina Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1893",
+        "nome": "Pedro Coimbra"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7731",
+        "nome": "Ricardo Lima"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356231",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a67784d545a6c4f5752684c546c6a5a6a55744e4759344e7931694e6a49774c574d7759544e69593252694e4455794e69356b62324e34&fich=8116e9da-9cf5-4f87-b620-c0a3bcdb4526.docx&Inline=true",
+    "IniNr": "457",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Retifica a delimitação das áreas de influência das isenções de portagens na A6 e na A2, procedendo à alteração da Lei n.º 73-A/2025, de 30 de dezembro",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
