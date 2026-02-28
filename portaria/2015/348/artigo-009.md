@@ -12,7 +12,7 @@ c) A vinha a arrancar não seja uma superfície vitivinícola abandonada.
 
 2 - O IVV, I. P. concede as autorizações de replantação referidas no número anterior no prazo de três meses após a submissão do pedido válido.
 
-3 - A autorização a que se refere o n.º 1 é utilizada na mesma exploração em que foi efetuado o arranque e é válida por um período de três anos a contar da data de concessão, não sendo prorrogável.
+3 - A autorização a que se refere o n.º 1 é utilizada na mesma exploração em que foi efetuado o arranque e é válida pelo período previsto no n.º 3 do artigo 62.º do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
 
 4 - Em derrogação do número anterior, quando a replantação tenha lugar na mesma parcela ou parcelas em que foi efetuado o arranque, a autorização é válida por um período de seis anos a contar da data da sua concessão, não sendo prorrogável.
 

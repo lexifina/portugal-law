@@ -2,13 +2,13 @@
 
 ### Autorizações para novas plantações
 
-1 - A área a distribuir anualmente para novas plantações será aquela que apresentar a maior superfície de uma das seguintes alternativas:
+1 - A área a distribuir anualmente para novas plantações corresponderá a uma das seguintes alternativas:
 
-a) 1 % da superfície total efetivamente plantada com vinha nos respetivos territórios, nas dimensões medidas à data de 31 de julho do ano anterior; ou,
+a) Até 1 % da superfície total efetivamente plantada com vinha nos respetivos territórios, nas dimensões medidas à data de 31 de julho do ano anterior; ou,
 
-b) 1 % da superfície que compreenda a superfície efetivamente plantada com vinha nos respetivos territórios, nas dimensões medidas à data de 31 de julho de 2015, e a superfície abrangida por direitos de plantação concedidos aos produtores no seu território nos termos dos artigos 85.º-H, 85.º-I ou 85.º-K, do Regulamento (CE) n.º 1234/2007, de 22 de outubro de 2007, e que estivessem disponíveis para conversão em autorizações em 1 de janeiro de 2016, ao abrigo do artigo 68.º do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
+b) Até 1 % da superfície que compreenda a superfície efetivamente plantada com vinha nos respetivos territórios, nas dimensões medidas à data de 31 de julho de 2015.
 
-2 - A superfície disponível para autorizações em zonas geográficas delimitadas de denominação de origem protegida (DOP) ou indicação geográfica protegida (IGP) pode ser limitada, tendo em conta as recomendações apresentadas pelo Instituto dos Vinhos do Douro e Porto, I. P. (IVDP, I. P.), o Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P. (IVBAM, I. P.) e as organizações interprofissionais regionais reconhecidas do setor vitivinícola, nos seguintes termos:
+2 - A superfície disponível para autorizações em zonas geográficas delimitadas de denominação de origem protegida (DOP) ou indicação geográfica protegida (IGP) pode ser limitada, tendo em conta as recomendações apresentadas pelo Instituto dos Vinhos do Douro e Porto, I. P. (IVDP, I. P.), o Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P. (IVBAM, I. P.), o Instituto da Vinha e do Vinho dos Açores, IPRA (IVV Açores, IPRA) e as organizações interprofissionais regionais reconhecidas do setor vitivinícola, nos seguintes termos:
 
 a) As recomendações, a emitir para um período máximo de três anos, devem ser devidamente justificadas por um ou vários dos seguintes fundamentos específicos:
 
