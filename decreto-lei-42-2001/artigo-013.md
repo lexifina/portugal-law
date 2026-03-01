@@ -4,22 +4,12 @@
 
 1 - Os pedidos de pagamentos em prestações são dirigidos ao coordenador da secção de processo executivo do Instituto de Gestão Financeira da Segurança da Social, I. P., onde corra o processo.
 
-2 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 36.
+2 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 60, quando o executado for uma pessoa coletiva, e 80, quando for uma pessoa singular.
 
-3 - O número de prestações referido no número anterior pode ser alargado até 60, se a dívida exequenda exceder 30 unidades de conta no momento da autorização ou, independentemente do valor da dívida exequenda, no caso de pessoas singulares.
+3 - O valor de cada prestação não pode ser inferior a 1/4 do valor da unidade de conta, nos casos em que o executado for uma pessoa coletiva, e a 1/8 do valor da unidade de conta, nos casos em que o executado for uma pessoa singular.
 
-4 - O número de prestações previstas no n.º 2 pode ser alargado até 150 desde que, cumulativamente, se verifiquem as seguintes condições:
+4 - No caso de pessoas coletivas, sempre que a dívida exequenda exceda 300 unidades de conta no momento da autorização, o valor de cada prestação não pode ser inferior a três unidades de conta.
 
-a) A dívida exequenda exceda 150 unidades de conta no momento da autorização;
+5 - Tratando-se de dívida proveniente de quotizações, o número de prestações mensais não pode exceder 24.
 
-b) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida;
-
-c) Se demonstre notória dificuldade financeira e previsíveis consequências económicas.
-
-5 - Para as pessoas singulares, o número de prestações previstas no n.º 2 pode ser alargado até 150, desde que, cumulativamente, se verifiquem as seguintes condições:
-
-a) A dívida exequenda exceda 30 unidades de conta no momento da autorização;
-
-b) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida.
-
-6 - Para efeitos do disposto nos números anteriores, a fixação do número de prestações a autorizar não está condicionada a um limite mínimo de pagamento.
+6 - Não é permitida a apensação de processos de execução de dívidas à segurança social com plano prestacional autorizado.
