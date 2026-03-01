@@ -2,11 +2,11 @@
 
 ### Inspetor-geral
 
-1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao inspetor-geral:
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao inspetor-geral superintender toda a atividade da ACT, nomeadamente:
 
 a) Aplicar as coimas e sanções acessórias correspondentes às contraordenações laborais;
 
-b) Promover a colaboração com outros sistemas de inspeção sectoriais;
+b) Promover a colaboração com outros sistemas de inspeção;
 
 c) Conceder as autorizações que legalmente lhe são atribuídas no âmbito das relações de trabalho, designadamente em matéria de segurança e saúde no trabalho;
 

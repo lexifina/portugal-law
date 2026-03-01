@@ -1,5 +1,9 @@
 # Artigo 11.º
 
-### Estatuto remuneratório dos chefes de equipa multidisciplinar
+### Estatuto remuneratório dos chefes de equipa e coordenadores
 
-Aos chefes de equipa multidisciplinar é atribuído um acréscimo remuneratório correspondente a (euro) 188,80, até ao limite do estatuto remuneratório fixado para os chefes de divisão.
+A remuneração base dos cargos de direção intermédia de 3.º e 4.º graus é determinada em percentagem da remuneração base do dirigente máximo do serviço, nas seguintes proporções:
+
+a) Aos chefes de equipa, dirigentes de 3.º grau, 60 %;
+
+b) Aos coordenadores, dirigentes de 4.º grau, 50 %.

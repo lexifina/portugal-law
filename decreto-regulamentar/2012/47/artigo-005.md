@@ -10,7 +10,7 @@ a) O inspetor-geral, que preside, cabendo-lhe indicar o membro do conselho consu
 
 b) Os dois subinspetores-gerais;
 
-c) Um delegado da ACT, designado pelo inspetor-geral;
+c) Um diretor da ACT, designado pelo inspetor-geral;
 
 d) Dois representantes de cada confederação sindical e um representante de cada confederação patronal, membros da Comissão Permanente de Concertação Social.
 

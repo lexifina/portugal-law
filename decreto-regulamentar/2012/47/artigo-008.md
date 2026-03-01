@@ -18,4 +18,4 @@ e) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam at
 
 3 - As receitas a que se refere o número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização das respetivas despesas durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.
 
-4 - As quantias cobradas pela ACT são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e do emprego, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
+4 - As quantias cobradas pela ACT são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e do trabalho, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
