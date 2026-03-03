@@ -14,7 +14,7 @@ d) Apresentem PGF aprovado, em conformidade com os Programas Regionais de Ordena
 
 e) Apresentem coerência técnica.
 
-2 - O critério de elegibilidade previsto na subalínea vi) da alínea a) e na subalínea vi) da alínea b) do número anterior pode ser cumprido por apresentação do comprovativo da entrega do PGF no ICNF, I. P., ou com análise da consonância das ações com os instrumentos de planeamento e gestão para espaços florestais, requerida nos termos de formulário próprio, disponível no sítio na Internet do ICNF, I. P.
+2 - O critério de elegibilidade previsto na alínea d) do número anterior pode ser cumprido por apresentação do comprovativo da entrega do PGF no ICNF, I. P., ou com análise da consonância das ações com os instrumentos de planeamento e gestão para espaços florestais, requerida nos termos de formulário próprio, disponível no sítio na Internet do ICNF, I. P.
 
 3 - Na situação prevista no número anterior, observa-se o seguinte:
 
