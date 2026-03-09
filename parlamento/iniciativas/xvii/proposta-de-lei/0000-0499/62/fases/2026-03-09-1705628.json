@@ -1,0 +1,257 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "62",
+    "id": "356278",
+    "titulo": "Altera a Lei Eleitoral do Presidente da República e a Lei Eleitoral para a Assembleia da República, no sentido de alargar a emissão do direito de antena nas rádios locais a todos os processos eleitorais, bem como o Regime Jurídico das Autarquias Locais, em matéria de publicidade das deliberações"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-03-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426b595459324d574e694c5456685a5451744e4451334e6931685a6d4a6c4c5463795a544a6c4d4456684f4759314e4335775a47593d&fich=0da661cb-5ae4-4476-afbe-72e2e05a8f54.pdf&Inline=true",
+        "anexoNome": "Of. PAR Pedido conexão"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "98487",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-03-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-03-09",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - Consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=722"
+          },
+          {
+            "DataDocumento": "2026-04-08",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e32566c4e5449304d44677459546b354e533030595459304c54686d5a4749744e3255355a546c694d5745334d7a466b4c6e426b5a673d3d&fich=7ee52408-a995-4a64-8fdb-7e9e9b1a731d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-08",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54526d4f545a6b4d546b744d575977596930305a6d46684c546b344d444574597a41794e7a557a4e4446684d5455354c6e426b5a673d3d&fich=94f96d19-1f0b-4faa-9801-c0275341a159.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-23",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a51325a6a49334d5449744e6a426a595330304e5467774c546b774e6d51744d546379595441784f546779596a4e684c6e426b5a673d3d&fich=c46f2712-60ca-4580-906d-172a01982b3a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-26",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - ERC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5467314d546b774d3259744f474e6c4d793030596d5a6c4c5745325a4449744e6d5533597a466b596d566b4e54646d4c6e426b5a673d3d&fich=9851903f-8ce3-4bfe-a6d2-6e7c1dbed57f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-24",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer ANMP - Associação Nacional dos Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595455324d574d795a4451745a47566d5a5330305a5455334c5749314f5759744e5745314f5751325a5459325a6d55314c6e426b5a673d3d&fich=a561c2d4-defe-4e57-b59f-5a59d6e66fe5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-26",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659324e6c5a6a41344d6d4d74596a497a5a6930304f4441794c5746694d475574595755344d7a4d79596d566b4f4452694c6e426b5a673d3d&fich=ccef082c-b23f-4802-ab0e-ae8332bed84b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-03-31",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer ANAM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f546b344d7a51304e3251744e544930595330304f4745334c546b30595441744d474a694d4759314d7a566c4e544e684c6e426b5a673d3d&fich=9983447d-524a-48a7-94a0-0bb0f535e53a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-13",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Eleições",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a446b344f474d334f445174597a46684d6930304f4441774c57457a595455745954637a5a6a6330595449794e7a566c4c6e426b5a673d3d&fich=d988c784-c1a2-4800-a3a5-a73f74a2275e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a59774e6a45344d4459744d44686b4f4330304f5449774c5745314e7a49745a575a6c4d574530596a59314e4759794c6e426b5a673d3d&fich=f6061806-08d8-4920-a572-efe1a4b654f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d5a6a4e544e6c4e5459744d3259304d4330304d6d59314c54686c4e3245744d575531596d517a4e7a59785a4759794c6e426b5a673d3d&fich=2fc53e56-3f40-42f5-8e7a-1e5bd3761df2.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "ANMP - Associação Nacional de Municípios Portugueses em 2026-03-24"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2026-03-23"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional das Assembleias Municipais (ANAM) em 2026-03-31"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Eleições em 2026-04-13"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Regulador da ERC - Entidade Reguladora para a Comunicação Social em 2026-03-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-03-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-04-14"
+          },
+          {
+            "link": "",
+            "nome": "Administração Eleitoral da Secretaria-geral do Ministério da Administração Interna em 2026-04-17"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "ANMP - Associação Nacional de Municípios Portugueses em 2026-03-12"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2026-03-12"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional das Assembleias Municipais (ANAM) em 2026-03-12"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Eleições em 2026-03-12"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Regulador da ERC - Entidade Reguladora para a Comunicação Social em 2026-03-12"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-03-12"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-03-12"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-03-12"
+          },
+          {
+            "link": "",
+            "nome": "Administração Eleitoral da Secretaria-geral do Ministério da Administração Interna em 2026-03-12"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "IL",
+            "id": "7331",
+            "motivoCessacao": null,
+            "nome": "Rui Rocha"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-04-08",
+            "dataRemessa": "2026-04-08",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "PCP",
+              "CDS-PP",
+              "BE",
+              "PAN",
+              "JPP"
+            ],
+            "data": "2026-04-08",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I>",
+            "id": "171340",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "52",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-03-09",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão à 12.ª Comissão.",
+    "OevId": "1705628",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
