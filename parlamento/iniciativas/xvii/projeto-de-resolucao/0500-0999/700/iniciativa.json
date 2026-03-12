@@ -1,0 +1,128 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Resolução",
+  "numero": "700",
+  "id": "356348",
+  "fases": 4,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-03-12",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8863",
+        "nome": "Dulcineia Catarina Moura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7359",
+        "nome": "Francisco Figueira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8916",
+        "nome": "Ricardo Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7408",
+        "nome": "João Pedro Louro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9628",
+        "nome": "Fernando Queiroga"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8157",
+        "nome": "Amílcar Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7317",
+        "nome": "João Antunes dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6857",
+        "nome": "Hugo Patrício Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7325",
+        "nome": "Carlos Cação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1738",
+        "nome": "Pedro Alves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8179",
+        "nome": "Ana Gabriela Cabilhas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8525",
+        "nome": "Gonçalo Valente"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8546",
+        "nome": "Hernâni Dias"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7586",
+        "nome": "Ricardo Carlos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8788",
+        "nome": "Carolina Marques"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "356348",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426d4e5751794d6a6c6b4c5449775a5459744e446b344d793034593255794c54686959324d354d324a6b596a49314f53356b62324e34&fich=0f5d229d-20e6-4983-8ce2-8bcc93bdb259.docx&Inline=true",
+    "IniNr": "700",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo a operacionalização do Estatuto do Jovem Empresário Rural, enquanto instrumento de coesão territorial",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
