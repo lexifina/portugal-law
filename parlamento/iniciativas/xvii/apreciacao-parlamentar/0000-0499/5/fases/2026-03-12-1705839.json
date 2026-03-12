@@ -1,0 +1,48 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "5",
+    "id": "335948",
+    "titulo": "Decreto-Lei n.º 127/2025, de 9 de dezembro, que altera o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social"
+  },
+  "fase": "Admissão Proposta de Alteração",
+  "codigo_fase": "260",
+  "data_registo": "2026-03-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a41334f446377596d49354c546731593249744e4445794e7930354e4467354c574e6a4d6d49324d47597a5a5459324e6935775a47593d&fich=07870bb9-85cb-4127-9489-cc2b60f3e666.pdf&Inline=true",
+        "anexoNome": "Proposta de Alteração da IL"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32497a4e7a426b597a6b314c54426b5a4755744e4449304e5330354d3245794c5468684e5451334e444e6b5a6a6c6a4e6935775a47593d&fich=b370dc95-0dde-4245-93a2-8a54743df9c6.pdf&Inline=true",
+        "anexoNome": "Proposta de Alteração do  PS"
+      }
+    ],
+    "CodigoFase": "260",
+    "Comissao": null,
+    "DataFase": "2026-03-12",
+    "EvtId": "46",
+    "Fase": "Admissão Proposta de Alteração",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1705839",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
