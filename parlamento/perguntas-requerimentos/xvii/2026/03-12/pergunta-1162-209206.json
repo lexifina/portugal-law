@@ -1,0 +1,87 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=xufylJiod6iO3gxDgTq8Z%2baqTslY6pEXcj7t%2buB%2bZ6oJR9rwDWlzOCmzyEBEkbCeLshbckKnuEl2%2fslUdQrfUvcLK7sEqcnby0Xn2v2J8y%2bazJMDABTJnbj2AfRMC%2fVaE4lm9042gKGsYnOIZt8RUevFTVG%2bcFVqfbZy%2b6QfqG9j0So4wI%2bC%2bsy%2bAYlRSTTrM%2b9ApTuMh8Jqw%2fxbcOcD4fmcMIBI8rAbtj2D8MJpPgdWRv%2bYDC1cLHI4T1GRJ7z2sFsrUu8LfF2tPw%2f63Xgp8QyFwTEdUZL56Mgt%2bTTIN05bugl%2fKHziJI21ak%2fgZsPs0ZcDE7ii2ewozM6rOeO%2b96tQ%2baCq7cg5S5qGuHqY3n1aW%2bCUX0tU8ovRf%2fmIVOtvi6XnPGz69JWLsUP0Wi1MuiGEWJWf4LzjdGKWBqEuUDw%3d&fich=RequerimentosXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0c078ab59d1f1e6ee75ab185389510b4dec98030e4c29c8761b2fd448c315c80",
+  "legislatura": "XVII",
+  "id": "209206",
+  "tipo": "Pergunta",
+  "numero": "1162",
+  "data_registo": "2026-03-12",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Programa “Creche Feliz”: abrangência territorial e integração das Amas credenciadas",
+    "Autores": [
+      {
+        "GP": "L",
+        "idCadastro": "8491",
+        "nome": "Filipa Pinto"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "7356",
+        "nome": "Isabel Mendes Lopes"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "8869",
+        "nome": "Jorge Pinto"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "6968",
+        "nome": "Patrícia Gonçalves"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "6932",
+        "nome": "Paulo Muacho"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "7337",
+        "nome": "Rui Tavares"
+      }
+    ],
+    "DataEnvio": "2026-03-13",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2026-03-13",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministra do Trabalho, Solidariedade e Segurança Social",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2026-04-27",
+            "docRemetida": null,
+            "entidade": "Ministra do Trabalho, Solidariedade e Segurança Social",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544339695a54517a4f475130596930324d4455314c54517a5a6a41744f5463774f5330784e7a49774f4451304d5759784d4745756347526d&fich=be438d4b-6055-43f0-9709-17208441f10a.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2026-03-12",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443387a4d6a686d4d7a63304f4330354e3245314c545134596a67744f4445304e533035596a45775a4749344e574d354e574d756347526d&fich=328f3748-97a5-48b8-8145-9b10db85c95c.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "209206",
+    "Legislatura": "XVII",
+    "Nr": "1162",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
