@@ -1,0 +1,241 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "46",
+    "id": "315770",
+    "titulo": "Aprova a primeira alteração à Lei n.º 45/2018, de 10 de agosto, que estabelece o regime jurídico da atividade de transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-03-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "98539",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-04-28",
+            "id": "180124",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-04-28",
+            "id": "180122",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-04-28",
+            "id": "180121",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-06",
+            "id": "180156",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-06",
+            "id": "180155",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-12",
+            "id": "180159",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-12",
+            "id": "180158",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-26",
+            "id": "180252",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-27",
+            "id": "180255",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-27",
+            "id": "180254",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-27",
+            "id": "180253",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-06-03",
+            "id": "180257",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-06-03",
+            "id": "180256",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-06-09",
+            "id": "180258",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-06-17",
+            "id": "180277",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-06-17",
+            "id": "180276",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2026-06-01",
+            "id": "117750",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2026-06-01",
+            "id": "117749",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2026-06-24",
+            "id": "117761",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2026-06-24",
+            "id": "117760",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-03-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-06-01",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - AdC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d5467335a4459305969316d4d5749354c5451304f5441744f5467334e53316d5a446c6c4e57526d596d51304d5445756347526d&fich=7187d64b-f1b9-4490-9875-fd9e5dfbd411.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-26",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - AMT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793878596d4d77595467784d7930344d7a5a6d4c54526c4d7a41744f54597a595330304e7a49335a4455315a474d784e4759756347526d&fich=1bc0a813-836f-4e30-963a-4727d55dc14f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - ANM TVDE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e5467344f5446684f4330775a5755314c54517a4e324d744f44466c596930344d5749345a5455325a5451355a6a63756347526d&fich=c58891a8-0ee5-437c-81eb-81b8e56e49f7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-03",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324f444a6b4d6a63304f5330354d7a4e6d4c54526d5a4467744f54646b4d69316b4d6a6b344e446335595751345a6a55756347526d&fich=682d2749-933f-4fd8-97d2-d298479ad8f5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - PRO TVDE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d6d49354d544d78597930785a6a51774c54517a4d7a59744f5463354e533034593251794e7a41354f57497a4e6d45756347526d&fich=12b9131c-1f40-4336-9795-8cd27099b36a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-04-27",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - PRO TVDE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a44677a4d44646a4d5330334d4459784c5451354e7a5174596a4578595330794d54466a4d6a67774f545933597a41756347526d&fich=3d8307c1-7061-4974-b11a-211c280967c0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-19",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - Somos TVDE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f546c6c5a6a566d4f5331694e5463794c54517a4d5455744f54526a4e79316a4e7a46695954466d4e7a4d304f5755756347526d&fich=099ef5f9-b572-4315-94c7-c71ba1f7349e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e7a63794e4455344e79316b4f4455324c5452694d5755744f4759334e69316c4d7a6735595456684e6a4d355a5751756347526d&fich=f7724587-d856-4b1e-8f76-e389a5a639ed.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final com Republicação Anexa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324f54417a4d544a68597930344d4445794c5451314f546b74595755324d7930784e44637a596a526a4d57466c5a5751756347526d&fich=690312ac-8012-4599-ae63-1473b4c1aeed.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-06",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo APTAD - junho 2026",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684f474a694d44646b4e69316b595441334c54526d4d3255744f574d305969316d5a5755355a6d5a6a4e4755794e6d49756347526d&fich=a8bb07d6-da07-4f3e-9c4b-fee9ffc4e26b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8460",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Infraestruturas, Mobilidade e Habitação",
+        "Numero": "8460",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-03-13",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1705971",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
