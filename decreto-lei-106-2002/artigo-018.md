@@ -14,7 +14,7 @@
 
 6 - O estágio tem a duração de um ano, findo o qual os recrutas são ordenados em função da classificação obtida.
 
-7 - Os recrutas aprovados com classificação mínima de Bom são nomeados definitivamente nos lugares, respectivamente, de bombeiro sapador e de bombeiro de 3.ª classe.
+7 - Os recrutas aprovados com a classificação mínima de Bom são reposicionados na segunda posição remuneratória da categoria de bombeiro sapador da tabela remuneratória de bombeiro profissional.
 
 8 - O regulamento geral do estágio, contendo, designadamente, o sistema de funcionamento e a avaliação, é aprovado por despacho dos membros do Governo responsáveis pelas áreas da administração interna, da administração local, da Administração Pública e das florestas, ouvidas a Associação Nacional de Municípios Portugueses e as organizações sindicais.
 
