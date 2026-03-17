@@ -2,7 +2,7 @@
 
 ### Intervenientes na titularização
 
-1 - Nos termos do disposto no artigo 2.º, no n.º 1 do artigo 26.º e no artigo 28.º do Regulamento (UE) 2017/2402, apenas podem ser intervenientes na titularização:
+1 - Podem ser intervenientes na titularização, designadamente:
 
 a) Entidades com objeto específico de titularização (EOET): os fundos de titularização de créditos e as sociedades de titularização de créditos;
 
