@@ -1,0 +1,143 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "34360",
+  "numero": "122",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2026-03-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2026-05-28",
+            "entidades": null,
+            "id": "180189",
+            "tipo": null,
+            "titulo": "Audição em 2026-05-28 com Peticionários da Petição n.º 122/XVII/1.ª - «Reconhecimento oficial da Encefalomielite Miálgica/Síndrome da Fadiga Crónica (EM/SFC) como uma doença multissistémica e incapacitante»"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-07-01",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "L",
+                "PCP",
+                "BE",
+                "CDS-PP"
+              ],
+              "data": "2026-07-01",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I><BR>Ausência: <I>IL</I>, <I> L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>",
+              "id": "172362",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "49",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2026-04-01",
+        "DataArquivo": "2026-07-01",
+        "DataBaixaComissao": "2026-03-18",
+        "DataEnvioPAR": "2026-07-01",
+        "DataReaberta": "2026-04-01",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2026-04-01",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d7a51334e6a686b59324d744e4745345a5330304e5751304c5467324d6d49745a6d55315a4455795a546c6a59544d344c6e426b5a673d3d&fich=34768dcc-4a8e-45d4-862b-fe5d52e9ca38.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d54566c5a4451334d4459745a6a45334e533030595446694c546c6c596a63744d7a67304e445a694d7a63315a6a63334c6e426b5a673d3d&fich=15ed4706-f175-4a1b-9eb7-38446b375f77.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d544a6a4e7a6b324d546b744e6a68694f4330304f54566c4c54686b4e6a41744d7a4d795a444a6d4d54646b4e44677a4c6e426b5a673d3d&fich=12c79619-68b8-495e-8d60-332d2f17d483.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-07-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e6a4a6d596a4d794e575174597a56684e533030593259314c574a694d5745744e5451785957466b4d3259325a6d55314c6e426b5a673d3d&fich=62fb325d-c5a5-4cf5-bb1a-541aad3f6fe5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-07-01",
+            "dataNomeacao": "2026-04-01",
+            "gp": "CH",
+            "id": "8269",
+            "motivoCessacao": "Aprovação do Relatório Final em reunião da Comissão de Saúde",
+            "nome": "Armando Grave"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2026-03-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a59544d7a597a67794f533030597a46694c5451334e4745744f446b784d6930325954686c596d4e695a444d784d5745756347526d&fich=3a33c829-4c1b-474a-8912-6a8ebcbd311a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "34360",
+    "PetAssunto": "Reconhecimento oficial da Encefalomielite Miálgica/Síndrome da Fadiga Crónica (EM/SFC) como uma doença multissistémica e incapacitante",
+    "PetDataEntrada": "2026-03-17",
+    "PeticoesAssociadas": null,
+    "PetId": "34360",
+    "PetLeg": "XVII",
+    "PetNr": "122",
+    "PetNrAssinaturas": "2378",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
