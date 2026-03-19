@@ -1,0 +1,1402 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "486",
+    "id": "356298",
+    "titulo": "Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2026-03-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "71991",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2026-03-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "346025",
+        "leg": "XVII",
+        "nr": "391",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56842",
+            "obs": null,
+            "pag": [
+              "63-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-20",
+            "pubLeg": "XVII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56842",
+            "obs": null,
+            "pag": [
+              "63-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-20",
+            "pubLeg": "XVII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56842",
+            "obs": null,
+            "pag": [
+              "63-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-20",
+            "pubLeg": "XVII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Actualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à protecção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "356287",
+        "leg": "XVII",
+        "nr": "479",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56842",
+            "obs": null,
+            "pag": [
+              "63-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-20",
+            "pubLeg": "XVII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56842",
+            "obs": null,
+            "pag": [
+              "63-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-20",
+            "pubLeg": "XVII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56842",
+            "obs": null,
+            "pag": [
+              "63-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-20",
+            "pubLeg": "XVII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "356315",
+        "leg": "XVII",
+        "nr": "493",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56842",
+            "obs": null,
+            "pag": [
+              "63-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-20",
+            "pubLeg": "XVII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56842",
+            "obs": null,
+            "pag": [
+              "63-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-20",
+            "pubLeg": "XVII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56842",
+            "obs": null,
+            "pag": [
+              "63-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-20",
+            "pubLeg": "XVII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera a Lei n.º 38/2018, de 7 de agosto e estabelece o quadro jurídico da sua implementação"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-03-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8418",
+                "nome": "Madalena Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/78"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "481989",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/64?pgs=64-66&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4396",
+                "nome": "Andreia Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/80"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/66?pgs=66-68&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8491",
+                "nome": "Filipa Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4396",
+                "nome": "Andreia Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/70?pgs=70&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/71?pgs=71&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/74?pgs=74&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1132",
+                "nome": "António Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1132",
+                "nome": "António Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/76?pgs=76&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8353",
+                "nome": "José Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/77?pgs=77&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/78?pgs=78&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/94"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "9429",
+                "nome": "Marta Patrícia Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/96"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/80?pgs=80-82&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/82?pgs=82&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "20:15",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/98"
+              },
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/69/100"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-20",
+                "pubLeg": "XVII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil; Altera a Lei n.º 38/2018, de 7 de agosto, e estabelece o quadro jurídico da sua implementação",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1706043",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024701",
+        "obs": null,
+        "pag": [
+          "63-83"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-03-20",
+        "pubLeg": "XVII",
+        "pubNr": "69",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/069/2026-03-20/63?pgs=63-83&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
