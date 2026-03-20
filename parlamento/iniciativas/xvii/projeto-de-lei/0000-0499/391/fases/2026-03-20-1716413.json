@@ -1,0 +1,469 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "391",
+    "id": "346025",
+    "titulo": "Actualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à protecção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2026-03-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "72397",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2026-03-20",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "356287",
+        "leg": "XVII",
+        "nr": "479",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56849",
+            "obs": null,
+            "pag": [
+              "84-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-21",
+            "pubLeg": "XVII",
+            "pubNr": "70",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/070/2026-03-21/84?pgs=84-85&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56849",
+            "obs": null,
+            "pag": [
+              "84-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-21",
+            "pubLeg": "XVII",
+            "pubNr": "70",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/070/2026-03-21/84?pgs=84-85&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "356298",
+        "leg": "XVII",
+        "nr": "486",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56849",
+            "obs": null,
+            "pag": [
+              "84-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-21",
+            "pubLeg": "XVII",
+            "pubNr": "70",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/070/2026-03-21/84?pgs=84-85&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56849",
+            "obs": null,
+            "pag": [
+              "84-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-03-21",
+            "pubLeg": "XVII",
+            "pubNr": "70",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/070/2026-03-21/84?pgs=84-85&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-03-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8476",
+                "nome": "Eva Brás Pinho"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "3918",
+                "nome": "Paula Cardoso"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7586",
+                "nome": "Ricardo Carlos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "14:26",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-21",
+                "pubLeg": "XVII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/070/2026-03-21/80?pgs=80-82&org=PLC"
+              }
+            ],
+            "sumario": "Actualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à protecção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4300",
+                "nome": "Hugo Soares"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "9357",
+                "nome": "Paulo Lopes Marcelo"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8374",
+                "nome": "Miguel Guimarães"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "2106",
+                "nome": "Regina Bastos"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1738",
+                "nome": "Pedro Alves"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7240",
+                "nome": "Alexandre Poço"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6544",
+                "nome": "Isaura Morais"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8863",
+                "nome": "Dulcineia Catarina Moura"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1132",
+                "nome": "António Rodrigues"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4396",
+                "nome": "Andreia Neto"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "2304",
+                "nome": "Bruno Ventura"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "9628",
+                "nome": "Fernando Queiroga"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8152",
+                "nome": "Almiro Moreira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7317",
+                "nome": "João Antunes dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "14:26",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482459",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-21",
+                "pubLeg": "XVII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/070/2026-03-21/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "sumario": "Actualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à protecção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7489",
+                "nome": "Adriana Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "14:26",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482460",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-21",
+                "pubLeg": "XVII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/070/2026-03-21/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "sumario": "Actualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à protecção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana.",
+            "teor": null
+          }
+        ]
+      },
+      {
+        "dataReuniaoPlenaria": "2026-03-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:59",
+            "horaTermo": "14:26",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482461",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-03-21",
+                "pubLeg": "XVII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/070/2026-03-21/84?pgs=84-85&org=PLC"
+              }
+            ],
+            "sumario": "Atualiza a regulação do procedimento de mudança de sexo e de nome próprio no registo civil, em particular no que diz respeito à proteção das crianças e jovens, à luz da evidência científica mais recente e em consonância com os princípios da bioética e da dignidade da pessoa humana; Protege a integridade das crianças e proíbe a utilização de bloqueadores da puberdade e/ou terapia hormonal no tratamento da incongruência ou disforia de género em menores de 18 anos; Altera o regime jurídico de mudança de sexo e de nome próprio no registo civil.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1716413",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "67516",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "80-82",
+          "82-83",
+          "83-84"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-03-21",
+        "pubLeg": "XVII",
+        "pubNr": "70",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/070/2026-03-21/80?pgs=80-82,82-83,83-84&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-03-20",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> IL</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I>",
+        "id": "171122",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "68",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
