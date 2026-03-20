@@ -1,0 +1,188 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "523",
+  "id": "356401",
+  "fases": 4,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-03-20",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a45324d32526a4e7a686a4c54517a597a51744e4449345a5330344f54566c4c546b334f5455784e6d4577596d4e684d7935775a47593d&fich=163dc78c-43c4-428e-895e-979516a0bca3.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2397",
+        "nome": "Francisco Covelinhas Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4396",
+        "nome": "Andreia Neto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8698",
+        "nome": "Olga Freire"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8179",
+        "nome": "Ana Gabriela Cabilhas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8374",
+        "nome": "Miguel Guimarães"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2061",
+        "nome": "José Pedro Aguiar-Branco"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5984",
+        "nome": "Germana Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6937",
+        "nome": "Alberto Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7274",
+        "nome": "Hugo Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4147",
+        "nome": "Carla Barros"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7796",
+        "nome": "Francisco Sousa Vieira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9505",
+        "nome": "Rui Rocha Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1478",
+        "nome": "Gonçalo Dinis Capitão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9506",
+        "nome": "Ana Isabel Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5993",
+        "nome": "Alberto Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8863",
+        "nome": "Dulcineia Catarina Moura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8152",
+        "nome": "Almiro Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4484",
+        "nome": "Marco Claudino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8783",
+        "nome": "Carlos Silva Santiago"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9149",
+        "nome": "Joana Seabra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7406",
+        "nome": "José Lago Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8157",
+        "nome": "Amílcar Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9628",
+        "nome": "Fernando Queiroga"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7351",
+        "nome": "Francisco Pimentel"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8526",
+        "nome": "Gonçalo Lage"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8546",
+        "nome": "Hernâni Dias"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356401",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3245334e7a4a6a4d6a63794c5449785a6a67744e4455354d6931685a6a5a6b4c5467795a57466b5a574a684d4751785969356b62324e34&fich=a772c272-21f8-4592-af6d-82eadeba0d1b.docx&Inline=true",
+    "IniNr": "523",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Elevação das Termas de São Vicente à categoria de Vila",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
