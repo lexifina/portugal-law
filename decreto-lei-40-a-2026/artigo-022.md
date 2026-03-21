@@ -12,6 +12,6 @@
 
 3 - A CCDR, I. P., territorialmente competente, bem como as demais entidades concedentes de apoios no âmbito da calamidade, mantêm a documentação mínima associada à concessão dos apoios.
 
-4 - A falta de verificação das condições de acesso aos apoios determina a sua imediata cessação, bem como a obrigação de restituição, total ou proporcional ao período de incumprimento, dos montantes já recebidos, acrescidos de juros à taxa comercial, sem prejuízo da responsabilidade criminal e contraordenacional aplicável.
+4 - A falta de verificação das condições de acesso aos apoios, determina a sua imediata cessação, bem como a obrigação de restituição, total ou proporcional ao período de incumprimento, dos montantes já recebidos, acrescidos de juros à taxa comercial, sem prejuízo da responsabilidade criminal e contraordenacional aplicável.
 
 5 - A Autoridade de Segurança Alimentar e Económica, no âmbito das suas competências e em colaboração com outros organismos competentes, promove ações de fiscalização relativas à prática de crimes contra a economia, designadamente quanto a práticas de açambarcamento, especulação de preços e desconformidade de produtos e materiais especialmente relacionados com a reconstrução e a reabilitação dos concelhos afetados.
