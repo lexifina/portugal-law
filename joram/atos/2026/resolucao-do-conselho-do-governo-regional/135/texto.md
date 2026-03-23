@@ -1,0 +1,23 @@
+# Resolução do Conselho do Governo Regional n.º 135/2026
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 51/2026, 3.º suplemento, de 2026-03-23
+
+**Sumário:** Autoriza a celebração de um contrato-programa entre a Região Autónoma da Madeira e a Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S.A., que define o processo de cooperação financeira entre as partes para o financiamento do Projeto PIDDAR n.º 53693 - Reabilitação de Infraestruturas e Equipamentos das Piscinas da Ribeira Brava, mediante uma comparticipação financeira a conceder à Ponta do Oeste, que não excederá o montante máximo de 400.000,00 €.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 135/2026
+Sumário: Autoriza a celebração de um contrato-programa entre a Região Autónoma da Madeira e a Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S.A., que define o processo de cooperação financeira entre as partes para o financiamento do Projeto PIDDAR n.º 53693 - Reabilitação de Infraestruturas e Equipamentos das Piscinas da Ribeira Brava, mediante uma comparticipação financeira a conceder à Ponta do Oeste, que não excederá o montante máximo de 400.000,00 €.
+Texto: Resolução n.º 135/2026 Considerando que a Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S.A. é uma sociedade anónima de capitais exclusivamente públicos que integra o universo das administrações públicas em contas nacionais e prossegue fins de interesse público; Considerando a necessidade de reabilitar as Piscinas da Ribeira Brava, com enfoque nas áreas de eficiência energética do empreendimento, promovendo melhores condições para a prática desportiva da modalidade de natação; Considerando a necessidade da manutenção das condições de segurança de pessoas e bens, das Piscinas da Ribeira Brava; Considerando que a referida intervenção está prevista no Projeto PIDDAR n.º 53693 - Reabilitação de Infraestruturas e Equipamentos das Piscinas da Ribeira Brava. O Conselho do Governo reunido em plenário em 19 de março de 2026, resolve:
+1. Ao abrigo do disposto no artigo 49.º da Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, artigo 36.º do Decreto Legislativo Regional n.º 8/2025/M, de 30 de dezembro, que aprova o Orçamento da Região Autónoma da Madeira para 2026 e no artigo 5.º do Decreto Legislativo Regional n.º 18/2000/M, de 2 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2018/M, de 9 de janeiro, autorizar a celebração de um contrato-programa entre a Região Autónoma da Madeira e a Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S.A., que define o processo de cooperação financeira entre as partes para o financiamento do Projeto PIDDAR n.º 53693 - Reabilitação de Infraestruturas e Equipamentos das Piscinas da Ribeira Brava.
+
+2. Determinar que a comparticipação financeira a conceder à Ponta do Oeste, não excederá o montante máximo de 400.000,00 € (quatrocentos mil euros), que se encontra escalonado da forma abaixo indicada:
+Ano económico de 2026 - até ao montante máximo de 300.000,00 € (trezentos mil euros); Ano económico de 2027 - até ao montante máximo de 100.000,00 € (cem mil euros).
+3. Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência.
+4. Determinar que o contrato-programa celebrado com Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S.A., produz efeitos desde a data da sua outorga, até 31 de dezembro de 2027, sem prejuízo das obrigações que devam perdurar para além da cessação do contrato.
+5. Mandatar o Secretário Regional de Equipamentos e Infraestruturas para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o referido contrato-programa, bem como as eventuais alterações ao mesmo.
+6. A verba resultante do contrato-programa tem cabimento orçamental no Orçamento da Secretaria Regional de Equipamentos e Infraestruturas para 2026, na Secretaria 50, Capítulo 50, Divisão 01, Subdivisão 05, Programa 052, Medida 026, Classificação Económica D.08.04.03.AM.Z0, Projeto PIDDAR n.º 53693 - Reabilitação de Infraestruturas e Equipamentos das Piscinas da Ribeira Brava; Fonte de Financiamento 392, Centro Financeiro M100902.
+7. A verba que assegura a execução deste Contrato-Programa para 2027 será inscrita no orçamento da Secretaria Regional de Equipamentos e Infraestruturas para o referido ano.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
