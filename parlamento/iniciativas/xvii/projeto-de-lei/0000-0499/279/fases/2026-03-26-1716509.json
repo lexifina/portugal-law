@@ -1,0 +1,105 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "279",
+    "id": "315727",
+    "titulo": "Elevação da Povoação Vila Cova de Alva à Categoria de Vila Histórica"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2026-03-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "72042",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2026-03-26",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315650",
+        "leg": "XVII",
+        "nr": "240",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação de Vila Cova de Alva à categoria de vila"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315652",
+        "leg": "XVII",
+        "nr": "242",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação de Semide à categoria de vila"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315655",
+        "leg": "XVII",
+        "nr": "245",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação de Côja à categoria de vila"
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315726",
+        "leg": "XVII",
+        "nr": "278",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da Povoação de Côja à Categoria de Vila Histórica"
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315728",
+        "leg": "XVII",
+        "nr": "280",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da Povoação Semide à Categoria de Vila Histórica"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-03-26",
+        "oradores": null
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Consta da agenda sem tempos.",
+    "OevId": "1716509",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
