@@ -1,0 +1,7 @@
+Aviso n.º 6991/2026/2
+
+José Francisco Tavares Rolo, Presidente da Câmara Municipal de Oliveira do Hospital, torna público que, ao abrigo do disposto nas alíneas b) e t) do n.º 1 do artigo 35.º e do artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, e para efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, na sua reunião ordinária de 20 de fevereiro de 2026, a Câmara Municipal deliberou submeter o projeto de Regulamento de Acesso e Utilização da Central de Camionagem de Oliveira do Hospital a consulta pública, pelo prazo de 30 dias, a contar da data da publicação do presente aviso no Diário da República. O projeto de regulamento encontra-se disponível para consulta no sítio institucional do Município (www.cm-oliveiradohospital.pt) e nos Paços do Concelho, durante o horário de expediente. Durante o período de consulta pública, qualquer interessado/a poderá formular as reclamações, observações ou sugestões que entenda por convenientes, as quais devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Câmara Municipal, podendo ser remetidas por via postal para Largo Conselheiro Cabral Metello, 3400-062 Oliveira do Hospital, por correio eletrónico para o endereço geral@cm-oliveiradohospital.pt ou presencialmente entregues no Balcão Único da Câmara Municipal, durante o período normal de expediente.
+
+17 de março de 2026. - O Presidente da Câmara Municipal, José Francisco Tavares Rolo.
+
+319977685
