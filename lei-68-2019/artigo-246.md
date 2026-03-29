@@ -1,7 +1,3 @@
-## Secção IV
-
-## Procedimento disciplinar
-
 ## Subsecção I
 
 ## Procedimento comum

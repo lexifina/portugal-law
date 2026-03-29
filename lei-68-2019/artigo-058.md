@@ -55,3 +55,5 @@ f) Infrações económico-financeiras de dimensão internacional ou transnaciona
 a) A análise, em colaboração com os demais órgãos e departamentos do Ministério Público, da natureza e tendências de evolução da criminalidade bem como dos resultados obtidos na respetiva prevenção, deteção e controlo;
 
 b) A identificação de metodologias de trabalho e a articulação com outros departamentos e serviços, com vista ao reforço da simplificação, racionalidade e eficácia dos procedimentos.
+
+6 - Compete ainda ao DCIAP apreciar as decisões de supressão ou de bloqueio emitidas pela Polícia Judiciária, ao abrigo do Regulamento (UE) 2021/784 do Parlamento Europeu e do Conselho, de 29 de abril de 2021, e promover a sua validação junto do juiz de instrução criminal, nos termos dos n.os 2 e 3 do artigo 3.º do Decreto-Lei n.º 25/2026, de 28 de janeiro.
