@@ -32,6 +32,8 @@ a) A competência a que se refere o n.º 1 do artigo anterior, quando a atividad
 
 b) A competência relativamente aos crimes a que se refere o número anterior, quando a atividade criminosa ocorrer em comarcas diferentes dentro da área de competência do Tribunal da Relação de Lisboa.
 
+c) A competência a que se refere o n.º 2 do artigo 3.º do Decreto-Lei n.º 25/2026, de 28 de janeiro.
+
 3 - Sem prejuízo do disposto na alínea b) do número anterior, a competência dos juízos de instrução criminal da sede dos tribunais da Relação abrange a respetiva área de competência relativamente aos crimes a que se refere o n.º 1, quando a atividade criminosa ocorrer em comarcas diferentes dentro da área de competência do mesmo tribunal da Relação.
 
 4 - Nas comarcas em que o movimento processual dos tribunais o justifique e sejam criados departamentos de investigação e ação penal (DIAP), são também criados juízos de instrução criminal com competência circunscrita à área abrangida.
