@@ -1,0 +1,56 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Proposta de Lei",
+  "numero": "65",
+  "id": "356442",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-03-30",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a52694d5455774f5463314c54497a4d5459744e4445795a4331684e4749794c574d355a6d466c4e5445305a474d7a597935775a47593d&fich=4b150975-2316-412d-a4b2-c9fae514dc3c.pdf&Inline=true",
+        "anexoNome": "Ofício de retirada da iniciativa"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426d4d574d795a544d784c574e6a5a5751744e474d334f5331694e5456694c5441325932466c5a6a45784e324e685a5335775a47593d&fich=0f1c2e31-cced-4c79-b55b-06caef117cae.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a557a5a5759794e546c6a4c545a684e5445744e4751775a5330344d4749334c544d344d6a55344e6d526c4e574579597935775a47593d&fich=53ef259c-6a51-4d0e-80b7-382586de5a2c.pdf&Inline=true",
+        "anexoNome": "PPL 65-XVII (Versão asssinada)"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356442",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a5a6a4d7a45784d3252694c575a6d4f574d744e47526b595331684d32597a4c545977596d45794d6a4e6b4d5751305979356b62324e34&fich=6c3113db-ff9c-4dda-a3f3-60ba223d1d4c.docx&Inline=true",
+    "IniNr": "65",
+    "IniObs": "Iniciativa retirada a pedido do(s) autor(es) em 2026-07-09.",
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Altera a Lei n.º 34/94, de 14 de setembro,  que define o regime de acolhimento de estrangeiros ou apátridas em centros de instalação temporária, a Lei n.º 23/2007, de 4 de julho, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, e a Lei n.º 27/2008, de 30 de junho, que estabelece as condições e procedimentos de concessão de asilo ou proteção subsidiária e os estatutos de requerente de asilo, de refugiado e de proteção subsidiária",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
