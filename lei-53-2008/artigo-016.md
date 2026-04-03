@@ -31,3 +31,5 @@ f) Articular as instituições nacionais com as de âmbito local, incluindo nome
 g) Estabelecer ligação com estruturas privadas, incluindo designadamente as empresas de segurança privada.
 
 h) Coordenar os trabalhos preparatórios no âmbito do mecanismo de avaliação da aplicação do acervo de Schengen e acompanhar, em estreita articulação com as diversas entidades competentes, o seguimento das ações decorrentes das avaliações realizadas naquele âmbito.
+
+4 - Ao Secretário-Geral do Sistema de Segurança Interna compete convocar, nos termos do artigo 25.º-A, um gabinete de crise na sequência da atribuição de um grau de ameaça elevado pelo Serviço de Informações de Segurança, ou equivalente nível de alerta nacional para Cibersegurança, ou quando for informado pelo Centro Nacional de Cibersegurança ou por qualquer entidade competente, designadamente forças e serviços de segurança, sobre a ocorrência de uma ciberameaça significativa ou de crise ou incidente suscetível de ser considerado em grande escala.
