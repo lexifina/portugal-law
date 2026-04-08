@@ -1,0 +1,101 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "67",
+    "id": "356520",
+    "titulo": "Altera temporariamente os limites mínimos das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP)"
+  },
+  "fase": "Admissão Proposta de Alteração",
+  "codigo_fase": "260",
+  "data_registo": "2026-04-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a466859544e6c4e5749794c544135596d45744e4755794e7930345a54417a4c5467774e7a55344d5745794f5745344d7935775a47593d&fich=1aa3e5b2-09ba-4e27-8e03-807581a29a83.pdf&Inline=true",
+        "anexoNome": "Despacho de não admissão das Propostas de Alteração da IL"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3245775a474e694d6a59774c5463314d6a51744e444d334e5331694d6a6b344c57526c4e5745334f5751794e3252694d4335775a47593d&fich=a0dcb260-7524-4375-b298-de5a79d27db0.pdf&Inline=true",
+        "anexoNome": "Despacho de não admissão das Propostas de Alteração do BE e do CH"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324e6c596a6b774e6d4e684c574d325a444d744e4449344f5331685a4751354c5451345a4464694e475a6b5a47526c5a43356b62324e34&fich=ceb906ca-c6d3-4289-add9-48d7b4fddded.docx&Inline=true",
+        "anexoNome": "Proposta de alteração n.º 1 (BE)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324e6a4d4455334f44466a4c546b7a4e7a49744e44457859693035596a6b314c544a684e6a4e6a595759354d6a63324d53356b62324e34&fich=cc05781c-9372-411b-9b95-2a63caf92761.docx&Inline=true",
+        "anexoNome": "Proposta de alteração n.º 2 (CH)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32566a4d5449795a5746684c5759314e5759744e445178595331694d446c694c5459344e6a466b4e475a6d4e3249775a53356b62324e34&fich=ec122eaa-f55f-441a-b09b-6861d4ff7b0e.docx&Inline=true",
+        "anexoNome": "Proposta de alteração n.º 3 (IL)"
+      }
+    ],
+    "CodigoFase": "260",
+    "Comissao": null,
+    "DataFase": "2026-04-08",
+    "EvtId": "46",
+    "Fase": "Admissão Proposta de Alteração",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1716993",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024102",
+        "obs": "Despacho do PAR n.º 140/XVII — Admissibilidade das propostas de alteração à Proposta de Lei ",
+        "pag": [
+          "3-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-04-08",
+        "pubLeg": "XVII",
+        "pubNr": "62",
+        "pubSL": "1",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/17/01/062/2026-04-08/3?pgs=3-8&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024108",
+        "obs": "Despacho do PAR n.º 141/XVII - Admissibilidade da proposta de alteração apresentada pela Iniciativa Liberal",
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-04-09",
+        "pubLeg": "XVII",
+        "pubNr": "63",
+        "pubSL": "1",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/17/01/063/2026-04-09/2?pgs=2-3&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
