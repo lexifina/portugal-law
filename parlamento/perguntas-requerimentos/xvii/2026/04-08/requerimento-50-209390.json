@@ -1,0 +1,66 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=xufylJiod6iO3gxDgTq8Z%2baqTslY6pEXcj7t%2buB%2bZ6oJR9rwDWlzOCmzyEBEkbCeLshbckKnuEl2%2fslUdQrfUvcLK7sEqcnby0Xn2v2J8y%2bazJMDABTJnbj2AfRMC%2fVaE4lm9042gKGsYnOIZt8RUevFTVG%2bcFVqfbZy%2b6QfqG9j0So4wI%2bC%2bsy%2bAYlRSTTrM%2b9ApTuMh8Jqw%2fxbcOcD4fmcMIBI8rAbtj2D8MJpPgdWRv%2bYDC1cLHI4T1GRJ7z2sFsrUu8LfF2tPw%2f63Xgp8QyFwTEdUZL56Mgt%2bTTIN05bugl%2fKHziJI21ak%2fgZsPs0ZcDE7ii2ewozM6rOeO%2b96tQ%2baCq7cg5S5qGuHqY3n1aW%2bCUX0tU8ovRf%2fmIVOtvi6XnPGz69JWLsUP0Wi1MuiGEWJWf4LzjdGKWBqEuUDw%3d&fich=RequerimentosXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0c078ab59d1f1e6ee75ab185389510b4dec98030e4c29c8761b2fd448c315c80",
+  "legislatura": "XVII",
+  "id": "209390",
+  "tipo": "Requerimento",
+  "numero": "50",
+  "data_registo": "2026-04-08",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Solicitação de parecer relativo à construção do skate park previsto para a frente marítima da freguesia de Canidelo",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "9483",
+        "nome": "Dália Miranda"
+      }
+    ],
+    "DataEnvio": "2026-04-08",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2026-04-08",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministra do Ambiente e Energia",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2026-04-16",
+            "docRemetida": null,
+            "entidade": "Ministra do Ambiente e Energia",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338335a6a4535597a4e6a4f43316a4d6a55324c54526a4e6a6b744f475269595330784e5464694e6d51315957557a4e5749756347526d&fich=7f19c3c8-c256-4c69-8dba-157b6d5ae35b.pdf&Inline=true"
+              },
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338324e544a68595459344f5330354f5745304c5451344d574d744f475a684d69316d4e475a694e574930596a51785a6a41756347526d&fich=652aa689-99a4-481c-8fa2-f4fb5b4b41f0.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2026-04-08",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338324f5455324d324a6b4e6930795a6a59304c5451784d544574596a646d4f43316d596d4d774e4752694f5755784f4441756347526d&fich=69563bd6-2f64-4111-b7f8-fbc04db9e180.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "209390",
+    "Legislatura": "XVII",
+    "Nr": "50",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
