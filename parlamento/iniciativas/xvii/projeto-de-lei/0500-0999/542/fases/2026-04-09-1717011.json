@@ -1,0 +1,1142 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "542",
+    "id": "356471",
+    "titulo": "Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2026-04-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "72057",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2026-04-09",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "356382",
+        "leg": "XVII",
+        "nr": "63",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56855",
+            "obs": null,
+            "pag": [
+              "3-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-10",
+            "pubLeg": "XVII",
+            "pubNr": "76",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/3?pgs=3-18&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-04-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/5"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Secretário de Estado Adjunto e do Orçamento",
+              "governo": "XXV GOVERNO CONSTITUCIONAL",
+              "nome": "José Maria Brandão de Brito"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482665",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/3?pgs=3-4&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8591",
+                "nome": "João Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/6"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482666",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "9506",
+                "nome": "Ana Isabel Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/7"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/5?pgs=5&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/8"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Secretário de Estado Adjunto e do Orçamento",
+              "governo": "XXV GOVERNO CONSTITUCIONAL",
+              "nome": "José Maria Brandão de Brito"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482668",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/6?pgs=6&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7343",
+                "nome": "Carlos Guimarães Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/10"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482669",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/11"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482670",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/7?pgs=7&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6870",
+                "nome": "Marina Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/12"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/13"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482672",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/9?pgs=9&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6968",
+                "nome": "Patrícia Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/14"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482673",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/15"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482674",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/10?pgs=10&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/16"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/11?pgs=11&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8255",
+                "nome": "António Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/17"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482676",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4484",
+                "nome": "Marco Claudino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/18"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482677",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8591",
+                "nome": "João Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/19"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/13?pgs=13&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4484",
+                "nome": "Marco Claudino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/20"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6870",
+                "nome": "Marina Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/21"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4484",
+                "nome": "Marco Claudino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/22"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6870",
+                "nome": "Marina Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/23"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/24"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Secretário de Estado Adjunto e do Orçamento",
+              "governo": "XXV GOVERNO CONSTITUCIONAL",
+              "nome": "José Maria Brandão de Brito"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6870",
+                "nome": "Marina Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/76/25"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "482684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-10",
+                "pubLeg": "XVII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 8/2012, de 21 de fevereiro, relativa às regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas; Procede à alteração da Lei n.º 8/2012, de 21 de fevereiro, reduzindo os prazos de pagamento em atraso das entidades públicas e criando um regime especial aplicável às Associações Humanitárias de Bombeiros.\n",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717011",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024943",
+        "obs": null,
+        "pag": [
+          "3-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-04-10",
+        "pubLeg": "XVII",
+        "pubNr": "76",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/076/2026-04-10/3?pgs=3-18&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
