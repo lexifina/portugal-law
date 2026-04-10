@@ -1,0 +1,145 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "501",
+    "id": "356328",
+    "titulo": "Promove a concorrência no transporte rodoviário através do acesso aberto a terminais e interfaces"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-04-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "108751",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-10-13",
+            "id": "190573",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-10-14",
+            "id": "190575",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-10-20",
+            "id": "190578",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-10-20",
+            "id": "190577",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-10-20",
+            "id": "190576",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-10-21",
+            "id": "190582",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-10-21",
+            "id": "190581",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-04-10",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-10-21",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a446c6d593249335a5330335a444d784c54517a4f5445744f4755344e7931684f4449344d6d597a4e57526a4d6d4d756347526d&fich=1d9fcb7e-7d31-4391-8e87-a8282f35dc2c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-27",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - CIMAC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e6a63334d4468695a4330334f47597a4c5451314f4463745954686d4e69316c4f4751354e6a466d4e6a45314d4749756347526d&fich=d67708bd-78f3-4587-a8f6-e8d961f6150b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-21",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - CIMAT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e47566c596d4d345a693030596d49324c545133595759745957466c4d5330324e6a63784f54497a4e4449325a6d49756347526d&fich=b4eebc8f-4bb6-47af-aae1-6671923426fb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-27",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Rede Expressos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794f4449324d324a6c4d69307a4d5459344c545130595459745954426d4e7930344e6d56694e5745324e575933597a4d756347526d&fich=28263be2-3168-44a6-a0f7-86eb5a65f7c3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-08",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - FlixBus",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5a6d49314e5452694e6930355a44526c4c54526a59544d744f4445335a53316b597a6c6b596a45774f544d77597a51756347526d&fich=dfb554b6-9d4e-4ca3-817e-dc9db10930c4.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8460",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Infraestruturas, Mobilidade e Habitação",
+        "Numero": "8460",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-04-10",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717174",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
