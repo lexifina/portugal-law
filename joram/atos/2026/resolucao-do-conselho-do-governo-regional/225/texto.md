@@ -1,0 +1,23 @@
+# Resolução do Conselho do Governo Regional n.º 225/2026
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 63/2026, 3.º suplemento, de 2026-04-10
+
+**Sumário:** Autoriza a renovação pelo período de um ano, entre 01/04/2026 e 31/03/2027, do contrato de arrendamento celebrado em 31 de março de 2010, entre o Serviço de Saúde da Região Autónoma da Madeira, EPERAM e a Santa Casa da Misericórdia do Funchal, relativo a um imóvel localizado no Sítio da Vila, Porto Moniz, onde funciona o Centro de Saúde do Porto Moniz, fixando-se a renda mensal no montante de 1.853,65 €, o que ascende ao total de 22.243,80 €, isenta de imposto sobre o valor acrescentado.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 225/2026
+Sumário: Autoriza a renovação pelo período de um ano, entre 01/04/2026 e 31/03/2027, do contrato de arrendamento celebrado em 31 de março de 2010, entre o Serviço de Saúde da Região Autónoma da Madeira, EPERAM e a Santa Casa da Misericórdia do Funchal, relativo a um imóvel localizado no Sítio da Vila, Porto Moniz, onde funciona o Centro de Saúde do Porto Moniz, fixando-se a renda mensal no montante de 1.853,65 €, o que ascende ao total de 22.243,80 €, isenta de imposto sobre o valor acrescentado.
+Texto: Resolução n.º 225/2026 Considerando que compete ao Serviço de Saúde da Região Autónoma da Madeira, EPERAM., nos termos dos seus Estatutos, aprovados pelo Decreto Legislativo Regional n.º 13/2019/M, de 22 de agosto, alterado pelos Decretos Legislativos Regionais n.º 1-A/2020/M, de 31 de janeiro, n.º 8/2020/M, de 13 de julho e n.º 23/2023/M, de 28 de junho, a prestação de cuidados de saúde à população;
+
+Considerando que, em 31 de março de 2010 foi celebrado entre o Serviço de Saúde da Região Autónoma da Madeira, EPERAM. e a Santa Casa da Misericórdia do Funchal, um contrato de arrendamento não habitacional de duração limitada do prédio urbano localizado no Sítio da Vila, freguesia e concelho do Porto Moniz, inscrito na matriz predial urbana sob o artigo 541.º e descrito na Conservatória do Registo Predial do Porto Moniz sob o número 1760/20090917, que se destina ao funcionamento do Centro de Saúde do Porto Moniz;
+Considerando que o aludido contrato, celebrado ao abrigo do disposto nos artigos 1064.º e seguintes do Código Civil, na redação que lhe foi introduzida pela Lei n.º 6/2006, de 27 de fevereiro, prevê a possibilidade de renovação;
+Considerando que, é de absoluto interesse público a renovação do referido contrato de arrendamento, para o período compreendido entre 01/04/2026 e 31/03/2027;
+Considerando o parecer favorável do Conselho Fiscal do SESARAM, EPERAM em conformidade com o disposto na alínea f) do n.º 2 do artigo 20.º dos Estatutos desta entidade, aprovados pelo Decreto Legislativo Regional n.º 13/2019/M, de 22 de agosto, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro, n.º 8/2020/M, de 13 de julho e n.º 23/2023/M, de 28 de junho;
+Considerando, ainda, que já foi autorizada pelo Secretário Regional das Finanças, a assunção do compromisso plurianual correspondente à despesa referente à celebração do contrato de arrendamento em causa, mediante parecer prévio da Direção Regional do Património (DRP), de acordo com o estatuído nos artigos 30.º e 31.º do Decreto Legislativo Regional n.º 8/2025/M, de 30 de dezembro.
+Nestes termos, o Conselho do Governo reunido em plenário em 9 de abril de 2026, ao abrigo do disposto no artigo 31.º do Decreto Legislativo Regional n.º 8/2025/M, de 30 de dezembro, resolve:
+1. Autorizar a renovação pelo período de um ano (entre 01/04/2026 e 31/03/2027), do contrato de arrendamento celebrado em 31 de março de 2010, entre o Serviço de Saúde da Região Autónoma da Madeira, EPERAM. e a Santa Casa da Misericórdia do Funchal, relativo a um imóvel localizado no Sítio da Vila, Porto Moniz, onde funciona o Centro de Saúde do Porto Moniz, fixando-se a renda mensal no montante de 1.853,65 € (mil oitocentos e cinquenta e três euros e sessenta e cinco cêntimos), o que ascende ao total de 22.243,80 € (vinte e dois mil, duzentos e quarenta e três euros e oitenta cêntimos), isenta de imposto sobre o valor acrescentado.
+2. A correspondente despesa tem cabimento no orçamento do Serviço de Saúde da Região Autónoma da Madeira, EPERAM para 2026, fonte de financiamento 319, classificação económica D.02.02.04, complementada com o respetivo número de cabimento CAB25.05617 datado de 08.10.2025 e compromisso COM26.00757 datado de 19.01.2026.
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE TURISMO, AMBIENTE E CULTURA, no exercício da Presidência, António Eduardo de Freitas Jesus
