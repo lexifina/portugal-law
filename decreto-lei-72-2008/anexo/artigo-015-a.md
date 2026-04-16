@@ -2,7 +2,7 @@
 
 ### Acordo nacional de acesso ao crédito e a seguros
 
-1 - O Estado, através dos membros do Governo responsáveis pelas áreas das finanças, do comércio, da inclusão e da saúde, celebra e mantém um acordo nacional relativo ao acesso ao crédito e a contratos de seguros por parte de pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência, entre este e as associações setoriais representativas de instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência e empresas de seguros e resseguros, bem como organizações nacionais que representam pessoas com risco agravado de saúde, pessoas com deficiência e utentes do sistema de saúde.
+1 - O Estado, através dos membros do Governo responsáveis pelas áreas das finanças, do comércio, da inclusão e da saúde, celebra e mantém um acordo nacional relativo ao acesso ao crédito e a contratos de seguros por parte de pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência, entre este e as associações setoriais representativas de instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência, instituições de pagamento, instituições de moeda eletrónica, empresas de seguros e distribuidores de seguros, bem como organizações nacionais que representam pessoas com risco agravado de saúde, pessoas com deficiência e utentes do sistema de saúde.
 
 2 - O acordo previsto no número anterior tem como objeto:
 
@@ -14,13 +14,13 @@ c) Definir categorias específicas de dados e informações que possam ser exigi
 
 d) Desenvolver um mecanismo de mediação entre os seguradores e as instituições de crédito e as pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência;
 
-e) Definir orientações gerais relativamente à informação a divulgar obrigatoriamente nos sítios da Internet das instituições de crédito, das sociedades financeiras, das sociedades mútuas, das instituições de previdência e dos seguradores.
+e) Definir orientações gerais relativamente à informação a divulgar obrigatoriamente nos sítios da Internet das instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência, instituições de pagamento, instituições de moeda eletrónica, empresas de seguros e distribuidores de seguros.
 
 3 - Qualquer pessoa que tenha superado ou mitigado situações de risco agravado de saúde ou de deficiência tem, na qualidade de consumidor, direito a beneficiar do acordo previsto no n.º 1 na contratação de crédito à habitação e crédito aos consumidores, bem como na contratação de seguros obrigatórios ou facultativos associados aos referidos créditos.
 
 4 - Excetuam-se do disposto no número anterior os beneficiários do regime de concessão de crédito bonificado à habitação a pessoa com deficiência, aprovado pela Lei n.º 64/2014, de 26 de agosto.
 
-5 - O acordo aplica-se a todas as instituições de crédito, sociedades financeiras creditícias, sociedades mútuas, instituições de previdência e empresas de seguros e resseguros que exerçam atividade em território português.
+5 - O acordo aplica-se a todas as instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência, instituições de pagamento, instituições de moeda eletrónica, empresas de seguros e distribuidores de seguros que exerçam atividade em território português.
 
 6 - Em qualquer caso, o acordo deve garantir o cumprimento do disposto no n.º 2 do artigo 3.º da Lei n.º 75/2021, de 18 de novembro, sem prejuízo de poder determinar termos e prazos mais favoráveis ao consumidor para além dos quais as pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência têm direito ao esquecimento.
 
