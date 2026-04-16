@@ -14,4 +14,6 @@
 
 6 - [Revogado].
 
-7 - Os factos sujeitos a registo titulados em serviço de registo competente são imediatamente apresentados.
+7 - Os factos sujeitos a registo titulados em serviço de registo competente são imediatamente apresentados;
+
+8 - O registo de alteração de área, do artigo da matriz e da freguesia ou concelho de prédios com número de identificação de prédio, deve ser pedido no prazo dois meses a contar da data da realização da representação gráfica georreferenciada.
