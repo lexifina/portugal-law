@@ -16,7 +16,9 @@ c) Os agentes de execução, ou o oficial de justiça que realize diligências p
 
 d) O conselho diretivo do universo de compartes, no que respeita aos terrenos baldios;
 
-e) A ESTAMO, Participações Imobiliárias, S. A., e os órgãos competentes das Regiões Autónomas e das autarquias locais, no que respeita aos respetivos bens imóveis do domínio público.
+e) A ESTAMO, Participações Imobiliárias, S. A., e os órgãos competentes das Regiões Autónomas e das autarquias locais, no que respeita aos respetivos bens imóveis do domínio público;
+
+f) O proprietário definitivamente inscrito, quanto ao registo de alteração de área, do artigo da matriz e da freguesia ou concelho de prédios com número de identificação de prédio.
 
 4 - [Revogado].
 
