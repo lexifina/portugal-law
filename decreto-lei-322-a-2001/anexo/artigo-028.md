@@ -88,7 +88,7 @@
 
 32 - Pelo acesso em linha por parte das entidades responsáveis pelas bases de dados do dispositivo electrónico de matrícula às bases de dados do registo automóvel, o montante decorrente do n.º 5.3.2.5 do artigo 25.º terá um limite mensal fixado por despacho do membro do Governo responsável pela área da Justiça.
 
-33 - Os emolumentos previstos nos n.os 2.1, 2.12, 2.16.2, 2.17, 3, 4, 5 e 12 do artigo 21.º, bem como o emolumento previsto nos n.os 7.7, 7.7.1, 7.7.2 e 7.7.3 do artigo 27.º, são reduzidos em 65 % quando o facto respeite apenas a prédios rústicos de valor inferior a (euro) 10 000.
+33 - Os emolumentos previstos nos n.os 2.1, 2.12, 2.16.2, 2.17, 3, 4, 5, 12, 22 e 23 do artigo 21.º, bem como o emolumento previsto nos n.os 7.7, 7.7.1, 7.7.2 e 7.7.3 do artigo 27.º, são reduzidos em 65 % quando o facto respeite apenas a prédios rústicos de valor inferior a 10 000 €.
 
 33.1 - Os emolumentos devidos pelo procedimento especial de transmissão, oneração e registo previstos no artigo 27.º-A, n.os 1 e 2, são reduzidos em 50 % quando respeitem apenas a prédios rústicos de valor inferior a (euro) 10 000.
 

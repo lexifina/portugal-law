@@ -157,3 +157,23 @@ b) Por cada prédio a mais, além do primeiro, adjudicado a cada partilhante - (
 20 - [Revogado].
 
 21 - Pelo procedimento extraordinário de regularização da situação jurídico-registral dos bens do Estado, dos institutos públicos, das regiões autónomas e das autarquias locais - (euro) 550,00.
+
+22 - Procedimento especial de justificação, incluindo todos os atos de registo realizados em consequência do mesmo:
+
+22.1 - Pelo processo - 200 €;
+
+22.2 - Pela dedução de oposição - 100 €.
+
+22.3 - Se o processo abranger mais do que um prédio, acresce 50 € por cada prédio a mais, até ao limite previsto no n.º 1.2.
+
+22.4 - No caso de indeferimento liminar do pedido é devolvida a quantia cobrada, com exceção de valor igual ao da recusa.
+
+23 - Procedimento especial de registo, incluindo todos os atos de registo realizados em consequência do mesmo:
+
+23.1 - Pelo processo - 250 €.
+
+23.2 - Se o processo abranger mais do que um prédio, acresce 50 € por cada prédio a mais, até ao limite previsto no n.º 1.2.
+
+23.3 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do procedimento especial de registo - 30 €.
+
+23.4 - No caso de o procedimento ser declarado findo é devolvida a quantia cobrada, com exceção de valor igual ao da recusa.
