@@ -1,0 +1,158 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "536",
+    "id": "356457",
+    "titulo": "Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "108829",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-07-01",
+            "id": "180311",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-04-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-04-20",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública ",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=807"
+          },
+          {
+            "DataDocumento": "2026-07-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a42684d324d35596a52694c54517a5a4441744e446778595330355a5745774c544a6b5a6a51304e4445344e6a51344d5335775a47593d&fich=0a3c9b4b-43d0-481a-9ea0-2df444186481.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Relatório de votações 6.ª - CECT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59304d4755344e3255304c5759345a474d744e4459345a6931694e54526b4c546c694e324a6d4d44417a4d5449334f4335775a47593d&fich=640e87e4-f8dc-468f-b54d-9b7bf0031278.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8452",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Coesão Territorial ",
+        "Numero": "8452",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45324d444e6b597a6c684c5745344f5755744e474e6c4d4330355a4455784c575530596a41774d6a42684d6a4979595335775a47593d&fich=1603dc9a-a89e-4ce0-9d51-e4b0020a222a.pdf&Inline=true",
+            "nome": "Professor Doutor Frederico da Costa Pinto em 2026-05-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5578596a64685a4751344c574a6a4d7a51744e4467324d5330344d54557a4c54646c4f545578597a63325954686a4d5335775a47593d&fich=51b7add8-bc34-4861-8153-7e951c76a8c1.pdf&Inline=true",
+            "nome": "Ordem dos Advogados em 2026-05-27"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45324d444e6b597a6c684c5745344f5755744e474e6c4d4330355a4455784c575530596a41774d6a42684d6a4979595335775a47593d&fich=1603dc9a-a89e-4ce0-9d51-e4b0020a222a.pdf&Inline=true",
+            "nome": "Professor Doutor Frederico da Costa Pinto em 2026-04-30"
+          },
+          {
+            "link": "",
+            "nome": "Professor Doutor Henrique Salinas em 2026-04-30"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426b4e6a45794d324d314c546c6d4e546b744e474e6c4e4331684e44557a4c5755344d7a4d794e3245334d574d784e7935775a47593d&fich=0d6123c5-9f59-4ce4-a453-e83327a71c17.pdf&Inline=true",
+            "nome": "Professora Doutora Maria João Antunes em 2026-04-30"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426b4e6a45794d324d314c546c6d4e546b744e474e6c4e4331684e44557a4c5755344d7a4d794e3245334d574d784e7935775a47593d&fich=0d6123c5-9f59-4ce4-a453-e83327a71c17.pdf&Inline=true",
+            "nome": "Professor Doutor Miguel João Costa em 2026-04-30"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5578596a64685a4751344c574a6a4d7a51744e4467324d5330344d54557a4c54646c4f545578597a63325954686a4d5335775a47593d&fich=51b7add8-bc34-4861-8153-7e951c76a8c1.pdf&Inline=true",
+            "nome": "Ordem dos Advogados em 2026-04-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Consultivo da Procuradoria-Geral da República em 2026-04-30"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-07-15",
+            "dataRemessa": "2026-07-15",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Informação"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2026-07-15",
+            "descricao": null,
+            "detalhe": null,
+            "id": "172545",
+            "publicacao": null,
+            "resultado": "Rejeitado",
+            "reuniao": "47",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-04-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717720",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
