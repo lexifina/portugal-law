@@ -1,0 +1,184 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "544",
+    "id": "356473",
+    "titulo": "Procede à criação da Carreira Especial de Medicina Dentária no Serviço Nacional de Saúde"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "108819",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-05-27",
+            "id": "180191",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-27",
+            "id": "180190",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-06-18",
+            "id": "180261",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-06-25",
+            "id": "180272",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-07-01",
+            "id": "180298",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-04-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-04-17",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta Pública - Contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=891"
+          },
+          {
+            "DataDocumento": "2026-05-29",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Sindicato dos Médicos Dentistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d6d526a4e5749344f5330344d47466a4c5451784f5445744f4449785a43316c5957566a4d6a686a4e7a5a695a6a63756347526d&fich=a2dc5b89-80ac-4191-821d-eaec28c76bf7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Sindicato dos Médicos Dentistas do Setor Público e Social Português",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e6d557a5a5463305969307a4e6a59784c54517a4d325974596d59785953307a4d445a6b4f446c6a596a41324d4467756347526d&fich=36e3e74b-3661-433f-bf1a-306d89cb0608.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-16",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Associação dos Médicos Dentistas dos Serviços Públicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694f44646a4d4451335a4331695a4445324c5451795a6a41744f4463334e6930784e6d59355a6a41345a6a67344d5755756347526d&fich=b87c047d-bd16-42f0-8776-16f9f08f881e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e6a466b4f445532595331694d32526d4c54526d4d5449744f444d7a597930314d54566959544e684d6d51344f5755756347526d&fich=e61d856a-b3df-4f12-833c-515ba3a2d89e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e5451774e47526c5a43307a5a44646c4c5451314f575974595445324d5330314e5449794d6a5533597a4135596a4d756347526d&fich=d5404ded-3d7e-459f-a161-5522257c09b3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e474e6c4e4445304d79307a5a4451354c5451304f544174595751344e7930315a5467784e6a426b5954566a5a5467756347526d&fich=e4ce4143-3d49-4490-ad87-5e8160da5ce8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - GP CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d5445795a4459325a5330325a546b324c54526b5a6d4d74596d46694e7931695a6a4a684e474e6d5a4745334f4459756347526d&fich=8112d66e-6e96-4dfc-bab7-bf2a4cfda786.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - GP L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877595759355a54466a59793078595759784c54526d5a6d4974596d56685a6930344d6a417a4d574d785a474e685a4759756347526d&fich=0af9e1cc-1af1-4ffb-beaf-82031c1dcadf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4f5755774d6a6b7a4e7930334d446b774c54526a4e4751744f446469596930795a546c6b4d7a526c4d574d774e4455756347526d&fich=c9e02937-7090-4c4d-87bb-2e9d34e1c045.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8455",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde ",
+        "Numero": "8455",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "IL",
+              "L",
+              "PCP",
+              "CDS-PP",
+              "BE"
+            ],
+            "data": "2026-07-15",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I><BR>Ausência: <I>IL</I>, <I> L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>",
+            "id": "172537",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "62",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-04-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717649",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
