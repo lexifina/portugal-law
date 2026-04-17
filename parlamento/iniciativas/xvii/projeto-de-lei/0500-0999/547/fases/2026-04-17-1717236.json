@@ -1,0 +1,1015 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "547",
+    "id": "356479",
+    "titulo": "Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2026-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "72137",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2026-04-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356228",
+        "leg": "XVII",
+        "nr": "640",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56869",
+            "obs": null,
+            "pag": [
+              "4-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-18",
+            "pubLeg": "XVII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/4?pgs=4-18&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56869",
+            "obs": null,
+            "pag": [
+              "4-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-18",
+            "pubLeg": "XVII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/4?pgs=4-18&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas "
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356481",
+        "leg": "XVII",
+        "nr": "787",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56869",
+            "obs": null,
+            "pag": [
+              "4-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-18",
+            "pubLeg": "XVII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/4?pgs=4-18&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56869",
+            "obs": null,
+            "pag": [
+              "4-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-18",
+            "pubLeg": "XVII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/4?pgs=4-18&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-04-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/3"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "9007",
+                "nome": "Raul Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/4"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/5"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/6?pgs=6&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/6"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/7?pgs=7&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/7"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/7?pgs=7&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/8"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/8?pgs=8&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1517",
+                "nome": "Rui Jorge Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/9"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/8?pgs=8-10&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "9428",
+                "nome": "Miguel Rangel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/10"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/10?pgs=10-11&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/11"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8698",
+                "nome": "Olga Freire"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/12"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/13"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/14"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/14?pgs=14-16&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/15"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/16?pgs=16&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/16"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/16?pgs=16-18&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/17"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483324",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2061",
+                "nome": "José Pedro Aguiar-Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483325",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18?org=PLC"
+              }
+            ],
+            "sumario": "Avançar com a Regionalização: Recomenda a criação de uma assembleia cidadã que avalie o quadro legal das regiões administrativas; Lei-Quadro das regiões administrativas (altera e republica a Lei n.º 56/91, de 13 de Agosto); Pela promoção de um debate nacional sobre a regionalização e o reforço da coesão territorial.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717236",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1025106",
+        "obs": null,
+        "pag": [
+          "4-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-04-18",
+        "pubLeg": "XVII",
+        "pubNr": "80",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/4?pgs=4-18&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
