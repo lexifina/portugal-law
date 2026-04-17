@@ -1,0 +1,195 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "334",
+    "id": "315888",
+    "titulo": "Cria o suplemento de agente único de transporte coletivos"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "108824",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2026-05-12",
+            "id": "180162",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2026-05-12",
+            "id": "180161",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-04-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-06-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938345a4463304e6d4e6a4e79316c5a5467774c54526a5a574d74596a566b4d4330334d4749305a6d55305a544e6c59546b756347526d&fich=8d746cc7-ee80-4cec-b5d0-70b4fe4e3ea9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-17",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resultado das Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d6a4177596a45314e6930774e6d59334c545134595467744f544d784d4330785a6a566d4d6a457a4f4463334d5751756347526d&fich=5200b156-06f7-48a8-9310-1f5f2138771d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-17",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e6d5a6d4d32526a4f5330784e5455324c5451324d4751744f4751324f533031597a42685a546b7a4e7a5977597a51756347526d&fich=d6ff3dc9-1556-460d-8d69-5c0ae93760c4.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8451",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública ",
+        "Numero": "8451",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832596d55774e7a55344d69316b5a6d55324c54526c5a6a6b744f54566c596930335a6d566b4d546b33596d517a5a5449756347526d&fich=6be07582-dfe6-4ef9-95eb-7fed197bd3e2.pdf&Inline=true",
+            "nome": "STTUC - Sindicato dos Trabalhadores dos Transportes Urbanos do Centro em 2026-05-12"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938355a6d5a6c595749355969307a5a4745304c5451344f475974595451324e6930334e6a4a694f54637a5a6a5a6c597a41756347526d&fich=9ffeab9b-3da4-488f-a466-762b973f6ec0.pdf&Inline=true",
+            "nome": "STAL – Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins em 2026-05-11"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a596d55785a474530595330774f544d7a4c5451304f546b74596a426c4d5330354e7a4e69595449315a446b304f4455756347526d&fich=3be1da4a-0933-4499-b0e1-973ba25d9485.pdf&Inline=true",
+            "nome": "ANMP - Associação Nacional de Municípios Portugueses em 2026-05-14"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f5442684f4451324f43316c4d7a45324c54526c4f545574596a6b344f4330344d7a646c4f57457859575978597a59756347526d&fich=f90a8468-e316-4e95-b988-837e9a1af1c6.pdf&Inline=true",
+            "nome": "DGAEP - Direção-Geral da Administração e Emprego Público em 2026-05-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e4451314e6d51324d79316d4d6d4d324c54517a4d6a4d744f5463784e6930344e6a4d795a5467314e6d49795a6a59756347526d&fich=34456d63-f2c6-4323-9716-8632e856b2f6.pdf&Inline=true",
+            "nome": "AMT - Autoridade da Mobilidade e dos Transportes em 2026-05-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d7a46684d3256694d6930314e6a677a4c54517a595449744f5455354d6931684f544134597a6b325a4455314e4449756347526d&fich=931a3eb2-5683-43a2-9592-a908c96d5542.pdf&Inline=true",
+            "nome": "CT-SMUC – Comissão de Trabalhadores Serviços Municipalizados de Transportes Urbanos de Coimbra em 2026-05-07"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832596d55774e7a55344d69316b5a6d55324c54526c5a6a6b744f54566c596930335a6d566b4d546b33596d517a5a5449756347526d&fich=6be07582-dfe6-4ef9-95eb-7fed197bd3e2.pdf&Inline=true",
+            "nome": "STTUC - Sindicato dos Trabalhadores dos Transportes Urbanos do Centro em 2026-05-04"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938355a6d5a6c595749355969307a5a4745304c5451344f475974595451324e6930334e6a4a694f54637a5a6a5a6c597a41756347526d&fich=9ffeab9b-3da4-488f-a466-762b973f6ec0.pdf&Inline=true",
+            "nome": "STAL – Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins em 2026-05-04"
+          },
+          {
+            "link": "",
+            "nome": "SINTAP - Sindicato dos Trabalhadores da Administração Pública e Entidades com Fins Públicos em 2026-05-04"
+          },
+          {
+            "link": "",
+            "nome": "Federação Nacional de Sindicatos Independentes da Administração Pública e de Entidades com Fins Públicos. em 2026-05-04"
+          },
+          {
+            "link": "",
+            "nome": "FESAP - Federação de Sindicatos da Administração Pública e de Entidades com Fins Públicos em 2026-05-04"
+          },
+          {
+            "link": "",
+            "nome": "Frente Comum de Sindicatos da Administração Pública em 2026-05-04"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a596d55785a474530595330774f544d7a4c5451304f546b74596a426c4d5330354e7a4e69595449315a446b304f4455756347526d&fich=3be1da4a-0933-4499-b0e1-973ba25d9485.pdf&Inline=true",
+            "nome": "ANMP - Associação Nacional de Municípios Portugueses em 2026-05-04"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f5442684f4451324f43316c4d7a45324c54526c4f545574596a6b344f4330344d7a646c4f57457859575978597a59756347526d&fich=f90a8468-e316-4e95-b988-837e9a1af1c6.pdf&Inline=true",
+            "nome": "DGAEP - Direção-Geral da Administração e Emprego Público em 2026-05-04"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e4451314e6d51324d79316d4d6d4d324c54517a4d6a4d744f5463784e6930344e6a4d795a5467314e6d49795a6a59756347526d&fich=34456d63-f2c6-4323-9716-8632e856b2f6.pdf&Inline=true",
+            "nome": "AMT - Autoridade da Mobilidade e dos Transportes em 2026-05-04"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d7a46684d3256694d6930314e6a677a4c54517a595449744f5455354d6931684f544134597a6b325a4455314e4449756347526d&fich=931a3eb2-5683-43a2-9592-a908c96d5542.pdf&Inline=true",
+            "nome": "CT-SMUC – Comissão de Trabalhadores Serviços Municipalizados de Transportes Urbanos de Coimbra em 2026-05-05"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-06-17",
+            "dataRemessa": "2026-06-17",
+            "numeroOficio": "E-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2026-06-17",
+            "descricao": "Votações detalhadas no relatório de votações.",
+            "detalhe": null,
+            "id": "172194",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "100",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-04-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717664",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
