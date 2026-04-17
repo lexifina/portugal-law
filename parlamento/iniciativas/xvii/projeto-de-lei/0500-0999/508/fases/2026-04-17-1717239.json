@@ -1,0 +1,1001 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "508",
+    "id": "356345",
+    "titulo": "Aplica a Lei da Concorrência aos Processos Pendentes "
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2026-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "72139",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2026-04-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "356457",
+        "leg": "XVII",
+        "nr": "536",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56866",
+            "obs": null,
+            "pag": [
+              "19-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-18",
+            "pubLeg": "XVII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/19?pgs=19-31&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-04-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/18"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "8551",
+                "nome": "Idalina Durães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/19"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/20"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7344",
+                "nome": "Rui Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/21"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "9428",
+                "nome": "Miguel Rangel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/22"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6968",
+                "nome": "Patrícia Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/23"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8916",
+                "nome": "Ricardo Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/24"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7344",
+                "nome": "Rui Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/25"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8916",
+                "nome": "Ricardo Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/26"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6878",
+                "nome": "Nuno Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/28"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/29"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/30"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/31"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/28?pgs=28&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8916",
+                "nome": "Ricardo Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/32"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483031",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8916",
+                "nome": "Ricardo Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/34"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483032",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/80/35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-18",
+                "pubLeg": "XVII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Aplica a Lei da Concorrência aos Processos Pendentes; Alarga o âmbito de aplicação do Regime Jurídico da Concorrência aos processos pendentes e aumenta os prazos de prescrição.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717239",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1025099",
+        "obs": null,
+        "pag": [
+          "19-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-04-18",
+        "pubLeg": "XVII",
+        "pubNr": "80",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/080/2026-04-18/19?pgs=19-31&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
