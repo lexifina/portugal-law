@@ -1,0 +1,62 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "569",
+  "id": "356583",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-04-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a45325a444577597a68684c574e69597a59744e47466c4d6931694d3255784c574a6a5a6a5935596d51314e575134597935775a47593d&fich=16d10c8a-cbc6-4ae2-b3e1-bcf69bd55d8c.pdf&Inline=true",
+        "anexoNome": "A. I. G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a5a694e3255334d54526c4c5441774e4459744e4455784d4330344d446c6a4c5455774d7a42695a5441794d6d56684e53356b62324e34&fich=6b7e714e-0046-4510-809c-5030be022ea5.docx&Inline=true",
+        "anexoNome": "Texto da iniciativa - Versão 1 de 17.04.2026"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PAN",
+        "idCadastro": "6864",
+        "nome": "Inês de Sousa Real"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PAN"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356583",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a63354d6a41304e5467304c57526d4f574d744e47497a4f433035595456684c57597a4e325a6a4e7a4d345a5441334d79356b62324e34&fich=79204584-df9c-4b38-9a5a-f37fc738e073.docx&Inline=true",
+    "IniNr": "569",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do título e do texto a pedido do autor em 2026-04-20.",
+    "IniTipo": "J",
+    "IniTitulo": "Alarga as medidas de proteção de menores no âmbito dos crimes contra a autodeterminação sexual e a liberdade sexual e do crime de violência doméstica, alterando o Código Penal",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
