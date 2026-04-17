@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "579",
+  "id": "356604",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-04-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d7759575a6b5a44426c4c546332596d45744e47466d4d4331684e57566d4c5449335a445a6b596a51784e6d59794f4335775a47593d&fich=30afdd0e-76ba-4af0-a5ef-27d6db416f28.pdf&Inline=true",
+        "anexoNome": "A. I. G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "L",
+        "idCadastro": "7356",
+        "nome": "Isabel Mendes Lopes"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "8491",
+        "nome": "Filipa Pinto"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "8869",
+        "nome": "Jorge Pinto"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "6968",
+        "nome": "Patrícia Gonçalves"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "6932",
+        "nome": "Paulo Muacho"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "7337",
+        "nome": "Rui Tavares"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "L"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356604",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a63314f474e684e5463324c5449335a6d55744e4751304d5330354e54686d4c5459794d5456684e6a497a596a55795a5335775a47593d&fich=758ca576-27fe-4d41-958f-6215a623b52e.pdf&Inline=true",
+    "IniNr": "579",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Altera o Estatuto dos Benefícios Fiscais, combatendo a disparidade salarial de género",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
