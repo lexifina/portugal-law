@@ -1,0 +1,181 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "574",
+    "id": "356595",
+    "titulo": "Elevação de Carvalho à categoria de vila"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-04-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "108856",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-04-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-04-22",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=813"
+          },
+          {
+            "DataDocumento": "2026-10-12",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f474d344e6a6869595455744e7a5a6d4e6930304d4759784c546b325a6d51744e574a6c4e444930597a6c6a4e5759334c6e426b5a673d3d&fich=8c868ba5-76f6-40f1-96fd-5be424c9c5f7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-21",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório do PJL574-XVII-1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a474d794d444e6b4d6a45744e54646b5a5330304d7a686c4c54677a595749744d544a6d4d6a55315a5455774d6a51354c6e426b5a673d3d&fich=dc203d21-57de-438e-83ab-12f255e50249.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5441334d5749784f4759744d47566c4e693030595441334c5467794d7a51744d324e6c4d5452684e6d4d33593245314c6e426b5a673d3d&fich=e071b18f-0ee6-4a07-8234-3ce14a6c7ca5.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-05-04"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a63304d5756685a6a49744d6d4d345a5330305a47466d4c546c6a5a446b745a4463774d4749324d7a63794e6a55324c6e426b5a673d3d&fich=2741eaf2-2c8e-4daf-9cd9-d700b6372656.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-05-06"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595745354d6d597a5a6a49744d7a4d7a596930305a4751354c546b304d5749744e6a517a597a55314d47466c4d3249334c6e426b5a673d3d&fich=aa92f3f2-333b-4dd9-941b-643c550ae3b7.pdf&Inline=true",
+            "nome": "Academia Portuguesa de História em 2026-05-13"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e446c6a4d325a695a5451745a6a4e6b4e793030597a52694c5745314e5749744d3245304d6a4d784f446b305a47566c4c6e426b5a673d3d&fich=49c3fbe4-f3d7-4c4b-a55b-3a4231894dee.pdf&Inline=true",
+            "nome": "Câmara Municipal de Penacova em 2026-05-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a51354e5445304e5455744d446b79595330304d57566c4c5745314d6a49745a6a67304e7a55334f474932596a67314c6e426b5a673d3d&fich=b4951455-092a-41ee-a522-f847578b6b85.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Carvalho em 2026-06-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a474577597a646a4d3255744d4456694f5330304d3255774c574a6a59574974596a59325a6a46694f4463344d6d4d774c6e426b5a673d3d&fich=da0c7c3e-05b9-43e0-bcab-b66f1b8782c0.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Carvalho em 2026-07-01"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5441334d5749784f4759744d47566c4e693030595441334c5467794d7a51744d324e6c4d5452684e6d4d33593245314c6e426b5a673d3d&fich=e071b18f-0ee6-4a07-8234-3ce14a6c7ca5.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-04-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a63304d5756685a6a49744d6d4d345a5330305a47466d4c546c6a5a446b745a4463774d4749324d7a63794e6a55324c6e426b5a673d3d&fich=2741eaf2-2c8e-4daf-9cd9-d700b6372656.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Assembleias Municipais (ANAM) em 2026-04-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595745354d6d597a5a6a49744d7a4d7a596930305a4751354c546b304d5749744e6a517a597a55314d47466c4d3249334c6e426b5a673d3d&fich=aa92f3f2-333b-4dd9-941b-643c550ae3b7.pdf&Inline=true",
+            "nome": "Academia Portuguesa de História em 2026-04-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e446c6a4d325a695a5451745a6a4e6b4e793030597a52694c5745314e5749744d3245304d6a4d784f446b305a47566c4c6e426b5a673d3d&fich=49c3fbe4-f3d7-4c4b-a55b-3a4231894dee.pdf&Inline=true",
+            "nome": "Câmara Municipal de Penacova em 2026-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Assembleia Municipal de Penacova em 2026-04-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a51354e5445304e5455744d446b79595330304d57566c4c5745314d6a49745a6a67304e7a55334f474932596a67314c6e426b5a673d3d&fich=b4951455-092a-41ee-a522-f847578b6b85.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Carvalho em 2026-04-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a474577597a646a4d3255744d4456694f5330304d3255774c574a6a59574974596a59325a6a46694f4463344d6d4d774c6e426b5a673d3d&fich=da0c7c3e-05b9-43e0-bcab-b66f1b8782c0.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Carvalho em 2026-04-23"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "IL",
+            "id": "7343",
+            "motivoCessacao": null,
+            "nome": "Carlos Guimarães Pinto"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "CDS-PP",
+              "JPP"
+            ],
+            "data": "2026-10-21",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> CDS-PP</I>, <I> JPP</I>",
+            "id": "193187",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "59",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-04-21",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717812",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
