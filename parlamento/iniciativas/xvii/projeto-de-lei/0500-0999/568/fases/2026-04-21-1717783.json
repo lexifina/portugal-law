@@ -1,0 +1,152 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "568",
+    "id": "356573",
+    "titulo": "Aprova medidas excecionais de apoio aos municípios afetados pelas tempestades ocorridos em território nacional"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-04-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "108853",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-04-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-04-22",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=812"
+          },
+          {
+            "DataDocumento": "2026-05-05",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a557a4e4449325a5459745a44566a4f5330304e6a566b4c5745344e6d59744d7a45345a6d46684d7a6b30597a45334c6d52765933673d&fich=253426e6-d5c9-465d-a86f-318faa394c17.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-05",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4749345a4459304d4745745a6d566a5a6930305a5749794c546b334d444974596a63794e4755314f54426d4e4451784c6e426b5a673d3d&fich=0b8d640a-fecf-4eb2-9702-b724e590f441.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54426959544d314e544574596a6734595330304d7a4d794c546b345a6a45744d324d334d6a686c4f5451784e4449324c6e426b5a673d3d&fich=90ba3551-b88a-4332-98f1-3c728e941426.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-05-04"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d497a5a5445795a574d744f44566a4d5330304e3259344c57466d5a6a67744d4441314d47566b596a41304d7a4d344c6e426b5a673d3d&fich=6b3e12ec-85c1-47f8-aff8-0050edb04338.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-05-05"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54426959544d314e544574596a6734595330304d7a4d794c546b345a6a45744d324d334d6a686c4f5451784e4449324c6e426b5a673d3d&fich=90ba3551-b88a-4332-98f1-3c728e941426.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-04-23"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d497a5a5445795a574d744f44566a4d5330304e3259344c57466d5a6a67744d4441314d47566b596a41304d7a4d344c6e426b5a673d3d&fich=6b3e12ec-85c1-47f8-aff8-0050edb04338.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional das Assembleias Municipais (ANAM) em 2026-04-23"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "IL",
+            "id": "7343",
+            "motivoCessacao": null,
+            "nome": "Carlos Guimarães Pinto"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-05-05",
+            "dataRemessa": "2026-05-05",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "CDS-PP",
+              "JPP"
+            ],
+            "data": "2026-05-05",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I><BR>Ausência: <I>CDS-PP</I>, <I> JPP</I>",
+            "id": "171645",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "33",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-04-21",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717783",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
