@@ -1,0 +1,885 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "784",
+    "id": "356477",
+    "titulo": "Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2026-04-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "72171",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2026-04-23",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356524",
+        "leg": "XVII",
+        "nr": "815",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356537",
+        "leg": "XVII",
+        "nr": "827",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Promover o tratamento de infeções resistentes aos antibióticos"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356544",
+        "leg": "XVII",
+        "nr": "830",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56875",
+            "obs": null,
+            "pag": [
+              "46-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-04-24",
+            "pubLeg": "XVII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o acompanhamento da aplicação da Deliberação n.º 112/CD/2024 do INFARMED relativa à terapia fágica"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-04-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/47?pgs=47&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6968",
+                "nome": "Patrícia Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7373",
+                "nome": "Sandra Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "9149",
+                "nome": "Joana Seabra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:53",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/51?pgs=51&org=PLC"
+              }
+            ],
+            "sumario": "Implementação do modelo belga de terapia fágica em Portugal (Eda Gonçalves Alves e outros); Recomenda ao Governo que fomente o estudo de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica; Recomenda ao Governo a implementação efetiva e coordenada da Terapia Fágica em Portugal, com base na Deliberação n.º 112/CD/2024, do INFARMED; Promover o tratamento de infeções resistentes aos antibióticos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1717816",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XVI",
+        "nr": "45",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Implementação do Modelo Belga de Terapia Fágica em Portugal"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1025135",
+        "obs": null,
+        "pag": [
+          "46-51"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-04-24",
+        "pubLeg": "XVII",
+        "pubNr": "82",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/46?pgs=46-51&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
