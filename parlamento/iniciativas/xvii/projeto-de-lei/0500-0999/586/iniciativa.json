@@ -1,0 +1,158 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "586",
+  "id": "356620",
+  "fases": 4,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-04-23",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32526c4f57566d4f5442694c5463334d5441744e446731596931695a5451794c5445344d6a55794e6a42694d6d59345a5335775a47593d&fich=de9ef90b-7710-485b-be42-1825260b2f8e.pdf&Inline=true",
+        "anexoNome": "A. I. G"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "5600",
+        "nome": "Eurico Brilhante Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4452",
+        "nome": "Isabel Alves Moreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "469",
+        "nome": "Porfírio Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1517",
+        "nome": "Rui Jorge Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4551",
+        "nome": "Júlia Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4126",
+        "nome": "Luís Moreira Testa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6870",
+        "nome": "Marina Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7341",
+        "nome": "Francisco César"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7913",
+        "nome": "Ana Bernardo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6934",
+        "nome": "Mariana Vieira da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6013",
+        "nome": "Hugo Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4405",
+        "nome": "João Torres"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8982",
+        "nome": "Sofia Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "9332",
+        "nome": "Eva Cruzeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6371",
+        "nome": "Patrícia Faro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8230",
+        "nome": "André Rijo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5610",
+        "nome": "Rosa Isabel Cruz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4209",
+        "nome": "Elza Pais"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "8888",
+        "nome": "Pedro Vaz"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356620",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324e6a5a5455344e7a566b4c57566b596d51744e4467304d6931684f445a6c4c574d77595755774d325530595452694d43356b62324e34&fich=cce5875d-edbd-4842-a86e-c0ae03e4a4b0.docx&Inline=true",
+    "IniNr": "586",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Clarifica as regras de transparência da informação relativa à proveniência de donativos singulares e da angariação de fundos destinados a partidos políticos e campanhas eleitorais, alterando a Lei n.º 19/2003, de 20 de junho",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
