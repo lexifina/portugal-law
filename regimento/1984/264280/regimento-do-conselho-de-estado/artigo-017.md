@@ -1,14 +1,10 @@
-# Artigo 17.º
+# Artigo 17
 
 ### (Publicação dos pareceres)
 
-1 - São obrigatoriamente publicados:
+1 - São obrigatoriamente publicados os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º se o Presidente da República praticar os atos de que constituem requisito.
 
-a) Os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º, se o Presidente da República praticar os actos de que constituem requisito;
-
-b) O parecer previsto na alínea e) do n.º 1 do artigo 3.º
-
-2 - A publicação dos pareceres referidos na alínea a) do número anterior será simultânea com a dos actos a que aqueles respeitem.
+2 - A publicação dos pareceres referidos no número anterior é simultânea com a dos atos a que aqueles respeitem.
 
 3 - Os demais pareceres só serão publicados se o Presidente da República assim o determinar.
 
