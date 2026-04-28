@@ -1,0 +1,67 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Proposta de Lei",
+  "numero": "72",
+  "id": "356639",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-04-28",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324e6a4e545a6d4f44457a4c57466d4f5755744e44457a4d7930344e4755794c5745775a6a426d4d6a49355a6d5535597935775a47593d&fich=cc56f813-af9e-4133-84e2-a0f0f229fe9c.pdf&Inline=true",
+        "anexoNome": "A. I. G"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a597a4e4751324e57466b4c575a6859544d744e4441325a4330354f474e6c4c5459324e4752684d44466d4f57566d5a5335775a47593d&fich=634d65ad-faa3-406d-98ce-664da01f9efe.pdf&Inline=true",
+        "anexoNome": "Texto (versão assinada)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a45344e7a63784f4759344c5451324e5463744e4759345a533035596a67774c5449345a5751334d6a63324e3249794d4335775a47593d&fich=187718f8-4657-4f8e-9b80-28ed72767b20.pdf&Inline=true",
+        "anexoNome": "Ofício - Processo de urgência"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Concessão de processo de urgência – Proposta de Lei n.º 72/XVII/1.ª (GOV)",
+        "dcl": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "356640",
+        "legislatura": "XVII",
+        "numero": "27",
+        "sessao": "1",
+        "tipo": "D"
+      }
+    ],
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356639",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32526c4d574e6b5a6a6c6c4c546b774d6a67744e44526c4e4330344d446b324c5441775a5463785a4751774e6d51775979356b62324e34&fich=de1cdf9e-9028-44e4-8096-00e71dd06d0c.docx&Inline=true",
+    "IniNr": "72",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Revoga a Lei n.º 98/97, de 26 de agosto, e aprova a nova lei de organização e processo do Tribunal de Contas",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
