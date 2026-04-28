@@ -1,0 +1,41 @@
+Portaria n.º 194/2026/1
+de 28 de abril
+Portaria de extensão das alterações do contrato coletivo entre a União das Misericórdias Portuguesas - UMP e o Sindicato dos Enfermeiros Portugueses - SEP e outros
+
+As alterações do contrato coletivo entre a União das Misericórdias Portuguesas - UMP e o Sindicato dos Enfermeiros Portugueses - SEP e outros, publicadas no Boletim do Trabalho e Emprego (BTE), n.º 43, de 22 de novembro de 2025, abrangem as relações de trabalho entre as Santas Casas da Misericórdia representadas pela União das Misericórdias Portuguesas - UMP que exerçam a sua atividade no território do continente e trabalhadores ao seu serviço, uns e outros representados pelas associações outorgantes.
+
+A União das Misericórdias Portuguesas - UMP requereu a extensão das alterações do contrato coletivo, na mesma área geográfica, às relações de trabalho entre as Santas Casas da Misericórdia representadas pela União das Misericórdias Portuguesas - UMP e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas na convenção, não representados pelas associações sindicais outorgantes, com exceção dos trabalhadores representados pelas associações sindicais com as quais a UMP celebrou outro contrato coletivo.
+
+De acordo com o n.º 1 do artigo 514.º do Código do Trabalho, a convenção coletiva pode ser aplicada, no todo ou em parte, por portaria de extensão a empregadores e a trabalhadores integrados no âmbito do setor de atividade e profissional definido naquele instrumento. O n.º 2 do referido normativo legal determina ainda que a extensão é possível mediante a ponderação de circunstâncias sociais e económicas que a justifiquem, nomeadamente a identidade ou semelhança económica e social das situações no âmbito da extensão e no instrumento a que se refere.
+
+Existindo identidade económica e social entre as situações que se pretende abranger com a extensão e as previstas na convenção em apreço, foi promovida a realização do estudo de avaliação dos indicadores possíveis previstos nas alíneas a) a e) do n.º 1 da Resolução do Conselho de Ministros (RCM) n.º 82/2017, de 9 de junho, através dos elementos disponíveis no apuramento do relatório único/quadros de pessoal de 2023. De acordo com o estudo, estavam abrangidos pelo instrumento de regulamentação coletiva de trabalho, direta e indiretamente, 4 894 trabalhadores por conta de outrem a tempo completo (TCO), excluindo os praticantes e aprendizes e o residual, dos quais 91,9 % são mulheres e 8,1 % são homens. Segundo os dados da amostra, o estudo indica que para 1512 TCO (30,9 % do total) as remunerações devidas são iguais ou superiores às remunerações convencionais, enquanto para 3 382 TCO (69,1 % do total) as remunerações devidas são inferiores às convencionais, dos quais 7,7 % são homens e 92,3 % são mulheres. Quanto ao impacto salarial da extensão, a atualização das remunerações representa um acréscimo de 1,2 % na massa salarial para o total dos trabalhadores e de 1,9 %para os trabalhadores cujas remunerações devidas serão alteradas. Na perspetiva da promoção de melhores níveis de coesão e igualdade social o estudo indica que há redução no leque salarial e diminuição dos rácios de desigualdade calculados.
+
+Neste contexto, ponderadas as circunstâncias sociais e económicas justificativas da extensão de acordo com o disposto no n.º 2 do artigo 514.º do Código do Trabalho, promove-se o alargamento do âmbito de aplicação das alterações do contrato coletivo às relações de trabalho não abrangidas por instrumento de regulamentação coletiva de trabalho negocial, porquanto tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre as Santas Casas da Misericórdia.
+
+Considerando que a anterior extensão da convenção não é aplicável às relações de trabalho em que sejam parte trabalhadores representados pelas associações sindicais com as quais a União das Misericórdias Portuguesas - UMP celebrou outro contrato coletivo ou em associações sindicais filiadas em confederação sindical diferente das outorgantes, nem às relações de trabalho em que sejam parte trabalhadores filiados em associações sindicais representadas pela FEPCES - Federação Portuguesa dos Sindicatos dos Trabalhadores do Comércio, Escritório e Serviços e pela FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal, mantém-se na presente extensão idênticas exclusões.
+
+Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.<sup>os </sup>2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foram tidos em conta a data do depósito da convenção e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
+
+Foi publicado o aviso relativo ao projeto da presente extensão no Boletim do Trabalho e Emprego (BTE), separata, n.º 9, de 30 de março de 2026, ao qual não foi deduzida oposição por parte dos interessados.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado Adjunto e do Trabalho, no uso da competência delegada pelo Despacho n.º 9158/2025, de 30 de julho, da Ministra do Trabalho, Solidariedade e Segurança Social, publicado no Diário da República, 2.ª série, n.º 148, de 4 de agosto de 2025, ao abrigo do artigo 514.º e do n.º 1 do artigo 516.º do Código do Trabalho e da Resolução do Conselho de Ministros n.º 82/2017, publicada no Diário da República, 1.ª série, n.º 112, de 9 de junho de 2017, o seguinte:
+
+Artigo 1.º
+
+1 - As condições de trabalho constantes das alterações do contrato coletivo entre a União das Misericórdias Portuguesas - UMP e o Sindicato dos Enfermeiros Portugueses - SEP e outros, publicadas no Boletim do Trabalho e Emprego (BTE), n.º 43, de 22 de novembro de 2025, são estendidas no território do continente às relações de trabalho entre as Santas Casas da Misericórdia filiadas na União das Misericórdias Portuguesas - UMP e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas na convenção, não representados pelas associações sindicais outorgantes.
+
+2 - A presente extensão não é aplicável às relações de trabalho em que sejam parte trabalhadores representados pelas associações sindicais com as quais a União das Misericórdias Portuguesas - UMP celebrou outro contrato coletivo ou em associações sindicais filiadas em confederação sindical diferente das outorgantes.
+
+3 - A presente extensão não é aplicável às relações de trabalho em que sejam parte trabalhadores filiados em associações sindicais representadas pela FEPCES - Federação Portuguesa dos Sindicatos dos Trabalhadores do Comércio, Escritório e Serviços e pela FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal.
+
+Artigo 2.º
+
+1 - A presente portaria entra em vigor no quinto dia após a sua publicação no Diário da República.
+
+2 - As tabelas salariais e as cláusulas de natureza pecuniária, em vigor, previstas na convenção produzem efeitos a partir de 1 de janeiro de 2026.
+
+O Secretário de Estado Adjunto e do Trabalho, Adriano Rafael Sousa Moreira, em 23 de abril de 2026.
+
+119948353
