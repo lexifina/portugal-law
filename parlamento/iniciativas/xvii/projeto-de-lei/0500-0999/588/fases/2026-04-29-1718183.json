@@ -1,0 +1,190 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "588",
+    "id": "356630",
+    "titulo": "Assegura o acesso público à informação sobre as fontes de financiamento dos partidos políticos"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-04-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "108914",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-04-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-04-29",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta pública - Contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=832"
+          },
+          {
+            "DataDocumento": "2026-05-27",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d45354e5745324d5449744d544978596930304e57526b4c546b354d5751744d7a466a4e6d4e694f4456684e6a56694c6e426b5a673d3d&fich=6a95a612-121b-45dd-991d-31c6cb85a65b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-27",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54646d4f444132596a45744d47466c4e433030593249324c546b314e4451744d544531595463344e6d5a6c59574a6a4c6e426b5a673d3d&fich=97f806b1-0ae4-4cb6-9544-115a786feabc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-13",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "CSM - Informação de não emissão de parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f44566a5a475530596d4d745a6a4d79595330304e5459774c546869593259744d3259334e6a566b4d3245304e444d344c6e426b5a673d3d&fich=85cde4bc-f32a-4560-8bcf-3f765d3a4438.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Entidade das Contas e Financiamentos Políticos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a49354d4441344d4449744e6a63304e4330305a474d784c5467794e6a55745a47526b4d475a6c4f54466a4f4755314c6e426b5a673d3d&fich=c2900802-6744-4dc1-8265-ddd0fe91c8e5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão de Acesso aos Documentos Administrativos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765932526c4f444d314e6d4d745a6a646a4e5330304e7a4d334c5749304d7a67744e44646d597a56684f446c6c4d6a6b354c6e426b5a673d3d&fich=cde8356c-f7c5-4737-b438-47fc5a89e299.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-28",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a6b774e4441774f546b744e57497959533030596d46694c5467334d546b744d544d344f574d774e6d59784e5455344c6e426b5a673d3d&fich=b9040099-5b2a-4bab-8719-1389c06f1558.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-01",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d49784d6a46694f574974596d4a6c5a693030596a41794c54686a4d6a55745a6a45354d5467324f5749315a6a646d4c6e426b5a673d3d&fich=fb121b9b-bbef-4b02-8c25-f191869b5f7f.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos (CADA)      em 2026-05-20"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-05-27"
+          },
+          {
+            "link": "",
+            "nome": "Entidade das Contas e Financiamentos Políticos em 2026-05-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-05-13"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-09-01"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos (CADA)      em 2026-05-06"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-05-06"
+          },
+          {
+            "link": "",
+            "nome": "Entidade das Contas e Financiamentos Políticos em 2026-05-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-05-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-05-11"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-05-11"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7274",
+            "motivoCessacao": null,
+            "nome": "Hugo Carneiro"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-05-27",
+            "dataRemessa": "2026-05-27",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-04-29",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1718183",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
