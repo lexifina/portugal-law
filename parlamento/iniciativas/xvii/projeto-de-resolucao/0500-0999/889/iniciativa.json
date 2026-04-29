@@ -1,0 +1,121 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Resolução",
+  "numero": "889",
+  "id": "356645",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-04-29",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "8723",
+        "nome": "Paulo Núncio"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8863",
+        "nome": "Dulcineia Catarina Moura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2304",
+        "nome": "Bruno Ventura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1738",
+        "nome": "Pedro Alves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9628",
+        "nome": "Fernando Queiroga"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7274",
+        "nome": "Hugo Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1132",
+        "nome": "António Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8374",
+        "nome": "Miguel Guimarães"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4396",
+        "nome": "Andreia Neto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9357",
+        "nome": "Paulo Lopes Marcelo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7240",
+        "nome": "Alexandre Poço"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7317",
+        "nome": "João Antunes dos Santos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CDS-PP"
+      },
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "356645",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a67304d6a6c684d7a55334c575130595463744e4467774f4331694e4455304c54646b4d7a466d4f4459325a4759354d53356b62324e34&fich=8429a357-d4a7-4808-b454-7d31f866df91.docx&Inline=true",
+    "IniNr": "889",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Pelo alargamento do passe do Antigo Combatente a todo o território nacional, e pela maior eficiência nos pagamentos feitos pelo Estado às empresas de transportes",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
