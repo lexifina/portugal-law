@@ -22,7 +22,7 @@ f) Proteção dos clientes face à evolução das tarifas, assegurando, simultan
 
 g) Criação de incentivos ao desempenho eficiente das atividades reguladas das empresas;
 
-h) Contribuição para a promoção da eficiência energética e da qualidade ambiental.
+h) Aplicação do princípio da prioridade à eficiência energética, salvaguardando os objetivos climáticos e de sustentabilidade, e promovendo a qualidade ambiental.
 
 2 - O cálculo e a fixação das tarifas e preços regulados são da competência da ERSE, entrando em vigor após a sua publicação nos termos previstos no Regulamento Tarifário.
 
