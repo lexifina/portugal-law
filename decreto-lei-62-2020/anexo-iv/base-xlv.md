@@ -1,0 +1,7 @@
+# Base XLV
+
+### Resolução de diferendos
+
+1 - O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à resolução de quaisquer questões emergentes do contrato de concessão, nos termos da Lei n.º 31/86, de 29 de agosto, na sua redação atual.
+
+2 - A concessionária e os operadores e consumidores da RNTG podem, nos termos da lei, celebrar convenções de arbitragem para solução dos litígios emergentes dos respetivos contratos.
