@@ -1,0 +1,154 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "596",
+    "id": "356654",
+    "titulo": "Criação do município de Fátima"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-05-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "108947",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-05-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-05-12",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=856"
+          },
+          {
+            "DataDocumento": "2026-10-30",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório sobre a Criação do Município de Fátima ou Projeto de Lei n.º 596-XVII-1.ª (JPP- BE- PAN)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5745334f4467344e3251744d32566c4e7930304f5467304c546c6a5a4759744f544d334d6d45344d474d324f57466a4c6e426b5a673d3d&fich=5a78887d-3ee7-4984-9cdf-9372a80c69ac.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d545268595459354d4463744d6d466c4d4330305a5751314c5468685a5463745a5749794e44677a596a6b334f4441354c6e426b5a673d3d&fich=14aa6907-2ae0-4ed5-8ae7-eb2483b97809.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-06-03"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593249344f544e6c4e5449744d3255324d6930304f446b314c574531596a63744e5451774e444e694e7a63324f444d354c6e426b5a673d3d&fich=cb893e52-3e62-4895-a5b7-54043b776839.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-05-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a55794d575979595449744e7a526b4e6930304d7a6b774c546b324d5749744d5746694e546c6c4e324d334e7a56684c6e426b5a673d3d&fich=2521f2a2-74d6-4390-961b-1ab59e7c775a.pdf&Inline=true",
+            "nome": "Associação Nacional das Assembleias Municipais (ANAM) em 2026-09-11"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5468684e6d45325a475174597a4d324d6930304e6d4d324c546b79595749744d6a5534596d457a597a51795a6a59774c6e426b5a673d3d&fich=18a6a6dd-c362-46c6-92ab-258ba3c42f60.pdf&Inline=true",
+            "nome": "Câmara Municipal de Ourém em 2026-08-21"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d49774d7a59304f4759744f444e694f4330304d47497a4c5749304d3255744f47557a4f544135597a686a4e7a4d314c6e426b5a673d3d&fich=bb03648f-83b8-40b3-b43e-8e3909c8c735.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Fátima em 2026-06-30"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d474d304d54426b4e6a63745a546733596930304d546c684c546735596a6b744e7a526b4f574579595746694e6a526a4c6e426b5a673d3d&fich=0c410d67-e87b-419a-89b9-74d9a2aab64c.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Fátima em 2026-06-30"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d545268595459354d4463744d6d466c4d4330305a5751314c5468685a5463745a5749794e44677a596a6b334f4441354c6e426b5a673d3d&fich=14aa6907-2ae0-4ed5-8ae7-eb2483b97809.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-05-18"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593249344f544e6c4e5449744d3255324d6930304f446b314c574531596a63744e5451774e444e694e7a63324f444d354c6e426b5a673d3d&fich=cb893e52-3e62-4895-a5b7-54043b776839.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-05-18"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a55794d575979595449744e7a526b4e6930304d7a6b774c546b324d5749744d5746694e546c6c4e324d334e7a56684c6e426b5a673d3d&fich=2521f2a2-74d6-4390-961b-1ab59e7c775a.pdf&Inline=true",
+            "nome": "Associação Nacional das Assembleias Municipais (ANAM) em 2026-05-18"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5468684e6d45325a475174597a4d324d6930304e6d4d324c546b79595749744d6a5534596d457a597a51795a6a59774c6e426b5a673d3d&fich=18a6a6dd-c362-46c6-92ab-258ba3c42f60.pdf&Inline=true",
+            "nome": "Câmara Municipal de Ourém em 2026-05-18"
+          },
+          {
+            "link": "",
+            "nome": "Assembleia Municipal de Ourém em 2026-05-18"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d49774d7a59304f4759744f444e694f4330304d47497a4c5749304d3255744f47557a4f544135597a686a4e7a4d314c6e426b5a673d3d&fich=bb03648f-83b8-40b3-b43e-8e3909c8c735.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Fátima em 2026-05-18"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d474d304d54426b4e6a63745a546733596930304d546c684c546735596a6b744e7a526b4f574579595746694e6a526a4c6e426b5a673d3d&fich=0c410d67-e87b-419a-89b9-74d9a2aab64c.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Fátima em 2026-05-18"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CDS-PP",
+            "id": "1657",
+            "motivoCessacao": null,
+            "nome": "João Pinho de Almeida"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-05-05",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1728399",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
