@@ -2,13 +2,13 @@
 
 ### Contra-ordenações
 
-1 - Constitui contra-ordenação, punível com coima de (euro) 250 a (euro) 3740, aplicável a pessoas singulares, e de (euro) 3990 a (euro) 44890, no caso de pessoas colectivas:
+1 - Constitui contraordenação ambiental grave, punível nos termos da Lei-Quadro das Contraordenações Ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto:
 
 a) A violação do disposto no n.º 2 do artigo 9.º;
 
 b) A violação do disposto no n.º 1 do artigo 10.º
 
-2 - Constitui contra-ordenação, punível com coima de (euro) 125 a (euro) 3740, aplicável a pessoas singulares, e de (euro) 3990 a (euro) 44890, no caso de pessoas colectivas:
+2 - Constitui contraordenação ambiental grave, punível nos termos da Lei-Quadro das Contraordenações Ambientais:
 
 a) A violação do disposto nos n.os 1, 2 e 3 do artigo 11.º;
 
@@ -22,6 +22,6 @@ e) A violação do disposto no n.º 2 do artigo 18.º;
 
 f) A violação do disposto nos n.os 1 e 2 do artigo 19.º
 
-3 - A negligência é punível, sendo neste caso reduzidos a metade os montantes máximos das coimas.
+3 - A tentativa e a negligência são puníveis nos termos da Lei-Quadro das Contraordenações Ambientais.
 
-4 - A tentativa é igualmente punível, sendo o valor da coima especialmente atenuado.
+4 - [Revogado.]
