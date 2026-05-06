@@ -2,7 +2,7 @@
 
 ### Contraordenações
 
-1 - As infrações abaixo elencadas constituem contraordenações puníveis com coima entre 1 000,00 EUR e 3 740,98 EUR:
+1 - Constitui contraordenação ambiental leve, punível nos termos da Lei-Quadro das Contraordenações Ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto:
 
 a) A realização de ações de arborização ou rearborização sem autorização, salvo quando dela dispensados nos termos dos artigos 5.º e 6.º, ou quando executadas fora do prazo referido no n.º 3 do artigo 4.º;
 
@@ -30,12 +30,12 @@ m) O incumprimento do disposto no artigo 12.º-A;
 
 n) O incumprimento da verificação a que se refere o n.º 1 do artigo 14.º-B.
 
-2 - Tratando-se de pessoas coletivas, os limites mínimos e máximos das coimas aplicáveis às contraordenações estabelecidas no número anterior são elevados, respetivamente, ao triplo e ao décuplo dos seus montantes.
+2 - [Revogado.]
 
-3 - A negligência e a tentativa são sempre puníveis, reduzindo-se para metade os limites mínimos e máximos dos montantes das coimas.
+3 - A tentativa é sempre punível, reduzindo-se para metade os limites mínimos e máximos dos montantes das coimas.
 
-4 - Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral das contraordenações.
+4 - [Revogado.]
 
 5 - Volvidos 180 dias sobre o incumprimento do prazo das decisões do ICNF, I. P., previstas nos artigos 12.º-A, 13.º e 14.º, os limites mínimos das coimas são elevados para o dobro.
 
-6 - Em caso de reincidência, e desde que não tenham decorrido cinco anos entre as decisões condenatórias, os limites mínimos das contraordenações previstas nos n.os 1 e 2 são elevados para o dobro.
+6 - Em caso de reincidência, e desde que não tenham decorrido cinco anos entre as decisões condenatórias, os limites mínimos das contraordenações previstas nos n.ºs 1 e 2 são elevados para o dobro.
