@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2026-05-06, processo 0553/10.5BECTB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0553/10.5BECTB
+
+**Data do Acordão:** 05/06/2026
+
+**Tribunal:** SECÇÃO DO CONTENCIOSO TRIBUTÁRIO
+
+**Relator:** CATARINA ALMEIDA E SOUSA
+
+**Descritores:** PRESCRIÇÃO; INCENTIVOS FINANCEIROS; UNIÃO EUROPEIA; ESTADO
+
+**Nº Convencional:** JSTA000P35556
+
+**Nº do Documento:** SA2202605060553/10
+
+**Recorrente:** AA
+
+**Recorrido 1:** INSTITUTO DO EMPREGO E FORMAÇÃO PROFISSIONAL, I.P.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Estando em causa - relativamente a uma parte da dívida exequenda - a cobrança coerciva decorrente da execução de uma medida administrativa que determinou a obrigação de reembolso (e vencimento imediato) do valor correspondente a apoios concedidos pelo Contrato de Concessão de Incentivos Financeiros, onde se incluem (também) ajudas financeiras comunitárias, o prazo de prescrição da dívida aplicável é, relativamente a esta parcela do crédito, o previsto no nº 2 do artigo 3º do Regulamento CE EURATOM nº 2988/85, ou seja, três (3) anos.
+
+II - Já o montante financiado pelo Estado Português fica sujeito ao prazo de prescrição de 20 anos previsto no art.º 309º do Código Civil. A esta dívida não é aplicável nem o prazo prescrição de oito (8) anos, previsto no artigo 48º da Lei Geral Tributária (LGT), nem o prazo de cinco (5) anos, previsto no DL nº 155/92, de 28 de julho, nem o prazo de três (3) anos, previsto no Regulamento CE EURATOM nº 2988/95.
+
+III - No que respeita à proteção dos interesses financeiros da Comunidade Europeia (rectius, da União Europeia), os prazos previstos no artigo 3º do Regulamento 2988/95, assumem-se como uma questão de direito europeu, sem remissão para o direito interno e que, coerentemente, se aplicam de modo uniforme em todos os Estados-Membros em causa. Razões de harmonização em face do mesmo interesse financeiro a proteger (da União Europeia) exigem a aplicação de regras e prazos comuns.
+
+IV - Tal não se verifica quando os interesses financeiros a proteger são os do próprio Estado e do seu orçamento, por referência às suas receitas e despesas próprias, valendo aqui a soberania de cada Estado-Membro na definição do regime de prescrição aplicável.
