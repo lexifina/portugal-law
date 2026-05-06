@@ -1,0 +1,9 @@
+Aviso (extrato)  n.º 10383/2026/2
+
+Regulamento de Utilização da Estação das Artes do Município de Mirandela
+
+Vítor Manuel Correia, Presidente da Câmara Municipal de Mirandela, torna público, nos termos e para os efeitos do disposto na alínea g) do n.º 1 do artigo 25.º, na alínea t) do n.º 1 do artigo 35.º, no n.º 1 do artigo 56.º do Anexo I da Lei n.º 75/2013 de 12 de setembro, na sua atual redação, e no disposto no artigo 139.º do atual Código do Procedimento Administrativo, que a Assembleia Municipal de Mirandela deliberou, na sessão ordinária realizada no dia 17 de abril de 2026, sob proposta da Câmara Municipal, na reunião realizada no dia 12 de março de 2026, aprovar o Regulamento de Utilização da Estação das Artes do Município de Mirandela, que se encontra disponível para consulta na página do Município em https://www.cm-mirandela.pt/p/regulamentos.
+
+24 de abril de 2026. - O Presidente da Câmara, Vítor Manuel Correia.
+
+319991738
