@@ -1,0 +1,922 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "479",
+    "id": "335951",
+    "titulo": "Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2026-05-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "72202",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2026-05-07",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "315514",
+        "leg": "XVII",
+        "nr": "258",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56883",
+            "obs": null,
+            "pag": [
+              "36-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-08",
+            "pubLeg": "XVII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56883",
+            "obs": null,
+            "pag": [
+              "36-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-08",
+            "pubLeg": "XVII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56883",
+            "obs": null,
+            "pag": [
+              "36-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-08",
+            "pubLeg": "XVII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356344",
+        "leg": "XVII",
+        "nr": "697",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56883",
+            "obs": null,
+            "pag": [
+              "36-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-08",
+            "pubLeg": "XVII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56883",
+            "obs": null,
+            "pag": [
+              "36-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-08",
+            "pubLeg": "XVII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56883",
+            "obs": null,
+            "pag": [
+              "36-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-08",
+            "pubLeg": "XVII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "356672",
+        "leg": "XVII",
+        "nr": "907",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56883",
+            "obs": null,
+            "pag": [
+              "36-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-08",
+            "pubLeg": "XVII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56883",
+            "obs": null,
+            "pag": [
+              "36-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-08",
+            "pubLeg": "XVII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56883",
+            "obs": null,
+            "pag": [
+              "36-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-08",
+            "pubLeg": "XVII",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-05-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7205",
+                "nome": "Ricardo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "9641",
+                "nome": "Armando Mourisco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7883",
+                "nome": "Ricardo Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/40?pgs=40-42&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/64"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/65"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483457",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/43?pgs=43-45&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4551",
+                "nome": "Júlia Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483459",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483460",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7358",
+                "nome": "João Paulo Graça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483461",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8525",
+                "nome": "Gonçalo Valente"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/88/70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483462",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-08",
+                "pubLeg": "XVII",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o dia 11 de novembro como o Dia Nacional das Raças Autóctones; Recomenda ao Governo que aumente os apoios às fileiras das raças autóctones; Recomenda a inclusão do gado asinino no Programa de Apoio à Redução da Carga Combustível Através do Pastoreio; Recomenda ao Governo a instituição do dia 11 de novembro, Dia de São Martinho, como o Dia Nacional das Raças Autóctones. ",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1728501",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1025333",
+        "obs": null,
+        "pag": [
+          "36-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-05-08",
+        "pubLeg": "XVII",
+        "pubNr": "88",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/088/2026-05-08/36?pgs=36-49&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
