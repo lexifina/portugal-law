@@ -1,0 +1,120 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "66",
+    "id": "356515",
+    "titulo": "Aprova um regime excecional e temporário relativo aos deveres específicos e limites constantes da Lei n.º 73/2013, de 3 de setembro, que estabelece o regime financeiro das autarquias locais e das entidades intermunicipais"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-05-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "108990",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-05-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-06-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5751325a54426a4e7a45744f546b354d6930304e6a49304c5749324f4745745a5455355a6d45774e7a4d355a6a6b794c6e426b5a673d3d&fich=9d6e0c71-9992-4624-b68a-e59fa0739f92.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-24",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da discussão e votação na especialidade da Proposta de Lei n.º 66-XVII-1 (GOV)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a6c6b4e6d4d334e3249744e4467354d5330304d474a694c5467334d546b745a4759784f5455344d6a4d784e6a42684c6e426b5a673d3d&fich=c9d6c77b-4891-40bb-8719-df195823160a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-24",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a55334d4446684e4459745a6a4d7a4d4330304e7a526d4c5749774d3259744f574e6c4d4455314e544a6d4d6a45324c6e426b5a673d3d&fich=75701a46-f330-474f-b03f-9ce05552f216.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Gravação da discussão e votação na especialidade da Proposta de Lei n.º 66/XVII/1 (GOV)",
+            "URL": "https://media.parlamento.pt/site/XVIILEG/SL1/COM/13_CREPL/CREPL_20260624_2.mp3"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "IL",
+              "CDS-PP",
+              "JPP"
+            ],
+            "data": "2026-06-24",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> L</I><BR>Ausência: <I>IL</I>, <I> CDS-PP</I>, <I> JPP</I>",
+            "id": "172290",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "45",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-05-08",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1728749",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
