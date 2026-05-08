@@ -1,0 +1,611 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "41",
+    "id": "315145",
+    "titulo": "Altera o regime jurídico das instituições de Ensino Superior, procedendo à quarta alteração à Lei n.º 62/2007, de 10 de setembro"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2026-05-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "82544",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d794e4446684f474a6a4c54686d4e5459744e44426b4f5330344d32597a4c5467774d54646a4d54457a4d5445774d7935775a47593d&fich=3241a8bc-8f56-40d9-83f3-8017c1131103.pdf&Inline=true",
+        "anexoNome": "Resultado das Votações (Guião Suplementar)"
+      }
+    ],
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2026-05-08",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315722",
+        "leg": "XVII",
+        "nr": "276",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "66885",
+            "obs": null,
+            "pag": [
+              "90-90"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/90?pgs=90&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "66885",
+            "obs": null,
+            "pag": [
+              "90-90"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/90?pgs=90&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o regime jurídico das instituições de ensino superior, procedendo à quarta alteração à Lei n.º 62/2007, de 10 de setembro"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "315537",
+        "leg": "XVII",
+        "nr": "30",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "66885",
+            "obs": null,
+            "pag": [
+              "90-90"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/90?pgs=90&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "66885",
+            "obs": null,
+            "pag": [
+              "90-90"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/90?pgs=90&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Procede à revisão da Lei n.º 62/2007, de 10 de setembro, que estabelece o regime jurídico das instituições de ensino superior, alterando, ainda, a Lei n.º 46/86, de 14 de outubro, que estabelece a Lei de Bases do Sistema Educativo, a Lei n.º 37/2003, de 22 de agosto, que estabelece as bases do financiamento do ensino superior, e a Lei n.º 38/2007, de 16 de agosto, que aprova o regime jurídico da avaliação do ensino superior"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-05-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8246",
+                "nome": "Angélique Da Teresa"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "7343",
+                "nome": "Carlos Guimarães Pinto"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "7973",
+                "nome": "Mariana Leitão"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "8343",
+                "nome": "Jorge Miguel Teixeira"
+              },
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "14:39",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "493517",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-09",
+                "pubLeg": "XVII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/90?pgs=90&org=PLC"
+              }
+            ],
+            "sumario": "Regime Jurídico das Instituições de Ensino Superior",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1728842",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1025501",
+        "obs": null,
+        "pag": [
+          "84-88"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-05-09",
+        "pubLeg": "XVII",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/84?pgs=84-88&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de substituição do n.º 2 do artigo 54.º da Lei n.º 62/2007, de 10 de setembro, constante do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>",
+        "id": "182718",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927761",
+            "obs": null,
+            "pag": [
+              "85-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/85?pgs=85&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de substituição do n.º 4 do artigo 86.º da Lei n.º 62/2007, de 10 de setembro, constante do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>",
+        "id": "182719",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927762",
+            "obs": null,
+            "pag": [
+              "85-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/85?pgs=85&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de substituição do n.º 7 do artigo 109.º da Lei n.º 62/2007, de 10 de setembro, constante do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>, <I> BE</I><BR>Abstenção:<I>L</I>",
+        "id": "182720",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927763",
+            "obs": null,
+            "pag": [
+              "85-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/85?pgs=85&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de substituição do n.º 10 do artigo 109.º da Lei n.º 62/2007, de 10 de setembro, constante do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>, <I> BE</I><BR>Abstenção:<I>L</I>",
+        "id": "182721",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927764",
+            "obs": null,
+            "pag": [
+              "86-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/86?pgs=86&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de aditamento de um n.º 12 do artigo 109.º da Lei n.º 62/2007, de 10 de setembro",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>, <I> BE</I><BR>Abstenção:<I>L</I>",
+        "id": "182722",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927765",
+            "obs": null,
+            "pag": [
+              "86-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/86?pgs=86&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de substituição do n.º 4 do artigo 114.º da Lei n.º 62/2007, de 10 de setembro, constante do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>",
+        "id": "182723",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927766",
+            "obs": null,
+            "pag": [
+              "86-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/86?pgs=86&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de substituição do n.º 1 do artigo 121.º da Lei n.º 62/2007, de 10 de setembro, constante do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>",
+        "id": "182724",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927767",
+            "obs": null,
+            "pag": [
+              "87-87"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/87?pgs=87&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de substituição do n.º 2 do artigo 121.º da Lei n.º 62/2007, de 10 de setembro, constante do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>",
+        "id": "182725",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927768",
+            "obs": null,
+            "pag": [
+              "87-87"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/87?pgs=87&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de substituição do artigo 170.º da Lei n.º 62/2007, de 10 de setembro",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>",
+        "id": "182726",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927769",
+            "obs": null,
+            "pag": [
+              "87-87"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/87?pgs=87&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de substituição do artigo 57.º-A da Lei n.º 62/2007, de 10 de setembro, constante do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I>",
+        "id": "182727",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927770",
+            "obs": null,
+            "pag": [
+              "87-87"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/87?pgs=87&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-08",
+        "descricao": "Proposta, apresentada pelo PS, de aditamento de um artigo 171.º-A da Lei n.º 62/2007, de 10 de setembro",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>",
+        "id": "182728",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927771",
+            "obs": null,
+            "pag": [
+              "88-88"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-09",
+            "pubLeg": "XVII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/089/2026-05-09/88?pgs=88&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
