@@ -23,3 +23,5 @@ b) No caso da mulher grávida, é garantido o acompanhamento até três pessoas 
 4 - É reconhecido à mulher grávida o direito ao acompanhamento na assistência na gravidez, por qualquer pessoa por si escolhida, podendo prescindir desse direito a qualquer momento, incluindo durante o trabalho de parto.
 
 5 - É reconhecido o direito de acompanhamento familiar a crianças internadas em estabelecimento de saúde, bem como a pessoas com deficiência, a pessoas em situação de dependência e a pessoas com doença incurável em estado avançado e em estado final de vida.
+
+6 - É reconhecido o direito de acompanhamento familiar a jovens internados em estabelecimento de saúde que perfaçam 18 anos de idade durante o internamento, pelo período adequado às necessidades médicas, psicossociais e educacionais do doente, definido em articulação entre o serviço pediátrico e o serviço para adultos.
