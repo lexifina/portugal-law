@@ -1,0 +1,22 @@
+# Portaria n.º 203/2026
+
+**Emissor:** SECRETARIA REGIONAL DE SAÚDE E PROTEÇÃO CIVIL
+
+**Publicação:** JORAM, I série, n.º 84/2026, suplemento, de 2026-05-12
+
+**Sumário:** Altera e redistribui os encargos orçamentais previstos na Portaria n.º 95/2025, de 29 de janeiro, alterada pela Portaria n.º 415/2025, de 13 de agosto e pela Portaria n.º 798/2025, de 9 de dezembro, referente à repartição dos encargos orçamentais relativos à execução do investimento C01-i05-RAM - Fortalecimento do Serviço Regional de Saúde da Região Autónoma da Madeira, sub-investimento C01-i05.01 - Expansão, Desenvolvimento e Melhoria da Rede de Cuidados Continuados Integrados, financiado no âmbito do Plano de Recuperação e Resiliência, para a requalificação de lugares existentes em unidades de internamento da REDE na tipologia de Cuidados Continuados Integrados de Longa Duração e Manutenção, até ao montante global de 4.336.407,73 €.
+
+## Texto
+
+Portaria n.º 203/2026
+de 12 de maio
+Sumário: Altera e redistribui os encargos orçamentais previstos na Portaria n.º 95/2025, de 29 de janeiro, alterada pela Portaria n.º 415/2025, de 13 de agosto e pela Portaria n.º 798/2025, de 9 de dezembro, referente à repartição dos encargos orçamentais relativos à execução do investimento C01-i05-RAM - Fortalecimento do Serviço Regional de Saúde da Região Autónoma da Madeira, sub-investimento C01i05.01 - Expansão, Desenvolvimento e Melhoria da Rede de Cuidados Continuados Integrados, financiado no âmbito do Plano de Recuperação e Resiliência, para a requalificação de lugares existentes em unidades de internamento da REDE na tipologia de Cuidados Continuados Integrados de Longa Duração e Manutenção, até ao montante global de 4.336.407,73 €.
+Texto: Com a publicação e entrada em vigor do Decreto Legislativo Regional n.º 2/2022/M, de 12 de janeiro, estatuiu-se um regime excecional de agilização e simplificação de procedimentos dos projetos aprovados no âmbito do Plano de Recuperação e Resiliência (PRR), que integram o Plano de Recuperação e Resiliência da Região Autónoma da Madeira (PRR-RAM), através de subvenções a fundo perdido e os procedimentos a adotar. Os encargos plurianuais objeto da presente portaria estão de acordo com o n.º 2 do artigo 5.º daquele diploma legal, previamente registados no Sistema Central de Encargos Plurianuais e são obrigatoriamente mantidos atualizados, de acordo com os procedimentos definidos. Assim, ao abrigo do disposto no n.º 3 do artigo 34.º do Decreto Legislativo Regional n.º 8/2025/M, de 30 de dezembro, conjugado com o artigo 5.º do Decreto Legislativo Regional n.º 2/2022/M, de 12 de janeiro, manda o Governo Regional da Madeira, através da Secretária Regional de Saúde e Proteção Civil, o seguinte:
+
+1. Redistribuir e alterar os encargos orçamentais previstos na Portaria n.º 95/2025, de 29 de janeiro, alterada pela Portaria n.º 415/2025, de 13 de agosto e pela Portaria n.º 798/2025, de 9 de dezembro, referente à repartição dos encargos orçamentais relativos à execução do investimento C01-i05-RAM - Fortalecimento do Serviço Regional de Saúde da Região Autónoma da Madeira, sub-investimento C01-i05.01 - Expansão, Desenvolvimento e Melhoria da Rede de Cuidados Continuados Integrados, financiado no âmbito do Plano de Recuperação e Resiliência, para a requalificação de lugares existentes em unidades de internamento da REDE na tipologia de Cuidados Continuados Integrados de Longa Duração e Manutenção, até ao montante global de 4.336.407,73 € (quatro milhões, trezentos e trinta e seis mil, quatrocentos e sete euros e setenta e três cêntimos), na forma abaixo indicada:
+Ano económico de 2025 ..................................................................................116.707,50 €; Ano económico de 2026 ..............................................................................4.219.700,23 €.
+2. Os encargos da presente portaria, para o ano de 2026, têm cabimento orçamental n.º 0000072, 0000073, 0000074, 0000075, 0000076 e 0000077, na Classificação Económica 080701.A0.A0 e 080701.A0.FS, do orçamento privativo do Instituto de Administração da Saúde, IP-RAM.
+3. O montante fixado para cada ano económico poderá ser acrescido do saldo apurado na execução orçamental do ano anterior.
+4. A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretaria Regional de Saúde e Proteção Civil, no Funchal, aos 11 dias do mês de maio de 2026.
+A SECRETÁRIA REGIONAL DE SAÚDE E PROTEÇÃO CIVIL, Micaela Cristina Fonseca de Freitas
