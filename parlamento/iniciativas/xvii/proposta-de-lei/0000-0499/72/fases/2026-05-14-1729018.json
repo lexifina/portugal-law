@@ -1,0 +1,189 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "72",
+    "id": "356639",
+    "titulo": "Revoga a Lei n.º 98/97, de 26 de agosto, e aprova a nova lei de organização e processo do Tribunal de Contas"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-05-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3259774e6a5534595441304c5451774e6a51744e4455325a6931684f444e6d4c546b324d32566a5a5464684f474d7a4d5335775a47593d&fich=f0658a04-4064-456f-a83f-963ece7a8c31.pdf&Inline=true",
+        "anexoNome": "Despacho PAR n.º 173-XVII (Redistribuição)"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "109057",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-05-14",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-05-14",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=863"
+          },
+          {
+            "DataDocumento": "2026-05-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer Tribunal de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a6468597a63324e7a63744e54466c4f433030593259354c574a694f5441745a44686a596d55354d3249354d6a67324c6e426b5a673d3d&fich=77ac7677-51e8-4cf9-bb90-d8cbe93b9286.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer INTOSAI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a426c5a6a5132595441744f546731596930304e4749774c546b324e4755745a6a56684d5464684e575a6d596a4d304c6e426b5a673d3d&fich=30ef46a0-985b-44b0-964e-f5a17a5ffb34.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a51354d546b304e474d744e7a63795a6930305a5749784c5746684d7a49744f5445314f54426d5a54566c4e5752694c6e426b5a673d3d&fich=7491944c-772f-4eb1-aa32-91590fe5e5db.pdf&Inline=true",
+            "nome": "Conselho Superior da Magistratura em 2026-05-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d47566a596d566d596a51744f546c6b4d5330304e4455794c546c685a474574597a49354d3255304f54566a595751334c6e426b5a673d3d&fich=0ecbefb4-99d1-4452-9ada-c293e495cad7.pdf&Inline=true",
+            "nome": "Conselho Superior do Ministério Público em 2026-05-18"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a44646c5a4751794e574d745a444978595330304e6a4e6c4c574532596a6b745a4459774d544d7a5a6a49794e474d304c6e426b5a673d3d&fich=d7edd25c-d21a-463e-a6b9-d60133f224c4.pdf&Inline=true",
+            "nome": "Ordem dos Advogados em 2026-08-03"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324d344d446b785a54517459544a6a5a5330304d6a63324c546b784e4463744e444a6a4e4756694d474e69596a41304c6e426b5a673d3d&fich=3c8091e4-a2ce-4276-9147-42c4eb0cbb04.pdf&Inline=true",
+            "nome": "MENAC - Mecanismo Nacional Anticorrupção em 2026-05-19"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54526c4f574a685a4755744d6a59785953303059324e6a4c5745794f5441744e32466c596a4d314e6a677a4d6a68684c6e426b5a673d3d&fich=94e9bade-261a-4ccc-a290-7aeb3568328a.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-07-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d51304d6a497a5a6a497459574d305a4330305a544d794c5467354d7a67744e5745794e44686a5a6a4e6a4d5459334c6e426b5a673d3d&fich=6d4223f2-ac4d-4e32-8938-5a248cf3c167.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-06-01"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a446732596a6b794d6a63744e544e68595330305a6a63344c5746694f5449744f5446685a6a4e694f574e694f4759324c6e426b5a673d3d&fich=d86b9227-53aa-4f78-ab92-91af3b9cb8f6.pdf&Inline=true",
+            "nome": "Associação Nacional de Assembleias Municipais (ANAM) em 2026-06-11"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d45304e5467774e7a55744d6d566d4d5330304e575a6b4c546b7a4d7a63745a4756694f4749795a4449304e3249314c6e426b5a673d3d&fich=fa458075-2ef1-45fd-9337-deb8b2d247b5.pdf&Inline=true",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-06-08"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a51354d546b304e474d744e7a63795a6930305a5749784c5746684d7a49744f5445314f54426d5a54566c4e5752694c6e426b5a673d3d&fich=7491944c-772f-4eb1-aa32-91590fe5e5db.pdf&Inline=true",
+            "nome": "Conselho Superior da Magistratura em 2026-05-06"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d47566a596d566d596a51744f546c6b4d5330304e4455794c546c685a474574597a49354d3255304f54566a595751334c6e426b5a673d3d&fich=0ecbefb4-99d1-4452-9ada-c293e495cad7.pdf&Inline=true",
+            "nome": "Conselho Superior do Ministério Público em 2026-05-06"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a44646c5a4751794e574d745a444978595330304e6a4e6c4c574532596a6b745a4459774d544d7a5a6a49794e474d304c6e426b5a673d3d&fich=d7edd25c-d21a-463e-a6b9-d60133f224c4.pdf&Inline=true",
+            "nome": "Ordem dos Advogados em 2026-05-06"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324d344d446b785a54517459544a6a5a5330304d6a63324c546b784e4463744e444a6a4e4756694d474e69596a41304c6e426b5a673d3d&fich=3c8091e4-a2ce-4276-9147-42c4eb0cbb04.pdf&Inline=true",
+            "nome": "MENAC - Mecanismo Nacional Anticorrupção em 2026-05-06"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54526c4f574a685a4755744d6a59785953303059324e6a4c5745794f5441744e32466c596a4d314e6a677a4d6a68684c6e426b5a673d3d&fich=94e9bade-261a-4ccc-a290-7aeb3568328a.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-05-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d51304d6a497a5a6a497459574d305a4330305a544d794c5467354d7a67744e5745794e44686a5a6a4e6a4d5459334c6e426b5a673d3d&fich=6d4223f2-ac4d-4e32-8938-5a248cf3c167.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-05-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a446732596a6b794d6a63744e544e68595330305a6a63344c5746694f5449744f5446685a6a4e694f574e694f4759324c6e426b5a673d3d&fich=d86b9227-53aa-4f78-ab92-91af3b9cb8f6.pdf&Inline=true",
+            "nome": "Associação Nacional de Assembleias Municipais (ANAM) em 2026-05-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d45304e5467774e7a55744d6d566d4d5330304e575a6b4c546b7a4d7a63745a4756694f4749795a4449304e3249314c6e426b5a673d3d&fich=fa458075-2ef1-45fd-9337-deb8b2d247b5.pdf&Inline=true",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-05-15"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-05-14",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão às 1.ª e 5 .ª comissões",
+    "OevId": "1729018",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1024720",
+        "obs": "Despacho n.º 173/XVII — Distribuição da Proposta de Lei n.º 72/XVII/1.ª (GOV) — Revoga a Lei n.º 98/97, de 26 de agosto, e aprova a nova lei de organização e processo do Tribunal de Contas",
+        "pag": [
+          "4-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-05-14",
+        "pubLeg": "XVII",
+        "pubNr": "72",
+        "pubSL": "1",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/17/01/072/2026-05-14/4?pgs=4-7&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
