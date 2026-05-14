@@ -1,0 +1,205 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCl%2fZt7eY5x%2fS1gjz5V8f41DlqwlXmIQaG69oR2QgY2YSkfdvWNk%2f58%2bU6Atc5zsR39vpk1BeuhcLj39ikUK1Z1oqgLt5IU0RCKdNQ%2biQbZb0i4SL8GXu2tNyUQ2FcsVajplwkBUNUUczsxxs%2bT8bdkQLa%2fTEBhEAR5P%2b8lhZR5Fcbo69zY54uTIbO5H4BytlmCdKlINhexc5Dx60EixAuetC5CQG6nrwWt%2f%2f0Y2b%2b2po36hQ2LpN2ntCwszqnt3tYY8z497M932NS8y%2fUOTuCQlomHOFgGDKw9T0q6FzSt%2f4EnO3DGVvdP%2fTx3Buv0OWxLD0RapAb7XTRbLYXrWjph%2b9oEHvWG1%2b6x8Sp71pa8%3d&fich=PeticoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "e921337c213d6ae3a102bffdac23c35f84284f7670e253494eb63e596eecd433",
+  "legislatura": "XVII",
+  "id": "44402",
+  "numero": "162",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2026-05-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2026-07-08",
+            "entidades": null,
+            "id": "180339",
+            "tipo": null,
+            "titulo": "Audição em 2026-07-08 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2026-07-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "L",
+                "PCP",
+                "CDS-PP"
+              ],
+              "data": "2026-07-21",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> PCP</I>, <I> CDS-PP</I>",
+              "id": "182698",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "51",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2026-05-26",
+        "DataArquivo": "2026-07-21",
+        "DataBaixaComissao": "2026-05-19",
+        "DataEnvioPAR": "2026-07-28",
+        "DataReaberta": "2026-05-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2026-05-26",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249355a4745314f5464694c5455324e4455744e444d325a6930354d6d466c4c544d355a6a637a5a6a5178597a56684d4335775a47593d&fich=b9da597b-5645-436f-92ae-39f73f41c5a0.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2026-05-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249334e7a497a4d4755314c5455304f4749744e475533597931694e7a5a6b4c54686c4e7a426d5a5445355a545932597935775a47593d&fich=b77230e5-548b-4e7c-b76d-8e70fe19e66c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67774d6a55304d7a41324c5455344f5451744e4445795a4330345a54497a4c5463305a5755784e6d4d315a574978597935775a47593d&fich=80254306-5894-412d-8e23-74ee16c5eb1c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251355a474a694e7a466d4c57566d5a446b744e444a694d5330344f5759784c544d7a5a544a6a5a6d5a6c5a546b794e5335775a47593d&fich=d9dbb71f-efd9-42b1-89f1-33e2cffee925.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e6c4e7a59344d6a41354c5745334e6d59744e444d324e7930355a44426a4c5459344f54526859546b355a475579597935775a47593d&fich=ce768209-a76f-4367-9d0c-6894aa99de2c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41774d5749314f47466c4c5751784e4463744e4463324d433035595745314c5746695a546b7859574d334d7a5a695a4335775a47593d&fich=001b58ae-d147-4760-9aa5-abe91ac736bd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32526a4d6a45794e7a466b4c5463314d5451744e4746684d6930354e5463774c5759304e5445344f4463344d4751314f4335775a47593d&fich=dc21271d-7514-4aa2-9570-f45188780d58.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255775a4745314e544e6a4c5756685a5749744e4449314d433034595467344c5455304d3249304e44526c5a545a694e6935775a47593d&fich=e0da553c-eaeb-4250-8a88-543b444ee6b6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-05-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a637a4f4441355a546c6d4c54466c4d4449744e4455314e533035597a6b774c575a694f54566b595751774d7a63344d5335775a47593d&fich=73809e9f-1e02-4555-9c90-fb95dad03781.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2026-07-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45304e6a41314f544d354c54426d4d7a4d744e4755344f4331694d4451354c5455344e57597a4f444d344d44426a5a6935775a47593d&fich=14605939-0f33-4e88-b049-585f383800cf.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2026-06-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245314d6a4d314d4464684c5445315a5445744e444a6b4e6931684f5441344c54686a4d7a49355a57593459544d774d7935775a47593d&fich=a523507a-15e1-42d6-a908-8c329ef8a303.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-06-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a526d4d4467354f445a6d4c5745304d5755744e4441335a4331684f4467784c5456694d6a4d784d5449314d325578596935775a47593d&fich=4f08986f-a41e-407d-a881-5b2311253e1b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-06-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67344d3255344e6d526b4c57526b4d6d59744e44466a5a6931695a5463334c5751314e325a6c59324e6b5a5755785a4335775a47593d&fich=883e86dd-dd2f-41cf-be77-d57feccdee1d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-06-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49784d6a6c6a4d5749304c5442684e4455744e47526d59793169596a4d344c54517a4d4745334f57466c5a6a646d596935775a47593d&fich=2129c1b4-0a45-4dfc-bb38-430a79aef7fb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-06-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45775a5467354d4451314c544a6a4e574d744e4464695a433168595455334c544e6c4f57466c593255344d7a49304d6935775a47593d&fich=10e89045-2c5c-47bd-aa57-3e9aece83242.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2026-06-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d7a4d7a41775a6d4e6b4c5455304f4441744e4451334e7931684d4449784c575933596a6778596d49774e545977597935775a47593d&fich=33300fcd-5480-4477-a021-f7b81bb0560c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8454",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2026-07-24",
+            "dataNomeacao": "2026-05-26",
+            "gp": "IL",
+            "id": "8246",
+            "motivoCessacao": null,
+            "nome": "Angélique Da Teresa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2026-05-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c4d6a6b324f444578596930344d54646b4c545135596d51744f5452694e53316d5a6d4a6b5932466a4f5463314f444d756347526d&fich=e296811b-817d-49bd-94b5-ffbdcac97583.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "44402",
+    "PetAssunto": "Pela vinculação e valorização dos técnicos contratados em contexto escolar",
+    "PetDataEntrada": "2026-05-14",
+    "PeticoesAssociadas": null,
+    "PetId": "44402",
+    "PetLeg": "XVII",
+    "PetNr": "162",
+    "PetNrAssinaturas": "7943",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Proposta para apreciação em plenário",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
