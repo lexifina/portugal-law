@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "65",
+    "id": "356442",
+    "titulo": "Altera a Lei n.º 34/94, de 14 de setembro,  que define o regime de acolhimento de estrangeiros ou apátridas em centros de instalação temporária, a Lei n.º 23/2007, de 4 de julho, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, e a Lei n.º 27/2008, de 30 de junho, que estabelece as condições e procedimentos de concessão de asilo ou proteção subsidiária e os estatutos de requerente de asilo, de refugiado e de proteção subsidiária"
+  },
+  "fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+  "codigo_fase": "237",
+  "data_registo": "2026-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a59794e7a59354d6a51344c545a6b4d3251744e4441794e7930345a6a646a4c546b354d474a684d4755785a4752694f5335775a47593d&fich=62769248-6d3d-4027-8f7c-990ba0e1ddb9.pdf&Inline=true",
+        "anexoNome": "Requerimento PSD"
+      }
+    ],
+    "CodigoFase": "237",
+    "Comissao": null,
+    "DataFase": "2026-05-15",
+    "EvtId": "122",
+    "Fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1729023",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-05-15",
+        "descricao": "Requerimento, apresentado pelo PSD, solicitando a baixa à Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, sem votação, por 60 dias, da Proposta de Lei n.º 65/XVII/1.ª (GOV)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> JPP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>",
+        "id": "171816",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927727",
+            "obs": null,
+            "pag": [
+              "70-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-16",
+            "pubLeg": "XVII",
+            "pubNr": "92",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/092/2026-05-16/70?pgs=70&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "90",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
