@@ -4,40 +4,32 @@
 
 Modelo do Cartão Nacional de Dador de Sangue
 
-(ver documento original)
+1 - O Cartão Nacional de Dador de Sangue é feito em PVC, com as dimensões de 85,60 mm por 53,98 mm por 0,76 mm, cor de suporte branco opaco, com impressão a três cores no anverso e uma cor no verso.
 
-1. O cartão nacional de dador de sangue é feito em PVC, com as dimensões de 85,60 mm por 53,98 mm por 0,76 mm, cor de suporte branco opaco, com impressão a duas cores no anverso e uma cor no verso.
-
-2. O cartão nacional de dador de sangue contém os seguintes elementos:
+2 - O Cartão Nacional de Dador de Sangue contém os seguintes elementos:
 
 No anverso:
 
-a) Na parte superior, ao centro, em cor branca sobre fundo vermelho, a denominação "Cartão Nacional de Dador de Sangue";
+a) Na parte superior, ao centro, em cor branca sobre fundo vermelho, a denominação «Cartão Nacional de Dador de Sangue» e por baixo duas linhas nas cores azul e verde;
 
-b) Ao centro, do lado esquerdo, aplicação de chip, com código de proteção;
+b) Ao centro, do lado esquerdo, em cor vermelha, o logótipo do IPST, I. P.;
 
-c) Abaixo do chip, em cor vermelha, o logótipo do "IPST, I.P.";
+c) Em rodapé, em cor preta, a designação «Nome»;
 
-d) Em rodapé, em cor preta, a designação "Nome";
+d) Abaixo da designação «Nome», em cor preta, o nome do portador do cartão;
 
-e) Abaixo da designação "Nome", em cor preta, o nome do portador do cartão;
+e) Ao centro, do lado direito, em cor preta, as designações «Grupo Sanguíneo», «N.º Nacional de Dador» e «N.º de Utente do SNS»;
 
-f) Ao centro, do lado direito, em cor preta, as designações "Grupo Sanguíneo", "N.º Nacional de Dador" e "N.º de Utente do SNS";
-
-g) Abaixo das designações referidas no número anterior, em cor preta, respetivamente, o grupo sanguíneo do portador do cartão, o n.º nacional de dador do portador do cartão e o n.º de utente do SNS do portador do cartão.
+f) Abaixo das designações referidas na alínea anterior, em cor preta, respetivamente, o grupo sanguíneo do portador do cartão, o número nacional de dador do portador do cartão e o número de utente do SNS do portador do cartão.
 
 No verso, em cor branca sobre fundo vermelho:
 
-a) Na parte superior: "Este cartão é pessoal e intransmissível e deve ser apresentado sempre que se dirija a qualquer Serviço/Local de Colheita";
+a) Na parte superior: «Este é o seu cartão de identificação como Dador de Sangue»;
 
-b) Ao centro: "Agradecemos o seu ato de Solidariedade Humana";
+b) Ao centro: «O registo das suas dádivas está disponível no cartão digital de Dador de Sangue, em id.gov.pt e também na área de Utente do SNS. Pode também aceder à informação sobre locais e horários de sessões de colheita em dador.pt. Em nome de todos quantos beneficiam deste gesto de solidariedade, Obrigado!»;
 
-c) Na parte inferior: "Em caso de extravio deste cartão contactar por favor o Instituto Português do Sangue e da Transplantação";
+c) Em rodapé, ao centro: «IPST, I. P. - Instituto Português do Sangue e da Transplantação»;
 
-d) Em rodapé, ao centro: "IPST, I.P. - Instituto Português do Sangue e da Transplantação";
+d) Abaixo da designação «IPST, I. P. - Instituto Português do Sangue e da Transplantação», ao centro: «Parque de Saúde de Lisboa, Av. Do Brasil, n.º 53 - Pav. 17 1749-005 LISBOA»;
 
-e) Abaixo da designação "IPST, I.P. - Instituto Português do Sangue e da Transplantação", ao centro: "Parque de Saúde de Lisboa, Av. Do Brasil, n.º 53 - Pav. 17 1749-005 LISBOA";
-
-f) Abaixo da designação referida no número anterior, ao centro:"Tel: [+351] 21 792 10 00".
-
-3. No chip do cartão é gravada a informação relativa à identificação completa do dador de sangue, número de dádivas realizadas, respetivas datas e locais.
+e) Abaixo da designação referida na alínea anterior, ao centro: «Tel: [+351] 21 792 10 00»
