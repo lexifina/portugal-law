@@ -2,4 +2,4 @@
 
 ### Embarcações de alta velocidade
 
-De acordo com legislação específica, as embarcações nacionais podem ser classificadas como embarcações de alta velocidade, independentemente das actividades a que se destinam.
+As embarcações de alta velocidade são reguladas pelo regime definido em diploma próprio, e, no aplicável, pelo estabelecido no presente decreto-lei.
