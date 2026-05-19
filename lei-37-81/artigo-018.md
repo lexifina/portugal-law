@@ -8,6 +8,6 @@ a) Das declarações para atribuição da nacionalidade;
 
 b) Das declarações para aquisição ou perda da nacionalidade;
 
-c) Da naturalização de estrangeiros.
+c) Da naturalização de estrangeiros e apátridas.
 
 2 - (Revogado.)

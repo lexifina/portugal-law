@@ -1,4 +1,4 @@
-## Secção III
+## Secção II
 
 ## Aquisição da nacionalidade por naturalização
 

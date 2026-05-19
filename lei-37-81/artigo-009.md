@@ -8,16 +8,16 @@
 
 1 - Constituem fundamento de oposição à aquisição da nacionalidade portuguesa por efeito da vontade:
 
-a) A inexistência de ligação efectiva à comunidade nacional;
+a) A inexistência de laços de efetiva ligação à comunidade nacional, tendo em consideração os parâmetros materiais constantes das alíneas c) a i) do n.º 1 do artigo 6.º, incluindo a ponderação de condenação por crime de ultraje aos símbolos nacionais;
 
-b) A condenação, com trânsito em julgado da sentença, com pena de prisão igual ou superior a 3 anos, por crime punível segundo a lei portuguesa;
+b) [Revogada.]
 
 c) O exercício de funções públicas sem carácter predominantemente técnico ou a prestação de serviço militar não obrigatório a Estado estrangeiro.
 
-d) A existência de perigo ou ameaça para a segurança ou a defesa nacional, nomeadamente pelo envolvimento em atividades relacionadas com a prática de terrorismo, criminalidade violenta, especialmente violenta ou altamente organizada.
+d) [Revogada.]
 
-2 - A oposição à aquisição de nacionalidade com fundamento na alínea a) do número anterior não se aplica às situações de aquisição de nacionalidade em caso de casamento ou união de facto quando existam filhos comuns do casal com nacionalidade portuguesa.
+2 - Não há oposição à aquisição da nacionalidade portuguesa quando o casamento ou a união de facto tenha mais de seis anos ou quando existam filhos comuns do casal com nacionalidade portuguesa, exceto com fundamento nos parâmetros materiais das alíneas f) a h) do n.º 1 do artigo 6.º
 
-3 - A oposição à aquisição de nacionalidade com fundamento na alínea a) do n.º 1 também não se aplica às situações de aquisição de nacionalidade quando o casamento ou a união de facto decorra há pelo menos seis anos.
+3 - [Revogado.]
 
-4 - À prova da inexistência de condenação referida na alínea b) do n.º 1 é aplicável o disposto no n.º 11 do artigo 6.º
+4 - [Revogado.]
