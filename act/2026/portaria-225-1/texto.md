@@ -1,0 +1,81 @@
+Portaria n.º 225/2026/1
+de 19 de maio
+A prova de vida para os pensionistas de invalidez, velhice e sobrevivência do regime geral de segurança social residentes no estrangeiro, prevista nos artigos 56.º-A do Decreto-Lei n.º 322/90, de 18 de outubro, 91.º-A do Decreto-Lei n.º 187/2007, de 10 de maio, nas suas redações atuais, e 4.º do Decreto-Lei n.º 40/2025, de 26 de março, encontra-se regulamentada pela Portaria n.º 274/2025/1 de 31 de julho, que necessita de ser alterada, com vista a permitir maior celeridade e eficiência na prova de vida documental, reduzindo o trabalho burocrático.
+
+As alterações à presente portaria têm, ainda, como objetivo, no âmbito do regime transitório, aplicar já no presente ano o mecanismo da prova de vida aos pensionistas residentes no Canadá.
+
+Assim:
+
+Nos termos dos artigos 56.º-A do Decreto-Lei n.º 322/90, de 18 de outubro, 91.º-A do Decreto-Lei n.º 187/2007, de 10 de maio, nas suas redações atuais, e 4.º do Decreto-Lei n.º 40/2025, de 26 de março, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:
+
+Artigo 1.º
+
+Objeto
+
+A presente portaria procede à primeira alteração da Portaria n.º 274/2025/1, de 31 de julho, que regulamenta a prova de vida, no âmbito nacional, a ser realizada pelos pensionistas de invalidez, velhice e sobrevivência, no regime geral de segurança social, residentes no estrangeiro.
+
+Artigo 2.º
+
+Alteração à Portaria n.º 274/2025/1, de 31 de julho
+
+Os artigos 12.º, 13.º e 18.º da Portaria n.º 274/2025/1, de 31 de julho, passam a ter a seguinte redação:
+
+«Artigo 12.º
+
+[...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - A prova de vida documental é remetida através da área reservada da segurança social direta.
+
+Artigo 13.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - No caso de não se considerar realizada a prova de vida, o pensionista é informado desse facto, bem como da necessidade de nova tentativa.
+
+4 - [...]
+
+Artigo 18.º
+
+[...]
+
+1 - [...]
+
+a) [...]
+
+b) Em 2026, aos pensionistas com idade superior à idade normal de acesso à pensão de velhice, residentes na Suíça, Luxemburgo, Países Baixos, Bélgica, Cabo Verde, Reino Unido e Canadá;
+
+c) [...]
+
+2 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]»
+
+Artigo 3.º
+
+Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de maio de 2026.
+
+ A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 15 de maio de 2026.
+
+119948518
