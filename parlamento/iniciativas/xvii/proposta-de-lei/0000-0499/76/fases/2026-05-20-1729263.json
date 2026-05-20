@@ -1,0 +1,188 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "76",
+    "id": "356751",
+    "titulo": "Assegura a execução dos Regulamentos (UE) 2024/1347, 2024/1348, 2024/1350, 2024/1351 e 2024/1359, transpõe a Diretiva (UE) 2024/1346 e altera a Lei n.º 27/2008, de 30 de junho, que estabelece as condições e procedimentos de concessão de asilo ou proteção subsidiária e os estatutos de requerente de asilo, de refugiado e de proteção subsidiária"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-05-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "109102",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-05-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": "2026-06-09",
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-05-20",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributo - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=873"
+          },
+          {
+            "DataDocumento": "2026-06-09",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a55315a6d5534597a45744e574d315a6930305a6d5a6c4c54686c4f4755745a446b335a6a59344d57466b4e6a59774c6e426b5a673d3d&fich=755fe8c1-5c5f-4ffe-8e8e-d97f681ad660.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-05",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer do Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4746685a6a49334d6a49744e6a67794f533030595459334c546c69596d4d744d546c684e4449774e7a6b784e54417a4c6e426b5a673d3d&fich=4aaf2722-6829-4a67-9bbc-19a420791503.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a5978596d4a694e546774597a51334f5330304e546b324c5467324e7a63744f54526a4d544d344f5463354d6d45794c6e426b5a673d3d&fich=361bbb58-c479-4596-8677-94c1389792a2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-11",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4441775a4759795a5455745a5467344e79303059575a694c5467354e444d745a6a6b784f4451334e6a59325a6d46684c6e426b5a673d3d&fich=800df2e5-e887-4afb-8943-f91847666faa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-30",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer Agência para a Integração- Migrações e Asilo I.P",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4759314f44426b596d51744d5451354d69303059574d7a4c57466d59324d744d6a526b596a67784d4449324f4751794c6e426b5a673d3d&fich=8f580dbd-1492-4ac3-afcc-24db810268d2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Amnistia Internacional",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e546b354d6a51785a6d4d745a6a6b354d4330304f546b354c5467314d5467744e546b304f5445344e32566c4d3251324c6e426b5a673d3d&fich=599241fc-f990-4999-8518-5949187ee3d6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-16",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Conselho Português para os Refugiados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4459794e6a6c694d5759744e54466c4d6930304d4459334c57466d4e6a4d744d3251305a57466a4e44637a596a566a4c6e426b5a673d3d&fich=d6269b1f-51e2-4067-af63-3d4eac473b5c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - ACNUR",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4751355a5445324e5455745a546c685a5330304d44646b4c5467314e3249745a5749775a474a684d6a4e6b5a4463794c6e426b5a673d3d&fich=4d9e1655-e9ae-407d-857b-eb0dba23dd72.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": "Por não ter sido apresentado pelo deputado relator",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-06-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2026-06-09"
+          },
+          {
+            "link": "",
+            "nome": "Agência para a Integração, Migrações e Asilo, I.P. (AIMA, I. P.) em 2026-06-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2026-06-05"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-05-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2026-05-27"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-05-27"
+          },
+          {
+            "link": "",
+            "nome": "Agência para a Integração, Migrações e Asilo, I.P. (AIMA, I. P.) em 2026-05-27"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-06-06"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PAN",
+            "id": "6864",
+            "motivoCessacao": null,
+            "nome": "Inês de Sousa Real"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-06-09",
+            "dataRemessa": "2026-06-09",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-05-20",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1729263",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
