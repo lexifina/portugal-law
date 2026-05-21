@@ -1,0 +1,65 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "556",
+    "id": "356523",
+    "titulo": "Reforça a resposta social serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade, assegurando a gratuitidade da medida"
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2026-05-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a5a6b4d325934595449314c544d354d4745744e4455335a6931694e4449774c5445794e4463345932593459544a6a4f4335775a47593d&fich=6d3f8a25-390a-457f-b420-12478cf8a2c8.pdf&Inline=true",
+        "anexoNome": "Requerimento PS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324e6a4d6a45795a5759344c574e6d4d4451744e475a6d4e5330345a5467794c5467304e4463775954646c5a5755795a5335775a47593d&fich=cc212ef8-cf04-4ff5-8e82-84470a7eee2e.pdf&Inline=true",
+        "anexoNome": "Propostas de Alteração PS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a49335a47466a5a5445334c544577597a49744e47497a5a533169596a42694c574a6c4d4463324e5749334d446b774d6935775a47593d&fich=27dace17-10c2-4b3e-bb0b-be0765b70902.pdf&Inline=true",
+        "anexoNome": "Propostas de Alteração PS (aditamento)"
+      }
+    ],
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2026-05-21",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1729348",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-05-22",
+        "descricao": "Requerimento, apresentado pelo PS, de avocação pelo Plenário da votação na especialidade de propostas de alteração  ao Texto Final, apresentado pela Comissão de Trabalho, Segurança Social e Inclusão, relativo ao Projeto de Lei n.º 556/XVII/1.ª (PS)",
+        "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "171923",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "93",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
