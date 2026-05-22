@@ -1,0 +1,715 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "927",
+    "id": "356694",
+    "titulo": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2026-05-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "82548",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2026-05-22",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-05-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503889",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/70?pgs=70&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "8636",
+                "nome": "Mário Amorim Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503890",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/71?pgs=71&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503891",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4300",
+                "nome": "Hugo Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503892",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/73?pgs=73&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503893",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503894",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/75?pgs=75-76&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503895",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/76?pgs=76&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503896",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/77?pgs=77&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "8723",
+                "nome": "Paulo Núncio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503897",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/78?pgs=78&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503898",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/79?pgs=79&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/94"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503899",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:48",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/95/95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "503900",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-05-23",
+                "pubLeg": "XVII",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "sumario": "Pela preservação da memória histórica e acesso público a toda a documentação sobre a violência política organizada de qualquer campo do espectro político ou por organismos do Estado na República Portuguesa",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1729410",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "67534",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "70-81"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-05-23",
+        "pubLeg": "XVII",
+        "pubNr": "95",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/70?pgs=70-81&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-05-22",
+        "descricao": null,
+        "detalhe": "A Favor: <I>IL</I>, <I> L</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> PS</I><BR>Abstenção:<I>CH</I>, <I> PCP</I>, <I> CDS-PP</I>",
+        "id": "171857",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "93",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
