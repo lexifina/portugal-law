@@ -1,0 +1,133 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "906",
+    "id": "356671",
+    "titulo": "Recomenda ao Governo que assegure a independência editorial, a autonomia institucional, a transparência financeira e o escrutínio parlamentar da Lusa – Agência de Notícias de Portugal, S.A."
+  },
+  "fase": "Nova Baixa Comissão para Discussão",
+  "codigo_fase": "245",
+  "data_registo": "2026-05-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "245",
+    "Comissao": [
+      {
+        "AccId": "109125",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-05-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-09-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer ERC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a545932596a59315a544d74596a4931596930304f446c6d4c54686a5a444d7459325a685932457a4d4449334e6a67794c6e426b5a673d3d&fich=e66b65e3-b25b-489f-8cd3-cfaca3027682.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer da ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a426c5954426b5a574574596a457a4d7930305a545a6c4c574533595745744e6a6c694e7a49794e6a4d34593249334c6e426b5a673d3d&fich=20ea0dea-b133-4e6e-a7aa-69b722638cb7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer da APECOM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5463304e7a6332595745745932566b595330304f5463344c546b774e6d55744d5451354d324533595467325932466a4c6e426b5a673d3d&fich=174776aa-ceda-4978-906e-1493a7a86cac.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer da APMEDIO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d47526b5957566c4d3245744d546b314d6930304e4455314c5749784d544d744e7a41344d4441304d325a6a4d5449794c6e426b5a673d3d&fich=0ddaee3a-1952-4455-b113-7080043fc122.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer da Assembleia Legislativa da Região Autónoma dos Açores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a557a4d6d4d344e4751744e6a55794f43303059324a684c5467794d7a6b745a6a5931596a49345a4459345a4456684c6e426b5a673d3d&fich=6532c84d-6528-4cba-8239-f65b28d68d5a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer da Comissão da Carteira  Profissional de Jornalista",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a51324e6a6734595459745a5751324d4330304e4441774c574a694e6d51744e7a45314e3251774d324e6c4d7a63314c6e426b5a673d3d&fich=f46688a6-ed60-4400-bb6d-7157d03ce375.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-08-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer da Comissão de Educação- Desporto e Cultura da Assembleia Legislativa da Região Autónoma da Madeira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5755314e574e684f4751744d7a63344d7930304e7a4d314c54677a4f4451745a4755354e4456684e474a6a4f4751784c6e426b5a673d3d&fich=1e55ca8d-3783-4735-8384-de945a4bc8d1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer do Conselho das Comunidades Portuguesas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f44566c4d325135597a41745a4759354e4330304f574e6b4c574533593249744e6d5a6d5a6a5178596a46685a6a67334c6e426b5a673d3d&fich=85e3d9c0-df94-49cd-a7cb-6fff41b1af87.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-13",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a51335a5451795a4441745a5455334e693030596a426a4c574578595451745a5756684e7a59314e6d453059324d324c6e426b5a673d3d&fich=b47e42d0-e576-4b0c-a1a4-eea7656a4cc6.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8458",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto ",
+        "Numero": "8458",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-05-22",
+    "EvtId": "127",
+    "Fase": "Nova Baixa Comissão para Discussão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1729422",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
