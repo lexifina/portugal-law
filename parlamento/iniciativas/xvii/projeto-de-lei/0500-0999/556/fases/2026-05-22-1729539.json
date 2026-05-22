@@ -1,0 +1,231 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "556",
+    "id": "356523",
+    "titulo": "Reforça a resposta social serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade, assegurando a gratuitidade da medida"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2026-05-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3259304e6a45344d7a63794c5468694d444d744e4451344e533168597a45304c54517a4d54466b5a57593259546335596935775a47593d&fich=f4618372-8b03-4485-ac14-4311def6a79b.pdf&Inline=true",
+        "anexoNome": "Resultado das Votações (Guião Suplementar)"
+      }
+    ],
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2026-05-22",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1729539",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1035588",
+        "obs": null,
+        "pag": [
+          "67-68"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-05-23",
+        "pubLeg": "XVII",
+        "pubNr": "95",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/67?pgs=67-68&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-05-22",
+        "descricao": "Proposta de alteração, apresentada pelo PS, que substitui o artigo 1.º do texto final",
+        "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>",
+        "id": "182740",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927793",
+            "obs": null,
+            "pag": [
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-23",
+            "pubLeg": "XVII",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/67?pgs=67&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "93",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-22",
+        "descricao": "Proposta de alteração, apresentada pelo PS, que substitui o n.º 2 do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>",
+        "id": "182741",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927794",
+            "obs": null,
+            "pag": [
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-23",
+            "pubLeg": "XVII",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/67?pgs=67&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "93",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-22",
+        "descricao": "Proposta de alteração, apresentada pelo PS, que adita um n.º 3 ao artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "182742",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927795",
+            "obs": null,
+            "pag": [
+              "68-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-23",
+            "pubLeg": "XVII",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/68?pgs=68&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "93",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-22",
+        "descricao": "Proposta de alteração, apresentada pelo PS, que adita um artigo 3.º ao texto final",
+        "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>",
+        "id": "182743",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927796",
+            "obs": null,
+            "pag": [
+              "68-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-23",
+            "pubLeg": "XVII",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/68?pgs=68&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "93",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2026-05-22",
+        "descricao": "Proposta de alteração, apresentada pelo PS, que adita um artigo 4.º ao texto final",
+        "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>",
+        "id": "182744",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927797",
+            "obs": null,
+            "pag": [
+              "68-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-05-23",
+            "pubLeg": "XVII",
+            "pubNr": "95",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/095/2026-05-23/68?pgs=68&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "93",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
