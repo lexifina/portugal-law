@@ -10,21 +10,17 @@
 
 a) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente, exceto as abrangidas na alínea seguinte:
 
-Valor sobre que incide o IMT (euros)Taxas percentuaisMarginalMédia (*)Até 106 34600De mais de 106 346 e até 145 47020,5379De mais de 145 470 e até 198 34751,7274De mais de 198 347 e até 330 53973,8361De mais de 330 539 e até 660 9828−De mais de 660 982 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)
-
-(*) No limite superior do escalão.
+Valor sobre que incide o IMT (euros)Taxas percentuaisMarginalMédia (*)Até 106 34600De mais de 106 346 e até 145 47020,5379De mais de 145 470 e até 198 34751,7274De mais de 198 347 e até 330 53973,8361De mais de 330 539 e até 660 9828−De mais de 660 982 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)(*) No limite superior do escalão.
 
 b) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente abrangida pelos n.os 2 a 5 do artigo 9.º, cujo valor exceda o valor máximo do 1.º escalão da tabela seguinte:
 
 Valor sobre que incide o IMT
 
-(em euros)Taxas percentuaisMarginalMédia (*)Até 330 53900De mais de 330 539 e até 660 9828−De mais de 660 982 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)
-
-(*) No limite superior do escalão.
+(em euros)Taxas percentuaisMarginalMédia (*)Até 330 53900De mais de 330 539 e até 660 9828−De mais de 660 982 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)(*) No limite superior do escalão.
 
 c) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação, não abrangida pelas alíneas anteriores:
 
-Valor sobre que incide o IMT (em euros)Taxas percentuaisMarginalMédia (*)Até 106 34611De mais de 106 346 e até 145 47021,268 9De mais de 145 470 e até 198 34752,263 6De mais de 198 347 e até 330 53974, 157 8De mais de 330 539 e até 633 9318-De mais de 633 931 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)(*) No limite superior do escalão.
+Valor sobre que incide o IMT (em euros)Taxas percentuaisMarginalMédia (*) Até 106 34611De mais de 106 346 e até 145 47021,268 9De mais de 145 470 e até 198 34752,263 6De mais de 198 347 e até 330 53974, 157 8De mais de 330 539 e até 633 9318-De mais de 633 931 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)(*) No limite superior do escalão.
 
 d) Aquisição de prédios rústicos - 5%;
 
@@ -53,3 +49,15 @@ b) Se no ato não se transmitir a totalidade do prédio ou se se transmitirem fi
 8 - Para efeitos da alínea b) do n.º 4, considera-se haver uma situação de domínio ou controlo quando se verifique uma relação de domínio nos termos estabelecidos no artigo 486.º do Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro.
 
 9 - Para efeitos do disposto nas alíneas a), b) e c) do n.º 1, nas permutas de imóveis é aplicável, com as devidas adaptações, o disposto na alínea b) do n.º 6.
+
+10 - Sem prejuízo do disposto no n.º 4, a taxa é sempre de 7,5 % na aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação, não se aplicando qualquer isenção ou redução, sempre que o adquirente seja não residente, salvo quando se verifique uma das seguintes situações:
+
+a) Tenha sido considerado residente para efeitos fiscais em território nacional nos termos do artigo 16.º do Código do IRS;
+
+b) Se torne residente para efeitos fiscais em território nacional, nos termos do artigo 16.º do Código do IRS, no prazo de dois anos contados da data de aquisição;
+
+c) O imóvel seja destinado ao arrendamento para habitação com renda mensal que não exceda os limites a que se referem os n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 97/2026, de 20 de maio, no prazo de seis meses contados da data de aquisição e seja arrendado em, pelo menos, 36 meses, seguidos ou interpolados, durante os primeiros cinco anos após a aquisição.
+
+11 - Quando se verifiquem as situações previstas nas alíneas b) ou c) do número anterior, a Autoridade Tributária e Aduaneira anula, a requerimento do interessado, o montante correspondente à diferença entre o imposto pago e o montante que resultaria da aplicação das taxas previstas no n.º 1.
+
+12 - O requerimento previsto no número anterior, dirigido aos serviços competentes da Autoridade Tributária e Aduaneira, é apresentado pelo interessado no prazo de seis meses a contar da data em que se torne residente ou em que seja celebrado contrato de arrendamento nos termos das alíneas b) e c) do n.º 10, respetivamente.
