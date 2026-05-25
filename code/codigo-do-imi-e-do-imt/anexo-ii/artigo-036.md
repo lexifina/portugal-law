@@ -6,7 +6,7 @@
 
 ### Prazos para pagamento
 
-1 - O IMT deve ser pago no próprio dia da liquidação ou no 1.º dia útil seguinte, sob pena de esta ficar sem efeito, sem prejuízo do disposto nos números seguintes.
+1 - O IMT deve ser pago no próprio dia da liquidação ou nos 30 dias seguintes, sob pena de esta ficar sem efeito, sem prejuízo do disposto nos números seguintes.
 
 2 - Se a transmissão se operar por acto ou contrato celebrado no estrangeiro, o pagamento do imposto deve efectuar-se durante o mês seguinte.
 
