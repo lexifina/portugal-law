@@ -45,3 +45,5 @@ b) Para contribuintes que tenham um rendimento coletável superior ao valor do p
 8 - Caso os encargos com imóveis tenham sido realizadas noutro Estado membro da União Europeia ou do Espaço Económico Europeu, neste último caso desde que exista intercâmbio de informações em matéria fiscal, pode o sujeito passivo comunicá-los através do Portal das Finanças, inserindo os dados essenciais da fatura ou documento equivalente que as suporte.
 
 9 - No caso do direito real de habitação duradoura, a importância suportada a título de caução inicial deve ser indicada pelo morador na declaração a que se refere o n.º 1 do artigo 57.º relativa ao ano em que seja tributável como rendimento do proprietário nos termos da alínea b) do n.º 5 do artigo 8.º
+
+10 - O limite a que se refere a alínea a) do n.º 1 é elevado para 1000,00 €, sem prejuízo da aplicação do n.º 4, quando o limite de dedução daí resultante seja superior.

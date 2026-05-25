@@ -12,7 +12,9 @@ c) 11,5 %, tratando-se de rendimentos da categoria B referidos na alínea b) do 
 
 d) 20 %, tratando-se de rendimentos da categoria B auferidos por sujeitos passivos abrangidos pelo artigo 58.º-A do Estatuto dos Benefícios Fiscais;
 
-e) 25 %, tratando-se de rendimentos da categoria F.
+e) 25 %, tratando-se de rendimentos da categoria F;
+
+f) 10 %, tratando-se de rendimentos da categoria F abrangidos pelo n.º 1 do artigo 45.º-C do Estatuto dos Benefícios Fiscais.
 
 2 - Tratando-se de rendimentos referidos no artigo 71.º, a retenção na fonte nele prevista cabe:
 
