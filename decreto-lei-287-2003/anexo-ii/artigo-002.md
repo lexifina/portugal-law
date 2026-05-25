@@ -1,0 +1,61 @@
+# Artigo 2.º
+
+### Incidência objectiva e territorial
+
+1 - O IMT incide sobre as transmissões, a título oneroso, do direito de propriedade ou de figuras parcelares desse direito, sobre bens imóveis situados no território nacional.
+
+2 - Para efeitos do n.º 1, integram, ainda, o conceito de transmissão de bens imóveis:
+
+a) As promessas de aquisição e de alienação, logo que verificada a tradição para o promitente adquirente, ou quando este esteja usufruindo os bens, excepto se se tratar de aquisição de habitação para residência própria e permanente do adquirente ou do seu agregado familiar e não ocorra qualquer das situações previstas no n.º 3;
+
+b) O arrendamento com a cláusula de que os bens arrendados se tornam propriedade do arrendatário depois de satisfeitas todas as rendas acordadas;
+
+c) Os arrendamentos ou subarrendamentos a longo prazo, considerando-se como tais os que devam durar mais de 30 anos, quer a duração seja estabelecida no início do contrato, quer resulte de prorrogação, durante a sua vigência, por acordo expresso dos interessados, e ainda que seja diferente o senhorio, a renda ou outras cláusulas contratuais;
+
+d) A aquisição de partes sociais ou de quotas nas sociedades em nome coletivo, em comandita simples, por quotas ou anónimas, quando cumulativamente:
+
+i) O valor do ativo da sociedade resulte, direta ou indiretamente, em mais de 50 % por bens imóveis situados em território nacional, atendendo ao valor de balanço ou, se superior, ao valor patrimonial tributário;
+
+ii) Tais imóveis não se encontrem diretamente afetos a uma atividade de natureza agrícola, industrial ou comercial, excluindo a compra e venda de imóveis;
+
+iii) Por aquela aquisição, por amortização ou quaisquer outros factos, algum dos sócios fique a dispor de, pelo menos, 75 % do capital social, ou o número de sócios se reduza a dois casados ou unidos de facto, devendo em qualquer dos casos as partes sociais ou quotas próprias detidas pela sociedade ser proporcionalmente imputadas aos sócios na proporção da respetiva participação no capital social;
+
+e) A aquisição de unidades de participação em fundos de investimento imobiliário fechados de subscrição particular, independentemente da localização da sociedade gestora, bem como operações de resgate, aumento ou redução do capital ou outras, das quais resulte que um dos titulares ou dois titulares casados ou unidos de facto fiquem a dispor de, pelo menos, 75 % das unidades de participação representativas do património do fundo.
+
+3 - Considera-se que há também lugar a transmissão onerosa para efeitos do n.º 1 na outorga dos seguintes actos ou contratos:
+
+a) Celebração de contrato-promessa de aquisição e alienação de bens imóveis em que seja clausulado no contrato ou posteriormente que o promitente adquirente pode ceder a sua posição contratual a terceiro;
+
+b) Cessão da posição contratual no exercício do direito conferido por contrato-promessa referido na alínea anterior;
+
+c) Outorga de procuração que confira poderes de alienação de bem imóvel ou de partes sociais a que se refere a alínea d) do n.º 2 em que, por renúncia ao direito de revogação ou cláusula de natureza semelhante, o representado deixe de poder revogar a procuração;
+
+d) Outorga de instrumento com substabelecimento de procuração com os poderes e efeitos previstos na alínea anterior;
+
+e) Cedência de posição contratual ou ajuste de revenda, por parte do promitente adquirente num contrato-promessa de aquisição e alienação, vindo o contrato definitivo a ser celebrado entre o primitivo promitente alienante e o terceiro.
+
+4 - O disposto na alínea e) do número anterior não é aplicável sempre que o contrato definitivo seja celebrado com terceiro nomeado ou com sociedade em fase de constituição no momento em que o contrato-promessa é celebrado e que venha a adquirir o imóvel, desde que o promitente adquirente seja titular do seu capital social.
+
+5 - Em virtude do disposto no n.º 1, são também sujeitas ao IMT, designadamente:
+
+a) A resolução, invalidade ou extinção, por mútuo consenso, do contrato de compra e venda ou troca de bens imóveis e as do respectivo contrato-promessa, quando, neste último caso, ocorrerem depois de passados 10 anos sobre a tradição ou posse;
+
+b) As permutas, pela diferença declarada de valores ou pela diferença entre os valores patrimoniais tributários, consoante a que for maior;
+
+c) O excesso da quota-parte que ao adquirente pertencer, nos bens imóveis, em ato de divisão ou partilhas, bem como a alienação da herança ou quinhão hereditário ou do direito à meação;
+
+d) A venda ou cessão do direito a determinadas águas, ainda que sob a forma de autorização para as explorar ou para minar em terreno alheio;
+
+e) As entradas dos sócios com bens imóveis para a realização do capital e para a realização de prestações acessórias à obrigação de entrada de capital das sociedades comerciais ou civis sob a forma comercial ou das sociedades civis a que tenha sido legalmente reconhecida personalidade jurídica, as entregas de bens imóveis dos participantes no ato de subscrição de unidades de participação de fundos de investimento imobiliário fechados de subscrição particular;
+
+f) A adjudicação dos bens imóveis aos sócios na liquidação, redução de capital e no reembolso de prestações acessórias ou outras formas de cumprimento de obrigações pelas sociedades comerciais ou civis sob a forma comercial ou das sociedades civis a que tenha sido legalmente reconhecida personalidade jurídica, e a adjudicação de bens imóveis aos participantes como reembolso em espécie de unidades de participação decorrente do resgate das unidades de participação, da liquidação e da redução de capital de fundos de investimento imobiliário fechados de subscrição particular;
+
+g) As entradas dos sócios com bens imóveis para a realização do capital das restantes sociedades civis, na parte em que os outros sócios adquirirem comunhão, ou qualquer outro direito, nesses imóveis, bem como, nos mesmos termos, as cessões de partes sociais ou de quotas ou a admissão de novos sócios;
+
+h) As transmissões de bens imóveis por fusão ou cisão das sociedades referidas nas alíneas e) e f), ou por fusão de tais sociedades entre si ou com sociedade civil, bem como por fusão de fundos de investimento imobiliário fechados de subscrição particular;
+
+i) As transmissões de benfeitorias e as aquisições de bens imóveis por acessão.
+
+6 - O disposto na alínea c) do número anterior não é aplicável aos ex-cônjuges sempre que o excesso da quota-parte resultar de ato de partilha por efeito de dissolução do casamento que não tenha sido celebrado sob o regime de separação de bens.
+
+7 - O disposto na alínea d) do n.º 2 não é aplicável às sociedades previstas na alínea f) do artigo 4.º do Regime Jurídico do Registo Central do Beneficiário Efetivo, aprovado em anexo à Lei n.º 89/2017, de 21 de agosto.

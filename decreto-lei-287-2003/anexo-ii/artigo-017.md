@@ -1,0 +1,63 @@
+## Capítulo IV
+
+## Taxas
+
+# Artigo 17.º
+
+### Taxas
+
+1 - As taxas do IMT são as seguintes:
+
+a) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente, exceto as abrangidas na alínea seguinte:
+
+Valor sobre que incide o IMT (euros)Taxas percentuaisMarginalMédia (*)Até 106 34600De mais de 106 346 e até 145 47020,5379De mais de 145 470 e até 198 34751,7274De mais de 198 347 e até 330 53973,8361De mais de 330 539 e até 660 9828−De mais de 660 982 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)(*) No limite superior do escalão.
+
+b) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente abrangida pelos n.os 2 a 5 do artigo 9.º, cujo valor exceda o valor máximo do 1.º escalão da tabela seguinte:
+
+Valor sobre que incide o IMT
+
+(em euros)Taxas percentuaisMarginalMédia (*)Até 330 53900De mais de 330 539 e até 660 9828−De mais de 660 982 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)(*) No limite superior do escalão.
+
+c) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação, não abrangida pelas alíneas anteriores:
+
+Valor sobre que incide o IMT (em euros)Taxas percentuaisMarginalMédia (*) Até 106 34611De mais de 106 346 e até 145 47021,268 9De mais de 145 470 e até 198 34752,263 6De mais de 198 347 e até 330 53974, 157 8De mais de 330 539 e até 633 9318-De mais de 633 931 e até 1 150 8536 (taxa única)Superior a 1 150 8537,5 (taxa única)(*) No limite superior do escalão.
+
+d) Aquisição de prédios rústicos - 5%;
+
+e) Aquisição de outros prédios urbanos e outras aquisições onerosas - 6,5%.
+
+2 - À aquisição onerosa de figuras parcelares do direito de propriedade aplica-se a taxa referida no número anterior correspondente à natureza dos bens sobre que incide o direito adquirido, sendo aplicável a taxa referida na alínea a) ou b) do número anterior apenas quando estejam em causa a transmissão do usufruto, uso e habitação, direito de superfície ou direito real de habitação duradoura, que incidam sobre prédio urbano ou fração autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente.
+
+3 - Relativamente às aquisições a que se referem as alíneas a), b) e c) do n.º 1, quando o valor sobre o qual incide o imposto for superior ao limite do 1.º escalão, é dividido em duas partes, sendo uma igual ao limite do maior dos escalões que nela couber, à qual se aplica a taxa média correspondente a este escalão, e outra, igual ao excedente, a que se aplica a taxa marginal respeitante ao escalão imediatamente superior.
+
+4 - A taxa é sempre de 10 %, não se aplicando qualquer isenção ou redução sempre que o adquirente:
+
+a) Tenha domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, sem prejuízo da isenção prevista no artigo 7.º do Decreto-Lei n.º 540/76, de 9 de julho;
+
+b) Seja uma entidade dominada ou controlada, direta ou indiretamente, por entidade que tenha domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças.
+
+5 - Nos casos previstos nas alíneas a) e b) do n.º 3 do artigo 2.º, a taxa aplicável aos montantes referidos na regra 18.ª do n.º 4 do artigo 12.º é a que corresponder à totalidade do preço acordado no contrato, não lhe sendo aplicável as taxas referidas nas alíneas a) ou b) do n.º 1.
+
+6 - Para efeitos das alíneas a), b) e c) do n.º 1, na transmissão de partes de prédio, de figuras parcelares do direito de propriedade e da propriedade separada dessas figuras parcelares elencadas no artigo 13.º, aplicam-se as seguintes regras:
+
+a) Se no mesmo acto se transmitir a totalidade do prédio, a cada valor aplica-se a taxa correspondente à totalidade da transmissão;
+
+b) Se no ato não se transmitir a totalidade do prédio ou se se transmitirem figuras parcelares do direito de propriedade, ou da propriedade separada dessas figuras parcelares, ao valor tributável aplica-se a taxa correspondente ao valor global do prédio tendo em consideração a parte ou o direito transmitidos.
+
+7 - O disposto no n.º 4 não se aplica quando o adquirente seja pessoa singular.
+
+8 - Para efeitos da alínea b) do n.º 4, considera-se haver uma situação de domínio ou controlo quando se verifique uma relação de domínio nos termos estabelecidos no artigo 486.º do Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro.
+
+9 - Para efeitos do disposto nas alíneas a), b) e c) do n.º 1, nas permutas de imóveis é aplicável, com as devidas adaptações, o disposto na alínea b) do n.º 6.
+
+10 - Sem prejuízo do disposto no n.º 4, a taxa é sempre de 7,5 % na aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação, não se aplicando qualquer isenção ou redução, sempre que o adquirente seja não residente, salvo quando se verifique uma das seguintes situações:
+
+a) Tenha sido considerado residente para efeitos fiscais em território nacional nos termos do artigo 16.º do Código do IRS;
+
+b) Se torne residente para efeitos fiscais em território nacional, nos termos do artigo 16.º do Código do IRS, no prazo de dois anos contados da data de aquisição;
+
+c) O imóvel seja destinado ao arrendamento para habitação com renda mensal que não exceda os limites a que se referem os n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 97/2026, de 20 de maio, no prazo de seis meses contados da data de aquisição e seja arrendado em, pelo menos, 36 meses, seguidos ou interpolados, durante os primeiros cinco anos após a aquisição.
+
+11 - Quando se verifiquem as situações previstas nas alíneas b) ou c) do número anterior, a Autoridade Tributária e Aduaneira anula, a requerimento do interessado, o montante correspondente à diferença entre o imposto pago e o montante que resultaria da aplicação das taxas previstas no n.º 1.
+
+12 - O requerimento previsto no número anterior, dirigido aos serviços competentes da Autoridade Tributária e Aduaneira, é apresentado pelo interessado no prazo de seis meses a contar da data em que se torne residente ou em que seja celebrado contrato de arrendamento nos termos das alíneas b) e c) do n.º 10, respetivamente.
