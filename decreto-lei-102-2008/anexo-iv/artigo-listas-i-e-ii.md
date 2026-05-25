@@ -216,6 +216,14 @@ b) 300 kWh por período de 30 dias, quando adquirida para consumo de famílias n
 
 2.41 - Péletes e briquetes produzidos a partir de biomassa.
 
+2.42 - As empreitadas de construção ou reabilitação de:
+
+2.42.1 - Imóveis que se destinem à venda para habitação própria e permanente do adquirente ou imóveis que se destinem exclusivamente ao arrendamento habitacional, cujo preço de venda ou valor de renda mensal não exceda os limites a que se referem os n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 97/2026, de 20 de maio.
+
+Os termos e as condições para a aplicação desta verba são estabelecidos em legislação especial.
+
+2.42.2 - Prédios urbanos ou frações autónomas de prédios urbanos para arrendamento habitacional ou arrendamento para subarrendamento habitacional abrangidos pelo regime de contratos de investimento para arrendamento aprovado em anexo ao Decreto-Lei n.º 97/2026, de 20 de maio.
+
 3 – Bens utilizados normalmente no âmbito das atividades de produção agrícola e aquícola:
 
 3.1 – Adubos, fertilizantes e corretivos de solos.

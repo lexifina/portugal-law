@@ -14,7 +14,7 @@ b) Até ao dia 25 do 2.º mês seguinte ao trimestre do ano civil a que respeita
 
 2 - As pessoas referidas na alínea c) do n.º 1 do artigo 2.º, bem como as que pratiquem uma só operação tributável nas condições referidas na alínea a) da mesma disposição, devem entregar nos locais de cobrança legalmente autorizados o correspondente imposto nos prazos de, respetivamente, 20 dias a contar da emissão da fatura e até ao final do mês seguinte ao da conclusão da operação.
 
-3 - Os sujeitos passivos abrangidos pelas alíneas e), g) e h) do n.º 1 do artigo 2.º, que não estejam obrigados à apresentação da declaração periódica nos termos do artigo 41.º, devem enviar, por transmissão electrónica de dados, a declaração correspondente às operações tributáveis realizadas e efectuar o pagamento do respectivo imposto, nos locais de cobrança legalmente autorizados, até ao final do mês seguinte àquele em que se torna exigível.
+3 - Os sujeitos passivos abrangidos pelas alíneas e), g), h) e j) do n.º 1 do artigo 2.º, que não estejam obrigados à apresentação da declaração periódica nos termos do artigo 41.º, devem enviar, por transmissão eletrónica de dados, a declaração correspondente às operações tributáveis realizadas e efetuar o pagamento do respetivo imposto, nos locais de cobrança legalmente autorizados, até ao final do mês seguinte àquele em que se torna exigível.
 
 4 - (Revogado.)
 
