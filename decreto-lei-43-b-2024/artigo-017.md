@@ -1,4 +1,4 @@
-# Artigo 17.º
+# Artigo 17
 
 ### Norma revogatória
 
@@ -22,4 +22,4 @@ h) Decreto Regulamentar n.º 23/2012, de 9 de fevereiro, na sua redação atual;
 
 i) Decreto Regulamentar n.º 37/2012, de 10 de abril.
 
-2 - O disposto no número anterior opera nos termos do faseamento operacional definido no anexo iv ao presente decreto-lei.
+2 - O disposto no número anterior produz efeitos na data de extinção de cada uma das entidades.
