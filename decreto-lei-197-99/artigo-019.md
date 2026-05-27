@@ -14,4 +14,6 @@ c) De bens culturais e outros casos previstos em norma especial.
 
 d) Respeitantes a outras coberturas legalmente obrigatórias.
 
-3 - O regime previsto no presente artigo não é aplicável às entidades referidas nas alíneas d) e e) do artigo 2.º
+3 - Sem prejuízo do disposto nos números anteriores os ministros setoriais podem, em casos excecionais, autorizar a contratação de seguros, com exceção dos seguros de saúde, desde que os encargos não excedam 50 000,00 € nem o prazo de vigência de um ano.
+
+4 - O regime previsto no presente artigo não é aplicável às entidades referidas nas alíneas d) e e) do artigo 2.º.
