@@ -1,0 +1,19 @@
+# Portaria n.º 225/2026
+
+**Emissor:** SECRETARIA REGIONAL DE SAÚDE E PROTEÇÃO CIVIL; SECRETARIA REGIONAL DAS FINANÇAS; SECRETARIA REGIONAL DE INCLUSÃO, TRABALHO E JUVENTUDE
+
+**Publicação:** JORAM, I série, n.º 95/2026, 2.º suplemento, de 2026-05-28
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais decorrentes do contrato-programa a celebrar no âmbito da Rede de Cuidados Continuados Integrados (REDE), na tipologia de Unidade de Longa Duração e Manutenção, com o Lar D’ Ajuda - Lar e Centro de Dia, Sociedade Unipessoal, Lda., Unidade V, para o triénio 2026-2028, não podendo exceder o montante global de 1.641,479,20 €.
+
+## Texto
+
+Portaria n.º 225/2026
+de 28 de maio
+Sumário: Autoriza a distribuição dos encargos orçamentais decorrentes do contrato-programa a celebrar no âmbito da Rede de Cuidados Continuados Integrados (REDE), na tipologia de Unidade de Longa Duração e Manutenção, com o Lar D’ Ajuda - Lar e Centro de Dia, Sociedade Unipessoal, Lda., Unidade V, para o triénio 2026-2028, não podendo exceder o montante global de 1.641,479,20 €.
+Texto: Dando cumprimento ao disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na redação atual, na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na redação dada pela Lei n.º 22/2015, de 17 de março, no artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na redação dada pelo Decreto-Lei n.º 99/2015, de 2 de junho, e no n.º 1 do artigo 30.º, bem como nos artigos 34.º e 42.º do Decreto Legislativo Regional n.º 8/2025/M, de 30 de dezembro, conjugado com o artigo 49.º da Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, na redação atual, manda o Governo Regional, através dos Secretários Regionais de Saúde e Proteção Civil, das Finanças e de Inclusão, Trabalho e Juventude, o seguinte:
+1. Os encargos orçamentais decorrentes do contrato-programa a celebrar no âmbito da Rede de Cuidados Continuados Integrados (REDE), na tipologia de Unidade de Longa Duração e Manutenção, com o Lar D’ Ajuda - Lar e Centro de Dia, Sociedade Unipessoal, Lda., Unidade V, para o triénio 2026-2028, não podendo exceder o montante global de 1 641 479,20 € (um milhão, seiscentos e quarenta e um mil, quatrocentos e setenta e nove euros e vinte cêntimos), isento de IVA, encontram-se escalonados da seguinte forma:
+Ano económico de 2026 ............................................................................... 546 660,50 €; Ano económico de 2027 ............................................................................... 546 660,50 €; Ano económico de 2028 ............................................................................... 548 158,20 €.
+2. As despesas resultantes do contrato-programa a celebrar têm cabimento orçamental na classificação económica D.04.07.01.BS.B0, do Orçamento Privativo do Instituto de Administração da Saúde, IP-RAM, tendo sido atribuído o número de cabimento orçamental n.º 2317, e na classificação económica D.04.07.01.YO.SD do Orçamento Privativo da Secretaria Regional de Inclusão, Trabalho e Juventude, tendo sido atribuído o n.º de cabimento orçamental CY42604022, e nos anos seguintes por verbas adequadas a inscrever nos orçamentos dos respetivos organismos.
+
+3. A importância fixada para cada ano económico poderá ser acrescida do saldo apurado no ano anterior. 4. A presente Portaria produz efeitos reportados a 1 de janeiro de 2026. 5. A presente Portaria entra em vigor na data da sua publicação. Secretarias Regionais de Saúde e Proteção Civil, das Finanças e de Inclusão, Trabalho e Juventude, no Funchal, aos 28 dias do mês de maio de 2026. A SECRETÁRIA REGIONAL DE SAÚDE E PROTEÇÃO CIVIL, Micaela Cristina Fonseca de Freitas O SECRETÁRIO REGIONAL DAS FINANÇAS, Duarte Nuno Nunes de Freitas A SECRETÁRIA REGIONAL DE INCLUSÃO, TRABALHO E JUVENTUDE, Paula Cristina Baptista Margarido
