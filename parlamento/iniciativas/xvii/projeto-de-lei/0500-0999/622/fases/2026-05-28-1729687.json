@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "622",
+    "id": "356782",
+    "titulo": "Reforça as regras de segurança aplicáveis à micromobilidade elétrica"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-05-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "109189",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-05-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-10-08",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Cidadão Rui Pires",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d6a64684d325a695a5331694d4463314c54526d59574574596a63305a533034595459784d4467335a4751774e4751756347526d&fich=327a3fbe-b075-4faa-b74e-8a61087dd04d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-09-29",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - MUBi",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e574933596d51334f433169595749774c5451325a6d59744f4449354e53307a5a6a59344d32466b4d4445784d4755756347526d&fich=05b7bd78-bab0-46ff-8295-3f683ad0110e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-05-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=920"
+          },
+          {
+            "DataDocumento": "2026-07-15",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e454e4a545567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d444133595749344d5331684e544e694c5451794f4749745954526d4e5330314e474a6d597a557a596a55334d446b756347526d&fich=d007ab81-a53b-428b-a4f5-54bfc53b5709.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8460",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Infraestruturas, Mobilidade e Habitação",
+        "Numero": "8460",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-05-28",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão à 1.ª comissão",
+    "OevId": "1729687",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
