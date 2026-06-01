@@ -1,7 +1,3 @@
-Decreto-Lei n.º 159/2015
-
-de 10 de agosto
-
 A sociedade e o Estado têm o dever especial de proteção das crianças, jovens e famílias, nos termos previstos na Constituição, bem como da promoção efetiva dos direitos da criança consagrados na Convenção sobre os Direitos da Criança.
 
 Em conformidade, o XIX Governo Constitucional consagrou no seu Programa, como prioridade, a promoção e proteção da família e das crianças e jovens em situação de maior vulnerabilidade, com particular atenção para as crianças em risco ou perigo.
