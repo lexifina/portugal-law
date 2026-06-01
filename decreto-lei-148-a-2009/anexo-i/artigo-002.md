@@ -2,7 +2,7 @@
 
 ### Objecto
 
-1 - Constitui objecto do ML, E. P. E., a exploração, em exclusividade e regime de serviço público, do transporte colectivo de passageiros fundado no aproveitamento do subsolo da cidade de Lisboa e dos concelhos limítrofes da Grande Lisboa, abrangidos pela respectiva área correspondente ao nível iii da Nomenclatura para Fins Territoriais e Estatísticos (NUTS).
+1 - Constitui objeto do ML, E. P. E., a exploração, em exclusividade e regime de serviço público, do transporte coletivo de passageiros fundado no aproveitamento do subsolo do município de Lisboa e dos demais municípios da Área Metropolitana de Lisboa, bem como das expansões desse sistema que, pelas suas características próprias, sejam ou venham a ser realizadas através de sistemas de transporte coletivo em sítio próprio de elevada capacidade, designadamente na modalidade de metro ligeiro de superfície.
 
 2 - Incluem-se, ainda, no objecto do ML, E. P. E., as seguintes actividades:
 
@@ -20,6 +20,8 @@ f) Assegurar a representação do Estado, a solicitação dos membros do Governo
 
 3 - O ML, E. P. E., pode, nos termos da lei, exercer directamente, ou em colaboração com terceiros, outras actividades complementares ou subsidiárias da exploração, bem como outros ramos de actividade comercial ou industrial, incluindo a prestação de serviços que não prejudiquem a prossecução do seu objecto principal e que tenham em vista a melhor realização dos fins sociais e a melhor utilização dos recursos disponíveis.
 
-4 - O ML, E. P. E., pode ainda desenvolver o transporte colectivo parcialmente à superfície, em trincheira, ao nível do solo ou em viaduto, designadamente em zonas limítrofes ou quando razões de ordem técnico-económica o justifiquem.
+4 - O ML, E. P. E., pode ainda desenvolver o transporte coletivo parcialmente à superfície, em trincheira, ao nível do solo ou em viaduto no município de Lisboa e nos demais municípios da Área Metropolitana de Lisboa ou quando razões de ordem técnico-económica o justifiquem.
 
 5 - O ML, E. P. E., pode explorar novas modalidades de transporte público de passageiros, desde que as suas características próprias o justifiquem, quer pela identidade tecnológica, quer por contribuírem para a optimização e a racionalização do sistema de transportes.
+
+6 - O ML, E. P. E., pode, por delegação do Estado, nos termos do disposto no artigo 5.º do Decreto-Lei n.º 106/2026, de 27 de maio, assegurar a construção, a instalação, a renovação, a manutenção e a gestão de infraestruturas ferroviárias, de sistemas de transporte coletivo em sítio próprio de elevada capacidade, bem como do respetivo material circulante, que não estejam, nem venham a estar, afetas à sua atividade.
