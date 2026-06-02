@@ -1,0 +1,154 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "640",
+    "id": "356838",
+    "titulo": "Elevação da Povoação de Vermoil à Categoria de Vila"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-06-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "109210",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-06-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-06-05",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=903"
+          },
+          {
+            "DataDocumento": "2026-10-19",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595752695a5755324f446374596a46684d4330304d7a5a694c5745774f5449745a6a4e684f445a6b596d4e6d4d7a68694c6e426b5a673d3d&fich=adbee687-b1a0-436b-a092-f3a86dbcf38b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f445a6a4d6a673459546b744d6a5a6d5a433030597a67314c54686a4d4441744e324669595745344d324d334e5745774c6e426b5a673d3d&fich=86c288a9-26fd-4c85-8c00-7abaa83c75a0.pdf&Inline=true",
+            "nome": "Câmara Municipal de Pombal em 2026-07-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a5130595749324e7a51744f544d314e6930304e47526d4c5467334d6a67744e7a4e6a4e444d314f474d354d44497a4c6e426b5a673d3d&fich=244ab674-9356-44df-8728-73c4358c9023.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Pombal em 2026-07-02"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54426a4d4464684e6d51745a544d784e4330304f5463774c546b784f574974597a4d774e47526a4e7a5a6c4e6a4a694c6e426b5a673d3d&fich=50c07a6d-e314-4970-919b-c304dc76e62b.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Vermoil em 2026-09-14"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a55775a5449314d5445745a444e6d4f4330304e4445334c546b324d545574596a466d5a5746685a474a6b4d6d517a4c6e426b5a673d3d&fich=750e2511-d3f8-4417-9615-b1feaadbd2d3.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-06-15"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d49324e446b314d7a4d744d6a4a6d4e533030595749784c5467335a6a67745a57566c593255344d5459795a47466b4c6e426b5a673d3d&fich=2b649533-22f5-4ab1-87f8-eeece8162dad.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-06-17"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a63304f54686d4e5445745a6d4d3059793030596d46694c54686c5a4449744d54426d4d5445794d7a5a6b595451794c6e426b5a673d3d&fich=37498f51-fc4c-4bab-8ed2-10f11236da42.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Vermoil em 2026-09-14"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f445a6a4d6a673459546b744d6a5a6d5a433030597a67314c54686a4d4441744e324669595745344d324d334e5745774c6e426b5a673d3d&fich=86c288a9-26fd-4c85-8c00-7abaa83c75a0.pdf&Inline=true",
+            "nome": "Câmara Municipal de Pombal em 2026-06-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a5130595749324e7a51744f544d314e6930304e47526d4c5467334d6a67744e7a4e6a4e444d314f474d354d44497a4c6e426b5a673d3d&fich=244ab674-9356-44df-8728-73c4358c9023.pdf&Inline=true",
+            "nome": "Assembleia Municipal de Pombal em 2026-06-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54426a4d4464684e6d51745a544d784e4330304f5463774c546b784f574974597a4d774e47526a4e7a5a6c4e6a4a694c6e426b5a673d3d&fich=50c07a6d-e314-4970-919b-c304dc76e62b.pdf&Inline=true",
+            "nome": "Assembleia de Freguesia de Vermoil em 2026-06-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a55775a5449314d5445745a444e6d4f4330304e4445334c546b324d545574596a466d5a5746685a474a6b4d6d517a4c6e426b5a673d3d&fich=750e2511-d3f8-4417-9615-b1feaadbd2d3.pdf&Inline=true",
+            "nome": "Associação Nacional de Freguesias (ANAFRE) em 2026-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional das Assembleias Municipais (ANAM) em 2026-06-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d49324e446b314d7a4d744d6a4a6d4e533030595749784c5467335a6a67745a57566c593255344d5459795a47466b4c6e426b5a673d3d&fich=2b649533-22f5-4ab1-87f8-eeece8162dad.pdf&Inline=true",
+            "nome": "Associação Nacional de Municípios Portugueses (ANMP) em 2026-06-05"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a63304f54686d4e5445745a6d4d3059793030596d46694c54686c5a4449744d54426d4d5445794d7a5a6b595451794c6e426b5a673d3d&fich=37498f51-fc4c-4bab-8ed2-10f11236da42.pdf&Inline=true",
+            "nome": "Junta de Freguesia de Vermoil em 2026-06-05"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4186",
+            "motivoCessacao": null,
+            "nome": "Eurídice Pereira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-06-02",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1729845",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
