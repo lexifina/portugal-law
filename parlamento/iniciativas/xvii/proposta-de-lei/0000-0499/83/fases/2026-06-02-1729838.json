@@ -1,0 +1,210 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "83",
+    "id": "356842",
+    "titulo": "Transpõe a Diretiva (UE) 2023/1544, e estabelece o regime sancionatório aplicável às infrações das normas constantes da referida Diretiva e do Regulamento (UE) 2023/1543, relativo às ordens europeias de produção e de conservação para efeitos de prova eletrónica e de execução de penas privativas de liberdade na sequência de processos penais"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-06-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "109208",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-06-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-06-02",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributos - consulta pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=898"
+          },
+          {
+            "DataDocumento": "2026-06-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Relatório CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a63794f546c6b4f4467744f5749304e793030595451344c5749785a4755744d4449794d474a69597a4e695a4455314c6e426b5a673d3d&fich=77299d88-9b47-4a48-b1de-0220bbc3bd55.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-09",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4755304e7a4d355a574574597a67344d7930304f4451794c574535596d4d744d4451324d5449794f546c694d6d45304c6e426b5a673d3d&fich=0e4739ea-c883-4842-a9bc-04612299b2a4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "CSM - Informação de não emissão de parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d545a6859545a6a595745744d4755334d6930305957566a4c5467324d5751744d5451324e7a673259546b795954466b4c6e426b5a673d3d&fich=16aa6caa-0e72-4aec-861d-146786a92a1d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-29",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer CSM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e575a6d597a566c4d4467745a44566c596930304d54526b4c57466a5a5463744e546b31596d566d5a6d5669593252694c6e426b5a673d3d&fich=5ffc5e08-d5eb-414d-ace7-595beffebcdb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5745774f5459774f5455744d6d49334e4330305a6a6b794c546b774d6d45745954566b4f475a6c4e7a6b354e6a67784c6e426b5a673d3d&fich=1a096095-2b74-4f92-902a-a5d8fe799681.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-06-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - ANACOM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a67344f545a6a5a6d4d744d32566a4e6930304f4445354c57466a4f475574596a41334d5449304d6d4e6c59544a6d4c6e426b5a673d3d&fich=b8896cfc-3ec6-4819-ac8e-b071242cea2f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4449334e6a41784d7a67744d545579596930304e546b794c546c684e6d59744d546333593255325a444e6b4d6d526c4c6e426b5a673d3d&fich=02760138-152b-4592-9a6f-177ce6d3d2de.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a41314d6d51354e4751745a6a4d334e5330304e4446694c546c684d4459744d7a63775a4446684f444d784d7a5a684c6e426b5a673d3d&fich=3052d94d-f375-441b-9a06-370d1a83136a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-06-29"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-07-07"
+          },
+          {
+            "link": "",
+            "nome": "ANACOM - Autoridade  Nacional de Comunicações em 2026-06-08"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-06-08"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-06-03"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2026-06-03"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-06-03"
+          },
+          {
+            "link": "",
+            "nome": "ANACOM - Autoridade  Nacional de Comunicações em 2026-06-03"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2026-06-03"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "7369",
+            "motivoCessacao": null,
+            "nome": "Vanessa Barata"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-06-09",
+            "dataRemessa": "2026-06-09",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "BE",
+              "PAN",
+              "JPP"
+            ],
+            "data": "2026-06-09",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> IL</I>, <I> CDS-PP</I><BR>Ausência: <I>L</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I>",
+            "id": "172064",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "79",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-06-02",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1729838",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
