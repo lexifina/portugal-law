@@ -1,13 +1,13 @@
-# Artigo 3.º
+# Artigo 3
 
-### Aprovação
+### Elaboração das escalas de assistência farmacêutica
 
-1 - As associações representativas das farmácias propõem à administração regional de saúde territorialmente competente (ARS), até ao dia 30 de setembro, as escalas de turnos de serviço permanente e de regime de disponibilidade, adiante designadas por escalas de turnos, para o ano seguinte.
+1 - As associações representativas das farmácias elaboram, de acordo com os critérios mínimos previstos no artigo 11.º do Decreto-Lei n.º 53/2007, 8 de março, na sua redação atual, até ao dia 30 de setembro, as escalas de assistência farmacêutica para o ano seguinte, e solicitam parecer sobre as mesmas à Unidade Local de Saúde (ULS) territorialmente competente, o qual deve ser emitido até ao dia 30 de outubro.
 
-2 - A ARS solicita, à câmara municipal territorialmente competente (CM), parecer sobre a proposta referida no número anterior, que deve ser emitido até ao dia 30 de outubro.
+2 - Para efeitos do disposto no número anterior, a ULS, após a receção das escalas de assistência farmacêutica, deve obter a pronúncia dos municípios territorialmente competentes, a qual pode ser prestada diretamente pelos municípios ou, em alternativa, através das respetivas Comunidades Intermunicipais, caso estas estejam mandatadas pelos municípios para o efeito, devendo a pronúncia ser emitida no prazo máximo de 15 dias a contar da data da receção do pedido da ULS.
 
-3 - Após a receção do parecer da CM ou caso o mesmo não seja emitido durante o prazo legal, a ARS aprova, até ao dia 30 de novembro, as escalas de turnos para o ano seguinte, nos termos do artigo 14.º do Decreto-Lei n.º 53/2007, de 8 de março, na redação dada pelo Decreto-Lei n.º 7/2011, de 10 de janeiro.
+3 - Sem prejuízo do disposto nos n.os 3 e 4 do artigo 14.º Decreto-Lei n.º 53/2007, 8 de março, na sua atual redação, as escalas de assistência farmacêutica consideram-se válidas após a receção do parecer favorável emitido pela ULS territorialmente competente, bem como quando o mesmo não seja emitido até ao dia 30 de outubro.
 
-4 - A ARS envia ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED), à CM, às associações representativas das farmácias e às farmácias do município, até ao dia 30 de novembro, as escalas de turnos aprovadas para o ano seguinte.
+4 - As associações representativas das farmácias enviam ao INFARMED, ULS, câmaras municipais e farmácias, até ao dia 10 de dezembro, as escalas de assistência farmacêutica para o ano seguinte, a que se refere o número anterior.
 
-5 - As comunicações entre as entidades previstas no presente artigo devem ser feitas, sempre que possível, através de formato eletrónico.
+5 - As comunicações referidas no número anterior devem ser feitas através de formato eletrónico.

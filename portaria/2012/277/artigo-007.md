@@ -1,7 +1,5 @@
-# Artigo 7.º
+# Artigo 7
 
 ### Fiscalização
 
-1 - A fiscalização do cumprimento das escalas de turnos compete à ARS territorialmente competente.
-
-2 - No final de cada ano, cada ARS deve informar o INFARMED, a respetiva CM e as associações representativas das farmácias sobre a execução e a fiscalização das escalas de turnos aprovadas.
+Sem prejuízo das competências do INFARMED de fiscalização do regime que regula o horário de funcionamento das farmácias, compete especialmente ao INFARMED a fiscalização do cumprimento das escalas de assistência farmacêutica e da sua elaboração.
