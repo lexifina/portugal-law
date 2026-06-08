@@ -1,0 +1,27 @@
+## Capítulo I
+
+## Incidência
+
+## Secção I
+
+## Incidência real
+
+# Artigo 1.º
+
+### Base do imposto
+
+1 - O imposto sobre o rendimento das pessoas singulares (IRS) incide sobre o valor anual dos rendimentos das categorias seguintes, mesmo quando provenientes de atos ilícitos, depois de efetuadas as correspondentes deduções e abatimentos:
+
+Categoria A - Rendimentos do trabalho dependente;
+
+Categoria B - Rendimentos empresariais e profissionais;
+
+Categoria E - Rendimentos de capitais;
+
+Categoria F - Rendimentos prediais;
+
+Categoria G - Incrementos patrimoniais;
+
+Categoria H - Pensões.
+
+2 - Os rendimentos, quer em dinheiro quer em espécie, ficam sujeitos a tributação, seja qual for o local onde se obtenham, a moeda e a forma por que sejam auferidos.
