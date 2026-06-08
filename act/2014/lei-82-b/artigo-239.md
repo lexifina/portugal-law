@@ -294,9 +294,9 @@ Artigo 12.º
 
 Incumprimento
 
-1 - Quando as informações comunicadas estejam incorretas ou incompletas, a Autoridade Tributária e Aduaneira notifica as instituições financeiras para a resolução das deficiências detetadas, designadamente através de uma nova comunicação das informações, aplicando-se, se for o caso, as penalidades correspondentes às infrações praticadas, nos termos dos artigos 117.º ou 119.º do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho.
+1 - Quando as informações comunicadas estejam incorretas ou incompletas, a Autoridade Tributária e Aduaneira notifica as instituições financeiras para a resolução das deficiências detetadas, designadamente através de uma nova comunicação das informações, aplicando-se, se for o caso, as penalidades correspondentes às infrações praticadas, nos termos do n.º 1 do artigo 119.º-B do Regime Geral das Infrações Tributárias, aprovado em anexo à Lei n.º 15/2001, de 5 de junho.
 
-2 - Em caso de incumprimento das obrigações de comunicação ou de diligência devida previstas no presente regime por parte de uma instituição financeira, a Autoridade Tributária e Aduaneira notifica a instituição financeira para corrigir ou suprir as informações em falta ou, sendo o caso, adotar ou corrigir os procedimentos de diligência devida adequados a sanar a situação de incumprimento, sendo as coimas previstas no número anterior elevadas até ao dobro.
+2 - Em caso de incumprimento das obrigações de comunicação, de diligência devida e de registo e conservação dos documentos destinados a comprovar o respetivo cumprimento, previstas no presente regime, por parte de uma instituição financeira, a Autoridade Tributária e Aduaneira notifica a instituição financeira para corrigir ou suprir as informações em falta ou, sendo o caso, adotar ou corrigir os procedimentos de diligência devida adequados a sanar a situação de incumprimento, aplicando-se, se for o caso, as penalidades correspondentes às infrações praticadas, nos termos do n.º 10 do artigo 117.º e do n.º 2 do artigo 119.º-B do Regime Geral das Infrações Tributárias.
 
 Artigo 13.º
 
