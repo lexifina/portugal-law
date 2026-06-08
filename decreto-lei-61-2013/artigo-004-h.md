@@ -45,3 +45,5 @@ b) Registada pela instituição financeira reportante de acordo com as suas prá
 c) Implementada pela instituição financeira reportante antes da data utilizada para classificar a conta financeira como conta preexistente.
 
 12 - A instituição financeira reportante só pode utilizar a classificação a que se refere o número anterior caso não tenha conhecimento nem motivos para presumir que essa classificação está incorreta ou não é fiável.
+
+13 - Entende-se por ‘serviço de identificação’ um processo eletrónico disponibilizado gratuitamente por um Estado-Membro ou pela União Europeia a uma instituição financeira reportante para efeitos de determinação da identidade e da residência fiscal de um titular de conta ou de uma pessoa que exerce o controlo.

@@ -50,7 +50,15 @@ e) As ações e as obrigações titularizadas emitidas pelas sociedades de titul
 
 f) As carteiras de gestão discricionária mantidas por instituições de investimento autorizadas a exercer a atividade de gestão de carteiras, numa base discricionária e individualizada, no âmbito de mandato conferido pelos clientes.
 
-3 - Entende-se por 'Conta de depósito' qualquer conta comercial, conta à ordem, conta poupança, conta a prazo ou plano de poupança com tributação diferida, ou uma conta comprovada por um certificado de depósito, certificado de poupança com tributação diferida, certificado de investimento, certificado de endividamento ou outros instrumentos similares mantidos por uma instituição financeira no decurso regular da atividade bancária ou similar, bem como os montantes detidos por uma empresa de seguros ao abrigo de um contrato de investimento garantido ou contrato similar que tenha por objeto o pagamento de juros ou o respetivo crédito em conta.
+3 - A expressão ‘Conta de depósito’ abrange:
+
+a) Uma conta comercial, conta à ordem, conta poupança, conta a prazo ou plano de poupança com tributação diferida, ou uma conta comprovada por um certificado de depósito, certificado de poupança com tributação diferida, certificado de investimento, certificado de endividamento ou outros instrumentos similares mantidos por uma instituição de depósito;
+
+b) Um montante detido por uma empresa de seguros ao abrigo de um contrato de investimento garantido ou contrato similar que tenha por objeto o pagamento de juros ou o respetivo crédito em conta;
+
+c) Uma conta ou conta nocional que represente todas as moedas eletrónicas detidas em benefício de um cliente;
+
+d) Uma conta que detenha uma ou mais moedas digitais de banco central em benefício de um cliente;
 
 4 - Entende-se por 'Conta de custódia' qualquer conta, que não constitua um contrato de seguro ou um contrato de renda, na qual sejam conservados um ou vários ativos financeiros em benefício de outra pessoa, nomeadamente ações, quotas, títulos de crédito, obrigações, títulos de dívida ou quaisquer outros documentos de dívida, operações cambiais ou sobre mercadorias, swaps de risco de incumprimento de crédito, swaps baseados em índices não financeiros, contratos de capital nocional, contratos de seguro, contratos de renda, ou quaisquer opções ou outros instrumentos derivados.
 

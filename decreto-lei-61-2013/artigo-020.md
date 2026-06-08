@@ -1,4 +1,4 @@
-# Artigo 20.º
+# Artigo 20
 
 ### Prazos para a troca obrigatória e automática de informações
 
@@ -9,6 +9,8 @@
 a) A partir de 1 de janeiro de 2016, no que respeita a residentes noutros Estados-membros, bem como noutras jurisdições fora da União Europeia que devam, por força de convenção ou outro instrumento jurídico internacional, prestar as informações especificadas na Norma Comum de Comunicação a partir da mesma data;
 
 b) A partir de 1 de janeiro de 2017 e dos anos subsequentes, no que respeita às demais jurisdições participantes não abrangidas pela alínea anterior.
+
+c) A partir de 1 de janeiro de 2026, no que respeita às informações a que se referem às alíneas e) a h) do n.º 3 do artigo 6.º
 
 3 - Para permitir a troca obrigatória e automática de informação a que se refere o número anterior:
 
@@ -35,3 +37,17 @@ ii) Ao dia 30 de setembro de 2018 e dos anos subsequentes, no que respeita às i
 7 - Para efeitos do disposto no número anterior, as primeiras informações devem ser comunicadas relativamente aos períodos sujeitos a comunicação que se iniciem a partir de 1 de janeiro de 2023.
 
 8 - Os operadores de plataformas reportantes devem comunicar as informações previstas no artigo 12.º do anexo ii ao presente decreto-lei, o mais tardar, em 31 de janeiro do ano seguinte ao ano civil em que o vendedor tenha sido identificado como vendedor sujeito a comunicação, sem prejuízo da aplicação das regras constantes do artigo 10.º do referido anexo.
+
+9 - A comunicação prevista nos n.os 27 a 32 do artigo 6.º deve ser efetuada utilizando o formato eletrónico normalizado previsto no n.º 4 do artigo 18.º, no prazo de nove meses a contar do final do ano civil a que se referem as obrigações de comunicação impostas aos prestadores de serviços de criptoativos reportantes.
+
+10 - Para efeitos do disposto no número anterior, as primeiras informações devem ser comunicadas relativamente ao ano civil relevante com início a partir de 1 de janeiro de 2026.
+
+11 - A Autoridade Tributária e Aduaneira procede à comunicação dos elementos da declaração de informação sobre o imposto complementar prevista nos n.os 33 e 34 do artigo 6.º através do formulário eletrónico normalizado previsto no n.º 4 do artigo 18.º, até:
+
+a) Três meses após o decurso do prazo para a entrega da declaração de informação sobre o imposto complementar relativa ao exercício fiscal de relato, quando essa declaração tenha sido entregue dentro do prazo previsto para esse efeito nos termos do artigo 46.º do RIMG; ou
+
+b) Três meses após a data da entrega da declaração de informação sobre o imposto complementar, quando essa declaração tenha sido entregue após o decurso do prazo previsto para esse efeito nos termos do artigo 46.º do RIMG.
+
+12 - O disposto nos n.os 33 e 34 do artigo 6.º aplica-se relativamente aos exercícios fiscais de relato iniciados após 31 de dezembro de 2023.
+
+13 - Sem prejuízo do disposto no n.º 11, a Autoridade Tributária e Aduaneira comunica as informações nos termos dos n.os 33 e 34 do artigo 6.º relativamente ao primeiro exercício fiscal de relato abrangido por essa troca, o mais tardar, até seis meses após o decurso do prazo para a entrega da declaração de informação sobre o imposto complementar relativa a esse exercício fiscal de relato, mas não antes de 1 de dezembro de 2026.

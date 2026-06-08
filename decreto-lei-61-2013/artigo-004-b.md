@@ -4,7 +4,11 @@
 
 1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, entende-se por 'Instituição financeira não reportante' qualquer instituição financeira que seja:
 
-a) Uma entidade pública, uma organização internacional ou um banco central, salvo no que diz respeito ao pagamento resultante de uma obrigação detida em ligação com uma atividade financeira comercial exercida por uma empresa de seguros especificada, uma instituição de custódia ou uma instituição de depósito;
+a) Uma entidade pública, uma organização internacional ou um banco central, salvo no que diz respeito:
+
+i) Ao pagamento resultante de uma obrigação detida em ligação com uma atividade financeira comercial exercida por uma empresa de seguros especificada, uma instituição de custódia ou uma instituição de depósito; ou
+
+ii) À atividade de manutenção de moedas digitais de banco central para titulares de contas que não sejam instituições financeiras, entidades públicas, organizações internacionais ou bancos centrais;
 
 b) Um fundo de pensões de participação alargada, um fundo de pensões de participação limitada, um fundo de pensões de uma entidade pública, de uma organização internacional ou de um banco central, ou um emitente qualificado de cartões de crédito;
 

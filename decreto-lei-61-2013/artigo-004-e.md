@@ -48,7 +48,19 @@ iii) A obrigação que incumbe a uma instituição financeira que concede um emp
 
 iv) A obrigação que incumbe a uma instituição financeira exclusivamente para facilitar o pagamento de impostos numa data posterior;
 
-f) Uma conta de depósito que exista apenas porque um cliente efetua um pagamento que excede o saldo devido a título do cartão de crédito ou de outra facilidade de crédito renovável e o excedente não é imediatamente devolvido ao cliente, desde que, a partir de 1 de janeiro de 2016 ou antes dessa data, a instituição financeira implemente políticas e procedimentos para:
+v) A constituição ou o aumento de capital de uma sociedade, desde que a conta satisfaça os seguintes requisitos:
+
+1) A conta seja utilizada exclusivamente para depositar capital destinado a ser utilizado para efeitos da constituição ou do aumento de capital de uma sociedade, nos termos da lei;
+
+2) Os montantes detidos na conta fiquem bloqueados até que a instituição financeira reportante obtenha uma confirmação independente relativamente à constituição ou ao aumento de capital;
+
+3) A conta seja encerrada ou transformada numa conta em nome da sociedade após a constituição ou o aumento de capital;
+
+4) Os reembolsos resultantes de uma constituição falhada ou de um aumento de capital falhado, líquidos de taxas de prestadores de serviços e de outras taxas similares, sejam pagos unicamente às pessoas que contribuíram com os montantes; e
+
+5) A conta não tenha sido constituída há mais de 12 meses;
+
+f) Uma conta de depósito que represente todas as moedas eletrónicas detidas em benefício de um cliente, desde que a média móvel de 90 dias do saldo ou do valor agregado da conta no final do dia, durante qualquer período de 90 dias consecutivos, não tenha excedido 10 000 USD em nenhum dia do ano civil;
 
 i) Evitar que os clientes efetuem pagamentos em excesso superiores a USD 50 000, incluindo-se neste cômputo os saldos credores resultantes da devolução de mercadorias e excluindo-se os saldos credores imputáveis a taxas em litígio; ou
 

@@ -1,4 +1,4 @@
-# Artigo 18.º
+# Artigo 18
 
 ### Formulários normalizados e informatizados
 
@@ -6,7 +6,7 @@
 
 2 - Os formulários normalizados podem ser acompanhados de relatórios, declarações e quaisquer outros documentos, cópias autenticadas ou extratos dos mesmos.
 
-3 - As informações espontâneas e respetivos avisos de receção ao abrigo do artigo 7.º, os pedidos de notificação administrativa ao abrigo do artigo 10.º, o retorno de informação ao abrigo do artigo 11.º, bem como as comunicações ao abrigo dos n.os 5 a 11 do artigo 12.º e do n.º 2 do artigo 15.º, devem ser transmitidos através dos formulários normalizados adotados pela Comissão Europeia em conformidade com o procedimento previsto no artigo 5.º do Regulamento (UE) n.º 182/2011.
+3 - As informações espontâneas e respetivos avisos de receção ao abrigo do artigo 7.º, os pedidos de notificação administrativa ao abrigo do artigo 10.º, o retorno de informação ao abrigo do artigo 11.º, bem como as comunicações ao abrigo dos n.os 5 a 12 do artigo 12.º e do n.º 2 do artigo 15.º, devem ser transmitidos através dos formulários normalizados adotados pela Comissão Europeia em conformidade com o procedimento previsto no artigo 5.º do Regulamento (UE) n.º 182/2011.
 
 4 - A troca obrigatória e automática de informações ao abrigo do artigo 6.º deve ser efetuada utilizando um formato eletrónico normalizado, concebido para a facilitar, adotado pela Comissão Europeia em conformidade com o procedimento previsto no artigo 5.º do Regulamento (UE) n.º 182/2011.
 
