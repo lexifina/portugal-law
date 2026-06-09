@@ -36,4 +36,4 @@ e) Ter condição de estudante em território nacional há, pelo menos, 185 dias
 
 12 - Podem ser definidos mecanismos de revalidação automática das cartas de condução por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e dos transportes.
 
-13 - A portaria mencionada no número anterior pode regular, ainda, os termos necessários à revalidação automática das cartas de condução em conjunto com a renovação online do Cartão de Cidadão, realizada no portal ePortugal, utilizando a Plataforma de Interoperabilidade da Administração Pública e mediante autenticação segura com recurso ao Cartão de Cidadão ou à Chave Móvel Digital.
+13 - A portaria mencionada no número anterior pode regular, ainda, os termos necessários associados à revalidação automática das cartas de condução em conjunto com a renovação online do cartão de cidadão, realizada no portal gov.pt. e na aplicação móvel correspondente, utilizando a Plataforma de Interoperabilidade da Administração Pública e mediante autenticação segura com recurso ao cartão de cidadão ou à chave móvel digital.

@@ -29,3 +29,5 @@ b) Os candidatos às categorias A2 e A que sejam titulares de carta de conduçã
 11 - Os requisitos a satisfazer pelos candidatos à obtenção de carta de condução da categoria T, os conteúdos programáticos, meios de avaliação, duração das provas de exame respetivas, as características dos veículos de exame e as condições de certificação das respetivas entidades formadoras são fixados por portaria dos membros do Governo responsáveis pelas áreas da administração interna, da educação, do trabalho, da saúde, dos transportes e da agricultura.
 
 12 - As provas são classificadas como Aprovado ou Reprovado e apenas é considerado apto o candidato aprovado em ambas, salvo dispensa legal de alguma das provas componentes do exame de condução.
+
+13 - Nas provas de exame podem ser utilizados sistemas tecnológicos para prevenção de fraude e de apoio à avaliação.

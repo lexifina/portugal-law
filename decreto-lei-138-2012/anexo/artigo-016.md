@@ -27,3 +27,7 @@ b) 2 anos, após o condutor perfazer 70 anos de idade.
 7 - O disposto nos n.os 2 a 4 não prejudica a imposição de prazos de validade mais curtos, determinados pela necessidade de submissão antecipada do condutor a avaliação da aptidão física, mental e psicológica.
 
 8 - As licenças especiais de condução têm validade correspondente à do título estrangeiro que lhe serviu de origem, até ao limite máximo de três anos.
+
+9 - Nas situações em que o condutor é cidadão extracomunitário e titular de um visto ou autorização de residência válida que lhe permita residir em Portugal, os prazos previstos nas alíneas a) e b) do n.º 2 e na alínea a) do n.º 4 são reduzidos para a data de validade constante no documento de residência.
+
+10 - As cartas de condução com validade emitida nos termos do número anterior devem conter o código de restrição 794 e só são válidas enquanto o título de residência se mantiver válido ou se encontrar em processo de renovação.

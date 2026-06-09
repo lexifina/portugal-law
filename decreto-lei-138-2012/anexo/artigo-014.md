@@ -24,7 +24,7 @@ c) Declaração que ateste a validade do título de condução emitida pelo resp
 
 5 - O título de condução estrangeiro apreendido ou trocado é remetido à respetiva autoridade emissora, com indicação do número e data de emissão da carta de condução portuguesa pela qual foi trocado e dos motivos que determinaram a troca.
 
-6 - Em caso de perda ou furto do título emitido por Estado-membro da União Europeia ou do espaço económico europeu em território nacional, pode ser emitida carta de condução portuguesa mediante a apresentação de certidão do título extraviado, emitida pela autoridade estrangeira competente, acompanhada dos documentos referidos no n.º 2.
+6 - Em caso de perda ou furto do título de condução estrangeiro, pode ser emitida carta de condução portuguesa mediante a confirmação oficiosa da informação constante do título de condução, através da rede europeia de cartas de condução (RESPER) ou do respetivo serviço emissor, sem prejuízo do cumprimento dos demais requisitos previstos no presente artigo.
 
 7 - Na carta de condução concedida por troca, bem como em qualquer revalidação ou substituição posterior, são registados o número do título estrangeiro que lhe deu origem e o respetivo Estado emissor.
 
@@ -33,3 +33,7 @@ c) Declaração que ateste a validade do título de condução emitida pelo resp
 9 - O disposto no n.º 2 aplica-se aos processos de restituição de carta de condução portuguesa, prevista no n.º 9 do artigo 128.º do Código da Estrada, com exceção do certificado de autenticidade, desde que a carta de condução se encontre arquivada no IMT, I. P., por troca do título estrangeiro que apresenta.
 
 10 - Caso a troca do título estrangeiro esteja condicionada à realização de uma ou mais provas do exame de condução, o condutor é considerado não habilitado se reprovar duas vezes em qualquer uma das provas.
+
+11 - Só são reconhecidas as categorias que foram obtidas no estado da residência habitual, nos termos definidos no artigo 19.º, à data da respetiva obtenção.
+
+12 - Em caso de dúvida fundamentada sobre qualquer uma das categorias constantes no título de condução estrangeiro, a troca pode ser condicionada a confirmação oficiosa da informação junto embaixada ou do serviço emissor ou a prova prática do exame de condução.

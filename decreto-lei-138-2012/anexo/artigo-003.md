@@ -84,7 +84,7 @@ iv) Veículos da categoria B1;
 
 v) Veículos agrícolas da categoria I;
 
-vi) Veículos agrícolas da categoria II, mediante frequência de ação de formação, ministrada por entidade autorizada, nos termos a fixar por despacho dos membros do Governo responsáveis pelas áreas da administração interna, dos transportes e da agricultura;
+vi) Veículos agrícolas do tipo ii, correspondentes à restrição 792, mediante a frequência da ação de formação, ministrada por entidade autorizada, nos termos a fixar por despacho do membro do Governo responsável pela área da agricultura, excetuando-se a obrigatoriedade da frequência da ação de formação no caso de tratores agrícolas de 4 rodas cuja massa sem carga em ordem de marcha, excluída a massa das baterias no caso de veículos elétricos, seja inferior ou igual a 450 kg.
 
 vii) Máquinas industriais ligeiras;
 
@@ -139,3 +139,5 @@ a) Das categorias AM, A1 e T dos tipos I ou II, sem prejuízo do averbamento da 
 b) Da categoria T do tipo III, sem prejuízo do averbamento da restrição 793, quando obtida por extensão das categorias C ou D.
 
 6 - Sem prejuízo da exigência de habilitação específica, os condutores de veículos que se desloquem sobre carris ou de troleicarros devem ser titulares de carta de condução válida para a categoria D.
+
+7 - A categoria B1 habilita também à condução de veículos agrícolas do tipo i e tratores agrícolas de 4 rodas cuja massa sem carga em ordem de marcha, excluída a massa das baterias no caso de veículos elétricos, seja inferior ou igual a 450 kg, aplicando-se a dispensa de frequência de ação de formação nos mesmos termos dos condutores habilitados na categoria B.

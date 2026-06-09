@@ -39,3 +39,5 @@ c) Os titulares de título de condução caducado por reprovação na avaliaçã
 d) Os titulares de certificado de condução emitido pelas forças militares e de segurança que não tenham requerido a sua equivalência a carta de condução, nos termos do artigo 5.º
 
 e) Os titulares de carta de condução da categoria B que pretendam habilitar-se à condução dos conjuntos de veículos referidos no n.º 3 do artigo 21.º
+
+f) Os trabalhadores do IMT. I. P., que realizem provas práticas do exame de condução, para efeitos de habilitação a novas categorias, desde que frequentem ação de formação especifica, nos termos a fixar por deliberação do conselho diretivo do IMT, I. P.

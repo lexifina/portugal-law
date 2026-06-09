@@ -1,5 +1,3 @@
-Decreto-Lei n.º 138/2012
-
 de 5 de julho
 
 O presente diploma introduz diversas alterações ao Código da Estrada e aprova o novo Regulamento da Habilitação Legal para Conduzir, transpondo parcialmente para a ordem jurídica interna a Diretiva n.º 2006/126/CE, do Parlamento Europeu e do Conselho, de 20 de dezembro, relativa à carta de condução, na redação dada pela Diretiva n.º 2011/94/UE, da Comissão, de 28 de novembro.
