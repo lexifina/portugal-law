@@ -1,0 +1,136 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "62",
+    "id": "356278",
+    "titulo": "Altera a Lei Eleitoral do Presidente da República e a Lei Eleitoral para a Assembleia da República, no sentido de alargar a emissão do direito de antena nas rádios locais a todos os processos eleitorais, bem como o Regime Jurídico das Autarquias Locais, em matéria de publicidade das deliberações"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-06-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d344d444e684d5449334c5751344e5441744e4467794e5330345a5455774c546b774d6a63354d54686a597a466a4e7935775a47593d&fich=3803a127-d850-4825-8e50-9027918cc1c7.pdf&Inline=true",
+        "anexoNome": "Ofício de Redistribuição"
+      }
+    ],
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "109294",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": [
+          {
+            "data": "2026-07-02",
+            "id": "117773",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2026-07-16",
+            "id": "117785",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2026-09-08",
+            "id": "127790",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-06-15",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-10-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f57566d4e574e6d5a4467745a475578597930304e7a526c4c5749315a446b744e446c6a4f546332597a45324e6a49344c6e426b5a673d3d&fich=9ef5cfd8-de1c-474e-b5d9-49c976c16628.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração GP CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d5978597a67784d4455744d574d334d7930305a6d466d4c5749345a4455745932466c5954646d597a67354f4749334c6e426b5a673d3d&fich=bf1c8105-1c73-4faf-b8d5-caea7fc898b7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração PS (1ª versão)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3256694d6d566c5a6d49744d546c68595330304d32566d4c5745784d3255744d324d315a5463785a5449344f546b784c6e426b5a673d3d&fich=3eb2eefb-19aa-43ef-a13e-3c5e71e28991.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração GP PS (2ª versão)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d546b7a597a4a69595749744f5451324e4330304d44686a4c57457a5a545974596d466c4e3251794f44526d4e44426b4c6e426b5a673d3d&fich=193c2bab-9464-408c-a3e6-bae7d284f40d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-09",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Gravação da discussão e votação na especialidade",
+            "URL": "https://media.parlamento.pt/site/XVIILEG/SL2/COM/13_CREPL/CREPL_20261007.mp3"
+          },
+          {
+            "DataDocumento": "2026-10-21",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da Votação e Texto Final PPL 62-XVII-1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d304e535256424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324d774d6a6b304f4441745a5755325a4330304d444e6d4c5745334e4755745a445578595467354f5455795a4468684c6e426b5a673d3d&fich=3c029480-ee6d-403f-a74e-d51a89952d8a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8459",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão da Reforma do Estado e Poder Local",
+        "Numero": "8459",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-06-11",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Redistribuição da matéria remanescente da iniciativa, relativa às alterações ao regime jurídico das autarquias locais, à 13.ª Comissão, com despacho de 11-06-2026.\n",
+    "OevId": "1730333",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
