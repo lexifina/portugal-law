@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "82",
+    "id": "356841",
+    "titulo": "Transpõe a Diretiva (UE) 2024/1712, relativa à prevenção e luta contra o tráfico de seres humanos e à proteção das vítimas, alterando o Código Penal,  o Código de Processo Penal e à Lei n.º 104/2009, de 14 de setembro, e procede à criação da figura do Coordenador Nacional AntiTráfico de Seres Humanos e à designação do ponto focal para a referenciação transfronteiriça das vítimas"
+  },
+  "fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+  "codigo_fase": "237",
+  "data_registo": "2026-06-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3256695a574d344d5459314c5755304d7a41744e474e6b5a6930354d4445344c546b784e6a566c4e4759304d6d55774f5335775a47593d&fich=ebec8165-e430-4cdf-9018-9165e4f42e09.pdf&Inline=true",
+        "anexoNome": "Despacho 204-XVII do PAR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426b4e47566b4e54637a4c54566a596d59744e4446695a4331694e7a677a4c5751324d47526d4e4463784d54566a5a4335775a47593d&fich=0d4ed573-5cbf-41bd-b783-d60df47115cd.pdf&Inline=true",
+        "anexoNome": "Requerimento PSD"
+      }
+    ],
+    "CodigoFase": "237",
+    "Comissao": null,
+    "DataFase": "2026-06-11",
+    "EvtId": "122",
+    "Fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1730203",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1025054",
+        "obs": null,
+        "pag": [
+          "74-75"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-06-15",
+        "pubLeg": "XVII",
+        "pubNr": "102",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/102/2026-06-15/74?pgs=74-75&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-06-12",
+        "descricao": "Requerimento, apresentado pelo PSD, solicitando a baixa à Comissão de Assuntos Constitucionais, Direitos, Liberdade e Garantias, sem votação, da Proposta de Lei n.º 82/XVII/1.ª (GOV)",
+        "detalhe": null,
+        "id": "172095",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "100",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
