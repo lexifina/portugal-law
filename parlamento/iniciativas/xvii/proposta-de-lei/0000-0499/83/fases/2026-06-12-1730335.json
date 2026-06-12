@@ -1,0 +1,123 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "83",
+    "id": "356842",
+    "titulo": "Transpõe a Diretiva (UE) 2023/1544, e estabelece o regime sancionatório aplicável às infrações das normas constantes da referida Diretiva e do Regulamento (UE) 2023/1543, relativo às ordens europeias de produção e de conservação para efeitos de prova eletrónica e de execução de penas privativas de liberdade na sequência de processos penais"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2026-06-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "109295",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-06-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-07-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 1 - Proposta de alteração do GP do PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a49314d444d355a474d74595455775a5330304e5445314c546b7a5a6d55744f5751314d5749305a44426d4e444e6b4c6e426b5a673d3d&fich=625039dc-a50e-4515-93fe-9d51b4d0f43d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 2 - Proposta de alteração GP do  PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54497a4f54526d4d7a55744d6d597a4f5330304e5755314c5746695a6d51745a446b314f54466a4d5745344f5749314c6e426b5a673d3d&fich=92394f35-2f39-45e5-abfd-d9591c1a89b5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 3 - Proposta de alteração do GP do PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a51324f5759344d5745744f54426a5a6930304f4459324c5749314e3249745a545a6d4e4451314d6a4a6b4d325a6a4c6e426b5a673d3d&fich=3469f81a-90cf-4866-b57b-e6f44522d3fc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PA 4 - Proposta de alteração do GP do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659325a684f545a6d5a575174597a67334d4330304d544d794c546c6d596a4d74597a4d335932466d4e575934595441354c6e426b5a673d3d&fich=cfa96fed-c870-4132-9fb3-c37caf5f8a09.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-08",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d466a4f44426c5a5751744d54646a596930304e7a566d4c574932596a59744f546b304e6a413259544e685a4467344c6e426b5a673d3d&fich=fac80eed-17cb-475f-b6b6-994606a3ad88.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-07-13",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição e relatório da nova apreciação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a63334d4751304e7a45745a4459794d4330304f5749334c546730595441744e6a4a684d4446694e5445334d574a6b4c6e426b5a673d3d&fich=f770d471-d620-49b7-84a0-62a01b5171bd.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8447",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ",
+        "Numero": "8447",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-07-09",
+            "dataRemessa": "2026-07-09",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto de Substituição"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-06-12",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1730335",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
