@@ -68,7 +68,7 @@ g) Alfândega do Freixieiro;
 
 h) Alfândega do Funchal;
 
-i) Alfândega do Jardim do Tabaco;
+i) [Revogada.]
 
 j) Alfândega de Leixões;
 
@@ -80,7 +80,9 @@ m) Alfândega de Ponta Delgada;
 
 n) Alfândega de Setúbal;
 
-o) Alfândega de Viana do Castelo.
+o) Alfândega de Sines;
+
+p) Alfândega de Viana do Castelo.
 
 4 - A área de jurisdição das direções de finanças e das alfândegas é definida por despacho do diretor-geral da Autoridade Tributária e Aduaneira, publicado na 2.ª série do Diário da República.
 
