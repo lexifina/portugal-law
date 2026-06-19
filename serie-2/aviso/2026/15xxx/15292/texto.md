@@ -1,0 +1,17 @@
+Aviso n.º 15292/2026/2
+
+Consulta Pública - Proposta de Regulamento do Conselho Cinegético Municipal de Vila Nova da Barquinha
+
+Manuel José Coimbra Mourato, Presidente da Câmara Municipal de Vila Nova da Barquinha, no uso da competência prevista na alínea a), do n.º 1, do artigo 35.º, da Lei n.º 75/2013 de 12 de setembro, na sua redação atual;
+
+Torna público que, por deliberação do Órgão Executivo Municipal, tomada em sua reunião ordinária de 27 de maio de 2026, é submetido a Consulta Pública, pelo prazo de 30 (trinta) dias úteis, contados a partir do dia seguinte da publicação de Aviso na 2.ª série do Diário da República, a Proposta de Regulamento do Conselho Cinegético Municipal de Vila Nova da Barquinha, nos termos do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, na sua redação atual, para recolha de sugestões e/ ou contributos.
+
+O Projeto de Regulamento encontra-se disponível para consulta na página da internet do Município, em: www.cm-vnbarquinha.pt e em suporte físico, no Edifício dos Serviços Técnicos do Município/Núcleo de Apoio Jurídico do Município, sito na Praça da República, S/N, 2260-411 - Vila Nova da Barquinha, Serviços de Atendimento, no horário de expediente, compreendido entre as 09H00 e as 12H30, e entre as 14H00 e as 16H00.
+
+Assim, qualquer interessado pode apresentar, durante o período de Consulta Pública, por escrito, sugestões e/ou os contributos que entenderem pertinentes, através de requerimento dirigido ao Exmo. Senhor Presidente da Câmara, identificando devidamente o seu subscritor (nome completo e NIF), podendo estes ser entregues presencialmente na morada e horário de expediente, acima indicados, via CTT para a morada: Praça da República, 2260-411 Vila Nova da Barquinha ou ainda, via correio eletrónico para o e-mail: geral@cm-vnbarquinha.pt até às 23h59 do último dia do prazo acima referido.
+
+Para constar e devidos efeitos, se publica este Aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+
+12 de junho de 2026. - O Presidente da Câmara Municipal, Manuel José Coimbra Mourato.
+
+320011964
