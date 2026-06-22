@@ -10,8 +10,8 @@
 
 4 - O doente tem direito a optar por qualquer medicamento que contenha a mesma denominação comum internacional da substância ativa, forma farmacêutica e dosagem do medicamento constante da prescrição médica, salvo nos casos de:
 
-a) O medicamento prescrito conter uma substância ativa para a qual não exista medicamento genérico ou para a qual só exista original de marca e licenças;
+a) O medicamento prescrito conter uma substância ativa para a qual não exista medicamento genérico ou biossimilar ou para a qual só exista original de marca e licenças;
 
 b) O médico prescritor ter justificado tecnicamente a insuscetibilidade de substituição do medicamento prescrito, nos termos das alíneas a) e b) do n.º 3 do artigo 120.º
 
-5 - No caso previsto na alínea c) do n.º 3 do artigo 120.º, o doente pode exercer o direito de opção, mediante assinatura da receita médica, quando pretender medicamento de preço inferior ao do medicamento prescrito, sendo vedado, na farmácia, proceder-se a qualquer substituição por medicamento de preço superior ao medicamento prescrito
+5 - [Revogado.]
