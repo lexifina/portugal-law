@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "683",
+  "id": "356969",
+  "fases": 13,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-06-24",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a45354e6a426a4d5451314c545a684f544d744e475a6b4f433035596a4e6a4c57566b5a6a6b325a6d51774e57526c4e7935775a47593d&fich=1960c145-6a93-4fd8-9b3c-edf96fd05de7.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6857",
+        "nome": "Hugo Patrício Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7325",
+        "nome": "Carlos Cação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9184",
+        "nome": "Bárbara do Amaral Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9357",
+        "nome": "Paulo Lopes Marcelo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9617",
+        "nome": "Manuela Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4090",
+        "nome": "Margarida Saavedra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6537",
+        "nome": "Paulo Moniz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9505",
+        "nome": "Rui Rocha Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9109",
+        "nome": "Sónia Margarida Fernandes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4330",
+        "nome": "Ana Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9629",
+        "nome": "Ana Silveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9060",
+        "nome": "Firmino Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8525",
+        "nome": "Gonçalo Valente"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8558",
+        "nome": "Isabel Fernandes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8689",
+        "nome": "Nuno Jorge Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4221",
+        "nome": "Vânia Jesus"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "356969",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3251774e6d59344f4463774c5449304d7a6b744e444e6d596931685a5445784c5467784d3245304e7a4e6a5a5459774d79356b62324e34&fich=d06f8870-2439-43fb-ae11-813a473ce603.docx&Inline=true",
+    "IniNr": "683",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Altera a Lei n.º 43/2023, de 14 de agosto, para assegurar a operacionalização do Conselho para a Ação Climática",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
