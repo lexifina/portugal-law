@@ -1,0 +1,182 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "674",
+    "id": "356947",
+    "titulo": "Reforça o Complemento Garantia para a Infância, assegurando a aplicação das majorações previstas nas deduções por dependentes em sede de IRS"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-06-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "109379",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-06-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-10-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a446731596d45344d4331685a4755314c5451324e474d74596a686d4d4330794d7a63344f54597a59324d784d6a55756347526d&fich=1d85ba80-ade5-464c-b8f0-2378963cc125.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e6a59304d5755314e53316c4e5755334c5451314f54557459546c6a4d5330304f446b334e3252694d47566c4e7a67756347526d&fich=86641e55-e5e7-4595-a9c1-48977db0ee78.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-21",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resultado das votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d6a637a4f4455784f53316d5a5755784c5452684e6a6b7459574a694f4330304e325530597a55794e4746685a5445756347526d&fich=02738519-fee1-4a69-abb8-47e4c524aae1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-21",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f57466c4d4749774e79316d4d7a466d4c545133596a51745954417a596930314f44566a4e6d45774e6d45335a4745756347526d&fich=f9ae0b07-f31f-47b4-a03b-585c6a06a7da.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8451",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública ",
+        "Numero": "8451",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f5459304e6d51784f4330334d4759354c5451325a546b7459574d304f53307a5a6a55354d5756694e6a67344d6a6b756347526d&fich=f9646d18-70f9-46e9-ac49-3f591eb68829.pdf&Inline=true",
+            "nome": "EAPN Portugal / Rede Europeia Anti-Pobreza em 2026-07-20"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4f44466c4e47526c5a6930344d5441794c54526d4d6a5574595463304e53316c5a5751334e7a6c685a6a646d597a6b756347526d&fich=e81e4def-8102-4f25-a745-eed779af7fc9.pdf&Inline=true",
+            "nome": "Unicef Portugal em 2026-07-31"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e474668596a5a694d53316a4d6a4d314c5451325a6a51744f546b775a5330795a575a6d4f4459784d7a67775a6d59756347526d&fich=14aab6b1-c235-46f4-990e-2eff861380ff.pdf&Inline=true",
+            "nome": "Ordem dos Contabilistas Certificados em 2026-07-15"
+          },
+          {
+            "link": "",
+            "nome": "Equipa portuguesa do EUROMOD em 2026-07-28"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e54466b4d4455304d433078597a5a6d4c545135596a67744f4455785a4330324d5749784e44637a5957566b5a4455756347526d&fich=e51d0540-1c6f-49b8-851d-61b1473aedd5.pdf&Inline=true",
+            "nome": "Doutoras Edlira Narazani, Sara Riscado e Lara Wemans, autoras do estudo do Banco de Portugal e do Joint Research Centre sobre prestações familiares em 2026-07-20"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Coordenação Nacional da Garantia para a Infância em 2026-07-09"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f5459304e6d51784f4330334d4759354c5451325a546b7459574d304f53307a5a6a55354d5756694e6a67344d6a6b756347526d&fich=f9646d18-70f9-46e9-ac49-3f591eb68829.pdf&Inline=true",
+            "nome": "EAPN Portugal / Rede Europeia Anti-Pobreza em 2026-07-09"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4f44466c4e47526c5a6930344d5441794c54526d4d6a5574595463304e53316c5a5751334e7a6c685a6a646d597a6b756347526d&fich=e81e4def-8102-4f25-a745-eed779af7fc9.pdf&Inline=true",
+            "nome": "Unicef Portugal em 2026-07-09"
+          },
+          {
+            "link": "",
+            "nome": "Associação Fiscal Portuguesa em 2026-07-09"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e474668596a5a694d53316a4d6a4d314c5451325a6a51744f546b775a5330795a575a6d4f4459784d7a67775a6d59756347526d&fich=14aab6b1-c235-46f4-990e-2eff861380ff.pdf&Inline=true",
+            "nome": "Ordem dos Contabilistas Certificados em 2026-07-09"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa de Famílias Numerosas em 2026-07-09"
+          },
+          {
+            "link": "",
+            "nome": "Susana Peralta em 2026-07-09"
+          },
+          {
+            "link": "",
+            "nome": "Equipa portuguesa do EUROMOD em 2026-07-09"
+          },
+          {
+            "link": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e54466b4d4455304d433078597a5a6d4c545135596a67744f4455785a4330324d5749784e44637a5957566b5a4455756347526d&fich=e51d0540-1c6f-49b8-851d-61b1473aedd5.pdf&Inline=true",
+            "nome": "Doutoras Edlira Narazani, Sara Riscado e Lara Wemans, autoras do estudo do Banco de Portugal e do Joint Research Centre sobre prestações familiares em 2026-07-09"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-10-21",
+            "dataRemessa": "2026-10-21",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2026-10-21",
+            "descricao": null,
+            "detalhe": null,
+            "id": "193233",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "121",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-06-25",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1730844",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
