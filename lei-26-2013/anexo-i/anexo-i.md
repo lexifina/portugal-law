@@ -1,8 +1,8 @@
 # Anexo I
 
-### Parte A
+### Requisitos mínimos exigíveis para as instalações das empresas distribuidoras, dos estabelecimentos de venda, das empresas de aplicação terrestre e das entidades referidas na alínea b) do n.º 1 do artigo 26.º
 
-Requisitos mínimos exigíveis para as instalações das empresas distribuidoras, dos estabelecimentos de venda, das empresas de aplicação terrestre e das entidades referidas na alínea b) do n.º 1 do artigo 26.º
+Parte A
 
 1 - Localização:
 

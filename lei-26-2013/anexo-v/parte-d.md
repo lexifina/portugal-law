@@ -1,6 +1,10 @@
+## Parte C
+
 # Parte D
 
-### Requisitos a observar no registo das aplicações aéreas
+Requisitos a observar no registo das aplicações aéreas
+
+Parte D
 
 No registo das aplicações aéreas efetuadas devem ser especialmente registados os dados relativos aos seguintes elementos:
 

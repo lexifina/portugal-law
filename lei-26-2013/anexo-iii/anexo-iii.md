@@ -1,6 +1,6 @@
 # Anexo III
 
-Requisitos de segurança a que deve obedecer a manipulação e preparação de caldas e limpeza dos equipamentos de aplicação dos produtos fitofarmacêuticos nas explorações agrícolas e florestais, nas empresas de aplicação terrestre e nas entidades autorizadas ao abrigo do artigo 26.º
+### Requisitos de segurança a que deve obedecer a manipulação e preparação de caldas e limpeza dos equipamentos de aplicação dos produtos fitofarmacêuticos nas explorações agrícolas e florestais, nas empresas de aplicação terrestre e nas entidades autorizadas ao abrigo do artigo 26.º
 
 1 - No manuseamento ou preparação de caldas de produtos fitofarmacêuticos, os aplicadores devem respeitar os seguintes requisitos de segurança:
 
