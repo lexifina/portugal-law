@@ -1,4 +1,4 @@
-# Artigo 38.º
+# Artigo 38
 
 ### Caducidade da licença de produção
 
@@ -20,7 +20,7 @@ g) Com a extinção do título de utilização dos recursos hídricos ou do tít
 
 2 - A caducidade da licença nos termos das alíneas a), d) e e) do número anterior implica a perda da caução prestada, a qual é acionada pela DGEG e reverte para abatimento aos CIEG.
 
-3 - A aprovação do pedido de renúncia por parte da entidade licenciadora, nos termos da alínea e) do n.º 1, é precedida de estudos de segurança de abastecimento realizados no prazo de seis meses após a receção do pedido e que assegurem as condições de segurança e fiabilidade do SEN.
+3 - (Revogado.)
 
 4 - Quando a caducidade da licença ocorra com fundamento no disposto na alínea f) do n.º 1, é conferido direito de preferência à DGEG na alienação das instalações de produção ou armazenamento de eletricidade, tendo em vista a abertura de procedimento concorrencial para atribuição a novo titular.
 
