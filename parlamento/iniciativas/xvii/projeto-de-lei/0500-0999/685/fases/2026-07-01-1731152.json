@@ -1,0 +1,48 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "685",
+    "id": "356975",
+    "titulo": "Limita a acumulação de subvenções e elimina regimes especiais de aposentação dos titulares de cargos políticos e equiparados "
+  },
+  "fase": "Admissão",
+  "codigo_fase": "20",
+  "data_registo": "2026-07-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a49775957457a4e6d4e6a4c54677a4f4745744e4745354e5331684f44426b4c5463304f444d30597a63324e44686d4d4335775a47593d&fich=20aa36cc-838a-4a95-a80d-74834c7648f0.pdf&Inline=true",
+        "anexoNome": "Despacho 215-XVII do PAR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d324d32557a4d6a55774c5455774e7a41744e4451334d7930354e4755324c544a6c4d5745314e6a646d4d5455314d53356b62324e34&fich=363e3250-5070-4473-94e6-2e1a567f1551.docx&Inline=true",
+        "anexoNome": "Nota de Admissibilidade"
+      }
+    ],
+    "CodigoFase": "20",
+    "Comissao": null,
+    "DataFase": "2026-07-01",
+    "EvtId": "2",
+    "Fase": "Admissão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Despacho do PAR: \"Com conexão à 5.ª e à 1.ª nos termos do meu despacho 215.\"",
+    "OevId": "1731152",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
