@@ -1,0 +1,635 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "172",
+    "id": "315509",
+    "titulo": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros  "
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2026-07-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "82773",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3255315a446733595759354c54686b4d5455744e44686a4d7931684e325a6d4c546b345a4452684d5755775a5755324d7935775a47593d&fich=e5d87af9-8d15-48c3-a7ff-98d4a1e0ee63.pdf&Inline=true",
+        "anexoNome": "Requerimento PCP"
+      }
+    ],
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2026-07-01",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-07-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505548",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "86-87"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/86?pgs=86-87&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/98"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/87?pgs=87-88&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/99"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "88-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/88?pgs=88&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "8869",
+                "nome": "Jorge Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/100"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "88-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/88?pgs=88&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7331",
+                "nome": "Rui Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/101"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/89?pgs=89&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8689",
+                "nome": "Nuno Jorge Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/102"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/89?pgs=89&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "8230",
+                "nome": "André Rijo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/103"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/90?pgs=90&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "JPP",
+                "idCadastro": "9378",
+                "nome": "Filipe Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/104"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/90?pgs=90-91&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/105"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "91-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/91?pgs=91&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "7040",
+                "nome": "Fabian Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/106"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "91-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/91?pgs=91&org=PLC"
+              }
+            ],
+            "sumario": "Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1731046",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "67561",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "86-91"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-07-04",
+        "pubLeg": "XVII",
+        "pubNr": "111",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/86?pgs=86-91&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-07-03",
+        "descricao": "Requerimento, apresentado pelo PCP, de avocação pelo Plenário da votação na especialidade do Projeto de Lei n.º 172/XVII/1.ª (PCP) - Reforça os direitos e regalias dos bombeiros, procedendo à oitava alteração ao Decreto-Lei n.º 241/2007, de 21 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território nacional e à quarta alteração à Lei n.º 94/2015, de 13 de agosto, que define as regras do financiamento das associações humanitárias de bombeiros",
+        "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>IL</I>",
+        "id": "172449",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927812",
+            "obs": null,
+            "pag": [
+              "86-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/86?pgs=86&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "109",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
