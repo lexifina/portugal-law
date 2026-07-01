@@ -18,10 +18,10 @@ e) Promover os mecanismos necessários para uma articulação eficiente com outr
 
 a) Cumprir, pronta e integralmente, os critérios gerais e específicos que estiveram na base do seu reconhecimento;
 
-b) Divulgar pública e periodicamente os resultados da sua atividade;
+b) Elaborar anualmente os resultados da sua atividade, através de um relatório de atividades submetido à Comissão Nacional para os Centros de Referência, os quais, após aprovação, devem ser publicados no sítio eletrónico do portal do Serviço Nacional de Saúde, na área dedicada aos Centros de Referência;
 
 c) Comunicar à Comissão Nacional para os Centros de Referência qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos ao seu reconhecimento;
 
-d) Iniciar, no prazo de um ano, após o seu reconhecimento, o processo de certificação e acreditação da qualidade e segurança da prestação de cuidados, seguindo o modelo de acreditação indicado pela Direção-Geral da Saúde.
+d) Iniciar, no prazo de um ano, após o seu reconhecimento, o processo de certificação e acreditação da qualidade e segurança da prestação de cuidados, seguindo o modelo de acreditação indicado pela Direção-Geral da Saúde e informar a Comissão Nacional para os Centros de Referência dos relatórios finais do processo de certificação e acreditação da qualidade e segurança;
 
-e) Notificar a Comissão Nacional para os Centros de Referência quando da sua candidatura à integração em Redes Europeias de Referência.
+e) Notificar a Comissão Nacional para os Centros de Referência aquando da sua candidatura à integração em Redes Europeias de Referência, bem como do respetivo resultado.

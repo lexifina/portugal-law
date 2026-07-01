@@ -4,7 +4,7 @@
 
 1 - O processo de reconhecimento dos Centros de Referência obedece às seguintes etapas:
 
-a) Elaboração, com periocidade anual, de diagnóstico de situação e das necessidades das áreas de intervenção, patologias, técnicas ou procedimentos de elevada especialização em que devem ser reconhecidos Centros de Referência;
+a) Elaboração, com periodicidade definida pela Comissão Nacional para os Centros de Referência em articulação com o membro do Governo responsável pela área da saúde, de diagnóstico de situação e das necessidades das áreas de intervenção, patologias, técnicas ou procedimentos de elevada especialização em que devem ser reconhecidos Centros de Referência;
 
 b) Aprovação, pelo membro do Governo responsável pela área da Saúde, das áreas prioritárias, patologias, técnicas ou procedimentos de elevada especialização em que devem ser reconhecidos Centros de Referência;
 

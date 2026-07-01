@@ -18,8 +18,12 @@ f) Um representante da Direção-Geral da Saúde;
 
 g) Um representante da Administração Central do Sistema de Saúde, I.P.;
 
-h) Um representante do Ministério responsável pela área da ciência;
+h) [Revogada.]
 
-i) Um representante da Ordem dos Médicos.
+i) Um representante da Ordem dos Médicos;
+
+j) Um representante das Escolas Médicas;
+
+k) Um representante da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.).
 
 2 - Os membros da Comissão são designados por despacho do membro do Governo responsável pela área da saúde, por um período de cinco anos, renovável, podendo cessar funções a todo o tempo.
