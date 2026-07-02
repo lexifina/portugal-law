@@ -1,0 +1,573 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "352",
+    "id": "335932",
+    "titulo": "Aprova o Estatuto Jurídico do Apátrida"
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2026-07-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "82771",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a5268593245314d6a49314c54637a597a45744e474a684f533034597a42694c54526a59574d794e7a686b595759774d5335775a47593d&fich=4aca5225-73c1-4ba9-8c0b-4cac278daf01.pdf&Inline=true",
+        "anexoNome": "Requerimento LIVRE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3256694d474d7a4d574a6a4c574a6d596a51744e446c694e4330354e3245794c574579593252695a6a426b4e57517a5a4335775a47593d&fich=eb0c31bc-bfb4-49b4-97a2-a2cdbf0d5d3d.pdf&Inline=true",
+        "anexoNome": "Requerimento PSD"
+      }
+    ],
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2026-07-02",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315771",
+        "leg": "XVII",
+        "nr": "294",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "76938",
+            "obs": null,
+            "pag": [
+              "94-97"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-97&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "76938",
+            "obs": null,
+            "pag": [
+              "94-97"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-97&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "76938",
+            "obs": null,
+            "pag": [
+              "94-97"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-97&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regula o procedimento para o reconhecimento do estatuto de apátrida, em cumprimento do disposto no artigo 6.º da Lei n.º 41/2023, de 10 de agosto"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "315877",
+        "leg": "XVII",
+        "nr": "331",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "76938",
+            "obs": null,
+            "pag": [
+              "94-97"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-97&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "76938",
+            "obs": null,
+            "pag": [
+              "94-97"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-97&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "76938",
+            "obs": null,
+            "pag": [
+              "94-97"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-97&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regula o procedimento para a determinação do Estatuto de Apátrida "
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "335927",
+        "leg": "XVII",
+        "nr": "348",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "76938",
+            "obs": null,
+            "pag": [
+              "94-97"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-97&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "76938",
+            "obs": null,
+            "pag": [
+              "94-97"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-97&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "76938",
+            "obs": null,
+            "pag": [
+              "94-97"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-97&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Procede à Regulamentação do Estatuto do Apátrida \n"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-07-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "8689",
+                "nome": "Nuno Jorge Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/108"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "94-94"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94&org=PLC"
+              }
+            ],
+            "sumario": "Regula o procedimento para o reconhecimento do estatuto de apátrida, em cumprimento do disposto no artigo 6.º da Lei n.º 41/2023, de 10 de agosto; Regula o procedimento para a determinação do Estatuto de Apátrida; Procede à Regulamentação do Estatuto do Apátrida; Aprova o Estatuto Jurídico do Apátrida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "6932",
+                "nome": "Paulo Muacho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/109"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "94-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/94?pgs=94-95&org=PLC"
+              }
+            ],
+            "sumario": "Regula o procedimento para o reconhecimento do estatuto de apátrida, em cumprimento do disposto no artigo 6.º da Lei n.º 41/2023, de 10 de agosto; Regula o procedimento para a determinação do Estatuto de Apátrida; Procede à Regulamentação do Estatuto do Apátrida; Aprova o Estatuto Jurídico do Apátrida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6547",
+                "nome": "Cristina Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/110"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "95-96"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/95?pgs=95-96&org=PLC"
+              }
+            ],
+            "sumario": "Regula o procedimento para o reconhecimento do estatuto de apátrida, em cumprimento do disposto no artigo 6.º da Lei n.º 41/2023, de 10 de agosto; Regula o procedimento para a determinação do Estatuto de Apátrida; Procede à Regulamentação do Estatuto do Apátrida; Aprova o Estatuto Jurídico do Apátrida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7331",
+                "nome": "Rui Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/111"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "97-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/97?pgs=97&org=PLC"
+              }
+            ],
+            "sumario": "Regula o procedimento para o reconhecimento do estatuto de apátrida, em cumprimento do disposto no artigo 6.º da Lei n.º 41/2023, de 10 de agosto; Regula o procedimento para a determinação do Estatuto de Apátrida; Procede à Regulamentação do Estatuto do Apátrida; Aprova o Estatuto Jurídico do Apátrida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "14:12",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/111/124"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "102-103"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "111",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/102?pgs=102-103&org=PLC"
+              }
+            ],
+            "sumario": "Regula o procedimento para o reconhecimento do estatuto de apátrida, em cumprimento do disposto no artigo 6.º da Lei n.º 41/2023, de 10 de agosto; Regula o procedimento para a determinação do Estatuto de Apátrida; Procede à Regulamentação do Estatuto do Apátrida; Aprova o Estatuto Jurídico do Apátrida",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1731231",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-07-03",
+        "descricao": "Requerimentos, apresentados pelo PSD e L, de avocação pelo Plenário da votação na especialidade das propostas de alteração do n.º 1 do artigo 17.º do Texto final, apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, relativo aos Projetos de Lei n.os 294/XVII/1.ª (PSD), 331/XVII/1.ª (L), 348/XVII/1.ª (BE) e 352/XVII/1.ª (PS) – Regula o procedimento para o reconhecimento do Estatuto de Apátrida, em cumprimento do disposto no artigo 6.º da Lei n.º 41/2023, de 10 de agosto",
+        "detalhe": null,
+        "id": "172444",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927830",
+            "obs": null,
+            "pag": [
+              "93-94"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-04",
+            "pubLeg": "XVII",
+            "pubNr": "111",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/111/2026-07-04/93?pgs=93-94&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "109",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
