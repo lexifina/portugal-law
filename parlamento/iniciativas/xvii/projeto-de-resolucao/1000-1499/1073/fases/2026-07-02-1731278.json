@@ -1,0 +1,173 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1073",
+    "id": "356934",
+    "titulo": "Recomenda ao Governo o reforço do IMI Familiar como medida de apoio às famílias e de mitigação do aumento do custo de vida, bem como a criação de um regime reforçado para as Regiões Autónomas dos Açores e da Madeira\n\n"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-07-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "109456",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-07-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-09-16",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e505453383151303947515641765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d5749344d5451354e433079597a517a4c54526b4e5449744f5441345953316d4e6a41314e5751324d7a6377596a55756347526d&fich=41b81494-2c43-4d52-908a-f6055d6370b5.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8451",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública ",
+        "Numero": "8451",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-09-16",
+            "dataRemessa": "2026-09-16",
+            "numeroOficio": "E-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          },
+          {
+            "dataDocumento": "2026-09-16",
+            "dataRemessa": "2026-09-16",
+            "numeroOficio": "E-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "PCP",
+              "CDS-PP",
+              "BE",
+              "PAN"
+            ],
+            "data": "2026-09-16",
+            "descricao": "Votação do ponto 1 constante do texto inicial do Projeto de Resolução, autonomizado.",
+            "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> IL</I><BR>Contra:<I>PSD</I><BR>Ausência: <I>L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PAN</I>",
+            "id": "182799",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "111",
+            "tipoReuniao": null,
+            "unanime": null
+          },
+          {
+            "ausencias": [
+              "L",
+              "PCP",
+              "CDS-PP",
+              "BE",
+              "PAN"
+            ],
+            "data": "2026-09-16",
+            "descricao": "Votação do ponto 2 constante do texto inicial do Projeto de Resolução, autonomizado.",
+            "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> IL</I><BR>Contra:<I>PSD</I><BR>Ausência: <I>L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PAN</I>",
+            "id": "182800",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "111",
+            "tipoReuniao": null,
+            "unanime": null
+          },
+          {
+            "ausencias": [
+              "L",
+              "PCP",
+              "CDS-PP",
+              "BE",
+              "PAN"
+            ],
+            "data": "2026-09-16",
+            "descricao": "Votação do ponto 3 constante do texto inicial do Projeto de Resolução, autonomizado.",
+            "detalhe": "A Favor: <I>CH</I><BR>Contra:<I>PSD</I>, <I> IL</I><BR>Abstenção:<I>PS</I><BR>Ausência: <I>L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PAN</I>",
+            "id": "182801",
+            "publicacao": null,
+            "resultado": "Rejeitado",
+            "reuniao": "111",
+            "tipoReuniao": null,
+            "unanime": null
+          },
+          {
+            "ausencias": [
+              "L",
+              "PCP",
+              "CDS-PP",
+              "BE",
+              "PAN"
+            ],
+            "data": "2026-09-16",
+            "descricao": "Votação do ponto 4 constante do texto inicial do Projeto de Resolução, autonomizado.",
+            "detalhe": "A Favor: <I>CH</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PS</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PAN</I>",
+            "id": "182803",
+            "publicacao": null,
+            "resultado": "Rejeitado",
+            "reuniao": "111",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-07-02",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1731278",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
