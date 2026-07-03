@@ -1,0 +1,11 @@
+Edital n.º 840/2026
+
+Dra. Cristina Lasalete Cardoso Vieira, Presidente da Câmara Municipal de Marco de Canaveses, faz público que nos termos do disposto na alínea t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, em reunião realizada no dia 26 de junho de 2026, deliberou aprovar e submeter a consulta pública o «Projeto de Regulamento da Concessão de Medalhas Honoríficas do Município do Marco de Canaveses e Chave de Honra da Cidade”, para cumprimento do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro.
+
+Mais torna público, em cumprimento da mesma deliberação, que durante o período de 30 dias úteis a contar da data da publicação na 2.ª série do Diário da República, o referido projeto de regulamento poderá ser consultado no Edifício dos Paços do Concelho, nos Serviços de Atendimento ao Público, bem como no sítio www.cm-marco-canaveses.pt e sobre o qual os interessados poderão apresentar as suas sugestões ou observações, por escrito e dirigidas ao Presidente da Câmara Municipal, no horário normal de expediente e durante o referido prazo, que podem ser entregues, pessoalmente, nos serviços de atendimento ao público da Câmara Municipal de Marco de Canaveses, ou via postal, a serem remetidos para o Largo Sacadura Cabral, 4630-219 Marco de Canaveses, ou, ainda, por correio eletrónico para info@cm-marco-canaveses.pt.
+
+Para constar e devidos efeitos, se publica o presente edital e outros de igual teor que vão ser afixados nos lugares de estilo e no sítio da Internet suprarreferido.
+
+26 de junho de 2026. - A Presidente da Câmara Municipal, Dr.ª Cristina Vieira.
+
+320017284
