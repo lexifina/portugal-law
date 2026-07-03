@@ -1,0 +1,135 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "709",
+  "id": "357032",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-07-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2026-09-15",
+    "DataInicioleg": "2025-06-03",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32566c4e54686d4e57557a4c5456684e5445744e4759344e4330345a574e694c5759794d6a68694d6a42695a5463774d5335775a47593d&fich=ee58f5e3-5a51-4f84-8ecb-f228b20be701.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a52685a6a4a6c596a466b4c54686b4e444d744e446b794d4330354d4459784c5442684e6a5a6b5a6a67794d47526c4f53356b62324e34&fich=4af2eb1d-8d43-4920-9061-0a66df820de9.docx&Inline=true",
+        "anexoNome": "Texto – versão 1- de 2026-07-03"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8374",
+        "nome": "Miguel Guimarães"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7796",
+        "nome": "Francisco Sousa Vieira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4330",
+        "nome": "Ana Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6937",
+        "nome": "Alberto Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8558",
+        "nome": "Isabel Fernandes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9149",
+        "nome": "Joana Seabra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7667",
+        "nome": "Liliana Fidalgo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9107",
+        "nome": "Sofia Machado Fernandes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "9506",
+        "nome": "Ana Isabel Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1713",
+        "nome": "Bruno Vitorino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7039",
+        "nome": "Liliana Sousa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2071",
+        "nome": "Miguel Santos"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "8723",
+        "nome": "Paulo Núncio"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "CDS-PP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "357032",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d7a4d6a51314d574d334c5455304e474d744e4745354e433035597a51784c574e6c4d474e6b4d5463794f4449304e79356b62324e34&fich=332451c7-544c-4a94-9c41-ce0cd1728247.docx&Inline=true",
+    "IniNr": "709",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do texto a pedido do autor em 2026-07-13.",
+    "IniTipo": "J",
+    "IniTitulo": "Alteração ao Estatuto da Ordem dos Médicos - Regime jurídico dos estágios de formação profissional em medicina para nacionais dos países da CPLP\n",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
