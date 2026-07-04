@@ -8,7 +8,7 @@
 
 3 - As farmácias devem dispensar o medicamento de menor preço de entre os referidos no número anterior, salvo se for outra a opção do utente.
 
-4 - Nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º é vedada às farmácias a dispensa de medicamento com preço superior ao do medicamento prescrito.
+4 - [Revogado.]
 
 5 - As farmácias apenas podem dispensar, no máximo, a quantidade para garantir o tratamento durante dois meses.
 
