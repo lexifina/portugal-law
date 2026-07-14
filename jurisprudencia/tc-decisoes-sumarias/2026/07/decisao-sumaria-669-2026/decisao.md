@@ -1,0 +1,101 @@
+# Decisão sumária do Tribunal Constitucional n.º 669/2026, de 2026-07-14
+
+**Decisão sumária:** 669/26
+
+**Processo:** 836/26
+
+**Formação:** 3ª
+
+**Data:** 14.07.26
+
+**Relator:** Cons. Afonso Patrão
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/decsumarias/20260669.html
+
+## Texto integral
+
+DECISÃO SUMÁRIA N.º 669/2026
+
+Processo n.º 836/2026
+
+3.ª Secção
+
+Relator: Conselheiro Afonso Patrão
+
+Decisão Sumária
+
+(n.º 1 do artigo 78.º-A da LTC)
+
+I. Relatório
+
+1. No âmbito dos presentes autos, vindos do Tribunal Central Administrativo Sul, em que é recorrente A. - Sucursal em Portugal, e recorrida a Autoridade Tributária e Aduaneira, foi interposto o presente recurso para o Tribunal Constitucional ao abrigo da alínea b) do n.º 1 do artigo 70.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional (LTC) — Lei n.º 28/82, de 15 de novembro, na sua redação atual.
+
+2. Por decisão datada de 14 de julho de 2023, o Tribunal Administrativo e Fiscal de Sintra julgou improcedente a impugnação judicial apresentada pela ora recorrente contra a autoliquidação da Contribuição sobre o Setor Bancário (CSB) relativa ao ano de 2021.
+
+Inconformada, a ora recorrente apresentou recurso para o Tribunal Central Administrativo Sul.
+
+Por novo requerimento, datado de 21 de julho de 2025, o ora recorrente, perante o Tribunal Central Administrativo Sul, requereu «a suspensão da instância até à pronúncia do Supremo Tribunal de Justiça (“STA”) quanto às duas questões fundamento do recurso de revista interposto no âmbito do processo n.º 1576/20.1BELRS», concernentes à «violação da liberdade fundamental de estabelecimento, prevista pelos artigos 49.º e 54.º do Tratado sobre o Funcionamento da União Europeia (“TFUE”)» e a «violação da Diretiva 2014/59/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014 (“Diretiva 2014/59”)».
+
+Por acórdão datado de 30 de abril de 2026, o Tribunal Central Administrativo Sul decidiu negar provimento ao recurso, confirmando a sentença recorrida.
+
+3. A recorrente interpôs então o presente recurso de constitucionalidade, dirigido ao acórdão do Tribunal Central Administrativo Sul, datado de 30 de abril de 2026, e indicando como seu objeto quatro questões de constitucionalidade:
+
+i) «As normas conjugadas dos artigos 141.º da Lei n.º 55-A/2010, de 31 de dezembro, que aprovou o Orçamento do Estado para 2011 - que estabeleceu o regime jurídico da Contribuição sobre o Setor Bancário (“CSB”) - e artigos 1.º a 7.º da Portaria n.º 121/2011, de 30 de março, que regulamenta e estabelece as condições de aplicação da CSB, todos na sua redação atual, interpretadas e aplicadas pela decisão recorrida no sentido de que a imposição da CSB a sucursais em Portugal de instituições de crédito residentes noutros Estados membros da União Europeia é conforme (i) à verificação de uma utilidade grupal em caso de crise e intervenção da autoridade de resolução (Banco de Portugal) conforme às exigências do princípio da equivalência como decorrência da igualdade tributária e (ii) à liberdade fundamental de estabelecimento, imposta pelo direito da União Europeia, bem como, pelos mesmos motivos, ao direito à livre iniciativa económica privada em Portugal de uma instituição de crédito sediada noutro Estado membro da União Europeia»;
+
+ii) As «normas de incidência objetiva constantes dos artigos 3.°, alínea a), do regime jurídico da CSB aprovado pelo artigo 141.° da Lei n.º 55-A/2010, de 31 de dezembro, e 4.º, n.ºs 1, alínea a), e 2, alínea a), da Portaria n.º 121/2011, de 30 de março, que o regulamenta, quando interpretadas no sentido de que o conceito capitais próprios (que, nos termos do referido artigo 4.º, n.º 1, alínea a), da Portaria n.º 121/2011, de 30 de março, deve ser interpretado segundo as regras de contabilidade, e que, segundo estas, não abrange os resultados transitados, nem os capitais afetos pelas instituições de crédito não residentes às suas sucursais), permite às sucursais em Portugal de instituições de crédito sediadas noutro Estado membro da União Europeia a dedução, à base de incidência CSB, de resultados transitados e de capitais às mesmas afetos pelas referidas pessoas coletivas»;
+
+iii) As «normas de incidência objetiva constantes dos artigos 3.º, alínea a), do regime jurídico da CSB aprovado pelo artigo 141.º da Lei n.º 55-A/2010, de 31 de dezembro, e 4.º, n.ºs 1, alínea a), e 2, alínea a), da Portaria n.º 121/2011, de 30 de março, que o regulamenta, quando interpretadas no sentido de que permitem a dedução à base de incidência da CSB de fundos próprios das instituições de crédito residentes em Portugal de que as sucursais em Portugal de instituições de crédito residentes noutro Estado membro da União Europeia não podem ser dotadas (como capitais próprios), nem podem emitir (como instrumentos híbridos de dívida equiparáveis a capitais próprios) em face da sua natureza jurídica»; e
+
+iv) As «normas de incidência subjetiva constantes dos artigos 2.°, n.º 1, alínea a), do regime jurídico da CSB aprovado pelo artigo 141.° da Lei n.º 55-A/2010, de 31 de dezembro, e 2.º, n.º 1, alínea a), da Portaria n.º 121/2011, de 30 de março, que o regulamenta, quando interpretadas no sentido de que sujeitam as sucursais em Portugal de instituições de crédito residentes noutro Estado membro da União Europeia ao pagamento de uma contribuição financeira destinada a financiar o Fundo de Resolução português apesar de aquelas não poderem beneficiar da aplicação de uma medida de resolução a aplicar pelo Banco de Portugal».
+
+Tendo o recurso sido admitido pelo tribunal a quo, por despacho datado de 5 de junho de 2026, cumpre apreciar e decidir.
+
+II. Fundamentação
+
+4. Uma vez que a decisão que admitiu o recurso não vincula este Tribunal (n.º 3 do artigo 76.º da LTC), importa analisar os seus pressupostos de admissibilidade e verificar se é possível conhecer do seu objeto, atenta a necessidade da sua verificação cumulativa.
+
+A par do esgotamento dos recursos ordinários tolerados pela decisão recorrida (n.º 2 do artigo 70.º da LTC) e da sua interposição tempestiva, a admissibilidade dos recursos interpostos ao abrigo da alínea b) do n.º 1 do artigo 70.º da LTC depende da suscitação prévia da questão de inconstitucionalidade normativa, perante o tribunal que proferiu a decisão recorrida, «em termos de este estar obrigado a dela conhecer». Ademais, o requerimento de interposição de recurso deve indicar a alínea do n.º 1 do artigo 70.º da LTC ao abrigo da qual se recorre, a norma cuja constitucionalidade se pretende ver apreciada (n.º 1 do artigo 75.º-A da LTC), a norma ou princípio constitucional que se considera violado (n.º 2 do artigo 75.º-A da LTC), bem como a peça processual em que o recorrente suscitou a questão de inconstitucionalidade ou ilegalidade (n.º 2 do artigo 75.º-A da LTC).
+
+Por outro lado, no sistema jurídico-constitucional nacional, os recursos de fiscalização concreta da constitucionalidade, pese embora incidam sobre decisões dos tribunais, conformam se como recursos normativos, ou seja, visam a apreciação da conformidade constitucional de normas ou interpretações normativas, e não das decisões judiciais em si mesmas consideradas. Como é amiúde salientado, não cabe ao Tribunal Constitucional apreciar os factos materiais da causa, definir a correta conformação da lide ou determinar a melhor interpretação do direito ordinário, sendo a sua cognição limitada à questão jurídico-constitucional que lhe é posta. Assim, por imperativo do artigo 280.º da Constituição, o objeto do recurso circunscreve-se exclusiva e necessariamente a normas jurídicas, tomadas com o sentido que a decisão recorrida lhes tenha conferido enquanto ratio decidendi, sem que caiba ao Tribunal Constitucional sindicar a atuação dos demais tribunais, a partir da direta imputação de violação da Constituição — mormente no plano dos direitos fundamentais — por tais decisões.
+
+Tratando-se de recurso interposto ao abrigo da alínea b) do n.º 1 do artigo 70.º da LTC, é necessário que as normas ou interpretações normativas questionadas hajam sido efetivamente aplicadas como fundamento jurídico da decisão recorrida, integrando a respetiva ratio decidendi (artigo 79.º-C da LTC): só desse modo um eventual julgamento de inconstitucionalidade seria apto a provocar a reforma da decisão recorrida (n.º 2 do artigo 80.º da LTC).
+
+5. Nos termos delineados pela recorrente no seu requerimento de interposição, o recurso – interposto ao abrigo da alínea b) do n.º 1 do artigo 70.º da LTC – incide sobre o acórdão do Tribunal Central Administrativo Sul, datado de 30 de abril de 2026, e tem como objeto quatro questões de constitucionalidade.
+
+6. Em termos substancialmente coincidentes com os dos presentes autos, a primeira questão de inconstitucionalidade (v. ponto 3. do Relatório), foi recentemente apreciada no Acórdão n.º 545/2026, desta 3.ª Secção, que teve por objeto «a norma da alínea c) do artigo 2.º do regime que cria a contribuição sobre o setor bancário, aprovado pelo artigo 141.º da Lei n.º 55-A/2010, de 31 de dezembro, na versão decorrente das alterações introduzidas pelo artigo 185.º da Lei n.º 7-A/2016, de 30 de março, que vigorou nos anos de anos de 2021 e 2022 por força, respetivamente, dos artigos 409.º da Lei n.º 75-B/2020, de 31 de dezembro, e 2.º da Lei n.º 99/2021, de 31 de dezembro, no segmento que determina serem sujeitos passivos da contribuição sobre o setor bancário as sucursais em Portugal de instituições de crédito com sede principal e efetiva noutros Estados membros da União Europeia» e « as normas dos artigos 2.º a 4.º da Portaria n.º 121/2011, de 30 de março, na redação conferida pela Portaria n.º 165-A/2016, de 14 de junho no segmento em que regulamentam e estabelecem as respetivas condições de aplicação».
+
+6.1. Ora, tal como se concluiu naquele aresto, não pode o objeto ser conhecido no segmento integrado pela questão da conformidade «das normas conjugadas dos artigos 141.º da Lei n.º 55-A/2010, de 31 de dezembro, que aprovou o Orçamento do Estado para 2011 - que estabeleceu o regime jurídico da Contribuição sobre o Setor Bancário (“CSB”) - e artigos 1.º a 7.º da Portaria n.º 121/2011, de 30 de março, que regulamenta e estabelece as condições de aplicação da CSB, todos na sua redação atual, interpretadas e aplicadas pela decisão recorrida no sentido de que a imposição da CSB a sucursais em Portugal de instituições de crédito residentes noutros Estados membros da União Europeia» por violação da «liberdade fundamental de estabelecimento, imposta pelo direito da União Europeia», do «disposto no artigo 8.º, n.ºs 1 e 4, da CRP na vertente de proibição de discriminação e da liberdade de estabelecimento», da «Diretiva 2014/59/UE» e da «concorrência livre, igual e não falseada que enforma o direito da União Europeia». Com efeito, ali se observou, nos termos da jurisprudência vertida no Acórdão n.º 195/2025, que «é pacífico o entendimento segundo o qual a eventual violação de normas de direito internacional e da União Europeia não pode outrossim ser apreciada por este Tribunal ao abrigo da alínea b) do n.º 1 do artigo 70.º da LTC», porquanto «a consideração da violação do Direito da União Europeia teria de passar por um juízo de violação do disposto no artigo 8.º, n.º 4, da Constituição, consubstanciando um caso de inconstitucionalidade indireta cuja apreciação não é da competência do Tribunal Constitucional (cfr., entre muitos outros, os Acórdãos n.ºs 354/97, 122/98, 624/98, 650/98, 147/2005, 682/2014, 651/2022 e 6/2023), sendo que, mesmo que se colocasse a questão enquanto possível violação direta de normas do TFUE, o Tribunal também a não poderia apreciar, exorbitando o âmbito previsto na alínea i) do n.º 1 do artigo 70.º da LTC, valendo, a este respeito, as considerações do Acórdão n.º 329/2023 (reiteradas, designadamente, nos Acórdãos n.ºs 330/2023, 331/2023, 332/2023, 333/2023, 334/2023, 335/2023, 336/2023, 337/2023, 339/2023, 340/2023, 341/2023, 342/2023, 343/2023, 344/2023, 345/2023, 347/2023, 350/2023 e 351/2023)».
+
+6.2. Por outro lado, tal como sucedeu no Acórdão n.º 545/2026, importa restringir o objeto do recurso, por se verificar que a norma enunciada pela recorrente no seu requerimento de interposição de recurso é mais ampla do que aquelas que constituem efetiva ratio decidendi. Pode ler-se no Acórdão n.º 545/2026:
+
+«(…) o objeto do recurso, no segmento excedente, é integrado pela norma da alínea c) do artigo 2.º do regime que cria a contribuição sobre o setor bancário («RJCSB»), aprovado pelo artigo 141.º da Lei n.º 55-A/2010, de 31 de dezembro, na versão decorrente das alterações introduzidas pelo artigo 185.º da Lei n.º 7-A/2016, de 30 de março, no segmento que determina serem sujeitos passivos da contribuição sobre o setor bancário as sucursais em Portugal de instituições de crédito residentes noutros Estados membros da União Europeia, e pelas normas dos artigos 1.º a 7.º da Portaria n.º 121/2011, de 30 de março, no segmento em que regulamentam e estabelecem as respetivas condições de aplicação, que a recorrente entende violarem os «princípios da equivalência, da proporcionalidade e da capacidade contributiva, todos como decorrência do princípio da igualdade consagrado no artigo 13.º da Constituição da República Portuguesa». Nas alegações que produziu, a recorrente restringiu, no entanto, este último segmento do objeto do recurso, limitando às normas dos artigos 2.º a 4.º da Portaria n.º 121/2011, de 30 de março, aquelas que, por regulamentarem e estabelecerem as condições de aplicação da CSB, pretende ver concretamente apreciadas».
+
+6.3. A delimitação do objeto do recurso operada no Acórdão n.º 545/2026 é, mutatis mutandis, transponível para a primeira questão de inconstitucionalidade (v. ponto 3. do Relatório). Com efeito, na decisão recorrida, para concluir que «a CSB é uma contribuição financeira, e não um imposto (…) e que o seu regime não viola o princípio da legalidade, nem da equivalência», o tribunal a quo mobilizou, efetivamente, as disposições legais que regulam a incidência subjetiva e objetiva da CSB, por referência às sucursais em Portugal de instituições de crédito com sede principal e efetiva noutros Estados-membros da União Europeia.
+
+Por assim ser, quanto à primeira questão de inconstitucionalidade (v. ponto 3. do Relatório), importa delimitar o objeto do recurso às normas que foram efetivamente aplicadas pelo tribunal a quo (artigo 79.º-C da LTC), sem prejuízo da competência do pleno da secção para decidir a admissibilidade do recurso (entre muitos, cfr. Acórdãos n.ºs 242/2023, 270/2023, 288/2023, 292/2023, 318/2023 e 444/2023):
+
+i) A norma extraída da alínea c) do artigo 2.º do regime que cria a contribuição sobre o setor bancário, aprovado pelo artigo 141.º da Lei n.º 55-A/2010, de 31 de dezembro, na versão decorrente das alterações introduzidas pelo artigo 185.º da Lei n.º 7-A/2016, de 30 de março, interpretada no sentido segundo o qual são sujeitos passivos de contribuição sobre o setor bancário as sucursais em Portugal de instituições de crédito com sede principal e efetiva noutros Estados membros da União Europeia; e
+
+ii) As normas dos artigos 1.º a 7.º da Portaria n.º 121/2011, de 30 de março, no segmento em que regulamentam e estabelecem as respetivas condições de aplicação.
+
+7. Quanto às questões de constitucionalidade identificadas nas alíneas ii) e iii) do ponto 3. do Relatório, não pode o recurso ser admitido, por ilegitimidade da recorrente, por não ter suscitado, perante o tribunal a quo «em termos de este estar obrigado a dela conhecer», as questões de constitucionalidade que agora quer ver apreciadas (n.º 2 do artigo 72.º da LTC).
+
+7.1. Constitui pressuposto de admissibilidade dos recursos interpostos ao abrigo da alínea b) do n.º 1 do respetivo artigo 70.º que as questões de constitucionalidade enunciadas no requerimento de interposição do recurso hajam sido suscitadas «durante o processo» e «de modo processualmente adequado perante o tribunal que proferiu a decisão recorrida, em termos de este estar obrigado a dela conhecer» (cfr. alínea b) do n.º 1 do artigo 70.º e n.º 2 do artigo 72.º da LTC). Este pressuposto — que consta da alínea b) do n.º 1 do artigo 280.º da Constituição —, para além de vincular o recorrente à antecipação das questões de constitucionalidade ulteriormente enunciadas no requerimento de interposição do recurso, tem uma evidente dimensão formal, impondo ao recorrente um ónus de delimitação e especificação, perante o tribunal a quo, das normas objeto do recurso. Como recorrentemente notado na jurisprudência deste Tribunal, a suscitação processualmente adequada da questão de constitucionalidade pressupõe que o sentido normativo questionado tenha sido «enunciado de forma que, no caso de vir a ser julgado inconstitucional, o Tribunal o possa apresentar na sua decisão, em termos de, tanto os destinatários desta, como, em geral, os operadores do direito, ficarem a saber, sem margem para dúvidas, qual o sentido com que o preceito em causa não deve ser aplicado, por, desse modo, afrontar a Constituição» (cfr. Acórdão n.º 367/94).
+
+Compulsadas as alegações do recurso interposto da decisão do Tribunal Administrativo e Fiscal de Sintra, datada de 14 de julho de 2023, verifica-se que a recorrente não enunciou, sequer indiretamente, qualquer norma contida nas disposições legais sindicadas que reputasse inconstitucional e cuja aplicação devesse ser recusada pelo tribunal a quo.
+
+8. Quanto à questão de inconstitucionalidade identificada na alínea iv) do ponto 3. do Relatório, não pode o recurso tampouco ser admitido, por não ter o tribunal a quo feito aplicação, no acórdão recorrido, de qualquer norma extraída do «dos artigos 2.º, n.º 1, alínea a), do regime jurídico da CSB aprovado pelo artigo 141.º da Lei n.º 55-A/2010, de 31 de dezembro, e 2.º, n.º 1, alínea a), da Portaria n.º 121/2011, de 30 de março». Não existe correspondência entre as normas que foram efetivamente aplicadas na decisão recorrida e as questões enunciadas pelo recorrente, a implicar que, atenta a instrumentalidade dos recursos de constitucionalidade, não possa o Tribunal Constitucional tomar conhecimento do recurso quanto a esta questão (artigo 79.º-C da LTC).
+
+Com efeito, como supra se concluiu, o tribunal a quo mobilizou, apenas, as disposições legais que regulam a incidência subjetiva e objetiva da CSB, por referência às sucursais em Portugal de instituições de crédito com sede principal e efetiva noutros Estados-membros da União Europeia, em termos que obstam ao conhecimento de qualquer norma extraída da alínea a) do n.º 1 do artigo 2.º do regime jurídico da CSB.
+
+III. Decisão
+
+Nestes termos, ao abrigo do disposto no n.º 1 do artigo 78.º-A da LTC, decide-se:
+
+a) Mandar notificar as partes para apresentar alegações, nos termos e prazo previstos no artigo 79.º da LTC, quanto à primeira questão de inconstitucionalidade, com a menção de que constitui objeto do presente recurso a (i) a norma extraída da alínea c) do artigo 2.º do regime que cria a contribuição sobre o setor bancário, aprovado pelo artigo 141.º da Lei n.º 55-A/2010, de 31 de dezembro, na versão decorrente das alterações introduzidas pelo artigo 185.º da Lei n.º 7-A/2016, de 30 de março, interpretada no sentido segundo o qual são sujeitos passivos de contribuição sobre o setor bancário as sucursais em Portugal de instituições de crédito com sede principal e efetiva noutros Estados membros da União Europeia; e (ii) as normas dos artigos 1.º a 7.º da Portaria n.º 121/2011, de 30 de março, no segmento em que regulamentam e estabelecem as respetivas condições de aplicação;
+
+b) Não tomar conhecimento do recurso, na parte remanescente.
+
+Custas devidas pela recorrente, fixando-se a taxa de justiça em 7 UC´s, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 303/98, de 7 de outubro, ponderados os critérios a que alude o n.º 1 do respetivo artigo 9.º, sem prejuízo do apoio judiciário de que eventualmente beneficie.
+
+Lisboa, 14 de julho de 2026 - Afonso Patrão
