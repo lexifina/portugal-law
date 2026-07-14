@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 2026-07-14, processo 0748/16.8BELSB.SA1
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0748/16.8BELSB.SA1
+
+**Data do Acordão:** 07/14/2026
+
+**Tribunal:** SECÇÃO DO CONTENCIOSO ADMINISTRATIVO
+
+**Relator:** HELENA MESQUITA RIBEIRO
+
+**Descritores:** RESOLUÇÃO; BANCO; TRANSMISSÃO DE DÍVIDA; REENVIO PREJUDICIAL
+
+**Nº Convencional:** JSTA000P35903
+
+**Nº do Documento:** SA1202607140748/16
+
+**Recorrente:** FUNDO 1..., L.P.
+
+**Recorrido 1:** BANCO DE PORTUGAL E OUTRO(S)
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A deliberação do Banco de Portugal de 29 de dezembro de 2015 que determinou a retransmissão para o Banco 1... de determinadas séries de obrigações sénior anteriormente transferidas para o Banco 2... não constitui um ato administrativo autónomo relativamente à Medida de Resolução de 3 de agosto de 2014, constituindo antes manifestação do poder de retransmissão integrado no mesmo complexo jurídico-procedimental de resolução bancária.
+
+II - A legalidade da Deliberação de Retransmissão deve ser aferida à luz do RGICSF na redação introduzida pelo Decreto-Lei n.º 114-A/2014, vigente à data da Medida de Resolução, não sendo aplicáveis os requisitos posteriormente introduzidos pela Lei n.º 23-A/2015.
+
+III - As disposições da Diretiva 2014/59/UE não são aplicáveis ratione temporis à Deliberação de Retransmissão de 29 de dezembro de 2015, quando esta constitua desenvolvimento da Medida de Resolução adotada em 3 de agosto de 2014.
+
+IV - O exercício do poder de retransmissão previsto no artigo 145.º-H, n.º 5, do RGICSF não dependia da prévia individualização dos passivos suscetíveis de retransmissão, nem da definição antecipada dos respetivos critérios de seleção ou de limite temporal para o seu exercício.
+
+V - A retransmissão de passivos não configura uma revogação da Medida de Resolução nem se encontra sujeita ao regime geral da revogação administrativa previsto no artigo 167.º do CPA, constituindo o exercício de um poder próprio do regime especial da resolução bancária.
+
+VI - O princípio do tratamento equitativo dos credores não impede diferenciações entre credores pertencentes à mesma categoria jurídica quando assentes em critérios objetivos e materialmente justificados pelos fins prosseguidos pela medida de resolução, devendo a sua aplicação ser articulada com o princípio segundo o qual nenhum credor pode suportar perdas superiores às que suportaria em cenário normal de liquidação da instituição resolvida.
+
+VII - A seleção de passivos retransmitidos com base na natureza dos instrumentos financeiros e na qualidade dos respetivos detentores não configura discriminação direta ou indireta em razão da nacionalidade nem restrição à livre circulação de capitais quando tais critérios sejam objetivos, gerais e independentes da nacionalidade ou residência dos credores.
+
+VIII - Não ofende os princípios da proteção da confiança, da segurança jurídica e da proporcionalidade a retransmissão de passivos expressamente admitida pelo regime legal aplicável e orientada para a prossecução dos fins próprios da resolução bancária, designadamente a absorção de perdas, a continuidade das funções críticas da instituição e a preservação da estabilidade financeira.
+
+IX - O regime especial da resolução bancária afasta, nos termos legalmente previstos, a aplicação de formalidades próprias do procedimento administrativo comum, não ocorrendo preterição ilegal da audiência prévia dos interessados quando a respetiva dispensa decorra de qualificação legal expressa de urgência estabelecida pelo legislador.
+
+X - A interpretação dos artigos 145.º-H, n.º 5, e 145.º-Q, n.º 4, alínea c), e n.º 5, do RGICSF adotada no âmbito da resolução do Banco 1... não viola os princípios da determinabilidade normativa, da segurança jurídica, da proteção da confiança ou da tutela das expectativas legítimas decorrentes do artigo 2.º da Constituição.
+
+XI - A existência de jurisprudência consolidada do Tribunal de Justiça da União Europeia sobre as questões de direito da União relevantes para a decisão da causa dispensa o reenvio prejudicial previsto no artigo 267.º do TFUE quando não subsista dúvida interpretativa razoável necessária à resolução do litígio.
+
+(Sumário elaborado pela Relatora, nos termos do artigo 663.º, n.º 7, do CPC.)
