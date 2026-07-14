@@ -4,7 +4,7 @@
 
 1 - Constitui contraordenação muito grave, punível com coima de (euro) 4 000 a (euro) 1 000 000 ou de (euro) 10 000 a (euro) 5 000 000, consoante seja aplicada a pessoa singular ou coletiva, a violação de qualquer dos seguintes deveres, consagrados no Regulamento (UE) n.º 1286/2014, no presente regime e respetivas normas regulamentares:
 
-a) Obtenção da aprovação prévia pela autoridade competente das mensagens publicitárias relativas a PRIIPs;
+a) Realização da comunicação prévia à autoridade competente das mensagens publicitárias relativas a PRIIPs;
 
 b) Cessação imediata da difusão da mensagem publicitária relativa a PRIIP nas circunstâncias em que está obrigado a fazê-lo;
 
