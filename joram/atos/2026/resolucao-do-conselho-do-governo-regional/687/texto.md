@@ -1,0 +1,30 @@
+# Resolução do Conselho do Governo Regional n.º 687/2026
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 125/2026, de 2026-07-15
+
+**Sumário:** Louva publicamente o atleta madeirense António Edgar Martins Freitas, o Clube Desportivo e Recreativo Santanense e a Associação de Patinagem da Madeira, pela conquista do título de Campeão Nacional de Patinagem de Velocidade, na variante de pista, na prova de 200 metros lançados, no escalão de absolutos masculinos. Resolução do Conselho do Governo Regional n.º 688/2026 Louva publicamente a atleta madeirense Jéssica Carolina Santos Rodrigues, o Clube Desportivo e Recreativo dos Prazeres e a Associação de Patinagem da Madeira, pela conquista do título de Campeã Nacional de Patinagem de Velocidade, na variante de pista, na prova de 200 metros lançados, no escalão de absolutos femininos. Resolução do Conselho do Governo Regional n.º 690/2026 Louva publicamente o atleta madeirense João Lourenço Pimenta Viveiros, os técnicos, o Ludens Clube de Machico e a Associação Regional de Canoagem da Madeira, pela conquista das duas medalhas de ouro, no 2026 ICF SUP Word Cup English Riviera, na modalidade de canoagem, na disciplina de Stand Up Paddle, nas vertentes Ondas e Race Técnico. Resolução do Conselho do Governo Regional n.º 691/2026 Louva publicamente a atleta madeirense, Leonor Cruz Almodôvar Ladeira, o Clube Desportivo e Recreativo dos Prazeres e a Associação de Patinagem da Madeira, pela conquista do título de Campeã Nacional de Patinagem de Velocidade, na variante de pista, na prova de 500 metros + D Sprint, no escalão de absolutos femininos.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 687/2026
+Sumário: Louva publicamente o atleta madeirense António Edgar Martins Freitas, o Clube Desportivo e Recreativo Santanense e a Associação de Patinagem da Madeira, pela conquista do título de Campeão Nacional de Patinagem de Velocidade, na variante de pista, na prova de 200 metros lançados, no escalão de absolutos masculinos.
+Texto: Resolução n.º 687/2026 Considerando o excelente resultado desportivo alcançado pelo atleta madeirense, António Edgar Martins Freitas, do Clube Desportivo e Recreativo Santanense, ao conquistar o título de Campeão Nacional de Patinagem de Velocidade, na variante de pista, na prova de 200 metros lançados, no escalão de absolutos masculinos; Considerando que com a obtenção deste resultado prestigiou a Região Autónoma da Madeira, o Conselho do Governo reunido em plenário em 9 de julho de 2026, resolve louvar publicamente o atleta, o clube e a Associação de Patinagem da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Resolução do Conselho do Governo Regional n.º 688/2026
+Sumário: Louva publicamente a atleta madeirense Jéssica Carolina Santos Rodrigues, o Clube Desportivo e Recreativo dos Prazeres e a Associação de Patinagem da Madeira, pela conquista do título de Campeã Nacional de Patinagem de Velocidade, na variante de pista, na prova de 200 metros lançados, no escalão de absolutos femininos.
+Texto: Resolução n.º 688/2026 Considerando o excelente resultado desportivo alcançado pela atleta madeirense, Jéssica Carolina Santos Rodrigues, do Clube Desportivo e Recreativo dos Prazeres, ao conquistar o título de Campeã Nacional de Patinagem de Velocidade, na variante de pista, na prova de 200 metros lançados, no escalão de absolutos femininos; Considerando que com a obtenção deste resultado prestigiou a Região Autónoma da Madeira, o Conselho do Governo reunido em plenário em 9 de julho de 2026, resolve louvar publicamente a atleta, o clube e a Associação de Patinagem da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Resolução do Conselho do Governo Regional n.º 690/2026
+Sumário: Louva publicamente o atleta madeirense João Lourenço Pimenta Viveiros, os técnicos, o Ludens Clube de Machico e a Associação Regional de Canoagem da Madeira, pela conquista das duas medalhas de ouro, no 2026 ICF SUP Word Cup English Riviera, na modalidade de canoagem, na disciplina de Stand Up Paddle, nas vertentes Ondas e Race Técnico.
+Texto: Resolução n.º 690/2026 Considerando os excelentes resultados desportivos alcançados pelo atleta madeirense, João Lourenço Pimenta Viveiros, do Ludens Clube de Machico, ao conquistar duas medalhas de ouro, no 2026 ICF SUP Word Cup English Riviera, na modalidade de canoagem, na disciplina de Stand Up Paddle, nas vertentes Ondas e Race Técnico; Considerando que com a obtenção destes resultados prestigiou a Região Autónoma da Madeira, o Conselho do Governo reunido em plenário em 9 de julho de 2026, resolve louvar publicamente o Atleta, os técnicos, o Clube e a Associação Regional de Canoagem da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Resolução do Conselho do Governo Regional n.º 691/2026
+Sumário: Louva publicamente a atleta madeirense, Leonor Cruz Almodôvar Ladeira, o Clube Desportivo e Recreativo dos Prazeres e a Associação de Patinagem da Madeira, pela conquista do título de Campeã Nacional de Patinagem de Velocidade, na variante de pista, na prova de 500 metros + D Sprint, no escalão de absolutos femininos.
+
+Texto: Resolução n.º 691/2026 Considerando o excelente resultado desportivo alcançado pela atleta madeirense, Leonor Cruz Almodôvar Ladeira, do Clube Desportivo e Recreativo dos Prazeres, ao conquistar o título de Campeã Nacional de Patinagem de Velocidade, na variante de pista, na prova de 500 metros + D Sprint, no escalão de absolutos femininos; Considerando que com a obtenção deste resultado prestigiou a Região Autónoma da Madeira, o Conselho do Governo reunido em plenário em 9 de julho de 2026, resolve louvar publicamente a atleta, o clube e a Associação de Patinagem da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
