@@ -1,0 +1,57 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "508",
+    "id": "356345",
+    "titulo": "Aplica a Lei da Concorrência aos Processos Pendentes "
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2026-07-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d77597a6c6c4e6a41344c5746694e6d59744e475533597930345954497a4c5755325a6a646d4e6a63795a574a6c4e5335775a47593d&fich=30c9e608-ab6f-4e7c-8a23-e6f7f672ebe5.pdf&Inline=true",
+        "anexoNome": "Requerimento PCP"
+      }
+    ],
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2026-07-16",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1731665",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-07-17",
+        "descricao": "Requerimento, apresentado pelo PCP, de avocação pelo Plenário da votação na especialidade do Projeto de Lei n.º 508/XVII/1.ª (PCP)",
+        "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> IL</I>, <I> L</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "172597",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
