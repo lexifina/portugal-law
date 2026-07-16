@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=PoksP%2fZAk3zfPUwHoWOj4oW2npDPz8MVikNawyy2V7M8h5th%2bQ4fMe5wGYODZ0Ie6uNgx4rbK0BsvIUNczfQ%2f1XJ2abFEaI6%2bxcobebkbryxZpY0PxeCUFCrZqsEvtoDHRQCHmVAW4fek5bcYIBLEcLhsTYUFD76pDnF01ZeCw9osqjtBYeARuLtbjMNYIjVJjo7OhXRzvtKespJ1g1wjRXKJCkV71tQYTjyAnDuwZTf6Ns%2b7GLeoGIDyxPuBpxDwGq%2fc1Fsc9Gbs%2f1gUM4EvD3rcDhIIZQJE1%2b%2bMnqlEEANr7UyRXOiHZgkdAjbV3AABjk2jQZbrC07w%2bePzsbJOSMjcpAu0XzdZmG24suB7MY%3d&fich=AtividadesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9f005915ea4504f8a512da46aa2f7c6c94acae210338979c45738c002dea8f79",
+  "legislatura": "XVII",
+  "tipo": "Voto",
+  "numero": "667",
+  "data_registo": "2026-07-16",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "De saudação pelos 30 anos da Comunidade de Países de Língua Portuguesa ",
+    "AutoresGP": [
+      "PAR"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2026-07-17",
+    "DataAnuncio": null,
+    "DataEntrada": "2026-07-16",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XVII",
+    "Numero": "667",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": [
+      "Edite Estrela (PS)"
+    ],
+    "Publicacao": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36263",
+        "obs": null,
+        "pag": [
+          "83-85"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-09-19",
+        "pubLeg": "XVII",
+        "pubNr": "3",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/02/003/2026-09-19/83?pgs=83-85&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2026-07-17",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> PS</I>, <I> L</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Abstenção:<I>IL</I>",
+        "id": "172627",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "927838",
+            "obs": null,
+            "pag": [
+              "30-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2026-07-18",
+            "pubLeg": "XVII",
+            "pubNr": "113",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/113/2026-07-18/30?pgs=30&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
