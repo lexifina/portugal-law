@@ -1,0 +1,19 @@
+# Resolução do Conselho do Governo Regional n.º 689/2026
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 126/2026, 2.º suplemento, de 2026-07-16
+
+**Sumário:** Louva publicamente o atleta madeirense Marco António Abreu Lira, o Clube Desportivo e Recreativo dos Prazeres e a Associação de Patinagem da Madeira, pela conquista do título de Campeão Nacional de Patinagem de Velocidade, na variante de pista, na prova de 500 metros +D Sprint, no escalão de absolutos masculinos. Resolução do Conselho do Governo Regional n.º 692/2026 Concede tolerância de ponto aos trabalhadores da administração pública regional autónoma, na parte da tarde de quinta-feira, dia 30 de julho e no dia inteiro de sextafeira, dia 31 de julho de 2026, nos Serviços, Institutos e Empresas, sob a sua tutela do Governo Regional, sem prejuízo de ficarem assegurados os serviços indispensáveis.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 689/2026
+Sumário: Louva publicamente o atleta madeirense Marco António Abreu Lira, o Clube Desportivo e Recreativo dos Prazeres e a Associação de Patinagem da Madeira, pela conquista do título de Campeão Nacional de Patinagem de Velocidade, na variante de pista, na prova de 500 metros +D Sprint, no escalão de absolutos masculinos.
+Texto: Resolução n.º 689/2026 Considerando o excelente resultado desportivo alcançado pelo atleta madeirense, Marco António Abreu Lira, do Clube Desportivo e Recreativo dos Prazeres, ao conquistar o título de Campeão Nacional de Patinagem de Velocidade, na variante de pista, na prova de 500 metros +D Sprint, no escalão de absolutos masculinos. Considerando que com a obtenção deste resultado prestigiou a Região Autónoma da Madeira, o Conselho do Governo reunido em plenário em 9 de julho de 2026, resolve louvar publicamente o atleta, o clube e a Associação de Patinagem da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Resolução do Conselho do Governo Regional n.º 692/2026
+Sumário: Concede tolerância de ponto aos trabalhadores da administração pública regional autónoma, na parte da tarde de quinta-feira, dia 30 de julho e no dia inteiro de sexta-feira, dia 31 de julho de 2026, nos Serviços, Institutos e Empresas, sob a sua tutela do Governo Regional, sem prejuízo de ficarem assegurados os serviços indispensáveis.
+Texto: Resolução n.º 692/2026 O Rali Vinho Madeira constitui um dos maiores acontecimentos desportivos e populares da Região Autónoma da Madeira, mobilizando anualmente milhares de residentes e visitantes e contribuindo, de forma significativa, para a dinamização da economia local nesta época estival. Reconhecendo a relevância deste evento e a ampla adesão da população, e à semelhança do que se tem verificado em anos anteriores, entende-se justificado conceder tolerância de ponto que permita aos trabalhadores acompanhar as provas com segurança e tranquilidade. Nestes termos, o Conselho do Governo reunido em plenário em 15 de julho de 2026, resolve conceder tolerância de ponto na parte da tarde de quinta-feira, dia 30 de julho, e durante todo o dia de sexta-feira, dia 31 de julho de 2026, aos trabalhadores dos serviços, institutos e empresas sob a tutela do Governo Regional, sem prejuízo de ficarem assegurados os serviços indispensáveis. Os serviços que, pela sua natureza, sejam de funcionamento ininterrupto, bem como aqueles que, por razões de interesse público, tenham de laborar nos dias acima identificados, deverão criar as condições necessárias para que os respetivos trabalhadores possam gozar a tolerância agora concedida em momento posterior, mediante concordância dos respetivos superiores hierárquicos.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
