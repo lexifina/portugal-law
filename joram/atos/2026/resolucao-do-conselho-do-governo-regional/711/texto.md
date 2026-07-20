@@ -1,0 +1,63 @@
+# Resolução do Conselho do Governo Regional n.º 711/2026
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 128/2026, 2.º suplemento, de 2026-07-20
+
+**Sumário:** Autoriza a celebração da alteração ao Contrato n.º 1/2025, de 4 de fevereiro, publicado no Suplemento do Jornal Oficial, II Série, n.º 24, no âmbito da Rede de Cuidados Continuados Integrados, na tipologia de Unidade de Longa Duração e Manutenção, entre a Região Autónoma da Madeira, através da Secretaria Regional de Inclusão, Trabalho e Juventude, IASAÚDE, IP-RAM, ISSM, IP-RAM e o Instituto das Irmãs Hospitaleiras do Sagrado Coração de Jesus - Casa de Saúde Câmara Pestana, no montante global de 1.860.081, 03 €.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 711/2026
+Sumário: Autoriza a celebração da alteração ao Contrato n.º 1/2025, de 4 de fevereiro, publicado no Suplemento do Jornal Oficial, II Série, n.º 24, no âmbito da Rede de Cuidados Continuados Integrados, na tipologia de Unidade de Longa Duração e Manutenção, entre a Região Autónoma da Madeira, através da Secretaria Regional de Inclusão, Trabalho e Juventude, IASAÚDE, IP-RAM, ISSM, IP-RAM e o Instituto das Irmãs Hospitaleiras do Sagrado Coração de Jesus - Casa de Saúde Câmara Pestana, no montante global de 1.860.081, 03 €.
+Texto: Resolução n.º 711/2026 O XVI Programa do Governo Regional da Madeira destaca como prioridade política o fortalecimento dos Cuidados Continuados Integrados (CCI), com objetivos estratégicos de ampliar a capacidade de camas na Rede de Cuidados Continuados Integrados da Região Autónoma da Madeira (REDE), garantir o acesso equitativo a cuidados ao longo da vida e atender às necessidades da população envelhecida, promovendo funcionalidade e inclusão social. A REDE, criada pelo Decreto Legislativo Regional n.º 9/2007/M, de 15 de março, alterado pelo Decreto Legislativo Regional n.º 30/2012/M, de 8 de novembro, consolidou-se como um modelo de resposta pública estruturado, assegurado por contratos entre o Governo Regional da Madeira, através do Instituto de Administração da Saúde, IP-RAM, (IASAÚDE, IPRAM), do Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM), da Região Autónoma da Madeira, através da Secretaria Regional de Inclusão, Trabalho e Juventude e entidades promotoras e gestoras. Considerando que, nos termos do Anexo II da Resolução do Conselho do Governo Regional n.º 37/2025, publicada no JORAM, I Série, n.º 26, de 11 de fevereiro, os rácios de cobertura territorial em Cuidados Continuados por tipologia da REDE, para o ano 2025 preveem um total de 483 camas na tipologia de Longa Duração e Manutenção (ULDM); Considerando que, na sequência da Resolução do Conselho de Governo Regional n.º 1247/2024, publicada no JORAM, I Série, n.º 208, de 18 de dezembro, foi celebrado, a 18 de dezembro de 2024, o Contrato-Programa de Adesão à Rede com o n.º 1/2025, publicado no JORAM, II Série, n.º 24, Suplemento, de 4 de fevereiro, entre a Região Autónoma da Madeira,
+
+através da Secretaria Regional de Inclusão, Trabalho e Juventude, o IASAÚDE, IP-RAM, o ISSM, IP-RAM, e o Instituto das Irmãs Hospitaleiras do Sagrado Coração de Jesus - Casa de Saúde Câmara Pestana, Instituição Particular de Solidariedade Social, portador do Número de Identificação de Pessoa Coletiva 500 989 001, com sede à Rua Prof.º Luís da Cunha Gonçalves, n.º 5 - 1.º Esq., freguesia de Lumiar, concelho de Lisboa, onde foram definidos os termos e as condições gerais e específicas, em que são prestados os cuidados continuados integrados de saúde e de apoio social a pessoas em situação de dependência com perda parcial ou total de autonomia, em Unidades de Internamento de Longa Duração e Manutenção (ULDM) da REDE, designadamente, na Unidade Casa de Saúde Câmara Pestana.
+Considerando que, com a celebração do contrato referido no parágrafo anterior, o valor máximo de pagamento inicialmente previsto para o triénio 2024-2027 foi de 1.985.016, 00 € (um milhão, novecentos e oitenta e cinco mil e dezasseis euros), distribuídos da seguinte forma: 897.111,60 € (oitocentos noventa e sete mil, cento e onze euros e sessenta cêntimos) relativos a encargos com cuidados de saúde, 1.045.746, 90 € (um milhão, quarenta e cinco mil, setecentos e quarenta e seis euros e noventa cêntimos), relativos a encargos com cuidados de apoio social e 42.157,50 € (quarenta e dois mil, cento e cinquenta e sete euros e cinquenta cêntimos) relativos a encargos com a utilização de fraldas;
+Considerando que, através da publicação da Portaria n.º 865/2025, de 30 de dezembro, procedeu-se à quinta alteração da Portaria n.º 234/2018, de 20 de julho, foi determinada uma atualização extraordinária do valor da diária por utente nas ULDM, fixando-se o montante de 88,10 € (oitenta e oito euros e dez cêntimos), correspondente a 41,32 € para cuidados de saúde, de 44,84 € cuidados de apoio social e 1,94 € para encargos com utilização de fraldas, com efeitos reportados a de 1 de agosto de 2025;
+Considerando que, neste sentido, justifica-se proceder a uma alteração do contrato-programa por circunstância superveniente de natureza normativa, decorrente da revisão do valor da diária por utente operada pela Portaria n.º 865/2025, de 30 de dezembro, a qual incide diretamente sobre a economia do contrato, impondo a sua conformação ao novo enquadramento legal, em respeito pelos princípios da prossecução do interesse público e da manutenção do equilíbrio económico-financeiro;
+Considerando que, a referida Portaria determinou a aplicação do novo valor com efeitos a 1 de agosto de 2025, consagrando uma retroatividade de natureza normativa que se projeta sobre as relações contratuais em execução, legitimando a correspondente adaptação do contrato e da repartição de encargos;
+Considerando que, a presente alteração assegura, assim, a coerência entre o quadro normativo e a execução contratual, bem como a adequada cobertura orçamental, nos termos do regime dos compromissos plurianuais;
+Considerando que, o modelo de financiamento da REDE prevê a comparticipação do utente na utilização das ULDM, nos termos do artigo 48.º da Portaria n.º 234/2018, de 20 de julho, na sua redação atual, sendo a respetiva aceitação efetuada nos termos do artigo 23.º do mesmo diploma, incidindo tal comparticipação sobre os encargos com cuidados de apoio social;
+Considerando que, o valor a suportar pelo utente corresponde a 85 % do respetivo rendimento mensal, com direito à comparticipação da segurança social, nos termos do artigo 45.º da referida Portaria;
+Considerando que, a aplicação retroativa da atualização prevista na Portaria n.º 865/2025, de 30 de dezembro, pode implicar um agravamento dos encargos suportados pelos utentes, designadamente nas situações em que o montante correspondente a 85 % do respetivo rendimento mensal exceda os valores fixados na tabela aplicável, afetando situações já constituídas;
+Considerando que, importa acautelar tais situações, garantindo que a referida retroatividade não se traduz em prejuízo para os utentes, em respeito pelos princípios da não retroatividade da lei, da proteção da confiança e da segurança jurídica, assegurando a estabilidade das comparticipações e a natureza social e protetora da REDE.
+Assim, ao abrigo do disposto no artigo 42.º do Decreto Legislativo Regional n.º 8/2025/M, de 30 de dezembro, que aprovou o Orçamento da Região Autónoma da Madeira para o ano de 2026, conjugado com os artigos 40.º e 56.º da Portaria n.º 234/2018, de 20 de julho, na sua redação atual, o Conselho do Governo reunido em plenário em 15 de julho de 2026, resolve:
+
+1. Autorizar a celebração da alteração ao Contrato n.º 1/2025, de 18 de dezembro de 2024, publicado no JORAM, II Série, n.º 24, Suplemento, de 4 de fevereiro, no âmbito da Rede de Cuidados Continuados Integrados, na tipologia de Unidade de Longa Duração e Manutenção, entre a Região Autónoma da Madeira, através da Secretaria Regional de Inclusão, Trabalho e Juventude, IASAÚDE, IP-RAM, ISSM, IP-RAM e o Instituto das Irmãs Hospitaleiras do Sagrado Coração de Jesus - Casa de Saúde Câmara Pestana, no montante global de 1.860.081, 03 € (um milhão, oitocentos e sessenta mil, oitenta e um euros e três cêntimos).
+
+2. Determinar que os encargos resultantes do número anterior correspondem a encargos com cuidados de saúde no
+
+montante de 970.894,32 € (novecentos e setenta mil, oitocentos e noventa e quatro euros e trinta e dois cêntimos),
+
+encargos com cuidados de apoio social no montante de 846.470, 25 € (oitocentos e quarenta e seis mil, quatrocentos e
+
+setenta euros e vinte e cinco cêntimos), e para encargos com utilização de fraldas o montante disponível é de
+
+42.716,46 € (quarenta e dois mil, setecentos e dezasseis euros e quarenta e seis cêntimos), passando a apresentar a
+
+seguinte programação financeira:
+
+a) Ano económico de 2024
+
+24 578,40 €;
+
+b) Ano económico de 2025
+
+490 893,23 €
+
+c) Ano económico de 2026
+
+755 396,60 €
+
+d) Ano económico de 2027
+
+589.212,80 €
+
+3. As despesas resultantes da presente alteração têm cabimento orçamental, para o ano de 2026, na Classificação Económica 04.07.01.BS.D0, do Orçamento Privativo do Instituto de Administração da Saúde, IP-RAM, tendo sido atribuído o compromisso n.º 0000578, datado de 27/02/2026 e 06/05/2026 e nas Classificações Económicas 04.07.01.Y0.SE e 04.07.01.YE.TT, do Orçamento Privativo da Secretaria Regional de Inclusão, Trabalho e Juventude, tendo sido atribuído os compromissos n.ºs CY52604245, CY52602578, datados de 01/01/2026, n.º CY52602435 datado de 29/01/2026 e n.º CY52611704 datado de 15/07/2026, e nos anos seguintes em verbas a inscrever nos respetivos orçamentos.
+
+4. Determinar que a alteração ao contrato-programa produz efeitos reportados a 1 de agosto de 2025.
+5. Determinar que quaisquer acréscimos de encargos a suportar pelos utentes, resultantes da atualização da tabela de preços operada pela Portaria n.º 865/2025, de 30 de dezembro, não lhes são oponíveis no período compreendido entre 1 de agosto de 2025 e o primeiro dia do mês seguinte ao da assinatura da primeira alteração ao Contrato n.º 1/2025, celebrado a 18 de dezembro de 2024, publicado no JORAM, II Série, n.º 24, Suplemento, de 4 de fevereiro, sendo tais encargos integralmente assumidos pela Secretaria Regional de Inclusão, Trabalho e Juventude.
+6. Aprovar a minuta de alteração ao contrato-programa, que faz parte integrante da presente Resolução e fica arquivada na Secretaria-Geral da Presidência do Governo Regional.
+7. Mandatar a Secretária Regional de Inclusão, Trabalho e Juventude, em representação da Região Autónoma da Madeira, bem como os Presidentes dos Conselhos Diretivos do Instituto de Administração da Saúde, IP-RAM, e do Instituto de Segurança Social da Madeira, IP-RAM, para outorgarem a alteração ao respetivo contrato-programa.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
