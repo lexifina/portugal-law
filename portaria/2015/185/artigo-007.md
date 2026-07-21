@@ -8,7 +8,7 @@
 
 3 - Sempre que o candidato a condutor esteja dispensado da frequência do módulo comum de segurança rodoviária, o ensino prático pode ser iniciado em simultâneo com o ensino teórico.
 
-4 - No ensino prático de condução, o candidato a condutor deve cumprir, cumulativamente, o número mínimo de horas de condução e quilómetros percorridos, nos termos seguintes:
+4 - Com exceção do ensino prático da condução acompanhado por tutor, no ensino prático de condução, o candidato a condutor deve cumprir, cumulativamente, o número mínimo de horas de condução e quilómetros percorridos, nos termos seguintes:
 
 a) Categoria A1: 12 horas de condução e 120 quilómetros;
 
@@ -61,3 +61,5 @@ b) Dia, hora, duração da lição e quilómetros percorridos.
 10 - As condições de certificação dos dispositivos de monitorização e de acesso à aplicação informática de registo de dados relativos ao ensino da condução são definidas por deliberação do Conselho Diretivo do IMT, I. P., devendo esta informação estar disponível no sítio do IMT, I. P., na Internet.
 
 11 - Com exceção do ensino prático ministrado ao candidato a condutor no dia da realização da prova prática, o ensino prático inicia-se junto às instalações da escola de condução na qual o candidato a condutor se encontra inscrito.
+
+12 - O ensino prático de condução acompanhado por tutor não está sujeito ao número mínimo de horas de formação e quilómetros percorridos obrigatórios.

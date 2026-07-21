@@ -26,4 +26,6 @@ h) Menção expressa de que a escolha do centro de exames cabe ao candidato a co
 
 i) Condições de transferência do candidato a condutor;
 
-j) Número de apólice do seguro de responsabilidade civil específico para a condução de veículos em situação de instrução.
+j) Número de apólice do seguro de responsabilidade civil específico para a condução de veículos em situação de instrução;
+
+k) Identificação do tutor, se aplicável.
