@@ -8,7 +8,7 @@
 
 a) As atividades pecuárias da classe 1 devem promover a utilização das melhores técnicas disponíveis (MTD), constantes dos respetivos documentos de referência (documentos BREF), publicados ao abrigo da Diretiva n.º 96/61/CE, do Conselho, de 24 de setembro, disponíveis para consulta no sítio na Internet da APA, I. P., por forma a melhorar a eficiência ambiental destas atividades;
 
-b) As explorações pecuárias da classe 1 ou da classe 2 que possuam núcleos de produção (NP) com capacidade superior a 75 CN, bem como os entrepostos e centros de agrupamento, devem assegurar a existência e manutenção, de responsabilidade sanitária, por médico veterinário acreditado pela DGAV, bem como elaborar e manter atualizado um programa hígio-sanitário e de profilaxia para cada NP, tendo em vista o controlo dos processos infeciosos e parasitários e as medidas de biossegurança que o titular da atividade pecuária deve assegurar;
+b) As explorações pecuárias da classe 1 ou da classe 2 que possuam NP com capacidade instalada superior a 75 CN, bem como os entrepostos e centros de agrupamento, devem assegurar a existência e manutenção, de responsabilidade sanitária, por médico veterinário nos termos a definir pela DGAV, bem como elaborar e manter atualizado um programa higiossanitário e de profilaxia para cada NP, tendo em vista o controlo dos processos infeciosos e parasitários e as medidas de biossegurança que o titular da atividade pecuária deve assegurar;
 
 c) As atividades pecuárias devem promover o uso eficiente da água, particularmente tendo em consideração as linhas de orientação do Programa Nacional para o Uso Eficiente da Água (PNUEA), aprovado pela Resolução do Conselho de Ministros n.º 113/2005, de 30 de junho.
 
@@ -20,7 +20,7 @@ c) As atividades pecuárias devem promover o uso eficiente da água, particularm
 
 a) Ao cumprimento das normas de bem-estar animal prevista no Decreto-Lei n.º 64/2000, de 22 de abril, e demais legislação nacional e comunitária específicas para as diferentes espécies animais e tipos de produção;
 
-b) Ao cumprimento das disposições referentes à identificação, registo e circulação de animais constantes do Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.os 214/2008, de 10 de novembro, 316/2009, de 29 de outubro, 85/2012, de 5 de abril e 260/2012, de 12 de dezembro;
+b) Ao cumprimento das disposições referentes à identificação, registo e circulação de animais constantes do Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.ºs 214/2008, de 10 de novembro, 316/2009, de 29 de outubro, 85/2012, de 5 de abril e 260/2012, de 12 de dezembro;
 
 c) A assegurar as regras estabelecidas pelo Regulamento (CE) n.º 178/2004, da Comissão, de 30 de janeiro, relativo à rastreabilidade dos géneros alimentícios, bem como das regras previstas nos Regulamentos (CE) n.º 852/2004, do Parlamento Europeu e do Conselho, de 29 de abril, e n.º 853/2004, do Parlamento e do Conselho, de 29 de abril;
 

@@ -2,7 +2,7 @@
 
 ### Equivalência em cabeças normais
 
-1 - A capacidade de cada núcleo de produção, exploração pecuária, bem como do entreposto ou centro de agrupamento, será expressa em cabeças normais (CN), cujo valor é determinado com base no critério de equivalência constante no anexo II.
+1 - A capacidade instalada de cada núcleo de produção, exploração pecuária, bem como do entreposto ou centro de agrupamento, é expressa em CN, cujo valor é determinado com base no efetivo autorizado nos termos do plano de produção validado pela DGAV, de acordo com o critério de equivalência constante no anexo ii.
 
 2 - Consideram-se também no âmbito da classe 1 todas as atividades pecuárias que por força dos regimes jurídicos próprios sejam abrangidas por Avaliação de Impacte Ambiental ou licença ambiental.
 

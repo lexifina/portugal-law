@@ -24,11 +24,13 @@ TF = TB x(FD + FS)
 
 4 - Sempre que o requerente apresente o pedido de autorização de instalação, de declaração prévia, de registo de uma atividade pecuária, de reclassificação ou de regularização, bem como de alteração da atividade, já registado no sistema de informação, a taxa final é reduzida em 20 %, respeitando sempre um mínimo igual a 20 % da TB e um máximo igual ao valor da TB.
 
-5 - As taxas aplicáveis a pedidos de alteração da licença ou do título da atividade pecuária que sejam sujeitos a autorização prévia ou a declaração prévia correspondem a 50 % e a 25 %, respetivamente, da taxa final aplicável, a uma nova atividade pecuária e tendo em consideração a sua capacidade final.
+5 - As taxas aplicáveis a pedidos de alteração da licença ou do título da atividade pecuária que sejam sujeitos a autorização prévia ou a declaração prévia correspondem a 50 % e a 25 %, respetivamente, da taxa final aplicável, a uma nova atividade pecuária e tendo em consideração a sua capacidade instalada.
 
 6 - São isentos de taxa os processos cujo valor calculado final seja inferior a 20 % da TB, bem como os processos relativos às explorações de equídeos das Forças Armadas ou das forças de segurança, localizadas nas respetivas instalações e destinadas aos fins específicos destas entidades.
 
 7 - O valor final da taxa é arredondado para o valor inteiro mais próximo da unidade de euro.
+
+8 - Sempre que ocorra a alteração da capacidade instalada, procede-se à atualização do valor da taxa devida, havendo lugar, consoante o caso, à cobrança ou à restituição dos montantes apurados.
 
 QUADRO I
 
