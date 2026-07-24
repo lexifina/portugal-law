@@ -22,8 +22,12 @@ Sessenta minutos diários, dos quais vinte minutos entre as 7 e as 12 horas e qu
 
 d) As estações privadas de radiodifusão de âmbito regional:
 
-Trinta minutos diários.
+Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos seguidos, um entre as 7 e as 12 horas e outro entre as 19 e as 24 horas;
 
-3 - Até dez dias antes da abertura da campanha as estações devem indicar à Comissão Nacional de Eleições o horário previsto para as emissões.
+e) As estações privadas de radiodifusão de âmbito local:
+
+Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos seguidos, um entre as 7 e as 12 horas e outro entre as 19 e as 24 horas.
+
+3 - Até 10 dias antes da abertura da campanha, as estações referidas no número anterior devem indicar à Comissão Nacional de Eleições o horário previsto para as emissões.
 
 4 - As estações de rádio e de televisão registam e arquivam, pelo prazo de um ano, o registo das emissões correspondentes ao exercício do direito de antena.
