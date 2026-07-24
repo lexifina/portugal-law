@@ -1,0 +1,13 @@
+Aviso n.º 18553/2026/2
+
+Projeto de Regulamento de Abastecimento de Água, Saneamento de Águas Residuais e Gestão de Resíduos Urbanos de Valpaços
+
+Jorge Mata Pires, Presidente da Câmara Municipal de Valpaços, torna público, em cumprimento do disposto no n.º 1, do artigo 56.º, do anexo I, da Lei n.º 75/2013, de 12 de setembro e nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que se submete a consulta pública pelo período de 30 dias úteis, a contar da data da publicação do presente Aviso no Diário da República, 2.ª série, o Projeto de Regulamento de Abastecimento de Água, Saneamento de Águas Residuais e Gestão de Resíduos Urbanos de Valpaços, aprovado pela Câmara Municipal de Valpaços na sua reunião ordinária de 16 de julho de 2026.
+
+O Projeto de Regulamento de Abastecimento de Água, Saneamento de Águas Residuais e Gestão de Resíduos Urbanos de Valpaços encontra-se disponível para consulta dos interessados na página da internet do Município de Valpaços, em www.valpacos.pt, e nos serviços da Câmara Municipal, sito no Edifício Paços do Concelho, durante o respetivo horário de expediente.
+
+Mais torna público que, nos termos do n.º 2 do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, os interessados deverão dirigir as suas sugestões, por escrito, ao Senhor Presidente da Câmara Municipal, para a seguinte morada: Edifício Paços do Concelho, Praça do Município, 5430-482 Valpaços, ou através de correio eletrónico para município@valpacos.pt.
+
+20 de julho de 2026. - O Presidente da Câmara Municipal, Eng.º Jorge Mata Pires.
+
+320025243
