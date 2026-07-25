@@ -12,6 +12,6 @@
 
 a) À emissão de cartão de identificação da instituição de ensino superior;
 
-b) Ao acesso à acção social escolar nos termos dos alunos da instituição, incluindo a eventual atribuição de bolsa de estudos;
+b) (Revogada.)
 
 c) Ao acesso aos recursos da instituição, como bibliotecas e recursos informáticos, nos mesmos termos em que acedem os alunos.
