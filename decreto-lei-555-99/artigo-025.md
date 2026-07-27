@@ -2,9 +2,9 @@
 
 ### Reapreciação do pedido
 
-1 - Quando exista projecto de decisão de indeferimento com os fundamentos referidos na alínea b) do n.º 2 e no n.º 5 do artigo anterior, pode haver deferimento do pedido desde que o requerente, na audiência prévia, se comprometa a realizar os trabalhos necessários ou a assumir os encargos inerentes à sua execução, bem como os encargos de funcionamento das infra-estruturas por um período mínimo de 10 anos.
+1 - Quando exista projeto de decisão de indeferimento com os fundamentos referidos na alínea b) do n.º 2 e no n.º 5 do artigo 24.º, pode haver deferimento do pedido desde que o requerente, na audiência prévia, se comprometa a realizar os trabalhos necessários ou a assumir os encargos inerentes à sua execução, bem como a garantir os encargos inerentes às condições de funcionamento das infraestruturas por um período mínimo de 10 anos.
 
-2 - (Revogado.)
+2 - [Revogado.]
 
 3 - Em caso de deferimento nos termos do n.º 1, o requerente deve, antes do pagamento das taxas, celebrar com a câmara municipal contrato relativo ao cumprimento das obrigações assumidas e prestar caução adequada, beneficiando de redução proporcional ou isenção das taxas por realização de infraestruturas urbanísticas, nos termos a fixar em regulamento municipal.
 
