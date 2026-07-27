@@ -1,0 +1,41 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=xufylJiod6iO3gxDgTq8Z%2baqTslY6pEXcj7t%2buB%2bZ6oJR9rwDWlzOCmzyEBEkbCeLshbckKnuEl2%2fslUdQrfUvcLK7sEqcnby0Xn2v2J8y%2bazJMDABTJnbj2AfRMC%2fVaE4lm9042gKGsYnOIZt8RUevFTVG%2bcFVqfbZy%2b6QfqG9j0So4wI%2bC%2bsy%2bAYlRSTTrM%2b9ApTuMh8Jqw%2fxbcOcD4fmcMIBI8rAbtj2D8MJpPgdWRv%2bYDC1cLHI4T1GRJ7z2sFsrUu8LfF2tPw%2f63Xgp8QyFwTEdUZL56Mgt%2bTTIN05bugl%2fKHziJI21ak%2fgZsPs0ZcDE7ii2ewozM6rOeO%2b96tQ%2baCq7cg5S5qGuHqY3n1aW%2bCUX0tU8ovRf%2fmIVOtvi6XnPGz69JWLsUP0Wi1MuiGEWJWf4LzjdGKWBqEuUDw%3d&fich=RequerimentosXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0c078ab59d1f1e6ee75ab185389510b4dec98030e4c29c8761b2fd448c315c80",
+  "legislatura": "XVII",
+  "pergunta": {
+    "id": "210087",
+    "tipo": "Requerimento",
+    "numero": "32",
+    "assunto": "Sentença relativa ao visto prévio da operação de aquisição pela PARPÚBLICA de participação social da Águas de Portugal, SGPS, S.A.",
+    "ficheiro_registo": "requerimento-32-210087.json"
+  },
+  "destinatario": "Tribunal de Contas",
+  "data_registo": "2026-07-27",
+  "data_registo_base": "record date = the answer day (Destinatarios[].respostas[].dataResposta) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "dataResposta": "2026-07-27",
+    "docRemetida": null,
+    "entidade": "Tribunal de Contas",
+    "ficheiro": "",
+    "ficheiroComTipo": [
+      {
+        "tipo": "Anexo",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338795a4467325a6d5a685a5330344d57566a4c5451344e5755744f4441304d43307a4e5455335a5456694f544d784e5445756347526d&fich=2d86ffae-81ec-485e-8040-3557e5b93151.pdf&Inline=true"
+      },
+      {
+        "tipo": "Anexo",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544339694e32457a4e7a686a4f43316a4e3256694c54517a4e7a55744f574530595330784d54426a4d7a4d785a44466d4e3245756347526d&fich=b7a378c8-c7eb-4375-9a4a-110c331d1f7a.pdf&Inline=true"
+      },
+      {
+        "tipo": "Anexo",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396b4e5751324d7a41344e5330334d6d5a694c5451794d446374595455325a6930344f5445324e574932596a51324e6a67756347526d&fich=d5d63085-72fb-4207-a56f-89165b6b4668.pdf&Inline=true"
+      },
+      {
+        "tipo": "Anexo",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a465454433832597a41314e5759344e6930794d6a51314c5451795a474d74595459774d4330324e6a4d354f444a6c4e444a6b5a4455756347526d&fich=6c055f86-2245-42dc-a600-663982e42dd5.pdf&Inline=true"
+      }
+    ],
+    "publicacao": null
+  }
+}
