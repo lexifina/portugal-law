@@ -18,7 +18,7 @@
 
 4 - A fusão de cooperativas só pode ser validamente efetivada por decisão de, pelo menos, dois terços dos votos dos cooperadores presentes ou representados em assembleia geral extraordinária convocada para esse fim.
 
-5 - Mediante prévio parecer favorável da Cooperativa António Sérgio para a Economia Social (CASES), as cooperativas de grau superior podem requerer judicialmente a fusão por incorporação de uma ou mais cooperativas numa terceira, que assume a totalidade dos direitos e obrigações de cooperativas que naquelas estejam integradas ou com as quais tenham uma conexão relevante, quando ocorra alguma das seguintes circunstâncias:
+5 - Mediante prévio parecer favorável do Centro Jurídico do Estado (CEJURE), as cooperativas de grau superior podem requerer judicialmente a fusão por incorporação de uma ou mais cooperativas numa terceira, que assume a totalidade dos direitos e obrigações de cooperativas que naquelas estejam integradas ou com as quais tenham uma conexão relevante, quando ocorra alguma das seguintes circunstâncias:
 
 a) Se verifique por um período superior a 12 meses a inexistência ou inatividade dos órgãos sociais, assim como a impossibilidade de os eleger;
 

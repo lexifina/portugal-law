@@ -6,10 +6,10 @@
 
 2 - Constitui contraordenação, punível com coima de (euro) 250 a (euro) 2 500, a violação do disposto no artigo 116.º
 
-3 - A instrução do processo de contraordenação e a aplicação da respetiva coima competem à CASES.
+3 - A instrução do processo de contraordenação e a aplicação da respetiva coima competem ao CEJURE.
 
 4 - A afetação do produto da coima faz-se da seguinte forma:
 
-a) 40 % para a CASES;
+a) 40 % para o CEJURE;
 
 b) 60 % para o Estado.

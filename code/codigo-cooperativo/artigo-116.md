@@ -1,8 +1,12 @@
+## Capítulo VIII
+
+## Da Cooperativa António Sérgio para a Economia Social (CASES)
+
 # Artigo 116.º
 
 ### Atos de comunicação obrigatória
 
-As cooperativas estão obrigadas a remeter à CASES:
+As cooperativas estão obrigadas a remeter ao CEJURE:
 
 a) Cópia dos atos de constituição e de alteração dos estatutos, até 30 dias após o registo;
 
