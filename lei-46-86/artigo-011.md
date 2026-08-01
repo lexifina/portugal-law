@@ -22,12 +22,16 @@ e) Suscitar o desejo permanente de aperfeiçoamento cultural e profissional e po
 
 f) Estimular o conhecimento dos problemas do mundo de hoje, num horizonte de globalidade, em particular os nacionais, regionais e europeus, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;
 
-g) Continuar a formação cultural e profissional dos cidadãos pela promoção de formas adequadas de extensão cultural.
+g) Continuar a formação cultural e profissional dos cidadãos pela promoção de formas adequadas de extensão cultural;
 
 h) Promover e valorizar a língua e a cultura portuguesas;
 
 i) Promover o espírito crítico e a liberdade de expressão e de investigação.
 
-3 - O ensino universitário, orientado por uma constante perspectiva de promoção de investigação e de criação do saber, visa assegurar uma sólida preparação científica e cultural e proporcionar uma formação técnica que habilite para o exercício de actividades profissionais e culturais e fomente o desenvolvimento das capacidades de concepção, de inovação e de análise crítica.
+3 - O ensino superior organiza-se num sistema binário flexível, integrando instituições de natureza universitária e de natureza politécnica, articulando esforços e competências de ensino e de investigação em função das respetivas missões, predominando:
 
-4 - O ensino politécnico, orientado por uma constante perspectiva de investigação aplicada e de desenvolvimento, dirigido à compreensão e solução de problemas concretos, visa proporcionar uma sólida formação cultural e técnica de nível superior, desenvolver a capacidade de inovação e de análise crítica e ministrar conhecimentos científicos de índole teórica e prática e as suas aplicações com vista ao exercício de actividades profissionais.
+a) Nas instituições de ensino superior de natureza universitária, o ensino e a formação académica, centrados em estudos gerais de artes, humanidades e ciências e na investigação básica;
+
+b) Nas instituições de ensino superior de natureza politécnica, o ensino e a formação técnica avançada, baseados na investigação aplicada, no desenvolvimento tecnológico e na inovação, com forte ligação ao tecido económico e social.
+
+4 - [Revogado.]

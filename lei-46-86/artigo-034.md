@@ -6,11 +6,11 @@
 
 2 - O Governo define, por decreto-lei, os perfis de competência e de formação de educadores e professores para ingresso na carreira docente.
 
-3 - A formação dos educadores de infância e dos professores dos 1.º, 2.º e 3.º ciclos do ensino básico realiza-se em escolas superiores de educação e em estabelecimentos de ensino universitário.
+3 - A formação dos educadores de infância e dos professores dos 1.º, 2.º e 3.º ciclos do ensino básico realiza-se em instituições de ensino superior universitário e politécnico.
 
 4 - O Governo define, por decreto-lei, os requisitos a que as escolas superiores de educação devem satisfazer para poderem ministrar cursos de formação inicial de professores do 3.º ciclo do ensino básico, nomeadamente no que se refere a recursos humanos e materiais, de forma que seja garantido o nível científico da formação adquirida.
 
-5 - A formação dos professores do ensino secundário realiza-se em estabelecimentos de ensino universitário.
+5 - A formação dos professores do ensino secundário realiza-se em instituições de ensino superior universitário e politécnico.
 
 6 - A qualificação profissional dos professores de disciplinas de natureza profissional, vocacional ou artística dos ensinos básico e secundário pode adquirir-se através de cursos superiores que assegurem a formação na área da disciplina respectiva, complementados por formação pedagógica adequada.
 
