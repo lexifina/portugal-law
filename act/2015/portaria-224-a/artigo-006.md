@@ -2,7 +2,7 @@
 
 ### Contrato
 
-1 - O contrato de patrocínio é celebrado entre o Ministério da Educação, através da DGEstE e a entidade titular da autorização de funcionamento do estabelecimento de ensino (Entidade Beneficiária), em conformidade com a minuta constante do Anexo II à presente portaria, que dela faz parte integrante, devendo nele necessariamente constar o objeto e prazo do contrato, as obrigações específicas a que a entidade beneficiária fica sujeita, o montante máximo do apoio financeiro a atribuir e os termos dos acertos, atualizações e ajustes aplicáveis.
+1 - O contrato de patrocínio é celebrado entre o Ministério da Educação, Ciência e Inovação, através da AGSE, I. P., e a entidade titular da autorização de funcionamento do estabelecimento de ensino (Entidade Beneficiária), em conformidade com a minuta constante do anexo ii à presente portaria, que dela faz parte integrante, devendo nele necessariamente constar o objeto e prazo do contrato, as obrigações específicas a que a entidade beneficiária fica sujeita, o montante máximo do apoio financeiro a atribuir e os termos dos acertos, atualizações e ajustes aplicáveis.
 
 2 - O contrato de patrocínio tem por base o ano letivo sendo celebrado pelo prazo que compreenda o número de anos legalmente previsto para o(s) ciclo(s) de ensino artístico a que respeita.
 

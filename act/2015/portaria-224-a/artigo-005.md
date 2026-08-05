@@ -2,23 +2,17 @@
 
 ### Composição e competências da comissão de análise
 
-1 - É criada uma comissão de análise das candidaturas apresentadas nos procedimentos abertos nos termos da presente portaria, com a seguinte composição:
-
-a) O Diretor-Geral da DGEstE, que coordena;
-
-b) O Presidente do Conselho Diretivo da Agência Nacional para a Qualificação e o Ensino Profissional, I. P. (ANQEP);
-
-c) O Presidente do Conselho Diretivo do Instituto de Gestão Financeira da Educação, I. P. (IGEFE).
+1 - É criada uma comissão de análise das candidaturas apresentadas no âmbito dos procedimentos abertos nos termos da presente portaria, cuja composição é definida por despacho do membro do Governo responsável pela área da educação, ouvidos a AGSE, I. P., e o Instituto de Educação, Qualidade e Avaliação, I. P.
 
 2 - Os membros da comissão de análise das candidaturas podem delegar essas funções.
 
 3 - À comissão de análise compete:
 
-a) Propor ao membro do Governo responsável pela área da educação os critérios e subcritérios de análise e a respetiva ponderação a constar no aviso de abertura dos procedimentos;
+a) Propor ao membro do Governo responsável pela área da educação o projeto de aviso de abertura dos procedimentos, incluindo os critérios e subcritérios de análise e a respetiva ponderação;
 
 b) Analisar, avaliar e decidir das candidaturas considerando os critérios e subcritérios estabelecidos e publicitados no aviso de abertura dos procedimentos;
 
-c) Tornar público, através de lista divulgada no endereço do sítio eletrónico da DGEstE, o resultado das candidaturas e da aprovação do montante de financiamento por entidade;
+c) Tornar público o resultado das candidaturas e da aprovação do montante de financiamento por entidade, através de lista divulgada no sítio eletrónico da AGSE, I. P.;
 
 d) Acompanhar globalmente e avaliar, no final do contrato, a sua execução.
 
@@ -26,6 +20,6 @@ d) Acompanhar globalmente e avaliar, no final do contrato, a sua execução.
 
 5 - Os critérios e subcritérios de análise bem como a lista a que se refere a alínea c) do n.º 3 são homologados pelo membro do Governo responsável pela área da educação.
 
-6 - O apoio técnico e logístico à comissão de análise é assegurado pela DGEstE.
+6 - O apoio técnico e logístico à comissão de análise é assegurado pela AGSE, I. P.
 
 7 - A participação na comissão de análise não confere direito ao recebimento de qualquer remuneração ou suplemento.

@@ -8,7 +8,7 @@
 
 3 - A abertura do concurso é precedida de autorização da despesa e da assunção dos compromissos plurianuais, nos termos previstos na Lei n.º 8/2012, de 21 de fevereiro, e no Decreto-Lei n.º 197/99, de 8 de junho.
 
-4 - No aviso de abertura do concurso, a publicar no sítio da internet da Direção-Geral dos Estabelecimentos Escolares (DGEstE), constam os seguintes elementos:
+4 - No aviso de abertura do concurso, a publicar no sítio da Internet da Agência para a Gestão do Sistema Educativo, I. P. (AGSE, I. P.), constam os seguintes elementos:
 
 a) A natureza dos candidatos ao apoio financeiro;
 
@@ -46,4 +46,4 @@ d) Resultados escolares dos alunos;
 
 e) Instalações e equipamentos disponibilizados aos alunos para uso individual ou coletivo, no âmbito do ensino artístico especializado.
 
-6 - A candidatura é apresentada pela entidade titular da autorização de funcionamento do estabelecimento de ensino artístico especializado junto da DGEstE que procede ao seu saneamento e apreciação liminar, decidindo desde logo quaisquer questões de ordem formal e processual que possam obstar à avaliação da candidatura, após o que remete as mesmas à comissão de análise referida no artigo seguinte.
+6 - A candidatura é apresentada pela entidade titular da autorização de funcionamento do estabelecimento de ensino artístico especializado junto da AGSE, I. P., que procede ao seu saneamento e apreciação liminar, decidindo desde logo quaisquer questões de ordem formal e processual que possam obstar à avaliação da candidatura, após o que remete as mesmas à comissão de análise referida no artigo seguinte.
