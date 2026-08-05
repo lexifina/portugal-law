@@ -32,15 +32,11 @@ b) Instituições particulares de solidariedade social, nas condições prevista
 
 3 - A isenção a que se refere a alínea b) do n.º 1 é reconhecida mediante despacho do Director-Geral dos Impostos sobre pedido acompanhado por declaração do Ministério dos Negócios Estrangeiros que comprove os pressupostos da isenção.
 
-4 - A isenção a que se refere a alínea c) do n.º 1 deve ser objecto de comprovação em qualquer serviço de finanças, relativamente a cada ano a que respeite, mediante pedido apresentado no prazo para pagamento do imposto e acompanhado do título de propriedade e documento de identificação ou certificado de registo ou matrícula do veículo.
+4 - [Revogado.]
 
-5 - A isenção prevista na alínea a) do n.º 2 só pode ser usufruída por cada beneficiário em relação a um veículo em cada ano, e não pode ultrapassar o montante de (euro) 240, sendo reconhecida nos seguintes termos:
+5 - A isenção prevista na alínea a) do n.º 2 só pode ser usufruída por cada beneficiário em relação a um veículo em cada ano, não podendo ultrapassar o montante anual de 240 €.
 
-a) Em qualquer serviço de finanças, produzindo efeitos a partir do ano do pedido, ou da data do nascimento da obrigação tributária se anterior e o pedido for efetuado até ao termo do prazo de pagamento previsto no artigo 17.º, desde que verificados os respetivos pressupostos;
-
-b) Através da Internet, se a informação relativa à incapacidade estiver confirmada no cadastro da Autoridade Tributária e Aduaneira, produzindo efeitos nos termos da alínea anterior, com as devidas adaptações.
-
-6 - A isenção nos termos do número anterior não prejudica a liquidação nos termos gerais, caso o contribuinte venha a optar por usufruir do benefício relativamente a outro veículo no mesmo ano.
+6 - [Revogado.]
 
 7 - A isenção prevista na alínea b) do n.º 2 é reconhecida no serviço de finanças da área da sede da entidade interessada mediante entrega de requerimento devidamente documentado.
 
@@ -53,3 +49,5 @@ b) Os veículos das categorias C e D que efectuem transporte exclusivamente na �
 c) Os veículos de categoria C, com peso bruto superior a 3500 kg, em relação aos quais os sujeitos passivos do imposto exerçam a título principal a atividade de diversão itinerante ou das artes do espetáculo, e desde que os veículos se encontrem exclusivamente afetos a essa atividade.
 
 9 - Estão isentos os veículos que, embora permaneçam em território nacional por um período superior a 183 dias, se encontrem matriculados em série normal de outro Estado membro e preencham os requisitos exigíveis para beneficiar do regime de admissão temporária previsto no artigo 34.º do Código do Imposto sobre Veículos para missões, estágios, estudos e trabalho transfronteiriço.
+
+10 - Quando o período de tributação não corresponda ao ano civil nos termos do n.º 2 do artigo 4.º, aplica-se uma isenção na proporção do número de meses completos decorridos desde 1 de janeiro até à data da matrícula ou registo.

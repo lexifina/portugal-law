@@ -6,7 +6,7 @@
 
 ### Competência para a fiscalização
 
-1 - O cumprimento das obrigações impostas por este código é fiscalizado por todas as autoridades com competência para o efeito, designadamente pela Direcção-Geral dos Impostos, pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., pela Guarda Nacional Republicana, pela Polícia de Segurança Pública, pelos municípios, pelas conservatórias do registo automóvel, pelas capitanias dos portos e pela Polícia Marítima, bem como pelos serviços privativos de estradas e aeroportos.
+1 - O cumprimento das obrigações impostas por este código é fiscalizado por todas as autoridades com competência para o efeito, designadamente pela Autoridade Tributária e Aduaneira, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., pela Guarda Nacional Republicana, pela Polícia de Segurança Pública, pelos municípios, pelas conservatórias do registo automóvel, pelas capitanias dos portos e pela Polícia Marítima, bem como pelos serviços privativos de estradas e aeroportos.
 
 2 - A autoridade ou agente da autoridade que verifique qualquer infracção ao presente código, e quando para tal tenha competência, deve levantar auto de notícia e remetê--lo ao serviço de finanças da área onde foi cometida a infracção, para que o mesmo proceda à instauração do correspondente processo.
 

@@ -8,18 +8,38 @@
 
 1 - A competência para a liquidação do imposto é da Autoridade Tributária e Aduaneira, considerando-se, para todos os efeitos legais, o ato tributário praticado no serviço de finanças da residência ou sede do sujeito passivo.
 
-2 - A liquidação do imposto é feita pelo próprio sujeito passivo através da Internet, nas condições de registo e acesso às declarações eletrónicas.
+2 - O imposto é liquidado anualmente, relativamente a cada sujeito passivo, integrando todos os veículos matriculados ou registados a 1 de janeiro.
 
-3 - A liquidação do imposto pode ainda ser feita em qualquer serviço de finanças, por solicitação do sujeito passivo que não esteja abrangido pela obrigação prevista no n.º 9 do artigo 19.º da lei geral tributária, ou quando se verifique alguma das seguintes circunstâncias:
+3 - A liquidação do imposto referida no número anterior é obtida pelo próprio sujeito passivo através do portal das finanças, nas condições de registo e acesso às declarações eletrónicas.
 
-a) Os veículos tributáveis não se encontrem matriculados no território nacional;
+4 - No ano da matrícula ou registo do veículo em território nacional, a liquidação do imposto é obtida por solicitação do sujeito passivo através do portal das finanças, nas condições de registo e acesso às declarações eletrónicas.
 
-b) Os veículos tributáveis beneficiem de isenção cujos pressupostos devam ser objecto de comprovação;
+5 - [Revogado.]
 
-c) Exista erro de identificação ou omissão de veículo tributável na base de dados, que não permita ao sujeito passivo liquidar o imposto através da Internet.
+6 - A liquidação do imposto pode ainda ser obtida em qualquer serviço de finanças, por solicitação do sujeito passivo que não esteja abrangido pelas notificações eletrónicas previstas no artigo 38.º-A do Código de Procedimento e de Processo Tributário nem pela obrigação prevista no n.º 12 do artigo 19.º da Lei Geral Tributária.
 
-4 - No momento da liquidação do imposto é emitido documento único de cobrança que, certificado pelos meios em uso na rede da cobrança, comprova o bom pagamento do imposto.
+7 - A liquidação do imposto é obtida em qualquer serviço de finanças sempre que se verifique alguma das seguintes circunstâncias:
 
-5 - Quando se verifique furto, extravio ou inutilização da documentação comprovativa do pagamento do imposto ou de isenção pode ser obtida certidão comprovativa em qualquer serviço de finanças ou através da Internet.
+a) Os veículos tributáveis não se encontrem matriculados no território nacional, bem como nos casos previstos nos n.os 5 e 7 do artigo 17.º;
 
-6 - Não é devido pagamento nem há lugar a qualquer cobrança sempre que o montante do imposto liquidado seja inferior a (euro) 10.'
+b) Exista erro de identificação ou omissão de veículo tributável na base de dados, que não permita à Autoridade Tributária e Aduaneira efetuar a respetiva liquidação.
+
+8 - O sujeito passivo comprova, até ao último dia do mês de fevereiro, junto da Autoridade Tributária e Aduaneira, os pressupostos das isenções de que beneficie, com exceção das seguintes:
+
+a) As relativas a veículos da administração central, regional, local e das forças militares e de segurança, previstas na alínea a) do n.º 1 do artigo 5.º;
+
+b) As relativas aos veículos previstos na alínea b) do n.º 1 do artigo 5.º;
+
+c) As relativas a veículos não motorizados, exclusivamente elétricos ou movidos a energias renováveis não combustíveis, veículos especiais de mercadorias sem capacidade de transporte, ambulâncias, veículos funerários e tratores agrícolas, previstas na alínea e) do n.º 1 do artigo 5.º;
+
+d) As relativas aos veículos previstos nas alíneas f), g) e i) do n.º 1 do artigo 5.º, quando os pressupostos tenham sido previamente comunicados pelo organismo público responsável;
+
+e) As previstas na alínea a) do n.º 2 do artigo 5.º, salvo no primeiro ano em que o sujeito passivo requeira o benefício ou quando opte por usufruir do benefício relativamente a outro veículo;
+
+f) As previstas na alínea b) do n.º 2 do artigo 5.º
+
+9 - A liquidação referida no n.º 2 abrange somente os veículos de cuja informação a Autoridade Tributária e Aduaneira disponha até ao último dia de fevereiro de cada ano.
+
+10 - No momento da liquidação do imposto, é emitido documento único de cobrança que, certificado pelos meios em uso na rede da cobrança, comprova o bom pagamento do imposto.
+
+11 - Não é devido pagamento nem há lugar a qualquer cobrança sempre que o montante do imposto liquidado seja inferior a (euro) 10.'
