@@ -41,3 +41,5 @@ c) O tipo de suspensão corresponde ao dos eixos motores.
 6 - Nas Regiões Autónomas dos Açores e da Madeira os valores das emissões de dióxido de carbono a considerar para efeitos de determinação do IUC, são os mesmos que foram utilizados para efeitos do cálculo do ISV.
 
 7 - Quando estejam em causa veículos movidos por motores Wankel, a cilindrada a que se refere o n.º 1 é apurada nos termos do n.º 5 do artigo 7.º do Código do Imposto sobre Veículos.
+
+8 - O sujeito passivo comunica os elementos previstos na alínea b) do n.º 3 à Autoridade Tributária e Aduaneira, através do portal das finanças, até ao último dia do mês de fevereiro.
