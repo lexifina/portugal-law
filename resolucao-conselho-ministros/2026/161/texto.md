@@ -1,0 +1,25 @@
+Resolução do Conselho de Ministros n.º 161/2026
+
+Compete à Autoridade Tributária e Aduaneira (AT) administrar os impostos, direitos aduaneiros e demais tributos que lhe sejam atribuídos, bem como exercer o controlo da fronteira externa da União Europeia e do território aduaneiro nacional, para fins fiscais, económicos e de proteção da sociedade, de acordo com as políticas definidas pelo Governo e o Direito da União Europeia, sendo uma das atribuições o desenvolvimento e gestão das infraestruturas, equipamentos e tecnologias de informação necessários à prossecução das suas atribuições e à prestação de apoio, esclarecimento e serviços de qualidade aos contribuintes.
+
+A AT tem atualmente em exploração um cluster Scale-Out, para suporte aos seus serviços e aplicações críticas, encontrando-se dividido entre os dois datacenters situados no Centro de Dados Primário e no Centro de Dados Secundário.
+
+Neste contexto, a AT, pretende proceder à renovação parcial do cluster Scale-Out nos datacenters situados nos Centros de Dados Primário e Secundário da AT, com a aquisição de soluções de configuração de renovação parcial das plataformas que suportam o cluster.
+
+Neste âmbito, e em cumprimento do exposto no artigo 6.º do Decreto-Lei n.º 85/2026, de 13 de abril, foi solicitada autorização prévia à Comissão de Coordenação para a Estratégia Digital, que se pronunciou favoravelmente. No quadro dessa apreciação, a Agência para a Reforma Tecnológica do Estado, I. P., enquanto membro da Comissão de Coordenação para a Estratégia Digital, considerou existir um enquadramento geral favorável, atendendo ao alinhamento da iniciativa com os objetivos de transformação digital e à adequação da solução para o tratamento de dados sensíveis, sem prejuízo da necessidade de salvaguardar a sua futura integração com plataformas comuns da Administração Pública e a sustentabilidade financeira da operação.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a realização da despesa, no ano de 2026, para a aquisição da renovação parcial das plataformas que suportam o cluster Scale-Out, localizadas nos datacenters da Autoridade Tributária e Aduaneira, até ao montante máximo de 5 215 450,00 €, acrescido do imposto sobre o valor acrescentado à taxa legal em vigor.
+
+2 - Determinar que os encargos financeiros resultantes da presente resolução são satisfeitos por verbas adequadas inscritas na fonte de financiamento 513 - Receita própria do ano - com outras origens do orçamento da Autoridade Tributária e Aduaneira.
+
+3 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área das finanças, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 30 de julho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949271
