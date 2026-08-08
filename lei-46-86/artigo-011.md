@@ -26,7 +26,9 @@ g) Continuar a formação cultural e profissional dos cidadãos pela promoção 
 
 h) Promover e valorizar a língua e a cultura portuguesas;
 
-i) Promover o espírito crítico e a liberdade de expressão e de investigação.
+i) Promover o espírito crítico e a liberdade de expressão e de investigação;
+
+j) Garantir o pleno acesso à formação superior e à consequente inserção no mercado de trabalho dos jovens com necessidades educativas específicas.
 
 3 - O ensino superior organiza-se num sistema binário flexível, integrando instituições de natureza universitária e de natureza politécnica, articulando esforços e competências de ensino e de investigação em função das respetivas missões, predominando:
 

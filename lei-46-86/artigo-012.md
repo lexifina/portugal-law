@@ -32,6 +32,6 @@ a) Os maiores de 23 anos que, não sendo titulares da habilitação de acesso ao
 
 b) Os titulares de qualificações pós-secundárias apropriadas.
 
-6 - O Estado deve criar as condições que garantam aos cidadãos a possibilidade de frequentar o ensino superior, de forma a impedir os efeitos discriminatórios decorrentes das desigualdades económicas e regionais ou de desvantagens sociais prévias.
+6 - O Estado deve criar as condições que garantam aos cidadãos a possibilidade de frequentar o ensino superior, de forma a impedir os efeitos discriminatórios decorrentes das desigualdades económicas e regionais, de desvantagens sociais prévias ou de dificuldades acentuadas e persistentes ao nível da comunicação, interação, cognição ou aprendizagem derivadas de necessidades educativas específicas.
 
 7 - Os trabalhadores-estudantes terão regimes especiais de acesso e ingresso e de frequência do ensino superior que garantam os objectivos da aprendizagem ao longo da vida e da flexibilidade e mobilidade dos percursos escolares.
