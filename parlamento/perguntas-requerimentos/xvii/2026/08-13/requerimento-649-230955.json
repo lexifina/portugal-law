@@ -1,0 +1,62 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=xufylJiod6iO3gxDgTq8Z%2baqTslY6pEXcj7t%2buB%2bZ6oJR9rwDWlzOCmzyEBEkbCeLshbckKnuEl2%2fslUdQrfUvcLK7sEqcnby0Xn2v2J8y%2bazJMDABTJnbj2AfRMC%2fVaE4lm9042gKGsYnOIZt8RUevFTVG%2bcFVqfbZy%2b6QfqG9j0So4wI%2bC%2bsy%2bAYlRSTTrM%2b9ApTuMh8Jqw%2fxbcOcD4fmcMIBI8rAbtj2D8MJpPgdWRv%2bYDC1cLHI4T1GRJ7z2sFsrUu8LfF2tPw%2f63Xgp8QyFwTEdUZL56Mgt%2bTTIN05bugl%2fKHziJI21ak%2fgZsPs0ZcDE7ii2ewozM6rOeO%2b96tQ%2baCq7cg5S5qGuHqY3n1aW%2bCUX0tU8ovRf%2fmIVOtvi6XnPGz69JWLsUP0Wi1MuiGEWJWf4LzjdGKWBqEuUDw%3d&fich=RequerimentosXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0c078ab59d1f1e6ee75ab185389510b4dec98030e4c29c8761b2fd448c315c80",
+  "legislatura": "XVII",
+  "id": "230955",
+  "tipo": "Requerimento",
+  "numero": "649",
+  "data_registo": "2026-08-13",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Pedido de informação sobre o parque habitacional público municipal, ocupação, rendas e dívida acumulada - Município Golegã",
+    "Autores": [
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      }
+    ],
+    "DataEnvio": "2026-08-14",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2026-08-14",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Golegã",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2026-08-20",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Golegã",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338784e6a55774f445a6b4f5330324e324e6c4c5451355a54417459575a6a5953316c5a6a597a4d7a4a684e6a56694e7a63756347526d&fich=165086d9-67ce-49e0-afca-ef6332a65b77.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2026-08-13",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544339684f4464685a54466d59533168596a63784c5452685a574d744f544d304e4330324e444a6c596a55304e546378595749756347526d&fich=a87ae1fa-ab71-4aec-9344-642eb54571ab.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "230955",
+    "Legislatura": "XVII",
+    "Nr": "649",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
