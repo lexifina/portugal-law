@@ -1,0 +1,62 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=xufylJiod6iO3gxDgTq8Z%2baqTslY6pEXcj7t%2buB%2bZ6oJR9rwDWlzOCmzyEBEkbCeLshbckKnuEl2%2fslUdQrfUvcLK7sEqcnby0Xn2v2J8y%2bazJMDABTJnbj2AfRMC%2fVaE4lm9042gKGsYnOIZt8RUevFTVG%2bcFVqfbZy%2b6QfqG9j0So4wI%2bC%2bsy%2bAYlRSTTrM%2b9ApTuMh8Jqw%2fxbcOcD4fmcMIBI8rAbtj2D8MJpPgdWRv%2bYDC1cLHI4T1GRJ7z2sFsrUu8LfF2tPw%2f63Xgp8QyFwTEdUZL56Mgt%2bTTIN05bugl%2fKHziJI21ak%2fgZsPs0ZcDE7ii2ewozM6rOeO%2b96tQ%2baCq7cg5S5qGuHqY3n1aW%2bCUX0tU8ovRf%2fmIVOtvi6XnPGz69JWLsUP0Wi1MuiGEWJWf4LzjdGKWBqEuUDw%3d&fich=RequerimentosXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "0c078ab59d1f1e6ee75ab185389510b4dec98030e4c29c8761b2fd448c315c80",
+  "legislatura": "XVII",
+  "id": "231196",
+  "tipo": "Requerimento",
+  "numero": "887",
+  "data_registo": "2026-08-13",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Pedido de informação sobre o parque habitacional público municipal, ocupação, rendas e dívida acumulada - Câmara Municipal de Porto Moniz",
+    "Autores": [
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      }
+    ],
+    "DataEnvio": "2026-08-14",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2026-08-14",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Porto Moniz",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2026-08-20",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Porto Moniz",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338305a6d566c5a6a4d30597930334d3249784c54526b4e6a67744f5751344e6930325a6a49794e4463325a474d304e4751756347526d&fich=4feef34c-73b1-4d68-9d86-6f22476dc44d.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2026-08-13",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338794d5755304d4455334e4330344f574a6c4c545135596a597459544d344d4330334e446b304e325a6d4f574a6959324d756347526d&fich=21e40574-89be-49b6-a380-74947ff9bbcc.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "231196",
+    "Legislatura": "XVII",
+    "Nr": "887",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
