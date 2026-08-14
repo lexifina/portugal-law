@@ -6,7 +6,7 @@
 
 2 - Para efeitos da verificação da condição de recursos prevista na presente lei, considera-se que o valor do apoio público no âmbito da habitação social corresponde a (euro) 46,36.
 
-3 - O valor referido no número anterior é considerado para apuramento do rendimento do agregado familiar de forma escalonada de acordo com o ano de atribuição da prestação ou do apoio social previstos nos n.os 1 e 2 do artigo 1.º, nos seguintes termos:
+3 - O valor referido no número anterior é considerado para apuramento do rendimento do agregado familiar de forma escalonada de acordo com o ano de atribuição da prestação ou do apoio social previstos na alínea a) do n.º 1 e do n.º 2 do artigo 1.º, nos seguintes termos:
 
 a) Um terço no 1.º ano;
 

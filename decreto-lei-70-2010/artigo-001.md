@@ -10,13 +10,13 @@
 
 a) Prestações por encargos familiares;
 
-b) (Revogada).
+b) (Revogada);
 
-c) Rendimento social de inserção;
+c) (Revogada);
 
-d) Subsídio social de desemprego;
+d) (Revogada);
 
-e) Subsídios sociais no âmbito da parentalidade.
+e) (Revogada).
 
 2 - As regras previstas no presente decreto-lei são ainda aplicáveis aos seguintes apoios sociais ou subsídios, quando sujeitos a condição de recursos:
 
