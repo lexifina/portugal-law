@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Protecção no âmbito do subsistema de solidariedade
-
 ## Secção I
 
 ## Âmbito e caracterização dos subsídios sociais

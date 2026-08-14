@@ -18,4 +18,4 @@
 
 8 - Nas situações de falecimento do beneficiário que, reunindo as condições legais substantivas para a atribuição da prestação compensatória, não a requereu em vida, os familiares com direito ao subsídio por morte podem requerê-la no prazo estabelecido para a apresentação do respetivo requerimento.
 
-9 - Consideram-se válidos para a atribuição dos subsídios sociais previstos no capítulo iii os requerimentos dos correspondentes subsídios previstos no capítulo ii que tenham sido indeferidos.
+9 - [Revogado].

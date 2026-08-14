@@ -2,7 +2,7 @@
 
 ## Montantes dos subsídios sociais
 
-# Artigo 56
+# Artigo 56.º
 
 ### Montante dos subsídios sociais por risco clínico em caso de gravidez, por deslocação a unidade hospitalar fora da ilha de residência da grávida para realização de parto, para acompanhamento, por interrupção da gravidez e por riscos específicos
 
