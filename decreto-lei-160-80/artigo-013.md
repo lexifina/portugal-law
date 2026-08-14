@@ -6,4 +6,4 @@
 
 2 - O subsídio por assistência a terceira pessoa não é cumulável com o subsídio de educação especial.
 
-3 - A pensão social de velhice não é cumulável com as restantes prestações pecuniárias previstas no presente decreto-lei, com exceção do subsídio por assistência de terceira pessoa, nem com a prestação social para a inclusão.
+3 - [Revogado].

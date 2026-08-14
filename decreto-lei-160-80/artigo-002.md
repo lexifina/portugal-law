@@ -8,9 +8,9 @@ a) Subsídio familiar a crianças e jovens;
 
 b) Subsídio por frequência de estabelecimentos de educação especial;
 
-c) Pensão de orfandade;
+c) [Revogado];
 
-d) Pensão social de velhice;
+d) [Revogado];
 
 e) Subsídio por assistência de terceira pessoa;
 
