@@ -24,7 +24,7 @@ d) Técnico director de obra ou pessoa que tenha subscrito termo de responsabili
 
 e) Coordenador e técnicos de segurança;
 
-f) Titular do alvará de licença ou do título de admissão de comunicação prévia;
+f) Titular da licença ou da comunicação prévia;
 
 g) Dono de obra;
 
@@ -62,6 +62,6 @@ i) Quaisquer ensaios ou testes requeridos ou realizados sobre materiais e equipa
 
 j) Registo de pedidos de intervenção de quaisquer entidades com competência fiscalizadora, bem com da sua ocorrência;
 
-l) Registo do estado de execução da obra, nos termos previstos nos n.os 8.º, 11.º, 12.º e 13.º da presente portaria; e
+l) Registo do estado de execução da obra, nos termos previstos nos artigos 8.º, 11.º, 12.º e 13.º da presente portaria; e
 
 m) Quaisquer outras circunstâncias relevantes sobre a execução da obra, nomeadamente o desenvolvimento dos trabalhos, qualidade da execução e dos materiais utilizados, equipamentos aplicados e cumprimento das normas legais e regulamentares aplicáveis.

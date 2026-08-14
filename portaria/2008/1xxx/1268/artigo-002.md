@@ -8,7 +8,7 @@ b) Revestir a forma de livro encadernado ou de folhas soltas, sem prejuízo do c
 
 c) Possuir o mínimo de 10 folhas, numeradas de forma sequencial, destinadas ao registo de factos e observações;
 
-d) Possuir, devidamente destacadas da parte destinada ao registo de factos e observações e destinadas ao registo das principais características da edificação e das soluções construtivas, previstas na alínea b) do número anterior, um mínimo de cinco folhas por cada um dos capítulos, numeradas de forma sequencial;
+d) Possuir, devidamente destacadas da parte destinada ao registo de factos e observações e destinadas ao registo das principais características da edificação e das soluções construtivas, previstas na alínea c) do artigo anterior, um mínimo de cinco folhas por cada um dos capítulos, numeradas de forma sequencial;
 
 e) (Revogada.)
 

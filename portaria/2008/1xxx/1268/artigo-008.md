@@ -1,6 +1,6 @@
 # Artigo 8.º
 
-Para além dos registos previstos no anexo i à presente portaria e sem prejuízo da sua diligente realização, o director de fiscalização de obra e o director de obra estão conjuntamente obrigados a registar, com periodicidade mensal, contada da data do início da obra tal como registada no livro de obra, o estado da execução da mesma, incluindo:
+Para além dos registos previstos no anexo i à presente portaria e sem prejuízo da sua diligente realização, o diretor de obra e quando exista, o diretor de fiscalização da obra, são obrigados a registar, com periodicidade mensal, contada da data do início da obra tal como registada no livro de obra, o estado da execução da mesma, incluindo:
 
 a) Descrição das características e do estado da edificação em construção, reportada ao momento da realização do registo;
 
