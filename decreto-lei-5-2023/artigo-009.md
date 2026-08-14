@@ -24,7 +24,7 @@ h) Aprovar, sob proposta do órgão de coordenação técnica e ouvida a rede de
 
 i) Aprovar, sob proposta do órgão de coordenação técnica e ouvida a rede de monitorização e avaliação, o plano global de avaliação do Portugal 2030;
 
-j) Homologar, após parecer do órgão de coordenação técnica, as propostas de reprogramação aprovadas pelo comité de acompanhamento, sob proposta das autoridades de gestão;
+j) [Revogado];
 
 k) Aprovar o plano anual de avisos para apresentação de candidaturas (plano anual de avisos), sob proposta das autoridades de gestão, exceto no que se refere ao Programa Mar, quando aplicável, após parecer e consolidação pelo órgão de coordenação técnica;
 

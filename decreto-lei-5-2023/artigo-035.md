@@ -4,7 +4,7 @@
 
 1 - As autoridades de gestão dos programas regionais envolvidos na operacionalização dos instrumentos territoriais previstos nas alíneas b) a f) do n.º 1 do artigo 33.º lançam concurso, ou alternativamente convite nos casos das alíneas d) e e), por tipo de instrumento territorial, para que as entidades regionais, sub-regionais ou locais que os pretendam promover assegurem, de forma atempada, a existência das iniciativas estratégicas e apresentem propostas de planos de ação que as operacionalizem, identificando os objetivos estratégicos e os respetivos objetivos específicos a implementar, as tipologias de ações elegíveis, bem como os critérios de avaliação e seleção das propostas, não havendo lugar a alocações financeiras predefinidas.
 
-2 - No caso do instrumento previsto na alínea b) do n.º 1 do artigo 33.º (ITI Redes Urbanas), a seleção será promovida através de um regime concursal por via de avisos lançados pelas autoridades de gestão articuladas entre si.
+2 - No caso do instrumento previsto na alínea b) do n.º 1 do artigo 33.º (Redes Urbanas), a seleção é promovida através de um regime concursal por via de avisos lançados pelas autoridades de gestão articuladas entre si.
 
 3 - As entidades regionais, sub-regionais ou locais propõem às autoridades de gestão do respetivo programa regional o conteúdo dos planos que se propõem implementar, em observação do disposto no artigo 29.º do Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho de 2021, e que devem incluir:
 

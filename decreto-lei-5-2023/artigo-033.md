@@ -6,7 +6,7 @@
 
 a) Instrumentos Territoriais Integrados CIM/AM, concretizados através de contratos para o desenvolvimento e coesão territorial;
 
-b) Instrumentos Territoriais Integrados Redes Urbanas;
+b) Redes Urbanas;
 
 c) Parcerias para a Coesão Urbana;
 
