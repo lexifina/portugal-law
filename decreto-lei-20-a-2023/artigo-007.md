@@ -1,0 +1,17 @@
+# Artigo 7.º
+
+### Dados pessoais
+
+1 - Os órgãos responsáveis pelo exercício das funções de coordenação, gestão, monitorização, avaliação, certificação, pagamentos, auditoria e comunicação, nos termos do Decreto-Lei n.º 5/2023, de 25 de janeiro, procedem ao tratamento de dados pessoais dos candidatos, beneficiários, beneficiários efetivos e subcontratados, de participantes e destinatários dos apoios, quando tal se revele necessário para as finalidades específicas associadas ao exercício das respetivas competências, para efeitos do cumprimento das obrigações decorrentes do Decreto-Lei n.º 5/2023, de 25 de janeiro, do presente decreto-lei e demais legislação conexa, designadamente o Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho de 2021, e o Regulamento (UE) 2021/1057, do Parlamento Europeu e do Conselho, de 24 de junho de 2021.
+
+2 - Os beneficiários das operações, procedem ao tratamento dos dados pessoais dos beneficiários efetivos e subcontratados, de participantes e destinatários dos apoios, sempre que seja necessário para o cumprimento das obrigações decorrentes do Decreto-Lei n.º 5/2023, de 25 de janeiro, do presente decreto-lei e demais legislação conexa, designadamente o Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho de 2021, e o Regulamento (UE) 2021/1057, do Parlamento Europeu e do Conselho, de 24 de junho de 2021.
+
+3 - O disposto nos números anteriores não prejudica o tratamento de dados pessoais necessário ao cumprimento de outras obrigações legais decorrentes da legislação em vigor.
+
+4 - Os dados pessoais são conservados pelo prazo estritamente necessário para a prossecução das obrigações que motivaram o tratamento, nos termos dos n.os 1 e 2, devendo ser destruídos ou anonimizados aquando do cumprimento ou extinção das obrigações respetivas, podendo ser conservados pelo prazo máximo de sete anos posteriores à aceitação pela Comissão Europeia do relatório final de desempenho nos termos do n.º 3 do artigo 43.º do Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho de 2021, ou pelo prazo fixado na legislação nacional aplicável ou na regulamentação europeia, se estas estabelecerem prazo superior.
+
+5 - O tratamento de dados pessoais referido nos números anteriores é efetuado nos termos do presente decreto-lei, do Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, da Lei n.º 58/2019, de 8 de agosto, e da demais legislação em vigor relativa a proteção de dados pessoais.
+
+6 - Os órgãos e os beneficiários referidos nos n.os 1 e 2 adotam as medidas técnicas e organizativas adequadas e específicas que permitam salvaguardar os direitos fundamentais e os interesses dos titulares dos dados pessoais, garantir a segurança do tratamento e dos dados pessoais, e comprovar que o tratamento de dados pessoais é realizado em conformidade com a legislação em vigor.
+
+7 - As operações de tratamento de dados pessoais realizadas ao abrigo do presente decreto-lei devem obedecer aos princípios de proteção de dados, designadamente os princípios da minimização, da proporcionalidade e da necessidade, procedendo-se apenas ao tratamento dos dados pessoais que se revelem imprescindíveis para a finalidade que motivou o respetivo tratamento, devendo optar-se pelo acesso a dados pseudonimizados ou codificados sempre que a direta identidade dos respetivos titulares não seja relevante.
