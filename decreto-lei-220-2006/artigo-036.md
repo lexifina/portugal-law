@@ -8,9 +8,9 @@
 
 1 - As prestações de desemprego são devidas desde a data do requerimento, sem prejuízo do disposto nos números seguintes.
 
-2 - As prestações de desemprego a conceder aos ex-pensionistas de invalidez são devidas desde o dia 1 do mês seguinte àquele em que foi comunicada ao beneficiário a declaração de aptidão para o trabalho.
+2 - O subsídio de desemprego a conceder aos ex-pensionistas de invalidez é devido desde o dia 1 do mês seguinte àquele em que foi comunicada ao beneficiário a declaração de aptidão para o trabalho.
 
-3 - O início do pagamento do subsídio social de desemprego que seja devido subsequentemente ao termo do período de concessão do subsídio de desemprego reporta-se ao dia em que se encontre preenchida a condição de recursos.
+3 - [Revogado.]
 
 4 - O início do pagamento do subsídio de desemprego parcial tem lugar a partir da data de início da actividade profissional, por conta de outrem ou independente, se ela ocorrer durante o período de atribuição das prestações, ou da data do requerimento do subsídio de desemprego se o início daquela actividade for anterior à data do desemprego.
 

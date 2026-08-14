@@ -18,7 +18,7 @@ e) As situações de doença, nos termos do artigo 45.º
 
 a) A suspensão ou a cessação das prestações;
 
-b) A redução dos montantes do subsídio social de desemprego;
+b) [Revogado];
 
 c) A decisão judicial proferida no âmbito dos processos nas situações previstas nos n.os 2 e 5 do artigo 9.º
 

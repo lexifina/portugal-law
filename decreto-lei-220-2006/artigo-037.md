@@ -1,8 +1,8 @@
 # Artigo 37.º
 
-### Período de concessão das prestações de desemprego
+### Período de concessão do subsídio de desemprego
 
-1 - O período de concessão do subsídio de desemprego e do subsídio social de desemprego inicial é estabelecido em função da idade do beneficiário e do número de meses com registo de remunerações no período imediatamente anterior à data do desemprego, nos seguintes termos:
+1 - O período de concessão do subsídio de desemprego é estabelecido em função da idade do beneficiário e do número de meses com registo de remunerações no período imediatamente anterior à data do desemprego, nos seguintes termos:
 
 a) Beneficiários com idade inferior a 30 anos:
 
@@ -36,7 +36,7 @@ ii) Com registo de remunerações num período igual ou superior a 15 meses e in
 
 iii) Com registo de remunerações num período igual ou superior a 24 meses, 540 dias.
 
-2 - Os períodos de concessão do subsídio de desemprego e do subsídio social de desemprego inicial previstos no número anterior são majorados em função da carreira contributiva no período imediatamente anterior à data do desemprego, nos seguintes termos:
+2 - Os períodos de concessão do subsídio de desemprego previstos no número anterior são majorados em função da carreira contributiva no período imediatamente anterior à data do desemprego, nos seguintes termos:
 
 a) Para os beneficiários com idade inferior a 40 anos, um acréscimo de 30 dias por cada cinco anos com registo de remunerações nos últimos 20 anos;
 

@@ -16,7 +16,7 @@ c) Subsídio por cessação de atividade profissional.
 
 4 - Quando os beneficiários sejam casados ou vivam em união de facto a majoração é de 10 % para cada um.
 
-5 - Sempre que o cônjuge ou pessoa que vive em união de facto deixe de ser titular de subsídio de desemprego e lhe seja atribuído subsídio social de desemprego subsequente, ou deixe de ser titular do subsídio por cessação de atividade ou de subsídio por cessação de atividade profissional e permaneça em situação de desemprego sem auferir qualquer prestação social por essa eventualidade, mantém-se a majoração do subsídio de desemprego em relação ao beneficiário desta prestação social.
+5 - Sempre que o cônjuge ou unido de facto deixe de ser titular de subsídio de desemprego e lhe seja atribuída a prestação social única, ou deixe de ser titular do subsídio por cessação de atividade ou de subsídio por cessação de atividade profissional e permaneça em situação de desemprego sem auferir qualquer prestação social por essa eventualidade, mantém-se a majoração do subsídio de desemprego em relação ao beneficiário desta prestação social.
 
 6 - O conceito de agregado monoparental referido no n.º 1 obedece ao previsto no artigo 8.º-A do Decreto-Lei n.º 176/2003, de 2 de agosto, na sua redação atual, que institui o abono de família para crianças e jovens e define a proteção na eventualidade de encargos familiares no âmbito do subsistema de proteção familiar.
 

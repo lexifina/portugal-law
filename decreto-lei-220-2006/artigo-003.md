@@ -1,9 +1,5 @@
 # Artigo 3.º
 
-### Medidas passivas
+### Medida passiva
 
-Constituem medidas passivas:
-
-a) A atribuição de subsídio de desemprego;
-
-b) A atribuição de subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego.
+Constitui medida passiva a atribuição do subsídio de desemprego.
