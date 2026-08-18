@@ -1,0 +1,59 @@
+# Artigo 11.º
+
+### Alterações ao Código do IRS
+
+1 - Os artigos 2.º e 21.º do Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, passam a ter a seguinte redacção:
+
+Artigo 2.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+c) Os benefícios ou regalias auferidos pela prestação ou em razão da prestação do trabalho dependente, com excepção dos abonos de família e das respectivas prestações complementares, na parte em que não excedam os limites legais estabelecidos, bem como dos subsídios de refeição até à concorrência do respectivo limite legal acrescido de 50%;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+Artigo 21.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - Sempre que a lei imponha o englobamento de rendimentos isentos, observar-se-á o seguinte:
+
+a) Os rendimentos isentos serão considerados, sem deduções, para efeitos do disposto no artigo 72.º, sendo caso disso, e para determinação das taxas a aplicar ao restante rendimento colectável;
+
+b) Para efeitos da alínea anterior, quando seja de aplicar o disposto no artigo 72.º, o quociente da divisão por 2 ou por 1,85, consoante os casos, dos rendimentos isentos será imputado proporcionalmente à fracção de rendimento a que corresponde a taxa média e a taxa normal.
+
+2 - As alterações introduzidas pelo número anterior produzem efeitos desde 1 de Janeiro de 1989.
