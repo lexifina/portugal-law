@@ -2,7 +2,7 @@
 
 ### Procedimentos
 
-1 - Os procedimentos com vista à celebração de contratos são abertos pelo Diretor-Geral da Administração Escolar, mediante aviso de abertura publicado na página eletrónica da DGAE.
+1 - Os procedimentos com vista à celebração de contratos são abertos pelo presidente do conselho diretivo da AGSE, I. P., mediante aviso de abertura publicado no sítio na Internet da referida agência.
 
 2 - O aviso de abertura dos procedimentos fixa as condições e os termos em que podem ser apresentadas as candidaturas, contendo, obrigatoriamente:
 
@@ -20,16 +20,16 @@ f) Os critérios e subcritérios de seleção das candidaturas e as corresponden
 
 3 - Os critérios referidos na alínea f) do número anterior são os seguintes:
 
-a) Os resultados escolares dos alunos, aferidos através da taxa de percursos diretos de sucesso da instituição;
+a) Os resultados escolares dos alunos, aferidos através da taxa de retenção e desistência e da taxa de conclusão no tempo esperado;
 
-b) O projeto educativo para os alunos e para as turmas a concurso, com especial ênfase para as estratégias de promoção do sucesso escolar e combate ao abandono escolar precoce de inclusão de alunos com necessidades educativas específicas;
+b) O projeto educativo para os alunos e para as turmas a concurso, com especial ênfase para as estratégias de promoção do sucesso escolar e a implementação de medidas para uma escola inclusiva;
 
 c) Estabilidade do corpo docente do estabelecimento de ensino;
 
 d) A qualidade e adequação das instalações e dos equipamentos.
 
-4 - As candidaturas são dirigidas ao Diretor-geral da DGAE através de formulário próprio disponibilizado pela DGAE.
+4 - As candidaturas são dirigidas ao presidente do conselho diretivo da AGSE, I. P., através de formulário próprio disponibilizado pela referida agência.
 
-5 - As listas referidas nas alíneas e) e f) do n.º 1 do artigo 7.º são divulgadas na página eletrónica da DGAE.
+5 - As listas referidas nas alíneas e) e f) do artigo 7.º são divulgadas no sítio na Internet da AGSE, I. P.
 
 6 - À extensão dos contratos existentes a um novo ciclo de ensino, aplicam-se os procedimentos previstos no presente artigo.

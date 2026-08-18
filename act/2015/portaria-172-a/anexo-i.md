@@ -4,29 +4,29 @@
 
 CONTRATO DE ASSOCIAÇÃO
 
-I - IDENTIFICAÇÃO DAS PARTES
+I - Identificação das partes
 
-O Estado Português, através da Direção-Geral da Administração Escolar, com sede na Avenida 24 de Julho, 142, 1399-024 Lisboa, pessoa coletiva n.º 600084817, neste ato representado por (*nome do/a titular do cargo*), nomeado/a pelo Despacho n.º (*indicar o diploma legal de nomeação*), publicado em (*indicar o Diário da República, n.º, série e data*), doravante designado por PRIMEIRO OUTORGANTE, e *(nome da entidade)*, com sede em *(morada completa)*, concelho de *(indicar o concelho)*, pessoa coletiva número *(indicar o número)*, titular da autorização de funcionamento para o(a) *(indicar o nome do estabelecimento de ensino)*, localizado em *(indicar a morada completa)*, neste ato representado(a) por *(indicar o nome do/a representante legal)*, residente em *(indicar a morada completa)*, portador do bilhete de identidade/cartão de cidadão n.º *(indicar o número)*, na qualidade de representante legal da entidade titular, com poderes para o ato nos termos de (Certidão Comercial Permanente da Sociedade, com o código de acesso [...], válida até [...]/[...]/(indicar documento de representação quando não aplicável) doravante designado por SEGUNDO OUTORGANTE,
+O Estado Português, através da Agência para a Gestão do Sistema Educativo, I. P. (AGSE, I. P.), com sede na Avenida Infante Santo, 2, 1350-178 Lisboa, pessoa coletiva n.º 518985024, neste ato representado por (*nome do/a titular do cargo*), nomeado/a pelo Despacho n.º (*indicar o diploma legal de nomeação*), publicado em (*indicar o Diário da República, n.º, série e data*), doravante designado por PRIMEIRO OUTORGANTE, e *(nome da entidade)*, com sede em *(morada completa)*, concelho de *(indicar o concelho)*, pessoa coletiva número *(indicar o número)*, titular da autorização de funcionamento para o(a) *(indicar o nome do estabelecimento de ensino)*, localizado em *(indicar a morada completa)*, neste ato representado(a) por *(indicar o nome do/a representante legal)*, residente em *(indicar a morada completa)*, portador do bilhete de identidade/cartão de cidadão n.º *(indicar o número)*, na qualidade de representante legal da entidade titular, com poderes para o ato nos termos de (Certidão Comercial Permanente da Sociedade, com o código de acesso [...], válida até [...]/[...]/(indicar documento de representação quando não aplicável) doravante designado por SEGUNDO OUTORGANTE,
 
 Em conjunto designados por PARTES.
 
-II - CONSIDERANDOS
+II - Considerandos
 
 1 - Nos termos do n.º 6 do artigo 10.º do Estatuto do Ensino Particular e Cooperativo, publicado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro, os contratos de associação têm como finalidade possibilitar aos alunos a frequência de escolas do ensino particular e cooperativo em condições idênticas às verificadas no ensino ministrado nas escolas públicas, no respeito pela especificidade do respetivo projeto educativo.
 
 2 - A análise de rede efetuada para o ano letivo [.../...] revelou a necessidade de prover por oferta educativa pública na área geográfica de implantação da oferta em que se encontra o estabelecimento de ensino do segundo outorgante.
 
-3 - O segundo outorgante foi selecionado, ao abrigo de procedimento lançado pela DGAE nos termos da Portaria n.º 172-A/2015, para prover por oferta educativa pública nos termos do respetivo Aviso de Abertura e do presente contrato.
+3 - O segundo outorgante foi selecionado, ao abrigo de procedimento lançado pela AGSE, I. P., nos termos da Portaria n.º 172-A/2015, de 5 de junho, na sua redação atual, para prover por oferta educativa pública nos termos do respetivo aviso de abertura e do presente contrato.
 
 4 - Por despacho [...] foi autorizada a realização da despesa correspondente ao presente contrato.
 
 5 - A assunção do encargo plurianual correspondente ao presente contrato foi autorizada por [...].
 
-6 - A despesa prevista, em execução do presente contrato, durante o ano económico em curso, é satisfeita por verba inscrita na fonte de financiamento 111, atividade 196, classificação económica [...], com o cabimento prévio n.º [...]. Os encargos nos anos económicos seguintes serão objeto de adequada inscrição orçamental.
+6 - A despesa prevista, em execução do presente contrato, durante o ano económico em curso, é satisfeita por verba inscrita na fonte de financiamento 311, atividade 513, classificação económica [...], com o cabimento prévio n.º [...]. Os encargos nos anos económicos seguintes serão objeto de adequada inscrição orçamental
 
 7 - O SEGUNDO OUTORGANTE fez prova da situação regularizada relativamente a impostos, a contribuições para a Segurança Social e para a Caixa Geral de Aposentações.
 
-III. CELEBRAÇÃO DO CONTRATO
+III - Celebração do contrato
 
 As Partes celebram o presente Contrato de Associação, ao abrigo do disposto nos artigos 16.º a 18.º do Decreto-Lei n.º 152/2013, de 4 de novembro, o qual se rege pelas estipulações das cláusulas seguintes:
 
@@ -68,7 +68,7 @@ b) Cumprir os programas e planos de estudos e demais legislação e regulamenta�
 
 c) Aceitar, a título condicional, as matrículas que ultrapassem a sua capacidade, comunicando-as aos serviços competentes do MEC;
 
-d) Divulgar o regime de contrato e a gratuitidade do ensino ministrado e inserir a menção "Estabelecimento de ensino integrante da rede pública. Financiado pelo Ministério da Educação e Ciência ao abrigo de contrato de associação", com inclusão do logótipo do Ministério da Educação e Ciência, em todos os suportes de divulgação relativos à oferta de ensino beneficiária do financiamento;
+d) Divulgar o regime de contrato e a gratuitidade do ensino ministrado e inserir a menção «Estabelecimento de ensino integrante da rede pública. Financiado pelo Ministério da Educação, Ciência e Inovação ao abrigo de contrato de associação», com inclusão do logótipo do Ministério da Educação, Ciência e Inovação, em todos os suportes de divulgação relativos à oferta de ensino beneficiária do financiamento;
 
 e) Manter atualizada a informação respeitante ao número de identificação bancária (NIB) para onde se processam as transferências bancárias referidas na alínea c) da Cláusula 2.ª;
 
@@ -76,7 +76,7 @@ f) Facultar ao primeiro outorgante, em formato eletrónico, os seguintes element
 
 i) Até 31 de maio, o balanço e contas anuais do ano anterior, legalmente aprovados;
 
-ii) No decorrer dos meses de outubro e agosto de cada ano e sempre que a aplicação de disposição legal o determine, através da DGEstE, todos os elementos necessários ao cálculo do montante do financiamento e aos respetivos ajustes anuais e reduções, designadamente a identificação das turmas e dos alunos, no respeito pela legislação aplicável em matéria de proteção de dados pessoais.
+ii) No decorrer dos meses de outubro e agosto de cada ano e sempre que a aplicação de disposição legal o determine, através da AGSE, I. P., todos os elementos necessários ao cálculo do montante do financiamento e aos respetivos ajustes anuais e reduções, designadamente a identificação das turmas e dos alunos, no respeito pela legislação aplicável em matéria de proteção de dados pessoais.
 
 g) Colaborar com a Inspeção-Geral da Educação e Ciência e com outros serviços e órgãos de controlo com competência para a fiscalização do cumprimento dos termos do presente contrato.
 
