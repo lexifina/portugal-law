@@ -14,7 +14,7 @@ d) Fundações de iniciativa exclusivamente privada que prossigam fins de nature
 
 2 - Os donativos referidos no número anterior são considerados custos em valor correspondente a 140 % do respetivo total, quando se destinarem exclusivamente à prossecução de fins de caráter social, a 120 %, se destinados exclusivamente a fins de caráter ambiental, desportivo e educacional, ou a 130 % do respetivo total, quando forem atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos, que fixem os objetivos a prosseguir pelas entidades beneficiárias, e os montantes a atribuir pelos sujeitos passivos.
 
-3 - São considerados custos ou perdas do exercício, até ao limite de 8/1000 do volume de vendas ou dos serviços prestados, os donativos atribuídos às seguintes entidades:
+3 - São considerados gastos ou perdas do exercício, até ao limite de 1 % do volume de vendas ou dos serviços prestados, os donativos atribuídos às seguintes entidades:
 
 a) Instituições particulares de solidariedade social, bem como pessoas colectivas legalmente equiparadas;
 
@@ -38,7 +38,7 @@ b) Apoio e tratamento de toxicodependentes ou de doentes com sida, com cancro ou
 
 c) Promoção de iniciativas dirigidas à criação de oportunidades de trabalho e de reinserção social de pessoas, famílias ou grupos em situações de exclusão ou risco de exclusão social, designadamente no âmbito do rendimento social de inserção, de programas de luta contra a pobreza ou de programas e medidas adoptadas no contexto do mercado social de emprego.
 
-5 - São considerados custos ou perdas do exercício, até ao limite de 8/1000 do volume de vendas ou de serviços prestados, em valor correspondente a 150 % do respectivo total, os donativos concedidos às entidades referidas nos números anteriores, que se destinem a custear as seguintes medidas:
+5 - São considerados gastos ou perdas do exercício, até ao limite de 1 % do volume de vendas ou de serviços prestados, em valor correspondente a 150 % do respetivo total, os donativos concedidos às entidades referidas nos números anteriores, que se destinem a custear as seguintes medidas:
 
 a) Apoio pré-natal a adolescentes e a mulheres em situação de risco e à promoção de iniciativas com esse fim;
 
@@ -56,7 +56,7 @@ f) Apoio à criação de infra-estruturas e serviços destinados a facilitar a c
 
 a) Institutos, fundações e associações que prossigam atividades de investigação, exceto as de natureza científica e de defesa do património histórico-cultural e do ambiente;
 
-b) Museus, bibliotecas e arquivos históricos e documentais;
+b) [Revogada;]
 
 c) Organizações não governamentais de ambiente (ONGA);
 
@@ -86,6 +86,6 @@ c) 140 %, quando atribuídos às creches, lactários e jardins-de-infância prev
 
 10 - As entidades a que se referem as alíneas a), e) e g) do n.º 6 devem obter junto do membro do Governo da tutela, previamente à obtenção dos donativos, a declaração do seu enquadramento no presente capítulo e do interesse ambiental, desportivo ou educacional das atividades prosseguidas ou das ações a desenvolver.
 
-11 - No caso de donativos em espécie, incluindo bens alimentares, o valor a considerar, para efeitos do cálculo da dedução ao lucro tributável, é o valor fiscal que os bens tiverem no exercício em que forem doados, deduzido, quando for caso disso, das depreciações ou provisões efetivamente praticadas e aceites como custo fiscal ao abrigo da legislação aplicável.
+11 - [Revogado.]
 
-12 - A dedução a efetuar nos termos dos n.os 3 a 8 não pode ultrapassar na sua globalidade 8/1000 do volume de vendas ou dos serviços prestados realizados pela empresa no exercício.
+12 - Os donativos concedidos nos termos dos n.os 3 a 8, bem como dos n.os 3 a 6 do artigo 62.º-A e dos n.os 15 e 16 do artigo 62.º-B, não podem ultrapassar na sua globalidade 1 % do volume de vendas ou dos serviços prestados realizados pela empresa no exercício.
