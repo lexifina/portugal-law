@@ -14,7 +14,7 @@ d) Despesas de funcionamento, até ao máximo de 55 % das despesas com o pessoal
 
 e) Despesas relativas à contratação de atividades de investigação e desenvolvimento junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida nos termos do artigo 37.º-A;
 
-f) Participação no capital de instituições de investigação e desenvolvimento e contribuições para fundos de investimento, públicos ou privados, que realizem investimentos de capital próprio e de quase-capital, tal como definidos na Comunicação da Comissão 2014/C19/04, de 22 de janeiro de 2014, em empresas dedicadas sobretudo a investigação e desenvolvimento, incluindo o financiamento da valorização dos seus resultados, cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida pela Agência Nacional de Inovação, S. A., nos termos do n.º 1 do artigo 37.º-A;
+f) Participação no capital de instituições de investigação e desenvolvimento, conforme definidas no Decreto-Lei n.º 63/2019, de 16 de maio, na sua redação atual, que estabelece o regime jurídico das instituições que se dedicam à investigação e desenvolvimento, ou em diploma que o venha a substituir;
 
 g) Custos com registo e manutenção de patentes;
 
@@ -26,7 +26,7 @@ j) Despesas com ações de demonstração que decorram de projetos de investiga�
 
 2 - Sem prejuízo do previsto na alínea e) do número anterior, não são consideradas quaisquer despesas incorridas no âmbito de projetos realizados exclusivamente por conta de terceiros, nomeadamente através de contratos e prestação de serviços de investigação e desenvolvimento.
 
-3 - A alínea h) do n.º 1 só é aplicável às micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003.
+3 - [Revogado.]
 
 4 - As despesas referidas na alínea j) do n.º 1 apenas são elegíveis quando tenham sido previamente comunicadas à entidade referida no n.º 1 do artigo 40.º
 
@@ -38,8 +38,8 @@ j) Despesas com ações de demonstração que decorram de projetos de investiga�
 
 8 - (Revogado.);
 
-9 - Para efeitos do previsto na alínea f) do n.º 1, considera-se empresa dedicada sobretudo a investigação e desenvolvimento aquela que cumpra os requisitos para o reconhecimento como empresa do setor da tecnologia, previstos no n.º 1 do artigo 3.º da Portaria n.º 195/2018, de 5 de julho, ainda que tenham sido constituídas há mais de seis anos e independentemente de terem obtido ou solicitado tal reconhecimento.
+9 - [Revogado.]
 
 10 - O disposto na alínea f) do n.º 1 não é aplicável às operações realizadas entre entidades com relações especiais nos termos do artigo 63.º do Código do IRC.
 
-11 - Para efeitos do número anterior considera-se existirem relações especiais entre o fundo de investimento e a respetiva sociedade gestora.
+11 - [Revogado.]

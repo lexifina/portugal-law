@@ -1,7 +1,3 @@
-Decreto-Lei n.º 162/2014
-
-de 31 de outubro
-
 A promoção da competitividade e do investimento tem sido uma prioridade do Governo desde o início da legislatura.
 
 Nesta matéria, durante o ano de 2013, foram adotadas iniciativas da maior relevância, nomeadamente o pacote para o investimento e a Reforma do Imposto sobre o Rendimento das Pessoas Coletivas (IRC).
