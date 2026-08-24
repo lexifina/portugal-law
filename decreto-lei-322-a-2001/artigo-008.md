@@ -13,3 +13,5 @@
 5 - É gratuito o acesso pela autoridade eclesiástica proponente à base de dados do registo de pessoas jurídicas canónicas.
 
 6 - É gratuito o reconhecimento presencial de assinatura efetuado em declarações ou requerimentos para fins de atribuição da nacionalidade portuguesa.
+
+7 - É gratuito o acesso pela Comissão de Proteção às Vítimas de Crimes às bases de dados de registos, para os efeitos previstos no artigo 13.º da Lei n.º 104/2009, de 14 de setembro.
