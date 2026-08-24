@@ -8,9 +8,9 @@ a) Quando constituírem os crimes previstos nos artigos 221.º, 262.º a 271.º,
 
 b) Contra portugueses, por portugueses que viverem habitualmente em Portugal ao tempo da sua prática e aqui forem encontrados.
 
-c) Quando constituírem os crimes previstos nos artigos 144.º-A, 144.º-B, 154.º-B e 154.º-C, 159.º a 161.º, 278.º a 280.º, 335.º, 372.º a 374.º, desde que o agente seja encontrado em Portugal e não possa ser extraditado ou entregue em resultado de execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o Estado Português;
+c) Quando constituírem os crimes previstos nos artigos 144.º-A, 144.º-B, 154.º-B e 154.º-C, 159.º, 161.º, 278.º a 280.º, 335.º, 372.º a 374.º, desde que o agente seja encontrado em Portugal e não possa ser extraditado ou entregue em resultado de execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o Estado Português;
 
-d) Quando constituírem os crimes previstos nos artigos 171.º, 172.º, 174.º, 175.º e 176.º a 176.º-B e, sendo a vítima menor, os crimes previstos nos artigos 144.º, 163.º e 164.º:
+d) Quando constituírem os crimes previstos nos artigos 160.º, 171.º, 172.º, 174.º, 175.º e 176.º a 176.º-B e, sendo a vítima menor, os crimes previstos nos artigos 144.º, 163.º e 164.º:
 
 i) Desde que o agente seja encontrado em Portugal e não possa ser extraditado ou entregue em resultado de execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o Estado Português; ou
 
