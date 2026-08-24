@@ -1,0 +1,19 @@
+## Secção VI
+
+## Actos de registo de navios
+
+# Artigo 16.º
+
+### Actos gratuitos
+
+São gratuitos os seguintes actos:
+
+a) Averbamentos de actualização dos registos por efeito da redenominação automática dos valores monetários;
+
+b) Rectificação de actos de registo ou documentos, resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
+
+c) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
+
+d) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas;
+
+e) (Revogada.)
