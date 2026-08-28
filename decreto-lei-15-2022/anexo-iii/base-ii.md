@@ -1,0 +1,13 @@
+# Base II
+
+### Âmbito da concessão
+
+1 - A concessão da RND abrange a exploração das infraestruturas das redes de distribuição de eletricidade em AT e MT, compreendendo o exercício das seguintes atividades:
+
+a) Distribuição de eletricidade;
+
+b) Venda de acessos de energia a comercializadores e agregadores.
+
+2 - As atividades previstas no número anterior e as funções que as integram são exercidas nos termos estabelecidos no Regulamento de Relações Comerciais.
+
+3 - A área da concessão abrange todo o território do continente.
