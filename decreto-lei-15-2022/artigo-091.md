@@ -1,4 +1,4 @@
-## Secção XIV
+## Secção XV
 
 ## Equipamentos e contagem
 

@@ -14,7 +14,7 @@
 
 a) Declaração de conformidade de execução, assinada pelo responsável pela execução e pela entidade instaladora que ateste que a instalação está concluída e preparada para operar de acordo com o projeto aprovado e em observância das condições integradas na decisão final de atribuição da respetiva licença de produção, bem como, se for caso disso, que as alterações efetuadas estão em conformidade com as normas legais e regulamentares que lhe são aplicáveis;
 
-b) De parecer do operador da rede competente com indicação de que estão reunidas as condições de ligação e injeção de energia na rede, designadamente as previstas no Regulamento (UE) 2016/631 da Comissão, de 14 de abril de 2016, e da Portaria n.º 73/2020, de 16 de março, quando aplicáveis, salvo se, quando lhe for solicitada a pronúncia, este indicar que se pronuncia no relatório de vistoria, devendo, nesse caso, ser entregue o relatório de vistoria em substituição do parecer.
+b) De parecer do operador da rede competente com indicação de que estão reunidas as condições de ligação e injeção de energia na rede, designadamente as previstas no Regulamento (UE) 2016/631 da Comissão, de 14 de abril de 2016, e da Portaria n.º 73/2020, de 16 de março, quando aplicáveis, salvo se, quando lhe for solicitada a pronúncia, este indicar que se pronuncia no relatório de vistoria, devendo, nesse caso, ser entregue o relatório de vistoria em substituição do parecer;
 
 c) De parecer favorável do gestor global do SEN, se não tiver sido consultado nos termos previstos no artigo 26.º;
 
@@ -31,3 +31,5 @@ e) Documento comprovativo da disponibilidade dos terrenos para a instalação do
 7 - A licença de exploração define as condições a que fica sujeita a exploração industrial e, uma vez concedida, passa a integrar as condições da licença de produção do centro eletroprodutor, da UPAC ou da instalação de armazenamento a que se refere.
 
 8 - A licença de exploração pode determinar, a pedido do titular da licença de produção, a entrada em funcionamento faseada da instalação.
+
+9 - Com o pedido de vistoria, a DGEG emite licença de exploração provisória que habilita o centro eletroprodutor, a UPAC ou a instalação de armazenamento a entrar em funcionamento.

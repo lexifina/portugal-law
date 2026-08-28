@@ -10,7 +10,7 @@
 
 ### Proteção dos consumidores
 
-1 - No exercício das atividades abrangidas pelo presente decreto-lei, é assegurada a proteção dos consumidores, nomeadamente quanto à prestação do serviço, ao exercício do direito à informação, à qualidade da prestação do serviço, informação adequada quanto a tarifas e preços e à resolução de litígios, de acordo com o previsto na Lei n.º 23/96, de 26 de julho, na sua redação atual, e da Lei n.º 24/96, de 31 de julho, na sua redação atual.
+1 - No exercício das atividades abrangidas pelo presente decreto-lei é assegurada a proteção dos consumidores, nomeadamente quanto à prestação e continuidade do serviço, ao exercício do direito à informação, à qualidade da prestação do serviço, informação adequada quanto a tarifas e preços e à resolução de litígios, de acordo com o previsto na Lei n.º 23/96, de 26 de julho, e na Lei n.º 24/96, de 31 de julho.
 
 2 - É assegurada proteção ao cliente final economicamente vulnerável, através da adoção de medidas de salvaguarda destinadas a satisfazer as suas necessidades de consumo.
 

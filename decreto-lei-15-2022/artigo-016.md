@@ -11,3 +11,5 @@
 4 - No prazo de cinco dias a contar da data da apresentação do pedido e até à entrada em funcionamento da plataforma eletrónica referida no artigo anterior, a DGEG informa o interessado sobre o gestor do respetivo procedimento.
 
 5 - A substituição do gestor de procedimento é notificada ao interessado.
+
+6 - Nos procedimentos de controlo prévio de projetos de energias renováveis, o gestor de procedimento acompanha todos os procedimentos aplicáveis ao projeto, servindo como ponto único de contacto do requerente.

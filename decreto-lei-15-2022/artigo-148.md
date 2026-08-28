@@ -14,6 +14,6 @@ b) Aos produtores de eletricidade que beneficiem de regimes de remuneração gar
 
 c) Aos autoconsumidores que injetem a energia excedentária na RESP.
 
-2 - Nos casos referidos nas alíneas a) e c) do número anterior, a aquisição de eletricidade pelo agregador de último recurso ocorre quando não exista oferta de agregadores de eletricidade em regime de mercado ou quando o agregador tenha ficado impedido de exercer a atividade de agregador de eletricidade, aplicando-se as tarifas de referência definidas pela ERSE.
+2 - Nos casos referidos nas alíneas a) e c) do número anterior, a aquisição de eletricidade pelo agregador de último recurso ocorre a produtores de eletricidade ou autoconsumidores que não tenham contratualizado com um agregador registado a aquisição de eletricidade.
 
-3 - Nos casos previstos no número anterior, os produtores de eletricidade a partir de fontes de energia renováveis e os autoconsumidores devem, no prazo máximo de quatro meses, contratualizar com um agregador registado a aquisição de eletricidade, de acordo com regras definidas na regulamentação da ERSE.
+3 - Nos casos previstos no número anterior, os produtores de eletricidade a partir de fontes de energia renováveis e os autoconsumidores devem, no prazo máximo de seis meses, contratualizar com um agregador registado a aquisição de eletricidade, de acordo com regras definidas na regulamentação da ERSE.

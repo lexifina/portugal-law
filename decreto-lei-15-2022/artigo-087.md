@@ -26,7 +26,7 @@ c) Assegurar a interoperabilidade com os sistemas do operador da rede, mediante 
 
 6 - No ACC e, salvo no caso de novas adesões ou saídas, os modos de partilha da energia produzida são alterados nos termos da regulamentação da ERSE.
 
-7 - Os sistemas do operador de rede são adaptados no prazo de seis meses de modo a permitirem a medição do consumo a que se refere o n.º 1, cabendo à ERSE definir o modelo de partilha referido na alínea a) do n.º 2.
+7 - Os sistemas do operador de rede devem permitir a medição do consumo a que se refere o n.º 1, cabendo à ERSE definir o modelo de partilha referido na alínea a) do n.º 2.
 
 8 - Quando a comunicação do modelo de partilha tenha impactos na faturação de cada autoconsumidor, o operador de rede executa-a no período de faturação imediatamente subsequente ao da formação expressa ou tácita da sua aceitação.
 
@@ -41,3 +41,7 @@ c) Os requisitos e as especificações necessárias ao cumprimento do referido n
 10 - As matérias da medição, leitura e disponibilização de dados, as compensações devidas pelos operadores de rede pelo incumprimento das informações e instruções mencionadas no número anterior, assim como as demais matérias reguladas no presente artigo são objeto de regulamentação pela ERSE.
 
 11 - O fornecimento de energia reativa obedece às regras do Regulamento das Redes.
+
+12 - Caso os clientes finais que pretendam participar na partilha de energia sejam de dimensão superior à das pequenas e médias empresas, a capacidade instalada da instalação de produção associada à partilha de energia deve ser, no máximo, de 6 MW.
+
+13 - À partilha de energia é aplicável, quando estejam em causa litígios de consumo, o disposto no n.º 8 do artigo 185.º

@@ -1,8 +1,8 @@
-## Secção VIII
+## Secção IX
 
 ## Acesso e ligação à rede elétrica de serviço público
 
-# Artigo 51.º
+# Artigo 51
 
 ### Princípios aplicáveis à receção de eletricidade pela rede elétrica de serviço público
 
@@ -18,4 +18,4 @@ d) Racionalidade na gestão das capacidades disponíveis;
 
 e) Transparência das decisões, designadamente através de mecanismos de informação e de publicitação.
 
-2 - O acesso à RESP pode ser conferido com restrições, nos termos a regulamentar pela ERSE.
+2 - (Revogado.)

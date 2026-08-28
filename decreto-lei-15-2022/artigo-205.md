@@ -14,7 +14,7 @@ d) Salvaguardar o equilíbrio económico-financeiro das atividades reguladas e a
 
 e) Garantir que os operadores das redes do SEN recebem incentivos adequados para aumentar a eficiência das redes, promover a integração do mercado e contribuir para a descarbonização e inovação do setor;
 
-f) Garantir que os clientes beneficiam do funcionamento eficiente do mercado, através da promoção de uma concorrência efetiva e da garantia de proteção dos consumidores;
+f) Garantir que os clientes beneficiam do funcionamento eficiente do mercado, através da promoção de uma concorrência efetiva e da garantia de proteção dos consumidores, incluindo a monitorização da eliminação de obstáculos e restrições injustificados ao fomento do autoconsumo, da partilha de energia, das CER e das comunidades de cidadãos para a energia;
 
 g) Contribuir para alcançar padrões elevados de serviço universal do abastecimento de eletricidade, para a proteção dos clientes finais economicamente vulneráveis e para a mudança de comercializador;
 

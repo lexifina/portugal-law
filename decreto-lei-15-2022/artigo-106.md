@@ -40,4 +40,6 @@ l) Prestar à ERSE a informação técnica e financeira com incidência direta o
 
 m) Prestar as informações que lhe sejam solicitadas pela DGEG, que podem incluir a realização de estudos, testes ou simulações que sejam necessários, designadamente para efeitos de definição da política energética;
 
-n) Manter atualizada uma base de dados de acordo com a base de dados de referência, criada em articulação com a DGEG, integrando informação de natureza estatística e previsional sobre os procedimentos de controlo prévio das atividades e instalações e o funcionamento do SEN.
+n) Manter atualizada uma base de dados de acordo com a base de dados de referência, criada em articulação com a DGEG, integrando informação de natureza estatística e previsional sobre os procedimentos de controlo prévio das atividades e instalações e o funcionamento do SEN;
+
+o) Publicar dados sobre a quota de eletricidade produzida a partir de fonte renovável e o teor de emissões de gases com efeito de estufa do total da respetiva eletricidade produzida, com base em fatores de emissão padrão, em cada zona de ofertas ou áreas de preços e em intervalos equivalentes à frequência de ajustamento do mercado.

@@ -28,6 +28,6 @@ i) A partilha justa entre empresas reguladas e clientes dos resultados alcançad
 
 j) A promoção de uma regulação económica que permita às empresas reguladas o desempenho das suas atividades de uma forma economicamente eficiente, respeitando os padrões de qualidade de serviço aplicáveis e os níveis adequados de segurança na produção, no transporte e na distribuição de energia elétrica;
 
-k) Contribuição para a promoção da eficiência energética e da qualidade ambiental.
+k) Aplicação do princípio da prioridade à eficiência energética, salvaguardando os objetivos climáticos e de sustentabilidade, e promovendo a qualidade ambiental.
 
 2 - A fixação das demais tarifas e preços de venda a clientes finais praticados pelos comercializadores em regime de mercado deve ter em conta os princípios estabelecidos no número anterior, com as necessárias adaptações.

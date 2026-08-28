@@ -18,7 +18,7 @@ c) Os encargos, plano de pagamentos e plano de apresentação e liberação de g
 
 5 - O valor definitivo a suportar pelo interessado corresponde ao valor final a apurar após a conclusão de todos os trabalhos, devendo, com a celebração do acordo, efetuar-se o pagamento do valor correspondente a 5 % do orçamento apresentado pelo operador de rede, sendo caucionado o remanescente do valor que é posteriormente liberado em função do cumprimento do plano de pagamentos acordado.
 
-6 - Compete à DGEG, a pedido do interessado e após parecer da Entidade Reguladora dos Serviços Energéticos (ERSE), arbitrar os valores da comparticipação devida pelos interessados quando sobre aqueles não haja acordo entre as partes.
+6 - Compete à ERSE, a pedido do interessado, arbitrar os valores da comparticipação devida pelos interessados quando sobre aqueles não haja acordo entre as partes.
 
 7 - Os centros eletroprodutores, as UPAC e as instalações de armazenamento que tenham obtido título de reserva de capacidade de injeção na RESP na modalidade de acordo entre o interessado e o operador de rede estão isentos de pagamento do encargo para comparticipação dos reforços de rede, nos termos definidos regulamentarmente pela ERSE.
 

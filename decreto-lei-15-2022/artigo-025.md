@@ -12,7 +12,7 @@ b) A rejeição liminar quando, da análise dos elementos instrutórios, resulta
 
 3 - A falta de apresentação dos elementos solicitados ou a sua apresentação deficiente implica o indeferimento do pedido, a proferir no prazo de 10 dias contados do final do prazo para apresentação dos elementos adicionais.
 
-4 - Previamente à rejeição liminar e ao indeferimento da pretensão, a DGEG promove a audição do requerente, nos termos previstos no CPA.
+4 - Previamente ao indeferimento da pretensão, a DGEG promove a audição do requerente, nos termos previstos no CPA.
 
 5 - Não ocorrendo rejeição liminar nem indeferimento nos termos e prazos previstos nos números anteriores, presume-se que o requerimento se encontra corretamente instruído, incumbindo à entidade licenciadora, no prazo de cinco dias após a decisão, expressa ou tácita, das questões de ordem formal ou processual:
 

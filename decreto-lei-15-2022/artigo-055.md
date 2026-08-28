@@ -1,4 +1,4 @@
-## Secção IX
+## Secção X
 
 ## Registo prévio
 
@@ -50,16 +50,16 @@ a) De um mês, para as unidades de produção de fonte solar com uma potência i
 
 b) De três meses, para as restantes unidades de produção de fonte solar e armazenamento de energia, incluindo as unidades integradas em edifícios e em estruturas artificiais, com exceção das superfícies de massas de água artificiais;
 
-c) De dois anos, para o reequipamento dos projetos de energias renováveis offshore.
+c) De dois anos, para o reequipamento dos projetos de energias renováveis offshore, sendo esse prazo reduzido para um ano, se localizados em ZAER.
 
 12 - Nos termos e para os efeitos do disposto na alínea a) do número anterior:
 
-a) Os prazos referidos nos n.os 1, 2, 3 e 7 são reduzidos para metade;
+a) Os prazos referidos nos n.ºs 1, 2, 3 e 7 são reduzidos para metade;
 
 b) Na falta de emissão da decisão no prazo determinado para o procedimento de registo prévio, ocorre o deferimento tácito, contanto que a potência instalada não exceda a capacidade existente de ligação à rede de distribuição.
 
 13 - O disposto na alínea b) do n.º 11 aplica-se desde que o objetivo principal das referidas estruturas artificiais não consista na conversão de energia solar ou no armazenamento de energia.
 
-14 - O prazo referido na alínea c) do n.º 11 pode ser prorrogado, por despacho do diretor-geral da DGEG, pelo período máximo de três meses, mediante a verificação fundamentada de circunstâncias extraordinárias decorrentes dos projetos.
+14 - O prazo referido na alínea c) do n.º 11 pode ser prorrogado, por despacho do diretor-geral da DGEG, uma única vez e pelo período máximo de seis ou, caso o projeto se localize em ZAER, três meses, mediante a verificação fundamentada de circunstâncias extraordinárias decorrentes dos projetos.
 
 15 - Os requerentes são notificados, em sede de audiência dos interessados nos termos previstos no Código do Procedimento Administrativo, sobre a prorrogação dos prazos nos termos do número anterior.

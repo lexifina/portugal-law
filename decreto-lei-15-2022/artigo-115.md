@@ -19,3 +19,7 @@ a) Adquirir eletricidade para comercialização;
 b) Deter, desenvolver, gerir ou explorar instalações de armazenamento, exceto quando estes sistemas constituam componentes de rede completamente integrados e mediante parecer favorável da ERSE;
 
 c) Deter, desenvolver, gerir ou explorar pontos de carregamento, sem prejuízo da detenção de pontos de carregamento privados que se destinem exclusivamente a uso próprio ou que se enquadrem em situações excecionais, aprovadas pela ERSE, com vista, nomeadamente, à promoção da mobilidade elétrica.
+
+5 - É aplicável aos operadores das redes de distribuição em BT o disposto na alínea c) do n.º 1 e nos n.ºs 2 a 4 do artigo 113.º
+
+6 - Os operadores das redes de distribuição em BT que abasteçam um número de clientes inferior a 100 000 ficam dispensados do cumprimento da obrigação de informação constante da alínea c) do n.º 1 e dos n.ºs 2 e 3 do artigo 113.º

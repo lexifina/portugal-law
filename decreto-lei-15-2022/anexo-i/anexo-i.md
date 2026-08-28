@@ -1,6 +1,6 @@
-# ANEXO I
+# Anexo I
 
-### [a que se referem os n.os 1 e 2 do artigo 24.º, a alínea b) do n.º 5 do artigo 25.º, a alínea e) do n.º 3 do artigo 33.º, o n.º 2 do artigo 35.º, o n.º 1 do artigo 43.º e o artigo 222.º]
+### [a que se referem os n.ºs 1 e 2 do artigo 24.º, a alínea b) do n.º 5 do artigo 25.º, a alínea e) do n.º 3 do artigo 33.º, o n.º 2 do artigo 35.º, o n.º 1 do artigo 43.º e o artigo 222.º]
 
 1 - Elementos instrutórios do pedido de atribuição de licença de produção:
 
@@ -93,3 +93,15 @@ e) Projeto de instalações elétricas e ramais de ligação necessários;
 f) Projeto de assinalamento marítimo nos casos de localização em espaço marítimo sob soberania ou jurisdição nacional; e
 
 g) Outros elementos definidos por despacho do diretor-geral da DGEG, pelo diretor-geral da Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos ou pelo diretor-geral da Direção-Geral de Agricultura e Desenvolvimento Rural.
+
+9 - No caso de projetos de energias renováveis, o pedido de atribuição de licença de produção deve ser instruído com o plano de medidas destinadas a promover a participação e envolvimento das comunidades no projeto e a sua aceitação pública a que se refere o artigo 17.º-A.
+
+10 - O pedido de atribuição de licença de produção a projetos de energias renováveis localizados em ZAER deve ser instruído com:
+
+a) Os elementos instrutórios previstos nas alíneas a) a h), k) e l) do n.º 1;
+
+b) Os elementos que demonstrem que o projeto se encontra localizado em ZAER, nos termos do n.º 5 do artigo 40.º-A;
+
+c) As informações referidas no n.º 1 do artigo 42.º-A, com o grau de detalhe referido no n.º 2 do mesmo artigo, bem como os respetivos elementos de suporte.
+
+11 - Ao pedido de atribuição de licença de produção a projetos de energias renováveis localizados em ZAER é aplicável o disposto nos n.ºs 3 a 7.

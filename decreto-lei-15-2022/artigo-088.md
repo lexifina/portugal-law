@@ -45,3 +45,7 @@ g) Permitir e facilitar o acesso às UPAC ao pessoal técnico das entidades refe
 h) Assegurar que os equipamentos de produção instalados se encontram certificados;
 
 i) Cessada a atividade de autoconsumo, adotar os procedimentos necessários para a remoção da UPAC, demais sistemas de gestão, equipamentos e instalações auxiliares, quando existam.
+
+3 - A UPAC pode ser propriedade de terceiros ou gerida por terceiros, desde que os terceiros se encontrem, mediante acordo, sujeitos às instruções do autoconsumidor, sendo este último o responsável pelos processos associados ao setor elétrico, enquanto utilizador da rede.
+
+4 - A propriedade ou a gestão da instalação nos termos do número anterior não implica a qualificação dos terceiros como autoconsumidores.

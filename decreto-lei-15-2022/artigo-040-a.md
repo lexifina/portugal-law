@@ -1,3 +1,7 @@
+## Secção VII
+
+## Zonas de aceleração da implantação de energia renovável
+
 # Artigo 40.º-A
 
 ### Zonas de aceleração da implantação de energia renovável

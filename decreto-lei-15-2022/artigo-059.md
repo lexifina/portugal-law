@@ -1,4 +1,4 @@
-## Secção X
+## Secção XI
 
 ## Comunicação prévia
 
@@ -24,10 +24,12 @@ c) Emissão, de forma automática, do comprovativo de apresentação da comunica
 
 6 - O ORD disponibiliza as condições de ligação à RESP e respetivo orçamento nos 60 dias subsequentes à solicitação realizada nos termos do número anterior.
 
-7 - O cumprimento das condições estabelecidas pelo ORD é atestado mediante termo de responsabilidade subscrito por técnico habilitado, o qual é inserido na plataforma eletrónica a que se refere o n.º 2.
+7 - Após pronúncia do ORD que ateste a existência de capacidade de receção requerida, ou decorridos 30 dias sem que tenha havido pronúncia, a DGEG procede à respetiva atribuição por ordem de precedência das comunicações.
 
-8 - O ORD regista na plataforma eletrónica a que se refere o n.º 2 a data da entrada em funcionamento.
+8 - O cumprimento das condições estabelecidas pelo ORD é atestado mediante termo de responsabilidade subscrito por técnico habilitado, o qual é inserido na plataforma eletrónica a que se refere o n.º 2.
 
-9 - As alterações à comunicação prévia são sujeitas a averbamento a realizar na plataforma eletrónica a que se refere o n.º 2.
+9 - O ORD regista na plataforma eletrónica a que se refere o n.º 2 a data da entrada em funcionamento.
 
-10 - A operacionalização do procedimento de comunicação prévia, bem como as normas técnicas aplicáveis e os documentos instrutórios necessários, são aprovadas por despacho do diretor-geral da DGEG, no prazo de 60 dias após a publicação do presente decreto-lei, e são publicitadas no sítio na Internet da DGEG.
+10 - As alterações à comunicação prévia são sujeitas a averbamento a realizar na plataforma eletrónica a que se refere o n.º 2.
+
+11 - A operacionalização do procedimento de comunicação prévia, bem como as normas técnicas aplicáveis e os documentos instrutórios necessários, são aprovadas por despacho do diretor-geral da DGEG, no prazo de 60 dias após a publicação do presente decreto-lei, e são publicitadas no sítio na Internet da DGEG.

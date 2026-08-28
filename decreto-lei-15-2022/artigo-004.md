@@ -8,8 +8,10 @@
 
 3 - Todas as atividades previstas no presente decreto-lei obedecem ao princípio da livre concorrência, incluindo as atividades em regime exclusivo, na medida em que as respetivas concessões e licenças são atribuídas através de procedimentos concorrenciais.
 
-4 - Presume-se o interesse público, para a saúde e segurança públicas, ao planeamento, construção e exploração dos centros eletroprodutores de fonte renovável e/ou de instalações de armazenamento, incluindo a sua ligação à rede, no âmbito:
+4 - Presume-se o superior interesse público, e a importância para a saúde e segurança públicas, ao planeamento, construção e exploração dos centros eletroprodutores de fonte renovável e/ou de instalações de armazenamento, incluindo a sua ligação à rede, no âmbito:
 
 a) Da alínea c) do n.º 11 do artigo 10.º e da alínea c) do n.º 1 do artigo 20.º do Decreto-Lei n.º 140/99, de 24 de abril, na sua redação atual;
 
-b) Da alínea c) do n.º 5 do artigo 51.º da Lei n.º 58/2005, de 29 de dezembro, na sua redação atual.
+b) Da alínea c) do n.º 5 do artigo 51.º da Lei n.º 58/2005, de 29 de dezembro, na sua redação atual;
+
+c) Dos planos diretores intermunicipais e municipais, sobrepondo-se ao interesse público de índole regional, municipal ou local.

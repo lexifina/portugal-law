@@ -18,4 +18,4 @@ e) A remuneração da atividade de gestão de garantias no âmbito do SEN;
 
 f) Os mecanismos de auditoria a realizar ao gestor de garantias.
 
-3 - A regulamentação prevista no presente artigo pode ainda conter disposições cautelares complementares visando evitar ou mitigar os riscos para o SEN, bem como mecanismos de regulação assimétrica que assegurem a promoção da concorrência.
+3 - A regulamentação prevista no presente artigo pode, ainda, conter disposições cautelares complementares visando evitar ou mitigar os riscos para o SEN, bem como mecanismos de regulação assimétrica que assegurem a promoção da concorrência e condições propícias para garantir a acessibilidade dos produtos de cobertura às comunidades de cidadãos para a energia e às CER.
