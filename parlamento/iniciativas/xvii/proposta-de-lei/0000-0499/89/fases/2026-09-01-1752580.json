@@ -1,0 +1,69 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "89",
+    "id": "357048",
+    "titulo": "Assegura a priorização do transporte e abastecimento de medicamentos às Regiões Autónomas, alterando o regime jurídico dos medicamentos de uso humano"
+  },
+  "fase": "Admissão",
+  "codigo_fase": "20",
+  "data_registo": "2026-09-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a63314e3256684d6a49304c544a6d4e7a45744e47466b4d6931694e7a55354c54646a4e6a566b4d6a59354f4745354e53356b62324e34&fich=757ea224-2f71-4ad2-b759-7c65d2698a95.docx&Inline=true",
+        "anexoNome": "Nota de admissibilidade"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a52684e44566b5a6a49344c574d32597a63744e4441324d6931694d3251304c57493559546c6a59546c684d4445305a5335775a47593d&fich=4a45df28-c6c7-4062-b3d4-b9a9ca9a014e.pdf&Inline=true",
+        "anexoNome": "Despacho n.º 271-XVII"
+      }
+    ],
+    "CodigoFase": "20",
+    "Comissao": null,
+    "DataFase": "2026-09-01",
+    "EvtId": "2",
+    "Fase": "Admissão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Despacho do PAR: \"Nos termos do meu Despacho n.º 271/XVII.\"",
+    "OevId": "1752580",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1035751",
+        "obs": "Despacho n.º 271/XVII — Admissibilidade da Proposta de Lei n.º 89/XVII/1.ª – Assegura a priorização do transporte e abastecimento de medicamentos às regiões autónomas, alterando o regime jurídico dos medicamentos de uso humano",
+        "pag": [
+          "2-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-09-03",
+        "pubLeg": "XVII",
+        "pubNr": "100",
+        "pubSL": "1",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/17/01/100/2026-09-03/2?pgs=2-6&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
