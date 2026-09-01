@@ -1,0 +1,17 @@
+# Artigo 132.º
+
+### (Relatório e convocação)
+
+1 - A administração da sociedade organiza um relatório justificativo da transformação, o qual é acompanhado:
+
+a) Do balanço do último exercício, desde que tenha sido encerrado nos seis meses anteriores à data da deliberação de transformação ou de um balanço reportado a uma data que não anteceda o 1.º dia do 3.º mês anterior à data da deliberação de transformação;
+
+a) Do balanço da sociedade a transformar, que será ou o balanço do último exercício, devidamente aprovado, encerrado menos de seis meses antes da deliberação de transformação, ou um balanço elaborado especialmente para o efeito;
+
+b) Do projecto do contrato pelo qual a sociedade passará a reger-se.
+
+2 - No relatório referido no número anterior, a administração deve assegurar que a situação patrimonial da sociedade não sofreu modificações significativas desde a data a que se reporta o balanço considerado ou, no caso contrário, indicar as que tiverem ocorrido.
+
+3 - Aplica-se, com as necessárias adaptações, o disposto nos artigos 99.º e 101.º, devendo os documentos estar à disposição dos sócios a partir da data de convocação da assembleia geral.
+
+4 - O disposto nos números anteriores não obsta à aprovação da transformação nos termos previstos no artigo 54.º, devendo neste caso os documentos estar à disposição dos sócios com a antecedência prevista para a convocação da assembleia.
