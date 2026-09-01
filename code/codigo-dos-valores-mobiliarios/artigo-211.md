@@ -10,12 +10,14 @@ b) Condições anormais de negociação;
 
 c) Comportamentos suscetíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado, nomeadamente os que possam constituir abuso de mercado.
 
-2 - A entidade gestora comunica imediatamente à CMVM, fornecendo todas as informações relevantes para a respetiva investigação, e tendo em conta o disposto na legislação da União Europeia:
+2 - Os intermediários financeiros e as entidades gestoras que operam um sistema de negociação multilateral ou um sistema de negociação organizado dispõem de mecanismos para assegurar o cumprimento das normas de qualidade dos dados previstas na legislação da União Europeia.
+
+3 - A entidade gestora comunica imediatamente à CMVM, fornecendo todas as informações relevantes para a respetiva investigação, e tendo em conta o disposto na legislação da União Europeia:
 
 a) A ocorrência de alguma das situações referidas no número anterior;
 
 b) As situações de incumprimento relevante de regras relativas ao funcionamento do mercado ou sistema.
 
-3 - A entidade gestora comunica à CMVM as ofertas e operações suspeitas de constituir abuso de mercado nos termos da legislação da União Europeia.
+4 - A entidade gestora comunica à CMVM as ofertas e operações suspeitas de constituir abuso de mercado nos termos da legislação da União Europeia.
 
-4 - Quando a CMVM verificar que foram violados deveres previstos na legislação da União Europeia sobre abuso de mercado, ou outras situações de incumprimento relevantes referidas nos números anteriores, dá disso conhecimento à Autoridade Europeia dos Valores Mobiliários e dos Mercados e às autoridades competentes de outro Estado-Membro, incluindo as informações relevantes recebidas nos termos do número anterior.
+5 - Quando a CMVM verificar que foram violados deveres previstos na legislação da União Europeia sobre abuso de mercado, ou outras situações de incumprimento relevantes referidas nos números anteriores, dá disso conhecimento à Autoridade Europeia dos Valores Mobiliários e dos Mercados e às autoridades competentes de outro Estado-Membro, incluindo as informações relevantes recebidas nos termos do número anterior.

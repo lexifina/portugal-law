@@ -6,9 +6,9 @@
 
 2 - A atividade do agente vinculado é exercida:
 
-a) Por pessoas singulares, estabelecidas em Portugal, não integradas na estrutura organizativa do intermediário financeiro;
+a) Por pessoas singulares, não integradas na estrutura organizativa do intermediário financeiro; ou
 
-b) Por sociedades comerciais, com sede estatutária em Portugal.
+b) Por sociedades comerciais.
 
 3 - O agente vinculado deve ser idóneo e possuir qualificação e aptidão profissional adequadas e, caso preste informações ou consultoria para investimento sobre instrumentos financeiros, deve cumprir com os requisitos previstos no artigo 305.º-G.
 

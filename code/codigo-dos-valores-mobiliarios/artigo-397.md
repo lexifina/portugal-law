@@ -20,7 +20,7 @@ f) De respeitar as regras de prioridade na transmissão e na execução de orden
 
 g) De prestar aos clientes a informação devida;
 
-h) De não celebrar, sem autorização ou confirmação do cliente, contratos em que seja contraparte.
+h) De não celebrar, sem autorização ou confirmação do cliente, contratos em que seja contraparte;
 
 i) De divulgar ordens que não sejam imediatamente executáveis;
 
@@ -34,13 +34,13 @@ m) De respeitar a exigência de forma escrita nos contratos de intermediação f
 
 n) De respeitar as regras relativas à apreciação do carácter adequado da operação em função do perfil do cliente;
 
-o) De adotar e aplicar políticas e procedimentos relativas à produção e distribuição de instrumentos financeiros produzidos ou comercializados pelo intermediário financeiro;
+o) De adotar e aplicar políticas e procedimentos relativos à produção e distribuição de instrumentos financeiros produzidos ou comercializados pelo intermediário financeiro;
 
-p) De não cobrar comissões proibidas;
+p) De não receber remuneração, comissão ou benefício não pecuniário proibidos ou em condições não permitidas;
 
 q) De divulgação e comunicação da informação exigida.
 
-3 - (Revogado).
+3 - [Revogado.]
 
 4 - Constitui contraordenação muito grave a violação de proibição ou restrição de comercialização, distribuição ou venda de instrumentos financeiros ou de exercício de determinada atividade ou prática financeira, adotada pela CMVM ou pela Autoridade Europeia dos Valores Mobiliários e dos Mercados.
 
@@ -48,7 +48,7 @@ q) De divulgação e comunicação da informação exigida.
 
 a) De conservar os documentos pelo prazo legalmente exigido;
 
-b) (Revogada).
+b) [Revogada.]
 
 c) De aceitar ordens;
 

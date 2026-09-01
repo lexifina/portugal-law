@@ -4,7 +4,7 @@
 
 1 - A decisão de suspensão ou de exclusão produz efeitos imediatos.
 
-2 - A suspensão mantém-se pelo tempo estritamente necessário à regularização da situação que lhe deu origem, não podendo cada período de suspensão ser superior a 10 dias úteis.
+2 - A suspensão mantém-se pelo tempo estritamente necessário à regularização da situação que lhe deu origem.
 
 3 - A suspensão da negociação não exonera o emitente do cumprimento das obrigações de informação a que esteja sujeito.
 

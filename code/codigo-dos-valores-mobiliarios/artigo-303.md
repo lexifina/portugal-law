@@ -2,13 +2,13 @@
 
 ### Cancelamento do registo
 
-1 - (Revogado.)
+1 - [Revogado.]
 
-2 - A decisão de cancelamento que não seja fundamentada na revogação ou caducidade da autorização é precedida de parecer do Banco de Portugal, a emitir no prazo de 15 dias, quando este tenha competência para a autorização.
+2 - A decisão de cancelamento do registo, exceto nos casos em que esta é fundamentada na revogação ou caducidade da autorização, é precedida de comunicação ao Banco de Portugal, com a antecedência de 15 dias, quando este tenha competência para a autorização.
 
-3 - A decisão de cancelamento é comunicada:
+3 - A decisão de cancelamento do registo é comunicada:
 
-a) Ao Banco de Portugal, salvo no que respeita às sociedades de consultoria para investimento ou outras entidades para as quais este não tenha competência para a autorização;
+a) Ao Banco de Portugal, salvo no que respeita às entidades para as quais este não tenha competência para a autorização.
 
 b) Às autoridades competentes dos Estados-Membros onde o intermediário financeiro tenha sucursais ou exerça atividade em livre prestação de serviços; e
 

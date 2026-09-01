@@ -18,4 +18,10 @@ c) A declaração da insolvência, nos demais casos.
 
 5 - Os atos necessários à execução do disposto nos números anteriores estão dispensados do pagamento de qualquer taxa, emolumento ou comissão.
 
-6 - A CMVM pode regulamentar o disposto no presente artigo.
+6 - O emitente, ou o intermediário financeiro que o represente, fica dispensado do dever de envio do extrato periódico previsto na alínea a) do n.º 4 do artigo 85.º, exceto se:
+
+a) Ocorrerem alterações em relação ao último extrato emitido; ou
+
+b) O envio de extrato for solicitado pelo titular dos valores mobiliários registados.
+
+7 - A CMVM pode regulamentar o disposto no presente artigo.

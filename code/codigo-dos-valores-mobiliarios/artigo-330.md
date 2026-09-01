@@ -20,17 +20,13 @@ a) Informa o cliente, nos termos da legislação da União Europeia, sobre a sua
 
 b) Não pode iniciar a prestação de serviços antes de o cliente ter dado o seu consentimento.
 
-6 - As alterações relevantes na política de execução de ordens são comunicadas ao cliente antes da sua aplicação.
+6 - As alterações relevantes nos mecanismos de execução de ordens ou na política de execução de ordens são comunicadas ao cliente antes da sua aplicação.
 
 7 - A execução de ordens de clientes fora de uma plataforma de negociação depende de consentimento expresso do cliente, o qual pode ser dado sob a forma de um acordo geral ou em relação a cada operação.
 
 8 - O intermediário financeiro demonstra, a pedido do cliente, que as suas ordens foram executadas de acordo com a política de execução que lhe foi transmitida e deve demonstrar, a pedido da CMVM, que as ordens executadas cumprem o disposto no presente artigo.
 
-9 - O intermediário financeiro avalia a política de execução de ordens, designadamente em relação às estruturas de negociação, nos termos da legislação da União Europeia:
-
-a) Anualmente, por forma a identificar e, se necessário, corrigir eventuais deficiências;
-
-b) Sempre que ocorra uma alteração relevante, suscetível de afetar a sua capacidade de continuar a obter o melhor resultado possível, em termos consistentes, utilizando as estruturas de negociação incluídas na sua política de execução, devendo ter em conta nomeadamente as informações publicadas nos termos dos n.os 14 a 17.
+9 - O intermediário financeiro avalia, periodicamente e sempre que relevante, a eficácia da sua política e mecanismos de execução de ordens, por forma a identificar e, se necessário, corrigir deficiências, devendo, em particular, avaliar se as estruturas de negociação incluídas na sua política de execução de ordens permitem obter o melhor resultado possível para os clientes.
 
 10 - As ordens podem ser executadas parcialmente, salvo indicação em contrário do ordenador.
 
@@ -38,20 +34,12 @@ b) Sempre que ocorra uma alteração relevante, suscetível de afetar a sua capa
 
 12 - Nos casos em que a ordem possa ser executada em mais do que uma forma organizada de negociação, o intermediário considera as comissões por si cobradas ao cliente e os demais custos de execução em cada forma organizada de negociação de modo a avaliar as melhores condições.
 
-13 - O intermediário financeiro não pode receber qualquer pagamento, desconto ou prestação não pecuniária pela execução de ordens numa determinada forma organizada de negociação que viole os deveres aplicáveis em matéria de conflitos de interesses, incluindo as regras sobre benefícios ilegítimos.
+13 - O intermediário financeiro, em matéria de remunerações, comissões ou benefícios não pecuniários recebidos de terceiro, cumpre o disposto no n.º 1 do artigo 39.º-A do Regulamento (UE) n.º 600/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
 
-14 - No caso de instrumentos financeiros sujeitos à obrigação de negociação prevista na legislação da União Europeia, cada plataforma de negociação ou internalizador sistemático e, no caso de outros instrumentos financeiros, o respetivo local de execução, disponibilizam ao público, de forma gratuita, a informação relativa à qualidade da execução de transações nesse local de execução:
+14 - [Revogado.]
 
-a) Até ao dia 31 de março de cada ano, as informações relativas ao ano anterior; ou
+15 - No caso de instrumentos financeiros sujeitos à obrigação de negociação prevista na legislação da União Europeia, o intermediário financeiro, na sequência da execução de uma ordem em nome de um cliente, informa-o do local em que a ordem foi executada.
 
-b) Em prazo mais exigente imposto pela legislação da União Europeia.
+16 - [Revogado.]
 
-15 - O intermediário financeiro informa o cliente do local em que a ordem foi executada.
-
-16 - A informação periódica prevista nos números anteriores inclui informação sobre preços, custos, rapidez e probabilidade de execução para instrumentos específicos.
-
-17 - Os intermediários financeiros que executem ordens de clientes divulgam anualmente, até ao dia 30 de abril de cada ano por referência ao ano anterior:
-
-a) As cinco formas organizadas de negociação mais utilizadas para executar ordens de clientes em termos de volume de transações no ano anterior, para cada categoria de instrumento financeiro; e
-
-b) Informação sobre a qualidade de execução de ordens obtida, nos termos previstos na legislação da União Europeia.
+17 - [Revogado.]

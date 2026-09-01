@@ -8,4 +8,6 @@ a) Por um intermediário financeiro que concentre as declarações de aceitaçã
 
 b) Por sociedade gestora de mercado regulamentado que concentre as declarações de aceitação.
 
-2 - (Revogado.)
+2 - [Revogado.]
+
+3 - O dever de publicação do resultado da oferta previsto no n.º 1 é dispensado no caso das ofertas dirigidas exclusivamente a trabalhadores.

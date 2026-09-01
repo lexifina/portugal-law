@@ -2,7 +2,7 @@
 
 ### Cooperação no âmbito do Sistema Europeu de Supervisores Financeiros
 
-1 - A CMVM coopera com a Autoridade Europeia dos Valores Mobiliários e dos Mercados, prestando-lhe, com a maior brevidade possível, a informação necessária ao exercício das suas funções, nos termos do artigo 35.º e 36.º do Regulamento (UE) n.º 1095/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
+1 - A CMVM coopera com a Autoridade Europeia dos Valores Mobiliários e dos Mercados, prestando-lhe, com a maior brevidade possível, a informação necessária ao exercício das suas funções, nos termos da legislação europeia aplicável.
 
 2 - A CMVM comunica os acordos de delegação de funções celebrados com instituições congéneres dos Estados Membros da União Europeia à Comissão Europeia, à Autoridade Europeia dos Valores Mobiliários e dos Mercados e às instituições congéneres dos demais Estados Membros.
 
