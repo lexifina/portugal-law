@@ -1,0 +1,47 @@
+## Secção II
+
+## Competência e funcionamento
+
+# Artigo 162.º
+
+### Competência
+
+1 - Compete ao Conselho dos Tribunais Administrativos e Fiscais:
+
+a) Nomear, colocar, transferir, promover, exonerar e apreciar o mérito profissional dos juízes da jurisdição administrativa e fiscal e exercer a ação disciplinar relativamente a eles;
+
+b) Apreciar, admitir, excluir e graduar os candidatos em concurso;
+
+c) Conhecer das impugnações administrativas interpostas de decisões materialmente administrativas proferidas, em matéria disciplinar, pelos presidentes dos tribunais centrais administrativos, pelos presidentes dos tribunais administrativos de círculo e pelos presidentes dos tribunais tributários, bem como de outras que a lei preveja;
+
+d) Ordenar averiguações, inquéritos, sindicâncias e inspeções aos serviços dos tribunais da jurisdição administrativa e fiscal;
+
+e) Elaborar o plano anual de inspeções;
+
+f) Elaborar as listas de antiguidade dos juízes;
+
+g) Suspender ou reduzir a distribuição de processos aos juízes que sejam incumbidos de outros serviços de reconhecido interesse para a jurisdição administrativa e fiscal ou em outras situações que justifiquem a adoção dessas medidas;
+
+h) Aprovar o seu regulamento interno, concursos e inspeções;
+
+i) Emitir os cartões de identidade dos juízes, de modelo idêntico aos dos juízes dos tribunais judiciais;
+
+j) Propor ao membro do Governo responsável pela área da justiça providências legislativas com vista ao aperfeiçoamento e à maior eficiência da jurisdição administrativa e fiscal;
+
+k) Emitir parecer sobre as iniciativas legislativas que se relacionem com a jurisdição administrativa e fiscal;
+
+l) Fixar anualmente, com o apoio do departamento do Ministério da Justiça com competência no domínio da auditoria e modernização, o número máximo de processos a distribuir a cada magistrado e o prazo máximo admissível para os respetivos atos processuais cujo prazo não esteja estabelecido na lei;
+
+m) Gerir a bolsa de juízes;
+
+n) Estabelecer os critérios que devem presidir à distribuição nos tribunais administrativos, no respeito pelo princípio do juiz natural;
+
+o) Exercer as demais funções conferidas por lei.
+
+2 - O Conselho Superior dos Tribunais Administrativos e Fiscais pode delegar no presidente, ou em outros dos seus membros, a competência para:
+
+a) Praticar atos de gestão corrente e aprovar inspeções;
+
+b) Nomear os juízes para uma das secções do Supremo Tribunal Administrativo e dos tribunais centrais administrativos;
+
+c) Ordenar inspeções extraordinárias, averiguações, inquéritos e sindicâncias.
