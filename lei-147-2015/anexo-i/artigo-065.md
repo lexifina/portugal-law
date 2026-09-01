@@ -1,0 +1,23 @@
+# Artigo 65.º
+
+### Adequação das pessoas que dirigem efetivamente a empresa, a fiscalizam, são responsáveis por funções-chave ou exercem funções-chave
+
+1 - Está sujeita a avaliação prévia ao exercício da função e no decurso desse exercício a adequação, para o exercício das respetivas funções:
+
+a) Dos membros do órgão de administração e das demais pessoas que dirijam efetivamente a empresa;
+
+b) Dos membros do órgão de fiscalização e do revisor oficial de contas a quem compete emitir a certificação legal de contas;
+
+c) Dos diretores de topo e dos responsáveis por funções-chave;
+
+d) Das pessoas que exercem funções-chave.
+
+2 - A adequação das pessoas identificadas no número anterior consiste na capacidade de assegurarem, em permanência, a gestão sã e prudente das empresas de seguros e de resseguros, tendo em vista, de modo particular, a salvaguarda dos interesses dos tomadores de seguros, segurados e beneficiários.
+
+3 - Para efeitos do disposto no número anterior, as pessoas nele identificadas devem cumprir os requisitos de idoneidade, qualificação profissional, independência, disponibilidade e capacidade nos termos previstos nos artigos 67.º a 70.º
+
+4 - No caso de órgãos colegiais, a avaliação individual de cada membro deve ser acompanhada de uma apreciação coletiva do órgão, tendo em vista verificar se o próprio órgão, considerando a sua composição, reúne qualificação profissional e disponibilidade suficientes para cumprir as respetivas funções legais e estatutárias em todas as áreas relevantes de atuação.
+
+5 - A avaliação das pessoas identificadas no n.º 1 obedece ao princípio da proporcionalidade, considerando, entre outros fatores, a natureza, a dimensão e a complexidade da atividade da empresa de seguros ou de resseguros e as exigências e responsabilidades associadas às funções concretas a desempenhar.
+
+6 - A política interna de seleção e avaliação deve promover a diversidade de qualificações e competências necessárias para o exercício da função, fixando objetivos para a representação de homens e mulheres e concebendo uma política destinada a aumentar o número de pessoas do género sub-representado com vista a atingir os referidos objetivos.
