@@ -20,7 +20,7 @@ a) Os serviços e atividades de investimento em instrumentos financeiros;
 
 b) Os serviços auxiliares dos serviços e atividades de investimento;
 
-c) [Revogada];
+c) [Revogada.]
 
 d) O exercício das funções de depositário de organismo de investimento coletivo.
 
@@ -38,7 +38,7 @@ d) Às pessoas que tenham por única atividade de investimento a negociação po
 
 i) Sejam criadores de mercado;
 
-ii) Sejam membros ou participantes num mercado regulamentado ou sistema de negociação multilateral ou tenham acesso eletrónico direto a uma plataforma de negociação, exceto se forem entidades não financeiras que executam transações numa plataforma de negociação que reduzam, de forma objetivamente mensurável, os riscos diretamente relacionados com a atividade comercial ou a atividade de financiamento de tesouraria dessas entidades não financeiras ou dos respetivos grupos;
+ii) Sejam membros ou participantes num mercado regulamentado ou sistema de negociação multilateral, exceto se forem entidades não financeiras que executam transações numa plataforma de negociação que reduzam, de forma objetivamente mensurável, os riscos diretamente relacionados com a atividade comercial ou a atividade de financiamento de tesouraria dessas entidades não financeiras ou dos respetivos grupos;
 
 iii) Exerçam uma atividade de negociação algorítmica de alta frequência;
 
@@ -68,11 +68,11 @@ k) Às entidades habilitadas por lei especial a exercer atividades de intermedia
 
 l) Aos prestadores de serviços de financiamento colaborativo.
 
-4 - (Revogado.)
+4 - [Revogado.]
 
-5 - (Revogado.)
+5 - [Revogado.]
 
-6 - [Revogado].
+6 - [Revogado.]
 
 7 - As entidades referidas na alínea g) do n.º 3 informam a CMVM, a pedido desta, sobre:
 

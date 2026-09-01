@@ -1,6 +1,6 @@
 ## Capítulo V
 
-## Limites de posições, controlos de gestão e reporte de posições em derivados de mercadorias, licenças de emissão e respetivos derivados
+## Limites de posições, controlos de gestão e reporte de posições em derivados de mercadorias e derivados de licenças de emissão
 
 # Artigo 257.º-E
 

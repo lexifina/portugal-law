@@ -6,7 +6,7 @@
 
 ### Aquisição potestativa
 
-1 - Quem, na sequência do lançamento de oferta pública de aquisição geral em que seja visada sociedade emitente de ações admitidas à negociação em mercado regulamentado em Portugal, referida no n.º 1 do artigo 13.º-B, atinja ou ultrapasse, diretamente ou nos termos do n.º 1 do artigo 20.º, 90 % dos direitos de voto correspondentes ao capital social até ao apuramento dos resultados da oferta pode, nos três meses subsequentes, adquirir as ações remanescentes mediante contrapartida em dinheiro.
+1 - Quem, na sequência do lançamento de oferta pública de aquisição geral em que seja visada sociedade emitente de ações admitidas à negociação em mercado regulamentado em Portugal, referida no n.º 1 do artigo 13.º-B, atinja ou ultrapasse, diretamente ou nos termos do n.º 1 do artigo 20.º, 90 % dos direitos de voto correspondentes ao capital social e 90 % do capital social até ao apuramento dos resultados da oferta pode, nos três meses subsequentes, adquirir as ações remanescentes mediante contrapartida em dinheiro.
 
 2 - A contrapartida mínima a pagar nos termos do número anterior é:
 

@@ -1,6 +1,6 @@
 # Artigo 376.º
 
-### Cooperação com instituições congéneres estrangeiras
+### Cooperação com instituições congéneres estrangeiras e com organizações internacionais
 
 1 - No exercício das suas atribuições, a CMVM coopera com as instituições congéneres ou equiparadas de outros Estados.
 
@@ -21,3 +21,5 @@ d) Formação de quadros e troca de experiências no âmbito das respectivas atr
 5 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados a celebração de acordos de cooperação para a troca de informações com instituições congéneres ou equiparadas de Estados que não sejam membros da União Europeia.
 
 6 - O disposto no presente artigo é aplicável, com as necessárias adaptações, às relações decorrentes da participação da CMVM em organizações internacionais.
+
+7 - A CMVM pode transmitir ou partilhar informação com o Fundo Monetário Internacional, para efeitos do programa de avaliação do setor financeiro.

@@ -6,7 +6,7 @@
 
 ### Deveres de comunicação
 
-1 - Quem atinja ou ultrapasse participação de 5 %, 10 %, 15 %, 20 %, 25 %, um terço, metade, dois terços e 90 % dos direitos de voto correspondentes ao capital social de uma sociedade emitente de ações admitidas à negociação em mercado regulamentado referida no n.º 1 do artigo 13.º-B e quem reduza a sua participação para valor inferior a qualquer daqueles limiares, comunica esse facto à sociedade participada e à CMVM, o mais rapidamente possível e no prazo máximo de quatro dias de negociação após o dia da ocorrência do facto ou do seu conhecimento.
+1 - Quem atinja ou ultrapasse participação de 5 %, 10 %, 15 %, 20 %, 25 %, um terço, metade, dois terços e 90 % dos direitos de voto correspondentes ao capital social de uma sociedade emitente de ações admitidas à negociação em mercado regulamentado referida na alínea a) do n.º 1 do artigo 13.º-B e quem reduza a sua participação para valor inferior a qualquer daqueles limiares, comunica esse facto à sociedade participada e à CMVM, o mais rapidamente possível e no prazo máximo de quatro dias de negociação após o dia da ocorrência do facto ou do seu conhecimento.
 
 2 - (Revogado.)
 

@@ -4,7 +4,7 @@
 
 1 - O exercício da atividade dos consultores para investimento autónomos previsto na alínea b) do n.º 4 do artigo 294.º depende de autorização da CMVM.
 
-2 - O registo exigido no número anterior é concedido a pessoas singulares idóneas que demonstrem possuir qualificação e aptidão profissional, de acordo com elevados padrões de exigência, adequadas ao exercício da atividade e meios materiais suficientes nos termos a fixar em regulamento da CMVM.
+2 - A autorização prevista no número anterior é concedida a pessoas singulares idóneas que demonstrem possuir qualificação e aptidão profissional, de acordo com elevados padrões de exigência, adequadas ao exercício da atividade e meios materiais suficientes nos termos a fixar em regulamento da CMVM.
 
 3 - Para efeitos da respetiva apreciação, entre outras circunstâncias atendíveis, considera-se indiciador de falta de idoneidade o facto de um consultor para investimento autónomo ter sido:
 
@@ -22,8 +22,10 @@ f) Ter prestado declarações falsas ou inexatas sobre factos relevantes no âmb
 
 4 - Os intermediários financeiros que exercem a atividade de consultoria para investimento mantêm um registo interno da identidade dos seus colaboradores.
 
-5 - A CMVM publica no seu sítio na Internet a identidade dos consultores para investimento autónomos registados, incluindo indicação sobre se atuam como consultores para investimento independente ou não.
+5 - A CMVM publica no seu sítio na Internet a identidade dos consultores para investimento autónomos autorizados, incluindo indicação sobre se atuam como consultores para investimento independente ou não.
 
-6 - (Revogado.)
+6 - [Revogado.]
 
 7 - Os requisitos materiais aplicáveis aos consultores para investimento autónomos são estabelecidos através de regulamento da CMVM.
+
+8 - Sem prejuízo do disposto no n.º 8 do artigo 294.º, apenas as pessoas autorizadas ou comunicadas junto da CMVM como consultores para investimento independentes podem utilizar as designações consultor para investimento independente ou consultoria para investimento independente, não podendo prestar outros serviços de consultoria para investimento.

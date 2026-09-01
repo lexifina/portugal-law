@@ -10,4 +10,6 @@ a) São ajustados para refletir o perfil de liquidez do instrumento financeiro e
 
 b) Adaptam a variação de preços de ofertas de cada instrumento financeiro de forma adequada.
 
-3 - As regras previstas no n.º 1 não impedem o encontro de ofertas de volume elevado no ponto médio dos preços correntes de compra e venda.
+3 - Em relação às ações que tenham um número de identificação internacional de títulos (ISIN, do inglês ‘International Securities Identification Number’) emitido fora do Espaço Económico Europeu (‘EEE’) ou às ações que tenham um ISIN do EEE e que sejam negociadas numa plataforma de negociação de um país terceiro na moeda local ou numa moeda não pertencente ao EEE, para as quais a plataforma que constitui o mercado mais relevante no plano da liquidez se situa num país terceiro, os mercados regulamentados podem aplicar a mesma variação da oferta de preços que se aplica nessa plataforma.
+
+4 - As regras previstas no n.º 1 não impedem o encontro de ofertas de volume elevado no ponto médio dos preços correntes de compra e venda.

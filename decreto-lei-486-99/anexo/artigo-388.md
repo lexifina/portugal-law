@@ -24,7 +24,11 @@ a) O triplo do benefício económico obtido, mesmo que total ou parcialmente sob
 
 b) No caso de contraordenações muito graves, 10 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração;
 
-c) Nas contraordenações por uso ou transmissão de informação privilegiada e manipulação de mercado, 15 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração.
+c) No caso de contraordenações graves, 2 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração;
+
+d) No caso de contraordenações menos graves, 0,8 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração;
+
+e) Nas contraordenações por uso ou transmissão de informação privilegiada e manipulação de mercado, 15 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração.
 
 3 - As contraordenações previstas nos artigos seguintes respeitam tanto à violação de deveres consagrados neste Código e sua regulamentação, como à violação de deveres consagrados em outras leis, nacionais ou da União Europeia, e sua regulamentação, que digam respeito às seguintes matérias:
 

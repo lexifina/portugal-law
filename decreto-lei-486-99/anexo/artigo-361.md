@@ -22,7 +22,7 @@ g) Divulgar publicamente o facto de um emitente, oferente ou pessoa que solicita
 
 h) Determinar que uma entidade reduza ou não aumente a sua posição ou exposição a instrumentos financeiros derivados de mercadorias;
 
-i) Proibir ou limitar a comercialização, distribuição ou venda de instrumentos financeiros ou um determinado tipo de atividade ou prática financeira, nos termos previstos na legislação da União Europeia relativa aos mercados de instrumentos financeiros, e exercer os demais poderes de intervenção previstos na lei e na legislação da União Europeia relativa às vendas a descoberto.
+i) Proibir, suspender ou limitar a comercialização, distribuição ou venda de instrumentos financeiros, recomendações e estudos ou um determinado tipo de atividade ou prática financeira, nos termos previstos na legislação da União Europeia relativa aos mercados de instrumentos financeiros, e exercer os demais poderes de intervenção previstos na lei e na legislação da União Europeia relativa às vendas a descoberto.
 
 3 - Nas situações previstas no n.º 1 e nas alíneas a), b) e c) do n.º 2, as pessoas singulares ou colectivas em causa ficam sujeitas ao dever de não revelar a clientes ou a terceiros o teor ou a ocorrência do acto praticado.
 

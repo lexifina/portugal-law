@@ -1,5 +1,9 @@
 # Artigo 299.º
 
-### Indeferimento tácito
+### Prazo do registo
 
-O registo considera-se recusado se a CMVM não o efetuar no prazo de 30 dias a contar da comunicação da autorização.
+A CMVM regista o intermediário financeiro no prazo de 30 dias a contar da data do facto que ocorra em último lugar:
+
+a) Comunicação da autorização pela autoridade competente;
+
+b) Receção do pedido de registo junto da CMVM.

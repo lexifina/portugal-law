@@ -2,9 +2,9 @@
 
 ### Regime do prospecto de admissão
 
-1 - Ao prospeto de admissão de valores mobiliários em mercado regulamentado são aplicáveis, com as necessárias adaptações, os artigos 121.º, 122.º e 149.º a 154.º
+1 - Ao prospeto de admissão de valores mobiliários em mercado regulamentado são aplicáveis, com as necessárias adaptações, os artigos 121.º, 122.º, 149.º a 154.º e 163.º-A.
 
-2 - (Revogado.)
+2 - [Revogado.]
 
 3 - À responsabilidade pelo conteúdo do prospeto são aplicáveis as seguintes especificidades:
 

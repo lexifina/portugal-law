@@ -14,7 +14,7 @@ d) As sociedades gestoras de organismos de investimento coletivo, as sociedades 
 
 e) [Revogada.]
 
-f) Prestadores de serviços de financiamento colaborativo.
+f) Os prestadores de serviços de financiamento colaborativo que não estejam sujeitos a supervisão prudencial de outra entidade.
 
 2 - A supervisão prudencial é orientada pelos seguintes princípios:
 

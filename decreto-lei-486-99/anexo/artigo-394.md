@@ -8,7 +8,7 @@ a) A criação, a manutenção em funcionamento ou a gestão de uma forma organi
 
 b) O funcionamento de mercado regulamentado ou de sistemas de negociação multilateral ou organizado de acordo com regras não comunicadas previamente e com a antecedência devida à CMVM ou não publicadas;
 
-c) A falta de prestação ao público, pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral ou organizado, ou por internalizador sistemático, da informação a que estão obrigadas;
+c) A falta de divulgação ou comunicação da informação devida pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral ou organizado, ou por internalizador sistemático;
 
 d) A admissão de membros de um mercado regulamentado ou de um sistema de negociação multilateral ou organizado pela respetiva entidade gestora, sem os requisitos exigidos por lei ou regulamento;
 
@@ -20,9 +20,13 @@ g) A falta de divulgação do prospeto de admissão, das respetivas adendas ou d
 
 h) A falta de divulgação e comunicação da informação exigida pelos emitentes de valores mobiliários negociados em mercado regulamentado;
 
-i) (Revogada);
+i) [Revogada.]
 
-j) A violação do dever de adotar e aplicar controlos de posições em instrumentos financeiros derivados de mercadorias.
+j) A violação do dever de adotar e aplicar controlos de posições em instrumentos financeiros derivados de mercadorias;
+
+k) O recebimento de remuneração proibida ou em condições não permitidas pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral ou organizado;
+
+l) A violação dos deveres relativos à sincronização de relógios profissionais.
 
 2 - Constitui contra-ordenação grave a violação de qualquer dos seguintes deveres:
 
@@ -36,13 +40,13 @@ d) De pedido de admissão à negociação em mercado regulamentado de valores mo
 
 e) De envio à CMVM, pelos emitentes de valores mobiliários admitidos à negociação em mercado regulamentado ou por quem tenha solicitado a admissão à negociação em mercado regulamentado de valores mobiliários sem o consentimento do emitente, das informações exigidas por lei;
 
-f) De divulgação do documento de consolidação de informação anual;
+f) [Revogada.]
 
-g) De divulgação de informação exigida no n.º 2 do artigo 134.º
+g) [Revogada.]
 
 h) De manter informação à disposição do público por tempo determinado, quando exigido por lei;
 
-i) De divulgação e comunicação da informação exigida aos acionistas que sejam investidores institucionais.
+i) De divulgação e comunicação da informação exigida aos acionistas que sejam investidores institucionais;
 
 j) De verificação da autenticidade do voto por correspondência, de garantia da sua confidencialidade e de envio da confirmação de receção dos votos expressos por via eletrónica a quem os exerceu;
 
