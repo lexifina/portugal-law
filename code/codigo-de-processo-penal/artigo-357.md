@@ -10,4 +10,4 @@ b) Quando tenham sido feitas perante autoridade judiciária com assistência de 
 
 2 - As declarações anteriormente prestadas pelo arguido reproduzidas ou lidas em audiência não valem como confissão nos termos e para os efeitos do artigo 344.º
 
-3 - É correspondentemente aplicável o disposto nos n.os 7 a 9 do artigo anterior.
+3 - É correspondentemente aplicável o disposto nos n.os 8 a 10 do artigo anterior.

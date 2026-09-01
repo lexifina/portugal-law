@@ -1,4 +1,4 @@
-# Artigo 391.º-B
+# Artigo 391-B
 
 ### Acusação, arquivamento e suspensão do processo
 
@@ -12,4 +12,4 @@ b) Apresentação de queixa, nos restantes casos.
 
 3 - Se o procedimento depender de acusação particular, a acusação do Ministério Público tem lugar depois de deduzida acusação nos termos do artigo 285.º
 
-4 - É correspondentemente aplicável em processo abreviado o disposto nos artigos 280.º a 282.º
+4 - É correspondentemente aplicável em processo abreviado o disposto nos artigos 280.º a 282.º e nos n.os 5 e 6 do artigo 283.º

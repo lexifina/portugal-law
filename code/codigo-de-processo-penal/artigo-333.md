@@ -6,7 +6,7 @@
 
 2 - Se o tribunal considerar que a audiência pode começar sem a presença do arguido, ou se a falta de arguido tiver como causa os impedimentos enunciados nos n.os 2 a 4 do artigo 117.º, a audiência não é adiada, sendo inquiridas ou ouvidas as pessoas presentes pela ordem referida nas alíneas b) e c) do artigo 341.º, sem prejuízo da alteração que seja necessária efectuar no rol apresentado, e as suas declarações documentadas, aplicando-se sempre que necessário o disposto no n.º 6 do artigo 117.º
 
-3 - No caso referido no número anterior, o arguido mantém o direito de prestar declarações até ao encerramento da audiência, e se ocorrer na primeira data marcada, o advogado constituído ou o defensor nomeado ao arguido pode requerer que este seja ouvido na segunda data designada pelo juiz ao abrigo do artigo 312.º, n.º 2.
+3 - No caso referido no número anterior, o arguido mantém o direito de prestar declarações até ao encerramento da audiência e, se ocorrer na primeira data marcada, o advogado constituído ou o defensor nomeado ao arguido pode requerer que este seja ouvido na segunda data designada pelo juiz ao abrigo do n.º 3 do artigo 312.º
 
 4 - O disposto nos números anteriores não prejudica que a audiência tenha lugar na ausência do arguido com o seu consentimento, nos termos do artigo 334.º, n.º 2.
 

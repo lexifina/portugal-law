@@ -2,10 +2,10 @@
 
 ### Contestação e rol de testemunhas
 
-1 - O arguido, em 20 dias a contar da notificação do despacho referido no artigo anterior, apresenta, querendo, a contestação, acompanhada do rol de testemunhas, sendo aplicável o disposto no n.º 14 do artigo 113.º
+1 - O arguido, em 20 dias a contar da notificação do despacho referido no artigo anterior, apresenta, querendo, a contestação, deduzida por artigos e acompanhada da indicação da prova a produzir ou a requerer, sendo correspondentemente aplicável o disposto na alínea e) do n.º 3 e nos n.os 7 e 9 do artigo 283.º
 
-2 - A contestação não está sujeita a formalidades especiais.
+2 - [Revogado.]
 
-3 - Juntamente com o rol de testemunhas, o arguido indica os peritos e consultores técnicos que devem ser notificados para a audiência, bem como qualquer outra prova que entenda adequada à sua defesa.
+3 - [Revogado.]
 
-4 - Ao rol de testemunhas é aplicável o disposto na alínea e) do n.º 3 e nos n.os 7 e 8 do artigo 283.º
+4 - [Revogado.]

@@ -14,11 +14,11 @@ c) Redução do imposto de justiça em metade.
 
 3 - Exceptuam-se do disposto no número anterior os casos em que:
 
-a) Houver co-arguidos e não se verificar a confissão integral, sem reservas e coerente de todos eles;
+a) Houver co-arguidos e não se verificar a confissão integral, sem reservas e coerente de todos eles; ou
 
 b) O tribunal, em sua convicção, suspeitar do carácter livre da confissão, nomeadamente por dúvidas sobre a imputabilidade plena do arguido ou da veracidade dos factos confessados; ou
 
-c) O crime for punível com pena de prisão superior a cinco anos.
+c) [Revogada.]
 
 4 - Verificando-se a confissão integral e sem reservas nos casos do número anterior ou a confissão parcial ou com reservas, o tribunal decide, em sua livre convicção, se deve ter lugar e em que medida, quanto aos factos confessados, a produção da prova.
 

@@ -13,3 +13,5 @@ c) O recorrente não apresente, complete ou esclareça as conclusões formuladas
 2 - Em caso de rejeição do recurso, a decisão limita-se a identificar o tribunal recorrido, o processo e os seus sujeitos e a especificar sumariamente os fundamentos da decisão.
 
 3 - Se o recurso for rejeitado, o tribunal condena o recorrente, se não for o Ministério Público, ao pagamento de uma importância entre três e dez UCs.
+
+4 - É correspondentemente aplicável o disposto no n.º 8 do artigo 425.º

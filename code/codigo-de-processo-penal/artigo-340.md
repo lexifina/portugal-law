@@ -21,3 +21,5 @@ b) As provas requeridas são irrelevantes ou supérfluas;
 c) O meio de prova é inadequado, de obtenção impossível ou muito duvidosa; ou
 
 d) O requerimento tem finalidade meramente dilatória.
+
+5 - O despacho que ordena a produção dos meios de prova nos termos dos n.os 1 e 2 é irrecorrível, salvo com fundamento em violação do disposto no artigo 126.º ou no facto de a prova ter sido obtida fora das condições ou sem observância dos requisitos legalmente previstos.

@@ -20,6 +20,8 @@ a) Tratando-se de nulidade de acto a que o interessado assista, antes que o acto
 
 b) Tratando-se da nulidade referida na alínea b) do número anterior, até cinco dias após a notificação do despacho que designar dia para a audiência;
 
-c) Tratando-se de nulidade respeitante ao inquérito ou à instrução, até ao encerramento do debate instrutório ou, não havendo lugar a instrução, até cinco dias após a notificação do despacho que tiver encerrado o inquérito;
+c) Tratando-se de nulidade respeitante ao inquérito, no requerimento de abertura de instrução ou, não havendo lugar a instrução, até ao termo do prazo para ser requerida;
 
-d) Logo no início da audiência nas formas de processo especiais.
+d) Tratando-se de nulidade respeitante à instrução, até ao encerramento do debate instrutório;
+
+e) Logo no início da audiência nas formas de processo especiais.

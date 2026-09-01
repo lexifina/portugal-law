@@ -1,5 +1,5 @@
-# Artigo 391.º-G
+# Artigo 391-G
 
 ### Recorribilidade
 
-É correspondentemente aplicável ao processo abreviado o disposto no artigo 391.º
+Sem prejuízo do recurso da aplicação de medidas de coação privativas da liberdade, é correspondentemente aplicável ao processo abreviado o disposto no artigo 391.º

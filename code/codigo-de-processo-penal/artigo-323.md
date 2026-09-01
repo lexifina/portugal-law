@@ -16,4 +16,4 @@ e) Tomar todas as medidas preventivas, disciplinares e coactivas, legalmente adm
 
 f) Garantir o contraditório e impedir a formulação de perguntas legalmente inadmissíveis;
 
-g) Dirigir e moderar a discussão, proibindo, em especial, todos os expedientes manifestamente impertinentes ou dilatórios.
+g) Dirigir e moderar a discussão, proibindo, em especial, todos os expedientes manifestamente impertinentes ou dilatórios, e determinar, por despacho irrecorrível, que requerimentos devem ser apresentados por escrito por respeitarem a questões sem relevo para a prossecução imediata da audiência.

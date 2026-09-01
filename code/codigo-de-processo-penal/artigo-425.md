@@ -15,3 +15,5 @@
 6 - O acórdão é notificado aos recorrentes, aos recorridos e ao Ministério Público.
 
 7 - O prazo para a interposição de recurso conta-se a partir da notificação do acórdão.
+
+8 - A secretaria, oficiosamente, procede à certificação do trânsito em julgado do acórdão, ainda que parcial, e comunica-o ao tribunal competente.

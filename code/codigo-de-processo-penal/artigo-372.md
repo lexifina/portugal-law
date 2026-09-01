@@ -11,3 +11,5 @@
 4 - A leitura da sentença equivale à sua notificação aos sujeitos processuais que deverem considerar-se presentes na audiência.
 
 5 - Logo após a leitura da sentença, o presidente procede ao seu depósito na secretaria. O secretário apõe a data, subscreve a declaração de depósito e entrega cópia aos sujeitos processuais que o solicitem.
+
+6 - Excecionalmente, o depósito pode ser efetuado nos 10 dias subsequentes ao ato de leitura, após os quais, não sendo efetuado o depósito, tem-se a sentença por não lida, sendo designada nova data para a sua leitura, que deve ocorrer no prazo de 10 dias.
