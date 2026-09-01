@@ -2,6 +2,8 @@
 
 ### Venda antecipada
 
-1 - O GAB procede à venda dos bens perecíveis, deterioráveis ou desvalorizáveis ou à sua afectação a finalidade pública ou socialmente útil, antes de decisão transitada em julgado, quando não constituam meio de prova relevante.
+1 - Antes de haver decisão de perda transitada em julgado, o GAB procede à venda dos bens referidos no n.º 1 do artigo 185.º do Código de Processo Penal, nas condições aí previstas.
 
-2 - Quando o bem referido no número anterior for um veículo automóvel, embarcação ou aeronave cujo valor resultante da avaliação seja inferior a 3000 (euro), apenas há lugar à sua venda.
+2 - É correspondentemente aplicável o disposto nos n.os 2 a 7, 10, 11, 13 e 14 do artigo 185.º do Código de Processo Penal.
+
+3 - Quando o bem for um veículo automóvel, embarcação ou aeronave que tenha sido avaliado em montante inferior a 3000 €, apenas há lugar à sua venda.

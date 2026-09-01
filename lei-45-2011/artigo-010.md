@@ -6,7 +6,7 @@
 
 ### Administração de bens
 
-1 - A administração dos bens apreendidos, recuperados ou declarados perdidos a favor do Estado, no âmbito de processos nacionais ou de atos de cooperação judiciária internacional, é assegurada por um gabinete do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), designado Gabinete de Administração de Bens (GAB).
+1 - A administração dos bens apreendidos, arrestados, recuperados ou declarados perdidos a favor do Estado, no âmbito de processos nacionais ou de atos de cooperação judiciária internacional, é assegurada por um gabinete do Instituto de Gestão Financeira e Equipamentos da Justiça, IP (IGFEJ, IP), designado Gabinete de Administração de Bens (GAB).
 
 2 - Compete ao conselho diretivo do IGFEJ, I. P., a prática de todos os atos de administração e gestão do GAB, assim como a definição das suas normas de funcionamento e a regulamentação dos procedimentos instituídos no presente capítulo.
 
@@ -14,7 +14,7 @@
 
 a) Proteger, conservar e gerir os bens recuperados ou à guarda do Estado;
 
-b) Determinar a venda;
+b) Determinar a venda, ou realizá-la a solicitação da pessoa afetada, quando a autoridade judiciária tenha informado que o bem não é um meio de prova relevante;
 
 c) Determinar a afetação a finalidade pública ou socialmente útil conexa com a administração da justiça, conquanto os bens a afetar se revelem de interesse para a entidade beneficiária e sejam adequados ao exercício e prossecução das suas competências legais ou estatutárias;
 
