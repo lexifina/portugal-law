@@ -1,3 +1,11 @@
+## Capítulo IX
+
+## Fusão de sociedades
+
+## Secção I
+
+## Fusão interna
+
 # Artigo 97.º
 
 ### (Noção. Modalidades)
