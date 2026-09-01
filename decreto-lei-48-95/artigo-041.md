@@ -1,0 +1,19 @@
+## Capítulo II
+
+## Penas
+
+## Secção I
+
+## Penas de prisão, de multa e de proibição do exercício de profissão, função ou atividade
+
+# Artigo 41.º
+
+### Duração e contagem dos prazos da pena de prisão
+
+1 - A pena de prisão tem, em regra, a duração mínima de 1 mês e a duração máxima de 20 anos.
+
+2 - O limite máximo da pena de prisão é de 25 anos nos casos previstos na lei.
+
+3 - Em caso algum pode ser excedido o limite máximo referido no número anterior.
+
+4 - A contagem dos prazos da pena de prisão é feita segundo os critérios estabelecidos na lei processual penal e, na sua falta, na lei civil.
