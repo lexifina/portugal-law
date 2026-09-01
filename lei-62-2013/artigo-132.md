@@ -13,3 +13,5 @@
 1 - O tribunal singular é composto por um juiz.
 
 2 - Compete ao tribunal singular julgar os processos que não devam ser julgados pelo tribunal coletivo ou do júri.
+
+3 - Salvo disposição em contrário, é da competência do tribunal singular decidir os processos autónomos de perda.
