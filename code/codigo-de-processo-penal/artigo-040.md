@@ -17,3 +17,5 @@ e) Recusado o arquivamento em caso de dispensa de pena, a suspensão provisória
 2 - Nenhum juiz pode intervir em instrução relativa a processo em que tiver participado nos termos previstos nas alíneas a) ou e) do número anterior.
 
 3 - Nenhum juiz pode intervir em processo que tenha tido origem em certidão por si mandada extrair noutro processo pelos crimes previstos nos artigos 359.º ou 360.º do Código Penal.
+
+4 - As circunstâncias previstas no n.º 1 impedem ainda a intervenção do juiz em julgamento, recurso ou pedido de revisão relativos a processo autónomo de perda, sem prejuízo do disposto nos n.os 2 e 3 do artigo 398.º-L.

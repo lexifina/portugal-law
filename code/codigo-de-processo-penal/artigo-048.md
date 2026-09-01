@@ -6,4 +6,4 @@
 
 ### (Legitimidade)
 
-O Ministério Público tem legitimidade para promover o processo penal, com as restrições constantes dos artigos 49.º a 52.º
+O Ministério Público tem legitimidade para promover o processo penal, com as restrições constantes dos artigos 49.º a 52.º, e a perda de bens.

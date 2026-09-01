@@ -10,8 +10,10 @@
 
 4 - Em caso de controvérsia sobre a propriedade dos bens arrestados, pode o juiz remeter a decisão para o tribunal civil, mantendo-se entretanto o arresto decretado.
 
-5 - O arresto é revogado a todo o tempo em que e arguido ou o civilmente responsável prestem a caução económica imposta.
+5 - O arresto é revogado a todo o tempo em que o arguido, a pessoa afetada ou o civilmente responsável prestem a caução económica imposta.
 
 6 - Decretado o arresto, é promovido o respetivo registo nos casos e nos termos previstos na legislação registal aplicável, promovendo-se o subsequente cancelamento do mesmo quando sobrevier a extinção da medida.
 
 7 - O arresto preventivo é aplicável à pessoa coletiva ou entidade equiparada.
+
+8 - É correspondentemente aplicável o disposto no artigo 185.º e nos n.os 7 e 8 do artigo 227.º

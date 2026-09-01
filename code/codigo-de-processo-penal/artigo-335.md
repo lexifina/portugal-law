@@ -10,6 +10,6 @@
 
 4 - Em caso de conexão de processos, a declaração de contumácia implica a separação daqueles em que tiver sido proferida.
 
-5 - A declaração de contumácia não impede o prosseguimento do processo para efeitos da declaração da perda de instrumentos, produtos e vantagens a favor do Estado.
+5 - [Revogado.]
 
 6 - Os números anteriores são correspondentemente aplicáveis à pessoa coletiva ou entidade equiparada arguida, sendo a notificação edital feita nos termos do n.º 17 do artigo 113.º

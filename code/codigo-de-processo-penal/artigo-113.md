@@ -36,11 +36,11 @@ d) Não for possível, pela ausência de pessoa ou por outro qualquer motivo, pr
 
 a) Por autoridade judiciária ou de polícia criminal aos interessados presentes em acto processual por ela presidida, desde que documentados no auto;
 
-b) Por via telefónica em caso de urgência, se respeitarem os requisitos constantes do n.º 2 do artigo anterior e se, além disso, no telefonema se avisar o notificando de que a convocação ou comunicação vale como notificação e ao telefonema se seguir confirmação telegráfica, por telex ou por telecópia.
+b) Por via telefónica, em caso de urgência, se respeitarem os requisitos constantes do n.º 2 do artigo anterior e se, além disso, no telefonema se avisar o notificando de que a convocação ou comunicação vale como notificação.
 
 9 - O notificando pode indicar pessoa, com residência ou domicílio profissional situados na área de competência territorial do tribunal, para o efeito de receber notificações. Neste caso, as notificações, levadas a cabo com observância do formalismo previsto nos números anteriores, consideram-se como tendo sido feitas ao próprio notificando.
 
-10 - As notificações do arguido, do assistente e das partes civis podem ser feitas ao respetivo defensor ou advogado, ressalvando-se as notificações respeitantes à acusação, à decisão instrutória, à contestação, à designação de dia para julgamento e à sentença, bem como as relativas à aplicação de medidas de coação e de garantia patrimonial e à dedução do pedido de indemnização civil, as quais, porém, devem igualmente ser notificadas ao advogado ou defensor nomeado, sendo que, neste caso, o prazo para a prática de ato processual subsequente conta-se a partir da data da notificação efetuada em último lugar.
+10 - As notificações do arguido, do assistente, da pessoa afetada e das partes civis podem ser feitas ao respetivo defensor ou advogado, ressalvando-se as notificações respeitantes à acusação, à decisão instrutória, ao requerimento de perda, à contestação, à designação de dia para julgamento e à sentença, bem como as relativas à aplicação de medidas de coação e de garantia patrimonial, e à dedução do pedido de indemnização civil, as quais devem igualmente ser notificadas ao advogado ou defensor nomeado, sendo que, neste caso, o prazo para a prática de ato processual subsequente conta-se a partir da data da notificação efetuada em último lugar.
 
 11 - As notificações ao advogado ou ao defensor nomeado, quando outra forma não resultar da lei, são feitas por via eletrónica, nos termos a definir em portaria do membro do Governo responsável pela área da justiça, ou, quando tal não for possível, nos termos das alíneas a), b) e c) do n.º 1, ou por telecópia.
 

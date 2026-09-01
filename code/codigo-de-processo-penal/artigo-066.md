@@ -10,4 +10,4 @@
 
 4 - Enquanto não for substituído, o defensor nomeado para um acto mantém-se para os actos subsequentes do processo.
 
-5 - O exercício da função de defensor nomeado é sempre remunerado, nos termos e no quantitativo a fixar pelo tribunal, dentro de limites constantes de tabelas aprovadas pelo Ministério da Justiça ou, na sua falta, tendo em atenção os honorários correntemente pagos por serviços do género e do relevo dos que foram prestados. Pela retribuição são responsáveis, conforme o caso, o arguido, o assistente, as partes civis ou os cofres do Ministério da Justiça.
+5 - O exercício da função de defensor nomeado é remunerado, nos termos e no quantitativo a fixar pelo tribunal, dentro de limites constantes de tabelas aprovadas pelo Ministério da Justiça ou, na sua falta, tendo em atenção os honorários correntemente pagos por serviços do género e do relevo dos que foram prestados, sendo responsáveis pela retribuição, conforme o caso, o arguido, as pessoas afetadas, o assistente, as partes civis ou os cofres do Ministério da Justiça.

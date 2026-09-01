@@ -8,7 +8,7 @@
 
 3 - Se o arguido tiver exercido o direito ao prazo para a preparação da sua defesa, o Ministério Público pode interrogá-lo nos termos do artigo 143.º, para efeitos de validação da detenção e libertação do arguido, sujeitando-o, se for caso disso, a termo de identidade e residência, ou apresenta-o ao juiz de instrução para efeitos de aplicação de medida de coação ou de garantia patrimonial, sem prejuízo da aplicação do processo sumário.
 
-4 - Se tiver razões para crer que a audiência de julgamento não se pode iniciar nos prazos previstos no n.º 1 e na alínea a) do n.º 2 do artigo 387.º, designadamente por considerar necessárias diligências de prova essenciais à descoberta da verdade, o Ministério Público profere despacho em que ordena de imediato a realização das diligências em falta, sendo correspondentemente aplicável o disposto no número anterior.
+4 - Se tiver razões para crer que a audiência de julgamento não se pode iniciar nos prazos previstos no n.º 1 e na alínea a) do n.º 2 do artigo 387.º, designadamente por considerar necessárias diligências de prova essenciais à descoberta da verdade ou para a identificação dos instrumentos, produtos e vantagens que devam ser declarados perdidos, o Ministério Público profere despacho em que ordena de imediato a realização das diligências em falta, sendo correspondentemente aplicável o disposto no número anterior.
 
 5 - Nos casos previstos nos n.os 3 e 4, o Ministério Público notifica o arguido e as testemunhas para comparecerem, decorrido o prazo solicitado pelo arguido para a preparação da sua defesa, ou o prazo necessário às diligências de prova essenciais à descoberta da verdade, em data compreendida até ao limite máximo de 20 dias após a detenção, para apresentação a julgamento em processo sumário.
 

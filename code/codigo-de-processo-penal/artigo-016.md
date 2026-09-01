@@ -15,3 +15,5 @@ c) (Revogado.)
 3 - Compete ainda ao tribunal singular julgar os processos por crimes previstos no artigo 14.º, n.º 2, alínea b), mesmo em caso de concurso de infracções, quando o Ministério Público, na acusação, ou, em requerimento, quando seja superveniente o conhecimento do concurso, entender que não deve ser aplicada, em concreto, pena de prisão superior a cinco anos.
 
 4 - No caso previsto no número anterior, o tribunal não pode aplicar pena de prisão superior a cinco anos.
+
+5 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 398.º-L, é igualmente da competência do tribunal singular decidir os processos autónomos de perda.

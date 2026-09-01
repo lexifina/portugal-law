@@ -40,7 +40,9 @@ j) Não frequentar certas associações ou participar em determinadas reuniões;
 
 l) Não ter em seu poder determinados animais, coisas ou objetos capazes de facilitar a prática de outro crime;
 
-m) Qualquer outro comportamento especialmente exigido pelo caso.
+m) Entregar ao Estado os produtos e vantagens efetivamente resultantes de facto ilícito típico, bem como os instrumentos utilizados para praticá-lo, nos termos dos artigos 109.º e seguintes do Código Penal;
+
+n) Qualquer outro comportamento especialmente exigido pelo caso.
 
 3 - Em processos por crime de corrupção, de recebimento ou oferta indevidos de vantagem ou de criminalidade económico-financeira, é sempre oponível à arguida que seja pessoa coletiva ou entidade equiparada a injunção de adotar ou implementar ou alterar programa de cumprimento normativo, com vigilância judiciária, adequado a prevenir a prática dos referidos crimes.
 
@@ -58,4 +60,4 @@ m) Qualquer outro comportamento especialmente exigido pelo caso.
 
 10 - No caso do artigo 203.º do Código Penal, é dispensada a concordância do assistente prevista na alínea a) do n.º 1 do presente artigo quando a conduta ocorrer em estabelecimento comercial, durante o período de abertura ao público, relativamente à subtração de coisas móveis de valor diminuto e desde que tenha havido recuperação imediata destas, salvo quando cometida por duas ou mais pessoas.
 
-11 - Em processos contra pessoa coletiva ou entidade equiparada, são oponíveis as injunções e regras de conduta previstas nas alíneas a), b), c), l) e m) do n.º 2, bem como a injunção de adotar ou implementar um programa de cumprimento normativo com medidas de controlo e vigilância idóneas para prevenir crimes da mesma natureza ou para diminuir significativamente o risco da sua ocorrência.
+11 - Em processos contra pessoa coletiva ou entidade equiparada, são oponíveis as injunções e regras de conduta previstas nas alíneas a), b), c), l), m) e n) do n.º 2, bem como a injunção de adotar ou implementar um programa de cumprimento normativo com medidas de controlo e vigilância idóneas para prevenir crimes da mesma natureza ou para diminuir significativamente o risco da sua ocorrência.

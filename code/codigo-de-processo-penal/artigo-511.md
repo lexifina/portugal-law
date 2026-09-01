@@ -13,3 +13,5 @@ Com o produto dos bens executados efectuam-se os pagamentos pela ordem seguinte:
 4.º Os restantes encargos, proporcionalmente;
 
 5.º As indemnizações.
+
+6.º A perda de bens ou do respetivo valor.

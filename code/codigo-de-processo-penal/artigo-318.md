@@ -2,7 +2,7 @@
 
 ### Residentes fora do município
 
-1 - Excecionalmente, a tomada de declarações ao assistente, às partes civis, às testemunhas, a peritos ou a consultores técnicos pode, oficiosamente ou a requerimento, não ser prestada presencialmente, podendo ser solicitada ao juiz de outro tribunal ou juízo, por meio adequado de comunicação, nos termos do artigo 111.º, se:
+1 - Excecionalmente, a tomada de declarações ao assistente, às partes civis, às pessoas afetadas, às testemunhas, a peritos ou a consultores técnicos pode, oficiosamente ou a requerimento, não ser prestada presencialmente, podendo ser solicitada ao juiz de outro tribunal ou juízo, por meio adequado de comunicação, nos termos do artigo 111.º, se:
 
 a) Aquelas pessoas residirem fora do município onde se situa o tribunal ou juízo da causa;
 
@@ -10,7 +10,7 @@ b) Não houver razões para crer que a sua presença na audiência é essencial 
 
 c) Forem previsíveis graves dificuldades ou inconvenientes, funcionais ou pessoais, na sua deslocação.
 
-2 - A solicitação é de imediato comunicada ao Ministério Público, bem como aos representantes do arguido, do assistente e das partes civis.
+2 - A solicitação é de imediato comunicada ao Ministério Público, bem como aos representantes do arguido, do assistente, das partes civis e das pessoas afetadas.
 
 3 - Quem tiver requerido a tomada de declarações informa, no mesmo acto, quais os factos ou as circunstâncias sobre que aquelas devem versar.
 
@@ -22,4 +22,4 @@ c) Forem previsíveis graves dificuldades ou inconvenientes, funcionais ou pesso
 
 7 - Fora dos casos previstos no n.º 5, o conteúdo das declarações é reduzido a auto, sendo aquelas reproduzidas integralmente ou por súmula, conforme o juiz determinar, tendo em atenção os meios disponíveis de registo e transcrição, nos termos do artigo 101.º
 
-8 - Sem prejuízo do disposto em instrumentos internacionais ou europeus, o assistente, partes civis ou testemunhas residentes no estrangeiro são inquiridos através de equipamento tecnológico que permita a comunicação, por meio visual e sonoro, em tempo real, sempre que no local da sua residência existam os meios tecnológicos necessários.
+8 - Sem prejuízo do disposto em instrumentos internacionais ou europeus, o assistente, partes civis, pessoas afetadas ou testemunhas residentes no estrangeiro são inquiridos através de equipamento tecnológico que permita a comunicação, por meio visual e sonoro, em tempo real, sempre que no local da sua residência existam os meios tecnológicos necessários.

@@ -8,4 +8,4 @@ a) Declarações do arguido;
 
 b) Apresentação dos meios de prova indicados pelo Ministério Público, pelo assistente e pelo lesado;
 
-c) Apresentação dos meios de prova indicados pelo arguido e pelo responsável civil.
+c) Apresentação dos meios de prova indicados pelo arguido, pela pessoa afetada e pelo responsável civil.
