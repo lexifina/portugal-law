@@ -1,0 +1,9 @@
+# Artigo 5.º
+
+### Exclusão do regime de supervisão complementar
+
+1 - Se o total do balanço do subsetor financeiro de menor dimensão do grupo exceder os seis mil milhões de euros previstos na subalínea ii) da alínea b) do n.º 2 do artigo 3.º, mas não atingir a média do rácio dos 10 % referido na subalínea i) da alínea b) do n.º 2 do mesmo artigo, as autoridades de supervisão relevantes podem decidir, de comum acordo, não considerar o grupo um conglomerado financeiro ou não aplicar as regras da supervisão complementar relativas à concentração de riscos, às operações intragrupo, aos processos de gestão de riscos e aos mecanismos de controlo interno, se entenderem que a inclusão do grupo no âmbito do presente decreto-lei ou a aplicação das referidas regras não é necessária, não é adequada ou induz em erro relativamente aos objetivos de supervisão complementar.
+
+2 - Se o grupo atingir a média do rácio superior a 10 %, referida na subalínea i) da alínea b) do n.º 2 do artigo 3.º, mas o subsetor de menor dimensão não exceder seis mil milhões de euros, as autoridades de supervisão relevantes podem decidir, de comum acordo, não considerar o grupo um conglomerado financeiro ou não aplicar as regras da supervisão complementar relativas à concentração de riscos, às operações intragrupo, aos processos de gestão de riscos e aos mecanismos de controlo interno, se entenderem que a inclusão do grupo no âmbito do presente decreto-lei ou a aplicação das referidas regras não é necessária, não é adequada ou induz em erro relativamente aos objetivos de supervisão complementar.
+
+3 - As decisões tomadas de acordo com o presente artigo são notificadas às demais autoridades de supervisão interessadas pelo coordenador, ou pela autoridade que seria o coordenador caso o grupo fosse considerado um conglomerado financeiro e, salvo em circunstâncias excecionais, são divulgadas publicamente pelas autoridades de supervisão.
