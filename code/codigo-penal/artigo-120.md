@@ -16,6 +16,8 @@ e) A sentença condenatória, após notificação ao arguido, não transitar em 
 
 f) O delinquente cumprir no estrangeiro pena ou medida de segurança privativas da liberdade.
 
+g) O debate instrutório, a audiência ou o ato em que a assistência for necessária esteja interrompido ou adiado por força da substituição do defensor do arguido.
+
 2 - No caso previsto na alínea b) do número anterior a suspensão não pode ultrapassar 3 anos.
 
 3 - No caso previsto na alínea c) do n.º 1 a suspensão não pode ultrapassar o prazo normal de prescrição.
