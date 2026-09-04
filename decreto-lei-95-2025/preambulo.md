@@ -1,0 +1,15 @@
+A crescente utilização de equipamentos ou aparelhos eletrónicos com acesso à Internet, como telemóveis comummente designados smartphones, por crianças e jovens em contexto escolar tem suscitado séria preocupação acerca dos impactos negativos no desenvolvimento das aprendizagens, na socialização e no bem-estar dos alunos, como tem sido amplamente reconhecido pela comunidade científica e por organismos nacionais e internacionais. A evidência empírica, de âmbito nacional e internacional, associa o uso excessivo destes equipamentos tecnológicos a situações de isolamento social e ao aumento de casos de indisciplina e de comportamentos de risco.
+
+Neste quadro, e em face da massificação do acesso e da utilização deste tipo de equipamentos tecnológicos no espaço escolar, a adoção de medidas de restrição ou, mesmo, de proibição tem vindo a ser considerada, por diretores e por outros responsáveis operacionais de escolas, como um importante contributo para a melhoria do clima educativo, pelo que se revela necessário e uma mais-valia proceder ao desenvolvimento do regime jurídico aplicável neste domínio.
+
+Neste sentido, é essencial concretizar o disposto na Lei n.º 51/2012, de 5 de setembro, que aprova o Estatuto do Aluno e Ética Escolar, em especial no respetivo artigo 10.º, na parte relativa à regulação das condições de utilização no espaço escolar de equipamentos ou aparelhos eletrónicos de comunicação móvel com acesso à Internet por parte dos alunos do 1.º e do 2.º ciclos do ensino básico. Em decorrência, torna-se necessário prever regras claras, aplicáveis a nível nacional, que promovam ambientes escolares mais seguros, inclusivos e propícios à aprendizagem e, assim, o desenvolvimento dos alunos, os objetivos pedagógicos e educativos das escolas e o bem-estar das crianças e dos jovens.
+
+Deste modo, e em consonância com os compromissos assumidos no Programa do XXV Governo Constitucional, estabelece-se a regra geral da proibição da utilização de telemóveis e de quaisquer outros equipamentos ou aparelhos eletrónicos de comunicação móvel com acesso à Internet pelos alunos do 1.º e do 2.º ciclos do ensino básico, em todo o espaço escolar e durante o horário de funcionamento do estabelecimento de ensino, incluindo nos períodos não letivos.
+
+Sem prejuízo da autonomia pedagógica das escolas na organização do quotidiano educativo, o regime estabelecido no presente decreto-lei contempla um conjunto de exceções, expressamente delimitadas, que permitem a utilização destes equipamentos tecnológicos em situações devidamente justificadas por razões pedagógicas, de saúde ou de tradução, desde que previamente autorizadas por um docente responsável ou pelo responsável da atividade.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, o Conselho Nacional de Educação, o Conselho das Escolas, a Associação dos Estabelecimentos de Ensino Particular e Cooperativo e a CONFAP - Confederação Nacional das Associações de Pais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
