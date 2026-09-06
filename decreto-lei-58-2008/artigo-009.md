@@ -18,4 +18,10 @@
 
 8 - É proibido o transporte de animais perigosos e potencialmente perigosos, nos termos previstos no Decreto-Lei n.º 315/2009, de 29 de outubro, alterado pela Lei n.º 46/2013, de 4 de julho.
 
-9 - Sem prejuízo do disposto no presente decreto-lei, as condições gerais do transporte definem a quantidade de bagagens de mão e objectos portáteis admitidos gratuitamente nas carruagens, bem como as condições de transporte de velocípedes.
+9 - Sem prejuízo do disposto no presente decreto-lei, as condições gerais do transporte definem a quantidade, a dimensão e o peso de bagagens de mão e objetos portáteis admitidos, gratuitamente, nas carruagens, bem como as condições de transporte de velocípedes.
+
+10 - As empresas ferroviárias disponibilizam, em formato físico ou digital, nos locais de partida e nos respetivos sítios e aplicações de Internet as condições que se aplicam ao transporte de velocípedes, bem como as informações atualizadas sobre a capacidade existente, utilizando as aplicações telemáticas referidas no Regulamento (UE) n.º 454/2011, da Comissão, de 5 de maio.
+
+11 - Se um passageiro efetuar uma reserva para um velocípede e o seu transporte for recusado sem motivo devidamente justificado, o passageiro tem direito ao reencaminhamento ou ao reembolso, a indemnização ou a assistência nos termos previstos no presente decreto-lei e no Regulamento (UE) 2021/782.
+
+12 - As autoridades de transportes previstas no Regime Jurídico do Serviço Público de Transporte de Passageiros, aprovado em anexo à Lei n.º 52/2015, de 9 de junho, devem elaborar e manter atualizados planos que estabeleçam a forma de aumentar e melhorar o transporte de velocípedes, bem como outras soluções que incentivem a utilização combinada de caminhos-de-ferro e bicicletas.

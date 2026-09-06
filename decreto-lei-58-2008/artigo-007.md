@@ -2,13 +2,13 @@
 
 ### Título de transporte
 
-1 - O passageiro está obrigado a munir-se de título de transporte e a conservá-lo até ao final da viagem, saída do cais ou da estação, devendo validá-lo, designadamente no sistema de bilhética sem contacto, quando existente, e apresentá-lo aos agentes do operador encarregues da fiscalização sempre que solicitado.
+1 - O passageiro está obrigado a munir-se de título de transporte e a conservá-lo até ao final da viagem, saída do cais ou da estação, devendo validá-lo, designadamente no sistema de bilhética sem contacto, quando existente e em regular funcionamento, e apresentá-lo aos agentes do operador encarregues da fiscalização sempre que solicitado.
 
 2 - Em caso de desmaterialização, deterioração ou perda do título de transporte, o passageiro pode provar a sua existência por meio de fatura, recibo ou outro documento comprovativo da respetiva aquisição e validade, nos termos a definir nas condições gerais de transporte.
 
 3 - Em caso de deterioração que impeça a leitura do título de transporte, ou do documento substitutivo admitido, o operador não está obrigado à sua aceitação ou substituição.
 
-4 - O passageiro que inicie a sua viagem num local onde não se efectua a venda de títulos de transporte ou onde não seja possível obter esse título fica obrigado a adquiri-lo, logo após o embarque, no decurso da viagem.
+4 - O passageiro deve adquirir o seu título de transporte antes do embarque, nas bilheteiras, outros pontos de venda ou nas máquinas de emissão automática, ou ainda por outras vias disponibilizadas pelo operador, nomeadamente telefone, Internet ou qualquer outra tecnologia de informação disponível, sem prejuízo da possibilidade de aquisição a bordo, nos termos a definir nas condições gerais de transporte.
 
 5 - O título de transporte é válido apenas para o tipo de serviço para que foi adquirido, salvo se as condições gerais de transporte, o contrato de serviço público, o contrato de acesso e utilização da infraestrutura ou as autoridades de transportes permitirem a sua utilização noutro tipo de serviço.
 
