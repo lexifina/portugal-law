@@ -1,0 +1,30 @@
+# Resolução do Conselho do Governo Regional n.º 859/2026
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 162/2026, de 2026-09-09
+
+**Sumário:** Louva publicamente o atleta madeirense Bernardo Andrade de Leça Pereira, o Clube Naval da Calheta e a Associação Regional de Canoagem da Madeira, pela conquista ao serviço da Seleção Nacional, de duas medalhas de ouro, no Campeonato da Europa de Canoagem de Mar 2026, na especialidade de canoagem de mar, na classe de SS1, nos escalões de Absolutos e de Sub-23 masculinos, na modalidade de canoagem. Resolução do Conselho do Governo Regional n.º 860/2026 Louva publicamente a atleta madeirense Joana Rosa Costa Semedo, do Sport Lisboa e Benfica, pela conquista da Supertaça Kempa 2026, no escalão de seniores femininos, na modalidade de andebol. Resolução do Conselho do Governo Regional n.º 861/2026 Louva publicamente as atletas madeirenses Gabriela Alves Andrade e Isabela Sousa Serrão, o Clube Amigos do Basquete e a Associação de Basquetebol da Madeira, pela conquista ao serviço da Seleção Nacional, da medalha de ouro, no FIBA U16 Women’s EuroBasket 2026 Division B, no escalão de Sub-16 femininos, na modalidade de basquetebol. Resolução do Conselho do Governo Regional n.º 862/2026 Louva publicamente a atleta madeirense Francisca Gomes Henriques, o Club Sport Marítimo da Madeira e a Associação de Patinagem da Madeira, pela conquista ao serviço da Seleção Nacional, da medalha de prata, nos Jogos do Mediterrâneo Taranto 2026, na variante de estrada, na prova de maratona, no escalão de seniores femininos, na modalidade de patinagem de velocidade.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 859/2026
+Sumário: Louva publicamente o atleta madeirense Bernardo Andrade de Leça Pereira, o Clube Naval da Calheta e a Associação Regional de Canoagem da Madeira, pela conquista ao serviço da Seleção Nacional, de duas medalhas de ouro, no Campeonato da Europa de Canoagem de Mar 2026, na especialidade de canoagem de mar, na classe de SS1, nos escalões de Absolutos e de Sub-23 masculinos, na modalidade de canoagem.
+Texto: Resolução n.º 859/2026 Considerando os excelentes resultados desportivos alcançados pelo atleta madeirense, Bernardo Andrade de Leça Pereira, do Clube Naval da Calheta, ao conquistar ao serviço da Seleção Nacional, duas medalhas de ouro, no Campeonato da Europa de Canoagem de Mar 2026, na especialidade de canoagem de mar, na classe de SS1, nos escalões de Absolutos e de Sub-23 masculinos, na modalidade de canoagem; Considerando que com a obtenção deste resultado prestigiou a Região Autónoma da Madeira, o Conselho do Governo reunido em plenário em 3 de setembro de 2026, resolve louvar publicamente o atleta, o clube e a Associação Regional de Canoagem da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução do Conselho do Governo Regional n.º 860/2026
+Sumário: Louva publicamente a atleta madeirense Joana Rosa Costa Semedo, do Sport Lisboa e Benfica, pela conquista da Supertaça Kempa 2026, no escalão de seniores femininos, na modalidade de andebol.
+Texto: Resolução n.º 860/2026 Considerando o excelente resultado desportivo alcançado pela atleta madeirense, Joana Rosa Costa Semedo, do Sport Lisboa e Benfica, ao conquistar a Supertaça Kempa 2026, no escalão de seniores femininos, na modalidade de andebol; Considerando que com a obtenção deste resultado prestigiou a Região Autónoma da Madeira, o Conselho do Governo reunido em plenário em 3 de setembro de 2026, resolve louvar publicamente a atleta.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Resolução do Conselho do Governo Regional n.º 861/2026
+Sumário: Louva publicamente as atletas madeirenses Gabriela Alves Andrade e Isabela Sousa Serrão, o Clube Amigos do Basquete e a Associação de Basquetebol da Madeira, pela conquista ao serviço da Seleção Nacional, da medalha de ouro, no FIBA U16 Women’s EuroBasket 2026 Division B, no escalão de Sub-16 femininos, na modalidade de basquetebol.
+Texto: Resolução n.º 861/2026 Considerando o excelente resultado desportivo alcançado pelas atletas madeirenses, Gabriela Alves Andrade e Isabela Sousa Serrão, do Clube Amigos do Basquete, ao conquistarem, ao serviço da Seleção Nacional, a medalha de ouro, no FIBA U16 Women’s EuroBasket 2026 Division B, no escalão de Sub-16 femininos, na modalidade de basquetebol; Considerando que com a obtenção deste resultado prestigiaram a Região Autónoma da Madeira, o Conselho do Governo reunido em plenário em 3 de setembro de 2026, resolve louvar publicamente as atletas, o clube e a Associação de Basquetebol da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Resolução do Conselho do Governo Regional n.º 862/2026
+Sumário: Louva publicamente a atleta madeirense Francisca Gomes Henriques, o Club Sport Marítimo da Madeira e a Associação de Patinagem da Madeira, pela conquista ao serviço da Seleção Nacional, da medalha de prata, nos Jogos do Mediterrâneo Taranto 2026, na variante de estrada, na prova de maratona, no escalão de seniores femininos, na modalidade de patinagem de velocidade.
+Texto: Resolução n.º 862/2026 Considerando o excelente resultado desportivo alcançado pela atleta madeirense, Francisca Gomes Henriques, do Club Sport Marítimo da Madeira, ao conquistar ao serviço da Seleção Nacional, a medalha de prata, nos Jogos do Mediterrâneo Taranto 2026, na variante de estrada, na prova de maratona, no escalão de seniores femininos, na modalidade de patinagem de velocidade;
+
+Considerando que com a obtenção deste resultado prestigiou a Região Autónoma da Madeira, o Conselho do Governo reunido em plenário em 3 de setembro de 2026, resolve louvar publicamente a atleta, o clube e a Associação de Patinagem da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
