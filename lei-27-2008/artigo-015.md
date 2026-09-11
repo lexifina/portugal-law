@@ -12,7 +12,7 @@ c) Indicação de pedidos de proteção internacional anteriores;
 
 d) Relato das circunstâncias ou factos que fundamentam a necessidade de proteção internacional;
 
-e) Permitir a recolha das impressões digitais de todos os dedos, desde que tenha, pelo menos, 14 anos de idade, nos termos previstos no Regulamento (UE) n.º 603/2013, do Parlamento Europeu e do Conselho, de 26 de junho, relativo à criação do sistema "Eurodac" de comparação de impressões digitais;
+e) Permitir a recolha de dados biométricos, desde que tenha, pelo menos, 6 anos de idade, nos termos previstos no Regulamento (UE) 2024/1358 do Parlamento Europeu e do Conselho, de 14 de maio de 2024, relativo à criação do sistema ‘Eurodac’ de comparação de dados biométricos;
 
 f) Manter a AIMA, I. P., informada sobre a sua residência, devendo imediatamente comunicar a este serviço qualquer alteração de morada;
 

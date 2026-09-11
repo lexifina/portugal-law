@@ -10,4 +10,6 @@
 
 4 - Os exames médicos e as medidas a que se refere o número anterior não devem ter carácter sistemático.
 
-5 - Aos requerentes particularmente vulneráveis é prestada assistência médica ou outra que se revele necessária.
+5 - Aos requerentes particularmente vulneráveis é prestada assistência médica ou outra que se revele necessária e adequada, nas mesmas condições que os cidadãos nacionais.
+
+6 - Pode ser exigido aos requerentes que contribuam, total ou parcialmente, para a cobertura dos encargos relativos a cuidados de saúde recebidos, se o requerente tiver meios suficientes, com exceção dos cuidados de saúde que sejam prestados gratuitamente aos cidadãos nacionais.

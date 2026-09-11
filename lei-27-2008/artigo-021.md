@@ -2,8 +2,8 @@
 
 ### Efeitos da decisão
 
-1 - A decisão de admissibilidade do pedido de proteção internacional determina a instrução do procedimento nos termos do previsto na secção III do capítulo III.
+1 - A decisão de aceitação do pedido determina a instrução do procedimento nos termos do previsto na secção iii do presente capítulo.
 
-2 - A decisão de não admissibilidade do pedido determina a notificação do requerente para abandono do país no prazo de 20 dias, caso se encontre em situação irregular.
+2 - A decisão de não aceitação do pedido determina a instauração, por parte da Polícia de Segurança Pública (PSP), de processo de afastamento coercivo nos termos previstos no regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, aprovado pela Lei n.º 23/2007, de 4 de julho.
 
-3 - Caso o requerente não cumpra o disposto no número anterior, a AIMA, I. P., deve promover o processo com vista ao seu afastamento coercivo, nos termos previstos no regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, aprovado pela Lei n.º 23/2007, de 4 de julho, na sua redação atual.
+3 - [Revogado.]
