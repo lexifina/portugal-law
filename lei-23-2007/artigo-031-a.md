@@ -1,0 +1,29 @@
+# Artigo 31.º-A
+
+### Indicações relativas à saída do território ou a impedimentos de viajar
+
+1 - É recusada a saída do território nacional a quem tenha sido impedido de viajar ou de abandonar o país, quando tal restrição tenha sido decretada judicialmente, devendo as decisões judiciais e demais informação legalmente exigida ser enviadas à UCFE, com caráter de urgência, para efeitos de criação de indicação de interdição de saída ou viagem no sistema de informação nacional de medidas cautelares e, sempre que o Tribunal o determine, ao Gabinete Nacional SIRENE para inserção de indicação de impedimento de viajar no SIS, aplicável ao território dos restantes Estados membros da União Europeia e dos Estados onde vigore a Convenção de Aplicação, nos termos e para efeitos do disposto no artigo 32.º do Regulamento (UE) 2018/1862, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018.
+
+2 - As indicações relativas a impedimento de viajar a inserir no SIS abrangem, nomeadamente:
+
+a) Adultos desaparecidos, maiores acompanhados, internandos ou internados compulsivamente e vítimas de crime especialmente vulneráveis, impedidos de viajar para sua própria proteção devido a um risco concreto e manifesto de serem retirados ou de deixarem o território nacional ou o dos Estados membros da União Europeia ou o dos signatários da Convenção de aplicação;
+
+b) Menores em fuga ou desaparecidos beneficiários de processo de promoção e proteção, com ou sem medida aplicada ou com medida tutelar educativa de internamento aplicada;
+
+c) Menores que corram risco, concreto e manifesto, de iminente rapto por um dos progenitores, familiar ou tutor e devam ser impedidos de viajar, sem prejuízo do disposto para os casos de rapto não parental no Protocolo do Sistema Alerta Rapto de Menores criado no âmbito da Resolução da Assembleia da República n.º 39/2008, de 11 de julho;
+
+d) Menores que se encontrem em risco, concreto e manifesto, de serem retirados ou de deixarem o território nacional ou o dos Estados membros da União Europeia ou o dos signatários da Convenção de Aplicação, e virem a ser vítimas de tráfico de seres humanos, casamento forçado, mutilação genital feminina ou de outras formas de violência de género, de infrações terroristas ou de virem a ser envolvidos em tais infrações ou recrutados ou alistados por grupos armados ou levados a participar ativamente em hostilidades.
+
+3 - No caso das pessoas que devam ser colocadas sob proteção ou impedidas de viajar para sua própria proteção, quando as indicações forem inseridas por outro Estado membro, deverá a entidade executante da indicação proceder ao contacto imediato com a autoridade judiciária territorialmente competente para efeitos da determinação das medidas a adotar em articulação com o Gabinete Nacional SIRENE e as autoridades do Estado membro autor da indicação, em conformidade com o disposto nos n.os 2 e 3 do artigo 33.º do Regulamento (UE) 2018/1862, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018.
+
+4 - Em situações excecionais, de manifesta e fundamentada urgência e impossibilidade de recurso, em tempo útil, à competente autoridade judicial, as indicações referidas nos n.os 1 e 2 podem ainda ser emitidas pelas autoridades de polícia criminal ou autoridades de saúde competentes em razão da matéria, que as comunicam de imediato à autoridade judiciária territorialmente competente, para efeitos de validação judicial no prazo máximo de 48 horas para as indicações previstas nas alíneas c), d) e e) do n.º 1 do artigo 32.º do Regulamento (UE) 2018/1862, do Parlamento Europeu e do Conselho, 28 de novembro de 2018, e de 15 dias para as indicações previstas na alínea a) do n.º 1 do mesmo diploma.
+
+5 - A interdição de saída do território nacional relativa a menor decretada no âmbito de processo de regulação de responsabilidades parentais ou de promoção da sua proteção vigora até alteração dessa decisão judicial ou logo que aquele atinja a maioridade.
+
+6 - Quando não seja possível acautelar em tempo útil a proteção jurisdicional de menores no que respeita à sua saída do território nacional, a oposição à saída pode ter lugar, excecionalmente e a título de alerta, mediante manifestação comunicada à força ou serviço de segurança competente por quem invoque e comprove, nos termos previstos no Código Civil, legitimidade na salvaguarda da integridade e dos interesses do menor.
+
+7 - A indicação de oposição à saída referida no número anterior é inscrita por um prazo máximo de 90 dias no SII UCFE se os interessados obtiverem e remeterem à força ou serviço de segurança competente nos primeiros 30 dias cópia do pedido de confirmação da oposição no âmbito de processo judicial, designadamente de processo tutelar cível ou de promoção e proteção, para que avalie a sua necessidade em razão dos interesses do menor, condição para comunicação da indicação ao Gabinete Nacional SIRENE e da sua inserção no SIS.
+
+8 - Os prazos de conservação e a aferição da necessidade de manutenção, prorrogação ou da supressão das indicações referidas no presente artigo obedecem ao concretamente determinado pela respetiva autoridade judicial, equacionados nos termos da legislação aplicável e com os limites previstos nos n.os 5 a 7 do artigo 32.º e nos artigos 53.º e 55.º do Regulamento (UE) 2018/1862, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018.
+
+9 - No âmbito do controlo de fronteira, a descoberta de indicação relativa a impedimento de viajar inserida por outro Estado membro da União Europeia determina a execução imediata dos procedimentos de consulta e das medidas referidas no artigo 33.º do Regulamento (UE) 2018/1862, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, devendo o acolhimento e o regresso ser assistidos, sempre que pertinente, pelos organismos adequados tendo em conta o superior interesse do menor e o bem-estar das pessoas visadas pela indicação.
