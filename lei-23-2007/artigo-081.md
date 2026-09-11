@@ -2,7 +2,7 @@
 
 ### Pedido de autorização de residência
 
-1 - O pedido de autorização de residência pode ser formulado pelo interessado ou pelo representante legal e deve ser apresentado junto da AIMA, I. P., sem prejuízo do incluído nos regimes especiais constantes dos instrumentos previstos no n.º 1 do artigo 5.º
+1 - O pedido de autorização de residência pode ser formulado pelo interessado, pelo representante legal ou pelo empregador e deve ser apresentado junto da AIMA, IP, sem prejuízo dos regimes especiais constantes dos instrumentos previstos no n.º 1 do artigo 5.º
 
 2 - O pedido pode ser extensivo aos menores a cargo do requerente.
 

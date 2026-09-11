@@ -8,7 +8,7 @@
 
 3 - (Revogado.)
 
-4 - O Instituto do Emprego e da Formação Profissional, I. P., bem como os respetivos serviços competentes de cada região autónoma, mantêm um sistema de informação permanentemente atualizado e acessível ao público, através da Internet, das ofertas de emprego, divulgando-as por iniciativa própria ou a pedido das entidades empregadoras ou das associações de imigrantes reconhecidas como representativas das comunidades imigrantes pelo ACM, I. P., nos termos da lei.
+4 - O Instituto do Emprego e da Formação Profissional, IP, bem como os respetivos serviços competentes das regiões autónomas mantêm um sistema de informação das ofertas de emprego permanentemente atualizado e acessível ao público, nos respetivos sítios na Internet.
 
 5 - Pode ser emitido visto de residência para o exercício de atividade profissional subordinada aos nacionais de Estados terceiros que preencham as condições estabelecidas no artigo 52.º e que:
 

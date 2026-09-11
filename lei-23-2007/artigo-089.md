@@ -21,3 +21,5 @@ e) Quando exigível, apresentem declaração da ordem profissional respectiva de
 4 - É concedida autorização de residência ao nacional de Estado terceiro que desenvolva projeto empreendedor, incluindo a criação de empresa de base inovadora, integrado em incubadora certificada nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas das migrações, administração interna e da economia, desde que preencha os requisitos gerais do artigo 77.º, com dispensa do estabelecido na alínea a) do seu n.º 1.
 
 5 - (Revogado.)
+
+6 - O titular de autorização de residência para exercício de atividade profissional independente pode alterar a natureza da atividade mediante comunicação à AIMA, IP, sem necessidade de emissão de novo título.

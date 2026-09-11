@@ -1,3 +1,7 @@
+## Secção II
+
+## Autorização de residência
+
 ## Subsecção I
 
 ## Autorização de residência para exercício de atividade profissional
@@ -19,3 +23,5 @@
 6 - [Revogado.]
 
 7 - Após a constituição e formalização da relação laboral dentro dos 180 dias referidos na alínea c) do n.º 1 do artigo 57.º-A, pode ser requerida, na data do agendamento indicado no visto, uma autorização de residência junto do organismo competente, desde que preencha as condições gerais de concessão de autorização de residência, nos termos do artigo 77.º
+
+8 - O titular de autorização de residência para exercício de atividade profissional pode alterar o respetivo empregador mediante comunicação à AIMA, IP, sem necessidade de emissão de novo título.

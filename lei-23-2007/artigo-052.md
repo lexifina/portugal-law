@@ -18,7 +18,7 @@ f) Disponha de seguro de viagem;
 
 g) Disponha de autorização parental ou documento equivalente, quando o requerente for menor de idade e durante o período de estada não esteja acompanhado por quem exerce as responsabilidades parentais ou responsabilidades no âmbito do maior acompanhado.
 
-2 - Para a concessão de visto de estada temporária, de visto para procura de trabalho qualificado e de visto de curta duração é ainda exigido título de transporte que assegure o seu regresso.
+2 - Para a concessão de visto de estada temporária, de visto para procura de trabalho qualificado e de visto de curta duração é ainda exigido título de transporte que assegure o seu regresso, com a exceção dos requerentes de visto de curta duração para trabalho sazonal ou estada temporária para o mesmo fim.
 
 3 - É recusado visto de residência ou de estada temporária ao nacional de Estado terceiro que tenha sido condenado por crime que, em Portugal, seja punível com pena privativa de liberdade de duração superior a um ano, ainda que esta não tenha sido cumprida ou a sua execução tenha sido suspensa.
 

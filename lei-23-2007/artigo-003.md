@@ -26,9 +26,9 @@ vi) Transferência de capitais no montante igual ou superior a (euro) 250 000 eu
 
 vii) Transferência de capitais no montante igual ou superior a (euro) 500 000, destinados à aquisição de unidades de participação em fundos de investimento ou fundos de capitais de risco vocacionados para a capitalização de empresas, que sejam constituídos ao abrigo da legislação portuguesa, cuja maturidade, no momento do investimento, seja de, pelo menos, cinco anos e, pelo menos, 60 % do valor dos investimentos seja concretizado em sociedades comerciais sediadas em território nacional;
 
-vii) Transferência de capitais no montante igual ou superior a 500 000 (euro), destinados à aquisição de partes de organismos de investimento coletivo não imobiliários, que sejam constituídos ao abrigo da legislação portuguesa, cuja maturidade, no momento do investimento, seja de, pelo menos, cinco anos e, pelo menos, 60 % do valor dos investimentos seja concretizado em sociedades comerciais sediadas em território nacional;
+viii) Transferência de capitais no montante igual ou superior a 500 000 (euro), destinados à aquisição de partes de organismos de investimento coletivo não imobiliários, que sejam constituídos ao abrigo da legislação portuguesa, cuja maturidade, no momento do investimento, seja de, pelo menos, cinco anos e, pelo menos, 60 % do valor dos investimentos seja concretizado em sociedades comerciais sediadas em território nacional;
 
-viii) Transferência de capitais no montante igual ou superior a 500 000 (euro), destinados à constituição de uma sociedade comercial com sede em território nacional, conjugada com a criação de cinco postos de trabalho permanentes, ou para reforço de capital social de uma sociedade comercial com sede em território nacional, já constituída, com a criação de, pelo menos, cinco postos de trabalho permanentes ou manutenção de, pelo menos, dez postos de trabalho, com um mínimo de cinco permanentes, e por um período mínimo de três anos;
+ix) Transferência de capitais no montante igual ou superior a 500 000 (euro), destinados à constituição de uma sociedade comercial com sede em território nacional, conjugada com a criação de cinco postos de trabalho permanentes, ou para reforço de capital social de uma sociedade comercial com sede em território nacional, já constituída, com a criação de, pelo menos, cinco postos de trabalho permanentes ou manutenção de, pelo menos, dez postos de trabalho, com um mínimo de cinco permanentes, e por um período mínimo de três anos;
 
 e) «Cartão azul UE» o título de residência que habilita um nacional de um país terceiro a residir e a exercer, em território nacional, uma atividade profissional subordinada altamente qualificada;
 
@@ -122,13 +122,21 @@ tt) «Convenção de acolhimento» o contrato ou outro documento outorgado pelo 
 
 uu) «Estabelecimento de formação profissional» um estabelecimento público ou privado reconhecido oficialmente e cujos programas de formação sejam reconhecidos;
 
-vv) 'Sistema Integrado de Informação UCFE': sistema de informação de dados pessoais e dados relativos a bens jurídicos que integra informação de natureza policial e de cooperação policial internacional em matéria de fronteiras e estrangeiros, de utilização comum às forças e serviços de segurança, acessível por estas, e demais entidades, de acordo com as suas necessidades e competências legais (SII UCFE);
+vv) «Sistema Integrado de Informação UCFE»: sistema de informação de dados pessoais e dados relativos a bens jurídicos que integra informação de natureza policial e de cooperação policial internacional em matéria de fronteiras e estrangeiros, de utilização comum às forças e serviços de segurança, acessível por estas, e demais entidades, de acordo com as suas necessidades e competências legais (SII UCFE);
 
-ww) 'Sistema Integrado de Informação AIMA': sistema de informação de dados pessoais e dados relativos a bens jurídicos que integra informação de natureza não policial e de cooperação internacional em matéria de estrangeiros (SII AIMA);
+ww) «Sistema Integrado de Informação AIMA»: sistema de informação de dados pessoais e dados relativos a bens jurídicos que integra informação de natureza não policial e de cooperação internacional em matéria de estrangeiros (SII AIMA);
 
-xx) 'Apátrida' toda a pessoa que não seja considerada por qualquer Estado, segundo a sua legislação ou por efeito de aplicação da lei, como seu nacional;
+xx) «Apátrida» toda a pessoa que não seja considerada por qualquer Estado, segundo a sua legislação ou por efeito de aplicação da lei, como seu nacional;
 
-yy) ‘Sistema de Entrada/Saída (SES)’, o sistema estabelecido pelo Regulamento (UE) 2017/2226, do Parlamento Europeu e do Conselho, de 30 de novembro de 2017, que estabelece o Sistema de Entrada/Saída (SES) para registo dos dados das entradas e saídas e dos dados das recusas de entrada dos nacionais de países terceiros aquando da passagem das fronteiras externas dos Estados-Membros, que determina as condições de acesso ao SES para efeitos de aplicação da lei, e que altera a Convenção de Aplicação do Acordo de Schengen e os Regulamentos (CE) n.º 767/2008 e (UE) n.º 1077/2011 [Regulamento (UE) 2017/2226].
+yy) «Sistema de Entrada/Saída (SES)», o sistema estabelecido pelo Regulamento (UE) 2017/2226, do Parlamento Europeu e do Conselho, de 30 de novembro de 2017, que estabelece o Sistema de Entrada/Saída (SES) para registo dos dados das entradas e saídas e dos dados das recusas de entrada dos nacionais de países terceiros aquando da passagem das fronteiras externas dos Estados-Membros, que determina as condições de acesso ao SES para efeitos de aplicação da lei, e que altera a Convenção de Aplicação do Acordo de Schengen e os Regulamentos (CE) n.º 767/2008 e (UE) n.º 1077/2011 [Regulamento (UE) 2017/2226];
+
+zz) «Triagem», o procedimento obrigatório de avaliação primária que inclui a identificação ou verificação de identidade, recolha de dados biométricos, avaliação médica, controlo preliminar da vulnerabilidade, avaliação de riscos de segurança, preenchimento de um formulário de triagem e encaminhamento da pessoa para o procedimento adequado;
+
+aaa) «Centro de triagem», os espaços designados para realização dos procedimentos de triagem de nacionais de países terceiros, nomeadamente postos de fronteira, centros de instalação temporária ou espaços equiparados ou outros locais definidos, a designar por despacho do membro do Governo responsável pela área da administração interna, englobando o centro nacional de triagem, centros regionais de triagem, centros de apoio à triagem e centros móveis de triagem;
+
+bbb) «Mecanismo de supervisão independente», a entidade ou estrutura com competências legais para monitorizar o respeito pelos direitos fundamentais e das garantias legais durante os procedimentos de triagem, com poderes de acesso, denúncia e recomendação;
+
+ccc) «Procedimento de regresso na fronteira», o regime aplicável aos nacionais de países terceiros e apátridas cujo pedido de proteção internacional não tenha sido aceite no âmbito de um procedimento de asilo na fronteira, permanecendo num local designado sem autorização de entrada em território nacional, com vista ao seu afastamento.
 
 2 - O montante ou requisito quantitativo mínimo da atividade de investimento prevista nas subalíneas ii), v) e vi) da alínea d) do número anterior pode ser inferior em 20 %, quando a atividade seja efetuada em territórios de baixa densidade.
 

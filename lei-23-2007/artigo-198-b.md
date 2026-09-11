@@ -2,7 +2,7 @@
 
 ### Apoio ao cidadão nacional de país terceiro cuja atividade foi utilizada ilegalmente
 
-1 - Os sindicatos ou associações de imigrantes com representatividade reconhecida, nos termos da lei, pelo ACIDI, I. P., e outras entidades com atribuições ou atividades na integração dos imigrantes, podem apresentar denúncia contra o empregador e o utilizador da atividade de cidadão estrangeiro em situação ilegal, junto do serviço com competência inspetiva do ministério responsável pela área laboral, nomeadamente nos seguintes casos:
+1 - Os sindicatos e outras entidades com atribuições ou atividades na integração dos imigrantes podem apresentar denúncia contra o empregador e o utilizador da atividade do nacional de país terceiro em situação ilegal, junto do serviço com competência inspetiva do ministério responsável pela área do emprego, nomeadamente nos seguintes casos:
 
 a) Por falta de pagamento de créditos salariais;
 

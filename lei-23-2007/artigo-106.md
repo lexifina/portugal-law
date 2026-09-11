@@ -20,7 +20,7 @@ b) Saúde pública, devem ser tomadas em consideração doenças definidas nos i
 
 4 - O indeferimento do pedido apresentado por refugiado não pode ter por fundamento único a falta de documentos comprovativos da relação familiar.
 
-5 - Do indeferimento do pedido é enviada cópia, com os respetivos fundamentos, ao ACIDI, I. P., e ao Conselho Consultivo, sem prejuízo das normas aplicáveis em matéria de proteção de dados pessoais.
+5 - [Revogado.]
 
 6 - A decisão de indeferimento é notificada ao requerente com indicação dos seus fundamentos, dela devendo constar o direito de impugnação judicial e o respectivo prazo.
 

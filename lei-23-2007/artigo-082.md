@@ -8,16 +8,18 @@
 
 a) Proceder à consulta direta e imediata das bases de dados do SIS; e
 
-b) Sempre que julgar necessário e justificado, solicitar e obter da UCFE informação com vista à verificação da inexistência de razões de segurança interna ou de ordem pública, bem como de prevenção da imigração ilegal e da criminalidade conexa.
+b) Solicitar, sempre que considere necessário e justificado, e obter da UCFE informação com vista à verificação da inexistência de razões de segurança interna ou de ordem pública, bem como de prevenção da imigração ilegal e da criminalidade conexa;
+
+c) Proceder à consulta direta e imediata da base de dados do Sistema de Informação sobre Vistos (VIS), assegurando a interoperabilidade documental e biométrica dos dados e documentos recolhidos ou apresentados na fase consular do pedido, no âmbito das suas atribuições.
 
 3 - A UCFE disponibiliza à AIMA, I. P., a informação referida na alínea b) do número anterior, no prazo de 15 dias.
 
 4 - A ausência de prestação de informação pela UCFE à AIMA, I. P., no prazo previsto no número anterior, corresponde à inexistência de razões de segurança interna ou de ordem pública, de prevenção da imigração ilegal e da criminalidade conexa que não admitam a concessão ou renovação da autorização de residência.
 
-5 - O pedido de concessão de autorização de residência deve ser decidido no prazo de 90 dias.
+5 - Sem prejuízo de outros prazos de decisão previstos na presente lei, o pedido de concessão de autorização de residência deve ser decidido no prazo de 90 dias, o qual pode ser prorrogado por 30 dias, em circunstâncias excecionais e devidamente justificadas, designadamente em razão da complexidade do processo, sendo o requerente informado desta prorrogação.
 
 6 - O pedido de renovação de autorização de residência deve ser decidido no prazo de 60 dias.
 
-7 - Na falta de decisão no prazo previsto no número anterior, por causa não imputável ao requerente, o pedido entende-se como deferido, sendo a emissão do título de residência imediata.
+7 - [Revogado.]
 
-8 - A decisão de indeferimento é notificada ao interessado, com indicação dos fundamentos, bem como do direito de impugnação judicial e do respectivo prazo, sendo enviada cópia ao Conselho Consultivo.
+8 - A decisão de indeferimento é notificada ao interessado, com indicação dos fundamentos, bem como do direito de impugnação judicial e do respetivo prazo.

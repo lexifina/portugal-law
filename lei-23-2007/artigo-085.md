@@ -12,6 +12,8 @@ c) Em relação ao seu titular existam razões sérias para crer que cometeu act
 
 d) Por razões de ordem ou segurança públicas.
 
+e) Se concluir que o seu titular está sujeito a uma medida restritiva da União Europeia.
+
 2 - Sem prejuízo da aplicação de disposições especiais, a autorização de residência pode igualmente ser cancelada quando o interessado, sem razões atendíveis, se ausente do País:
 
 a) Sendo titular de uma autorização de residência temporária, seis meses consecutivos ou oito meses interpolados, no período total de validade da autorização;
@@ -22,7 +24,7 @@ b) Sendo titular de uma autorização de residência permanente, 24 meses seguid
 
 4 - Não é cancelada a autorização de residência aos cidadãos que estejam ausentes por períodos superiores aos previstos no n.º 2, quando comprovem que durante a sua ausência de território nacional desenvolveram atividade profissional ou empresarial ou de natureza cultural ou social.
 
-5 - O cancelamento da autorização de residência deve ser notificado ao interessado e comunicado, por via electrónica, ao ACIDI, I. P., e ao Conselho Consultivo com indicação dos fundamentos da decisão e implica a apreensão do correspondente título.
+5 - O cancelamento da autorização de residência é notificado ao interessado, com indicação dos fundamentos da decisão, e implica a apreensão do respetivo título.
 
 6 - É competente para o cancelamento da autorização de residência o membro do Governo responsável pela área das migrações, com faculdade de delegação no conselho diretivo da AIMA, I. P.
 

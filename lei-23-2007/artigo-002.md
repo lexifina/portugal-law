@@ -16,7 +16,7 @@ e) Directiva n.º 2004/82/CE, do Conselho, de 29 de Abril, relativa à obrigaç�
 
 f) Directiva n.º 2004/114/CE, do Conselho, de 13 de Dezembro, relativa às condições de admissão de nacionais de países terceiros para efeitos de estudos, de intercâmbio de estudantes, de formação não remunerada ou de voluntariado;
 
-g) Directiva n.º 2005/71/CE, do Conselho, de 12 de Outubro, relativa a um procedimento específico de admissão de nacionais de países terceiros para efeitos de investigação científica.
+g) Directiva n.º 2005/71/CE, do Conselho, de 12 de Outubro, relativa a um procedimento específico de admissão de nacionais de países terceiros para efeitos de investigação científica;
 
 h) Diretiva n.º 2008/115/CE, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativa a normas e procedimentos comuns nos Estados membros para o regresso de nacionais de países terceiros em situação irregular;
 
@@ -26,13 +26,15 @@ j) Diretiva n.º 2009/52/CE, do Parlamento Europeu e do Conselho, de 18 de junho
 
 k) Diretiva n.º 2011/51/UE, do Parlamento Europeu e do Conselho, de 11 de maio, que altera a Diretiva n.º 2003/109/CE, do Conselho, de modo a alargar o seu âmbito de aplicação aos beneficiários de proteção internacional;
 
-l) Diretiva n.º 2011/98/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro, relativa a um procedimento de pedido único de concessão de uma autorização única para os nacionais de países terceiros residirem e trabalharem no território de um Estado membro e a um conjunto de direitos para os trabalhadores de países terceiros que residem legalmente num Estado membro.
+l) Diretiva n.º 2011/98/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro, relativa a um procedimento de pedido único de concessão de uma autorização única para os nacionais de países terceiros residirem e trabalharem no território de um Estado membro e a um conjunto de direitos para os trabalhadores de países terceiros que residem legalmente num Estado membro;
 
 m) Diretiva 2014/36/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa às condições de entrada e de permanência de nacionais de Estados terceiros para efeitos de trabalho sazonal;
 
 n) Diretiva 2014/66/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa às condições de entrada e residência de nacionais de Estados terceiros no quadro de transferências dentro das empresas;
 
-o) Diretiva (UE) 2016/801, do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa às condições de entrada e de residência de nacionais de Estados terceiros para efeitos de investigação, de estudos, de formação, de voluntariado, de programas de intercâmbio de estudantes, de projetos educativos e de colocação au pair.
+o) Diretiva (UE) 2016/801, do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa às condições de entrada e de residência de nacionais de Estados terceiros para efeitos de investigação, de estudos, de formação, de voluntariado, de programas de intercâmbio de estudantes, de projetos educativos e de colocação au pair;
+
+p) Diretiva (UE) 2024/1233 do Parlamento Europeu e do Conselho, de 24 de abril de 2024, relativa a um procedimento de pedido único de concessão de uma autorização única para os nacionais de países terceiros residirem e trabalharem no território de um Estado-Membro e a um conjunto comum de direitos para os trabalhadores de países terceiros que residem legalmente num Estado-Membro.
 
 2 - Simultaneamente, procede-se à consolidação no direito nacional da transposição dos seguintes actos comunitários:
 

@@ -12,6 +12,6 @@
 
 3 - Pela escolta de cidadãos estrangeiros cujo afastamento do território português seja da responsabilidade dos transportadores, bem como pela colocação de passageiros não admitidos em centros de instalação temporária ou espaços equiparados, nos termos do artigo 41.º, são cobradas taxas a fixar por portaria do Ministro da Administração Interna.
 
-4 - O produto das taxas e demais encargos a cobrar pela AIMA, I. P., nos termos do n.º 2, constitui receita da AIMA, I. P, sendo definidas na portaria a que se refere o n.º 2 as contrapartidas financeiras pela receção dos pedidos de renovação de autorização de residência pelo IRN, I. P.
+4 - O produto das taxas e demais encargos a cobrar pela AIMA, IP, nos termos do n.º 2, constitui receita da AIMA, IP.
 
 5 - O produto das taxas e demais encargos a cobrar nos termos dos n.os 2 e 3 pela GNR ou pela PSP constitui receita da GNR ou da PSP.

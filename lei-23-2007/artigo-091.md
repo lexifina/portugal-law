@@ -20,7 +20,7 @@ d) Em como está abrangido pelo Serviço Nacional de Saúde ou dispõe de seguro
 
 3 - A autorização de residência concedida a estudantes do ensino superior abrangidos por programas da União Europeia ou multilaterais que incluam medidas de mobilidade, ou por um acordo entre duas ou mais instituições do ensino superior, é de dois anos ou tem a duração do programa de estudos se for inferior, podendo ser de um ano no caso de não se encontrarem reunidas à data da concessão as condições do n.º 4 do artigo 62.º
 
-4 - Pode ser concedida autorização de residência ao estudante de ensino superior que não seja titular de visto de residência emitido nos termos do artigo 62.º, desde que tenha entrado legalmente em território nacional e preencha as demais condições estabelecidas no presente artigo.
+4 - [Revogado.]
 
 5 - O estudante do ensino superior admitido em instituição do ensino superior aprovada para efeitos de aplicação da presente lei nos termos de portaria dos membros do Governo responsáveis pelas áreas das migrações, do ensino superior e da modernização administrativa está dispensado da apresentação de documentos comprovativos do pagamento de propinas e de meios de subsistência.
 

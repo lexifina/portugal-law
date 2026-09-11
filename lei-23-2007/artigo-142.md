@@ -2,13 +2,19 @@
 
 ### Medidas de coacção
 
-1 - No âmbito de processos de expulsão, para além das medidas de coacção enumeradas no Código de Processo Penal, com excepção da prisão preventiva, o juiz pode, havendo perigo de fuga, ainda determinar as seguintes:
+1 - No âmbito de processos de afastamento coercivo ou de expulsão judicial, para além das medidas de coação enumeradas no Código de Processo Penal, com exceção da prisão preventiva, o juiz, havendo perigo de fuga, pode determinar ainda as seguintes medidas de coação:
 
 a) Apresentação periódica às autoridades policiais;
 
 b) Obrigação de permanência na habitação com utilização de meios de vigilância electrónica, nos termos da lei;
 
-c) Colocação do expulsando em centro de instalação temporária ou em espaço equiparado, nos termos da lei.
+c) Colocação do cidadão estrangeiro destinatário de decisão de afastamento ou de expulsão em centro de instalação temporária ou em espaço equiparado, nos termos da lei;
+
+d) Depósito de caução ou outra garantia financeira;
+
+e) Obrigação de entrega de documentos de viagem às autoridades competentes;
+
+f) Instalação em regime aberto em centro de instalação temporária.
 
 2 - São competentes para aplicação de medidas de coacção os juízos de pequena instância criminal ou os tribunais de comarca do local onde for encontrado o cidadão estrangeiro.
 

@@ -28,7 +28,7 @@ i) Que, tendo perdido a nacionalidade portuguesa, hajam permanecido no territór
 
 j) Que não se tenham ausentado do território nacional e cujo direito de residência tenha caducado;
 
-k) Que tenham filhos menores residentes em Portugal ou com nacionalidade portuguesa sobre os quais exerçam efetivamente as responsabilidades parentais e a quem assegurem o sustento e a educação;
+k) Que tenham filhos menores com nacionalidade portuguesa, que residam em território nacional, sobre os quais exerçam efetivamente as responsabilidades parentais e a quem assegurem o sustento e a educação;
 
 l) Que sejam agentes diplomáticos e consulares ou respetivos cônjuges, ascendentes e descendentes a cargo e tenham estado acreditados em Portugal durante um período não inferior a três anos;
 

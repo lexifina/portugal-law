@@ -1,7 +1,3 @@
-## Secção II
-
-## Autorização de residência
-
 # Artigo 87.º-B
 
 ### Tutela jurisdicional

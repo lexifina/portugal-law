@@ -13,3 +13,5 @@ c) Por razões de interesse público decorrentes do exercício de uma actividade
 2 - (Revogado.)
 
 3 - As decisões do membro do Governo responsável pela área das migrações sobre os pedidos de autorização de residência que sejam formulados ao abrigo do regime excecional previsto no presente artigo devem ser devidamente fundamentadas.
+
+4 - No procedimento de concessão de autorização de residência temporária previsto no n.º 1, podem ser aproveitadas as declarações prestadas pelo requerente no âmbito de qualquer procedimento anterior que tenha corrido termos junto da AIMA, IP.

@@ -12,6 +12,6 @@
 
 5 - A decisão de cancelamento é notificada ao interessado com indicação dos seus fundamentos, dela devendo constar o direito de impugnação judicial e o respectivo prazo.
 
-6 - A decisão de cancelamento é comunicada por via eletrónica ao ACIDI, I. P., e ao Conselho Consultivo, sem prejuízo das normas aplicáveis em matéria de proteção de dados pessoais.
+6 - [Revogado.]
 
 7 - A decisão de cancelamento da autorização do membro da família com fundamento no n.º 1 é susceptível de impugnação judicial, com efeito suspensivo, perante os tribunais administrativos.
