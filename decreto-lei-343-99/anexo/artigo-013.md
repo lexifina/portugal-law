@@ -1,3 +1,19 @@
+## Capítulo II
+
+## Preenchimento de lugares das carreiras de oficial de justiça
+
+## Secção I
+
+## Requisitos
+
+## Subsecção I
+
+## Requisitos de ingresso
+
+## Subsecção II
+
+## Requisitos de acesso
+
 ## Subsecção III
 
 ## Requisitos para transferência, transição e permuta

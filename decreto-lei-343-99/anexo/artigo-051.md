@@ -18,6 +18,6 @@ b) Nos demais casos previstos na lei.
 
 4 - O funcionário na situação de disponibilidade goza de preferência absoluta na nomeação em qualquer vaga da sua categoria ou de categoria para a qual possa transitar, se o requerer.
 
-5 - Em caso de nomeação oficiosa, o funcionário não fica sujeito aos prazos previstos nos artigos 13.º e 14.º
+5 - (Revogado);
 
 6 - Enquanto se mantiver na situação de disponibilidade, o funcionário pode ser afecto pelo director-geral dos Serviços Judiciários a serviços compatíveis com a sua categoria, dentro dos limites previstos no n.º 3, independentemente da carreira a que pertença.
