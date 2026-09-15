@@ -1,0 +1,56 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "255",
+    "id": "315680",
+    "titulo": "Estabelece as regras de Utilização de Bandeiras em Edifícios de caráter público"
+  },
+  "fase": "Admissão Proposta de Alteração decreto",
+  "codigo_fase": "460",
+  "data_registo": "2026-09-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c325a6d4e7a5a6c4d6a45324c545131593249744e4442694e433035596a466c4c5463784e6d45324e6a6c6b4e474577595335775a47593d&fich=ff76e216-45cb-40b4-9b1e-716a669d4a0a.pdf&Inline=true",
+        "anexoNome": "PA n.º 1 - PS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a677a5a54457a4e6a4d324c5467784d6a41744e474d314e6931684e32466a4c54566d4e6d49325a5463324e4463354d4335775a47593d&fich=83e13636-8120-4c56-a7ac-5f6b6e764790.pdf&Inline=true",
+        "anexoNome": "PA n.º 2 - CDS-PP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32566c596a67324d574a6a4c574935597a45744e446b78596930344e6a63334c544e6c5a6a6c694d6d55784d6a686d4e5335775a47593d&fich=eeb861bc-b9c1-491b-8677-3ef9b2e128f5.pdf&Inline=true",
+        "anexoNome": "PA n.º 3 - PSD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324d31595455784d5751304c544577595467744e4451774f5331684d6d59334c574a6c5a444979596d4d774d54426b4e6935775a47593d&fich=c5a511d4-10a8-4409-a2f7-bed22bc010d6.pdf&Inline=true",
+        "anexoNome": "PA n.º 4 - CH"
+      }
+    ],
+    "CodigoFase": "460",
+    "Comissao": null,
+    "DataFase": "2026-09-15",
+    "EvtId": "61",
+    "Fase": "Admissão Proposta de Alteração decreto",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1752827",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
