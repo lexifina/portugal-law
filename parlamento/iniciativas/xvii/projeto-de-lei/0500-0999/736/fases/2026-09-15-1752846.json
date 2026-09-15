@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "736",
+    "id": "377176",
+    "titulo": "Estabelece medidas de prevenção da exposição dos trabalhadores ao calor e permite o ajuste temporário do período de laboração em situação de aviso meteorológico"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-09-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "119713",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-09-15",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2026-10-23",
+        "DatainicioApreciacaoPublica": "2026-09-23",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-09-16",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta Pública - Recolha de Contributos",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=991"
+          },
+          {
+            "DataDocumento": "2026-10-29",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Apreciação Pública",
+            "URL": "https://www.parlamento.pt/sites/COM/XVIILeg/10CTSSI/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=5545704d4947347577726f674e7a4d324c56685753556b744d634b714943306752465653554342515155343d&Path=RtfQlGCs%2b8jYTwuD15d6mlQHom7F15wnSZ1adT34p11hhbf1h7Hz%2bI%2bRbjwrRVzTs0RmWpMfbgXLWE3Io8OiPQOSCG4Pf5UDNRexu0707inqhISOIKAWZQzA0kd0Du3qEuPZ9O0k7C9Sl47Yd7n0jtPFMXquFkkqyd3d7dQd0IZDKWH6YaFWIrInguQ8S6%2bN9GcMsZDXom%2fmEj%2bQLIhyHxV7gZ%2bV516WVQvTDzqJndQeHqj8whmiVhH47RUSo8Zq6t6NyHO6Z1gxxRxcgASuCZFHFpxoyowvV%2fHVfJmDk%2br5oP5O24060yw6rNiMSSsZ0qeju%2b0xWIIpy%2brYvOjr5HI14UXtzAfxRT%2fKbpxNmuw4xdNPmYWGJgQJcHBgYHPdrzlsi%2fSOr8CF%2fUGpt8xaACodpwCFSU6cfMgsiJATL1pBDA78sky3lP9TdfhGJP%2f73st9Y9Yxw4UxHV4Q7O15Ug%3d%3d"
+          },
+          {
+            "DataDocumento": "2026-10-15",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784d454e5555314e4a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544668596a63354e4459744e444e6c4d793030595449334c5749334f5445744e474a6b5a6a55795957566a4e324d784c6e426b5a673d3d&fich=11ab7946-43e3-4a27-b791-4bdf52aec7c1.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8456",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão ",
+        "Numero": "8456",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "3939",
+            "motivoCessacao": null,
+            "nome": "Hernâni Loureiro"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-09-15",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1752846",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
