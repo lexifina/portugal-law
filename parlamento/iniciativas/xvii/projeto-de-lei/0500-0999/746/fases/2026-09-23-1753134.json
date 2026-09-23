@@ -1,0 +1,184 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "746",
+    "id": "377199",
+    "titulo": "Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2026-09-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "119748",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-09-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-09-30",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Recolha de contributo - Consulta Pública",
+            "URL": "https://www.parlamento.pt/Cidadania/Paginas/08_ContributosIniciativasII.aspx?ID_Ini=1040"
+          },
+          {
+            "DataDocumento": "2026-10-12",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Parecer da ANMP - PJL 746-XVII-2ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e554e55525551765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d6a526a4d7a59314d793034596d5a6a4c545179596a4974596d4d34596930784e5452695a44457a4e7a4130597a45756347526d&fich=c24c3653-8bfc-42b2-bc8b-154bd13704c1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-15",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Parecer da ANAFRE - PJL 746-XVII-2ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e554e55525551765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354e6a55784d5746684d7930784e6a67794c54526a4d446b74596d4d784e79316b4f4459795a6a51784d6d51794f5445756347526d&fich=96511aa3-1682-4c09-bc17-d862f412d291.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-15",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Parecer da Entidade para a Transparência - PJL 746-XVII-2ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e554e55525551765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d32497a4e3259314e7930324e444d784c54526c4d6d5574596d4d334e43316d4d444a6d4d6a67784d6a466c4d446b756347526d&fich=83b37f57-6431-4e2e-bc74-f02f28121e09.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-19",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Parecer do Conselho Superior da Magistratura - PJL 746-XVII-2ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e554e55525551765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344f4455304d5751304e4330324e444d7a4c5451304e7a6374596d526d5969316859544d3159574d774e474578596a59756347526d&fich=88541d44-6433-4477-bdfb-aa35ac04a1b6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-30",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Parecer do MENAC - PJL  746-XVII-2ª (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e554e55525551765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d6a41324d4441335a5330794e4441304c5451345a6a5974596a52684e7930334f44686a5a47597a4e7a55784f5445756347526d&fich=5206007e-2404-48f6-b4a7-788cdf375191.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-11-02",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e50545338784e554e55525551765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d7a6b305a474e69597930315a5441774c5452695a47517459575577596930354e6d59344f5441774e6a5a6d4e5441756347526d&fich=6394dcbc-5e00-4bdd-ae0b-96f890066f50.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8461",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Transparência e Estatuto dos Deputados ",
+        "Numero": "8461",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-10-19"
+          },
+          {
+            "link": "",
+            "nome": "MENAC - Mecanismo Nacional Anticorrupção em 2026-10-29"
+          },
+          {
+            "link": "",
+            "nome": "Entidade para a Transparência em 2026-10-15"
+          },
+          {
+            "link": "",
+            "nome": "ANMP - Associação Nacional de Municípios Portugueses em 2026-10-12"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2026-10-14"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2026-09-29"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2026-09-30"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2026-09-30"
+          },
+          {
+            "link": "",
+            "nome": "MENAC - Mecanismo Nacional Anticorrupção em 2026-09-30"
+          },
+          {
+            "link": "",
+            "nome": "Entidade para a Transparência em 2026-09-30"
+          },
+          {
+            "link": "",
+            "nome": "Associação Cívica Transparência e Integridade em 2026-09-30"
+          },
+          {
+            "link": "",
+            "nome": "ANMP - Associação Nacional de Municípios Portugueses em 2026-09-30"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2026-09-30"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "7363",
+            "motivoCessacao": null,
+            "nome": "Rodrigo Alves Taxa"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2026-09-23",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1753134",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
