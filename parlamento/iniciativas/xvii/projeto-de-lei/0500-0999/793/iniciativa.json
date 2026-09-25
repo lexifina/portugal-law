@@ -1,0 +1,87 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "tipo": "Projeto de Lei",
+  "numero": "793",
+  "id": "377309",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2026-09-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": null,
+    "DataInicioleg": "2026-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3255325a474d354e7a466b4c5467304e6d55744e444134596931684e6d566c4c57526d5a544e6d4e44453459546b79597935775a47593d&fich=e6dc971d-846e-408b-a6ee-dfe3f418a92c.pdf&Inline=true",
+        "anexoNome": "A. I. G"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a637a5a4455794d4751344c57526c5a5451744e445a6a4e433169596a4d774c5467324d6d526c4d54686b4e446c6d5a5335775a47593d&fich=73d520d8-dee4-46c4-bb30-862de18d49fe.pdf&Inline=true",
+        "anexoNome": "Texto (versão 1- de 28-09-2026)"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "L",
+        "idCadastro": "7356",
+        "nome": "Isabel Mendes Lopes"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "8491",
+        "nome": "Filipa Pinto"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "8869",
+        "nome": "Jorge Pinto"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "6968",
+        "nome": "Patrícia Gonçalves"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "6932",
+        "nome": "Paulo Muacho"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "7337",
+        "nome": "Rui Tavares"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "L"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "377309",
+    "IniLeg": "XVII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3251324d446468596d59784c575534595459744e4749324e5330354f44526a4c5467344e575a6c5a545a69597a63315a5335775a47593d&fich=d607abf1-e8a6-4b65-984c-885fee6bc75e.pdf&Inline=true",
+    "IniNr": "793",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do título a pedido do autor em 2026-10-01.",
+    "IniTipo": "J",
+    "IniTitulo": "Isenta de mais valia o investimento em habitação em cooperativa de propriedade coletiva",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
