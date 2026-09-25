@@ -1,0 +1,136 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1212",
+    "id": "377151",
+    "titulo": "Recomenda ao Governo que apoie os municípios na criação de programas de formação específica e contínua para o pessoal não docente das escolas, no âmbito do acompanhamento de alunos com necessidades de suporte à aprendizagem e à inclusão"
+  },
+  "fase": "Votação final",
+  "codigo_fase": "315",
+  "data_registo": "2026-09-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "82776",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "315",
+    "Comissao": null,
+    "DataFase": "2026-09-25",
+    "EvtId": "196",
+    "Fase": "Votação final",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2026-09-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "9194",
+                "nome": "Aida Carvalho"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5600",
+                "nome": "Eurico Brilhante Dias"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "469",
+                "nome": "Porfírio Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:09",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "505704",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-09-26",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/02/006/2026-09-26?org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que apoie os municípios na criação de programas de formação específica e contínua para o pessoal não docente das escolas, no âmbito do acompanhamento de alunos com necessidades de suporte à aprendizagem e à inclusão.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1753494",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "67565",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "54-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-09-26",
+        "pubLeg": "XVII",
+        "pubNr": "6",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/02/006/2026-09-26/54?pgs=54-55&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-09-25",
+        "descricao": null,
+        "detalhe": "A Favor: <I>CH</I>, <I> BE</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>, <I> IL</I>, <I> L</I>, <I> PCP</I>",
+        "id": "182934",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "6",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
