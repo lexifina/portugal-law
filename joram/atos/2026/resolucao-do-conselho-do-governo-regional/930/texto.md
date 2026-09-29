@@ -1,0 +1,20 @@
+# Resolução do Conselho do Governo Regional n.º 930/2026
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 175/2026, 4.º suplemento, de 2026-09-29
+
+**Sumário:** Autoriza a realização da despesa inerente à empreitada de Conceção Construção de 22 Fogos, Infraestruturas e Arranjos Exteriores no Bairro da Nogueira - Camacha Santa Cruz, até ao montante máximo de 5.491.356,00 €, a que acresce IVA à taxa legal em vigor.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 930/2026
+Sumário: Autoriza a realização da despesa inerente à empreitada de Conceção Construção de 22 Fogos, Infraestruturas e Arranjos Exteriores no Bairro da Nogueira - Camacha - Santa Cruz, até ao montante máximo de 5.491.356,00 €, a que acresce IVA à taxa legal em vigor.
+Texto: Resolução n.º 930/2026 Considerando a prioridade conferida à habitação social no Programa do XVI Governo Regional da Madeira para o quadriénio 2025-2029; Considerando que, através da Resolução do Conselho de Governo n.º 494/2020, de 30 de junho, foi aprovada a Estratégia Regional da Habitação, para o período 2020-2030; Considerando que, no âmbito da mencionada Estratégia Regional da Habitação, foi efetuado, pela IHM - Investimentos Habitacionais da Madeira, EPERAM (IHM, EPERAM), um diagnóstico das carências habitacionais na Região Autónoma da Madeira; Considerando que a IHM - Investimentos Habitacionais da Madeira, EPERAM, está incumbida de especiais obrigações de serviço público no âmbito da promoção de programas habitacionais de interesse social e de outras iniciativas no domínio da habitação social, bem como na gestão e conservação de património imobiliário e habitacional que lhe seja afeto; Considerando que a IHM - Investimentos Habitacionais da Madeira, EPERAM, pretende levar a efeito uma empreitada de Conceção Construção de 22 Fogos, Infraestruturas e Arranjos Exteriores no Bairro da Nogueira - Camacha - Santa Cruz; Considerando que a despesa máxima global prevista é de 5.491.356,00 € (cinco milhões quatrocentos e noventa e um mil trezentos e cinquenta e seis euros), a que acresce o IVA à taxa em legal em vigor, e que tal despesa constituirá um encargo da IHM, EPERAM para os anos de 2026, 2027, 2028 e 2029; Considerando que a assunção dos compromissos plurianuais foi prevista na Portaria n.º 541/2026, de 23 de setembro, publicada no JORAM, I Série, n.º 171, Suplemento, de 23 de setembro; O Conselho do Governo reunido em plenário em 24 de setembro de 2026, resolve:
+1. Autorizar, ao abrigo do disposto na alínea e) do n.º 1 do artigo 28.º do Decreto Legislativo Regional n.º 8/2025/M, de 30 de dezembro, a realização da despesa inerente à empreitada de Conceção Construção de 22 Fogos, Infraestruturas e Arranjos Exteriores no Bairro da Nogueira - Camacha - Santa Cruz, até ao montante máximo de 5.491.356,00 € (cinco milhões quatrocentos e noventa e um mil trezentos e cinquenta e seis euros), a que acresce IVA à taxa legal em vigor.
+2. Determinar que os encargos financeiros decorrentes da presente resolução relativos aos anos económicos de 2027, 2028 e 2029, serão inscritos nas respetivas propostas de orçamento da IHM - Investimentos Habitacionais da Madeira, EPERAM.
+3. Determinar, nos termos do disposto nos artigos 18.º, na alínea a) do artigo 19.º, 36.º, 38.º, 130.º e 131.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua atual redação o recurso ao concurso público para a execução da referida obra.
+4. Aprovar as peças do procedimento: minuta do anúncio, programa de concurso e caderno de encargos.
+5. Aprovar a proposta de júri do procedimento.
+6. Delegar, ao abrigo do disposto no n.º 1 do artigo 109.º do CCP, no Conselho de Administração da IHM, EPERAM, a competência para a prática de todos os atos a realizar no âmbito do procedimento de contratação previsto n.º 3, supra, incluindo os atos relacionados com a fase de execução do contrato.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
