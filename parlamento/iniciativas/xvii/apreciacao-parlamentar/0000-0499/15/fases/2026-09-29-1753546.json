@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "15",
+    "id": "357086",
+    "titulo": "Decreto-Lei n.º 143/2026, de 16 de julho que “Aprova a orgânica do INEM - Autoridade Nacional de Emergência Médica, I.P.”\n"
+  },
+  "fase": "Admissão Proposta de Alteração",
+  "codigo_fase": "260",
+  "data_registo": "2026-09-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3255774e5749784d6a49794c545a6a4e6a6b744e475577597931695a6a59314c5445335a544d774e474534596a45314f5335775a47593d&fich=e05b1222-6c69-4e0c-bf65-17e304a8b159.pdf&Inline=true",
+        "anexoNome": "PA N.º 1 - L"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a646d4d6a5132596a686b4c54497759546b744e4463314d4330354d5459334c5755344e3255304d4749794d6d4d79597935775a47593d&fich=7f246b8d-20a9-4750-9167-e87e40b22c2c.pdf&Inline=true",
+        "anexoNome": "PA N.º 2 - BE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a5134593251314d47457a4c574e6d4e6a59744e444d7959533169596a45784c5463354d4451795a4759784e7a5269595335775a47593d&fich=48cd50a3-cf66-432a-bb11-79042df174ba.pdf&Inline=true",
+        "anexoNome": "PA N.º 3 - CH"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c325a6d4e4749775a475a684c5745314d5759744e4441304e4330354e4455354c544e6a4d3255794e7a63794e44597a4d7935775a47593d&fich=ff4b0dfa-a51f-4044-9459-3c3e27724633.pdf&Inline=true",
+        "anexoNome": "PA N.º 4 - PS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a597a5a6a51784e324a6b4c5449334d5759744e47466c4f5330344e44466a4c575178595459334d4445335a6a526c4d6935775a47593d&fich=63f417bd-271f-4ae9-841c-d1a67017f4e2.pdf&Inline=true",
+        "anexoNome": "PA N.º 5 - JPP"
+      }
+    ],
+    "CodigoFase": "260",
+    "Comissao": null,
+    "DataFase": "2026-09-29",
+    "EvtId": "46",
+    "Fase": "Admissão Proposta de Alteração",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1753546",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
