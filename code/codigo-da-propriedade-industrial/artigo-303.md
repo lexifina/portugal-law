@@ -1,3 +1,11 @@
+## Secção II
+
+## Processo de registo
+
+## Subsecção I
+
+## Registo nacional
+
 ## Subsecção II
 
 ## Registo internacional
