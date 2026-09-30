@@ -1,0 +1,29 @@
+# Portaria n.º 551/2026
+
+**Emissor:** SECRETARIA REGIONAL DAS FINANÇAS; SECRETARIA REGIONAL DE EQUIPAMENTOS E INFRAESTRUTURAS
+
+**Publicação:** JORAM, I série, n.º 176/2026, suplemento, de 2026-09-30
+
+**Sumário:** Redistribui os encargos orçamentais da Portaria n.º 240/2026, de 11 de junho, publicada no Suplemento do Jornal Oficial, I Série, n.º 103, previstos para o procedimento “UNIDADE LOCAL DE SAÚDE DO PORTO SANTO - 2.ª FASE - A E REABILITAÇÃO ESTRUTURAL DO CAIS VELHO E RECUPERAÇÃO DO PONTÃO DAS SALINAS NA CIDADE VILA BALEIRA - PORTO SANTO - SERVIÇOS DE FISCALIZAÇÃO E COORDENAÇÃO DA OBRA”- LOTE 1 - UNIDADE LOCAL DE SAÚDE DO PORTO SANTO - 2.ª FASE - A - SERVIÇOS DE FISCALIZAÇÃO E COORDENAÇÃO DA OBRA, processo n.º 49/2025, no valor global de 688.441,09 €.
+
+## Texto
+
+Portaria n.º 551/2026
+de 30 de setembro
+Sumário: Redistribui os encargos orçamentais da Portaria n.º 240/2026, de 11 de junho, publicada no Suplemento do Jornal Oficial, I Série, n.º 103, previstos para o procedimento “UNIDADE LOCAL DE SAÚDE DO PORTO SANTO - 2.ª FASE - A E REABILITAÇÃO ESTRUTURAL
+DO CAIS VELHO E RECUPERAÇÃO DO PONTÃO DAS SALINAS NA CIDADE VILA BALEIRA - PORTO SANTO - SERVIÇOS DE FISCALIZAÇÃO E COORDENAÇÃO DA OBRA”- LOTE 1 - UNIDADE LOCAL DE SAÚDE DO PORTO SANTO - 2.ª FASE - A - SERVIÇOS DE FISCALIZAÇÃO E COORDENAÇÃO DA OBRA, processo n.º 49/2025, no valor global de 688.441,09 €.
+Texto: Dando cumprimento ao disposto nos números 1 e 2, do artigo 22.º, do Decreto-Lei n.º 197/99, de 08 de junho, mantido em vigor pelo artigo 14.º, n.º 1, alínea f) do Decreto-Lei n.º 18/2008, de 29 de janeiro, revogado pelo Decreto-Lei n.º 40/2011, de 22 de março e repristinado pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, manda o Governo Regional através do Secretário Regional das Finanças e do Secretário Regional de Equipamentos e Infraestruturas o seguinte:
+1. Redistribuir os encargos orçamentais da Portaria n.º 240/2026, publicada no JORAM, I Série, n.º 103, a 11 de junho, previstos para o procedimento “UNIDADE LOCAL DE SAÚDE DO PORTO SANTO - 2.ª FASE - A E REABILITAÇÃO ESTRUTURAL DO CAIS VELHO E RECUPERAÇÃO DO PONTÃO DAS SALINAS NA CIDADE VILA BALEIRA - PORTO SANTO - SERVIÇOS DE FISCALIZAÇÃO E COORDENAÇÃO DA OBRA”- LOTE 1 - UNIDADE LOCAL DE SAÚDE DO PORTO SANTO - 2.ª FASE - A - SERVIÇOS DE FISCALIZAÇÃO E COORDENAÇÃO DA OBRA, processo n.º 49/2025, no valor global de 688.441,09 € (seiscentos e oitenta e oito mil quatrocentos e quarenta e um euros e nove cêntimos), que ficam escalonados na forma abaixo indicada:
+Ano económico de 2025 ............................................................................................ 0,00 € Ano económico de 2026 ................................................................................. 110 328,24 € Ano económico de 2027 ................................................................................. 297 406,56 € Ano económico de 2028 ................................................................................. 211 862,20 € Ano económico de 2031 ................................................................................... 10 326,61 € Ano económico de 2033 ................................................................................... 20 653,23 € Ano económico de 2038 ................................................................................... 37 864,25 €
+2. A despesa prevista para o corrente ano económico tem cabimento na rubrica da Secretaria 50 Capítulo 50 Divisão 02 Subdivisão 02, Programa 050, Medida 023, Projeto 52574, Classificação económica 02.02.14, Alínea DS, Subalínea 00, Fontes de Financiamento 384 e 4MA e Classificação Funcional 062, do Orçamento da RAM de 2026.
+3. Redistribuir os encargos orçamentais da Portaria n.º 240/2026, publicada no JORAM, I Série, n.º 103, a 11 de junho, previstos para o procedimento “UNIDADE LOCAL DE SAÚDE DO PORTO SANTO - 2.ª FASE – A E REABILITAÇÃO ESTRUTURAL DO CAIS VELHO E RECUPERAÇÃO DO PONTÃO DAS SALINAS NA CIDADE VILA BALEIRA - PORTO SANTO - SERVIÇOS DE FISCALIZAÇÃO E COORDENAÇÃO DA OBRA”- LOTE 2 – REABILITAÇÃO ESTRUTURAL DO CAIS VELHO DO PORTO SANTO E RECUPERAÇÃO DO PONTÃO DAS SALINAS NA CIDADE VILA BALEIRA – PORTO SANTO - SERVIÇOS DE FISCALIZAÇÃO E COORDENAÇÃO DA OBRA, processo n.º 49/2025, no valor global de 180.585,00 € (cento e oitenta mil quinhentos e oitenta e cinco euros), que ficam escalonados na forma abaixo indicada:
+
+Ano económico de 2025 ........................................................................................... 0,00 € Ano económico de 2026 .................................................................................. 30 097,50 € Ano económico de 2027 ................................................................................ 120 390,00 € Ano económico de 2028 .................................................................................. 30 097,50 €
+4. A despesa prevista para o corrente ano económico tem cabimento na rubrica da Secretaria 50 Capítulo 50 Divisão 02 Subdivisão 02, Programa 052, Medida 026, Projeto 53128, Classificação económica 02.02.14, Alínea DS, Subalínea 00, Fonte de Financiamento 392 e Classificação Funcional 062, do Orçamento da RAM de 2026.
+5. Estabelecer que o montante fixado nos números anteriores para cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
+6. As verbas necessárias para os anos económicos de 2027 e seguintes serão inscritas nas respetivas propostas de orçamento da RAM de 2027 e seguintes.
+7. Aos valores acima mencionados será acrescido o IVA à taxa legal em vigor.
+8. Esta Portaria entra em vigor no dia útil seguinte ao da sua publicação.
+Assinada a 18 de setembro de 2026.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Duarte Nuno Nunes de Freitas
+O SECRETÁRIO REGIONAL DE EQUIPAMENTOS E INFRAESTRUTURAS, Pedro Alexandre Fagundes de Freitas Rodrigues
