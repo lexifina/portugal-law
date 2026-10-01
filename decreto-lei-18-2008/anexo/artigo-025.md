@@ -20,4 +20,4 @@ b) Se trate de obras a realizar para fins de investigação, de experimentação
 
 c) Se trate de realizar uma obra ao abrigo de um acordo-quadro celebrado nos termos do disposto na alínea a) do n.º 1 do artigo 252.º
 
-2 - Para a formação de contratos que digam directa e principalmente respeito a uma ou a várias das actividades exercidas nos sectores da água, da energia, dos transportes e dos serviços postais pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º, a escolha do ajuste directo ao abrigo do disposto na alínea a) do n.º 1 também permite a celebração de contratos de qualquer valor, quando a situação prevista nessa alínea tenha ocorrido em anterior procedimento de negociação.
+2 - [Revogado.]

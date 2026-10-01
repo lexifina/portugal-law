@@ -16,9 +16,9 @@
 
 7 - Sem prejuízo das regras técnicas nacionais vinculativas, na medida em que sejam compatíveis com o direito da União Europeia, as especificações técnicas devem ser formuladas segundo uma das seguintes modalidades:
 
-a) Em termos de desempenho ou de requisitos funcionais, que podem incluir critérios ambientais, desde que os parâmetros sejam suficientemente precisos para permitir que os concorrentes determinem o objeto do contrato e que a entidade adjudicante proceda à respetiva adjudicação;
+a) Em termos de desempenho ou de requisitos funcionais, que podem incluir aspetos ambientais e de eficiência energética, desde que sejam suficientemente precisos para delimitar o objeto do contrato e, se for o caso, que a entidade adjudicante os submeta à concorrência;
 
-b) Por referência a especificações técnicas definidas e, por ordem de preferência, a normas nacionais que transponham normas europeias, a homologações técnicas europeias, a especificações técnicas comuns, a normas internacionais e a outros sistemas técnicos de referência estabelecidos pelos organismos europeus de normalização ou, quando estes não existam, a normas nacionais, a homologações técnicas nacionais ou a especificações técnicas nacionais em matéria de conceção, cálculo e execução das obras e de utilização dos fornecimentos, devendo cada referência ser acompanhada da menção 'ou equivalente';
+b) Por referência a especificações técnicas definidas e, por ordem de preferência, a normas nacionais que transponham normas europeias, a homologações técnicas europeias, a especificações técnicas comuns, a normas internacionais e a outros sistemas técnicos de referência estabelecidos pelos organismos europeus de normalização ou, quando estes não existam, a normas nacionais, a homologações técnicas nacionais ou a especificações técnicas nacionais em matéria de conceção, cálculo e execução das obras e de utilização dos fornecimentos, devendo cada referência ser acompanhada da menção «ou equivalente»;
 
 c) Em termos do desempenho ou dos requisitos funcionais a que se refere a alínea a), com referência às especificações técnicas a que se refere a alínea b) como meio de presunção de conformidade com esse desempenho ou com esses requisitos funcionais;
 
@@ -26,7 +26,7 @@ d) Por referência às especificações técnicas a que se refere a alínea b), 
 
 8 - A menos que o objeto do contrato o justifique, as especificações técnicas não podem fazer referência a determinado fabrico ou proveniência, a um procedimento específico que caracterize os produtos ou serviços prestados por determinado fornecedor, ou a marcas comerciais, patentes, tipos, origens ou modos de produção determinados que tenham por efeito favorecer ou eliminar determinadas empresas ou produtos.
 
-9 - As referências mencionadas no número anterior só são autorizadas, a título excecional, no caso de não ser possível uma descrição suficientemente precisa e inteligível do objeto do contrato nos termos do n.º 7, devendo, no entanto, ser acompanhada da menção 'ou equivalente'.
+9 - As referências mencionadas no número anterior só são autorizadas, a título excecional, no caso de não ser possível uma descrição suficientemente precisa e inteligível do objeto do contrato nos termos do n.º 7, devendo, no entanto, ser acompanhada da menção «ou equivalente».
 
 10 - Sempre que a entidade adjudicante recorra à possibilidade de remeter para as especificações técnicas a que se refere na alínea b) do n.º 7, não pode excluir uma proposta com o fundamento de que as obras, bens móveis ou serviços dela constantes não estão em conformidade com as suas especificações técnicas de referência, se o concorrente demonstrar na sua proposta por qualquer meio adequado, nomeadamente os meios de prova referidos no artigo seguinte, que as soluções propostas satisfazem de modo equivalente os requisitos definidos nas especificações técnicas.
 
@@ -34,6 +34,6 @@ d) Por referência às especificações técnicas a que se refere a alínea b), 
 
 12 - O concorrente pode demonstrar na sua proposta, por qualquer meio adequado, incluindo os meios referidos no artigo 49.º-A, que a obra, bem móvel ou serviço em conformidade com a norma em questão corresponde ao desempenho exigido ou cumpre os requisitos funcionais da entidade adjudicante.
 
-13 - (Revogado.)
+13 - [Revogado.]
 
-14 - (Revogado.)
+14 - [Revogado.]

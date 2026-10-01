@@ -8,14 +8,14 @@
 
 3 - Quando for possível identificar separadamente as diferentes partes de um determinado contrato, o seu objeto principal é determinado em função do valor estimado mais elevado.
 
-4 - Quando o contrato for composto por prestações típicas pertencentes a um ou mais contratos abrangidos, e a um ou mais contratos não abrangidos pela parte ii, aplica-se a todo o contrato o regime correspondente da parte ii, relevando para o efeito o valor total do contrato.
+4 - Quando o contrato for composto por prestações típicas pertencentes a um ou mais contratos abrangidos, e a um ou mais contratos não abrangidos pela parte ii, aplica-se a todo o contrato o regime previsto para o tipo contratual que caracteriza o objeto principal do mesmo, determinado em função do valor estimado mais elevado das prestações respetivas.
 
 5 - Se um dos tipos contratuais em causa na situação do número anterior for abrangido pelo regime do Decreto-Lei n.º 104/2011, de 6 de outubro, à formação do contrato é aplicável esse regime.
 
-6 - Sem prejuízo do disposto nos n.os 1 a 4, a formação do contrato misto está sujeita ao cumprimento dos trâmites procedimentais e outros requisitos legais específicos, devidamente conjugados, aplicáveis aos vários tipos contratuais abrangidos pelo contrato.
+6 - Sem prejuízo do disposto nos n.ºs 1 a 4, a formação do contrato misto está sujeita ao cumprimento dos trâmites procedimentais e outros requisitos legais específicos, devidamente conjugados, aplicáveis aos vários tipos contratuais abrangidos pelo contrato.
 
-7 - (Revogado.)
+7 - [Revogado.]
 
-8 - (Revogado.)
+8 - [Revogado.]
 
-9 - (Revogado.)
+9 - [Revogado.]

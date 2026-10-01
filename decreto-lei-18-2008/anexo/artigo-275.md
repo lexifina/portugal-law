@@ -20,4 +20,4 @@ b) Contratos de serviços subsidiados diretamente em mais de 50 % do respetivo p
 
 3 - A formação de contratos celebrados por entidades não previstas no artigo 2.º e no artigo 7.º, que sejam financiados com recurso a subsídios sujeitos a reembolso de pelo menos 85 % do seu valor, fica excecionada do disposto no n.º 1.
 
-4 - Sem prejuízo do disposto no número anterior, à formação dos contratos aí previstos aplicam-se os princípios gerais da contratação pública, em especial, da concorrência, da imparcialidade, da igualdade, da boa administração, da transparência, da legalidade, da proporcionalidade, da boa-fé e da publicidade.
+4 - [Revogado.]

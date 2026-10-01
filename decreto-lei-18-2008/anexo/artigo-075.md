@@ -22,7 +22,7 @@ g) Promoção da inovação ou de emprego científico ou qualificado na execuç�
 
 h) Promoção de atividades culturais e dinamização de património cultural;
 
-i) Promoção do cumprimento do disposto no Código do Trabalho e convenções coletivas de trabalho, quando aplicáveis.
+i) [Revogada.]
 
 3 - Sem prejuízo do disposto na alínea b) do número anterior, os fatores e subfatores não podem dizer respeito, direta ou indiretamente, a situações, qualidades, características ou outros elementos de facto relativos aos concorrentes.
 

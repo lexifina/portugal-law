@@ -12,6 +12,6 @@ a) Acordo das partes, que não pode revestir forma menos solene do que a do cont
 
 b) Decisão judicial ou arbitral, exceto nos casos em que a modificação interfira com o resultado do exercício da margem de livre decisão administrativa subjacente ao mesmo ou implique a formulação de valorações próprias do exercício da função administrativa;
 
-c) Ato administrativo do contraente público, nos casos previstos na alínea c) do artigo seguinte.
+c) Ato administrativo do contraente público, conforme o disposto na alínea c) do artigo 302.º
 
-2 - (Revogado.)
+2 - [Revogado.]

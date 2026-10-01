@@ -6,11 +6,11 @@
 
 2 - Juntamente com a notificação da decisão de adjudicação, o órgão competente para a decisão de contratar deve notificar o adjudicatário para:
 
-a) Apresentar os documentos de habilitação exigidos nos termos do disposto no artigo 81.º;
+a) Apresentar os documentos de habilitação previstos no artigo 81.º cuja obtenção oficiosa não seja possível nos termos do seu n.º 10;
 
 b) Prestar caução, se esta for devida, indicando expressamente o seu valor;
 
-c) Confirmar no prazo para o efeito fixado, se for o caso, os compromissos assumidos por terceiras entidades relativos a atributos ou a termos ou condições da proposta adjudicada.
+c) Confirmar no prazo para o efeito fixado, se for o caso, os compromissos assumidos por terceiras entidades relativos a atributos ou a termos ou condições da proposta adjudicada;
 
 d) Se pronunciar sobre a minuta de contrato, quando este for reduzido a escrito;
 

@@ -8,7 +8,7 @@
 
 ## Secção I
 
-## Disposições comuns
+## Regime geral
 
 # Artigo 112.º
 

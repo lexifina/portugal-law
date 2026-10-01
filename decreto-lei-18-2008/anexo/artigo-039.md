@@ -35,3 +35,5 @@ b) A organização interna do procedimento de contratação, nomeadamente a sua 
 a) Legislação do Estado onde a entidade jurídica comum tem a sua sede social;
 
 b) Legislação do Estado onde a entidade jurídica comum desenvolve as suas atividades.
+
+10 - Nos casos das alíneas a) e b) do n.º 1, o procedimento de contratação pode ser efetuado na totalidade ou apenas numa parte em conjunto pelas entidades adjudicantes, caso em que a atuação conjunta dos órgãos competentes das entidades que integram o agrupamento se limita à parte objeto dessa junção.

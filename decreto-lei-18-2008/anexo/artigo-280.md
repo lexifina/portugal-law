@@ -14,6 +14,6 @@ d) Contratos que a lei submeta, ou que admita que sejam submetidos, a um procedi
 
 2 - Sem prejuízo do disposto no número seguinte, as disposições do presente título só se aplicam quando o tipo contratual em questão não afaste, pela sua natureza, as razões justificativas da disciplina em causa.
 
-3 - As disposições do presente título relativas à invalidade, limites à modificação objetiva, cessão da posição contratual e subcontratação são aplicáveis, com as devidas adaptações e sem prejuízo do disposto em lei especial, a todos os contratos públicos, independentemente da sua qualificação como contratos administrativos nos termos do n.º 1.
+3 - As disposições do presente título relativas à invalidade, limites à modificação objetiva, cessão da posição contratual e subcontratação são aplicáveis, com as devidas adaptações e sem prejuízo do disposto em lei especial, a todos os contratos públicos a cuja formação seja aplicável a parte ii do presente Código, independentemente da sua qualificação como contratos administrativos nos termos do n.º 1.
 
 4 - Em tudo quanto não estiver regulado no presente Código ou em lei especial, ou não resultar da aplicação dos princípios gerais de direito administrativo, é subsidiariamente aplicável à execução dos contratos administrativos, com as necessárias adaptações, o direito civil.

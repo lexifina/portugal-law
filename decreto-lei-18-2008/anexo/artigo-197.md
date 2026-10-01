@@ -8,6 +8,6 @@
 
 1 - O procedimento de negociação é publicitado no Diário da República através de anúncio conforme modelo aprovado por portaria dos ministros responsáveis pela edição do Diário da República e pelas áreas das finanças e das obras públicas.
 
-2 - Ao procedimento de negociação, independentemente do preço base fixado no caderno de encargos, é aplicável, com as necessárias adaptações, o disposto no artigo 131.º
+2 - Ao procedimento de negociação é aplicável, com as necessárias adaptações, o disposto no artigo 131.º
 
-3 - (Revogado.)
+3 - [Revogado.]

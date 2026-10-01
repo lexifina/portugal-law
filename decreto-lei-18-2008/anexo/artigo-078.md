@@ -24,4 +24,4 @@ b) Ao referido na alínea b) do n.º 4 do artigo 474.º, no caso de se tratar de
 
 6 - No caso de se tratar da adjudicação de contratos de concessão, devem ainda ser publicados os anúncios conforme os modelos aplicáveis referidos nos artigos 32.º e 33.º da Diretiva n.º 2014/23/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.
 
-7 - Nas situações em que a publicitação do concurso tenha sido efetuada sob a forma de anúncio de pré-informação, ou de anúncio periódico indicativo, e a entidade adjudicante tenha decidido não celebrar mais contratos durante o período abrangido por esse anúncio, o anúncio da adjudicação do contrato deve conter uma indicação específica nesse sentido.
+7 - Nas situações em que a publicitação do concurso tenha sido efetuada sob a forma de anúncio de pré-informação, ou de anúncio periódico indicativo, e a entidade adjudicante tenha decidido não celebrar mais contratos durante o período abrangido por esse anúncio, o anúncio da adjudicação deve conter uma indicação específica nesse sentido.

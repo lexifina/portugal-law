@@ -4,7 +4,7 @@
 
 1 - As entidades adjudicantes podem prever, nas peças do procedimento, a adjudicação por lotes.
 
-2 - Na formação de contratos públicos de aquisição ou locação de bens, ou aquisição de serviços, de valor superior a (euro) 135 000, e empreitadas de obras públicas de valor superior a (euro) 500 000, a decisão de não contratação por lotes deve ser fundamentada, constituindo fundamento, designadamente, as seguintes situações:
+2 - Na formação de contratos públicos de aquisição ou locação de bens, ou aquisição de serviços, de valor estimado superior a 250 000 €, e empreitadas de obras públicas de valor estimado superior a 500 000 €, a decisão de não adjudicação por lotes deve ser fundamentada na decisão de contratar, constituindo fundamento, designadamente, as seguintes situações:
 
 a) Quando as prestações a abranger pelo respetivo objeto forem técnica ou funcionalmente incindíveis ou, não o sendo, a sua separação causar graves inconvenientes para a entidade adjudicante;
 

@@ -1,6 +1,6 @@
 # Artigo 419.º
 
-### Bens afectos à concessão
+### Estabelecimento da concessão
 
 1 - À concessão corresponde um estabelecimento, que integra os bens móveis e imóveis afectos àquela e os direitos e obrigações destinados à realização do interesse público subjacente à celebração do contrato.
 

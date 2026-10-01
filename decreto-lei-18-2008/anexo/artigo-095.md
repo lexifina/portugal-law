@@ -4,7 +4,7 @@
 
 1 - Salvo previsão expressa no programa do procedimento, não é exigível a redução do contrato a escrito:
 
-a) Quando se trate de contrato de locação ou de aquisição de bens móveis ou de aquisição de serviços cujo preço contratual não exceda (euro) 10 000;
+a) Quando se trate de contrato de locação ou de aquisição de bens móveis ou de aquisição de serviços cujo preço contratual não exceda 30 000 €;
 
 b) Quando se trate de locar ou de adquirir bens móveis ou de adquirir serviços ao abrigo de um contrato público de aprovisionamento;
 
@@ -16,7 +16,7 @@ ii) A relação contratual se extinga com o fornecimento dos bens ou com a prest
 
 iii) O contrato não esteja sujeito a fiscalização prévia do Tribunal de Contas; ou
 
-d) Quando se trate de contrato de empreitada de obras públicas de complexidade técnica muito reduzida e cujo preço contratual não exceda (euro) 15 000.
+d) Quando se trate de contrato de empreitada de obras públicas de complexidade técnica muito reduzida e cujo preço contratual não exceda 75 000 €.
 
 2 - A redução do contrato a escrito pode ser dispensada pelo órgão competente para a decisão de contratar, mediante decisão fundamentada, quando:
 
@@ -32,8 +32,8 @@ c) Por motivos de urgência imperiosa resultante de acontecimentos imprevisívei
 
 a) Não tenha sido publicado anúncio do procedimento no Jornal Oficial da União Europeia;
 
-b) (Revogada.)
+b) [Revogada.]
 
-c) Se trate da celebração de contrato ao abrigo de acordo quadro cujos termos abranjam todos os seus aspectos ou que tenha sido celebrado apenas com uma entidade.
+c) Se trate da celebração de contrato ao abrigo de acordo quadro cujos termos abranjam todos os seus aspectos ou que tenha sido celebrado apenas com uma entidade;
 
 d) Só tenha sido apresentada uma proposta.

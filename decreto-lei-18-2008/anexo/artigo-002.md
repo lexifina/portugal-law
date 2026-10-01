@@ -30,10 +30,10 @@ i) Tenham sido criadas especificamente para satisfazer necessidades de interesse
 
 ii) Sejam maioritariamente financiadas por entidades referidas no número anterior ou por outros organismos de direito público, ou a sua gestão esteja sujeita a controlo por parte dessas entidades, ou tenham órgãos de administração, direção ou fiscalização cujos membros tenham, em mais de metade do seu número, sido designados por essas entidades;
 
-b) Quaisquer pessoas colectivas que se encontrem na situação referida na alínea anterior relativamente a uma entidade que seja, ela própria, uma entidade adjudicante nos termos do disposto na mesma alínea;
+b) [Revogada.]
 
-c) (Revogada);
+c) [Revogada.]
 
-d) As associações de que façam parte uma ou várias das pessoas colectivas referidas nas alíneas anteriores, desde que sejam maioritariamente financiadas por estas, estejam sujeitas ao seu controlo de gestão ou tenham um órgão de administração, de direcção ou de fiscalização cuja maioria dos titulares seja, directa ou indirectamente, designada pelas mesmas;
+d) As associações de que façam parte uma ou várias das pessoas coletivas referidas na alínea a), desde que sejam maioritariamente financiadas por estas, estejam sujeitas ao seu controlo de gestão ou tenham um órgão de administração, de direção ou de fiscalização cuja maioria dos titulares seja, direta ou indiretamente, designada pelas mesmas.
 
-3 - (Revogado.)
+3 - [Revogado.]

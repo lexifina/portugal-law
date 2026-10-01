@@ -23,3 +23,5 @@ h) O co-contratante se apresente à insolvência ou esta seja declarada pelo tri
 2 - O disposto no número anterior não prejudica o direito de indemnização nos termos gerais, nomeadamente pelos prejuízos decorrentes da adopção de novo procedimento de formação de contrato.
 
 3 - Nos casos de resolução sancionatória, havendo lugar a responsabilidade do co-contratante, será o montante respectivo deduzido das quantias devidas, sem prejuízo do contraente público poder executar as garantias prestadas pelo co-contratante.
+
+4 - Quando se verificar a situação prevista na alínea a) do n.º 1, o contraente público deve comunicar tal facto ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., no prazo de 10 dias após os atos que as aplicaram se tornarem inimpugnáveis, para publicação na área pública do portal dos contratos públicos.

@@ -14,4 +14,6 @@
 
 4 - O júri pode ser dispensado nos procedimentos em que seja apresentada apenas uma proposta.
 
-5 - Antes do início de funções, os membros do júri e todos os demais intervenientes no processo de avaliação de propostas, designadamente peritos, subscrevem declaração de inexistência de conflitos de interesses, conforme modelo previsto no anexo xiii ao presente Código e que dele faz parte integrante.
+5 - Os membros do júri e todos os demais intervenientes no processo de análise e avaliação de propostas, designadamente peritos e consultores, estão obrigados a atuar de forma imparcial, não podendo estar em situação de conflitos de interesses, tal como identificada no n.º 4 do artigo 1.º-A.
+
+6 - É aplicável aos sujeitos referidos no número anterior o disposto nos artigos 69.º a 76.º do Código do Procedimento Administrativo.

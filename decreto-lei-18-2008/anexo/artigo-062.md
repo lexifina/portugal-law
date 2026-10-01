@@ -2,11 +2,11 @@
 
 ### Modo de apresentação das propostas
 
-1 - Os documentos que constituem a proposta são apresentados diretamente em plataforma eletrónica utilizada pela entidade adjudicante, sem prejuízo do disposto na alínea g) do n.º 1 do artigo 115.º
+1 - Os documentos que constituem a proposta são apresentados diretamente em plataforma eletrónica utilizada pela entidade adjudicante, sem prejuízo do disposto na alínea h) do n.º 1 e no n.º 4 do artigo 115.º
 
-2 - (Revogado.)
+2 - [Revogado.]
 
-3 - (Revogado.)
+3 - [Revogado.]
 
 4 - Os termos a que deve obedecer a apresentação e a receção das propostas, conforme o disposto no n.º 1, são definidos por diploma próprio.
 

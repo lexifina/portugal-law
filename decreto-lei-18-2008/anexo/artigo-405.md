@@ -24,8 +24,10 @@ g) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 d
 
 h) Se não foram corrigidos os defeitos detectados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º
 
-2 - Em caso de resolução, o dono da obra deve informar a Inspecção-Geral das Obras Públicas, Transportes e Comunicações e o Instituto da Construção e do Imobiliário, I. P., e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho.
+2 - Em caso de resolução, o dono da obra deve informar, no prazo de 10 dias após ato de resolução se tornar inimpugnável, o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., para publicitação de tal facto na área pública do portal dos contratos públicos, e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho.
 
 3 - O Instituto da Construção e do Imobiliário, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro.
 
 4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da actividade de construção.
+
+5 - Resolvido o contrato, o dono da obra toma logo, com a assistência do empreiteiro, posse administrativa da obra.
