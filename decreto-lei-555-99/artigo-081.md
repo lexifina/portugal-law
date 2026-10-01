@@ -2,11 +2,11 @@
 
 ### Demolição, escavação e contenção periférica
 
-1 - Quando o procedimento de licenciamento haja sido precedido de informação prévia favorável que vincule a câmara municipal, pode o presidente da câmara municipal, a pedido do interessado, permitir a execução de trabalhos de demolição ou de escavação e contenção periférica até à profundidade do piso de menor cota, logo após o saneamento referido no artigo 11.º, desde que seja prestada caução para reposição do terreno nas condições em que se encontrava antes do início dos trabalhos.
+1 - Nas obras sujeitas a licença, pode o presidente da câmara municipal, a pedido do interessado, em qualquer momento após a aprovação do projeto de arquitetura, permitir a execução de trabalhos de demolição ou de escavação e contenção periférica até à profundidade do piso de menor cota, desde que seja prestada caução para reposição do terreno nas condições em que se encontrava antes do início dos trabalhos.
 
-2 - Nas obras sujeitas a licença nos termos do presente diploma, a decisão referida no número anterior pode ser proferida em qualquer momento após a aprovação do projecto de arquitectura.
+2 - [Revogado.]
 
-3 - Para os efeitos dos números anteriores, o requerente deve apresentar, consoante os casos, o plano de demolições, o projecto de estabilidade ou o projecto de escavação e contenção periférica até à data da apresentação do pedido referido no mesmo número.
+3 - Para os efeitos do n.º 1, o requerente deve apresentar, consoante os casos, o plano de demolições, o projeto de estabilidade ou o projeto de escavação e contenção periférica até à data da apresentação do pedido.
 
 4 - O presidente da câmara decide sobre o pedido previsto no n.º 1 no prazo de 15 dias a contar da data da sua apresentação.
 

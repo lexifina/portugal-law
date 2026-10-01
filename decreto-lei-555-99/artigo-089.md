@@ -12,8 +12,8 @@
 
 3 - A câmara municipal pode, oficiosamente ou a requerimento de qualquer interessado, ordenar a demolição total ou parcial das construções que ameacem ruína ou ofereçam perigo para a saúde pública e para a segurança das pessoas.
 
-4 - A notificação dos atos referidos nos números anteriores é acompanhada da indicação dos elementos instrutórios necessários para a execução daquelas obras, incluindo a indicação de medidas urgentes, quando sejam necessárias, bem como o prazo em que os mesmos devem ser submetidos, sob pena de o notificando incorrer em incumprimento do ato, designadamente para os efeitos previstos nos artigos 91.º e 100.º
+4 - A notificação dos atos referidos nos números anteriores é acompanhada da indicação dos elementos instrutórios necessários para a execução daquelas obras, do prazo para a sua apresentação, das medidas urgentes, quando sejam necessárias, bem como do prazo em que as obras devem ser executadas, sob pena de o notificando incorrer em incumprimento do ato, designadamente para os efeitos previstos nos artigos 91.º e 100.º
 
 5 - Os atos referidos nos números anteriores são eficazes a partir da sua notificação ao proprietário, sendo o registo predial da intimação para a execução de obras ou para a demolição promovido oficiosamente para efeitos de averbamento, servindo de título para o efeito a certidão passada pelo município competente.
 
-6 - O registo referido no número anterior é cancelado através da exibição de certidão emitida pela câmara municipal que ateste a conclusão das obras ou o cumprimento da ordem de demolição, consoante o caso, ou pela junção da autorização de utilização emitida posteriormente.
+6 - O registo referido no número anterior é cancelado através da exibição de certidão emitida pela câmara municipal que ateste a conclusão das obras ou o cumprimento da ordem de demolição, consoante o caso, ou pela junção de título de utilização emitido posteriormente.

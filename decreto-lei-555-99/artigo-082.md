@@ -2,9 +2,9 @@
 
 ### Ligação às redes públicas
 
-1 - Uma vez efetuado o pagamento das taxas, cujo recibo titula a operação urbanística, o requerente solicita às entidades gestoras a ligação dos sistemas de água, de saneamento, de gás, de eletricidade e de telecomunicações, podendo os requerentes optar, mediante autorização das entidades gestoras, pela realização das obras indispensáveis à sua concretização nas condições regulamentares e técnicas definidas por aquelas entidades.
+1 - Uma vez cumpridos os requisitos previstos no artigo 80.º, e até ao início dos trabalhos, o interessado solicita às entidades gestoras a ligação dos sistemas de água, de saneamento, de gás, de eletricidade e de telecomunicações, podendo optar pela realização das obras indispensáveis à sua concretização, mediante autorização dessas entidades e nas condições regulamentares e técnicas por aquelas definidas.
 
-2 - No caso de obras sujeitas a comunicação prévia, constitui título bastante para os efeitos previstos no número anterior a apresentação dos documentos referidos no n.º 2 do artigo 74.º
+2 - [Revogado.]
 
 3 - (Revogado.)
 

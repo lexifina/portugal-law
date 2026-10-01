@@ -8,13 +8,13 @@
 
 1 - Os órgãos administrativos competentes estão obrigados a adotar as medidas adequadas de tutela e restauração da legalidade urbanística quando sejam realizadas operações urbanísticas:
 
-a) Sem os necessários atos administrativos de controlo prévio;
+a) Sem os necessários atos administrativos de licença ou informação prévia com os efeitos do n.º 2 do artigo 17.º;
 
-b) Em desconformidade com os respetivos atos administrativos de controlo prévio;
+b) Em desconformidade com os respetivos atos administrativos de licença ou informação prévia com os efeitos do n.º 2 do artigo 17.º;
 
-c) Ao abrigo de ato administrativo de controlo prévio revogado ou declarado nulo;
+c) Ao abrigo de ato administrativo revogado ou declarado nulo;
 
-d) Em desconformidade com as condições da comunicação prévia;
+d) Sem a necessária comunicação prévia ou comunicação prévia com prazo ou em desconformidade com as respetivas condições;
 
 e) Em desconformidade com as normas legais ou regulamentares aplicáveis.
 
@@ -22,7 +22,7 @@ e) Em desconformidade com as normas legais ou regulamentares aplicáveis.
 
 a) No embargo de obras ou de trabalhos de remodelação de terrenos;
 
-b) Na suspensão administrativa da eficácia de ato de controlo prévio;
+b) Na suspensão administrativa da eficácia da licença ou informação prévia;
 
 c) Na determinação da realização de trabalhos de correção ou alteração, sempre que possível;
 
@@ -40,12 +40,12 @@ a) Determinar a execução de obras de conservação necessárias à correção 
 
 b) Determinar a demolição, total ou parcial, das construções que ameacem ruína ou ofereçam perigo para a saúde pública e segurança das pessoas.
 
-4 - (Revogado.)
+4 - [Revogado.]
 
-5 - (Revogado.)
+5 - [Revogado.]
 
-6 - (Revogado.)
+6 - [Revogado.]
 
-7 - (Revogado.)
+7 - [Revogado.]
 
-8 - (Revogado.)
+8 - [Revogado.]

@@ -2,7 +2,7 @@
 
 ### Cessação da utilização
 
-1 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 2.º do Decreto-Lei n.º 281/99, de 26 de Julho, o presidente da câmara municipal é competente para ordenar e fixar prazo para a cessação da utilização de edifícios ou de suas fracções autónomas quando sejam ocupados sem a necessária autorização de utilização ou quando estejam a ser afectos a fim diverso do previsto no respectivo alvará.
+1 - O presidente da câmara municipal é competente para ordenar e fixar prazo para a cessação da utilização de edifícios ou de suas frações autónomas quando sejam ocupados sem o respetivo título de utilização ou em desconformidade com o título existente, ou ainda em desconformidade com as normas legais e regulamentares aplicáveis.
 
 2 - Quando os ocupantes dos edifícios ou suas fracções não cessem a utilização indevida no prazo fixado, pode a câmara municipal determinar o despejo administrativo, aplicando-se, com as devidas adaptações, o disposto no artigo 92.º
 

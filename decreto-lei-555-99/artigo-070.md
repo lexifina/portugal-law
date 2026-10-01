@@ -4,7 +4,7 @@
 
 1 - O município responde civilmente nos termos gerais por ações e omissões cometidas em violação do estabelecido no presente decreto-lei.
 
-2 - O disposto no número anterior inclui a responsabilidade por prejuízos resultantes de operações urbanísticas executadas com base em atos de controlo prévio ilegais, nomeadamente em caso de revogação, anulação ou declaração de nulidade de licenças ou autorizações de utilização, sempre que a causa de revogação, anulação ou declaração de nulidade resulte de uma conduta ilícita dos titulares dos seus órgãos ou dos seus funcionários e agentes.
+2 - O disposto no número anterior inclui a responsabilidade por prejuízos resultantes de operações urbanísticas executadas com base em atos administrativos ilegais praticados no âmbito dos procedimentos de licenciamento, comunicação prévia ou comunicação prévia com prazo, nomeadamente em caso de revogação, anulação ou declaração de nulidade de licenças ou de decisões relativas a informações prévias, sempre que a causa de revogação, anulação ou declaração de nulidade resulte de uma conduta ilícita dos titulares dos seus órgãos ou dos seus funcionários e agentes.
 
 3 - Para efeitos do disposto no número anterior são solidariamente responsáveis:
 
@@ -12,7 +12,7 @@ a) O titular do órgão administrativo singular que haja praticado os atos ao ab
 
 b) Os membros dos órgãos colegiais que tenham votado a favor dos atos referidos na alínea anterior;
 
-c) Os trabalhadores que tenham prestado informação favorável à prática do ato de controlo prévio ilegal, em caso de dolo ou culpa grave;
+c) Os trabalhadores que tenham prestado informação favorável à prática do ato administrativo ilegal, em caso de dolo ou culpa grave;
 
 d) Os membros da câmara municipal quando não promovam as medidas necessárias à reposição da legalidade, nos termos do disposto no n.º 8 do artigo 35.º, em caso de dolo ou culpa grave.
 

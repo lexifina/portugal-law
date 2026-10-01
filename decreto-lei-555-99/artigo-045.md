@@ -10,7 +10,7 @@
 
 4 - Em alternativa ao exercício do direito referido no n.º 1 ou no caso do n.º 10, o cedente pode exigir ao município uma indemnização, a determinar nos termos estabelecidos no Código das Expropriações com referência ao fim a que se encontre afeta a parcela, calculada à data em que pudesse haver lugar à reversão.
 
-5 - As parcelas que, nos termos do n.º 1, tenham revertido para o cedente ficam sujeitas às mesmas finalidades a que deveriam estar afetas aquando da cedência, salvo quando se trate de parcela a afetar a equipamento de utilização coletiva, devendo nesse caso ser afeta a espaço verde, procedendo-se ainda ao averbamento desse facto na respetiva licença ou à sua integração na comunicação prévia.
+5 - As parcelas que, nos termos do n.º 1, tenham revertido para o cedente ficam sujeitas às mesmas finalidades a que deveriam estar afetas aquando da cedência, salvo quando se trate de parcela a afetar a equipamento de utilização coletiva, devendo nesse caso ser afeta a espaço verde, procedendo-se ainda ao averbamento desse facto no título da licença, da informação prévia que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, da comunicação prévia ou da comunicação prévia com prazo.
 
 6 - Os direitos previstos nos n.ºs 1, 3 e 4 podem ser exercidos pelos proprietários de, pelo menos, um terço dos lotes constituídos em consequência da operação de loteamento.
 

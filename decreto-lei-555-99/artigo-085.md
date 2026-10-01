@@ -6,17 +6,17 @@
 
 2 - O requerimento é instruído com os seguintes elementos:
 
-a) Cópia do alvará ou do título da comunicação prévia, nos termos do n.º 2 do artigo 74.º;
+a) Cópia do título previsto no artigo 4.º-A;
 
-b) Orçamento, a preços correntes do mercado, relativo à execução das obras de urbanização em conformidade com os projectos aprovados e condições fixadas no licenciamento;
+b) Orçamento, a preços correntes do mercado, relativo à execução das obras de urbanização em conformidade com os projetos aprovados ou apresentados e com as condições respetivamente fixadas;
 
 c) Quaisquer outros elementos que o requerente entenda necessários para o conhecimento do pedido.
 
-3 - Antes de decidir, o tribunal notifica a câmara municipal, o titular do alvará ou o apresentante da comunicação prévia para responderem no prazo de 30 dias e ordena a realização das diligências que entenda úteis para o conhecimento do pedido, nomeadamente a inspecção judicial do local.
+3 - Antes de decidir, o tribunal notifica a câmara municipal, o titular da licença, da comunicação ou da informação que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, para responderem no prazo de 30 dias e ordena a realização das diligências que entenda úteis para o conhecimento do pedido, nomeadamente a inspeção judicial do local.
 
 4 - Se deferir o pedido, o tribunal fixa especificadamente as obras a realizar e o respectivo orçamento e determina que a caução a que se refere o artigo 54.º fique à sua ordem, a fim de responder pelas despesas com as obras até ao limite do orçamento.
 
-5 - Na falta ou insuficiência da caução, o tribunal determina que os custos sejam suportados pelo município, sem prejuízo do direito de regresso deste sobre o titular do alvará ou o apresentante da comunicação prévia.
+5 - Na falta ou insuficiência da caução, o tribunal determina que os custos sejam suportados pelo município, sem prejuízo do direito de regresso deste sobre o titular da licença, da comunicação ou da informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º
 
 6 - O processo a que se referem os números anteriores é urgente e isento de custas.
 
@@ -24,7 +24,7 @@ c) Quaisquer outros elementos que o requerente entenda necessários para o conhe
 
 8 - Compete aos tribunais administrativos de círculo onde se localiza o prédio no qual se devam realizar as obras de urbanização conhecer os pedidos previstos no presente artigo.
 
-9 - A câmara municipal emite oficiosamente alvará para execução de obras por terceiro, competindo ao seu presidente dar conhecimento das respetivas deliberações à Direção-Geral do Território, para efeitos cadastrais, e à conservatória do registo predial, quando:
+9 - A câmara municipal emite oficiosamente certidão para execução de obras por terceiro, competindo ao seu presidente dar conhecimento das respetivas deliberações à Direção-Geral do Território, para efeitos cadastrais, e à conservatória do registo predial, quando:
 
 a) Tenha havido recepção provisória das obras; ou
 

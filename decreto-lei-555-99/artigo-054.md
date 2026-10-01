@@ -4,9 +4,9 @@
 
 1 - O requerente ou comunicante presta caução destinada a garantir a boa e regular execução das obras de urbanização.
 
-2 - A caução referida no número anterior é prestada a favor da câmara municipal, mediante garantia bancária autónoma à primeira solicitação, hipoteca sobre bens imóveis propriedade do requerente, depósito em dinheiro ou seguro-caução, devendo constar do próprio título que a mesma está sujeita a actualização nos termos do n.º 4 e se mantém válida até à recepção definitiva das obras de urbanização.
+2 - A caução referida no número anterior é prestada a favor da câmara municipal, mediante garantia bancária autónoma à primeira solicitação, hipoteca sobre bens imóveis propriedade do requerente ou comunicante, depósito em dinheiro ou seguro-caução, estando sujeita a atualização nos termos do n.º 4 e mantendo-se válida até à receção definitiva das obras de urbanização.
 
-3 - O montante da caução é igual ao valor constante dos orçamentos para execução dos projectos das obras a executar, eventualmente corrigido pela câmara municipal com a emissão da licença, a que pode ser acrescido um montante, não superior a 5 % daquele valor, destinado a remunerar encargos de administração caso se mostre necessário aplicar o disposto nos artigos 84.º e 85.º
+3 - O montante da caução é igual ao valor constante dos orçamentos para execução dos projetos das obras a executar, eventualmente corrigido pela câmara municipal com a emissão da licença ou da informação prévia, a que pode ser acrescido um montante, não superior a 5 % daquele valor, destinado a remunerar encargos de administração caso se mostre necessário aplicar o disposto nos artigos 84.º e 85.º
 
 4 - O montante da caução deve ser:
 
@@ -16,8 +16,8 @@ b) Reduzido, nos mesmos termos, em conformidade com o andamento dos trabalhos a 
 
 5 - O conjunto das reduções efectuadas ao abrigo do disposto na alínea b) do número anterior não pode ultrapassar 90% do montante inicial da caução, sendo o remanescente libertado com a recepção definitiva das obras de urbanização.
 
-6 - O reforço ou a redução da caução, nos termos do n.º 4, não dá lugar à emissão de novo alvará ou a nova comunicação.
+6 - O reforço ou a redução da caução, nos termos do n.º 4, não dá lugar à emissão de novo título.
 
 7 - Quando tiver sido prestada garantia bancária por empreiteiro ao interessado, a câmara municipal e os emitentes da garantia estão obrigados a aceitar a cessão da posição contratual do interessado a favor do município, ficando o mesmo dispensado de prestação de nova caução.
 
-8 - Não existe a obrigação de prestação de caução pelas pessoas coletivas públicas e entidades do setor empresarial do Estado referidas no artigo 7.º
+8 - [Revogado.]

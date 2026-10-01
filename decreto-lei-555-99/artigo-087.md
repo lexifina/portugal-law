@@ -6,8 +6,10 @@
 
 2 - A recepção é precedida de vistoria, a realizar por uma comissão da qual fazem parte o interessado ou um seu representante e, pelo menos, dois representantes da câmara municipal.
 
-3 - À recepção provisória e definitiva, bem como às respectivas vistorias, é aplicável, com as necessárias adaptações, o regime aplicável à recepção provisória e definitiva das empreitadas de obras públicas.
+3 - É admissível a realização de receções provisórias parciais, ainda que as obras de urbanização não tenham sido licenciadas por fases.
 
-4 - Em caso de deficiência das obras de urbanização, como tal assinaladas no auto de vistoria, se o titular das obras de urbanização não reclamar ou vir indeferida a sua reclamação e não proceder à sua correcção no prazo para o efeito fixado, a câmara municipal procede em conformidade com o disposto no artigo 84.º
+4 - As receções provisórias parciais referidas no número anterior devem ser realizadas em função do tipo de obra de urbanização realizada ou por referência a áreas infraestruturadas que sejam funcionalmente autónomas e, como tal, possam ser afetas ao uso público.
 
 5 - O prazo de garantia das obras de urbanização é de cinco anos.
+
+6 - À receção provisória e definitiva, bem como às respetivas vistorias, é aplicável, com as necessárias adaptações, o regime aplicável à receção provisória e definitiva das empreitadas de obras públicas, incluindo o regime da receção provisória e definitiva tácita das obras de urbanização.

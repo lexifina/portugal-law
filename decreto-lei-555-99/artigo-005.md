@@ -2,7 +2,7 @@
 
 ### Competência
 
-1 - A concessão da licença prevista no n.º 2 do artigo anterior é da competência da câmara municipal, com faculdade de delegação no presidente e de subdelegação nos vereadores e nos dirigentes dos serviços municipais.
+1 - A concessão da licença prevista no n.º 2 do artigo 4.º é da competência da câmara municipal, com faculdade de delegação no presidente e de subdelegação nos vereadores e nos dirigentes dos serviços municipais.
 
 2 - (Revogado.)
 

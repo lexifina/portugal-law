@@ -6,12 +6,12 @@
 
 ### Alterações durante a execução da obra
 
-1 - Podem ser realizadas em obra alterações ao projeto, mediante comunicação ao qual é aplicável o regime do artigo 35.º, desde que essa comunicação seja efetuada no momento do envio dos documentos prévio à utilização do edifício, previsto no artigo 62.º-A.
+1 - Podem ser realizadas em obra alterações ao projeto, mediante comunicação prévia, a qual obedece ao regime previsto no artigo 35.º, e deve ser instruída com os projetos e pareceres a que haja lugar, sem prejuízo do disposto nos números seguintes, devendo ser efetuada com a antecedência necessária para que as obras estejam concluídas antes da submissão da comunicação prevista no artigo 62.º-A.
 
-2 - Podem ser efectuadas sem dependência de comunicação prévia à câmara municipal as alterações em obra que não correspondam a obras que estivessem sujeitas a controlo prévio.
+2 - Podem ser efetuadas sem dependência de comunicação prévia à câmara municipal as alterações em obra que correspondam a obras isentas de licença ou comunicação prévia.
 
-3 - As alterações em obra ao projecto inicialmente aprovado ou apresentado que envolvam a realização de obras de ampliação ou de alterações à implantação das edificações estão sujeitas ao procedimento previsto nos artigos 27.º ou 35.º, consoante os casos.
+3 - As alterações em obra ao projeto inicialmente aprovado ou comunicado que envolvam a realização de obras de ampliação ou que impliquem alterações à implantação das edificações estão sujeitas ao disposto no n.º 2 do artigo 14.º, no artigo 27.º ou no artigo 35.º, consoante o procedimento inicial.
 
 4 - Nas situações previstas nos números anteriores, apenas são apresentados os elementos instrutórios que sofreram alterações.
 
-5 - As alterações previstas nos n.ºs 1, 2 e 3 podem ser comunicadas no momento do envio de documentos prévio à utilização do edifício, previsto no artigo 62.º-A, desde que às mesmas não se aplique o regime das alterações à licença constante do artigo 27.º e do n.º 3 do artigo 83.º
+5 - [Revogado.]

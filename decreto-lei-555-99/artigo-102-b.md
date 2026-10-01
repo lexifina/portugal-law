@@ -4,13 +4,13 @@
 
 1 - Sem prejuízo das competências atribuídas por lei a outras entidades, o presidente da câmara municipal é competente para embargar obras de urbanização, de edificação ou de demolição, bem como quaisquer trabalhos de remodelação de terrenos, quando estejam a ser executadas:
 
-a) Sem a necessária licença ou comunicação prévia;
+a) Sem a necessária licença, comunicação ou informação prévia emitida com os efeitos do n.º 2 do artigo 17.º;
 
-b) Em desconformidade com o respetivo projeto ou com as condições do licenciamento ou comunicação prévia, salvo o disposto no artigo 83.º; ou
+b) Em desconformidade com o respetivo projeto ou com as condições do licenciamento ou comunicação prévia ou, da informação prévia referida na alínea anterior, salvo o disposto no artigo 83.º;
 
 c) Em violação das normas legais e regulamentares aplicáveis.
 
-2 - A notificação é feita ao responsável pela direção técnica da obra, bem como ao titular do alvará de licença ou apresentante da comunicação prévia e, quando possível, ao proprietário do imóvel no qual estejam a ser executadas as obras ou seu representante, sendo suficiente para obrigar à suspensão dos trabalhos qualquer dessas notificações ou a de quem se encontre a executar a obra no local.
+2 - A notificação é feita ao responsável pela direção da obra, bem como ao titular da licença, comunicação ou informação prévia e, quando possível, ao proprietário do imóvel no qual estejam a ser executadas as obras ou seu representante, sendo suficiente para obrigar à suspensão dos trabalhos qualquer dessas notificações ou a de quem se encontre a executar a obra no local.
 
 3 - Após o embargo, é de imediato lavrado o respetivo auto, que contém, obrigatória e expressamente, a identificação do funcionário municipal responsável pela fiscalização de obras, das testemunhas e do notificado, a data, a hora e o local da diligência e as razões de facto e de direito que a justificam, o estado da obra e a indicação da ordem de suspensão e proibição de prosseguir a obra e do respetivo prazo, bem como as cominações legais do seu incumprimento.
 

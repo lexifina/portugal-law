@@ -2,9 +2,9 @@
 
 ### Inspecções
 
-1 - Os fiscais municipais ou os trabalhadores das empresas privadas a que se refere o n.º 5 do artigo anterior, podem realizar inspeções aos locais onde se desenvolvam atividades sujeitas a fiscalização nos termos do presente diploma, sem dependência de prévia notificação.
+1 - Os trabalhadores municipais afetos à fiscalização ou os trabalhadores das empresas privadas a que se refere o n.º 5 do artigo anterior podem realizar inspeções aos locais onde se desenvolvam atividades sujeitas a fiscalização nos termos do presente diploma, sem dependência de prévia notificação.
 
-2 - Os fiscais municipais e os trabalhadores das empresas mencionados no número anterior podem fazer-se acompanhar de elementos das forças de segurança e do serviço municipal de proteção civil, sempre que haja fundadas dúvidas ou possa estar em causa a segurança de pessoas, bens e animais.
+2 - Os trabalhadores municipais afetos à fiscalização e os trabalhadores das empresas mencionados no número anterior podem fazer-se acompanhar de elementos das forças de segurança e do serviço municipal de proteção civil, sempre que haja fundadas dúvidas ou possa estar em causa a segurança de pessoas, bens e animais.
 
 3 - Na inspeção de operações urbanísticas sujeitas a fiscalização nos termos do presente diploma é necessária a obtenção de prévio mandado judicial para a entrada no domicílio de qualquer pessoa sem o seu consentimento.
 

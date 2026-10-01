@@ -1,6 +1,6 @@
 ## Secção IV
 
-## Validade e eficácia dos atos de licenciamento e autorização de utilização e efeitos da comunicação prévia
+## Validade e eficácia dos atos
 
 ## Subsecção I
 
@@ -10,4 +10,4 @@
 
 ### Requisitos
 
-A validade das licenças depende da sua conformidade com as normas legais e regulamentares aplicáveis em vigor à data da sua prática, sem prejuízo do disposto no artigo 60.º
+A validade das licenças e das decisões relativas a pedidos de informação prévia depende da sua conformidade com as normas legais e regulamentares aplicáveis em vigor à data da sua prática, sem prejuízo do disposto no artigo 60.º
