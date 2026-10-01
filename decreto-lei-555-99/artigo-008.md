@@ -1,0 +1,21 @@
+## Secção II
+
+## Formas de procedimento
+
+## Subsecção I
+
+## Disposições gerais
+
+# Artigo 8.º
+
+### Procedimento
+
+1 - O licenciamento, a comunicação prévia, a comunicação prévia com prazo e a informação prévia das operações urbanísticas obedecem às formas de procedimento previstas na presente secção, devendo ainda ser observadas as condições especiais previstas na secção III do presente capítulo.
+
+2 - Sem prejuízo das competências do gestor de procedimento, a direcção da instrução do procedimento compete ao presidente da câmara municipal, podendo ser delegada nos vereadores, com faculdade de subdelegação nos dirigentes dos serviços municipais.
+
+3 - Cada procedimento é acompanhado por gestor de procedimento, a quem compete assegurar o normal desenvolvimento da tramitação processual, acompanhando, nomeadamente, a instrução, o cumprimento de prazos, a prestação de informação e os esclarecimentos aos interessados.
+
+4 - O comprovativo eletrónico de apresentação do requerimento de licença, pedido de informação prévia, comunicação prévia ou comunicação prévia com prazo contém a identificação do gestor do procedimento, bem como a indicação do local, do horário e da forma pelo qual o respetivo processo pode ser consultado.
+
+5 - Em caso de substituição do gestor de procedimento, é notificada ao interessado a identidade do novo gestor, bem como os elementos referidos no número anterior.
