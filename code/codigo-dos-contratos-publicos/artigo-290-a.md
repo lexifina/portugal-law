@@ -14,4 +14,4 @@
 
 6 - Em casos excecionais, devidamente fundamentados, o contraente público pode contratualizar a gestão do contrato com um terceiro.
 
-7 - Antes do início de funções o gestor de contrato subscreve a declaração de inexistência de conflitos de interesse, conforme modelo previsto no anexo xiii ao presente Código.
+7 - O gestor do contrato está obrigado a atuar de forma imparcial, sendo-lhe aplicável o disposto nos artigos 69.º a 76.º do Código do Procedimento Administrativo e não pode encontrar-se em situação de conflito de interesses tal como identificada no n.º 4 do artigo 1.º-A do presente Código.

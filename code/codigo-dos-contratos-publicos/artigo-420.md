@@ -4,7 +4,7 @@
 
 Constituem direitos do concedente, a exercer nos termos e condições do contrato ou da lei e com os efeitos que destes resultem:
 
-a) Estabelecer as tarifas mínimas e máximas pela utilização das obras públicas ou dos serviços públicos;
+a) Estabelecer as tarifas mínimas e máximas pela utilização das obras públicas ou dos serviços concedidos;
 
 b) Sequestrar a concessão;
 

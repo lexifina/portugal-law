@@ -4,7 +4,7 @@
 
 1 - O contrato pode prever que, em caso de incumprimento, pelo cocontratante, das suas obrigações, que reúna os pressupostos para a resolução do contrato, o cocontratante ceda a sua posição contratual ao concorrente do procedimento pré-contratual na sequência do qual foi celebrado o contrato em execução, que venha a ser indicado pelo contraente público, pela ordem sequencial daquele procedimento.
 
-2 - Para o efeito previsto na parte final do número anterior, o contraente público interpela, gradual e sequencialmente, os concorrentes que participaram no procedimento pré-contratual original, de acordo com a respetiva classificação final, a fim de concluir um novo contrato para a adjudicação da conclusão dos trabalhos.
+2 - Para o efeito previsto na parte final do número anterior, o contraente público interpela, gradual e sequencialmente, os concorrentes que participaram no procedimento pré-contratual original, de acordo com a respetiva classificação final, a fim de concluir a cessão da posição contratual.
 
 3 - A execução do contrato ocorre nas mesmas condições já propostas pelo cedente no procedimento pré-contratual original.
 

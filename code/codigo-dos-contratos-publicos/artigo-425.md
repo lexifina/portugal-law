@@ -2,9 +2,9 @@
 
 ### Efeitos da extinção do contrato no termo previsto
 
-1 - No termo do contrato, não são oponíveis ao concedente os contratos celebrados pelo concessionário com terceiros para efeitos do desenvolvimento das actividades concedidas, sem prejuízo do disposto no número seguinte.
+1 - No termo do contrato, não são oponíveis ao concedente os contratos celebrados pelo concessionário com terceiros para efeitos do desenvolvimento das atividades concedidas, sem prejuízo do disposto na lei e no número seguinte.
 
-2 - Sem prejuízo do disposto no n.º 1 do artigo 417.º, os direitos de propriedade intelectual sobre os estudos e projectos elaborados para os fins específicos das actividades integradas na concessão, bem como os projectos, planos, plantas, documentos e outros elementos referidos no mesmo artigo, são transmitidos gratuitamente e em regime de exclusividade ao concedente no termo do prazo de vigência do contrato, cabendo ao concessionário adoptar todas as medidas para o efeito necessárias.
+2 - Os direitos de propriedade intelectual sobre os estudos e projetos elaborados para os fins específicos das atividades integradas na concessão, bem como os projetos, planos, plantas, documentos e outros elementos referidos no artigo 417.º, são transmitidos gratuitamente e em regime de exclusividade ao concedente no termo do prazo de vigência do contrato, cabendo ao concessionário adotar todas as medidas para o efeito necessárias.
 
 3 - No termo da concessão, revertem gratuitamente para o concedente todos os seus bens que integram o estabelecimento da concessão, obrigando-se o concessionário a entregá-los em bom estado de conservação e funcionamento, sem prejuízo do normal desgaste resultante do seu uso para efeitos de execução do contrato.
 

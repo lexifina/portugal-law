@@ -12,7 +12,7 @@
 
 5 - O caderno de encargos pode também descrever aspectos da execução do contrato não submetidos à concorrência, nomeadamente mediante a fixação de limites mínimos ou máximos a que as propostas estão vinculadas.
 
-6 - Os aspetos da execução do contrato, constantes das cláusulas do caderno de encargos, podem dizer respeito, desde que relacionados com tal execução, a condições de natureza social, ambiental, ou que se destinem a favorecer:
+6 - Os aspetos da execução do contrato, constantes das cláusulas do caderno de encargos, podem dizer respeito, desde que ligados ao seu objeto, à prossecução de objetivos de natureza social e ambiental, ou que se destinem a favorecer:
 
 a) A aplicação de medidas de promoção da igualdade de género e da igualdade salarial no trabalho;
 
@@ -22,7 +22,7 @@ c) A conciliação da vida profissional com a vida familiar e pessoal de todos o
 
 d) A inclusão de pessoas com deficiência no mercado de trabalho;
 
-e) (Revogada.)
+e) [Revogada.]
 
 f) A promoção da economia circular e dos circuitos curtos de distribuição;
 
@@ -36,18 +36,20 @@ j) A promoção de atividades culturais e a dinamização de património cultura
 
 k) A valorização da contratação coletiva;
 
-l) O combate ao trabalho precário.
+l) O combate ao trabalho precário;
 
-7 - (Revogado.)
+m) A eficiência energética.
 
-8 -(Revogado.)
+7 - [Revogado.]
 
-9 - (Revogado.)
+8 - [Revogado.]
 
-10 - (Revogado.)
+9 - [Revogado.]
 
-11 - Para efeito do disposto nos n.os 3 e 5, consideram-se aspetos submetidos à concorrência aqueles que correspondam a fatores ou subfatores que densificam o critério de adjudicação, e aspetos não submetidos à concorrência todos os demais.
+10 - [Revogado.]
+
+11 - Para efeito do disposto nos n.ºs 3 e 5, consideram-se aspetos da execução do contrato submetidos à concorrência aqueles que correspondam a fatores ou subfatores que densificam o critério de adjudicação, e aspetos não submetidos à concorrência todos os demais.
 
 12 - A inclusão no caderno de encargos das condições elencadas no n.º 6 pode contemplar, nomeadamente, a fixação de quantidades mínimas de fornecimento de bens ou de prestação de serviços destinadas à promoção desses objetivos.
 
-13 - Os cadernos de encargos dos procedimentos de formação de contratos de concessão de obras públicas, de concessão de serviços públicos e de aquisição de serviços devem incluir uma cláusula determinando a obrigatoriedade de cumprimento do disposto no artigo 419.º-A.
+13 - Os cadernos de encargos dos procedimentos de formação de contratos de concessão de obras públicas, de concessão de serviços e de aquisição de serviços devem incluir uma cláusula determinando a obrigatoriedade de cumprimento do disposto no artigo 419.º-A.

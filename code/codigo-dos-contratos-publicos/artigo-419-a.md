@@ -8,4 +8,4 @@
 
 3 - O disposto no n.º 1 não se aplica aos trabalhadores com contrato a termo de substituição celebrado nas situações previstas nas alíneas a) a d) do n.º 2 do artigo 140.º do Código do Trabalho.
 
-4 - O disposto nos n.os 1 e 2 não se aplica a trabalhadores que executem tarefas ocasionais ou serviços específicos e não duradouros no âmbito da execução da concessão.
+4 - O disposto nos n.ºs 1 e 2 não se aplica a trabalhadores que executem tarefas ocasionais ou serviços específicos e não duradouros, ou serviços que pela sua própria natureza sejam habitualmente realizados por profissionais liberais.

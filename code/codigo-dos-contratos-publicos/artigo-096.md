@@ -18,7 +18,7 @@ f) Os ajustamentos aceites pelo adjudicatário;
 
 g) A referência à caução prestada pelo adjudicatário;
 
-h) Se for o caso, a classificação orçamental da dotação por onde será satisfeita a despesa inerente ao contrato, a realizar no ano económico da celebração do mesmo ou, no caso de tal despesa se realizar em mais de um ano económico, a indicação da disposição legal habilitante ou do plano plurianual legalmente aprovado de que o contrato em causa constitui execução ou ainda do instrumento, legalmente previsto, que autoriza aquela repartição de despesa.
+h) Se for o caso, a classificação orçamental da dotação por onde será satisfeita a despesa inerente ao contrato, a realizar no ano económico da celebração do mesmo ou, no caso de tal despesa se realizar em mais de um ano económico, a indicação da disposição legal habilitante ou do plano plurianual legalmente aprovado de que o contrato em causa constitui execução ou ainda do instrumento, legalmente previsto, que autoriza aquela repartição de despesa;
 
 i) A identificação do gestor do contrato em nome da entidade adjudicante, nos termos do artigo 290.º-A;
 
@@ -38,7 +38,7 @@ e) Os esclarecimentos sobre a proposta adjudicada prestados pelo adjudicatário.
 
 3 - Sempre que a entidade adjudicante considere conveniente, o clausulado do contrato pode também incluir uma reprodução do caderno de encargos completada por todos os elementos resultantes dos documentos referidos nas alíneas a), b), d) e e) do número anterior.
 
-4 - A entidade adjudicante pode excluir expressamente do contrato os termos ou condições constantes da proposta adjudicada que se reportem a aspectos da execução do contrato não regulados pelo caderno de encargos e que não sejam considerados estritamente necessários a essa execução ou sejam considerados desproporcionados.
+4 - [Revogado.]
 
 5 - Em caso de divergência entre os documentos referidos no n.º 2, a prevalência é determinada pela ordem pela qual são indicados nesse número.
 

@@ -4,19 +4,21 @@
 
 1 - Não há lugar a adjudicação, extinguindo-se o procedimento, quando:
 
-a) Nenhum candidato se haja apresentado ou nenhum concorrente haja apresentado proposta;
+a) [Revogada.]
 
-b) Todas as candidaturas ou todas as propostas tenham sido excluídas, sem prejuízo do disposto no n.º 6 do artigo 70.º, no que respeita às propostas;
+b) [Revogada.]
 
 c) Por circunstâncias imprevistas, seja necessário alterar aspetos fundamentais das peças do procedimento;
 
 d) Circunstâncias supervenientes relativas aos pressupostos da decisão de contratar o justifiquem;
 
-e) Nos casos a que se refere o n.º 5 do artigo 47.º, a entidade adjudicante considere, fundamentadamente, que todos os preços apresentados são inaceitáveis;
+e) Não tendo fixado um preço base, a entidade adjudicante considere, fundamentadamente, que todos os preços apresentados são inaceitáveis, nomeadamente por se apurar uma acentuada discrepância entre os preços apresentados e os preços normalmente praticados no mercado;
 
 f) No procedimento de diálogo concorrencial e de parceria para a inovação, nenhuma das soluções apresentadas satisfaça as necessidades e as exigências da entidade adjudicante;
 
-g) No procedimento para a celebração de acordo-quadro com várias entidades o número de candidaturas ou propostas apresentadas ou admitidas seja inferior ao número mínimo previsto no programa de concurso.
+g) No procedimento para a celebração de acordo-quadro com várias entidades o número de candidaturas ou propostas apresentadas ou admitidas seja inferior ao número mínimo previsto no programa de concurso;
+
+h) Todas as propostas sejam consideradas insatisfatórias para a entidade adjudicante por nenhuma delas ter alcançado a pontuação global mínima definida no programa do procedimento ou no convite.
 
 2 - A decisão de não adjudicação, bem como os respectivos fundamentos, deve ser notificada a todos os concorrentes.
 

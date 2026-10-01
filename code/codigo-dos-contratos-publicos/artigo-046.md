@@ -6,6 +6,8 @@ Podem ser aprovados formulários de cadernos de encargos nos seguintes termos:
 
 a) Por portaria do ministro responsável pela área das obras públicas, no caso de contratos de empreitada de obras públicas;
 
-b) Por portaria do ministro responsável pela área das finanças, no caso de contratos de locação ou de aquisição de bens móveis e de aquisição de serviços;
+b) Por portaria do membro do Governo responsável pela área das finanças, no caso de contratos de locação ou de aquisição de bens móveis e de aquisição de serviços, sem prejuízo do disposto na alínea d);
 
-c) Por portaria conjunta do ministro responsável pela área das finanças e do ministro responsável pela área em causa, no caso de contratos de concessão de obras públicas e de concessão de serviços públicos.
+c) Por portaria do membro do Governo responsável pela área das finanças e do membro do Governo responsável pela área em causa, no caso de contratos de concessão de obras públicas e de concessão de serviços;
+
+d) Por portaria do membro do Governo responsável pela área da reforma do Estado, no caso de contratos de aquisição de bens móveis ou serviços relativos a sistemas e tecnologias de informação.

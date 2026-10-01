@@ -1,6 +1,6 @@
 ## Parte IV
 
-## Governação e regime sancionatório
+## Governação e regime sancionatório e resolução de litígios
 
 ## Capítulo I
 

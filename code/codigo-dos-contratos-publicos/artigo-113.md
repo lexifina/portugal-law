@@ -20,4 +20,4 @@ b) A entidade adjudicante demonstre fundamentadamente que, nesse território, a 
 
 5 - Não podem igualmente ser convidadas a apresentar propostas entidades que tenham executado obras, fornecido bens móveis ou prestado serviços à entidade adjudicante, a título gratuito, no ano económico em curso ou nos dois anos económicos anteriores, exceto se o tiverem feito ao abrigo do Estatuto do Mecenato.
 
-6 - Não podem também ser convidadas a apresentar propostas entidades especialmente relacionadas com as entidades referidas nos n.os 2 e 5, considerando-se como tais, nomeadamente, as entidades que partilhem, ainda que apenas parcialmente, representantes legais ou sócios, ou as sociedades que se encontrem em relação de simples participação, de participação recíproca, de domínio ou de grupo.
+6 - Não podem também ser convidadas a apresentar propostas entidades criadas ou utilizadas com o propósito ou com o resultado de se defraudar o disposto nos n.ºs 2 e 5.

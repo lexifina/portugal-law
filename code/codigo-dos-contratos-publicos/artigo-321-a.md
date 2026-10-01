@@ -16,4 +16,4 @@ b) O cocontratante não se oponha justificadamente nos termos do número anterio
 
 5 - O pagamento direto aos subcontratados pelo contraente público está limitado ao valor dos débitos vencidos e não pagos ao cocontratante ou, se futuros, por aquele reconhecidos.
 
-6 - A presente disposição não se aplica aos contratos de concessão de obra ou serviço público ou contratos que configurem uma parceria público-privada.
+6 - A presente disposição não se aplica aos contratos de concessão de obras públicas ou de serviços, nem aos contratos que configurem parcerias público-privadas.

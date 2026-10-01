@@ -16,10 +16,10 @@ b) Tenha sido publicado o anúncio voluntário de transparência previsto no art
 
 c) A outorga do contrato não tenha ocorrido antes de 10 dias após a data da referida publicação.
 
-3 - O efeito anulatório previsto no n.º 1 pode ser afastado nos termos do n.º 4 do artigo 283.º, devendo a decisão obrigatoriamente determinar uma das seguintes consequências alternativas:
+3 - O efeito anulatório previsto no n.º 1 pode ser afastado por decisão judicial ou arbitral, quando existam razões imperiosas de interesse geral que exijam a manutenção da vigência do contrato, devendo, nesse caso, a decisão determinar uma das seguintes consequências alternativas:
 
 a) Redução da duração do contrato; ou
 
 b) Sanção pecuniária de montante inferior ou igual ao preço contratual.
 
-4 - A decisão referida no número anterior não pode afastar o efeito anulatório com base na ponderação do interesse económico diretamente relacionado com o contrato em causa, quando tal interesse assente, designadamente, nos custos resultantes de atraso na execução do contrato, de abertura de um novo procedimento de formação do contrato, de mudança do cocontratante ou de obrigações legais resultantes da anulação.
+4 - Não constitui razão de interesse geral o interesse económico diretamente relacionado com o contrato em causa, quando tal interesse assente, designadamente, nos custos resultantes de atraso na execução do contrato, de abertura de um novo procedimento de formação do contrato, de mudança do cocontratante ou de obrigações legais resultantes da anulação.

@@ -6,19 +6,19 @@
 
 2 - O disposto no número anterior abrange, designadamente, os acordos ou outros instrumentos jurídicos que organizem a transferência ou delegação de poderes e responsabilidades pela execução de missões públicas entre entidades adjudicantes ou agrupamentos de entidades adjudicantes, e que não prevejam uma remuneração.
 
-3 - (Revogado.)
+3 - [Revogado.]
 
 4 - Sem prejuízo do disposto no n.º 2 do artigo 11.º, a parte ii não é igualmente aplicável à formação dos seguintes contratos:
 
 a) Contratos que devam ser celebrados com uma entidade, que seja ela própria uma entidade adjudicante, em virtude de esta beneficiar de um direito exclusivo de prestar o serviço a adquirir, desde que a atribuição desse direito exclusivo seja compatível com as normas e os princípios constitucionais e comunitários aplicáveis;
 
-b) (Revogada.)
+b) [Revogada.]
 
 c) Contratos cujo objecto principal consista na atribuição, por qualquer das entidades adjudicantes referidas no n.º 1 do artigo 2.º, de subsídios ou de subvenções de qualquer natureza;
 
 d) Contratos de sociedade cujo capital social se destine a ser exclusivamente detido pelas entidades adjudicantes referidas no n.º 1 do artigo 2.º;
 
-e) Contratos de aquisição de serviços financeiros relativos à emissão, compra, venda ou transferência de valores mobiliários ou outros instrumentos financeiros na aceção da Diretiva n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de abril de 2004, e respetivos serviços auxiliares, bem como os contratos a celebrar em execução das políticas monetária, cambial ou de gestão de reservas e os de aquisição de serviços de caráter financeiro pelo Banco de Portugal e operações realizadas com o Fundo Europeu de Estabilidade Financeira e com o Mecanismo Europeu de Estabilidade;
+e) Contratos de aquisição de serviços financeiros relativos à emissão, compra, venda ou transferência de valores mobiliários ou outros instrumentos financeiros na aceção da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetivos serviços auxiliares, bem como os contratos a celebrar em execução das políticas monetária, cambial ou de gestão de reservas e os de aquisição de serviços de caráter financeiro prestados pelo Banco de Portugal e operações realizadas com o Fundo Europeu de Estabilidade Financeira e com o Mecanismo Europeu de Estabilidade;
 
 f) Contratos de aquisição de serviços financeiros de emissão e gestão de dívida pública e de gestão da tesouraria do Estado;
 
@@ -32,12 +32,18 @@ j) Contratos de aquisição de serviços de investigação e desenvolvimento, ex
 
 i) Os resultados destinam-se exclusivamente à entidade adjudicante, para utilização no exercício da sua própria atividade;
 
-ii) O serviço prestado é integralmente remunerado pela entidade adjudicante
+ii) O serviço prestado é integralmente remunerado pela entidade adjudicante;
 
-5 - (Revogado.)
+k) Contratos cujo objetivo principal seja permitir às entidades adjudicantes a disponibilização ou exploração de redes públicas de comunicações ou a prestação ao público de um ou mais serviços de comunicações eletrónicas, na aceção da Diretiva 2018/1972/UE, do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018;
 
-6 - (Revogado.)
+l) Contratos celebrados indispensáveis à administração, gestão, conservação ou valorização de bens apreendidos ou recuperados, no âmbito de processos nacionais ou de cooperação judiciária internacional, nos termos da Lei n.º 45/2011, de 24 de junho.
 
-7 - (Revogado.)
+5 - [Revogado.]
 
-8 - A parte ii não é aplicável aos contratos celebrados pelas entidades referidas no n.º 2 do artigo 2.º, e pelo Banco de Portugal, que não abranjam prestações típicas da empreitada de obras públicas, concessão de obras públicas, concessão de serviços públicos, locação e aquisição de bens móveis ou aquisição de serviços.
+6 - [Revogado.]
+
+7 - [Revogado.]
+
+8 - A parte ii não é aplicável aos contratos celebrados pelas entidades referidas no n.º 2 do artigo 2.º, e pelo Banco de Portugal, que não abranjam prestações típicas da empreitada de obras públicas, concessão de obras públicas, concessão de serviços, locação e aquisição de bens móveis ou aquisição de serviços.
+
+9 - A parte ii não é aplicável aos contratos celebrados pelo Banco Português de Fomento, S. A., quando o respetivo valor seja inferior aos limiares europeus previstos na Diretiva 2014/24/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.

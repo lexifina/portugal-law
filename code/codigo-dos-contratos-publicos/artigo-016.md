@@ -26,7 +26,7 @@ d) Concurso limitado por prévia qualificação;
 
 e) Procedimento de negociação;
 
-f) Diálogo concorrencial.
+f) Diálogo concorrencial;
 
 g) Parceria para a inovação.
 
@@ -36,7 +36,7 @@ a) Empreitada de obras públicas;
 
 b) Concessão de obras públicas;
 
-c) Concessão de serviços públicos;
+c) Concessão de serviços;
 
 d) Locação ou aquisição de bens móveis;
 

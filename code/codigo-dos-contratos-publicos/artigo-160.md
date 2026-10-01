@@ -2,6 +2,6 @@
 
 ### Adjudicação
 
-1 - Da decisão de adjudicação devem constar os motivos da exclusão de propostas enumerados nos n.os 2 e 3 do artigo 146.º
+1 - Da decisão de adjudicação devem constar os motivos da exclusão de propostas previstos nos n.ºs 2 e 3 do artigo 70.º
 
-2 - (Revogado).
+2 - [Revogado.]

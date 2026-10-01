@@ -18,8 +18,8 @@ c) À originalidade da obra, dos bens ou dos serviços propostos;
 
 d) Às específicas condições de trabalho de que beneficia o concorrente;
 
-e) À possibilidade de obtenção de um auxílio de Estado pelo concorrente, desde que legalmente concedido.
+e) À possibilidade de obtenção de um auxílio de Estado pelo concorrente, desde que legalmente concedido;
 
 f) À verificação da decomposição do respetivo preço, por meio de documentos comprovativos dos preços unitários incorporados no mesmo, nomeadamente folhas de pagamento e declarações de fornecedores, que atestem a conformidade dos preços apresentados e demonstrem a sua racionalidade económica;
 
-g) Ao cumprimento das obrigações decorrentes da legislação em matéria ambiental, social e laboral, referidas no n.º 2 do artigo 1.º-A.
+g) Ao cumprimento das obrigações decorrentes da legislação em matéria ambiental, social e laboral, referidas no n.º 4 do artigo 1.º-B.

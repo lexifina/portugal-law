@@ -28,14 +28,14 @@ h) O modo de prestação da caução, ou os termos em que não seja exigida essa
 
 i) O valor da caução, quando esta for exigida;
 
-j) (Revogada.)
+j) [Revogada.]
 
-k) A indicação do prazo limite para identificação de erros e omissões e para resposta quanto aos mesmos, se superior ao previsto no artigo 50.º
+k) [Revogada.]
 
-3 - O convite pode indicar, ainda que por referência ao preço base fixado no caderno de encargos, um valor a partir do qual o preço total resultante de uma proposta é considerado anormalmente baixo.
+3 - [Revogado.]
 
-4 - O convite pode ainda conter quaisquer regras específicas sobre a fase da apresentação e análise das propostas e adjudicação consideradas convenientes pela entidade adjudicante, desde que não tenham por efeito impedir, restringir ou falsear a concorrência.
+4 - O convite pode ainda conter quaisquer regras destinadas a proteger o caráter confidencial das informações contidas nas peças do procedimento, bem como quaisquer específicas sobre o procedimento de concurso público consideradas convenientes pela entidade adjudicante, desde que não tenham por efeito impedir, restringir ou falsear a concorrência.
 
-5 - Para a formação de contratos que digam directa e principalmente respeito a uma ou a várias das actividades exercidas nos sectores da água, da energia, dos transportes e dos serviços postais pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º, o programa do concurso pode conter regras destinadas a proteger o carácter confidencial das informações contidas nas peças do procedimento.
+5 - [Revogado.]
 
 6 - As normas do convite prevalecem sobre quaisquer indicações constantes dos anúncios com elas desconformes, mas as normas contidas no programa do concurso prevalecem sobre aquelas.
