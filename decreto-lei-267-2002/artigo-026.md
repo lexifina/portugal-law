@@ -10,7 +10,7 @@ b) O impedimento ou obstrução, pelo titular da licença ou por quem actue sob 
 
 c) O não cumprimento da obrigação de informação prevista no n.º 1 do artigo 30.º
 
-d) A realização de inspecções por entidades que não se encontram nas condições previstas no n.º 5 do artigo 19.º;
+d) A realização de inspeções por entidades que não se encontram nas condições previstas nos n.os 5, 8 e 9 do artigo 19.º;
 
 e) O não cumprimento das obrigações previstas no n.º 7 do artigo 19.º
 

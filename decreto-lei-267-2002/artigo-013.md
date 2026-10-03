@@ -18,4 +18,6 @@
 
 8 - No caso de não execução da obra no prazo fixado nos termos do n.º 2, a decisão de aprovação do projeto caduca, sem prejuízo de eventual prorrogação do referido prazo pela entidade licenciadora, na sequência de pedido fundamentado apresentado antes do respetivo termo pelo interessado.
 
-9 - A declaração da caducidade prevista no número anterior deve ser precedida de audiência do interessado, nos termos dos artigos 100.º e seguintes do CPA.
+9 - O pedido de prorrogação do prazo, referido no número anterior, está sujeito ao pagamento de uma taxa.
+
+10 - A declaração de caducidade prevista no n.º 8 é precedida de audiência do interessado, nos termos dos artigos 121.º e seguintes do CPA.

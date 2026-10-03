@@ -1,11 +1,11 @@
 # Artigo 7.º
 
-### Processo de licenciamento
+### Procedimento de licenciamento
 
-1 - A entidade promotora apresenta o pedido de licenciamento à entidade competente, a quem incumbe a instrução do respectivo processo.
+1 - O requerente apresenta o pedido de licenciamento à entidade competente, a quem incumbe a instrução do respetivo procedimento.
 
-2 - A instrução do processo de licenciamento poderá incluir a consulta a outras entidades nos termos do artigo 9.º, bem como a realização de vistorias.
+2 - A instrução do procedimento de licenciamento pode incluir a consulta a outras entidades nos termos do artigo 9.º, bem como a realização de vistorias.
 
-3 - A instrução do processo conclui-se com a concessão da licença de exploração da instalação.
+3 - A instrução do procedimento conclui-se com a concessão da licença de exploração da instalação.
 
-4 - As entidades inspectoras de instalações de combustíveis derivados do petróleo (EIC) e as entidades inspectoras de redes e ramais de distribuição e instalações de gás (EIG), cujos estatutos foram publicados pelas Portarias n.os 1211/2003, de 16 de Outubro, e 362/2000, de 20 de Junho, respectivamente, podem colaborar com a entidade licenciadora competente nos termos deste diploma e daqueles estatutos, no que diz respeito à apreciação de projectos, vistorias e inspecções previstas neste diploma, nos termos de legislação complementar ou, na sua falta, mediante protocolo ou contrato com as entidades licenciadoras competentes, que defina a sua actuação e procedimento.
+4 - As entidades inspetoras de combustíveis (EIC) e as entidades inspetoras de gás (EIG), cujos requisitos de acesso e exercício da atividade foram estabelecidos pela Lei n.º 15/2015, de 16 de fevereiro, podem colaborar com a entidade licenciadora competente nos termos do presente decreto-lei no que diz respeito à apreciação de projetos e às inspeções nele previstas, nos termos de legislação complementar ou, na sua falta, mediante protocolo ou contrato com as entidades licenciadoras competentes, que defina a sua atuação e procedimento.
