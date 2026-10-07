@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Q3tLU3T%2ftQB6kCRTmsviUEw%2fy%2fJMJwprZGZONxeuiw2Awhxt0D4FJNh9Vvu6gd%2fxqOvqPfxMPSMEL8JoRsG6zokbyoNv3F9VMzHBTkJnE562jsPb88udv%2bipg%2bI2%2fJwlALHkYz2hC32ILov%2bpmYyNPQZYnfy9b5%2bE0BWIVBZxQAFH%2fA%2fOvfimA1p2Iq0VhrBGBHCnAKD15twSTJsXYSS0BceMGZQ67ysAp7F3%2bujnnU0HtADMViT4c6gJNSAKjBMCFFWCVEDlu6lZRNU9rXOT1JSfIjIe1eiULgcEQ8rDAXx9757mS%2fqCwH2CE3gCv5atTqGSaBnJ79aLNIXFFahSXVZEV3%2fjRVKMyZj6fZklvY%3d&fich=IntervencoesXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3236f01f1a16cea27c8f649548948df90008154a381a4d2df53a252155c44361",
+  "legislatura": "XVII",
+  "id": "505723",
+  "tipo": "Intervenção",
+  "orador": "João Valle e Azevedo (Secretário de Estado da Presidência)",
+  "data_registo": "2026-10-07",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "147662",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "356611",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova a Lei das Grandes Opções para 2026-2029"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Eduardo Pinheiro (PS), Pedro Pinto (CH) e Fabian Figueiredo (BE), no âmbito da discussão da Proposta de Lei n.º 70/XVII/1.ª (GOV) — Aprova a Lei das Grandes Opções para 2026-2029, em conjunto com o Projeto de Lei n.º 785/XVII/2.ª (JPP).",
+        "duracao": "00:01:49.335",
+        "tipoIntervencao": "Intervenção",
+        "url": "https://av.parlamento.pt/videos/Plenary/17/2/8/54"
+      }
+    ],
+    "DataReuniaoPlenaria": "2026-10-07",
+    "Debate": "Proposta de Lei n.º 70/XVII/1.ª eo Projeto de Lei nº 785/XVII/2ª",
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "505723",
+    "IdDebate": "82710",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XVII",
+    "MembrosGoverno": {
+      "cargo": "Secretário de Estado da Presidência",
+      "governo": "XXV GOVERNO CONSTITUCIONAL",
+      "nome": "João Valle e Azevedo"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "505723",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "49-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-10-08",
+        "pubLeg": "XVII",
+        "pubNr": "8",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/02/008/2026-10-08/49?pgs=49-50&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde aos pedidos de esclarecimento dos Deputados Eduardo Pinheiro (PS), Pedro Pinto (CH), Fabian Figueiredo (BE).",
+    "Sessao": "2",
+    "Sumario": "Aprova a Lei das Grandes Opções para 2026-2029; Concretiza as prioridades de mobilidade e coesão territorial das Grandes Opções para 2026-2029, estabelecendo metas para a ligação marítima Madeira-continente e para a revisão do mecanismo de continuidade territorial nas viagens aéreas.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
