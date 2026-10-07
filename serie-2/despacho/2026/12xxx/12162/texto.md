@@ -1,0 +1,1035 @@
+Despacho n.º 12162/2026
+
+Alteração e republicação do Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra
+
+O Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra, aprovado pelo Regulamento n.º 826/2016, de 22 de agosto, na redação introduzida pelo Regulamento n.º 550/2018, de 16 de agosto, constitui o instrumento normativo que disciplina o acesso a alojamento nas Residências Universitárias dos SASUC, bem como os direitos e os deveres dos residentes e as regras de funcionamento destas.
+
+Ao longo do período da sua vigência, a experiência adquirida com a respetiva aplicação evidenciou a necessidade de se proceder à revisão de algumas das disposições, de forma a clarificar os termos da aplicação, a simplificar procedimentos, a eliminar soluções que deixaram de se revelar adequadas à realidade atual e a introduzir ajustes que permitam uma gestão mais eficiente das Residências Universitárias.
+
+A presente revisão ocorre, também, num contexto de modificação do regime jurídico da ação social no ensino superior, marcado, designadamente, pela publicação do Decreto-Lei n.º 148/2026, de 20 de julho, cujo disposto, em matéria de alojamento, se afigura essencial refletir no regulamento.
+
+Neste contexto, procede-se à revisão da modalidade de candidatura, à atualização das regras relativas ao período de alojamento e ao respetivo prolongamento, à reorganização dos critérios de colocação e das categorias de residentes, à atualização da forma de determinação das mensalidades e à revisão de diversas normas de gestão das Residências Universitárias, bem como à criação de um Conselho de Residentes, eliminando-se, igualmente, disposições que deixaram de ter aplicação prática.
+
+Nos termos da alínea w) do n.º 1 do artigo 51.º dos Estatutos da Universidade de Coimbra, homologados pelo Despacho Normativo n.º 43/2008 (2.ª série), de 1 de setembro, na redação conferida pelo Despacho Normativo n.º 2/2026 (2.ª série), de 12 de fevereiro, e após discussão pública, nos termos do disposto no n.º 3 do artigo 110.º do Regime Jurídico das Instituições de Ensino Superior, aprovado pela Lei n.º 62/2007, de 10 de setembro, na redação conferida pela Lei n.º 32/2026, de 20 de julho, e no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, e havendo deliberação favorável do Conselho de Ação Social, aprovo a alteração ao Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra.
+
+Artigo 1.º
+
+Objeto
+
+O presente despacho procede à alteração dos artigos 2.º, 4.º, 6.º, 9.º, 16.º, 18.º, 25.º, 26.º, 28.º e 33.º, e da epígrafe do Capítulo V, bem como ao aditamento do artigo 27.º-A, todos do Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra (RGRU-SASUC), Regulamento n.º 826/2016, de 22 de agosto, na sua redação atual.
+
+Artigo 2.º
+
+Alteração ao Regulamento Geral das Residências Universitárias dos SASUC
+
+1 - Os artigos 2.º, 4.º, 6.º, 9.º, 16.º, 18.º, 25.º, 26.º, 28.º e 33.º do Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - As Residências Universitárias dos SASUC, de acordo com a sua tipologia, dispõem de quartos individuais ou duplos e de apartamentos.
+
+2 - A identificação e a localização das Residências Universitárias constam na página oficial dos SASUC.
+
+3 - [...]
+
+4 - [...]
+
+Artigo 4.º
+
+[...]
+
+1 - O alojamento em Residência Universitária dos SASUC depende de candidatura a apresentar nos termos e nos prazos estabelecidos na página oficial dos SASUC, na Internet.
+
+2 - [...]
+
+3 - A candidatura a alojamento nas Residências Universitárias dos SASUC pode ser feita por período igual ou inferior a um ano letivo.
+
+4 - [Revogado.]
+
+5 - Considera-se ano letivo o período compreendido entre o início do primeiro semestre e o último dia útil do mês de junho seguinte.
+
+6 - A reserva de lugar decorrente da candidatura só será válida após o pagamento da caução, para alojamento igual ou superior a um mês, ou da totalidade do encargo, se o alojamento for inferior a um mês, tendo, em ambas as situações, de ser efetuado até 72 horas após a comunicação da atribuição de vaga.
+
+7 - Se os candidatos desistirem da reserva até 10 dias consecutivos antes da data indicada na candidatura para a sua entrada na residência serão ressarcidos dos valores entretanto pagos, sem prejuízo de eventuais despesas de concretização da devolução. Se não houver desistência e o candidato não der entrada na residência até 5 dias consecutivos após a data prevista, sem qualquer justificação, perderá o direito aos valores pagos e à reserva que lhe estava associada.
+
+8 - Os residentes que pretendam prolongar o período de alojamento para o mês de julho e/ou que necessitem de alojamento no período compreendido entre o dia 1 de agosto e o início do primeiro semestre, devem requerê-lo, a título de prolongamento de alojamento e de alojamento extraordinário, respetivamente, nos prazos definidos anualmente e devidamente publicitados, ficando sujeitos a decisão dos SASUC.
+
+9 - [Revogado.]
+
+10 - Quando a comunicação da atribuição de vaga ocorra com uma antecedência inferior a 10 dias consecutivos, o candidato poderá desistir da reserva, com ressarcimento dos valores entretanto pagos, no prazo de 48 horas após a comunicação da atribuição de vaga, sem prejuízo de eventuais despesas de concretização da devolução.
+
+Artigo 6.º
+
+[...]
+
+1 - [...]
+
+2 - Sem prejuízo do disposto no número anterior, na colocação de estudantes numa Residência Universitária dos SASUC, atender-se-á, pela ordem referida, às seguintes prioridades:
+
+a) Estudantes inscritos na UC bolseiros do IES, I. P., ou apoiados pelo Fundo de Apoio Social desta Universidade;
+
+b) Estudantes inscritos pela primeira vez na UC nos 1.º ou 2.º ciclos de estudos ou em mestrado integrado, não bolseiros e não abrangidos pelo estatuto de Estudante Internacional;
+
+c) Estudantes inscritos na UC bolseiros de outras entidades, nomeadamente daquelas com as quais exista protocolo de cooperação;
+
+d) Estudantes de 1.º e de 2.º ciclos de estudos ou de mestrado integrado da UC não bolseiros e não abrangidos pelo estatuto de Estudante Internacional, na segunda inscrição ou subsequentes, e estudantes de 3.º ciclo de estudos da UC não abrangidos pelo estatuto de Estudante Internacional, inscritos em regime de tempo integral e que não exerçam atividade profissional a tempo completo;
+
+e) Estudantes com o estatuto de Estudante Internacional, estudantes de mobilidade e estudantes de 3.º ciclo de estudos da UC que não reúnam os requisitos estabelecidos na alínea anterior;
+
+f) [Anterior alínea d).]
+
+3 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+4 - [...]
+
+a) [...]
+
+b) [...]
+
+5 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+Artigo 9.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - Se no momento da saída da Residência não houver registo de danos, desaparecimento de objetos, despesas de conservação por mau uso ou débitos de qualquer natureza aos SASUC, o montante prestado a título de caução será devolvido, sem necessidade de requerimento para o efeito, ficando eventuais despesas de concretização da devolução, nomeadamente encargos bancários, por conta do destinatário, mediante dedução ao valor a devolver. Se assim não acontecer, por ter sido provada a autoria dos danos causados, voluntários e/ou involuntários, e se houver débito aos SASUC, o seu montante será retido na medida do necessário para cobrir a reparação dos danos, substituir os bens não recuperáveis ou saldar dívidas, ficando o residente responsável pelo pagamento da diferença entre a importância de que, à data, é credor e aquela de que é devedor.
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+Artigo 16.º
+
+[...]
+
+[...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) Comunicar previamente aos SASUC ausências por períodos continuados superiores a 14 dias consecutivos.
+
+Artigo 18.º
+
+[...]
+
+1 - [...]
+
+2 - No caso dos bolseiros do IES, I. P.:
+
+a) O primeiro pagamento, que incluirá todas as mensalidades vencidas, deverá ocorrer até 96 horas após o recebimento da bolsa;
+
+b) O pagamento das mensalidades seguintes terá lugar mensalmente, dentro do prazo estabelecido no n.º 1 ou até 48 horas após o recebimento da bolsa, caso este não ocorra até ao final daquele prazo;
+
+c) [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+Artigo 25.º
+
+[...]
+
+1 - [...]
+
+a) [...]
+
+b) Falta de pagamento de mais de duas mensalidades consecutivas, nos prazos estabelecidos no presente Regulamento, ou incumprimento, por período igual ou superior a sessenta dias, do pagamento de qualquer número de mensalidades, depois de ter havido lugar à devida notificação para efetivação de pagamento, exceto nos casos previstos no n.º 1 do artigo 19.º;
+
+c) [...]
+
+d) A não utilização efetiva do alojamento por um período superior a 14 dias consecutivos, sem comunicação prévia, nos termos da alínea m) do artigo 16.º, e/ou sem fundamentação considerada atendível pelo Administrador dos SASUC;
+
+e) [Anterior alínea d).]
+
+f) [Anterior alínea e).]
+
+2 - À exceção das situações previstas nas alíneas a) a d) do número anterior, a aplicação das penalidades previstas nas alíneas b) e c) do n.º 7 do artigo 20.º deve ser precedida de parecer do Delegado.
+
+Artigo 26.º
+
+Delegados
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]
+
+Artigo 28.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+a) Bolseiro - Estudantes de 1.º e de 2.º ciclos de estudos ou de mestrado integrado da UC ou de outras Instituições de Ensino Superior Portuguesas, não abrangidos pelo estatuto de Estudante Internacional, que beneficiem de bolsa de estudo do IES, I. P., ou da Fundação Calouste Gulbenkian;
+
+b) Não bolseiro - Estudantes de 1.º e de 2.º ciclos de estudos ou de mestrado integrado da UC não abrangidos pelo estatuto de Estudante Internacional, bem como estudantes de 3.º ciclo de estudos da UC não abrangidos pelo estatuto de Estudante Internacional, inscritos em regime de tempo integral e que não exerçam atividade profissional a tempo completo;
+
+c) Mobilidade/Internacional/Outros - Estudantes ligados à UC ao abrigo de programas de mobilidade, nacional ou internacional, ou com o estatuto de Estudante Internacional, estudantes de 3.º ciclo de estudos da UC que não reúnam os requisitos estabelecidos na alínea anterior, estudantes não bolseiros de outras Instituições de Ensino Superior Portuguesas, investigadores ou outros.
+
+3 - [...]
+
+4 - [...]
+
+Artigo 33.º
+
+[...]
+
+Ao que não estiver regulado no presente Regulamento aplica-se, com as devidas adaptações, as disposições pertinentes do Regulamento Disciplinar dos Estudantes da Universidade de Coimbra, aprovado pelo Regulamento n.º 400/2019, publicado no Diário da República, 2.ª série, n.º 86, de 6 de maio de 2019.»
+
+2 - A epígrafe do Capítulo V do Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra passa a ter a seguinte redação:
+
+«CAPÍTULO V
+
+DELEGADOS E CONSELHO DE RESIDENTES»
+
+Artigo 3.º
+
+Aditamento ao Regulamento Geral das Residências Universitárias dos SASUC
+
+É aditado ao Regulamento Geral das Residências Universitárias dos SASUC o artigo 27.º-A, com a seguinte redação:
+
+«Artigo 27.º-A
+
+Conselho de Residentes
+
+1 - O Conselho de Residentes é um órgão, com natureza consultiva, que representa todos os residentes.
+
+2 - O Conselho de Residentes é composto por um representante, em regra, um Delegado, de cada Residência Universitária.
+
+3 - Nas Residências Universitárias em que existam vários Delegados, o representante da Residência no Conselho de Residentes é eleito pelos respetivos Delegados, de entre estes, após a conclusão do processo de eleição previsto no artigo 26.º
+
+4 - A eleição prevista no número anterior realiza-se com a participação de, pelo menos, a maioria simples do universo de Delegados da Residência Universitária, sendo eleito o candidato que obtenha o maior número de votos e sendo, do ato eleitoral, elaborada ata, assinada por todos os presentes, contendo o número e a distribuição dos votos, que deve ser entregue aos SASUC.
+
+5 - Caso, decorridos 10 dias úteis sobre a conclusão do processo de eleição dos Delegados, previsto no artigo 26.º, não se encontre assegurada a indicação dos representantes de todas as Residências Universitárias no Conselho de Residentes, os SASUC promovem a realização das eleições dos representantes, nas Residências Universitárias em que existam vários Delegados, ou, na ausência de Delegado, quando exista apenas um, designam um residente para assegurar a representação da respetiva Residência.
+
+6 - A designação prevista no número anterior tem caráter provisório e mantém-se até à eleição do Delegado representante, devendo atender, designadamente, à antiguidade do residente na respetiva Residência, à verificação do cumprimento dos deveres previstos no presente Regulamento e à sua disponibilidade para o exercício das funções de representação.
+
+7 - A cessação ou a perda do mandato de Delegado determina a cessação das funções de representante no Conselho de Residentes, devendo a representação da respetiva Residência ser assegurada nos termos do presente artigo.
+
+8 - Constituem deveres dos representantes das Residências Universitárias no Conselho de Residentes:
+
+a) Comparecer às reuniões do Conselho;
+
+b) Participar ativamente nos trabalhos;
+
+c) Dar conhecimento, aos seus pares, das matérias relevantes apreciadas pelo Conselho, bem como auscultá-los, sempre que tal se afigure necessário.
+
+9 - Compete ao Conselho de Residentes:
+
+a) Representar os interesses coletivos dos residentes junto dos SASUC;
+
+b) Participar na elaboração ou na alteração do Regulamento Geral das Residências Universitárias, sendo obrigatoriamente ouvido sobre quaisquer propostas de alteração ao Regulamento;
+
+c) Pronunciar-se sobre matérias de interesse comum às diferentes Residências, que lhe sejam submetidas pelos SASUC;
+
+d) Apresentar aos SASUC propostas e recomendações de melhoria do funcionamento das Residências;
+
+e) Colaborar com os SASUC na realização de iniciativas de auscultação e de participação dos residentes.
+
+10 - O Conselho de Residentes reúne, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que convocado pelos SASUC ou por um terço dos seus membros.
+
+11 - O Conselho de Residentes elege, de entre os seus membros, um Coordenador, a quem compete:
+
+a) Assegurar, em representação e nome do Conselho de Residentes, as necessárias articulações e interações com os SASUC;
+
+b) Comparecer nas reuniões convocadas pelos SASUC;
+
+c) Convocar e dirigir as reuniões do Conselho, procedendo à respetiva abertura e encerramento;
+
+d) Assegurar o regular funcionamento do Conselho e a observância das regras aplicáveis.
+
+12 - O Conselho de Residentes elege, ainda, de entre os seus membros, um Secretário, a quem compete coadjuvar o Coordenador no exercício das suas funções e elaborar as atas das reuniões.
+
+13 - O incumprimento reiterado, negligente e não fundamentado dos deveres previstos no presente artigo, pode determinar a perda do lugar no Conselho de Residentes, por decisão fundamentada do Administrador dos SASUC, sem prejuízo da eventual manutenção do mandato de Delegado.»
+
+Artigo 4.º
+
+Republicação
+
+É integralmente republicado, em anexo, o Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra.
+
+Artigo 5.º
+
+Entrada em vigor e produção de efeitos
+
+1 - O presente despacho entra em vigor no dia subsequente ao da sua publicação no Diário da República.
+
+2 - As alterações ao Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra, introduzidas pelo presente despacho, produzem efeitos a partir 1 de outubro de 2026.
+
+30 de setembro de 2026. - O Reitor, Amílcar Falcão.
+
+ANEXO
+
+(a que se refere o artigo 4.º)
+
+Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra
+
+CAPÍTULO I
+
+DISPOSIÇÕES GERAIS
+
+Artigo 1.º
+
+Âmbito e finalidades
+
+1 - O presente Regulamento aplica-se aos alojados nas Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra (SASUC).
+
+2 - As Residências Universitárias dos SASUC destinam-se ao alojamento de estudantes da Universidade de Coimbra (UC) que se encontrem a frequentar quaisquer atividades formativas, independentemente de serem conferentes de grau.
+
+3 - As Residências Universitárias podem ainda ser utilizadas por terceiros, mediante acordos celebrados com os SASUC ou outras situações devidamente autorizadas.
+
+4 - Após o termo do ano letivo e início do seguinte pode ser disponibilizado alojamento nas Residências Universitárias dos SASUC, incluindo a estudantes que pretendam vir a frequentar a Universidade de Coimbra, de acordo com as disponibilidades existentes naquelas que ficarem em funcionamento nesse período, após pedido e deliberação superior, ou nos termos de protocolos celebrados com os SASUC.
+
+5 - Os SASUC, na medida das suas disponibilidades, devem proporcionar aos alojados nas Residências Universitárias condições de estudo, investigação e bem-estar tendentes a facilitar a integração do estudante na UC, com vista ao seu sucesso escolar e promovendo a diversidade de culturas e experiências.
+
+Artigo 2.º
+
+Residências
+
+1 - As Residências Universitárias dos SASUC, de acordo com a sua tipologia, dispõem de quartos individuais ou duplos e de apartamentos.
+
+2 - A identificação e a localização das Residências Universitárias constam na página oficial dos SASUC.
+
+3 - As Residências Universitárias estão agrupadas por categorias, tendo em conta a localização, estado de conservação e serviços que prestam, às quais correspondem preços diferenciados.
+
+4 - O alojamento em apartamentos, pela sua tipologia específica, é destinado preferencialmente ao alojamento de estudantes pós-graduados e investigadores que frequentem a Universidade de Coimbra, ou a outras situações que o justifiquem.
+
+Artigo 3.º
+
+Responsável pela Residência
+
+1 - Os SASUC afetarão o pessoal necessário ao funcionamento das Residências Universitárias, designando um responsável para cada residência.
+
+2 - O responsável referido no número anterior é o representante direto dos SASUC na Residência Universitária, competindo-lhe:
+
+a) Fazer o acolhimento dos residentes, apresentar o Delegado e demais colegas, dando a conhecer os espaços e as normas de funcionamento da Residência;
+
+b) Efetuar o controlo de todas as admissões e saídas que ocorram na Residência Universitária, assegurando o cumprimento dos procedimentos internamente definidos e o disposto no n.º 6 do artigo 7.º e do n.º 1 do artigo 9.º;
+
+c) Confirmar a permanência dos residentes na Residência Universitária e comunicar ao Serviço com competência para a gestão dos alojamentos as ausências durante um longo período;
+
+d) Coordenar o pessoal afeto à Residência Universitária, distribuindo as tarefas e zelando pelo seu cumprimento;
+
+e) Supervisionar a higiene, limpeza e conservação dos equipamentos da Residência Universitária em cooperação com os delegados;
+
+f) Assegurar o aprovisionamento de materiais e bens necessários ao normal funcionamento da Residência Universitária;
+
+g) Verificar o estado de conservação, arrumação e limpeza dos quartos dos residentes;
+
+h) Comunicar ao Serviço com competência para a gestão dos alojamentos eventuais necessidades de apoio individual a residentes, para encaminhamento adequado;
+
+i) Cumprir com o disposto no n.º 3 do artigo 12.º;
+
+j) Identificar e participar na análise de todas as questões de interesse geral que possam afetar ou alterar o normal funcionamento da Residência Universitária;
+
+k) Pronunciar-se sobre questões de natureza disciplinar relativas a residentes, quando se justificar.
+
+Artigo 4.º
+
+Condições de Candidatura e Reserva
+
+1 - O alojamento em Residência Universitária dos SASUC depende de candidatura a apresentar nos termos e nos prazos estabelecidos na página oficial dos SASUC, na Internet.
+
+2 - Com a candidatura ao alojamento é assegurada a respetiva reserva, caso haja disponibilidade de lugares, e o candidato assume o compromisso de pagar a caução, aceitar os critérios de colocação e assinar o respetivo contrato de alojamento, nos termos do presente Regulamento.
+
+3 - A candidatura a alojamento nas Residências Universitárias dos SASUC pode ser feita por período igual ou inferior a um ano letivo.
+
+4 - [Revogado.]
+
+5 - Considera-se ano letivo o período compreendido entre o início do primeiro semestre e o último dia útil do mês de junho seguinte.
+
+6 - A reserva de lugar decorrente da candidatura só será válida após o pagamento da caução, para alojamento igual ou superior a um mês, ou da totalidade do encargo, se o alojamento for inferior a um mês, tendo, em ambas as situações, de ser efetuado até 72 horas após a comunicação da atribuição de vaga.
+
+7 - Se os candidatos desistirem da reserva até 10 dias consecutivos antes da data indicada na candidatura para a sua entrada na residência serão ressarcidos dos valores entretanto pagos, sem prejuízo de eventuais despesas de concretização da devolução. Se não houver desistência e o candidato não der entrada na residência até 5 dias consecutivos após a data prevista, sem qualquer justificação, perderá o direito aos valores pagos e à reserva que lhe estava associada.
+
+8 - Os residentes que pretendam prolongar o período de alojamento para o mês de julho e/ou que necessitem de alojamento no período compreendido entre o dia 1 de agosto e o início do primeiro semestre, devem requerê-lo, a título de prolongamento de alojamento e de alojamento extraordinário, respetivamente, nos prazos definidos anualmente e devidamente publicitados, ficando sujeitos a decisão dos SASUC.
+
+9 - [Revogado.]
+
+10 - Quando a comunicação da atribuição de vaga ocorra com uma antecedência inferior a 10 dias consecutivos, o candidato poderá desistir da reserva, com ressarcimento dos valores entretanto pagos, no prazo de 48 horas após a comunicação da atribuição de vaga, sem prejuízo de eventuais despesas de concretização da devolução.
+
+Artigo 5.º
+
+Alojamento de Grupos
+
+1 - Considera-se Grupo o conjunto de candidatos que, visando atividades de interesse comum a realizar por períodos pontuais e por intermédio de uma entidade pública ou privada, como tal apresentam o seu pedido junto dos SASUC.
+
+2 - Os pedidos de alojamento deverão ser confirmados até 10 dias consecutivos antes da data da chegada e acompanhados do pagamento de uma caução equivalente a 12,5 % do valor total da faturação do grupo ou de um termo de responsabilidade, no caso de entidade pública.
+
+3 - As reservas serão garantidas mediante a liquidação do montante de caução previsto no número anterior e após o pagamento do valor do alojamento devido pelo período da reserva.
+
+Artigo 6.º
+
+Critérios de Colocação
+
+1 - O primeiro critério de colocação é a data de entrada do pedido de alojamento.
+
+2 - Sem prejuízo do disposto no número anterior, na colocação de estudantes numa Residência Universitária dos SASUC, atender-se-á, pela ordem referida, às seguintes prioridades:
+
+a) Estudantes inscritos na UC bolseiros do IES, I. P., ou apoiados pelo Fundo de Apoio Social desta Universidade;
+
+b) Estudantes inscritos pela primeira vez na UC nos 1.º ou 2.º ciclos de estudos ou em mestrado integrado, não bolseiros e não abrangidos pelo estatuto de Estudante Internacional;
+
+c) Estudantes inscritos na UC bolseiros de outras entidades, nomeadamente daquelas com as quais exista protocolo de cooperação;
+
+d) Estudantes de 1.º e de 2.º ciclos de estudos ou de mestrado integrado da UC não bolseiros e não abrangidos pelo estatuto de Estudante Internacional, na segunda inscrição ou subsequentes, e estudantes de 3.º ciclo de estudos da UC não abrangidos pelo estatuto de Estudante Internacional, inscritos em regime de tempo integral e que não exerçam atividade profissional a tempo completo;
+
+e) Estudantes com o estatuto de Estudante Internacional, estudantes de mobilidade e estudantes de 3.º ciclo de estudos da UC que não reúnam os requisitos estabelecidos na alínea anterior;
+
+f) Estudantes de outras Instituições de Ensino Superior e outros.
+
+3 - Na colocação de um estudante atender-se-á, quando aplicável, aos seguintes fatores:
+
+a) Aproveitamento escolar no ano anterior, conforme definido nos números 4 e 5 seguintes;
+
+b) Situação económica e/ou familiar menos favorável à frequência do Ensino Superior;
+
+c) Regularidade dos pagamentos das mensalidades.
+
+4 - Considera-se que há aproveitamento escolar, para efeitos do presente Regulamento, quando se verifiquem cumulativamente as seguintes condições:
+
+a) Possa, contabilizando as inscrições já realizadas, no nível do Ensino Superior em que está inscrito, concluir o curso com o número total de inscrições anuais não superior a n+1, se a duração normal do curso (n) for igual ou inferior a 3 anos, ou a n + 2, se a duração normal do curso (n) for superior a 3 anos. Para inscrições a termo parcial considerar-se-á 2n + 2 e 2n + 3, respetivamente;
+
+b) Tenha realizado 36 ECTS no último ano de inscrição. Para inscrições a tempo parcial considerar-se-á 18 ECTS.
+
+5 - Excetuam-se do disposto no número anterior, mediante autorização dos SASUC:
+
+a) Situações de doenças graves, devidamente comprovadas;
+
+b) Situações especialmente graves ou socialmente protegidas, devidamente comprovadas;
+
+c) Mudanças de curso;
+
+d) Residentes com Estatuto de Trabalhador/Estudante;
+
+e) Situações que impliquem acompanhamento psicopedagógico.
+
+CAPÍTULO II
+
+ALOJAMENTO
+
+Artigo 7.º
+
+Admissão na Residência Universitária
+
+1 - A admissão para alojamento por período igual ou superior a um mês será formalizada através de um contrato escrito de alojamento, celebrado entre o candidato e os SASUC.
+
+2 - Havendo lugar à celebração de um contrato escrito, o candidato a alojamento fica sujeito à prestação de uma caução no montante de 17,5 % da renumeração mínima mensal garantida, arredondado à unidade do euro, para garantia do bom uso e conservação dos bens e espaços colocados à disposição e/ou cobertura de encargos incorridos e não pagos.
+
+3 - Excetuam-se do montante previsto no número anterior os contratos de alojamento em apartamentos, cuja caução será de valor igual ao da mensalidade.
+
+4 - A admissão nas Residências deverá ocorrer em dias úteis entre as 14h00 e as 17h00, sem prejuízo de qualquer outro horário pontual a definir com os SASUC.
+
+5 - O acesso às Residências Universitárias é feito preferencialmente por meio eletrónico através do uso do cartão de estudante, depois de ativado pelos SASUC.
+
+6 - No momento da admissão numa Residência Universitária, o residente será acompanhado pelo responsável pela Residência ou quem o substitua. Em conjunto conferem, registam e assinam ficha própria que descreve o estado em que se encontra o mobiliário e o equipamento de uso próprio e de uso comum, assim como o estado geral do alojamento que lhe tenha sido atribuído, ficando o residente vinculado à sua restituição no mesmo estado em que este lhe foi entregue.
+
+Artigo 8.º
+
+Contrato
+
+1 - O contrato celebrado entre os SASUC e o residente, que nele figuram como Primeiro e Segundo Outorgante, respetivamente, é válido por um ano letivo, renovando-se automaticamente, exceto se alguma das partes o fizer cessar, nos termos previstos nos números 4, 5 e 6.
+
+2 - A renovação do contrato garante ao residente:
+
+a) A permanência na residência em que foi colocado;
+
+b) A transferência para outra residência dos SASUC, a pedido do residente, caso haja disponibilidade de lugar, mediante aceitação por parte dos SASUC.
+
+3 - Quaisquer alterações de Residência, tipologia de alojamento, ou condição do residente, que ocorram ao longo da vigência do contrato ou das suas renovações, deverão constar do anexo ao contrato de alojamento e ser assinadas pelo residente.
+
+4 - OS SASUC podem rescindir o contrato de alojamento, impedindo a sua renovação, no caso de se verificar, pelo menos, uma das seguintes condições:
+
+a) Haver registo de infrações, por parte do residente, às normas do presente Regulamento que tenham motivado a aplicação de uma das sanções previstas no artigo 20.º;
+
+b) Estar o residente em dívida perante os SASUC;
+
+c) Ocorrer falta de aproveitamento escolar, nos termos dos números 4 e 5 do artigo 6.º
+
+5 - A rescisão prevista no número anterior deve ser comunicada ao residente até ao dia 31 de agosto.
+
+6 - A denúncia do contrato, por parte do residente, deverá ser comunicada aos SASUC com a antecedência mínima de 30 dias consecutivos.
+
+7 - O período de alojamento pode, por motivos de frequência de programa de mobilidade, estágio, trabalho de campo ou outros de cariz académico ser interrompido, a pedido do residente, com antecedência mínima de 30 dias consecutivos, devidamente documentado, não havendo lugar ao pagamento de mensalidades, mas não lhe sendo assegurado, no regresso, a ocupação do mesmo lugar.
+
+8 - Para alojamento por período inferior a um mês, o contrato escrito não tem caráter obrigatório.
+
+9 - Qualquer renovação contratual implica a manutenção, na posse dos SASUC, do valor da caução prestada inicialmente.
+
+10 - O valor total da caução prestada pelo residente só lhe será restituído no final do contrato ou das suas renovações, conforme estipulado no n.º 3 do artigo 9.º, não servindo para cobrir quaisquer encargos da responsabilidade do residente, durante a vigência do contrato.
+
+Artigo 9.º
+
+Saída da Residência Universitária
+
+1 - No momento da saída da Residência, ou quando ocorra alguma mudança de quarto, o residente e o responsável pela residência, ou quem o substitua, farão, obrigatoriamente em conjunto, a verificação do estado de conservação dos bens e espaços, procedendo ao seu registo em ficha própria, que ambos assinarão.
+
+2 - Esta verificação será efetuada no último dia de permanência do residente no quarto, devendo a saída ocorrer em dias úteis até às 12h00, sem prejuízo de qualquer outro horário pontual a acordar com os SASUC.
+
+3 - Se no momento da saída da Residência não houver registo de danos, desaparecimento de objetos, despesas de conservação por mau uso ou débitos de qualquer natureza aos SASUC, o montante prestado a título de caução será devolvido, sem necessidade de requerimento para o efeito, ficando eventuais despesas de concretização da devolução, nomeadamente encargos bancários, por conta do destinatário, mediante dedução ao valor a devolver. Se assim não acontecer, por ter sido provada a autoria dos danos causados, voluntários e/ou involuntários, e se houver débito aos SASUC, o seu montante será retido na medida do necessário para cobrir a reparação dos danos, substituir os bens não recuperáveis ou saldar dívidas, ficando o residente responsável pelo pagamento da diferença entre a importância de que, à data, é credor e aquela de que é devedor.
+
+4 - As chaves e cartões de acesso à Residência, em posse do residente, deverão ser entregues aos SASUC na data da saída, só se considerando o quarto livre a partir desse momento.
+
+5 - Quando, por solicitação do residente, a saída da residência ocorrer antes da data contratualmente acordada, este deverá informar os SASUC com a antecedência mínima de 30 dias consecutivos sobre a data de produção de efeitos, sendo responsável pelo pagamento correspondente aos dias em que esteve na Residência Universitária, sem prejuízo de outras responsabilidades a que se refere o n.º 3.
+
+6 - Em caso de incumprimento do prazo constante do número anterior será imputado ao residente, a título de penalização, o valor correspondente ao número de noites de pré-aviso em falta, até ao limite de uma mensalidade, independentemente de outras responsabilidades a que se refere o n.º 3.
+
+Artigo 10.º
+
+Equipamento e manutenção
+
+1 - O funcionamento das Residências Universitárias dos SASUC é assegurado pelos SASUC, em colaboração e cooperação com os residentes.
+
+2 - É da responsabilidade dos SASUC:
+
+a) Assegurar a manutenção e a conservação dos edifícios onde se encontram instaladas as Residências Universitárias;
+
+b) Disponibilizar, em boas condições de funcionamento, o mobiliário e o equipamento de utilização individual, designadamente cama, armário, secretária e candeeiro de mesa;
+
+c) Disponibilizar, em boas condições de funcionamento, os equipamentos de utilização comum que garantam proporcionalidade ao número de utilizadores e às características e condicionantes do imóvel onde está instalada a Residência Universitária;
+
+d) Suportar os encargos de fornecimento de energia elétrica, gás, água e Internet, sem prejuízo de disponibilizar, de forma progressiva, equipamentos que promovam a implementação do princípio do utilizador-pagador como garante da sustentabilidade ambiental e económico-financeira das Residências Universitárias;
+
+e) Fornecer e tratar a roupa de cama e atoalhados, semanalmente;
+
+f) Fornecer os materiais de limpeza regular das instalações.
+
+3 - A colocação/utilização, na residência, de equipamentos de cozinha e de tratamento de roupa adquiridos por residentes, carece de autorização prévia do Administrador dos SASUC e nenhum residente poderá ser impedido de os utilizar.
+
+4 - Não é da responsabilidade dos SASUC a manutenção de equipamentos adquiridos pelos residentes, exceto quando a sua propriedade tenha revertido para os SASUC e, neste caso, apenas a partir do momento em que isso aconteça.
+
+5 - A reparação ou substituição de equipamentos essenciais, designadamente esquentadores, frigoríficos e micro-ondas, deverá realizar-se no prazo máximo de 7 dias úteis a partir da data da comunicação das anomalias de funcionamento aos SASUC.
+
+6 - As reparações em infraestruturas e equipamentos que possam interferir com a saúde e a segurança dos residentes deverão ser feitas no prazo máximo de 5 dias úteis, ou ser apresentada alternativa de alojamento aos residentes afetados
+
+7 - Na impossibilidade de prover ao cumprimento dos prazos estabelecidos nos n.<sup>os</sup> 5 e 6, os SASUC deverão notificar os residentes de tal impossibilidade, fundamentando-a, e dando-lhes conhecimento do prazo previsto para resolução.
+
+8 - As restantes reparações consideradas necessárias serão objeto de hierarquização e calendarização que deverão, sempre que possível, ser reportadas aos residentes, através do delegado.
+
+Artigo 11.º
+
+Pertences dos Residentes
+
+1 - No ato da saída os residentes devem retirar os seus pertences.
+
+2 - Excecionalmente poderá ser permitido que alguns bens fiquem guardados em espaço adequado da Residência Universitária, desde que devidamente acondicionados e registados em impresso próprio, assinado pelo residente e pelos SASUC.
+
+3 - A permissão referida no número anterior não responsabiliza os SASUC quanto a eventuais danos ou prejuízos que tais bens possam sofrer.
+
+4 - Os bens dos ex-residentes que não forem levantados no prazo de 90 dias consecutivos a contar da data de saída da Residência, sem que seja apresentada qualquer justificação plausível, revertem para os SASUC, que lhes darão o fim considerado mais conveniente.
+
+Artigo 12.º
+
+Limpeza dos quartos e espaços comuns
+
+1 - Os residentes devem zelar pela conservação e limpeza do quarto e equipamentos postos à sua disposição, sendo a sua limpeza da responsabilidade de cada um dos seus ocupantes.
+
+2 - O disposto no número anterior aplica-se, nos mesmos termos, aos equipamentos e espaços de utilização comum, como cozinhas, salas e casas de banho.
+
+3 - Os SASUC procedem à limpeza profunda das áreas comuns com periodicidade quinzenal e dos quartos/lugares sempre que estes estejam vagos.
+
+4 - A limpeza ordinária das partes comuns deve ser realizada diariamente pelos residentes, sendo supervisionada pelos trabalhadores que prestam apoio às Residências Universitárias.
+
+5 - Os SASUC poderão efetuar vistorias periódicas aos quartos, relativas à conservação e limpeza do espaço, dependentes de aviso prévio a dar aos ocupantes, ou na presença destes e com o respetivo consentimento.
+
+Artigo 13.º
+
+Visitantes
+
+1 - As Residências Universitárias destinam-se exclusivamente aos respetivos residentes, estando por isso vedada a pernoita nas mesmas a quaisquer visitantes, a não ser com conhecimento e autorização, dada por escrito, do Administrador dos SASUC e nas condições a determinar por este.
+
+2 - A responsabilidade pela pernoita indevida de visitantes no quarto é extensível ao colega de quarto, seja por anuência, seja por omissão.
+
+3 - O acesso de visitantes apenas é permitido nas áreas comuns das residências desde que devidamente acompanhados por residentes, sendo os equipamentos existentes, nomeadamente os de cozinha, de utilização exclusiva dos residentes.
+
+4 - Cada residente é responsável pelos atos ou comportamentos das respetivas visitas.
+
+5 - Os visitantes não podem permanecer nas Residências Universitárias entre as 23 horas de um dia e as 10 horas do dia seguinte, salvo exceções devidamente autorizadas pelos SASUC.
+
+6 - Sem prejuízo do disposto no número anterior, jantares e convívios que envolvam a participação de visitantes carecem de autorização dos SASUC, que terão em conta a finalidade, o número de participantes e as condições da Residência.
+
+Artigo 14.º
+
+Utilização da Residência
+
+1 - A confeção de pequenas refeições e o tratamento de roupa só são permitidos nos locais apropriados e com os equipamentos existentes para o efeito.
+
+2 - É proibida a preparação, sem a devida vigilância, de refeições em fogões ou outros equipamentos semelhantes.
+
+3 - É proibido foguear, nomeadamente acender, sem vigilância, velas, incenso ou quaisquer outros objetos afins, em todos os espaços da Residência.
+
+4 - É proibido ter equipamentos de cozinha nos quartos (frigoríficos, micro-ondas, máquinas de café, entre outros).
+
+5 - É proibida a entrada ou permanência de animais nas Residências Universitárias, com exceção das situações previstas no Decreto-Lei n.º 74/2007, de 27 de março, diploma que consagra o direito de acesso a locais, transportes e estabelecimentos de acesso público das pessoas com deficiência, acompanhadas de cães de assistência.
+
+6 - É proibido fumar no interior das Residências Universitárias, nos termos da Lei.
+
+7 - É proibida a posse e uso de qualquer tipo de armas, materiais explosivos, substâncias inflamáveis ou perigosas para a saúde e segurança da Residência Universitária e dos seus residentes.
+
+8 - Os residentes não devem perturbar a tranquilidade dos restantes colegas residentes, nomeadamente através de barulho proveniente de aparelhos de som, nos períodos previstos no Regulamento Geral do Ruído, ou seja, entre as 23h00 e as 7h00, com salvaguarda ainda de outras situações idênticas nele contempladas.
+
+9 - É proibida a prática de jogos de fortuna e azar.
+
+10 - É proibido o consumo excessivo de álcool de que resulte a alteração do comportamento individual e a perturbação da vida normal dos residentes, sem prejuízo do estipulado na Lei.
+
+11 - É proibido ter em sua posse, consumir, traficar, incentivar ao consumo ou fomentar a circulação de estupefacientes e/ou substâncias psicotrópicas nas Residências.
+
+12 - Os residentes devem abster-se de praticar atos impróprios da normal vida em comum, que ofendam a integridade física ou psíquica dos outros residentes, trabalhadores, ou visitantes da Residência Universitária, e/ou que prejudiquem o bom nome da Instituição.
+
+CAPÍTULO III
+
+DIREITOS E DEVERES DOS RESIDENTES
+
+Artigo 15.º
+
+Direitos dos Residentes
+
+São direitos dos residentes:
+
+a) O respeito pela integridade da sua pessoa e dos seus bens;
+
+b) O usufruto de todos os espaços da Residência Universitária postos à sua disposição;
+
+c) O direito à privacidade, com os limites decorrentes da partilha de espaço com outros residentes e da execução de trabalhos de verificação, limpeza e manutenção;
+
+d) O direito de receber visitas, responsabilizando-se pela sua conduta, horário de permanência e cumprimento dos regulamentos;
+
+e) O direito a eleger e a ser eleito para o cargo de delegado;
+
+f) O direito a recorrer ao Delegado ou aos SASUC para a resolução de qualquer problema decorrente do seu alojamento;
+
+g) O direito a ser ouvido sobre qualquer assunto que lhe diga diretamente respeito.
+
+Artigo 16.º
+
+Deveres dos Residentes
+
+São deveres dos residentes:
+
+a) Pagar pontualmente a mensalidade;
+
+b) Conhecer e cumprir o presente Regulamento, demais regras em vigor na Residência Universitária e legislação aplicável;
+
+c) Cuidar do material que têm à sua disposição e manter as condições de habitabilidade do quarto que ocupam;
+
+d) Zelar pela conservação e limpeza do equipamento existente e dos espaços à sua responsabilidade, de acordo com as regras definidas no artigo 12.º e no respeito pelas escalas definidas, quando existam;
+
+e) Respeitar o período de descanso;
+
+f) Promover a redução de consumos de água, gás e eletricidade, de forma a apoiar a sustentabilidade da Residência Universitária;
+
+g) Manter uma conduta pessoal que favoreça a convivência e o respeito entre os residentes e os funcionários;
+
+h) Comunicar aos SASUC qualquer anomalia que se verifique no funcionamento da Residência Universitária;
+
+i) Participar em ações de formação promovidas pelos SASUC que versem sobre a segurança de pessoas e bens na Residência e o modo de atuar em situações de perigo, sempre que se revele necessário e quando convocados para o efeito, sem prejuízo do seu horário escolar;
+
+j) Colaborar com os delegados e respeitar as regras internas, quando estas emanem da maioria dos residentes;
+
+k) Cooperar ativamente com os SASUC no cumprimento do presente Regulamento, designadamente no apuramento de responsabilidades no âmbito de processos de inquérito;
+
+l) Utilizar com responsabilidade as chaves que lhes são confiadas, incluindo o cartão de estudante (pessoal e intransmissível), quando este dê acesso à Residência.
+
+m) Comunicar previamente aos SASUC ausências por períodos continuados superiores a 14 dias consecutivos.
+
+Artigo 17.º
+
+Responsabilidade por Danos
+
+1 - A reparação dos danos causados, quer no edifício, quer nos equipamentos das Residências Universitárias, é da responsabilidade pessoal dos seus autores, ou da responsabilidade solidária de todos os residentes que à data se encontrem alojados, quando não seja apurada a autoria dos danos provocados. Em todos os casos serão os residentes notificados, individualmente e com a devida antecedência, dos danos a reparar e do montante por que são responsabilizados.
+
+2 - Os SASUC não são responsáveis por danos, perdas, furtos ou roubos dos bens dos residentes.
+
+3 - Havendo sensível superioridade do interesse a salvaguardar relativamente ao interesse sacrificado, os SASUC poderão ter acesso aos quartos para a verificação de danos, irregularidades e apuramento de eventuais responsabilidades, fazendo-se acompanhar preferencialmente dos Delegados, ou de outros residentes na impossibilidade daqueles.
+
+4 - Para efeitos do presente Regulamento, são também consideradas atuações danosas as que consistam em:
+
+a) Retirar e/ou deslocar material, mobília, equipamentos e outros utensílios adstritos aos espaços comuns e quartos, ou atribuir-lhes outro fim que não seja o determinado pelos SASUC;
+
+b) Fazer qualquer tipo de inscrições nas paredes e portas, bem como usar materiais de afixação que danifiquem o revestimento das mesmas ou que possam provocar danos estruturais.
+
+Artigo 18.º
+
+Pagamentos
+
+1 - O pagamento das mensalidades será efetuado até dia 15 de cada mês.
+
+2 - No caso dos bolseiros do IES, I. P.:
+
+a) O primeiro pagamento, que incluirá todas as mensalidades vencidas, deverá ocorrer até 96 horas após o recebimento da bolsa;
+
+b) O pagamento das mensalidades seguintes terá lugar mensalmente, dentro do prazo estabelecido no n.º 1 ou até 48 horas após o recebimento da bolsa, caso este não ocorra até ao final daquele prazo;
+
+c) Os estudantes que tenham requerido a concessão de bolsa de estudo, mas a quem não haja sido concedido tal benefício, deverão proceder ao pagamento das mensalidades vencidas, atualizadas para não bolseiro, no prazo de 10 dias úteis após a data da decisão de não atribuição de bolsa.
+
+3 - O pagamento relativo a alojamento extraordinário ou alojamento por períodos inferiores a um mês e alojamento de grupos será sempre feito total e antecipadamente, sem prejuízo do disposto no n.º 1 do artigo 17.º
+
+4 - As formas de pagamento são as constantes da tabela de preços a que se refere o artigo 28.º
+
+5 - Os residentes que não procedam ao pagamento das suas mensalidades até ao fim dos prazos estipulados ficam sujeitos ao pagamento de juros de mora à taxa legal, até integral pagamento, exceto nos casos previstos no n.º 1 do artigo seguinte.
+
+6 - Em caso de incumprimento do estipulado no número anterior serão acionados pelos SASUC os mecanismos tendentes à aplicação de uma das penalidades previstas no artigo 20.º, n.º 6, quando verificada a situação prevista na alínea b) do n.º 1 do artigo 25.º
+
+7 - O incumprimento de qualquer pagamento devido aos SASUC em virtude do presente Regulamento pode ser cobrado nos termos da Lei.
+
+8 - Qualquer encargo decorrente de transações bancárias ou de idêntica natureza será sempre da responsabilidade do residente.
+
+Artigo 19.º
+
+Pagamento em situações excecionais
+
+1 - Em situações de comprovada dificuldade económica poderá o residente requerer o pagamento diferido de alguma mensalidade, caução ou outros encargos, e o seu pagamento fracionado, mediante requerimento dirigido ao Administrador dos SASUC, acompanhado de um plano de liquidação cujo prazo de pagamento não deverá ultrapassar o último mês de contrato ou o final do ano letivo, quando haja lugar à renovação do contrato.
+
+2 - No caso de indeferimento da pretensão a que se refere o número anterior será a data do despacho tida como a do incumprimento, para efeitos dos números 5 e 6 do artigo anterior.
+
+CAPÍTULO IV
+
+PENALIDADES
+
+Artigo 20.º
+
+Penalidades
+
+1 - Sempre que por parte dos residentes ocorram comportamentos contrários às regras definidas neste Regulamento, atos ilícitos, ou outros que de alguma forma violem os deveres gerais que devem presidir à vida em comunidade, pode ser aplicada aos seus autores uma penalidade preventiva, corretiva ou punitiva.
+
+2 - A penalidade preventiva concretiza-se através da aplicação de advertência verbal ou escrita e pode ser aplicada pelo responsável pelo serviço dos SASUC com competência pela gestão dos alojamentos, sem prejuízo da competência do Administrador dos SASUC.
+
+3 - A aplicação de penalidades corretivas pode ser precedida de processo de inquérito, enquanto as penalidades punitivas serão sempre precedidas de processo de inquérito.
+
+4 - As penalidades corretivas prosseguem finalidades pedagógicas, dissuasoras e de integração, visando de forma sustentada o cumprimento dos deveres do residente, o respeito pelos colegas e trabalhadores, bem como a segurança na Residência, sendo:
+
+a) Advertência escrita;
+
+b) Realização de tarefas e atividades de integração na Residência;
+
+c) Multa.
+
+5 - A penalidade corretiva prevista na alínea b), do número anterior será executada em período suplementar ao horário escolar do residente, competindo ao Serviço dos SASUC com competência pela gestão dos alojamentos a sua supervisão.
+
+6 - O incumprimento do estipulado nos números 1 e 2 do artigo 12.º implica a aplicação de uma penalidade preventiva prevista no n.º 2 e, mantendo-se o incumprimento, a aplicação da penalidade corretiva prevista na alínea c) do número anterior, cujo montante poderá variar entre 3 % e 5 % do valor da remuneração mínima mensal garantida.
+
+7 - As penalidades punitivas traduzem uma sanção grave imputada ao comportamento do residente, sendo:
+
+a) Transferência de Residência;
+
+b) Expulsão da Residência;
+
+c) Perda definitiva do direito a residir em qualquer Residência Universitária dos SASUC.
+
+8 - Em situações de extrema gravidade comportamental ou que possam pôr em risco a segurança de pessoas e bens dentro da residência, pode o Administrador dos SASUC, até decisão final do processo de inquérito, suspender preventivamente o alojado de frequentar a Residência, por prazo não superior a 30 dias.
+
+Artigo 21.º
+
+Determinação da medida da penalidade
+
+1 - Na determinação da medida da penalidade a aplicar deve ter-se em consideração a gravidade do incumprimento do dever, as circunstâncias atenuantes e agravantes, o grau de culpa do residente e demais condições pessoais, familiares e sociais.
+
+2 - São circunstâncias atenuantes da responsabilidade do residente o seu bom comportamento anterior, o seu aproveitamento escolar e o seu reconhecimento, com arrependimento, da natureza ilícita da sua conduta.
+
+3 - São circunstâncias agravantes da responsabilidade do residente a premeditação, o conluio, a gravidade do dano provocado a terceiros, a acumulação de infrações e a reincidência nelas.
+
+Artigo 22.º
+
+Procedimento disciplinar
+
+1 - A ocorrência dos factos suscetíveis de configurarem a aplicação de uma penalidade deve ser participada de imediato, pelo interessado, pelo Delegado ou por funcionário que a presenciou ou dela teve conhecimento, ao serviço dos SASUC com competência pela gestão dos alojamentos, ou ao Administrador dos SASUC.
+
+2 - A competência para a instauração de processo de inquérito por comportamentos suscetíveis de configurar a aplicação de alguma das penalidades previstas nos números 4 e 6 do artigo 20.º é do Administrador dos SASUC.
+
+3 - Das penalidades aplicadas cabe recurso para o Reitor da UC, no prazo de 5 dias úteis a contar da sua comunicação ao residente. Nos casos previstos no n.º 6 do artigo 20.º, o recurso terá efeito suspensivo.
+
+4 - No dia em que for proferido despacho de instauração de processo de inquérito, o Administrador dos SASUC deve notificar o instrutor nomeado.
+
+5 - A instrução do processo de inquérito é obrigatoriamente realizada, para além das demais diligências consideradas necessárias, com a inquirição oral do residente e demais pessoas cujo depoimento tenha interesse para apurar os factos atinentes ao processo de inquérito.
+
+6 - Os depoentes são convocados com a antecedência mínima de 2 dias úteis para a inquirição oral, não constituindo a falta de comparência motivo do seu adiamento. No entanto, aquela poderá ser adiada e posteriormente remarcada, caso seja apresentada justificação da falta até à data da audiência.
+
+7 - A falta de comparência injustificada no prazo fixado vale, para todos os efeitos legais, como efetiva audiência, sem prejuízo das consequências pela violação do artigo 16.º, alínea k).
+
+8 - Da inquirição é lavrado um auto de declarações do qual constará o depoimento prestado, sendo assinado pelo depoente, pelo instrutor do processo e pelo secretário.
+
+9 - Finda a instrução do processo de inquérito, o instrutor elabora, no prazo de cinco dias, e remete ao Administrador dos SASUC relatório final do qual constam, obrigatoriamente:
+
+a) Os factos cuja prática é imputada ao residente, devidamente circunstanciados quanto ao tempo, modo e lugar;
+
+b) Os deveres violados pelo residente, com referência expressa às respetivas normas do presente Regulamento;
+
+c) Os antecedentes do residente que se constituem como circunstâncias atenuantes ou agravantes nos termos previstos no artigo 21.º;
+
+d) A proposta da penalidade a aplicar ou do arquivamento do processo.
+
+10 - A decisão final do processo de inquérito é notificada ao residente e ao responsável pelo serviço dos SASUC com competência pela gestão dos alojamentos.
+
+Artigo 23.º
+
+Responsabilidade civil e criminal
+
+A aplicação de qualquer penalidade ao residente não o isenta da responsabilidade civil e criminal a que, nos termos gerais de direito, haja lugar.
+
+Artigo 24.º
+
+Responsabilidade dos residentes
+
+1 - Os residentes são responsáveis pelo exercício dos direitos e pelo cumprimento dos deveres que lhes são outorgados pelo presente Regulamento e demais legislação aplicável, assim como pelo património da Residência.
+
+2 - Por cada infração apenas pode ser aplicada uma penalidade preventiva ou penalidade corretiva ou punitiva, sem prejuízo da aplicação de medidas acessórias, quando se justifiquem.
+
+Artigo 25.º
+
+Perda do direito ao alojamento
+
+1 - As penalidades previstas nas alíneas b) e c) do n.º 7 do artigo 20.º poderão ser também aplicadas nas seguintes situações:
+
+a) Omissão dolosa de dados ou prestação de falsas declarações aquando da candidatura;
+
+b) Falta de pagamento de mais de duas mensalidades consecutivas, nos prazos estabelecidos no presente Regulamento, ou incumprimento, por período igual ou superior a sessenta dias, do pagamento de qualquer número de mensalidades, depois de ter havido lugar à devida notificação para efetivação de pagamento, exceto nos casos previstos no n.º 1 do artigo 19.º;
+
+c) A perda de vínculo à UC, sem prejuízo de poder haver prolongamento de alojamento, mediante autorização do Administrador dos SASUC;
+
+d) A não utilização efetiva do alojamento por um período superior a 14 dias consecutivos, sem comunicação prévia, nos termos da alínea m) do artigo 16.º, e/ou sem fundamentação considerada atendível pelo Administrador dos SASUC;
+
+e) Concessão de pernoita a visitantes na Residência, sem a devida autorização, nos termos do n.º 1 do artigo 13.º, bem como a cedência da chave do quarto a terceiros;
+
+f) Prática de quaisquer atos cuja gravidade torne impossível a manutenção da situação de residente.
+
+2 - À exceção das situações previstas nas alíneas a) a d) do número anterior, a aplicação das penalidades previstas nas alíneas b) e c) do n.º 7 do artigo 20.º deve ser precedida de parecer do Delegado.
+
+CAPÍTULO V
+
+DELEGADOS E CONSELHO DE RESIDENTES
+
+Artigo 26.º
+
+Delegados
+
+1 - O Delegado é um residente eleito pelos seus pares que os representa junto dos SASUC, podendo, nas Residências de maior dimensão, a eleição ser feita por piso ou por ala.
+
+2 - O mandato dos Delegados tem a duração de um ano letivo, devendo a sua eleição realizar-se por sufrágio direto em reunião de residentes, a convocar durante o mês de maio do ano letivo anterior. Nos casos em que, no início do ano letivo, não haja delegado eleito, a sua eleição deverá ocorrer até ao dia 15 de outubro, após convocatória, em reunião de residentes.
+
+3 - No caso de até ao dia 15 de outubro não haver delegado eleito, poderão os SASUC tomar a iniciativa de convocar as eleições.
+
+4 - Na eleição deve participar pelo menos a maioria simples do universo de votantes.
+
+5 - Do ato eleitoral será elaborada ata onde conste a identificação do Delegado eleito, o período do mandato, o número de votos e a assinatura de todos os presentes. A validação da qualidade de Delegado é feita com a entrega da ata nos SASUC, sem a qual não haverá produção de efeitos.
+
+6 - A eleição para o cargo de Delegado não garante o realojamento do eleito no ano letivo seguinte.
+
+7 - Os anteriores Delegados deverão transmitir aos Delegados eleitos toda a documentação que tenham em sua posse e diga respeito à Residência Universitária.
+
+8 - Os Delegados eleitos podem organizar-se em comissões próprias para os fins julgados convenientes, podendo nelas envolver outros residentes. Da sua constituição, duração, coordenação, representação e fins será dado conhecimento aos SASUC.
+
+9 - Os Delegados beneficiarão, durante o seu mandato, de um apoio equivalente a 50 % do valor da mensalidade do estudante bolseiro em quarto duplo.
+
+Artigo 27.º
+
+Funções dos Delegados
+
+1 - Os Delegados têm as funções seguintes:
+
+a) Representar os residentes junto dos SASUC;
+
+b) Informar os residentes sobre as suas funções e atividades;
+
+c) Cumprir e fazer cumprir os regulamentos e normas internas em vigor;
+
+d) Desenvolver iniciativas em parceria com os SASUC que visem uma melhoria de utilização das Residências Universitárias pelos seus residentes, bem como iniciativas de cariz social, cultural e desportivo que estimulem um melhor convívio entre residentes;
+
+e) Fomentar comportamentos positivos no sentido do respeito mútuo, apelando aos valores de cidadania que devem sempre nortear as relações entre os residentes contribuindo para a resolução de conflitos entre estes;
+
+f) Reunir periodicamente com os residentes para prestar informações e debater questões relacionadas com o funcionamento da Residência Universitária;
+
+g) Contactar e esclarecer os SASUC sobre qualquer anomalia que se verifique no funcionamento da Residência Universitária;
+
+h) Afixar e dar a conhecer os avisos e instruções transmitidas pelos SASUC;
+
+i) Participar anualmente no curso de formação básica do programa de apoio pelos pares, a realizar pelos SASUC, no início do ano letivo;
+
+j) Colaborar com a AAC e outras instituições parceiras dos SASUC na divulgação, junto dos residentes, de ações promovidas por aquelas.
+
+k) Participar ativamente nas reuniões convocadas pelos SASUC.
+
+2 - O incumprimento reiterado, negligente e não fundamentado de qualquer uma das alíneas do número anterior poderá conduzir à perda de mandato do Delegado e/ou ao impedimento da sua futura eleição, por decisão do Administrador dos SASUC.
+
+Artigo 27.º-A
+
+Conselho de Residentes
+
+1 - O Conselho de Residentes é um órgão, com natureza consultiva, que representa todos os residentes.
+
+2 - O Conselho de Residentes é composto por um representante, em regra, um Delegado, de cada Residência Universitária.
+
+3 - Nas Residências Universitárias em que existam vários Delegados, o representante da Residência no Conselho de Residentes é eleito pelos respetivos Delegados, de entre estes, após a conclusão do processo de eleição previsto no artigo 26.º
+
+4 - A eleição prevista no número anterior realiza-se com a participação de, pelo menos, a maioria simples do universo de Delegados da Residência Universitária, sendo eleito o candidato que obtenha o maior número de votos e sendo, do ato eleitoral, elaborada ata, assinada por todos os presentes, contendo o número e a distribuição dos votos, que deve ser entregue aos SASUC.
+
+5 - Caso, decorridos 10 dias úteis sobre a conclusão do processo de eleição dos Delegados, previsto no artigo 26.º, não se encontre assegurada a indicação dos representantes de todas as Residências Universitárias no Conselho de Residentes, os SASUC promovem a realização das eleições dos representantes, nas Residências Universitárias em que existam vários Delegados, ou, na ausência de Delegado, quando exista apenas um, designam um residente para assegurar a representação da respetiva Residência.
+
+6 - A designação prevista no número anterior tem caráter provisório e mantém-se até à eleição do Delegado representante, devendo atender, designadamente, à antiguidade do residente na respetiva Residência, à verificação do cumprimento dos deveres previstos no presente Regulamento e à sua disponibilidade para o exercício das funções de representação.
+
+7 - A cessação ou a perda do mandato de Delegado determina a cessação das funções de representante no Conselho de Residentes, devendo a representação da respetiva Residência ser assegurada nos termos do presente artigo.
+
+8 - Constituem deveres dos representantes das Residências Universitárias no Conselho de Residentes:
+
+a) Comparecer às reuniões do Conselho;
+
+b) Participar ativamente nos trabalhos;
+
+c) Dar conhecimento, aos seus pares, das matérias relevantes apreciadas pelo Conselho, bem como auscultá-los, sempre que tal se afigure necessário.
+
+9 - Compete ao Conselho de Residentes:
+
+a) Representar os interesses coletivos dos residentes junto dos SASUC;
+
+b) Participar na elaboração ou na alteração do Regulamento Geral das Residências Universitárias, sendo obrigatoriamente ouvido sobre quaisquer propostas de alteração ao Regulamento;
+
+c) Pronunciar-se sobre matérias de interesse comum às diferentes Residências, que lhe sejam submetidas pelos SASUC;
+
+d) Apresentar aos SASUC propostas e recomendações de melhoria do funcionamento das Residências;
+
+e) Colaborar com os SASUC na realização de iniciativas de auscultação e de participação dos residentes.
+
+10 - O Conselho de Residentes reúne, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que convocado pelos SASUC ou por um terço dos seus membros.
+
+11 - O Conselho de Residentes elege, de entre os seus membros, um Coordenador, a quem compete:
+
+a) Assegurar, em representação e nome do Conselho de Residentes, as necessárias articulações e interações com os SASUC;
+
+b) Comparecer nas reuniões convocadas pelos SASUC;
+
+c) Convocar e dirigir as reuniões do Conselho, procedendo à respetiva abertura e encerramento;
+
+d) Assegurar o regular funcionamento do Conselho e a observância das regras aplicáveis.
+
+12 - O Conselho de Residentes elege, ainda, de entre os seus membros, um Secretário, a quem compete coadjuvar o Coordenador no exercício das suas funções e elaborar as atas das reuniões.
+
+13 - O incumprimento reiterado, negligente e não fundamentado dos deveres previstos no presente artigo, pode determinar a perda do lugar no Conselho de Residentes, por decisão fundamentada do Administrador dos SASUC, sem prejuízo da eventual manutenção do mandato de Delegado.
+
+CAPÍTULO VI
+
+DISPOSIÇÕES FINAIS
+
+Artigo 28.º
+
+Preços
+
+1 - Os preços de alojamento a praticar nas Residências Universitárias são definidos em tabela própria, revista e aprovada anualmente e publicitada na página oficial dos SASUC, na Internet.
+
+2 - Na diferenciação dos preços das mensalidades de alojamento ter-se-á em conta a categoria das Residências, tipologia do alojamento e condição do residente, designadamente:
+
+a) Bolseiro - Estudantes de 1.º e de 2.º ciclos de estudos ou de mestrado integrado da UC ou de outras Instituições de Ensino Superior Portuguesas, não abrangidos pelo estatuto de Estudante Internacional, que beneficiem de bolsa de estudo do IES, I. P., ou da Fundação Calouste Gulbenkian;
+
+b) Não bolseiro - Estudantes de 1.º e de 2.º ciclos de estudos ou de mestrado integrado da UC não abrangidos pelo estatuto de Estudante Internacional, bem como estudantes de 3.º ciclo de estudos não abrangidos pelo estatuto de Estudante Internacional, inscritos em regime de tempo integral e que não exerçam atividade profissional a tempo completo;
+
+c) Mobilidade/Internacional/Outros - Estudantes ligados à UC ao abrigo de programas de mobilidade, nacional ou internacional, ou com o estatuto de Estudante Internacional, estudantes de 3.º ciclo de estudos da UC que não reúnam os requisitos estabelecidos na alínea anterior, estudantes não bolseiros de outras Instituições de Ensino Superior Portuguesas, investigadores ou outros.
+
+3 - Sem prejuízo do disposto no número anterior, os estudantes alojados em situação devidamente comprovada de prolongamento de atividades letivas para conclusão de ciclo de estudos, mesmo que já sem vínculo à UC (sem inscrição), mantêm a mesma mensalidade até final do ano letivo.
+
+4 - Para ocupações temporárias de curta duração será aplicado o valor da diária definida na tabela de preços até ao limite de 8 noites de ocupação. A partir desse número aplica-se o valor da mensalidade que lhe corresponder pelo período mínimo de 15 dias.
+
+Artigo 29.º
+
+Situações excecionais
+
+Em caso de existirem situações que necessitem de um tratamento excecional, podem os interessados expor a sua pretensão, por requerimento dirigido ao Administrador dos SASUC.
+
+Artigo 30.º
+
+Publicitação
+
+O presente Regulamento encontra-se disponível na página oficial dos SASUC, na Internet.
+
+Artigo 31.º
+
+Elogios, sugestões e reclamações
+
+Qualquer elogio, sugestão ou reclamação pode ser apresentado nos livros disponíveis para o efeito ou por via eletrónica na página oficial do Sistema Integrado de Melhoria da UC.
+
+Artigo 32.º
+
+Donativos
+
+Os eventuais donativos visando a melhoria do funcionamento de qualquer Residência dos SASUC carecem de autorização prévia do Administrador.
+
+Artigo 33.º
+
+Aplicação supletiva
+
+Ao que não estiver regulado no presente Regulamento aplica-se, com as devidas adaptações, as disposições pertinentes do Regulamento Disciplinar dos Estudantes da Universidade de Coimbra, aprovado pelo Regulamento n.º 400/2019, publicado no Diário da República, 2.ª série, n.º 86, de 6 de maio de 2019.
+
+Artigo 34.º
+
+Aprovação e entrada em vigor
+
+Este Regulamento entra em vigor no início do ano letivo de 2018-2019.
+
+320048660
