@@ -1,0 +1,121 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1248",
+    "id": "377220",
+    "titulo": "Pela redução dos sobrecustos da insularidade no custo de vida nas Regiões Autónomas\n"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2026-10-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a5a6c4e445a694d7a49794c546732596d4d744e444d324e6931694d475a6a4c5467335a575531596d45775a54426b5a6935775a47593d&fich=6e46b322-86bc-4366-b0fc-87ee5ba0e0df.pdf&Inline=true",
+        "anexoNome": "Redistribuição"
+      }
+    ],
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "119896",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2026-10-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2026-10-21",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b794e7a637a4e546c694c5759794e3251744e444d795a5330354e6d51344c5441314d6a45304e6a4d334f44566a4f5335775a47593d&fich=9277359b-f27d-432e-96d8-0521463785c9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2026-10-21",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533832513056445643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6a4d44466d4d574e6d4c5755784d6a67744e444a6b4d6931694d7a4d314c57466b4f5755334d54426b4e4445785a4335775a47593d&fich=bc01f1cf-e128-42d2-b335-ad9e710d411d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8452",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Coesão Territorial ",
+        "Numero": "8452",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2026-10-21",
+            "dataRemessa": "2026-10-26",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "L",
+              "PCP",
+              "CDS-PP"
+            ],
+            "data": "2026-10-21",
+            "descricao": null,
+            "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> IL</I><BR>Ausência: <I>L</I>, <I> PCP</I>, <I> CDS-PP</I>",
+            "id": "193235",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "54",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2026-10-08",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Redistribuição da iniciativa à 6.ª Comissão, com despacho de 08-10-2026",
+    "OevId": "1753883",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
