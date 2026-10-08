@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "285",
+    "id": "315743",
+    "titulo": "Reposicionamento Justo na Carreira Docente e Garantia de Princípios Constitucionais e Europeus de Igualdade Profissional"
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2026-10-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3252694f4759334e444e6c4c5751334d3255744e4755794e6930354f47566b4c57526d4d47593459574d775954426d4d6935775a47593d&fich=db8f743e-d73e-4e26-98ed-df0f8ac0a0f2.pdf&Inline=true",
+        "anexoNome": "Requerimento CH (versão substituída)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32457a4d7a677a4f446c694c5463775a6a67744e44466c4f4331684e6a4d794c574a694d4451344d47466c59544d774d5335775a47593d&fich=a338389b-70f8-41e8-a632-bb0480aea301.pdf&Inline=true",
+        "anexoNome": "Requerimento L"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3259314e6d51785a54466d4c5467354d5755744e4459774d433168597a45354c5445784e6a67345a4445344d6a55794f4335775a47593d&fich=f56d1e1f-891e-4600-ac19-11688d182528.pdf&Inline=true",
+        "anexoNome": "Requerimento PCP"
+      }
+    ],
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2026-10-08",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Requerimento,  apresentado pelo CH, de avocação pelo Plenário das propostas de alteração aos artigos 2.º, 4.º, 5.º, 6.º e 7.º do Texto final, apresentado pela Comissão de Educação e Ciência, relativo ao Projeto de Lei n.º 285/XVII/1.ª (Cidadãos); Requerimento,  apresentado pelo PCP, de avocação pelo Plenário dos artigos 4.º e 7.º do Projeto de Lei n.º 285/XVII/1.ª (Cidadãos); e Requerimento, apresentado pelo L, de avocação pelo Plenário das propostas de alteração aos artigos 6.º e 7.º do Projeto de Lei n.o 285/XVII/1.ª (Cidadãos)",
+    "OevId": "1753892",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1036123",
+        "obs": null,
+        "pag": [
+          "84-84"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-10-10",
+        "pubLeg": "XVII",
+        "pubNr": "10",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/02/010/2026-10-10/84?pgs=84&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": [
+          "PAN"
+        ],
+        "data": "2026-10-09",
+        "descricao": null,
+        "detalhe": "Ausência: <I>PAN</I>",
+        "id": "193078",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "10",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
