@@ -18,4 +18,4 @@ e) O pagamento da taxa de gestão de resíduos, prevista no artigo 111.º do RGG
 
 3 - Para efeitos de liquidação da taxa de gestão de resíduos referente ao ano de 2026, os sujeitos passivos comunicam à Autoridade Nacional de Resíduos, até 31 de janeiro de 2027, os quantitativos de resíduos rececionados que resultaram da destruição provocada pela tempestade «Kristin» e dos sequentes trabalhos de limpeza, recuperação e reconstrução, nos concelhos em situação de calamidade, para aplicação do disposto na alínea e) do n.º 1.
 
-4 - O disposto no presente artigo aplica-se até 30 de setembro de 2026, sem prejuízo de eventual prorrogação.
+4 - O disposto no presente artigo aplica-se até 31 de dezembro de 2026, sem prejuízo de eventual prorrogação.
