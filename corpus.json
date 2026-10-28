@@ -1,0 +1,39 @@
+{
+ "corpus": "pt/national/acts",
+ "name": "Portuguese law: Constituição da República Portuguesa, Código Civil (Decreto-Lei n.º 47344) and Código do Trabalho (Lei n.º 7/2009)",
+ "label": "Portugal",
+ "language": "pt",
+ "acts": [
+  "Decreto de Aprovação da Constituição",
+  "Lei n.º 7/2009 (Código do Trabalho)",
+  "Decreto-Lei n.º 47344 (Código Civil)"
+ ],
+ "history_from": "1967-06-01",
+ "record_to": "2026-07-01",
+ "record_note": "checked against the Diário da República consolidated texts retrieved on 2026-10-28",
+ "built": "2026-10-28",
+ "in_force_trailer": "In-force",
+ "has_future_branch": false,
+ "dates": {
+  "commit": "in-force",
+  "other_trailers": [
+   "Published"
+  ],
+  "time": "12:00 Europe/Lisbon (written into the builder: UTC+0, UTC+1 in summer time; UTC+1 1966-1976; CET 1992-1996)"
+ },
+ "scope": {
+  "trailer": "Applies",
+  "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+  "default_reach": {
+   "rule": "no retroactivity by default",
+   "meaning": "a law provides only for the future; where it is given retroactive effect, effects already produced by the facts it regulates are presumed to be safeguarded; criminal law and laws restricting rights, liberties and guarantees, and tax laws, cannot be retroactive; a later criminal law applies where it is more favourable to the accused",
+   "authority": "Código Civil, artigo 12.º, n.º 1 (\"A lei só dispõe para o futuro; ainda que, lhe seja atribuída eficácia retroactiva, presume-se que ficam ressalvados os efeitos já produzidos pelos factos que a lei se destina a regular.\"); Constituição, artigos 18.º, n.º 3, 29.º e 103.º, n.º 3",
+   "decided_here": false
+  }
+ },
+ "citation": {
+  "file": "(constituicao|codigo-civil|codigo-do-trabalho)/artigo-0*([0-9]+(-[a-z]+)?)\\.md",
+  "cites": "(artigo|art\\.) ?{n}"
+ },
+ "tool": "tools/em_vigor.py"
+}
