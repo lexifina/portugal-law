@@ -1,0 +1,52 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "295",
+    "id": "315772",
+    "titulo": "Estabelece um regime fiscal de apoio ao regresso de pensionistas emigrantes, alterando o Código do IRS"
+  },
+  "fase": "Requerimento",
+  "codigo_fase": "225",
+  "data_registo": "2026-10-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "225",
+    "Comissao": null,
+    "DataFase": "2026-10-28",
+    "EvtId": "152",
+    "Fase": "Requerimento",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1754453",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-10-28",
+        "descricao": "Requerimento, apresentado pela Comissão de Orçamento, Finanças e Administração Pública, a solicitar a prorrogação do prazo para reapreciação na generalidade, até 30 de dezembro de 2026, dos Projetos de Lei n.ºs 8/XVII/1.ª (PAN); 387/XVII/1.ª (PS); 14/XVII/1ª (CH); 373/XVII/1.ª (IL); 377/XVII/1.ª (BE); 384/XVII/1.ª (BE); 295/XVII/1.ª (PS); e 681/XVII/1.ª (CH)",
+        "detalhe": null,
+        "id": "193266",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
