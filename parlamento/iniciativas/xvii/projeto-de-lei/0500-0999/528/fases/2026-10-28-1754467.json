@@ -1,0 +1,52 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=4X21v9an5mxTa1YILKw3hYNvZNDA2xf%2fT0poXVxF1jRuzakwGcHBXG8moh3dkr4km0gEs0od2RhDqeS5ylBDsAbeouoo8yyw9PlL3hByBdON41y8%2bb15TcghctPQ9XIDRB91QqMIb8tt11VInBfOjafSkwhE3StQpFshbamtEuWYrBkIFhjVAnhwNhsCBZf7retj8OyU6kavo%2bqmn4RdHyKkjzC7iHDkdfPao%2b9dQbilqnvJM6xkKCbA5bcZcDtQlYgT4s%2fw7%2bcFJu%2fZkl53LfJpzbOl16tDLcNY%2fvN8k6LToKYCXHyewH9esDT1EftVdR1I5ZRDPgQKrNydEIJYUQ%3d%3d&fich=IniciativasXVII_json.txt&Inline=true",
+  "ficheiro_sha256": "9481ebb1f3aa613153a331d4f287871c923ab60557ee1da837ef92b601dcf239",
+  "legislatura": "XVII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "528",
+    "id": "356420",
+    "titulo": "Regula a contenção e treino de animais de companhia, vedando a comercialização e utilização de “coleiras de choque” e de “coleiras estranguladoras'', procedendo à décima alteração ao Decreto-Lei n.º 276/2001, de 17 de outubro"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2026-10-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2026-10-28",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "O PAN retirou a sua iniciativa a favor do texto de substituição",
+    "OevId": "1754467",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2026-10-28",
+        "descricao": "Texto de substituição, apresentado pela Comissão de Agricultura e Pescas, relativo ao Projeto de Lei n.º 528/XVII/1.ª (PAN)",
+        "detalhe": "A Favor: <I>CH</I>, <I> PS</I>, <I> L</I>, <I> PAN</I>, <I> JPP</I><BR>Contra:<I>PSD</I>, <I> IL</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>",
+        "id": "193277",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "16",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
