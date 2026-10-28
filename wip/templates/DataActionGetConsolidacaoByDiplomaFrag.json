@@ -1,0 +1,59 @@
+{
+ "screenData": {
+  "variables": {
+   "Data": "1900-01-01",
+   "DataAux": "1900-01-01",
+   "DiplomaFragId": "0",
+   "DiplomaLegisId": "0",
+   "IsLoadingChangesForNewDate": false,
+   "IsRendered": false,
+   "IsRenderingFragmentoVersao": false,
+   "Modificacoes": {
+    "EmptyListItem": {
+     "DataPublicacao": "1900-01-01",
+     "DataValidacao": "1900-01-01T00:00:00",
+     "DiplomaLegisId": "0",
+     "IsDiplomaOriginal": false,
+     "LinkSitemap": "",
+     "ModificacaoList": {
+      "EmptyListItem": {
+       "ConsolidacaoFragmentoIndexOrdem": "0",
+       "DataEntradaVigor": "1900-01-01",
+       "Epigrafe": "",
+       "FragmentoDestinoModificacao": "",
+       "FragmentoVersaoDestinoId": "0",
+       "FragmentoVersaoLink": "",
+       "IdentificacaoFragmento": "",
+       "PathDestinoModificacao": "",
+       "TipoFragmento": "",
+       "TipoModificacao": ""
+      },
+      "List": []
+     },
+     "ModificanteFragId": "0",
+     "Numero": "",
+     "ShowAlteracoes": false,
+     "SumarioDiplomaLegis": "",
+     "TipoDiploma": "",
+     "Title": ""
+    },
+    "List": []
+   },
+   "ModificanteFragId": "0",
+   "ModificanteFragIdAux": "",
+   "SelectedDataValidacao": "1900-01-01T00:00:00",
+   "SelectedDiploLegisId": "0",
+   "SelectedModificanteFragId": "",
+   "ShowAllAlteracoes": false,
+   "_dataInDataFetchStatus": 1,
+   "_diplomaFragIdInDataFetchStatus": 1,
+   "_diplomaLegisIdInDataFetchStatus": 1,
+   "_modificanteFragIdInDataFetchStatus": 1
+  }
+ },
+ "versionInfo": {
+  "apiVersion": "",
+  "moduleVersion": ""
+ },
+ "viewName": "LegislacaoConsolidada.LegCons_Detalhe"
+}

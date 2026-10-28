@@ -1,0 +1,261 @@
+{
+ "screenData": {
+  "variables": {
+   "Ano": 0,
+   "Comes": "",
+   "CurrentZoom": "1",
+   "DataAux": "1900-01-01",
+   "DataSelecionada": "1900-01-01",
+   "Description": "",
+   "DiplomaFragId": "0",
+   "DiplomaLegisId": "0",
+   "ELI_HTML": "",
+   "EmissorVar": "",
+   "FragVersaoIndice": "0",
+   "FragmentoVersaoId": "0",
+   "FragmentoVersaoIdAux": "0",
+   "GetDiplomaFragByIdAndApplicationSetting": {
+    "ApplicationRoot": "",
+    "ConsolidadaConteudoDetalhe": {
+     "DiarioRepublica": {
+      "ConteudoTitle": "",
+      "DataPublicacao": "1900-01-01T00:00:00",
+      "LinkSitemap": ""
+     },
+     "DiplomaFrag": {
+      "ConteudoTitle": "",
+      "Designacao": "",
+      "DiplomaConsolidacaoEstadoId": "0",
+      "DiplomaLegisId": "0",
+      "ELI": "",
+      "EmAtualizacao": false,
+      "FormattedTitle": "",
+      "Nota": ""
+     },
+     "DiplomaLegis": {
+      "AnaliseJuridicaPublica": "",
+      "Consolidado": "",
+      "ConteudoTitle": "",
+      "DataAlteracao": "1900-01-01T00:00:00",
+      "DataCriacao": "1900-01-01T00:00:00",
+      "DataPublicacao": "1900-01-01T00:00:00",
+      "Emissor": "",
+      "EmissorAcronimo": "",
+      "FormattedTitle": "",
+      "Id": "0",
+      "IsDiploma": false,
+      "IsIncludedInSiteMap": false,
+      "IsNoIndex": false,
+      "IsRegional": false,
+      "LinkSitemap": "",
+      "Numero": "",
+      "Resumo": "",
+      "Sumario": "",
+      "Vigencia": ""
+     },
+     "Serie": {
+      "Nome": ""
+     },
+     "TipoDiploma": {
+      "Acronimo": "",
+      "Tipo": ""
+     }
+    },
+    "DataFetchStatus": 0,
+    "DataSelecionadaOut": "1900-01-01",
+    "DomainName": "",
+    "EnvironmentName": "",
+    "HaveEmissor_DecisaoJudicial": false,
+    "IsPublished": true,
+    "IsSitemapErro": false,
+    "NewFragmentoVersaoId": "0"
+   },
+   "HasJurisprudenciaAssociadaVar": false,
+   "IndexLinhaToScrollId": "",
+   "IndiceList": {
+    "EmptyListItem": {
+     "AlteracoesList": {
+      "EmptyListItem": "",
+      "List": []
+     },
+     "ConsolidacaoFragmento": {
+      "AssociacaoDescription": "",
+      "AssociacaoOrigemTitle": "",
+      "AssociacaoParams": "",
+      "Cid": "0",
+      "ConsolidacaoId": "0",
+      "CreationDate": "1900-01-01T00:00:00",
+      "DataVersao": "1900-01-01T00:00:00",
+      "Epigrafe": "",
+      "FragmentoVersaoId": "0",
+      "FragmentoVersoesAnterioresId": "0",
+      "FullName": "",
+      "GrupoTipoModificacaoEnumId": 0,
+      "Id": "0",
+      "IndexOrdem": "0",
+      "IsActive": true,
+      "IsAnexo": false,
+      "IsDescriptionVisible": false,
+      "IsWithAssociation": false,
+      "ModificationDate": "1900-01-01T00:00:00",
+      "Name": "",
+      "NextId": "0",
+      "Orderm": 0,
+      "PaiId": "0",
+      "PreviousID": "0",
+      "Temp_Log": ""
+     },
+     "DataEntradaVigorProximaVersao": "1900-01-01",
+     "FragmentoVersao": {
+      "AssociacaoPrincipalId": "0",
+      "AssociacaoSecundariaId": "0",
+      "DataCriacao": "1900-01-01T00:00:00",
+      "DataEntradaVigor": "1900-01-01T00:00:00",
+      "DataModificacao": "1900-01-01T00:00:00",
+      "DataProducaoEfeitos": "1900-01-01T00:00:00",
+      "DataSuspensao": "1900-01-01T00:00:00",
+      "DataVersao": "1900-01-01T00:00:00",
+      "Epigrafe": "",
+      "FragmentoId": "0",
+      "FragmentoPaiId": "0",
+      "Id": "0",
+      "Identificacao": "",
+      "KeepEstado": false,
+      "OmitTipo": false,
+      "Ordem": "0",
+      "Root": false,
+      "Texto": "",
+      "TipoFragmentoId": 0,
+      "Tituo": "",
+      "UsaAssociacaoSecundaria": false,
+      "VersaoEstadoId": 0
+     },
+     "HasFilhos": false,
+     "IsHidden": false,
+     "IsOpen": true,
+     "Nivel": 0,
+     "Nota": {
+      "EmptyListItem": "",
+      "List": []
+     },
+     "TodosFilhosRevogados": false
+    },
+    "List": []
+   },
+   "IsFiltrar": false,
+   "IsLoadingPDFConsolidacao": false,
+   "IsPageTracked": false,
+   "IsPrint": false,
+   "IsRended": false,
+   "IsShowConteudoRelacionado": true,
+   "Key": "",
+   "LoadFiltro": false,
+   "Mensagem": {
+    "AlertId": "",
+    "IsActive": false,
+    "Texto": ""
+   },
+   "ModificanteFragId": "0",
+   "PesquisaAvancada_Struct": {
+    "DataAssinaturaAte": "1900-01-01",
+    "DataAssinaturaDe": "1900-01-01",
+    "DataDistribuicaoAte": "1900-01-01",
+    "DataDistribuicaoDe": "1900-01-01",
+    "DescritorList": {
+     "EmptyListItem": "",
+     "List": []
+    },
+    "IsFromData": false,
+    "IsLegConsolidadaSelected": false,
+    "ano": "0",
+    "anuncio": "",
+    "apendice": "",
+    "assunto": "",
+    "concelho": "",
+    "dataAssinatura": "",
+    "dataDistribuicao": "",
+    "dataPublicacao": "",
+    "dataPublicacaoAte": "1900-01-01",
+    "dataPublicacaoDe": "1900-01-01",
+    "docType": "",
+    "emissor": {
+     "EmptyListItem": "",
+     "List": []
+    },
+    "empresa": "",
+    "entidadeEmitente": {
+     "EmptyListItem": "",
+     "List": []
+    },
+    "entidadePrincipal": {
+     "EmptyListItem": "",
+     "List": []
+    },
+    "entidadeProponente": {
+     "EmptyListItem": "",
+     "List": []
+    },
+    "fasciculo": "",
+    "nif": "",
+    "numero": "",
+    "numeroDR": "",
+    "numeroDoc": "",
+    "paginaFinal": "0",
+    "paginaInicial": "0",
+    "parte": "",
+    "processo": "",
+    "proferido": "",
+    "recorrente": "",
+    "recorrido": "",
+    "relator": "",
+    "semestre": "",
+    "serie": {
+     "EmptyListItem": "",
+     "List": []
+    },
+    "sumario": "",
+    "suplemento": "0",
+    "texto": "",
+    "tipo": {
+     "EmptyListItem": "",
+     "List": []
+    },
+    "tipoConteudo": {
+     "EmptyListItem": "",
+     "List": []
+    }
+   },
+   "ShowFragAlteracoes": false,
+   "ShowFragDiferencas": false,
+   "ShowRevogados": false,
+   "ShowZoom": false,
+   "ShowZoomButtons": true,
+   "SumarioAux": "",
+   "Tipo": "",
+   "TipoConteudosBools": {
+    "AcordaosSTA": false,
+    "Atos1": false,
+    "Atos2": false,
+    "AtosSocietarios": false,
+    "DGAP": false,
+    "DGODOUT": false,
+    "DiarioRepublica": false,
+    "Jurisprudencia": false,
+    "Legacor": false,
+    "REGTRAB": false
+   },
+   "TituloAux": "",
+   "TituloComFragmento": "",
+   "WithAlteracoes": false,
+   "WithConteudoRevogado": false,
+   "_keyInDataFetchStatus": 1,
+   "_tipoInDataFetchStatus": 1,
+   "hasFragIdLink": false
+  }
+ },
+ "versionInfo": {
+  "apiVersion": "",
+  "moduleVersion": ""
+ },
+ "viewName": "LegislacaoConsolidada.LegCons_Detalhe"
+}
