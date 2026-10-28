@@ -110,3 +110,9 @@ Trabalho, no texto consolidado do Diário da República.
   diz porquê.
 
 Os textos consolidados do DR não têm valor legal; só faz fé o Diário da República publicado.
+
+## Other acts in force: current text only
+
+Since 2026-11-03 the repository also holds every Lei and Decreto-Lei in force that the Diário da República keeps a consolidated text of (Legislação Consolidada), each in its own folder named after the act (`lei-38-2025/`, `decreto-lei-57-a-2024/`), with the same file names as the three acts above. Each is one commit holding its whole consolidated text in force on 2026-11-03: the oldest version available here, credited to the Diário da República (INCM) as publisher, with `Kind: consolidated`. The commit is dated the latest day on which one of its provisions took effect (`In-force:`), so it gives the text in force from that day; earlier wordings are not reconstructed for these acts. They were added on top of the history above, so their commits come after it whatever their dates. The list is [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv).
+
+Desde 2026-11-03 o repositório inclui também todas as leis e decretos-leis em vigor com texto consolidado no Diário da República, cada um com o texto em vigor nesse dia (a versão mais antiga disponível aqui), datado do dia mais recente em que uma das suas disposições entrou em vigor. Lista: [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv).

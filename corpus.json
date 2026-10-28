@@ -1,6 +1,6 @@
 {
  "corpus": "pt/national/acts",
- "name": "Portuguese law: Constituição da República Portuguesa, Código Civil (Decreto-Lei n.º 47344) and Código do Trabalho (Lei n.º 7/2009)",
+ "name": "Portuguese law: Constituição, Código Civil and Código do Trabalho with their history, and every Lei and Decreto-Lei in force with a Diário da República consolidated text (current text)",
  "label": "Portugal",
  "language": "pt",
  "acts": [
@@ -32,8 +32,13 @@
   }
  },
  "citation": {
-  "file": "(constituicao|codigo-civil|codigo-do-trabalho)/artigo-0*([0-9]+(-[a-z]+)?)\\.md",
+  "file": "([a-z0-9-]+)/artigo-0*([0-9]+(-[a-z]+)?)\\.md",
   "cites": "(artigo|art\\.) ?{n}"
  },
- "tool": "tools/em_vigor.py"
+ "tool": "tools/em_vigor.py",
+ "acts_in_force_current_text": {
+  "count": 2098,
+  "list": "data/atos-em-vigor.csv",
+  "retrieved": "2026-11-03"
+ }
 }
