@@ -1,0 +1,24 @@
+# Portaria n.º 612/2026
+
+**Emissor:** SECRETARIA REGIONAL DE TURISMO, AMBIENTE E CULTURA; SECRETARIA REGIONAL DAS FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 197/2026, de 2026-10-30
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais referentes à aquisição de serviços silvícolas conducentes à recuperação ecológica e controlo de espécies invasoras no Paul da Serra e no Palheiro Ferreiro - Lote 1 - Aquisição de serviços silvícolas para restauro ecológico pós-incêndio no Perímetro Florestal do Paul da Serra: “Projeto de gestão de área ardida do Perímetro Florestal do Paul da Serra e sítio da Bica da Cana”, no valor global de 1.041.984,00 €, acrescidos de IVA à taxa legal em vigor.
+
+## Texto
+
+Portaria n.º 612/2026
+de 30 de outubro
+Sumário: Autoriza a distribuição dos encargos orçamentais referentes à aquisição de serviços silvícolas conducentes à recuperação ecológica e controlo de espécies invasoras no Paul da Serra e no Palheiro Ferreiro - Lote 1 - Aquisição de serviços silvícolas para restauro ecológico pós-incêndio no Perímetro Florestal do Paul da Serra: “Projeto de gestão de área ardida do Perímetro Florestal do Paul da Serra e sítio da Bica da Cana”, no valor global de 1.041.984,00 €, acrescidos de IVA à taxa legal em vigor.
+Texto: Dando cumprimento ao disposto nos n.ºs 1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, mantido em vigor pela alínea f), n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, revogado pelo Decreto-Lei n.º 40/2011, de 22 de março e repristinado pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, e do disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na redação dada pela Lei n.º 22/2015, de 17 de março e no artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na redação dada pelo Decreto-Lei n.º 99/2015, de 2 de junho, e no n.º 1 do artigo 30.º e n.º 1 do artigo 34.º do Decreto Legislativo Regional n.º 8/2025/M, de 30 de dezembro, na sua redação atual, manda o Governo Regional da Madeira, através do Secretário Regional das Finanças e da Secretária Regional de Turismo, Ambiente e Cultura o seguinte:
+1 - Os encargos orçamentais referentes à aquisição de serviços silvícolas conducentes à recuperação ecológica e controlo de espécies invasoras no Paul da Serra e no Palheiro Ferreiro - Lote 1 - Aquisição de serviços silvícolas para restauro ecológico pós-incêndio no Perímetro Florestal do Paul da Serra: “Projeto de gestão de área ardida do Perímetro Florestal do Paul da Serra e sítio da Bica da Cana”, no valor global de 1.041.984,00 EUR (um milhão, quarenta e um mil, novecentos e oitenta e quatro euros), acrescidos de IVA à taxa legal em vigor, ficam escalonados na forma abaixo indicada:
+Ano Económico de 2026.................................................................................. 260.496,00 € Ano Económico de 2027.................................................................................. 781.488,00 €
+2 - Os encargos orçamentais referentes à aquisição de serviços silvícolas conducentes à recuperação ecológica e controlo de espécies invasoras no Paul da Serra e no Palheiro Ferreiro - Lote 2 - Aquisição de serviços silvícolas para restituição ecológica no Palheiro Ferreiro: “Projeto de reabilitação ecológica e controlo de espécies invasoras no Palheiro Ferreiro”, no valor global de 165.150,00 EUR (cento e sessenta e cinco mil, cento e cinquenta euros), acrescidos de IVA à taxa legal em vigor, ficam escalonados na forma abaixo indicada:
+Ano Económico de 2026.................................................................................... 41.287,50 € Ano Económico de 2027.................................................................................. 123.862,50 €
+3 - Os montantes fixados para o ano económico de 2027 podem ser acrescidos dos saldos apurados no ano económico de 2026.
+4 - A despesa emergente do(s) contrato(s) a celebrar no ano económico de 2026 está inscrita no Orçamento Privativo do Instituto das Florestas e Conservação da Natureza, IP-RAM, nas classificações orgânicas 438010100 e 431010100, classificação económica D.02.02.25.S0.00, programa 44, medidas 12 e 43, fontes de financiamento 386 e 513, de acordo com a programação financeira acima indicada, e no ano económico seguinte por verbas adequadas a inscrever na respetiva proposta de orçamento, tendo sido registado no Sistema Central de Encargos Plurianuais sob os n.ºs 21283 e 21284, respetivamente.
+5 - A presente portaria entra imediatamente em vigor.
+Secretaria Regional das Finanças e Secretaria Regional de Turismo, Ambiente e Cultura, no Funchal, aos 13 dias do mês de outubro de 2026.
+O SECRETÁRIO REGIONAL DE TURISMO, AMBIENTE E CULTURA, António Eduardo de Freitas Jesus
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Duarte Nuno Nunes de Freitas
