@@ -1,0 +1,5 @@
+# Anexo II
+
+### REGULAMENTAÇÃO DO TRANSPORTE DE MERCADORIAS PERIGOSAS POR CAMINHO DE FERRO
+
+NOTA GERAL: A presente regulamentação aplica-se ao transporte nacional e internacional ferroviário de mercadorias perigosas. As suas disposições têm a mesma redacção que as correspondentes disposições do Regulamento Relativo ao Transporte Ferroviário Internacional de Mercadorias Perigosas (RID). Em todo o texto da presente regulamentação, para evidenciar esta identidade de conteúdo, é utilizada sempre a sigla "RID". Nos casos em que, por razões do âmbito geográfico da operação de transporte a realizar, existam disposições particulares aplicáveis exclusivamente ao transporte nacional, as mesmas são especificadas como DISPOSIÇÕES APLICÁVEIS AO TRANSPORTE NACIONAL referentes aos parágrafos, secções, capítulos ou partes em questão. Nomeadamente, é o caso da utilização exclusiva da língua portuguesa nos documentos em vez das línguas oficiais do RID, permitida pelo artigo 5.º do decreto-lei que aprova esta regulamentação.
