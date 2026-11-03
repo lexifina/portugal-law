@@ -11,3 +11,5 @@
 4 - O Fundo funciona em instalações para o efeito disponibilizadas pela ApC, I. P.
 
 5 - (Revogado.)
+
+6 - Dos atos praticados pela ApC, I. P., enquanto responsável pela gestão do Fundo Ambiental, não cabe recurso administrativo, respondendo o Fundo pelos mesmos junto dos tribunais administrativos, em caso de impugnação judicial, nos termos das leis do processo administrativo.
