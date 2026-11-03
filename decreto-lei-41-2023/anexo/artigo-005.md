@@ -26,7 +26,7 @@ i) Exercer as demais competências que lhe sejam cometidas por regulamento.
 
 3 - O conselho diretivo pode delegar as suas competências nos seus membros ou noutros dirigentes da AIMA, I. P.
 
-4 - Aos membros do conselho diretivo é aplicável, para efeitos remuneratórios, o Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual, e o disposto na Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, com as especificidades constantes do presente decreto-lei.
+4 - Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos de empresa de grupo B, nos termos do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março.
 
 5 - Os membros do conselho diretivo são nomeados por resolução do Conselho de Ministros, por proposta do membro do Governo responsável pela área das migrações, acompanhada de avaliação, não vinculativa, de currículo e de adequação de competências ao cargo de gestor público da personalidade a que respeita a proposta de designação, realizada pela Comissão de Recrutamento e Seleção para a Administração Pública, observando, quanto ao resto, o disposto nos artigos 12.º e 13.º do Estatuto do Gestor Público.
 
