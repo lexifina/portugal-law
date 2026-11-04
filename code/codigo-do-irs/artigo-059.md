@@ -1,0 +1,21 @@
+# Artigo 59.º
+
+### Tributação de casados e de unidos de facto
+
+1 - Na tributação separada cada um dos cônjuges ou dos unidos de facto, caso não esteja de tal dispensado, apresenta uma declaração da qual constam os rendimentos de que é titular e 50 % dos rendimentos dos dependentes que integram o agregado.
+
+2 - Na tributação conjunta:
+
+a) Os cônjuges ou os unidos de facto apresentam uma declaração da qual consta a totalidade dos rendimentos obtidos por todos os membros que integram o agregado familiar;
+
+b) Ambos os cônjuges ou unidos de facto devem exercer a opção na declaração de rendimentos;
+
+c) A opção é válida apenas para o ano em questão;
+
+(Redação da Lei n.º 42/2016, de 28 de dezembro)
+
+d)
+
+(Revogada pelo artigo 196.º da Lei n.º 42/2016, de 28 de dezembro)
+
+Nota: consulte aqui o mesmo artigo na redação anterior à republicação do CIRS pela Lei n.º 82-E/2014, de 31 de dezembro.
