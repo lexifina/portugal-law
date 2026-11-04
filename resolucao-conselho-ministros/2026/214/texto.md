@@ -1,0 +1,43 @@
+Resolução do Conselho de Ministros n.º 214/2026
+
+O conselho diretivo da Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), é composto por um presidente e quatro vogais, nomeados para um mandato de cinco anos, renovável uma vez por igual período, de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, nos termos dos n.<sup>os </sup>1 e 5 do artigo 5.º da respetiva orgânica, aprovada em anexo ao Decreto-Lei n.º 41/2023, de 2 de junho, do n.º 1 do artigo 20.º da lei quadro dos institutos públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, e do artigo 12.º do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março (EGP).
+
+Tendo cessado o mandato de Pedro Portugal Natário Gaspar, presidente do conselho diretivo da AIMA, I. P., cargo para o qual havia sido nomeado pela Resolução do Conselho de Ministros n.º 103/2024, de 8 de agosto, por via da sua nomeação para o cargo de presidente do conselho diretivo do Instituto Português da Qualidade, torna-se necessário proceder à nomeação do presidente da AIMA, I. P.
+
+Adicionalmente, na sequência da nomeação de César Nuno da Costa Teixeira, por via da presente resolução, atualmente vogal do conselho diretivo da AIMA, I. P., torna-se também necessária a nomeação de um novo vogal do respetivo conselho diretivo.
+
+Foi ouvida a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou de forma favorável às presentes nomeações, nos termos do n.º 5 do artigo 5.º da orgânica da AIMA, I. P., e do n.º 3 do artigo 13.º do EGP.
+
+Assim:
+
+Nos termos do n.º 5 do artigo 5.º da orgânica da Agência para a Integração, Migrações e Asilo, I. P., aprovada em anexo ao Decreto-Lei n.º 41/2023, de 2 de junho, dos n.<sup>os </sup>2 e 3 do artigo 13.º do Decreto-Lei n.º 71/2007, de 27 de março, do n.º 1 do artigo 20.º da lei quadro dos institutos públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta do membro do Governo responsável pela área das migrações, por um período de cinco anos, César Nuno da Costa Teixeira e Wilson António Duarte Lucas para os cargos de presidente e de vogal do conselho diretivo da Agência para a Integração, Migrações e Asilo, I. P., respetivamente, cuja idoneidade, competência técnica, aptidão, experiência profissional e formação para o adequado exercício das referidas funções são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante:
+
+2 - Determinar que a presente resolução produz efeitos a 1 de novembro de 2026.
+
+Presidência do Conselho de Ministros, 29 de outubro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+ANEXO
+
+(a que se refere o n.º 1)
+
+Notas curriculares
+
+César Nuno da Costa Teixeira é licenciado em Direito pela Faculdade de Direito da Universidade de Lisboa (1998) e frequentou o Curso de Fiscalidade Empresarial pela Universidade Católica Portuguesa (2001).
+
+Foi vogal do conselho diretivo da Agência para a Integração, Migrações e Asilo, I. P. (2024 à data).
+
+Foi sócio fundador, gerente e advogado na CLT - Sociedade de Advogados RL (2006-2024).
+
+É membro da Assembleia Municipal de Guimarães (desde 1997) e da Assembleia Intermunicipal do AVE (desde 2021), bem como vogal da mesa administrativa da Misericórdia de Guimarães (desde 2023), sendo responsável pelos recursos humanos desta IPSS. Foi também membro da Assembleia Metropolitana da Grande Área Metropolitana do Minho (2005-2007) e da Assembleia Intermunicipal do AVE (2009-2013).
+
+Wilson António Duarte Lucas nasceu no ano de 1975, em Luanda, Angola.
+
+Licenciou-se em Informática pela Faculdade de Ciências da Universidade de Lisboa, em 1999, e fez o Programa de Direção de Empresas da AESE/IESE, Universidade de Navarra, em 2013.
+
+No seu percurso profissional, destacam-se:
+
+De 2024 à data, foi diretor do Departamento de Sistemas de Informação da Agência para a Integração, Migrações e Asilo, I. P. Em 2024, foi responsável de segurança e encarregado de proteção de dados do Instituto de Gestão Financeira da Educação, I. P. (IGeFE). De 2021 a 2023, foi diretor da Unidade de Sistemas de Informação da Agência para o Desenvolvimento e Coesão, I. P. (AD&C). De 2020 a 2021, foi encarregado de proteção de dados do Instituto de Informática, I. P. De 2019 a 2021, foi coordenador do Grupo de Missão «RGPD - implementação», na APDSI - Associação Portuguesa para a Promoção e Desenvolvimento da Sociedade de Informação, bem como docente no curso de Engenharia de Informática, no Instituto Piaget. De 2018 a 2020, foi coordenador da área de segurança da informação e proteção de dados, no Instituto de Informática, I. P., e representou o Ministério do Trabalho, Solidariedade e Segurança Social no Grupo de Estudos «Resiliência Cibernética» (IDN - Instituto de Defesa Nacional). De 2013 a 2018, no Instituto de Informática, I. P., foi coordenador da área de suporte aplicacional, Departamento de Administração de Sistemas, bem como membro da Comissão Técnica do projeto EESSI - Comissão Europeia. De 2003 a 2012, foi docente no ISEG - Instituto Superior de Economia e Gestão. De 2002 a 2013, foi Técnico Sénior III do Instituto de Informática, I. P. De 1998 a 2002 exerceu funções de Analista Sénior, Consultor Sénior e Architect, na Oracle Corporation. De 2002 a 2007 exerceu funções de administrador de bases de dados sénior no Instituto de Informática e Estatística da Solidariedade. De 2007 a 2013 acumulou as funções de responsável de Equipa DBA e responsável de equipa de Sistemas UNIX no Instituto de Informática, I. P. Nos anos de 2011 e 2013 participou ainda como orador em conferências, abordando temas como: Transformação do Negócio, Cloud Computing, Big Data.
+
+119949868
