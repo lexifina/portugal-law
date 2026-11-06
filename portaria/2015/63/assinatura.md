@@ -1,0 +1,1 @@
+O Secretário de Estado Adjunto e do Orçamento, em substituição da Ministra de Estado e das Finanças, Hélder Manuel Gomes dos Reis, em 17 de fevereiro de 2015. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 28 de janeiro de 2015.
