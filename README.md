@@ -1,5 +1,7 @@
 # Portuguese law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Portugal's national law, which global-law reads at `portugal/national/acts/`.
+
 Three Portuguese acts as a git repository: the Constitution (Constituição da República Portuguesa, 1976), the Civil
 Code (Código Civil, approved by Decreto-Lei n.º 47344 of 1966) and the Labour Code (Código do Trabalho, approved by
 Lei n.º 7/2009). Each amending act is one commit, credited to that act and dated
