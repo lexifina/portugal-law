@@ -1,0 +1,37 @@
+Resolução do Conselho de Ministros n.º 216/2026
+
+A Força Aérea tem por missão principal participar, de forma integrada, na defesa militar da República, nos termos da Constituição e da lei, sendo fundamentalmente vocacionada para a geração, preparação, aprontamento e sustentação de forças e meios da componente operacional do sistema de forças.
+
+Ainda nos termos do disposto na Constituição e na lei, incumbe à Força Aérea desempenhar todas as missões militares necessárias para garantir a soberania, a independência nacional e a integridade territorial do Estado, incluindo nos espaços marítimos sob jurisdição nacional, participar na cooperação das Forças Armadas com as forças e serviços de segurança, bem como colaborar em missões de proteção civil e em tarefas relacionadas com a satisfação das necessidades básicas e a melhoria da qualidade de vida das populações.
+
+No âmbito da sua missão, a Força Aérea tem de assegurar as capacidades de vigilância, deteção, identificação, intervenção e comando e controlo aéreo no espaço aéreo sob jurisdição e responsabilidade nacional, contribuindo de forma essencial para o Sistema Integrado de Defesa Aérea e Antimíssil da Organização do Tratado do Atlântico Norte (NATO).
+
+O panorama de segurança global encontra-se em rápida degradação marcado pela proliferação e uso intensivo de diversas ameaças aéreas, exigindo uma capacidade de defesa resiliente e flexível.
+
+A política Integrada de Defesa Aérea e Antimíssil (IAMD) da NATO preconiza que a capacidade de vigilância deve integrar sensores ativos e passivos, estáticos e móveis, operando em rede para garantir cobertura persistente e capacidade de sobrevivência do sistema e que as infraestruturas nacionais são maioritariamente compostas por sistemas de tecnologia anterior tendo, portanto, a Força Aérea necessidade de adquirir um radar móvel de longo alcance de forma a reforçar a capacidade IAMD, garantido também proteção fortalecida para as Forças Nacionais Destacadas.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, dos artigos 44.º a 47.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a Força Aérea a assumir o encargo plurianual e a realizar a respetiva despesa com a aquisição de um sistema radar móvel de longo alcance, nos anos de 2026, 2027 e 2028, até ao montante global máximo de 22 200 000,00 €, isento de imposto sobre o valor acrescentado (IVA).
+
+2 - Determinar que os encargos orçamentais com a despesa referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, isento de IVA:
+
+a) 2026 - 20 000 000,00 €;
+
+b) 2027 - 1 200 000,00 €;
+
+c) 2028 - 1 000 000,00 €.
+
+3 - Estabelecer que os encargos orçamentais decorrentes da presente resolução são satisfeitos em 2026 por verbas inscritas no orçamento da Força Aérea, e em 2027 e 2028 por verbas a inscrever no orçamento da Força Aérea, na fonte de financiamento 311 - Receitas de impostos não afetas a projetos cofinanciados, não havendo lugar, para este efeito, a qualquer reforço orçamental com recurso à dotação provisional ou outras dotações centralizadas no Ministério das Finanças, nem com recurso ao capítulo 60, gerido pela Entidade do Tesouro e Finanças, durante a execução orçamental.
+
+4 - Estabelecer que a assunção dos encargos financeiros plurianuais decorrentes da presente resolução não constitui fundamento para a atribuição de plafond adicional referente aos anos de 2027 e 2028.
+
+5 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da defesa nacional, os poderes para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+6 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 29 de outubro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949893
