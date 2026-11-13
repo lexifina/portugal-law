@@ -1,131 +1,136 @@
-# Portuguese law, change by change
+# O direito português, alteração a alteração
+
+**Português** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Portuguese law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/pt/effort-dark.svg">
+<img alt="O direito português neste repositório: o que contém, as alterações por ano de entrada em vigor, a completude face às fontes oficiais e a exatidão do conteúdo" src="data/pt/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Portugal's national law, which global-law reads at `portugal/national/acts/`.
+Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), um único histórico git para o direito de todos os países: este é o direito nacional de Portugal, que o global-law lê em `portugal/national/acts/`.
 
-Three Portuguese acts as a git repository: the Constitution (Constituição da República Portuguesa, 1976), the Civil
-Code (Código Civil, approved by Decreto-Lei n.º 47344 of 1966) and the Labour Code (Código do Trabalho, approved by
-Lei n.º 7/2009). Each amending act is one commit, credited to that act and dated
-the day its change took effect, at noon in Lisbon. The text is the consolidated text published in the
-[Diário da República](https://diariodarepublica.pt) (Legislação Consolidada).
+Três atos portugueses como repositório git: a Constituição (Constituição da República Portuguesa, 1976), o Código
+Civil (aprovado pelo Decreto-Lei n.º 47344, de 1966) e o Código do Trabalho (aprovado pela Lei n.º 7/2009). Cada ato
+modificativo é um commit, atribuído a esse ato e datado do dia em que a sua alteração entrou em vigor, ao meio-dia em
+Lisboa. O texto é o texto consolidado publicado no [Diário da República](https://diariodarepublica.pt) (Legislação
+Consolidada).
 
-*Em português: [abaixo](#em-português).*
+## As perguntas, em comandos git
 
-## The questions, as git commands
-
-| Question | Command |
+| Pergunta | Comando |
 | --- | --- |
-| What did artigo 7.º of the Constitution say on 1 January 2000? | `python tools/em_vigor.py 2000-01-01 constituicao 7` |
-| The whole Constitution as it stood in 1980 | `python tools/em_vigor.py 1980-01-01 constituicao` |
-| Artigo 3.º of the Labour Code on 1 January 2020 | `python tools/em_vigor.py 2020-01-01 codigo-do-trabalho 3` |
-| Artigo 1577.º of the Civil Code (marriage) on 1 January 2009 | `python tools/em_vigor.py 2009-01-01 codigo-civil 1577` |
-| Every change to the Civil Code's artigo 1577.º | `git log --follow --format="%ad %an" --date=short codigo-civil/artigo-1577.md` |
-| Which act wrote each paragraph of artigo 7.º? | `git blame constituicao/artigo-007.md` |
-| Every change to artigo 7.º, with the act and the day | `git log --follow constituicao/artigo-007.md` |
-| The word-level change of each revision | `git log -p --word-diff constituicao/artigo-007.md` |
-| Everything one act changed | `git show --stat atos/lei-constitucional-1-2004` |
-| What changed in the Labour Code on one day | `git show --stat codigo-do-trabalho/2019-10-01` |
-| The amending acts with all their days | [`atos.csv`](atos.csv) |
-| Changes credited by date only (the DR names no act) | `git log --grep="Evidence: date only"` |
-| Changes the DR names no act for | `git log --grep="sem ato indicado"` |
-| Acts amending the Labour Code in 2019 | `git log --format="%an %s" --author="/2019" -- codigo-do-trabalho` |
+| O que dizia o artigo 7.º da Constituição em 1 de janeiro de 2000? | `python tools/em_vigor.py 2000-01-01 constituicao 7` |
+| Toda a Constituição tal como estava em 1980 | `python tools/em_vigor.py 1980-01-01 constituicao` |
+| O artigo 3.º do Código do Trabalho em 1 de janeiro de 2020 | `python tools/em_vigor.py 2020-01-01 codigo-do-trabalho 3` |
+| O artigo 1577.º do Código Civil (casamento) em 1 de janeiro de 2009 | `python tools/em_vigor.py 2009-01-01 codigo-civil 1577` |
+| Todas as alterações ao artigo 1577.º do Código Civil | `git log --follow --format="%ad %an" --date=short codigo-civil/artigo-1577.md` |
+| Que ato escreveu cada parágrafo do artigo 7.º? | `git blame constituicao/artigo-007.md` |
+| Todas as alterações ao artigo 7.º, com o ato e o dia | `git log --follow constituicao/artigo-007.md` |
+| A alteração palavra a palavra de cada revisão | `git log -p --word-diff constituicao/artigo-007.md` |
+| Tudo o que um ato alterou | `git show --stat atos/lei-constitucional-1-2004` |
+| O que mudou no Código do Trabalho num dia | `git show --stat codigo-do-trabalho/2019-10-01` |
+| Os atos modificativos com todos os seus dias | [`atos.csv`](atos.csv) |
+| Alterações atribuídas apenas pela data (o DR não indica nenhum ato) | `git log --grep="Evidence: date only"` |
+| Alterações para as quais o DR não indica nenhum ato | `git log --grep="sem ato indicado"` |
+| Atos que alteraram o Código do Trabalho em 2019 | `git log --format="%an %s" --author="/2019" -- codigo-do-trabalho` |
 
-## The dates, and which one we use
+## As datas, e qual delas usamos
 
-A Portuguese act has the day it was published in the Diário da República (`Published:`) and the day its change took
-effect (`In-force:`). **Commits are dated the day the change took effect**, at noon in Lisbon, because that day
-decides which text applies. It is the day the DR gives for each provision version (`DataEntradaVigor`). Where the DR
-gives none, the commit says so and how it was dated. The Civil Code took effect on 1 June 1967; git cannot store a
-date before 1970, so that one commit is dated 1 January 1970 and its real day is in `In-force:`.
+Um ato português tem o dia em que foi publicado no Diário da República (`Published:`) e o dia em que a sua alteração
+entrou em vigor (`In-force:`). **Os commits são datados do dia em que a alteração entrou em vigor**, ao meio-dia em
+Lisboa, porque é esse dia que decide que texto se aplica. É o dia que o DR indica para cada versão de uma disposição
+(`DataEntradaVigor`). Quando o DR não indica nenhum, o commit di-lo e explica como foi datado. O Código Civil entrou
+em vigor em 1 de junho de 1967; o git não consegue guardar uma data anterior a 1970, pelo que esse commit é datado de
+1 de janeiro de 1970 e o seu dia real consta de `In-force:`.
 
-`tools/em_vigor.py` reads the `In-force:` trailer, so it gives the same answer in any time zone; raw
-`git rev-list --before` takes the reader's local time. In PowerShell, put a `ref:path` argument to `git show` in
-double quotes. After a rebuild of this repository, refresh tags with `git fetch --force --tags`.
+`tools/em_vigor.py` lê o trailer `In-force:`, pelo que dá a mesma resposta em qualquer fuso horário; o
+`git rev-list --before` simples usa a hora local de quem o executa. No PowerShell, coloque entre aspas duplas um
+argumento `ref:path` de `git show`. Depois de uma reconstrução deste repositório, atualize as tags com
+`git fetch --force --tags`.
 
-## What "author" means
+## O que significa «autor»
 
-The author of a commit is the act that made the change: `Lei n.º 93/2019` (with an address ending
-`@diariodarepublica.invalid`, which cannot exist), so `git blame` names the act. Declarations of rectification and
-Constitutional Court judgments the DR lists are authors too. The DR keeps, for each act it consolidates, an amendment
-timeline that names the provision versions each amending act made; a change is credited to the act the timeline names
-for it. A change the timeline names no act for is credited by date only when exactly one act has changes in force that
-day (labelled `Evidence: date only`); otherwise it is committed by `Diário da República (INCM)`, labelled. The
-committer is always `Lexifina`.
+O autor de um commit é o ato que fez a alteração: `Lei n.º 93/2019` (com um endereço terminado em
+`@diariodarepublica.invalid`, que não pode existir), de modo que `git blame` indica o ato. As declarações de
+retificação e os acórdãos do Tribunal Constitucional que o DR enumera também são autores. O DR mantém, para cada ato
+que consolida, uma cronologia de alterações que indica as versões de disposições criadas por cada ato modificativo;
+uma alteração é atribuída ao ato que a cronologia indica para ela. Uma alteração para a qual a cronologia não indica
+nenhum ato é atribuída apenas pela data quando exatamente um ato tem alterações em vigor nesse dia (com a etiqueta
+`Evidence: date only`); caso contrário, o commit fica em nome do `Diário da República (INCM)`, com etiqueta. O
+committer é sempre `Lexifina`.
 
-## How it is checked
+## Como é verificado
 
-`tools/check_repo.py` reads each act back from git on every day a version took effect and compares it with the DR's
-consolidated text for that day: file by file, and word for word against the raw text read without the build's
-renderer. `tools/test_repo.py` checks that the commands above work. The results are in [`REPRODUCE.md`](REPRODUCE.md).
+`tools/check_repo.py` relê cada ato a partir do git em todos os dias em que uma versão entrou em vigor e compara-o com
+o texto consolidado do DR para esse dia: ficheiro a ficheiro, e palavra a palavra com o texto em bruto, lido sem o
+renderizador usado na construção. `tools/test_repo.py` verifica que os comandos acima funcionam. Os resultados estão
+em [`REPRODUCE.md`](REPRODUCE.md).
 
-## Files
+## Ficheiros
 
-Each act is a folder. Each article is one file named after its number: `constituicao/artigo-007.md` is artigo 7.º,
-`codigo-do-trabalho/artigo-208-a.md` is artigo 208.º-A of the Labour Code, and `codigo-do-trabalho/lei-7-2009/` holds
-the articles of Lei n.º 7/2009 itself (the Code is its annex); the Civil Code's articles have four digits
-(`codigo-civil/artigo-1577.md`), and `codigo-civil/decreto-lei-47344/` holds the approving decree-law's. The headings of the divisions that begin before an article
-are `##` lines at the top of its file; the article's number is the `#` line and its heading the `###` line; each
-paragraph is one line. `preambulo.md` is the text before the first article, `assinatura.md` the signatures. A
-repealed article is removed, as it leaves the text in force; a suspended one is marked `*(Suspenso)*`.
+Cada ato é uma pasta. Cada artigo é um ficheiro com o nome do seu número: `constituicao/artigo-007.md` é o artigo 7.º,
+`codigo-do-trabalho/artigo-208-a.md` é o artigo 208.º-A do Código do Trabalho e `codigo-do-trabalho/lei-7-2009/`
+contém os artigos da própria Lei n.º 7/2009 (o Código é o seu anexo); os artigos do Código Civil têm quatro algarismos
+(`codigo-civil/artigo-1577.md`) e `codigo-civil/decreto-lei-47344/` contém os do decreto-lei que o aprovou. Os títulos
+das divisões que começam antes de um artigo são linhas `##` no topo do seu ficheiro; o número do artigo é a linha `#`
+e a sua epígrafe a linha `###`; cada parágrafo é uma linha. `preambulo.md` é o texto anterior ao primeiro artigo,
+`assinatura.md` as assinaturas. Um artigo revogado é removido, porque deixa de fazer parte do texto em vigor; um
+artigo suspenso é assinalado com `*(Suspenso)*`.
 
-## What it does not show
+## O que não mostra
 
-- Versions the DR does not consolidate: the Constitution's record starts with the DR's consolidated original text
-  (25 April 1976), which ends at artigo 295.º and has no signatures until 1982.
-- Commencement the DR does not model: Lei n.º 7/2009, artigo 14.º, deferred some articles of the Labour Code to later
-  legislation, and the Civil Code's artigos 1841.º to 1850.º took effect on 1 January 1968; the DR's consolidation,
-  and this record, show them from the act's first day.
-- Civil Code amendments between 1967 and 1975: the DR's timeline starts in 1975, so earlier changes appear in its
-  first later version, committed by the publisher and labelled.
-- Where the DR's text for a day and its version days disagree, the record follows the version days; every case is
-  listed in REPRODUCE.md and `data/versoes.json`.
-- Any act beyond these three. The same build works for any act the DR consolidates: add it to `ACTS` in
-  `tools/build.py`.
+- Versões que o DR não consolida: o registo da Constituição começa com o texto original consolidado pelo DR (25 de
+  abril de 1976), que termina no artigo 295.º e não tem assinaturas até 1982.
+- Inícios de vigência que o DR não modela: a Lei n.º 7/2009, artigo 14.º, remeteu a entrada em vigor de alguns artigos
+  do Código do Trabalho para legislação posterior, e os artigos 1841.º a 1850.º do Código Civil entraram em vigor em 1
+  de janeiro de 1968; a consolidação do DR, e este registo, mostram-nos desde o primeiro dia do ato.
+- Alterações ao Código Civil entre 1967 e 1975: a cronologia do DR começa em 1975, pelo que as alterações anteriores
+  aparecem na primeira versão posterior, num commit em nome do editor, com etiqueta.
+- Quando o texto do DR para um dia e os seus dias de versão divergem, o registo segue os dias de versão; todos os
+  casos estão enumerados em REPRODUCE.md e em `data/versoes.json`.
+- Qualquer ato além destes três. A mesma construção funciona para qualquer ato que o DR consolide: acrescente-o a
+  `ACTS` em `tools/build.py`.
 
-The DR's consolidated texts have no legal value ("sem valor legal"); only the Diário da República as published is
-authoritative.
+Os textos consolidados do DR não têm valor legal («sem valor legal»); só faz fé o Diário da República tal como
+publicado.
 
-## How it is built
+## Como é construído
 
-`tools/build.py` reads the DR and writes this repository from scratch; the same data gives the same hashes. Every
-step, the software, the decisions made by hand and what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md). Each
-act's folder has a `README.md` listing its articles with how often each changed. [`corpus.json`](corpus.json)
-describes the corpus for tools that read several of Lexifina's law repositories.
+`tools/build.py` lê o DR e escreve este repositório de raiz; os mesmos dados dão os mesmos hashes. Cada passo, o
+software, as decisões tomadas manualmente e o que um modelo de IA fez estão em [`REPRODUCE.md`](REPRODUCE.md). A pasta
+de cada ato tem um `README.md` que enumera os seus artigos e quantas vezes cada um foi alterado.
+[`corpus.json`](corpus.json) descreve o corpus para ferramentas que leem vários repositórios de direito da Lexifina.
 
-## Licence
+## Licença
 
-See [LICENSE](LICENSE): the legal text comes from the Diário da República (INCM), under the public service of
-universal and free access to it; the history, commit messages, tables and tools are released under CC0 1.0. Whether
-the DR's consolidated texts may be republished is not settled here, and the repository is private.
+Ver [LICENSE](LICENSE): o texto legal provém do Diário da República (INCM), ao abrigo do serviço público de acesso
+universal e gratuito a esse texto; o histórico, as mensagens de commit, as tabelas e as ferramentas são
+disponibilizados ao abrigo da CC0 1.0. A questão de saber se os textos consolidados do DR podem ser republicados não
+fica aqui resolvida, e o repositório é privado.
+
+Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); em caso de divergência, prevalece a versão inglesa.
 
 ---
 
-## Em português
+## Outros atos em vigor: apenas o texto atual
 
-Três atos portugueses como repositório git: a Constituição da República Portuguesa, o Código Civil e o Código do
-Trabalho, no texto consolidado do Diário da República.
-
-- **Cada commit é um ato modificativo**, registado como autor (`Lei n.º 93/2019`), para que `git blame` mostre que ato
-  escreveu cada parágrafo. O ato é o que a cronologia de alterações do DR indica para cada versão.
-- **Cada commit tem a data de entrada em vigor**, ao meio-dia em Lisboa. A mensagem indica também a data de publicação.
-- **Cada artigo é um ficheiro**, cada parágrafo uma linha.
-- **Alterações que o DR não atribui a um ato** não são atribuídas a nenhum; o commit é do Diário da República e
-  diz porquê.
-
-Os textos consolidados do DR não têm valor legal; só faz fé o Diário da República publicado.
-
-## Other acts in force: current text only
-
-Since 2026-11-03 the repository also holds every Lei and Decreto-Lei in force that the Diário da República keeps a consolidated text of (Legislação Consolidada), each in its own folder named after the act (`lei-38-2025/`, `decreto-lei-57-a-2024/`), with the same file names as the three acts above. Each is one commit holding its whole consolidated text in force on 2026-11-03: the oldest version available here, credited to the Diário da República (INCM) as publisher, with `Kind: consolidated`. The commit is dated the latest day on which one of its provisions took effect (`In-force:`), so it gives the text in force from that day; earlier wordings are added behind it where the Diário da República dates them (next section). They were added on top of the history above, so their commits come after it whatever their dates. The list is [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv).
+Desde 2026-11-03, o repositório contém também todas as leis e decretos-leis em vigor de que o Diário da República mantém um texto consolidado (Legislação Consolidada), cada um na sua própria pasta com o nome do ato (`lei-38-2025/`, `decreto-lei-57-a-2024/`), com os mesmos nomes de ficheiros que os três atos acima. Cada um é um commit com todo o seu texto consolidado em vigor em 2026-11-03: a versão mais antiga disponível aqui, atribuída ao Diário da República (INCM) como editor, com `Kind: consolidated`. O commit é datado do dia mais recente em que uma das suas disposições entrou em vigor (`In-force:`), pelo que dá o texto em vigor a partir desse dia; as redações anteriores são acrescentadas atrás dele quando o Diário da República as data (secção seguinte). Foram acrescentados por cima do histórico acima, pelo que os seus commits vêm depois dele, quaisquer que sejam as suas datas. A lista é [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv).
 
 Desde 2026-11-03 o repositório inclui também todas as leis e decretos-leis em vigor com texto consolidado no Diário da República, cada um com o texto em vigor nesse dia (a versão mais antiga disponível aqui), datado do dia mais recente em que uma das suas disposições entrou em vigor. Lista: [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv).
 
-## Earlier versions of the other acts
+## Versões anteriores dos outros atos
 
-Since 2026-11-03, acts of the list above also carry their earlier versions, where the Diário da República's consolidated legislation dates them: each act's text on every day a change to it took effect, each provision in the version in force that day by its own in-force date (an undated version: the day the correction naming it was published, else the first consolidated text that shows it). The original text has no in-force day in that data, so an act's history starts at its first dated change. Each earlier version is one commit added after the current text, `Kind: correction`, with `In-force:` its first day and `Corrects: <folder> <from>..<to>` the days it covers (to the day before the next version), `Supersedes: none`, `Act-path:` the act's folder and one `Files:` line per file; it is credited to the amending act the DR names for its changes. A last correction per act restores the current text at the tip (open range). Readers that honour correction commits (tools that read `Corrects`) give the text on any day from the first dated change; the list, with the number of versions per act, is [`data/versoes-anteriores.csv`](data/versoes-anteriores.csv). Most-amended acts come first; the rest follow in later parts.
+Desde 2026-11-03, os atos da lista acima incluem também as suas versões anteriores, quando a legislação consolidada do Diário da República as data: o texto de cada ato em todos os dias em que entrou em vigor uma alteração a esse ato, cada disposição na versão em vigor nesse dia segundo a sua própria data de entrada em vigor (para uma versão sem data: o dia em que foi publicada a retificação que a indica ou, na falta desta, o primeiro texto consolidado que a mostra). O texto original não tem dia de entrada em vigor nesses dados, pelo que o histórico de um ato começa na sua primeira alteração datada. Cada versão anterior é um commit acrescentado depois do texto atual, `Kind: correction`, com `In-force:` o seu primeiro dia e `Corrects: <folder> <from>..<to>` os dias que abrange (até à véspera da versão seguinte), `Supersedes: none`, `Act-path:` a pasta do ato e uma linha `Files:` por ficheiro; é atribuído ao ato modificativo que o DR indica para as suas alterações. Uma última correção por ato repõe o texto atual na ponta (intervalo aberto). Os leitores que respeitam os commits de correção (ferramentas que leem `Corrects`) dão o texto de qualquer dia a partir da primeira alteração datada; a lista, com o número de versões por ato, é [`data/versoes-anteriores.csv`](data/versoes-anteriores.csv). Os atos mais alterados vêm primeiro; os restantes seguem-se em partes posteriores.
 
 Desde 2026-11-03, os atos da lista acima passam a ter também as versões anteriores que a legislação consolidada do Diário da República data, cada uma num commit `Kind: correction` acrescentado depois do texto em vigor e creditado ao ato que a alterou. Lista: [`data/versoes-anteriores.csv`](data/versoes-anteriores.csv).
+
+## Mais informação
+
+Do repositório [lexifina/global-law](https://github.com/lexifina/global-law) (páginas em inglês):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): todas as funcionalidades e o que cada corpus tem de suportar (`git blame`, `law.py`, ferramentas MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): perguntas e respostas · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): propor alterações · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): servidor MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): como foi construído · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): quão atualizado está cada corpus · [Monitorização](https://github.com/lexifina/global-law/tree/main/monitoring): se as atualizações estão a funcionar · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): como cada fonte oficial é vigiada para detetar alterações
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): a rapidez das ferramentas, medida
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): gráficos e ligações através do direito de todo o mundo
+- [Vulnerabilidades](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erros nos diplomas tal como foram publicados
