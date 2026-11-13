@@ -1,0 +1,65 @@
+Portaria n.º 498/2026/1
+de 12 de novembro
+Nos termos do Plano de Emissões de Moedas Comemorativas para 2026, a Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.), é autorizada a cunhar uma moeda de coleção alusiva ao 40.º aniversário da adesão de Portugal às Comunidades Europeias.
+
+No ano em que se comemora o 40.º aniversário da adesão de Portugal às Comunidades Europeias, e no contexto das respetivas comemorações oficiais, justifica-se a emissão de uma moeda de coleção alusiva à efeméride ocorrida a 1 de janeiro de 1986, um dos acontecimentos mais determinantes da história recente do País, que marcou profundamente o seu desenvolvimento económico, social e institucional.
+
+Foi ouvido o Banco de Portugal.
+
+Assim, ao abrigo do n.º 2 do artigo 5.º do Decreto-Lei n.º 246/2007, de 26 de junho, na sua redação atual, manda o Governo, pelo Secretário de Estado do Tesouro e das Finanças, no uso da competência delegada, nos termos da alínea a) do n.º 3 do Despacho n.º 8869-C/2025, de 29 de julho, do Ministro de Estado e das Finanças, publicado no Diário da República, 2.ª série, n.º 144, de 29 de julho de 2025, o seguinte:
+
+Artigo 1.º
+
+Aprovação da emissão
+
+A Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.), fica autorizada, no âmbito do Plano de Emissões de Moedas Comemorativas para 2026, a cunhar e a comercializar uma moeda de coleção designada «Portugal. 40 Anos União Europeia».
+
+Artigo 2.º
+
+Características e outros elementos da cunhagem
+
+1 - As características visuais da moeda de coleção referida no artigo anterior são as seguintes:
+
+O anverso é totalmente preenchido por um padrão de módulos em forma de escudo, dez dos quais preenchidos por uma cruz com as pontas terminadas em flor-de-lis, e oito preenchidos por cinco besantes, numa representação estilizada do escudo nacional. No reverso, ocupando todo o campo central, é representado o período que se celebra «40 anos», ao qual se sobrepõem a silhueta do mapa da União Europeia na sua configuração atual e 12 estrelas de cinco pontas formando entre si uma coroa em perspetiva; na orla superior estão inscritos o valor facial e a legenda «Portugal»; na orla inferior a legenda «União Europeia».
+
+2 - O valor facial para a moeda de coleção indicada no artigo 1.º é de 7,50 €.
+
+3 - As moedas produzidas ao abrigo da presente portaria são cunhadas com acabamento normal, e com acabamento especial do tipo «prova numismática» (proof), de acordo com o disposto no artigo 4.º do Decreto-Lei n.º 246/2007, de 26 de junho, na sua redação atual.
+
+4 - As moedas com acabamento especial são devidamente protegidas e apresentadas em embalagens próprias.
+
+Artigo 3.º
+
+Especificações técnicas
+
+As especificações técnicas da moeda de coleção indicada no artigo 1.º, com o valor facial de 7,50 €, são as seguintes:
+
+a) As moedas com acabamento normal são cunhadas em liga de cuproníquel, com teor de níquel de 25 % com uma tolerância de mais ou menos 1,5 %, têm 18,5 g de massa com uma tolerância de mais ou menos 3 %, diâmetro de 33 mm, e bordo serrilhado;
+
+b) As moedas de prata com acabamento especial do tipo «prova numismática» (proof) são cunhadas em liga com teor de prata de 92,5 % com uma tolerância de mais ou menos 1 %, têm 13,5 g de massa com uma tolerância de mais ou menos 1,5 %, diâmetro de 33 mm e bordo serrilhado.
+
+Artigo 4.º
+
+Limites de emissão
+
+Os limites de emissão da moeda de coleção a que se refere o artigo 1.º são fixados do seguinte modo:
+
+O limite é de 202 500 €, e dentro deste limite a INCM, S. A., é autorizada a cunhar até 2000 moedas em prata com acabamento especial do tipo «prova numismática» (proof).
+
+Artigo 5.º
+
+Curso legal e poder liberatório
+
+1 - Às moedas cunhadas ao abrigo da presente portaria é conferido poder liberatório apenas em Portugal.
+
+2 - Com exceção do Estado através das Caixas do Tesouro, do Banco de Portugal, e das instituições de crédito, cuja atividade consista em receber depósitos do público, ninguém pode ser obrigado a receber num único pagamento mais de 50 destas moedas.
+
+Artigo 6.º
+
+Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado do Tesouro e das Finanças, João Alexandre da Silva Lopes, em 9 de novembro de 2026.
+
+119949900
