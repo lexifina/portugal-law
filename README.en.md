@@ -1,120 +1,83 @@
-# Portuguese law, change by change
+# Portugal: law history in git
 
-[Português](README.md) · **English**
+**English** · **[Ou leia em português](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Portuguese law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Portugal as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every line; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Portugal's national law, which global-law reads at `portugal/national/acts/`.
 
-Three Portuguese acts as a git repository: the Constitution (Constituição da República Portuguesa, 1976), the Civil
-Code (Código Civil, approved by Decreto-Lei n.º 47344 of 1966) and the Labour Code (Código do Trabalho, approved by
-Lei n.º 7/2009). Each amending act is one commit, credited to that act and dated
-the day its change took effect, at noon in Lisbon. The text is the consolidated text published in the
-[Diário da República](https://diariodarepublica.pt) (Legislação Consolidada).
+**What is in it now:** the Constitution, the Civil Code and the Labour Code, with their 148 versions since 1967; and every other Lei and Decreto-Lei in force that the Diário da República consolidates, 2,098 acts (502 Leis and 1,596 Decretos-Leis), each with its text in force on 3 November 2026, and 400 of them also with their 2,998 earlier versions. [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv) lists the 2,098 acts, [`data/versoes-anteriores.csv`](data/versoes-anteriores.csv) those with earlier versions, and [`atos.csv`](atos.csv) the acts that amended the first three, with their days.
 
-## The questions, as git commands
+Each act is in `<kind>/<year>/<number>/` (`lei/2014/35/` is the Lei Geral do Trabalho em Funções Públicas, Lei n.º 35/2014, with its annex in `anexo/`), or in `act/<year>/` where its number has a letter, one file per article; the Constitution is in [`constitution/constituicao/`](constitution/constituicao/), and the Civil Code and the Labour Code (Código do Trabalho, approved by Lei n.º 7/2009) in `code/codigo-civil/` and `code/codigo-do-trabalho/`. Until 10 November 2026 each folder was named by the act's id (`codigo-do-trabalho/`): `git log --follow` and `git blame` follow the move, [`data/paths.json`](data/paths.json) maps each id to its folder (44 older acts kept theirs), and the last two commands below name the old folder.
+
+The text is in Portuguese, as the Diário da República's consolidated legislation prints it. An English translation is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did artigo 7.º of the Constitution say on 1 January 2000? | `python tools/em_vigor.py 2000-01-01 constituicao 7` |
-| The whole Constitution as it stood in 1980 | `python tools/em_vigor.py 1980-01-01 constituicao` |
-| Artigo 3.º of the Labour Code on 1 January 2020 | `python tools/em_vigor.py 2020-01-01 codigo-do-trabalho 3` |
-| Artigo 1577.º of the Civil Code (marriage) on 1 January 2009 | `python tools/em_vigor.py 2009-01-01 codigo-civil 1577` |
-| Every change to the Civil Code's artigo 1577.º | `git log --follow --format="%ad %an" --date=short codigo-civil/artigo-1577.md` |
-| Which act wrote each paragraph of artigo 7.º? | `git blame constituicao/artigo-007.md` |
-| Every change to artigo 7.º, with the act and the day | `git log --follow constituicao/artigo-007.md` |
-| The word-level change of each revision | `git log -p --word-diff constituicao/artigo-007.md` |
-| Everything one act changed | `git show --stat atos/lei-constitucional-1-2004` |
-| What changed in the Labour Code on one day | `git show --stat codigo-do-trabalho/2019-10-01` |
-| The amending acts with all their days | [`atos.csv`](atos.csv) |
-| Changes credited by date only (the DR names no act) | `git log --grep="Evidence: date only"` |
-| Changes the DR names no act for | `git log --grep="sem ato indicado"` |
-| Acts amending the Labour Code in 2019 | `git log --format="%an %s" --author="/2019" -- codigo-do-trabalho` |
+| Every change to Article 238 of the Labour Code (length of annual leave) | `git log -p --follow --word-diff -- code/codigo-do-trabalho/artigo-238.md` |
+| Which act wrote each line of Article 238? | `git blame code/codigo-do-trabalho/artigo-238.md` |
+| Every version of the Labour Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code/codigo-do-trabalho codigo-do-trabalho` |
+| Article 238 as in force on 1 January 2012 | `python tools/em_vigor.py 2012-01-01 codigo-do-trabalho 238` |
 
-## The dates, and which one we use
+**Outside git**, we also host this record publicly, for free:
 
-A Portuguese act has the day it was published in the Diário da República (`Published:`) and the day its change took
-effect (`In-force:`). **Commits are dated the day the change took effect**, at noon in Lisbon, because that day
-decides which text applies. It is the day the DR gives for each provision version (`DataEntradaVigor`). Where the DR
-gives none, the commit says so and how it was dated. The Civil Code took effect on 1 June 1967; git cannot store a
-date before 1970, so that one commit is dated 1 January 1970 and its real day is in `In-force:`.
+- **[Ask Claude about Portuguese law](https://global-law.lexifina.com/v1/try_claude?country=portugal)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=portugal)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=f%C3%A9rias&jurisdictions=portugal)**: a search of Portuguese law for "férias" (annual leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-`tools/em_vigor.py` reads the `In-force:` trailer, so it gives the same answer in any time zone; raw
-`git rev-list --before` takes the reader's local time. In PowerShell, put a `ref:path` argument to `git show` in
-double quotes. After a rebuild of this repository, refresh tags with `git fetch --force --tags`.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Portuguese or in English.
 
-## What "author" means
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-The author of a commit is the act that made the change: `Lei n.º 93/2019` (with an address ending
-`@diariodarepublica.invalid`, which cannot exist), so `git blame` names the act. Declarations of rectification and
-Constitutional Court judgments the DR lists are authors too. The DR keeps, for each act it consolidates, an amendment
-timeline that names the provision versions each amending act made; a change is credited to the act the timeline names
-for it. A change the timeline names no act for is credited by date only when exactly one act has changes in force that
-day (labelled `Evidence: date only`); otherwise it is committed by `Diário da República (INCM)`, labelled. The
-committer is always `Lexifina`.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add portugal/national/acts
+python3 tools/law.py show 2026-01-01 portugal/national/acts/code/codigo-do-trabalho/artigo-238.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Each commit is dated at noon, Europe/Lisbon, on the day the version took effect, and carries it in its `In-force:` trailer, beside `Published:`:
+
+- for the Constitution and the two codes, the day the Diário da República gives each provision version (`DataEntradaVigor`); where it gives none, the commit says so and how it was dated;
+- for each other act, its current text is dated the latest day one of its provisions took effect, and each earlier version is a `Kind: correction` commit whose `Corrects:` line gives the days it covers; they were added after the current text, so they come after it in git whatever their dates;
+- git cannot store dates before 1970, so the four earlier commits (the Civil Code's first text, in force on 1 June 1967, and three acts of 1960, 1965 and 1968) are dated 1970-01-01, seconds apart, with the real day in `In-force:`. Ask for a date with `tools/em_vigor.py`, not `git log --before`.
+
+Each change is credited to the act the Diário da República's amendment timeline names for it (`Lei n.º 23/2012`), declarations of rectification included; a change it names no act for is credited by date only when exactly one act has changes in force that day (`Evidence: date only`), otherwise to `Diário da República (INCM)`, labelled. The current text of each other act is credited to the Diário da República (INCM) as publisher.
 
 ## How it is checked
 
-`tools/check_repo.py` reads each act back from git on every day a version took effect and compares it with the DR's
-consolidated text for that day: file by file, and word for word against the raw text read without the build's
-renderer. `tools/test_repo.py` checks that the commands above work. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-
-## Files
-
-Each act is a folder. Each article is one file named after its number: `constituicao/artigo-007.md` is artigo 7.º,
-`codigo-do-trabalho/artigo-208-a.md` is artigo 208.º-A of the Labour Code, and `codigo-do-trabalho/lei-7-2009/` holds
-the articles of Lei n.º 7/2009 itself (the Code is its annex); the Civil Code's articles have four digits
-(`codigo-civil/artigo-1577.md`), and `codigo-civil/decreto-lei-47344/` holds the approving decree-law's. The headings of the divisions that begin before an article
-are `##` lines at the top of its file; the article's number is the `#` line and its heading the `###` line; each
-paragraph is one line. `preambulo.md` is the text before the first article, `assinatura.md` the signatures. A
-repealed article is removed, as it leaves the text in force; a suspended one is marked `*(Suspenso)*`.
+- `tools/check_repo.py` reads the Constitution and the two codes back from git on every day a version took effect and compares them with the Diário da República's consolidated text for that day, file by file and word for word against its raw text: 111 days, 196,180 files and 16,587,703 words, 0 mismatches.
+- A second build from the same data gave the same hash for every one of the 148 law commits and 249 tags; `data/versoes.json` lists every text read, with its sha256.
+- `tools/test_repo.py` checks that blame names an act, that the text changes across an amendment and that `git log --follow` works. The results are in [`REPRODUCE.md`](REPRODUCE.md), which describes the build of the first three acts only.
 
 ## What it does not show
 
-- Versions the DR does not consolidate: the Constitution's record starts with the DR's consolidated original text
-  (25 April 1976), which ends at artigo 295.º and has no signatures until 1982.
-- Commencement the DR does not model: Lei n.º 7/2009, artigo 14.º, deferred some articles of the Labour Code to later
-  legislation, and the Civil Code's artigos 1841.º to 1850.º took effect on 1 January 1968; the DR's consolidation,
-  and this record, show them from the act's first day.
-- Civil Code amendments between 1967 and 1975: the DR's timeline starts in 1975, so earlier changes appear in its
-  first later version, committed by the publisher and labelled.
-- Where the DR's text for a day and its version days disagree, the record follows the version days; every case is
-  listed in REPRODUCE.md and `data/versoes.json`.
-- Any act beyond these three. The same build works for any act the DR consolidates: add it to `ACTS` in
-  `tools/build.py`.
+- **Other kinds of act.** Only the Constitution, Leis and Decretos-Leis: no portarias, decretos regulamentares, resoluções, regional acts, case law or EU law; and no acts no longer in force.
+- **Earlier versions of most other acts.** 1,698 of the 2,098 have only their current text. For the other 400, history starts at the first dated change, as the Diário da República gives no in-force day for the original text; plain `git blame` on them names the publisher, while global-law's tools read the corrections.
+- **Commencement the Diário da República does not model.** Some articles of the Labour Code were deferred to later legislation (Lei n.º 7/2009, artigo 14.º), and the Civil Code's artigos 1841.º to 1850.º took effect on 1 January 1968; both are shown from the act's first day.
+- **The Civil Code from 1967 to 1975.** The amendment timeline starts in 1975, so earlier changes appear in its first later version, credited to the publisher. The Constitution's first text, as consolidated, ends at artigo 295.º and has no signatures until 1982.
 
-The DR's consolidated texts have no legal value ("sem valor legal"); only the Diário da República as published is
-authoritative.
+## Sources
 
-## How it is built
-
-`tools/build.py` reads the DR and writes this repository from scratch; the same data gives the same hashes. Every
-step, the software, the decisions made by hand and what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md). Each
-act's folder has a `README.md` listing its articles with how often each changed. [`corpus.json`](corpus.json)
-describes the corpus for tools that read several of Lexifina's law repositories.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Diário da República](https://diariodarepublica.pt) (INCM), Legislação Consolidada | Official journal: consolidated legislation | yes, every provision version with the day it took effect | The text in force on each day and the amendment timeline naming each amending act, read through the calls its own pages make; the consolidated texts have no legal value, only the Diário da República as published is authoritative |
 
 ## Licence
 
-See [LICENSE](LICENSE): the legal text comes from the Diário da República (INCM), under the public service of
-universal and free access to it; the history, commit messages, tables and tools are released under CC0 1.0. Whether
-the DR's consolidated texts may be republished is not settled here, and the repository is private.
+See [`LICENSE`](LICENSE). The text is the Diário da República's, published by INCM under the public service of universal and free access to it (Decreto-Lei n.º 83/2016), and official texts such as laws are not protected by copyright (Código do Direito de Autor e dos Direitos Conexos, artigo 8.º, n.º 1); the history, commit messages, tables and tools are CC0 1.0.
 
----
-
-## Other acts in force: current text only
-
-Since 2026-11-03 the repository also holds every Lei and Decreto-Lei in force that the Diário da República keeps a consolidated text of (Legislação Consolidada), each in its own folder named after the act (`lei-38-2025/`, `decreto-lei-57-a-2024/`), with the same file names as the three acts above. Each is one commit holding its whole consolidated text in force on 2026-11-03: the oldest version available here, credited to the Diário da República (INCM) as publisher, with `Kind: consolidated`. The commit is dated the latest day on which one of its provisions took effect (`In-force:`), so it gives the text in force from that day; earlier wordings are added behind it where the Diário da República dates them (next section). They were added on top of the history above, so their commits come after it whatever their dates. The list is [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv).
-
-Desde 2026-11-03 o repositório inclui também todas as leis e decretos-leis em vigor com texto consolidado no Diário da República, cada um com o texto em vigor nesse dia (a versão mais antiga disponível aqui), datado do dia mais recente em que uma das suas disposições entrou em vigor. Lista: [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv).
-
-## Earlier versions of the other acts
-
-Since 2026-11-03, acts of the list above also carry their earlier versions, where the Diário da República's consolidated legislation dates them: each act's text on every day a change to it took effect, each provision in the version in force that day by its own in-force date (an undated version: the day the correction naming it was published, else the first consolidated text that shows it). The original text has no in-force day in that data, so an act's history starts at its first dated change. Each earlier version is one commit added after the current text, `Kind: correction`, with `In-force:` its first day and `Corrects: <folder> <from>..<to>` the days it covers (to the day before the next version), `Supersedes: none`, `Act-path:` the act's folder and one `Files:` line per file; it is credited to the amending act the DR names for its changes. A last correction per act restores the current text at the tip (open range). Readers that honour correction commits (tools that read `Corrects`) give the text on any day from the first dated change; the list, with the number of versions per act, is [`data/versoes-anteriores.csv`](data/versoes-anteriores.csv). Most-amended acts come first; the rest follow in later parts.
-
-Desde 2026-11-03, os atos da lista acima passam a ter também as versões anteriores que a legislação consolidada do Diário da República data, cada uma num commit `Kind: correction` acrescentado depois do texto em vigor e creditado ao ato que a alterou. Lista: [`data/versoes-anteriores.csv`](data/versoes-anteriores.csv).
+No AI model wrote or changed legal text, and none is called when the history is built or checked; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
