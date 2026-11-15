@@ -30,7 +30,8 @@ O texto está em português, tal como a legislação consolidada do Diário da R
 
 - **[Pergunte ao Claude sobre o direito português](https://global-law.lexifina.com/v1/try_claude?country=portugal)**: abre o Claude com uma primeira pergunta pronta.
 - **[Pergunte ao ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=portugal)**: a mesma pergunta no ChatGPT.
-- **[Chame a API no navegador](https://global-law.lexifina.com/v1/search_law?query=f%C3%A9rias&jurisdictions=portugal)**: uma pesquisa de «férias» no direito português, com a resposta em JSON. A documentação está [aqui](https://lexifina.com/api/global-law).
+- **[Pesquise no direito português no nosso site](https://lexifina.com/law?country=portugal&q=f%C3%A9rias)**: uma pesquisa de «férias», com o texto de cada disposição e as suas versões, sem conta.
+- **[API REST para programadores](https://global-law.lexifina.com/v1/search_law?query=f%C3%A9rias&jurisdiction=portugal)**: a mesma pesquisa em JSON, sem chave. A documentação está [aqui](https://lexifina.com/api/global-law).
 
 Os dois assistentes leem o registo através do conector gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); da primeira vez, a conversa dá-lhe a ligação que o adiciona. Pergunte em português ou em inglês.
 
