@@ -1,4 +1,4 @@
-# Acórdão do Tribunal da Relação de Évora de 0207-10-26, processo 2687/13.5TBLLE.E1
+# Acórdão do Tribunal da Relação de Évora de 2017-10-26, processo 2687/13.5TBLLE.E1
 
 **Acórdãos TRE:** Acórdão do Tribunal da Relação de; Évora
 
