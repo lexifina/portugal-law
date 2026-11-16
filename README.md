@@ -11,7 +11,7 @@ O direito de Portugal como histórico git: um ficheiro por artigo, um commit por
 
 Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), um único histórico git para o direito de todos os países: este é o direito nacional de Portugal, que o global-law lê em `portugal/national/acts/`.
 
-**O que contém agora:** a Constituição, com as suas sete revisões, e 28 códigos em [`code/`](code/), cada um com a sua história datada desde o dia em que entrou em vigor, um commit por ato que o alterou (Código Civil, Código Cooperativo, Código da Execução das Penas e Medidas Privativas da Liberdade, Código da Insolvência e da Recuperação de Empresas, Código da Propriedade Industrial, Código das Expropriações, Código das Sociedades Comerciais, Código de Justiça Militar, Código de Procedimento e Processo Tributário, Código de Processo Civil, Código de Processo do Trabalho, Código de Processo nos Tribunais Administrativos, Código de Processo Penal, Código do Direito de Autor e dos Direitos Conexos, Código do Imposto do Selo, Código do Imposto sobre Veículos e Código do Imposto Único de Circulação, Código do Notariado, Código do Procedimento Administrativo, Código do Registo Civil, Código do Registo Comercial, Código do Registo Predial, Código do Trabalho, Código dos Contratos Públicos, Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, Código dos Valores Mobiliários, Código Penal, Códigos do Imposto Municipal sobre Imóveis - CIMI - e do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, Lei Geral Tributária); e todas as outras leis e decretos-leis em vigor que o Diário da República consolida, 2098 atos (502 leis e 1596 decretos-leis), cada um com o texto em vigor em 3 de novembro de 2026, 400 deles também com as suas 2998 versões anteriores. [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv) lista os 2098 atos, [`data/versoes-anteriores.csv`](data/versoes-anteriores.csv) os que têm versões anteriores e [`atos.csv`](atos.csv) os atos que alteraram os três primeiros, com os seus dias.
+**O que contém agora:** a Constituição, o Código Civil e o Código do Trabalho, com as suas 148 versões desde 1967; e todas as outras leis e decretos-leis em vigor que o Diário da República consolida, 2098 atos (502 leis e 1596 decretos-leis), cada um com o texto em vigor em 3 de novembro de 2026, 400 deles também com as suas 2998 versões anteriores. [`data/atos-em-vigor.csv`](data/atos-em-vigor.csv) lista os 2098 atos, [`data/versoes-anteriores.csv`](data/versoes-anteriores.csv) os que têm versões anteriores e [`atos.csv`](atos.csv) os atos que alteraram os três primeiros, com os seus dias.
 
 Cada ato está em `<tipo>/<ano>/<número>/` (`lei/2014/35/` é a Lei Geral do Trabalho em Funções Públicas, Lei n.º 35/2014, com o seu anexo em `anexo/`), ou em `act/<ano>/` quando o seu número tem uma letra, com um ficheiro por artigo; a Constituição está em [`constitution/constituicao/`](constitution/constituicao/), e o Código Civil e o Código do Trabalho (aprovado pela Lei n.º 7/2009) em `code/codigo-civil/` e `code/codigo-do-trabalho/`. Até 10 de novembro de 2026, cada pasta tinha o nome do identificador do ato (`codigo-do-trabalho/`): `git log --follow` e `git blame` acompanham a mudança, [`data/paths.json`](data/paths.json) faz corresponder cada identificador à sua pasta (44 atos mais antigos mantiveram a sua) e os dois últimos comandos abaixo usam a pasta antiga.
 
@@ -60,6 +60,7 @@ Cada alteração é atribuída ao ato que a cronologia de alterações do Diári
 - `tools/check_repo.py` lê a Constituição e os dois códigos a partir do git em cada dia em que uma versão entrou em vigor e compara-os com o texto consolidado do Diário da República para esse dia, ficheiro a ficheiro e palavra a palavra com o texto em bruto: 111 dias, 196 180 ficheiros e 16 587 703 palavras, 0 diferenças.
 - Uma segunda construção a partir dos mesmos dados deu o mesmo hash para cada um dos 148 commits de lei e das 249 tags; `data/versoes.json` lista cada texto lido, com o seu sha256.
 - `tools/test_repo.py` verifica que o blame indica um ato, que o texto muda com uma alteração e que `git log --follow` funciona. Os resultados estão em [`REPRODUCE.md`](REPRODUCE.md), que descreve apenas a construção dos três primeiros atos.
+- [vulnerabilities/](vulnerabilities/): possíveis erros de redação neste direito, encontrados pelos detetores do global-law e verificados à mão. Ainda não executado.
 
 ## O que não mostra
 
@@ -81,6 +82,10 @@ Ver [`LICENSE`](LICENSE). O texto é o do Diário da República, publicado pela 
 Nenhum modelo de IA escreveu ou alterou texto legal, e nenhum é chamado quando o histórico é construído ou verificado; os scripts foram escritos por um modelo de IA (ver [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); se divergirem, prevalece a versão inglesa.
+
+## Visualizações
+
+- [visualisations/](visualisations/): gráficos feitos a partir deste repositório. Ainda não feitos.
 
 ## Mais informação
 

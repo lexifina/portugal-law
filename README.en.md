@@ -60,6 +60,7 @@ Each change is credited to the act the Diário da República's amendment timelin
 - `tools/check_repo.py` reads the Constitution and the two codes back from git on every day a version took effect and compares them with the Diário da República's consolidated text for that day, file by file and word for word against its raw text: 111 days, 196,180 files and 16,587,703 words, 0 mismatches.
 - A second build from the same data gave the same hash for every one of the 148 law commits and 249 tags; `data/versoes.json` lists every text read, with its sha256.
 - `tools/test_repo.py` checks that blame names an act, that the text changes across an amendment and that `git log --follow` works. The results are in [`REPRODUCE.md`](REPRODUCE.md), which describes the build of the first three acts only.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ Each change is credited to the act the Diário da República's amendment timelin
 See [`LICENSE`](LICENSE). The text is the Diário da República's, published by INCM under the public service of universal and free access to it (Decreto-Lei n.º 83/2016), and official texts such as laws are not protected by copyright (Código do Direito de Autor e dos Direitos Conexos, artigo 8.º, n.º 1); the history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote or changed legal text, and none is called when the history is built or checked; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
