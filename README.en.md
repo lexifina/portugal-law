@@ -11,9 +11,9 @@ The law of Portugal as a git history: one file per article, one commit per versi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Portugal's national law, which global-law reads at `portugal/national/acts/`.
 
-**What is in it now:** the Constitution with its seven revisions; 34 codes in [`code/`](code/), 29 of them with their dated history (each folder's README says which source); more than 134,000 acts of the Diário da República 1.ª série as published, from 1976 and, being added, the Diário do Governo from 1910, with 14,163 of the 23,350 Leis and Decretos-Leis the DR marks in force (2,106 of them also as consolidated text; nearly all of the 9,187 not held are 1910-1959 acts the DR has only as scanned PDFs); more than 44,000 regulatory acts of the 2.ª série (regulamentos, including municipal ones, portarias, despachos normativos, Banco de Portugal and CMVM rules); and case law in [`jurisprudencia/`](jurisprudencia/): more than 294,000 decisions of the higher courts from the DGSI databases (STJ, STA, Relações, TCA Sul and Norte, Tribunal dos Conflitos), 27,794 Constitutional Court rulings and more than 10,700 CAAD tax arbitration decisions. The folder READMEs and [`data/`](data/) give the detail. Parliamentary records of the Assembleia da República from its open data are in [`parlamento/`](parlamento/): bills with every procedural step, plenary speeches, MPs' written questions and the answers, approved acts, petitions (without petitioners' names), budget amendment proposals and the full text of the Diário da Assembleia da República (2009 onward).
+**What is in it now:** the Constitution with its seven revisions ([`constituicao/`](constituicao/)); 34 codes ([`codigos/`](codigos/)); the Diário da República 1.ª série from 1976 and the Diário do Governo from 1910, by kind of act ([`legislacao/`](legislacao/)), with 14,163 of the 23,350 Leis and Decretos-Leis in force; regulatory acts of the 2.ª série ([`serie-2/`](serie-2/)); more than 330,000 court decisions ([`jurisprudencia/`](jurisprudencia/)); and the Assembleia da República's records ([`parlamento/`](parlamento/)). The folder READMEs and [`data/`](data/) give the detail.
 
-Each act is in `<kind>/<year>/<number>/` (`lei/2014/35/` is the Lei Geral do Trabalho em Funções Públicas, Lei n.º 35/2014, with its annex in `anexo/`), or in `act/<year>/` where its number has a letter, one file per article; the Constitution is in [`constitution/constituicao/`](constitution/constituicao/), and the Civil Code and the Labour Code (Código do Trabalho, approved by Lei n.º 7/2009) in `code/codigo-civil/` and `code/codigo-do-trabalho/`. Until 10 November 2026 each folder was named by the act's id (`codigo-do-trabalho/`): `git log --follow` and `git blame` follow the move, [`data/paths.json`](data/paths.json) maps each id to its folder (44 older acts kept theirs), and the last two commands below name the old folder.
+Each act is in `legislacao/<kind>/<year>/<number>/` (`legislacao/lei/2014/35/` is the Lei Geral do Trabalho em Funções Públicas, Lei n.º 35/2014, with its annex in `anexo/`; a number with a letter is a folder like `legislacao/decreto-lei/1981/110-a/`), one file per article; the Constitution is in [`constituicao/`](constituicao/), and the Civil Code and the Labour Code (Código do Trabalho, approved by Lei n.º 7/2009) in `codigos/codigo-civil/` and `codigos/codigo-do-trabalho/`. Until 10 November 2026 each folder was named by the act's id (`codigo-do-trabalho/`), and until 17 November 2026 the kind folders were at the top (`lei/`, `code/`): `git log --follow` and `git blame` follow the moves, [`data/paths.json`](data/paths.json) maps each id to its folder, and the last two commands below name the old folders.
 
 The text is in Portuguese, as the Diário da República's consolidated legislation prints it. An English translation is not part of this record.
 
@@ -21,9 +21,9 @@ The text is in Portuguese, as the Diário da República's consolidated legislati
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 238 of the Labour Code (length of annual leave) | `git log -p --follow --word-diff -- code/codigo-do-trabalho/artigo-238.md` |
-| Which act wrote each line of Article 238? | `git blame code/codigo-do-trabalho/artigo-238.md` |
-| Every version of the Labour Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code/codigo-do-trabalho codigo-do-trabalho` |
+| Every change to Article 238 of the Labour Code (length of annual leave) | `git log -p --follow --word-diff -- codigos/codigo-do-trabalho/artigo-238.md` |
+| Which act wrote each line of Article 238? | `git blame codigos/codigo-do-trabalho/artigo-238.md` |
+| Every version of the Labour Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codigos/codigo-do-trabalho code/codigo-do-trabalho codigo-do-trabalho` |
 | Article 238 as in force on 1 January 2012 | `python tools/em_vigor.py 2012-01-01 codigo-do-trabalho 238` |
 
 **Outside git**, we also host this record publicly, for free:
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add portugal/national/acts
-python3 tools/law.py show 2026-01-01 portugal/national/acts/code/codigo-do-trabalho/artigo-238.md
+python3 tools/law.py show 2026-01-01 portugal/national/acts/codigos/codigo-do-trabalho/artigo-238.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).

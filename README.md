@@ -11,9 +11,9 @@ O direito de Portugal como histórico git: um ficheiro por artigo, um commit por
 
 Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), um único histórico git para o direito de todos os países: este é o direito nacional de Portugal, que o global-law lê em `portugal/national/acts/`.
 
-**O que contém agora:** a Constituição, com as suas sete revisões; 34 códigos em [`code/`](code/), 29 deles com a sua história datada (o README de cada pasta indica a fonte); mais de 134 000 atos do Diário da República, 1.ª série, tal como publicados, desde 1976 e, em curso, o Diário do Governo desde 1910, com 14 163 das 23 350 leis e decretos-leis que o DR dá como em vigor (2106 delas também em texto consolidado; quase todas as 9187 em falta são atos de 1910 a 1959 que o DR só tem em PDF digitalizado); mais de 44 000 atos regulamentares da 2.ª série (regulamentos, incluindo municipais, portarias, despachos normativos, normas do Banco de Portugal e da CMVM); e jurisprudência em [`jurisprudencia/`](jurisprudencia/): mais de 294 000 acórdãos dos tribunais superiores das bases da DGSI (STJ, STA, Relações, TCA Sul e Norte, Tribunal dos Conflitos), 27 794 acórdãos do Tribunal Constitucional e mais de 10 700 decisões da arbitragem tributária do CAAD. Os README das pastas e [`data/`](data/) dão o detalhe. Os registos parlamentares da Assembleia da República, a partir dos seus dados abertos, estão em [`parlamento/`](parlamento/): iniciativas com todas as fases, intervenções em plenário, perguntas e requerimentos com as respostas, diplomas aprovados, petições (sem o nome dos peticionários), propostas de alteração ao Orçamento do Estado e o texto integral do Diário da Assembleia da República (desde 2009).
+**O que contém agora:** a Constituição, com as suas sete revisões ([`constituicao/`](constituicao/)); 34 códigos ([`codigos/`](codigos/)); o Diário da República, 1.ª série, desde 1976 e o Diário do Governo desde 1910, por tipo de ato ([`legislacao/`](legislacao/)), com 14 163 das 23 350 leis e decretos-leis em vigor; atos regulamentares da 2.ª série ([`serie-2/`](serie-2/)); mais de 330 000 decisões dos tribunais ([`jurisprudencia/`](jurisprudencia/)); e os registos da Assembleia da República ([`parlamento/`](parlamento/)). Os README das pastas e [`data/`](data/) dão o detalhe.
 
-Cada ato está em `<tipo>/<ano>/<número>/` (`lei/2014/35/` é a Lei Geral do Trabalho em Funções Públicas, Lei n.º 35/2014, com o seu anexo em `anexo/`), ou em `act/<ano>/` quando o seu número tem uma letra, com um ficheiro por artigo; a Constituição está em [`constitution/constituicao/`](constitution/constituicao/), e o Código Civil e o Código do Trabalho (aprovado pela Lei n.º 7/2009) em `code/codigo-civil/` e `code/codigo-do-trabalho/`. Até 10 de novembro de 2026, cada pasta tinha o nome do identificador do ato (`codigo-do-trabalho/`): `git log --follow` e `git blame` acompanham a mudança, [`data/paths.json`](data/paths.json) faz corresponder cada identificador à sua pasta (44 atos mais antigos mantiveram a sua) e os dois últimos comandos abaixo usam a pasta antiga.
+Cada ato está em `legislacao/<tipo>/<ano>/<número>/` (`legislacao/lei/2014/35/` é a Lei Geral do Trabalho em Funções Públicas, Lei n.º 35/2014, com o seu anexo em `anexo/`; um número com letra é uma pasta como `legislacao/decreto-lei/1981/110-a/`), com um ficheiro por artigo; a Constituição está em [`constituicao/`](constituicao/), e o Código Civil e o Código do Trabalho (aprovado pela Lei n.º 7/2009) em `codigos/codigo-civil/` e `codigos/codigo-do-trabalho/`. Até 10 de novembro de 2026, cada pasta tinha o nome do identificador do ato (`codigo-do-trabalho/`), e até 17 de novembro de 2026 as pastas de cada tipo estavam na raiz (`lei/`, `code/`): `git log --follow` e `git blame` acompanham as mudanças, [`data/paths.json`](data/paths.json) faz corresponder cada identificador à sua pasta e os dois últimos comandos abaixo usam as pastas antigas.
 
 O texto está em português, tal como a legislação consolidada do Diário da República o publica. Uma tradução para inglês não faz parte deste registo.
 
@@ -21,9 +21,9 @@ O texto está em português, tal como a legislação consolidada do Diário da R
 
 | Pergunta | Comando |
 | --- | --- |
-| Todas as alterações ao artigo 238.º do Código do Trabalho (duração do período de férias) | `git log -p --follow --word-diff -- code/codigo-do-trabalho/artigo-238.md` |
-| Que ato escreveu cada linha do artigo 238.º? | `git blame code/codigo-do-trabalho/artigo-238.md` |
-| Todas as versões do Código do Trabalho, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code/codigo-do-trabalho codigo-do-trabalho` |
+| Todas as alterações ao artigo 238.º do Código do Trabalho (duração do período de férias) | `git log -p --follow --word-diff -- codigos/codigo-do-trabalho/artigo-238.md` |
+| Que ato escreveu cada linha do artigo 238.º? | `git blame codigos/codigo-do-trabalho/artigo-238.md` |
+| Todas as versões do Código do Trabalho, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codigos/codigo-do-trabalho code/codigo-do-trabalho codigo-do-trabalho` |
 | O artigo 238.º em vigor em 1 de janeiro de 2012 | `python tools/em_vigor.py 2012-01-01 codigo-do-trabalho 238` |
 
 **Fora do git**, também disponibilizamos este registo publicamente e de forma gratuita:
@@ -40,7 +40,7 @@ Os dois assistentes leem o registo através do conector gratuito Global law (MCP
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add portugal/national/acts
-python3 tools/law.py show 2026-01-01 portugal/national/acts/code/codigo-do-trabalho/artigo-238.md
+python3 tools/law.py show 2026-01-01 portugal/national/acts/codigos/codigo-do-trabalho/artigo-238.md
 ```
 
 Aberto no Claude Code, no Cursor, no VS Code ou no Codex, o clone inicia também um servidor MCP local com as mesmas ferramentas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
