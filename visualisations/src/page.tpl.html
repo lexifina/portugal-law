@@ -1,0 +1,1302 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>O direito português em 20 gráficos</title>
+<meta name="description" content="Vinte gráficos sobre o direito português a partir do repositório portugal-law / Twenty charts on Portuguese law from the portugal-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+  --land: #e7e5df; --land-line: #fcfcfb;
+  --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+    --land: #2c2c2a; --land-line: #1a1a19;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  --land: #2c2c2a; --land-line: #1a1a19;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 var(--sans); }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 var(--sans); padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(28px, 5vw, 44px)/1.2 var(--serif); margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 780px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.15 var(--sans); font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); line-height: 1.5; display: block; margin-top: 2px; }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.25 var(--serif); margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 780px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.35 var(--serif); margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 840px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; line-height: 1.5; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid; border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, currentColor 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px var(--sans); font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.lbl.big { font-size: 12px; }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.6; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.45; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; text-align: right; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.tip .q { margin-top: 4px; color: var(--text-2); }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.4 var(--sans); }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px 18px; }
+.multi h4 { margin: 0; font: 600 13px/1.4 var(--sans); overflow-wrap: anywhere; min-height: 2.8em; display: flex; align-items: flex-end; }
+.multi p { margin: 0 0 2px; font-size: 12px; color: var(--text-2); }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.4 var(--sans); color: var(--text-2); overflow-wrap: anywhere; }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.15 var(--sans); color: var(--text); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); line-height: 1.5; }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; background: var(--surface); }
+.ptile .pbar i { display: block; }
+.sub { margin: 18px 0 4px; font: 600 13px/1.4 var(--sans); }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 15px; }
+  .multi { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
+  .ptiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Língua / Language"><button data-lang="pt">PT</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Tema / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+let LANG = 'pt';
+try { const q = new URLSearchParams(location.search).get('lang'); if (q === 'en' || q === 'pt') LANG = q; else { const s = localStorage.getItem('pt-viz-lang'); if (s === 'en' || s === 'pt') LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const t = localStorage.getItem('pt-viz-theme'); if (t === 'light' || t === 'dark') THEME = t; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const S = {
+pt: {
+  title: 'O direito português em 20 gráficos',
+  lede: 'Vinte gráficos desenhados só com os dados deste repositório: todos os atos da 1.ª série do Diário do Governo e do Diário da República desde 1910, com os seus sumários; a Constituição e os códigos com as suas versões; o Jornal Oficial da Região Autónoma da Madeira; os dados abertos da Assembleia da República; e as decisões do Tribunal Constitucional e da arbitragem tributária.',
+  profile_h: 'Perfil dos dados: o que foi usado e quão completo está',
+  tbl: 'Tabela de dados', src: 'Fonte no repositório', n: 'Registos', cover: 'Cobertura', caveat: 'Limite', ds: 'Dados',
+  foot: 'Feito a partir do repositório lexifina/portugal-law ({built}). Os números são calculados pelo script visualisations/src/prep.py a partir do histórico git, dos registos de cada ato e das tabelas extraídas por make.py; a página é montada por build.py. Todos os gráficos são descritivos: mostram o que as fontes registam, não porquê.',
+  year: 'Ano', total: 'Total', share: 'Proporção', partial: 'ano incompleto',
+  gl: 'Gráficos sobre o direito de todos os países, a partir de todo o global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. Aqui, só os de Portugal.',
+},
+en: {
+  title: 'Portuguese law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: every act of the 1.ª série (first series) of the Diário do Governo and the Diário da República since 1910, with its summary; the Constitution and the codes with their versions; the official journal of the Autonomous Region of Madeira; the Assembleia da República\'s open data; and the rulings of the Constitutional Court and of tax arbitration.',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit', ds: 'Dataset',
+  foot: 'Built from the lexifina/portugal-law repository ({built}). The numbers are computed by visualisations/src/prep.py from the git history, the record of each act and the tables make.py extracts; build.py assembles the page. All charts are descriptive: they show what the sources record, not why.',
+  year: 'Year', total: 'Total', share: 'Share', partial: 'partial year',
+  gl: 'Charts on every country\'s law, from the whole of global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. These are the charts on Portugal alone.',
+}};
+const t = k => S[LANG][k];
+const PT = () => LANG === 'pt';
+const L = (pt, en) => PT() ? pt : en;
+const NB = ' ';
+const grp = (s, sep) => s.replace(/\B(?=(\d{3})+(?!\d))/g, sep);
+// pt-PT: no separator up to four digits (2098), a no-break space from five (23 350); en: commas
+const gi = s => PT() ? (s.length > 4 ? grp(s, NB) : s) : grp(s, ',');
+const fmt = n => { if (n == null || isNaN(n)) return '–'; const v = Math.round(+n); return (v < 0 ? '−' : '') + gi(String(Math.abs(v))); };
+const dec = (v, d = 1) => { const s = Math.abs(+v).toFixed(d), [i, f] = s.split('.'); return (+v < 0 ? '−' : '') + gi(i) + (f ? (PT() ? ',' : '.') + f : ''); };
+const PS = () => PT() ? NB + '%' : '%';
+const pct = (a, b, d = 0) => b ? dec(100 * a / b, d) + PS() : '–';
+const pv = (v, d = 0) => dec(v, d) + PS();
+const yr = v => v == null || v === '' ? '–' : String(v);   // years print plain (2015), never grouped
+const plw = (n, one, many) => Math.abs(Math.round(n)) === 1 ? one : many;
+const nn = (n, pt, en) => fmt(n) + ' ' + (PT() ? plw(n, pt[0], pt[1]) : plw(n, en[0], en[1]));
+const MPT = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+const MSPT = ['jan.', 'fev.', 'mar.', 'abr.', 'mai.', 'jun.', 'jul.', 'ago.', 'set.', 'out.', 'nov.', 'dez.'];
+const MEN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const MSEN = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+const dparts = s => s.split('-').map(Number);
+const dateTxt = s => { if (!s) return '–'; const [y, m, d] = dparts(s); return PT() ? `${d} de ${MPT[m - 1]} de ${y}` : `${d} ${MEN[m - 1]} ${y}`; };
+const dateShort = s => { if (!s) return '–'; const [y, m, d] = dparts(s); return PT() ? `${d} ${MSPT[m - 1]} ${y}` : `${d} ${MSEN[m - 1]} ${y}`; };
+const dayMonth = s => { const [y, m, d] = dparts(s); return PT() ? `${d} ${MSPT[m - 1]}` : `${d} ${MSEN[m - 1]}`; };
+const dayMonthLong = s => { const [y, m, d] = dparts(s); return PT() ? `${d} de ${MPT[m - 1]}` : `${d} ${MEN[m - 1]}`; };
+const monthTxt = s => { const [y, m] = dparts(s); return PT() ? `${MPT[m - 1]} de ${y}` : `${MEN[m - 1]} ${y}`; };
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const BUILT = PF.built, YL = +BUILT.slice(0, 4);
+const andList = a => a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + L(' e ', ' and ') + a[a.length - 1];
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+const tq = s => `<div class="q">${esc(s)}</div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c).style('color', it.c); s.append('span').text(it.l); });
+  return lg;
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+  return d;
+}
+// path placeholders in the page's language
+const PH = { '<tipo>': '<kind>', '<ano>': '<year>', '<número>': '<number>', '<legislatura>': '<legislature>', '<código>': '<code>', '<mês>': '<month>', '(até 10/11/2026)': '(until 10/11/2026)', '(autor = ato)': '(author = act)', '(descritores)': '(descriptors)', '(sumário)': '(summary)', 'sumário': 'summary' };
+const phx = s => PT() ? s : Object.entries(PH).reduce((a, [k, v]) => a.split(k).join(v), s);
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(phx(s))}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+  return ax;
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const Wp = el => Math.max(120, Math.min(1000, el.node().getBoundingClientRect().width || 300));   // a small-multiple panel's own width
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function colPathDown(x, y0, w, y1, r = 4) {   // a column hanging below the baseline y0, rounded at its bottom y1
+  const h = y1 - y0; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 - r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 - r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+let HATCH = 0;
+function hatch(svg, color) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 5).attr('height', 5).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 5).attr('height', 5).attr('fill', css('--surface'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 5).attr('stroke', color || css('--muted-mark')).attr('stroke-width', 2);
+  return `url(#${id})`;
+}
+const inkOn = c => d3.hsl(c).l > 0.6 ? '#0b0b0b' : '#fff';
+const seqRamp = () => d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+const h4 = (el, txt, mt = 14) => el.append('h4').attr('class', 'sub').style('margin', `${mt}px 0 4px`).text(txt);
+// the widest of these strings in a chart's label style, in pixels (measured as drawn: the page draws again once the web fonts have loaded)
+const textW = (el, strs, cls = 'lbl strong') => { const sv = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), tx = sv.append('text').attr('class', cls);
+  const w = d3.max(strs, q => { tx.text(q); return tx.node().getComputedTextLength(); }) || 0; sv.remove(); return w; };
+const halo = (g, x, y, txt, anchor = 'start', cls = 'lbl strong', fill = null) => g.append('text').attr('class', cls).attr('x', x).attr('y', y).attr('text-anchor', anchor)
+  .style('fill', fill).style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round').text(txt);
+// rows of 100% bands with rounded ends and the shares inside
+function bands(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 34;
+  const lw = Math.min(nw ? 150 : 320, textW(el, rows.map(r => opt.label(r, nw))) + 14), rw = Math.max(44, textW(el, rows.map(r => opt.right(r, nw)), 'lbl strong') + 14);
+  const m = { t: 4, r: rw, b: 22, l: lw };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  [0, .25, .5, .75, 1].forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(opt.label(r, nw));
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      if (x1 - x0 > (opt.minIn || 34)) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(colors[j])).style('pointer-events', 'none').text(pct(v, tot));
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(opt.right(r, nw));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + (opt.tipExtra ? opt.tipExtra(d) : trow(null, t('total'), fmt(tot))));
+  });
+  return { svg, g, iw };
+}
+// stacked columns, keys bottom-up; the top segment gets the rounded end, 1px surface gaps
+function stackedColumns(el, rows, keys, colors, names, opt = {}) {
+  const w = W(el), h = opt.h || 300, m = { t: opt.mt || 14, r: 8, b: 26, l: opt.ml || 44 };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b;
+  const x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(opt.pad == null ? 0.25 : opt.pad);
+  const tot = r => keys.reduce((s, k) => s + (r[k] || 0), 0);
+  const y = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).nice().range([ih, 0]);
+  if (opt.under) opt.under(g, x, y, iw, ih);
+  yAxis(g, y, iw, opt.ticks || 5, opt.yf);
+  const bw = Math.min(opt.bw || 24, x.bandwidth());
+  rows.forEach(r => {
+    let acc = 0; const segs = keys.map((k, i) => ({ k, i, v: r[k] || 0 })).filter(s => s.v > 0);
+    const gx = x(r.y) + (x.bandwidth() - bw) / 2;
+    segs.forEach((s, j) => {
+      const y0 = y(Math.min(acc, y.domain()[1])), y1 = y(Math.min(acc + s.v, y.domain()[1])); acc += s.v;
+      const gap = j && bw > 3 ? 1 : 0, top = j === segs.length - 1;
+      const yy0 = y0 - gap, yy1 = top ? y1 : y1 + (bw > 3 ? 1 : 0);
+      if (yy0 - yy1 < 0.5) return;
+      g.append('path').attr('d', top ? colPath(gx, yy0, bw, yy1, Math.min(4, bw / 3)) : `M${gx},${yy0}V${yy1}H${gx + bw}V${yy0}Z`).attr('fill', colors[s.i]).attr('opacity', opt.partial && opt.partial(r) ? 0.5 : 1);
+    });
+    if (opt.topLabel) g.append('text').attr('class', 'lbl').attr('x', gx + bw / 2).attr('y', y(Math.min(tot(r), y.domain()[1])) - 5).attr('text-anchor', 'middle').text(opt.topLabel(r));
+  });
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  const every = opt.every || Math.ceil(rows.length / Math.max(4, Math.floor(iw / 44)));
+  rows.forEach((r, i) => { if (opt.tick ? opt.tick(r, i) : (i % every === 0)) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(opt.xf ? opt.xf(r.y) : r.y); });
+  bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+    r => opt.tip ? opt.tip(r) : `<b>${opt.xf ? opt.xf(r.y) : r.y}${opt.partial && opt.partial(r) ? ' (' + t('partial') + ')' : ''}</b>` + keys.map((k, i) => (r[k] ? trow(colors[i], names[i], fmt(r[k]) + (opt.noShare ? '' : ` · ${pct(r[k], tot(r))}`)) : '')).reverse().join('') + trow(null, t('total'), fmt(tot(r))));
+  return { svg, g, x, y, iw, ih, bw, m };
+}
+// shaded periods on a band scale of years: [key, from (yyyy-mm-dd), to] -> pixel x of a day
+function yearX(x, s) { const [y, m, d] = dparts(s); const doy = (Date.UTC(y, m - 1, d) - Date.UTC(y, 0, 1)) / 86400000; return x(y) == null ? null : x(y) - x.step() * x.paddingInner() / 2 + x.step() * doy / 365; }
+function periodBands(g, x, ih, periods, opt = {}) {
+  const gg = g.insert('g', ':first-child');
+  const dom = x.domain();
+  periods.forEach(([name, a, b], i) => {
+    const ya = Math.max(+a.slice(0, 4), dom[0]), yb = Math.min(+(b || BUILT).slice(0, 4), dom[dom.length - 1]);
+    const xa = +a.slice(0, 4) < dom[0] ? 0 : yearX(x, a), xb = !b || +b.slice(0, 4) > dom[dom.length - 1] ? x.range()[1] : yearX(x, b);
+    if (xa == null || xb == null || xb - xa < 1) return;
+    if (i % 2 === 0) gg.append('rect').attr('x', xa).attr('y', opt.top || 0).attr('width', xb - xa).attr('height', ih - (opt.top || 0)).attr('fill', css('--surface-2'));
+    const labs = [].concat(name).filter(Boolean);
+    for (const lab of labs) {
+      if (xb - xa <= 26) break;
+      const tx = gg.append('text').attr('class', 'lbl mut').attr('x', (xa + xb) / 2).attr('y', (opt.top || 0) + 12).attr('text-anchor', 'middle').text(lab);
+      if (tx.node().getComputedTextLength() <= xb - xa - 6) break;
+      tx.remove();
+    }
+  });
+  return gg;
+}
+
+// ------------------------------------------------------------------ names
+const REGN = { rep1: ['1.ª República', 'First Republic'], dit: ['Ditadura Militar', 'Military Dictatorship'], en: ['Estado Novo', 'Estado Novo'],
+  rev: ['Revolução', 'Revolution'], dem: ['Democracia', 'Democracy'] };
+const REGS = () => [[L(...REGN.rep1), '1910-10-05', '1926-05-28'], [[L(...REGN.dit), L('Ditadura', 'Dictatorship'), L('Dit.', 'Dict.')], '1926-05-28', '1933-04-11'],
+  [L(...REGN.en), '1933-04-11', '1974-04-25'], [['', ''], '1974-04-25', '1976-04-25'], [[L('Democracia (Constituição de 1976)', 'Democracy (1976 Constitution)'), L(...REGN.dem)], '1976-04-25', null]];
+const KIND1 = { lei: ['Leis', 'Laws'], dl: ['Decretos-leis', 'Decree-laws'], dec: ['Decretos', 'Decrees'], port: ['Portarias', 'Ministerial orders (portarias)'],
+  res: ['Resoluções', 'Resolutions'], aviso: ['Avisos e declarações', 'Notices and declarations'], ret: ['Retificações', 'Rectifications'], other: ['Outros', 'Other'] };
+const TERRN = { AO: ['Angola', 'Angola'], MZ: ['Moçambique', 'Mozambique'], GW: ['Guiné', 'Guinea'], CV: ['Cabo Verde', 'Cape Verde'], ST: ['São Tomé e Príncipe', 'São Tomé and Príncipe'],
+  TL: ['Timor', 'Timor'], MO: ['Macau', 'Macau'], IN: ['Estado da Índia (Goa, Damão, Diu)', 'Portuguese India (Goa, Daman, Diu)'] };
+const TERRS = { AO: ['Angola', 'Angola'], MZ: ['Moçambique', 'Mozambique'], GW: ['Guiné', 'Guinea'], CV: ['Cabo Verde', 'Cape Verde'], ST: ['S. Tomé', 'São Tomé'],
+  TL: ['Timor', 'Timor'], MO: ['Macau', 'Macau'], IN: ['Índia', 'India'] };
+const CODEN = {
+  'codigo-civil': ['Código Civil', 'Civil Code'], 'codigo-penal': ['Código Penal', 'Penal Code'], 'lei-geral-tributaria': ['Lei Geral Tributária', 'General Tax Law'],
+  'codigo-do-imposto-do-selo': ['Código do Imposto do Selo', 'Stamp Duty Code'], 'codigo-dos-valores-mobiliarios': ['Código dos Valores Mobiliários', 'Securities Code'],
+  'codigo-de-processo-penal': ['Código de Processo Penal', 'Code of Criminal Procedure'], 'codigo-do-registo-comercial': ['Código do Registo Comercial', 'Commercial Registry Code'],
+  'codigo-de-procedimento-e-de-processo-tributario': ['Código de Procedimento e de Processo Tributário', 'Tax Procedure Code'],
+  'codigo-das-sociedades-comerciais': ['Código das Sociedades Comerciais', 'Companies Code'], 'codigo-do-imi-e-do-imt': ['Códigos do IMI e do IMT', 'Property tax codes (IMI, IMT)'],
+  'codigo-do-registo-predial': ['Código do Registo Predial', 'Land Registry Code'], 'codigo-do-isv-e-do-iuc': ['Códigos do ISV e do IUC', 'Vehicle tax codes (ISV, IUC)'],
+  'codigo-do-registo-civil': ['Código do Registo Civil', 'Civil Registry Code'], 'codigo-da-estrada': ['Código da Estrada', 'Highway Code'],
+  'codigo-do-notariado': ['Código do Notariado', 'Notaries Code'], 'codigo-do-trabalho': ['Código do Trabalho', 'Labour Code'],
+  'codigo-dos-contratos-publicos': ['Código dos Contratos Públicos', 'Public Contracts Code'], 'codigo-contributivo': ['Código Contributivo', 'Social Security Contributions Code'],
+  'codigo-do-direito-de-autor': ['Código do Direito de Autor', 'Copyright Code'], 'codigo-da-insolvencia-e-da-recuperacao-de-empresas': ['Código da Insolvência', 'Insolvency Code'],
+  'codigo-de-processo-civil': ['Código de Processo Civil', 'Code of Civil Procedure'], 'codigo-de-processo-do-trabalho': ['Código de Processo do Trabalho', 'Labour Procedure Code'],
+  'codigo-de-processo-nos-tribunais-administrativos': ['Código de Processo nos Tribunais Administrativos', 'Administrative Courts Procedure Code'],
+  'codigo-da-execucao-das-penas': ['Código da Execução das Penas', 'Code on the Execution of Sentences'], 'codigo-das-expropriacoes': ['Código das Expropriações', 'Expropriation Code'],
+  'codigo-da-propriedade-industrial': ['Código da Propriedade Industrial', 'Industrial Property Code'], 'codigo-cooperativo': ['Código Cooperativo', 'Cooperatives Code'],
+  'codigo-do-procedimento-administrativo': ['Código do Procedimento Administrativo', 'Administrative Procedure Code'], 'codigo-de-justica-militar': ['Código de Justiça Militar', 'Military Justice Code'] };
+const codeName = k => CODEN[k] ? L(...CODEN[k]) : k;
+const PARTY = { PCP: ['PCP', 'PCP (Communists)'], PS: ['PS', 'PS (Socialists)'], PSD: ['PSD', 'PSD (Social Democrats)'], BE: ['BE', 'BE (Left Bloc)'],
+  'CDS-PP': ['CDS-PP', 'CDS-PP (Christian Democrats)'], PAN: ['PAN', 'PAN'], CH: ['Chega', 'Chega'], PEV: ['PEV (Os Verdes)', 'PEV (Greens)'], IL: ['IL', 'IL (Liberals)'],
+  L: ['Livre', 'Livre'], PRD: ['PRD', 'PRD'], ASDI: ['ASDI', 'ASDI'], PPM: ['PPM', 'PPM (Monarchists)'], JPP: ['JPP', 'JPP'] };
+const partyName = (p, short) => PARTY[p] ? (short ? PARTY[p][0] : L(...PARTY[p])) : p;
+const legYears = r => r.span[1] ? `${r.span[0].slice(0, 4)}–${r.span[1].slice(2, 4)}` : `${r.span[0].slice(0, 4)}–`;
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, pt, en, dpt, den) => CH.push({ part: true, id, pt, en, dpt, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+part('p1', 'I. O jornal oficial, 1910–2026', 'I. The official gazette, 1910–2026',
+  'Todos os atos publicados na 1.ª série do Diário do Governo e, desde 1976, do Diário da República que o repositório guarda, cada um com o seu sumário; e o jornal oficial da Madeira.',
+  'Every act published in the 1.ª série (first series) of the Diário do Governo and, since 1976, of the Diário da República that the repository holds, each with its summary; and the official journal of Madeira.');
+
+chart('c01', el => {
+  const c = D.c01, keys = ['lei', 'dl', 'dec', 'port', 'res', 'aviso', 'ret', 'other'];
+  const rows = c.rows, tot = r => sum(keys, k => r[k] || 0), N = sum(rows, tot);
+  const mx = rows.reduce((a, b) => tot(b) > tot(a) ? b : a);
+  const sh = k => sum(rows, r => r[k] || 0);
+  const p70 = rows.filter(r => r.y >= 1976 && r.y <= 2010), p11 = rows.filter(r => r.y >= 2011 && r.y < YL);
+  const avg = (rs, f) => sum(rs, f) / rs.length;
+  return {
+    title: L(`A 1.ª série, 1910–${YL}: ${fmt(N)} atos, com o máximo em ${mx.y} (${fmt(tot(mx))})`, `The 1.ª série, 1910–${YL}: ${fmt(N)} acts, the most in ${mx.y} (${fmt(tot(mx))})`),
+    toc: L('A 1.ª série ano a ano', 'The 1.ª série year by year'),
+    dek: L(`Cada coluna é um ano de atos publicados na 1.ª série, por tipo. As portarias são o tipo mais frequente (${pct(sh('port'), N)} de todos), seguidas dos decretos (${pct(sh('dec'), N)}) e dos decretos-leis (${pct(sh('dl'), N)}); as leis são ${pct(sh('lei'), N)}. De 1976 a 2010 saíram em média ${fmt(avg(p70, tot))} atos por ano; de 2011 a ${YL - 1}, ${fmt(avg(p11, tot))}.`,
+      `Each column is one year of acts published in the 1.ª série, by kind. Ministerial orders (portarias) are the most common kind (${pct(sh('port'), N)} of all), then decrees (${pct(sh('dec'), N)}) and decree-laws (${pct(sh('dl'), N)}); laws are ${pct(sh('lei'), N)}. From 1976 to 2010 an average of ${fmt(avg(p70, tot))} acts a year came out; from 2011 to ${YL - 1}, ${fmt(avg(p11, tot))}.`),
+    draw(el) {
+      const cols = S8(), colors = [css('--text'), cols[0], cols[6], cols[3], cols[2], cols[4], cols[1], css('--muted-mark')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...KIND1[k]) })));
+      const w = W(el), nw = narrow(w);
+      stackedColumns(el, rows, keys, colors, keys.map(k => L(...KIND1[k])), { h: nw ? 280 : 340, pad: 0.12, bw: 9, mt: 22, partial: r => r.y === YL,
+        tick: (r, i) => r.y % (nw ? 25 : 10) === 0, under: (g, x, y, iw, ih) => periodBands(g, x, ih, REGS(), { top: -18 }) });
+      note(el, ['<tipo>/<ano>/<número>/record.json', 'act/<ano>/', 'git log (Law:, Published:)'], fmt(N) + L(' atos', ' acts'),
+        L(`atos da 1.ª série do Diário do Governo (desde 5 de outubro de 1910) e do Diário da República, unidos pelo nome e dia de publicação a partir dos registos com texto, dos registos só com metadados e dos textos consolidados em vigor. O tipo é o do nome do ato; "outros" inclui decretos do Presidente da República, despachos e decretos regulamentares. Antes de 1991 as retificações são declarações que dizem "De ter sido rectificado". ${YL} vai até ${dateTxt(BUILT)} (mais claro).`,
+          `acts of the 1.ª série of the Diário do Governo (from 5 October 1910) and of the Diário da República, united by name and day of publication from the records with text, the metadata-only records and the consolidated texts in force. The kind is the act's name; "other" includes decrees of the President of the Republic, despachos and regulatory decrees. Before 1991 rectifications are declarations that say "De ter sido rectificado". ${YL} runs to ${dateTxt(BUILT)} (lighter).`));
+      table(el, [t('year'), ...keys.map(k => L(...KIND1[k])), t('total')], rows.map(r => [yr(r.y), ...keys.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+chart('c02', el => {
+  const c = D.c02, R = c.regimes, rg = k => R.find(r => r.k === k), en = rg('en'), dm = rg('dem'), r1 = rg('rep1');
+  const ratio = r => r.laws ? r.dls / r.laws : null;
+  return {
+    title: L(`Quem faz a lei: no Estado Novo, ${dec(ratio(en), 0)} decretos-leis por cada lei; em democracia, ${dec(ratio(dm), 1)}`, `Who makes the law: under the Estado Novo, ${dec(ratio(en), 0)} decree-laws for each law; in democracy, ${dec(ratio(dm), 1)}`),
+    toc: L('Leis e decretos-leis', 'Laws and decree-laws'),
+    dek: L(`As leis vêm do parlamento; os decretos-leis, do Governo. Na 1.ª República houve ${fmt(r1.laws)} leis e nenhum decreto-lei. O primeiro decreto-lei saiu a ${dateTxt(c.first_dl[1])}, o dia em que o Diário do Governo publicou o apuramento do plebiscito da Constituição de 1933; o Estado Novo publicou ${fmt(en.dls)} decretos-leis e ${fmt(en.laws)} leis. Desde 1976, ${fmt(dm.dls)} decretos-leis e ${fmt(dm.laws)} leis.`,
+      `Laws come from parliament; decree-laws from the Government. The First Republic had ${fmt(r1.laws)} laws and no decree-law. The first decree-law came out on ${dateTxt(c.first_dl[1])}, the day the Diário do Governo published the count of the plebiscite on the 1933 Constitution; the Estado Novo published ${fmt(en.dls)} decree-laws and ${fmt(en.laws)} laws. Since 1976, ${fmt(dm.dls)} decree-laws and ${fmt(dm.laws)} laws.`),
+    draw(el) {
+      const cols = S8(), cl = cols[7], cd = cols[0];
+      legend(el, [{ c: cl, l: L('Leis (do parlamento)', 'Laws (parliament)') }, { c: cd, l: L('Decretos-leis (do Governo)', 'Decree-laws (Government)') }]);
+      const cards = el.append('div').attr('class', 'ptiles');
+      R.forEach(r => {
+        const d = cards.append('div').attr('class', 'ptile'), lpy = r.laws / r.yrs, dpy = r.dls / r.yrs;
+        d.append('div').attr('class', 'pn').text(`${L(...REGN[r.k])} · ${r.from.slice(0, 4)}–${r.to ? r.to.slice(0, 4) : ''}`);
+        d.append('div').attr('class', 'pv').html(r.laws && r.dls ? `<b>${dec(ratio(r), ratio(r) < 10 ? 1 : 0)}</b> ${L('decretos-leis por lei', 'decree-laws per law')}` : (r.dls ? `<b>${fmt(r.dls)}</b> ${L('decretos-leis', 'decree-laws')}` : `<b>${fmt(r.laws)}</b> ${plw(r.laws, L('lei', 'law'), L('leis', 'laws'))}`));
+        d.append('div').attr('class', 'ps').text(L(`${dec(lpy, lpy < 10 ? 1 : 0)} leis e ${dec(dpy, 0)} decretos-leis por ano`, `${dec(lpy, lpy < 10 ? 1 : 0)} laws and ${dec(dpy, 0)} decree-laws a year`));
+        const bar = d.append('div').attr('class', 'pbar');
+        if (r.laws) bar.append('i').style('flex', r.laws).style('background', cl);
+        if (r.dls) bar.append('i').style('flex', r.dls).style('background', cd);
+      });
+      const rows = c.rows.map(([y, l, d]) => ({ y, l, d }));
+      const w = W(el), nw = narrow(w), h = nw ? 300 : 360, m = { t: 22, r: 8, b: 24, l: 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(0.15);
+      const mx = d3.max(rows, r => Math.max(r.l, r.d));
+      const y = d3.scaleLinear().domain([-mx, mx]).nice().range([ih, 0]);
+      periodBands(g, x, ih, REGS(), { top: -18 });
+      const ax = g.append('g').attr('class', 'axis grid');
+      y.ticks(6).forEach(v => { ax.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(v)).attr('y2', y(v)); ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(fmt(Math.abs(v))); });
+      const bw = Math.max(1, x.bandwidth());
+      rows.forEach(r => {
+        const op = r.y === YL ? .5 : 1;
+        if (r.l) g.append('path').attr('d', colPath(x(r.y), y(0), bw, y(r.l), Math.min(3, bw / 3))).attr('fill', cl).attr('opacity', op);
+        if (r.d) g.append('path').attr('d', colPathDown(x(r.y), y(0), bw, y(-r.d), Math.min(3, bw / 3))).attr('fill', cd).attr('opacity', op);
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', y(0)).attr('y2', y(0));
+      rows.forEach(r => { if (r.y % (nw ? 25 : 10) === 0) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + bw / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(r.y); });
+      halo(g, 4, y(mx * .82), L('leis ↑', 'laws ↑'), 'start', 'lbl strong', cl);
+      halo(g, 4, y(-mx * .82), L('decretos-leis ↓', 'decree-laws ↓'), 'start', 'lbl strong', cd);
+      const f = c.first_dl, fx = yearX(x, f[1]);
+      if (!nw) g.append('line').attr('x1', fx).attr('x2', fx).attr('y1', y(0) + 2).attr('y2', y(-mx * .62)).attr('stroke', css('--text-3')).attr('stroke-dasharray', '2 3');
+      if (!nw) halo(g, fx - 5, y(-mx * .62) + 4, L(`1.º decreto-lei: ${dateShort(f[1])}`, `1st decree-law: ${dateShort(f[1])}`), 'end', 'lbl');
+      bindTip(g.append('g').selectAll('rect').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+        r => `<b>${r.y}${r.y === YL ? ' (' + t('partial') + ')' : ''}</b>` + trow(cl, L('Leis', 'Laws'), fmt(r.l)) + trow(cd, L('Decretos-leis', 'Decree-laws'), fmt(r.d)));
+      note(el, ['lei/', 'lei-organica/', 'lei-constitucional/', 'decreto-lei/', 'act/', 'git log (Law:, Published:)'], fmt(sum(rows, r => r.l + r.d)) + L(' leis e decretos-leis', ' laws and decree-laws'),
+        L(`leis inclui leis orgânicas e leis constitucionais; o ano é o da publicação. Os períodos começam a 5 de outubro de 1910, 28 de maio de 1926, 11 de abril de 1933, 25 de abril de 1974 e 25 de abril de 1976. Na 1.ª República, o Governo legislava também por decretos, que aqui não contam.`,
+          `laws include organic and constitutional laws; the year is that of publication. The periods begin on 5 October 1910, 28 May 1926, 11 April 1933, 25 April 1974 and 25 April 1976. Under the First Republic the Government also legislated by decrees, which are not counted here.`));
+      table(el, [t('year'), L('Leis', 'Laws'), L('Decretos-leis', 'Decree-laws')], rows.map(r => [yr(r.y), r.l, r.d]));
+    }
+  };
+});
+
+// the world map, loaded once
+let WORLD = null, WORLDP = null;
+const worldP = () => WORLD ? Promise.resolve(WORLD) : (WORLDP = WORLDP || d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-50m.json').then(tt => (WORLD = tt)));
+const TID = { AO: '024', MZ: '508', GW: '624', CV: '132', ST: '678', TL: '626', MO: '446' };
+const TPOS = { AO: [17.5, -12.3], MZ: [35.5, -17.5], GW: [-15.2, 12.0], CV: [-23.9, 15.6], ST: [6.6, 0.3], TL: [125.9, -8.8], MO: [113.55, 22.17], IN: [73.9, 15.3] };
+chart('c03', el => {
+  const c = D.c03, Y = c.years, colo = Y.filter(r => r[0] <= 1975);
+  const tot = k => sum(Object.entries(c.terr[k]).filter(([y]) => +y <= 1975), e => e[1]);
+  const peak = Y.filter(r => r[1] >= 500).reduce((a, b) => b[2] / b[1] > a[2] / a[1] ? b : a);
+  const r80 = Y.find(r => r[0] === 1980), r99 = Y.find(r => r[0] === 1999);
+  const order = Object.keys(TERRN).sort((a, b) => tot(b) - tot(a));
+  return {
+    title: L(`O Ultramar no Diário: ${pct(peak[2], peak[1])} dos sumários de ${peak[0]} nomeiam um território ultramarino ou as colónias; ${pct(r80[2], r80[1], 1)} em 1980`, `The overseas empire in the gazette: ${pct(peak[2], peak[1])} of the summaries of ${peak[0]} name an overseas territory or the colonies; ${pct(r80[2], r80[1], 1)} in 1980`),
+    toc: L('O Ultramar', 'The overseas empire'),
+    dek: L(`Cada território ultramarino pelo número de atos da 1.ª série que o nomeiam no sumário, de 1910 a 1975; em baixo, por ano, a parte dos sumários que nomeia um território ou fala de "ultramar" ou "colónias". ${L(...TERRN[order[0]])} é o mais nomeado (${fmt(tot(order[0]))} atos). Em 1999, ${fmt(c.terr.MO[1999] || 0)} atos nomeiam Macau e a parte volta a ${pct(r99[2], r99[1], 1)}.`,
+      `Each overseas territory by the number of 1.ª série acts that name it in their summary, 1910 to 1975; below, by year, the share of summaries that name a territory or speak of the "ultramar" (overseas) or the "colonies". ${L(...TERRN[order[0]])} is named most (${fmt(tot(order[0]))} acts). In 1999, ${fmt(c.terr.MO[1999] || 0)} acts name Macau and the share rises again to ${pct(r99[2], r99[1], 1)}.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), ramp = seqRamp(), mxT = d3.max(order, tot);
+      const col = v => ramp(0.25 + 0.75 * Math.sqrt(v / mxT));
+      const mh = nw ? 230 : 420, box = el.append('div').attr('class', 'plot');
+      const svg = box.append('svg').attr('viewBox', `0 0 ${w} ${mh}`).attr('width', w).attr('height', mh).attr('role', 'img').style('overflow', 'hidden');
+      const msg = svg.append('text').attr('class', 'lbl mut').attr('x', w / 2).attr('y', mh / 2).attr('text-anchor', 'middle').text(L('a carregar o mapa…', 'loading the map…'));
+      worldP().then(world => {
+        msg.remove();
+        const land = topojson.feature(world, world.objects.countries);
+        // a label kept inside the map: moved to the other side of its point when it would run past an edge
+        const inMap = (lx, ly, lab, an, cls, px0) => {
+          const tw = textW(el, [lab], cls);
+          let x0 = an === 'end' ? lx - tw : an === 'middle' ? lx - tw / 2 : lx;
+          if (x0 < 2) { lx = Math.max(px0 + 8, 2); an = 'start'; x0 = lx; }
+          if (x0 + tw > w - 2) { lx = Math.min(px0 - 8, w - 2); an = 'end'; }
+          return halo(svg, lx, ly, lab, an, cls);
+        };
+        const proj = d3.geoNaturalEarth1().fitExtent([[6, 6], [w - 6, mh - 6]], { type: 'MultiPoint', coordinates: [[-26, 43], [128, 43], [-26, -30], [128, -30]] });
+        const path = d3.geoPath(proj);
+        svg.append('g').selectAll('path').data(land.features).join('path').attr('d', path).attr('fill', d => d.id === '620' ? css('--muted-mark') : css('--land')).attr('stroke', css('--land-line')).attr('stroke-width', .5);
+        const fill = svg.append('g');
+        Object.entries(TID).forEach(([k, id]) => { const f = land.features.find(x => x.id === id); if (f) fill.append('path').datum(f).attr('d', path).attr('fill', col(tot(k))).attr('stroke', css('--surface')).attr('stroke-width', .6); });
+        const small = ['CV', 'ST', 'MO', 'IN', 'GW', 'TL'];
+        const L1 = { AO: [8, 6, 'start'], MZ: [10, 4, 'start'], GW: [-12, 18, 'end'], CV: [-10, -10, 'end'], ST: [-12, 14, 'end'], TL: [0, 22, 'middle'], MO: [8, -10, 'start'], IN: [-10, 6, 'end'] };
+        order.forEach(k => {
+          const [px, py] = proj(TPOS[k]);
+          if (small.includes(k)) svg.append('circle').attr('cx', px).attr('cy', py).attr('r', nw ? 4 : 6).attr('fill', k === 'IN' ? col(tot(k)) : 'none').attr('stroke', col(tot(k))).attr('stroke-width', 2).attr('fill-opacity', k === 'IN' ? .9 : 0);
+          const [dx, dy, an] = L1[k];
+          const lab = nw ? L(...TERRS[k]) : `${L(...TERRS[k])} · ${fmt(tot(k))}`;
+          inMap(px + dx * (nw ? .7 : 1), py + dy * (nw ? .8 : 1), lab, an, nw ? 'lbl' : 'lbl strong', px);
+          bindTip(svg.append('circle').attr('class', 'hit').attr('cx', px).attr('cy', py).attr('r', 16).datum(k),
+            kk => `<b>${esc(L(...TERRN[kk]))}</b>` + trow(col(tot(kk)), L('Atos que o nomeiam, 1910–1975', 'Acts naming it, 1910–1975'), fmt(tot(kk))) + trow(null, L('Desde 1976', 'Since 1976'), fmt(sum(Object.entries(c.terr[kk]).filter(([y]) => +y > 1975), e => e[1]))));
+        });
+        const [lx, ly] = proj([-9, 39.5]);
+        inMap(lx - 6, ly - 8, 'Portugal', 'end', 'lbl mut', lx);
+      }).catch(() => msg.text(L('mapa indisponível (sem ligação à internet)', 'map unavailable (no internet connection)')));
+      h4(el, L('Parte dos sumários de cada ano que nomeia um território ultramarino ou as colónias', 'Share of each year\'s summaries naming an overseas territory or the colonies'), 10);
+      const rows = Y.map(([y, n, any, terr]) => ({ y, s: n ? any / n : 0, n, any }));
+      const h = nw ? 180 : 220, m = { t: 14, r: 8, b: 24, l: 40 }, svg2 = svgIn(el, w, h), g = svg2.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(.15);
+      const y = d3.scaleLinear().domain([0, d3.max(rows, r => r.s)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      rows.forEach(r => { if (r.s > 0) g.append('path').attr('d', colPath(x(r.y), ih, x.bandwidth(), y(r.s), 2)).attr('fill', r.y <= 1975 ? css('--s1') : css('--s2')).attr('opacity', r.y === YL ? .5 : 1); });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      rows.forEach(r => { if (r.y % (nw ? 25 : 10) === 0) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(r.y); });
+      halo(g, x(peak[0]) + x.bandwidth() / 2, y(peak[2] / peak[1]) - 6, `${peak[0]}: ${pct(peak[2], peak[1])}`, 'middle', 'lbl strong');
+      halo(g, x(1999) + x.bandwidth() / 2, y(r99[2] / r99[1]) - 6, nw ? '1999' : L('1999: Macau', '1999: Macau'), 'middle', 'lbl strong');
+      bindTip(g.append('g').selectAll('rect').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+        r => `<b>${r.y}${r.y === YL ? ' (' + t('partial') + ')' : ''}</b>` + trow(null, L('Sumários', 'Summaries'), fmt(r.n)) + trow(null, L('Que nomeiam o Ultramar', 'Naming the overseas'), `${fmt(r.any)} · ${pct(r.any, r.n, 1)}`) +
+          Object.keys(TERRN).map(k => c.terr[k][r.y] ? trow(null, L(...TERRS[k]), fmt(c.terr[k][r.y])) : '').join(''));
+      note(el, ['git log (Law:, Published:, sumário)', 'world-atlas 2.0.2'], fmt(sum(Y, r => r[1])) + L(' sumários', ' summaries'),
+        L('um sumário nomeia um território quando contém o seu nome (Angola, Moçambique, Guiné, Cabo Verde, São Tomé, Timor, Macau; Estado da Índia, Goa, Damão ou Diu); as barras contam também "ultramar", "colónia(s)", "colonial" e "província(s) ultramarina(s)". Um ato pode nomear vários territórios. O mapa conta 1910–1975; os territórios pequenos têm um círculo.',
+          'a summary names a territory when it contains its name (Angola, Moçambique, Guiné, Cabo Verde, São Tomé, Timor, Macau; Estado da Índia, Goa, Damão or Diu); the bars also count "ultramar", "colónia(s)", "colonial" and "província(s) ultramarina(s)". An act may name several territories. The map counts 1910–1975; small territories have a circle.'));
+      table(el, [t('year'), L('Sumários', 'Summaries'), L('Ultramar', 'Overseas'), ...Object.keys(TERRN).map(k => L(...TERRS[k]))], Y.map(([y, n, any]) => [yr(y), n, any, ...Object.keys(TERRN).map(k => c.terr[k][y] || 0)]));
+    }
+  };
+});
+
+chart('c04', el => {
+  const c = D.c04, rows = c.rows.filter(r => r[0] >= 1970).map(([y, n, p]) => ({ y, n, p }));
+  const mxn = rows.reduce((a, b) => b.n > a.n ? b : a), np = sum(rows, r => r.p), nn_ = sum(rows, r => r.n);
+  const pr = rows.filter(r => r.p), p1 = pr[0], mxp = rows.reduce((a, b) => b.p > a.p ? b : a);
+  const ex = {}; ['n', 'p'].forEach(k => c.ex[k].forEach(e => { const y = +e[0].slice(0, 4); (ex[k + y] = ex[k + y] || []).push(e); }));
+  return {
+    title: L(`Nacionalizar e privatizar: ${fmt(mxn.n)} atos sobre nacionalizações em ${mxn.y}; ${fmt(np)} sobre (re)privatizações desde ${p1.y}`, `Nationalise and privatise: ${fmt(mxn.n)} acts on nationalisation in ${mxn.y}; ${fmt(np)} on (re)privatisation since ${p1.y}`),
+    toc: L('Nacionalizar e privatizar', 'Nationalise and privatise'),
+    dek: L(`Para cima, os decretos-leis, leis, decretos e resoluções cujo sumário fala de nacionalização; para baixo, os que falam de privatização ou reprivatização. A vaga de ${mxn.y} começa a 14 de março com a banca (Decreto-Lei n.º 132-A/75) e os seguros; a de (re)privatizações chega a ${fmt(mxp.p)} atos em ${mxp.y}.`,
+      `Upwards, the decree-laws, laws, decrees and resolutions whose summary speaks of nationalisation; downwards, those that speak of privatisation or reprivatisation. The ${mxn.y} wave begins on 14 March with the banks (Decreto-Lei n.º 132-A/75) and insurers; the (re)privatisation wave reaches ${fmt(mxp.p)} acts in ${mxp.y}.`),
+    draw(el) {
+      const cols = S8(), cn = cols[1], cp = cols[0];
+      legend(el, [{ c: cn, l: L('Nacionalização', 'Nationalisation') }, { c: cp, l: L('Privatização ou reprivatização', 'Privatisation or reprivatisation') }]);
+      const w = W(el), nw = narrow(w), h = nw ? 300 : 340, m = { t: 14, r: 8, b: 24, l: 34 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(.18);
+      const mx = d3.max(rows, r => Math.max(r.n, r.p)), y = d3.scaleLinear().domain([-mx, mx]).nice().range([ih, 0]);
+      const ax = g.append('g').attr('class', 'axis grid');
+      y.ticks(6).forEach(v => { ax.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(v)).attr('y2', y(v)); ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(fmt(Math.abs(v))); });
+      const bw = x.bandwidth();
+      rows.forEach(r => {
+        const op = r.y === YL ? .5 : 1;
+        if (r.n) g.append('path').attr('d', colPath(x(r.y), y(0), bw, y(r.n), 2)).attr('fill', cn).attr('opacity', op);
+        if (r.p) g.append('path').attr('d', colPathDown(x(r.y), y(0), bw, y(-r.p), 2)).attr('fill', cp).attr('opacity', op);
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', y(0)).attr('y2', y(0));
+      rows.forEach(r => { if (r.y % (nw ? 10 : 5) === 0) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + bw / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(r.y); });
+      halo(g, x(mxn.y) + bw + 4, y(mxn.n) + 10, `${mxn.y}: ${fmt(mxn.n)}`, 'start', 'lbl strong', cn);
+      halo(g, x(mxp.y) + bw / 2, y(-mxp.p) + 14, `${mxp.y}: ${fmt(mxp.p)}`, 'middle', 'lbl strong', cp);
+      const exl = (k, yy) => (ex[k + yy] || []).slice(0, 3).map(e => `<div class="q">${esc(e[1])}: ${esc(e[2].slice(0, 110))}${e[2].length > 110 ? '…' : ''}</div>`).join('');
+      bindTip(g.append('g').selectAll('rect').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+        r => `<b>${r.y}</b>` + trow(cn, L('Nacionalização', 'Nationalisation'), fmt(r.n)) + exl('n', r.y) + trow(cp, L('(Re)privatização', '(Re)privatisation'), fmt(r.p)) + exl('p', r.y));
+      note(el, ['git log (Law:, Published:, sumário)'], fmt(nn_ + np) + L(' atos', ' acts'),
+        L('um ato conta quando o seu sumário contém "nacionaliza…" (fora "mercadorias nacionais ou nacionalizadas", um termo aduaneiro, "não nacionalizadas" e "desnacionaliza…") ou "privatiza…"/"reprivatiza…"; incluem-se os atos sobre empresas nacionalizadas e indemnizações. Um ato pode contar nos dois lados.',
+          'an act counts when its summary contains "nacionaliza…" (except "mercadorias nacionais ou nacionalizadas", a customs term, "não nacionalizadas" and "desnacionaliza…") or "privatiza…"/"reprivatiza…"; acts on nationalised companies and compensation are included. An act may count on both sides.'));
+      table(el, [t('year'), L('Nacionalização', 'Nationalisation'), L('(Re)privatização', '(Re)privatisation')], rows.filter(r => r.n || r.p).map(r => [yr(r.y), r.n, r.p]));
+    }
+  };
+});
+
+chart('c10', el => {
+  const c = D.c10, keys = ['rcgr', 'port', 'dlr', 'drr', 'ralram', 'ret', 'dn', 'other'];
+  const N = sum(c.rows, r => sum(keys, k => r[k] || 0)), T = k => sum(c.rows, r => r[k] || 0);
+  const KN = { rcgr: ['Resoluções do Conselho do Governo Regional', 'Resolutions of the Regional Government'], port: ['Portarias regionais', 'Regional ministerial orders (portarias)'],
+    dlr: ['Decretos legislativos regionais', 'Regional legislative decrees'], drr: ['Decretos regulamentares regionais', 'Regional regulatory decrees'],
+    ralram: ['Resoluções da Assembleia Legislativa', 'Resolutions of the Legislative Assembly'], ret: ['Declarações de retificação', 'Declarations of rectification'], dn: ['Despachos normativos', 'Normative despachos'], other: ['Outros', 'Other'] };
+  const last = c.rows[c.rows.length - 1];
+  return {
+    title: L(`A Madeira no seu jornal oficial: ${pct(T('rcgr'), N)} dos atos da I série são resoluções do Governo Regional; ${fmt(T('dlr'))} decretos legislativos regionais`, `Madeira in its own official journal: ${pct(T('rcgr'), N)} of the acts of its I série are resolutions of the Regional Government; ${fmt(T('dlr'))} regional legislative decrees`),
+    toc: L('A Madeira', 'Madeira'),
+    dek: L(`O Jornal Oficial da Região Autónoma da Madeira (JORAM), I série, de ${c.rows[0].y} a ${YL}: ${fmt(N)} atos. O Governo Regional publica sobretudo resoluções (${fmt(T('rcgr'))}) e portarias (${fmt(T('port'))}); a Assembleia Legislativa aprovou ${fmt(T('dlr'))} decretos legislativos regionais, cerca de ${fmt(T('dlr') / c.rows.length)} por ano.`,
+      `The Jornal Oficial da Região Autónoma da Madeira (JORAM), I série, from ${c.rows[0].y} to ${YL}: ${fmt(N)} acts. The Regional Government publishes mostly resolutions (${fmt(T('rcgr'))}) and portarias (${fmt(T('port'))}); the Legislative Assembly passed ${fmt(T('dlr'))} regional legislative decrees, about ${fmt(T('dlr') / c.rows.length)} a year.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], cols[3], cols[7], cols[4], cols[2], cols[1], cols[6], css('--muted-mark')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...KN[k]) })));
+      const w = W(el), nw = narrow(w);
+      stackedColumns(el, c.rows, keys, colors, keys.map(k => L(...KN[k])), { h: nw ? 260 : 300, pad: .22, bw: 26, partial: r => r.y === YL, tick: (r, i) => r.y % (nw ? 5 : 2) === 1 });
+      note(el, ['joram/atos/<ano>/<tipo>/', 'git log (madeira-gov-pt)'], fmt(N) + L(' atos', ' acts'),
+        L(`atos da I série do JORAM como publicados, com texto; o tipo é o da pasta. Os Açores não estão no repositório. ${YL} vai até meados de novembro (mais claro).`,
+          `acts of the JORAM I série as published, with text; the kind is the folder's. The Azores are not in the repository. ${YL} runs to mid-November (lighter).`));
+      table(el, [t('year'), ...keys.map(k => L(...KN[k])), t('total')], c.rows.map(r => [yr(r.y), ...keys.map(k => r[k] || 0), sum(keys, k => r[k] || 0)]));
+    }
+  };
+});
+
+part('p2', 'II. A forma, o calendário e a Europa', 'II. Form, calendar and Europe',
+  'O que os sumários e as datas dos atos revelam: o dia da semana, a ortografia, as retificações, o dia em que o Orçamento do Estado sai e as diretivas europeias.',
+  'What the summaries and dates of the acts reveal: the weekday, the spelling, the rectifications, the day the State Budget comes out, and EU directives.');
+
+chart('c05', el => {
+  const c = D.c05, rows = c.rows.map(([y, ...v]) => ({ y, v, n: sum(v) }));
+  const old = rows.filter(r => r.y <= 2004), sat = sum(old, r => r.v[5]) / sum(old, r => r.n);
+  const after = rows.filter(r => r.y >= 2006), satA = sum(after, r => r.v[5] + r.v[6]);
+  return {
+    title: L(`Ao sábado: até 2004, ${pct(sat, 1)} dos atos saíam ao sábado; desde 2006, ${fmt(satA)} em edições de fim de semana`, `On Saturdays: until 2004, ${pct(sat, 1)} of acts came out on a Saturday; since 2006, ${fmt(satA)} in weekend issues`),
+    toc: L('O dia da semana', 'The weekday'),
+    dek: L(`Cada célula é a parte dos atos de um ano publicados nesse dia da semana. Durante quase um século, o sábado foi um dia normal de publicação; o último sábado de rotina foi em 2004. Os poucos atos de fim de semana desde então concentram-se em 2020–2022, incluindo ${fmt(48)} decretos do Presidente da República num só sábado, 8 de janeiro de 2022.`,
+      `Each cell is the share of a year's acts published on that weekday. For almost a century Saturday was an ordinary publication day; the last routine Saturday was in 2004. The few weekend acts since then cluster in 2020–2022, including ${fmt(48)} decrees of the President of the Republic on a single Saturday, 8 January 2022.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), ramp = seqRamp(), cl = v => v ? ramp(0.08 + 0.92 * Math.min(1, v / .3)) : css('--surface-2');
+      legend(el, [.05, .1, .2, .3].map(v => ({ c: cl(v), l: (v === .3 ? '≥ ' : '') + pv(100 * v) })));
+      const step = nw ? 2 : 1, Y = rows.filter((r, i) => i % step === 0).map(r => r.y);
+      const agg = y => { const rs = rows.filter(r => r.y >= y && r.y < y + step); const v = [0, 1, 2, 3, 4, 5, 6].map(d => sum(rs, r => r.v[d])); return { y, v, n: sum(v), ys: rs.map(r => r.y) }; };
+      const cells = Y.map(agg);
+      const WD = L(['segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sábado', 'domingo'], ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']);
+      const WD1 = L(['2.ª', '3.ª', '4.ª', '5.ª', '6.ª', 'sáb.', 'dom.'], ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']);
+      const lw = Math.ceil(textW(el, (nw ? WD1 : WD))) + 10, ch = nw ? 22 : 26, m = { t: 8, l: lw, r: 6 };
+      const iw = w - m.l - m.r, cw = iw / cells.length, svg = svgIn(el, w, m.t + ch * 7 + 26), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      cells.forEach((cc, j) => {
+        [0, 1, 2, 3, 4, 5, 6].forEach(d => g.append('rect').attr('x', j * cw + .4).attr('y', d * ch + .8).attr('width', Math.max(.5, cw - .8)).attr('height', ch - 1.6).attr('rx', Math.min(2, cw / 3)).attr('fill', cl(cc.n ? cc.v[d] / cc.n : 0)));
+        const ly_ = cc.ys.find(yy => yy % (nw ? 20 : 10) === 0);
+        if (ly_) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', ch * 7 + 16).attr('text-anchor', 'middle').text(ly_);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', j * cw).attr('y', 0).attr('width', cw).attr('height', ch * 7).datum(cc),
+          q => `<b>${q.ys.length > 1 ? q.ys[0] + '–' + q.ys[q.ys.length - 1] : q.y}</b>` + WD.map((nm, d) => trow(cl(q.n ? q.v[d] / q.n : 0), nm, `${fmt(q.v[d])} · ${pct(q.v[d], q.n)}`)).join('') + trow(null, t('total'), fmt(q.n)));
+      });
+      (nw ? WD1 : WD).forEach((nm, d) => g.append('text').attr('class', 'lbl strong').attr('x', -6).attr('y', d * ch + ch / 2 + 4).attr('text-anchor', 'end').text(nm));
+      const j05 = cells.findIndex(cc => cc.y + step > 2004) + 1;
+      if (j05 > 0) g.append('line').attr('x1', j05 * cw).attr('x2', j05 * cw).attr('y1', 5 * ch - 3).attr('y2', 6 * ch + 3).attr('stroke', css('--s2')).attr('stroke-width', 2);
+      note(el, ['git log (Published:)'], fmt(sum(rows, r => r.n)) + L(' atos', ' acts'),
+        L(`o dia é o da publicação no Diário do Governo ou no Diário da República, 1.ª série (com os suplementos). ${nw ? 'Neste ecrã cada coluna junta dois anos. ' : ''}A linha laranja marca o fim de 2004. Último sábado com atos antes de 2006: ${dateTxt(c.sat_last_regular)}.`,
+          `the day is that of publication in the Diário do Governo or the Diário da República, 1.ª série (supplements included). ${nw ? 'On this screen each column joins two years. ' : ''}The orange line marks the end of 2004. Last Saturday with acts before 2006: ${dateTxt(c.sat_last_regular)}.`));
+      table(el, [t('year'), ...WD, t('total')], rows.map(r => [yr(r.y), ...r.v, r.n]));
+    }
+  };
+});
+
+chart('c06', el => {
+  const c = D.c06, M = c.months.filter(r => r[0] >= '2010-01' && r[0] <= '2013-12').map(([m, o, n]) => ({ m, o, n }));
+  const g11 = M.find(r => r.m === '2011-12'), g12 = M.find(r => r.m === '2012-01'), z = M.find(r => r.m >= '2012-02' && r.o === 0);
+  const ao = c.ao_acts.find(a => /a partir de 1 de [Jj]aneiro de 2012/.test(a[2]));
+  return {
+    title: L(`A ortografia de 1990 no Diário: ${pct(g11.o, g11.o + g11.n)} das grafias dos sumários eram antigas em dezembro de 2011, ${pct(g12.o, g12.o + g12.n)} em janeiro de 2012 e nenhuma em ${MPT[+z.m.slice(5) - 1]}`, `The 1990 spelling in the gazette: ${pct(g11.o, g11.o + g11.n)} of the spellings in summaries were old in December 2011, ${pct(g12.o, g12.o + g12.n)} in January 2012 and none by ${MEN[+z.m.slice(5) - 1]}`),
+    toc: L('A ortografia', 'The spelling'),
+    dek: L(`Cada coluna é um mês de sumários dos atos (1.ª e 2.ª séries): a parte das palavras com grafia anterior ao Acordo Ortográfico de 1990 (acção, actividade, direcção, efectivo, projecto, sector…) entre todas as que têm as duas grafias. ${ao ? `A ${ao[0]}, de ${dateTxt(ao[1])}, determinou o acordo "a partir de 1 de Janeiro de 2012" para o Governo e a publicação do Diário da República. ` : ''}Em baixo, seis palavras, ano a ano.`,
+      `Each column is one month of act summaries (1.ª and 2.ª séries): the share of words in the spelling from before the 1990 Orthographic Agreement (acção, actividade, direcção, efectivo, projecto, sector…) among all words that have both spellings. ${ao ? `${ao[0]} of ${dateTxt(ao[1])} applied the agreement "from 1 January 2012" to the Government and to the publication of the Diário da República. ` : ''}Below, six words, year by year.`),
+    draw(el) {
+      const cols = S8(), co = cols[1], cn = cols[0];
+      legend(el, [{ c: co, l: L('grafia antiga (acção)', 'old spelling (acção)') }, { c: cn, l: L('grafia do acordo (ação)', 'agreement spelling (ação)') }]);
+      const w = W(el), nw = narrow(w), h = nw ? 200 : 230, m = { t: 26, r: 6, b: 24, l: 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(M.map(r => r.m)).range([0, iw]).padding(.15), y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      M.forEach(r => { const s = r.o / (r.o + r.n); g.append('path').attr('d', colPath(x(r.m), ih, x.bandwidth(), y(1), 2)).attr('fill', cn); if (s > 0) g.append('rect').attr('x', x(r.m)).attr('width', x.bandwidth()).attr('y', y(s)).attr('height', ih - y(s)).attr('fill', co); });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      M.forEach(r => { if (r.m.endsWith('-01')) g.append('text').attr('class', 'lbl').attr('x', x(r.m) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(r.m.slice(0, 4)); });
+      const xj = x('2012-01') - x.step() * x.paddingInner() / 2;
+      g.append('line').attr('x1', xj).attr('x2', xj).attr('y1', -8).attr('y2', ih).attr('stroke', css('--text')).attr('stroke-dasharray', '3 3');
+      halo(g, xj - 6, -12, L('1 jan. 2012', '1 Jan 2012'), 'end', 'lbl strong');
+      bindTip(g.append('g').selectAll('rect').data(M).join('rect').attr('class', 'hit').attr('x', r => x(r.m)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+        r => `<b>${monthTxt(r.m)}</b>` + trow(co, L('Grafia antiga', 'Old spelling'), `${fmt(r.o)} · ${pct(r.o, r.o + r.n)}`) + trow(cn, L('Grafia do acordo', 'Agreement spelling'), fmt(r.n)));
+      h4(el, L('Seis palavras nos sumários, por ano (antiga em cima, nova em baixo)', 'Six words in the summaries, by year (old above, new below)'), 14);
+      const box = el.append('div').attr('class', 'multi');
+      const panes = c.pairs.map(([a, b]) => { const p = box.append('div'); p.append('h4').text(`${a} → ${b}`); return p; });   // all panes exist before any is measured
+      c.pairs.forEach(([a, b], pi) => {
+        const rs = c.years[a].filter(r => +r[0] >= 1995).map(([yy, o, n]) => ({ y: +yy, o, n }));
+        const p = panes[pi];
+        const ww = Wp(p), hh = 110, mm = { t: 6, b: 18, l: 2, r: 2 }, sv = svgIn(p, ww, hh), gg = sv.append('g').attr('transform', `translate(${mm.l},${mm.t})`);
+        const iw2 = ww - mm.l - mm.r, ih2 = hh - mm.t - mm.b, x2 = d3.scaleBand().domain(d3.range(1995, YL + 1)).range([0, iw2]).padding(.15);
+        const mx2 = d3.max(rs, r => Math.max(r.o, r.n)) || 1, y2 = d3.scaleLinear().domain([-mx2, mx2]).range([ih2, 0]);
+        rs.forEach(r => { if (r.o) gg.append('path').attr('d', colPath(x2(r.y), y2(0), x2.bandwidth(), y2(r.o), 1.5)).attr('fill', co); if (r.n) gg.append('path').attr('d', colPathDown(x2(r.y), y2(0), x2.bandwidth(), y2(-r.n), 1.5)).attr('fill', cn); });
+        gg.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw2).attr('y1', y2(0)).attr('y2', y2(0));
+        [1995, 2012, YL].forEach(yy => gg.append('text').attr('class', 'lbl mut').attr('x', x2(yy) + x2.bandwidth() / 2).attr('y', ih2 + 14).attr('text-anchor', yy === 1995 ? 'start' : yy === YL ? 'end' : 'middle').text(yy));
+        bindTip(gg.append('g').selectAll('rect').data(rs).join('rect').attr('class', 'hit').attr('x', r => x2(r.y)).attr('width', x2.step()).attr('y', 0).attr('height', ih2),
+          r => `<b>${r.y}</b>` + trow(co, a, fmt(r.o)) + trow(cn, b, fmt(r.n)));
+      });
+      note(el, ['git log (sumário, Published:)', 'serie-2'], fmt(sum(c.months, r => r[1] + r[2])) + L(' grafias contadas desde 1990', ' spellings counted since 1990'),
+        L('contam-se palavras com as duas grafias numa lista fixa (acção/ação, actividade, actual, colectivo, direcção, director, efectivo, objectivo, projecto, protecção, sector, rectificação e outras, em prep.py). Os sumários são os do próprio jornal oficial.',
+          'words with both spellings are counted from a fixed list (acção/ação, actividade, actual, colectivo, direcção, director, efectivo, objectivo, projecto, protecção, sector, rectificação and others, in prep.py). The summaries are the official gazette\'s own.'));
+      table(el, [L('Mês', 'Month'), L('Grafia antiga', 'Old spelling'), L('Grafia do acordo', 'Agreement spelling'), L('Antiga', 'Old')], c.months.filter(r => r[0] >= '2009-01' && r[0] <= '2014-12').map(r => [r[0], r[1], r[2], pct(r[1], r[1] + r[2])]));
+    }
+  };
+});
+
+chart('c07', el => {
+  const c = D.c07, rows = c.rows.map(([y, n, last]) => ({ y, n, last, other: n - last }));
+  const p83 = rows.filter(r => r.y >= 1983 && r.y <= 2003), s83 = sum(p83, r => r.last) / sum(p83, r => r.n);
+  const p04 = rows.filter(r => r.y >= 2004), s04 = sum(p04, r => r.last) / sum(p04, r => r.n);
+  const LR = c.lagrows, l12 = LR[LR.length - 1], l91 = LR[2];
+  const in60 = r => r.b[0] + r.b[1];
+  return {
+    title: L(`Retificações: de 1983 a 2003, ${pct(s83, 1)} saíram no último dia do mês; desde 2012, ${pct(in60(l12), l12.n)} dentro de 60 dias`, `Rectifications: from 1983 to 2003, ${pct(s83, 1)} came out on the last day of a month; since 2012, ${pct(in60(l12), l12.n)} within 60 days`),
+    toc: L('As retificações', 'Rectifications'),
+    dek: L(`Uma declaração de retificação corrige um erro de um ato já publicado. Em cima, por ano, as retificações da 1.ª série e as que saíram no último dia de um mês (de 2004 em diante, ${pct(s04, 1)}). Em baixo, quanto tempo passou entre o ato e a sua retificação. A Lei n.º 6/83 admitia retificações até 90 dias após a publicação; a Lei n.º 74/98 exige 60 dias, sob pena de nulidade.`,
+      `A declaration of rectification corrects an error in an act already published. Above, by year, the rectifications in the 1.ª série and those that came out on the last day of a month (from 2004 on, ${pct(s04, 1)}). Below, how long passed between the act and its rectification. Lei n.º 6/83 allowed rectifications up to 90 days after publication; Lei n.º 74/98 requires 60 days, on pain of nullity.`),
+    draw(el) {
+      const cols = S8(), cl = cols[0], co = d3.color(cols[0]).copy({ opacity: .32 }) + '';
+      legend(el, [{ c: cl, l: L('no último dia do mês', 'on the last day of a month') }, { c: co, l: L('noutro dia', 'on another day') }]);
+      const w = W(el), nw = narrow(w);
+      stackedColumns(el, rows, ['last', 'other'], [cl, co], [L('No último dia do mês', 'On the last day of a month'), L('Noutro dia', 'On another day')],
+        { h: nw ? 230 : 260, pad: .2, bw: 14, partial: r => r.y === YL, tick: r => r.y % (nw ? 10 : 5) === 0 });
+      h4(el, L('Dias entre o ato e a retificação, por período', 'Days between the act and its rectification, by period'), 12);
+      const ramp = seqRamp(), colors = [ramp(.3), ramp(.55), cols[3], cols[7]];
+      const names = [L('até 30 dias', 'up to 30 days'), L('31–60 dias', '31–60 days'), L('61–90 dias', '61–90 days'), L('mais de 90 dias', 'over 90 days')];
+      legend(el, names.map((l, i) => ({ c: colors[i], l })));
+      const RULE = p => p[0] >= 1999 ? L('regra: 60 dias', 'rule: 60 days') : p[0] >= 1983 ? L('regra: 90 dias', 'rule: 90 days') : '';
+      const brows = LR.map(r => ({ ...r, k0: r.b[0], k1: r.b[1], k2: r.b[2], k3: r.b[3] }));
+      bands(el, brows, ['k0', 'k1', 'k2', 'k3'], colors, names, { rowH: 36, label: (r, nw2) => `${r.p[0]}–${r.p[1] === YL ? YL : r.p[1]}`,
+        right: r => L(`mediana ${fmt(r.med)} dias`, `median ${fmt(r.med)} days`), tipExtra: r => trow(null, L('Com o ato encontrado', 'With the act found'), fmt(r.n)) + (RULE(r.p) ? trow(null, L('Prazo legal', 'Legal limit'), RULE(r.p)) : '') });
+      note(el, ['declaracao-rectificacao/', 'declaracao-retificacao/', 'declaracao/', 'rectificacao/', 'lei/1983/6', 'lei/1998/74'], fmt(c.n) + L(' retificações', ' rectifications') + L(`, ${fmt(c.matched)} com o ato retificado encontrado`, `, ${fmt(c.matched)} with the rectified act found`),
+        L('retificações são as declarações de retificação (desde 1991), as declarações cujo sumário diz "De ter sido rectificado" e as "Rectificações" (antes); o ato retificado é o primeiro ato com número citado no sumário que o registo tem. A pasta muda de declaracao-rectificacao para declaracao-retificacao em 2012. A Lei n.º 6/83, artigo 6.º, n.º 2 e a Lei n.º 74/98, artigo 5.º, n.os 2 e 3 estão no repositório.',
+          'rectifications are the declarations of rectification (since 1991), the declarations whose summary says "De ter sido rectificado" and the "Rectificações" (before); the rectified act is the first numbered act cited in the summary that the record holds. The folder changes from declaracao-rectificacao to declaracao-retificacao in 2012. Lei n.º 6/83, article 6(2) and Lei n.º 74/98, article 5(2) and (3) are in the repository.'));
+      table(el, [t('year'), L('Retificações', 'Rectifications'), L('No último dia do mês', 'On the last day of a month')], rows.map(r => [yr(r.y), r.n, r.last]));
+    }
+  };
+});
+
+chart('c08', el => {
+  const c = D.c08, Y = d3.range(1977, YL + 1);
+  const off = y => { const b = c.bud[y]; if (!b) return null; const [a, m, d] = dparts(b[1]); return Math.round((Date.UTC(a, m - 1, d) - Date.UTC(y, 0, 1)) / 86400000); };
+  const late = Y.filter(y => off(y) > 0), worst = late.reduce((a, b) => off(b) > off(a) ? b : a);
+  const trans = c.trans.map(tr => { const m = tr[2].match(/(20\d\d)/); return { y: m ? +m[1] + (/entre 1 de janeiro de (\d{4})/.test(tr[2]) ? 0 : 1) : null, a: tr }; });
+  trans.forEach(tr => { const m = tr.a[2].match(/1 de janeiro de (\d{4})/); tr.y = m ? +m[1] : +tr.a[1].slice(0, 4) + 1; });
+  return {
+    title: L(`O Orçamento do Estado depois de 1 de janeiro: ${fmt(late.length)} vezes desde 1977; o de ${worst} saiu a ${dayMonthLong(c.bud[worst][1])}`, `The State Budget after 1 January: ${fmt(late.length)} times since 1977; the ${worst} budget came out on ${dayMonthLong(c.bud[worst][1])}`),
+    toc: L('O Orçamento do Estado', 'The State Budget'),
+    dek: L(`Para cada ano, o dia em que o Diário da República publicou a lei do Orçamento do Estado, contado a partir de 1 de janeiro desse ano: para baixo, antes; para cima, já com o ano começado. Até lá a despesa segue em duodécimos; em ${andList(trans.map(tr => String(tr.y)))} um decreto-lei fixou esse regime transitório. Os anos atrasados: ${andList(late.map(String))}.`,
+      `For each year, the day the Diário da República published that year's State Budget law, counted from 1 January: downwards, before; upwards, once the year had begun. Until then spending runs in twelfths (duodécimos); for ${andList(trans.map(tr => String(tr.y)))} a decree-law set that transitional regime. The late years: ${andList(late.map(String))}.`),
+    draw(el) {
+      const cols = S8();
+      legend(el, [{ c: cols[0], l: L('publicada antes de 1 de janeiro', 'published before 1 January') }, { c: cols[1], l: L('publicada já com o ano começado', 'published after the year began') },
+        { c: cols[1], l: L('com decreto-lei de regime transitório', 'with a transitional-regime decree-law'), shape: 'ring' }]);
+      const w = W(el), nw = narrow(w), h = nw ? 290 : 330, m = { t: 40, r: 8, b: 24, l: 46 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(Y).range([0, iw]).padding(.2);
+      const y = d3.scaleLinear().domain([-20, Math.max(off(worst), 180)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 6, v => v === 0 ? L('1 jan.', '1 Jan') : (v > 0 ? '+' : '−') + fmt(Math.abs(v)));
+      const bw = x.bandwidth();
+      Y.forEach(yy => {
+        const o = off(yy); if (o == null) return;
+        if (o > 0) g.append('path').attr('d', colPath(x(yy), y(0), bw, y(o), 2)).attr('fill', cols[1]);
+        else g.append('path').attr('d', colPathDown(x(yy), y(0), bw, y(Math.min(o, -2)), 2)).attr('fill', cols[0]);
+        if (yy % (nw ? 10 : 5) === 0) g.append('text').attr('class', 'lbl').attr('x', x(yy) + bw / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(yy);
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', y(0)).attr('y2', y(0));
+      trans.forEach(tr => { if (off(tr.y) > 0) g.append('circle').attr('cx', x(tr.y) + bw / 2).attr('cy', y(off(tr.y)) - 7).attr('r', 3.5).attr('fill', 'none').attr('stroke', cols[1]).attr('stroke-width', 1.6); });
+      // each late year's date over its column, raised above any column it would cover and above labels already placed,
+      // with a thin leader down to its own column when raised
+      const placed = [], topOf = yy => (off(yy) > 0 ? y(off(yy)) : y(0)) - (trans.some(tr => tr.y === yy) ? 12 : 0);
+      late.filter(yy => off(yy) >= 20).sort((a, b) => a - b).forEach(yy => {
+        const lab = nw ? `’${String(yy).slice(2)}` : `${dayMonth(c.bud[yy][1])}`, tw = textW(el, [lab], 'lbl');
+        const cx = x(yy) + bw / 2, under = Y.filter(q => x(q) + bw > cx - tw / 2 - 2 && x(q) < cx + tw / 2 + 2);
+        let ly = d3.min(under, topOf) - 6;
+        while (placed.some(p => Math.abs(p.x - cx) < (p.w + tw) / 2 + 3 && Math.abs(p.y - ly) < 12)) ly -= 12;
+        placed.push({ x: cx, y: ly, w: tw });
+        if (topOf(yy) - ly > 12) g.append('line').attr('x1', cx).attr('x2', cx).attr('y1', ly + 3).attr('y2', topOf(yy) - 2).attr('stroke', css('--text-3')).attr('stroke-width', .8);
+        halo(g, cx, ly, lab, 'middle', 'lbl', css('--text-2'));
+      });
+      bindTip(g.append('g').selectAll('rect').data(Y).join('rect').attr('class', 'hit').attr('x', d => x(d)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+        d => { const b = c.bud[d], e = c.exe[d], tr = trans.find(q => q.y === d); return b ? `<b>${L('Orçamento para', 'Budget for')} ${d}</b>` + tq(`${b[0]}: ${b[2]}`) + trow(null, L('Publicada', 'Published'), dateTxt(b[1])) + trow(null, L('Dias desde 1 de janeiro', 'Days from 1 January'), (off(d) > 0 ? '+' : '') + fmt(off(d))) + (e ? trow(null, L('Normas de execução', 'Implementing rules'), `${e[0]} · ${dateShort(e[1])}`) : '') + (tr ? trow(cols[1], L('Regime transitório', 'Transitional regime'), `${tr.a[0]} · ${dateShort(tr.a[1])}`) : '') : `<b>${d}</b>`; });
+      note(el, ['lei/<ano>/<número>/', 'act/<ano>/lei-<n>-<x>', 'git log (Law:, Published:, sumário)'], fmt(Object.keys(c.bud).length) + L(' leis do Orçamento', ' budget laws'),
+        L('a lei do Orçamento de um ano é a lei cujo sumário é "(Aprova o) Orçamento (Geral) do Estado para <ano>"; para 1978 é a lei das linhas gerais do orçamento (Lei n.º 20/78) e para 1983 o orçamento provisório (Lei n.º 2/83). O sumário da Lei n.º 40/81 diz "Orçamento Geral do Estado pera 1982". Os decretos-leis de regime transitório são os de sumário "regime transitório de execução orçamental" ou "execução orçamental duodecimal".',
+          'a year\'s budget law is the law whose summary is "(Aprova o) Orçamento (Geral) do Estado para <year>"; for 1978 it is the law on the budget\'s general lines (Lei n.º 20/78) and for 1983 the provisional budget (Lei n.º 2/83). The summary of Lei n.º 40/81 reads "Orçamento Geral do Estado pera 1982" (sic). The transitional-regime decree-laws are those whose summary says "regime transitório de execução orçamental" or "execução orçamental duodecimal".'));
+      table(el, [L('Ano', 'Year'), L('Lei', 'Law'), L('Publicada', 'Published'), L('Dias desde 1 de janeiro', 'Days from 1 January'), L('Normas de execução', 'Implementing rules')],
+        Y.map(d => c.bud[d] ? [yr(d), c.bud[d][0], dateShort(c.bud[d][1]), off(d), c.exe[d] ? `${c.exe[d][0]} (${dateShort(c.exe[d][1])})` : ''] : [yr(d), '–', '–', '–', '']));
+    }
+  };
+});
+
+chart('c09', el => {
+  const c = D.c09, rows = c.rows.map(([y, dl, dld, l, ld, nd]) => ({ y, dl, dld, l, ld, nd, s: dl ? dld / dl : 0, sl: l ? ld / l : 0 }));
+  const pk = rows.reduce((a, b) => b.s > a.s ? b : a), pl = rows.filter(r => r.l >= 25).reduce((a, b) => b.sl > a.sl ? b : a);
+  const tot = sum(rows, r => r.dld), totl = sum(rows, r => r.ld);
+  return {
+    title: L(`Diretivas europeias: ${pct(pk.dld, pk.dl)} dos decretos-leis de ${pk.y} citam uma no sumário; ${fmt(c.distinct)} diretivas citadas desde 1986`, `EU directives: ${pct(pk.dld, pk.dl)} of the decree-laws of ${pk.y} cite one in their summary; ${fmt(c.distinct)} directives cited since 1986`),
+    toc: L('As diretivas europeias', 'EU directives'),
+    dek: L(`Desde a adesão às Comunidades em 1986, a parte dos decretos-leis e das leis de cada ano cujo sumário cita uma diretiva. ${fmt(tot)} decretos-leis e ${fmt(totl)} leis citam diretivas (${pct(c.transp[1], c.transp[0])} dizem transpô-las); a parte das leis chega a ${pct(pl.ld, pl.l)} em ${pl.y}. Em baixo, quantas diretivas diferentes os sumários de cada ano citam.`,
+      `Since accession to the Communities in 1986, the share of each year's decree-laws and laws whose summary cites a directive. ${fmt(tot)} decree-laws and ${fmt(totl)} laws cite directives (${pct(c.transp[1], c.transp[0])} say they transpose them); the laws' share reaches ${pct(pl.ld, pl.l)} in ${pl.y}. Below, how many different directives each year's summaries cite.`),
+    draw(el) {
+      const cols = S8(), cd = cols[0], cl = cols[7];
+      legend(el, [{ c: cd, l: L('decretos-leis', 'decree-laws'), shape: 'line' }, { c: cl, l: L('leis', 'laws'), shape: 'dash' }]);
+      const w = W(el), nw = narrow(w), h = nw ? 230 : 270, m = { t: 18, r: nw ? 30 : 46, b: 22, l: 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1986, YL]).range([0, iw]);
+      const y = d3.scaleLinear().domain([0, Math.max(pk.s, pl.sl)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      const gid = 'g09' + (++HATCH), gr = svg.append('defs').append('linearGradient').attr('id', gid).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+      gr.append('stop').attr('offset', 0).attr('stop-color', cd).attr('stop-opacity', .35); gr.append('stop').attr('offset', 1).attr('stop-color', cd).attr('stop-opacity', .02);
+      g.append('path').datum(rows).attr('d', d3.area().x(r => x(r.y)).y0(ih).y1(r => y(r.s))).attr('fill', `url(#${gid})`);
+      g.append('path').datum(rows).attr('d', d3.line().x(r => x(r.y)).y(r => y(r.s))).attr('fill', 'none').attr('stroke', cd).attr('stroke-width', 2);
+      g.append('path').datum(rows.filter(r => r.l)).attr('d', d3.line().x(r => x(r.y)).y(r => y(r.sl))).attr('fill', 'none').attr('stroke', cl).attr('stroke-width', 1.6).attr('stroke-dasharray', '4 3');
+      rows.forEach(r => g.append('circle').attr('cx', x(r.y)).attr('cy', y(r.s)).attr('r', 2.4).attr('fill', cd).attr('opacity', r.y === YL ? .5 : 1));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      x.ticks(nw ? 4 : 8).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+      halo(g, x(pk.y), y(pk.s) - 8, `${pk.y}: ${pct(pk.dld, pk.dl)}`, 'middle', 'lbl strong', cd);
+      const lastR = rows[rows.length - 1];
+      halo(g, iw + 6, y(lastR.s) + 4, pct(lastR.dld, lastR.dl), 'start', 'lbl', cd);
+      halo(g, x(pl.y), y(pl.sl) - 8, `${pl.y}: ${pct(pl.ld, pl.l)}`, 'middle', 'lbl strong', cl);
+      bindTip(g.append('g').selectAll('rect').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y) - iw / rows.length / 2).attr('width', iw / rows.length).attr('y', 0).attr('height', ih),
+        r => `<b>${r.y}${r.y === YL ? ' (' + t('partial') + ')' : ''}</b>` + trow(cd, L('Decretos-leis que citam uma diretiva', 'Decree-laws citing a directive'), `${fmt(r.dld)} ${L('de', 'of')} ${fmt(r.dl)} · ${pct(r.dld, r.dl)}`) +
+          trow(cl, L('Leis que citam uma diretiva', 'Laws citing a directive'), `${fmt(r.ld)} ${L('de', 'of')} ${fmt(r.l)} · ${pct(r.ld, r.l)}`) + trow(null, L('Diretivas diferentes citadas', 'Different directives cited'), fmt(r.nd)));
+      h4(el, L('Diretivas diferentes citadas nos sumários de cada ano', 'Different directives cited in each year\'s summaries'), 10);
+      const h2 = nw ? 110 : 120, svg2 = svgIn(el, w, h2), g2 = svg2.append('g').attr('transform', `translate(${m.l},8)`), ih2 = h2 - 30;
+      const xb = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(.2), y2 = d3.scaleLinear().domain([0, d3.max(rows, r => r.nd)]).nice().range([ih2, 0]);
+      yAxis(g2, y2, iw, 3);
+      rows.forEach(r => { if (r.nd) g2.append('path').attr('d', colPath(xb(r.y), ih2, xb.bandwidth(), y2(r.nd), 2)).attr('fill', cols[2]).attr('opacity', r.y === YL ? .5 : 1); });
+      g2.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih2).attr('y2', ih2);
+      rows.forEach(r => { if (r.y % (nw ? 10 : 5) === 0) g2.append('text').attr('class', 'lbl').attr('x', xb(r.y) + xb.bandwidth() / 2).attr('y', ih2 + 15).attr('text-anchor', 'middle').text(r.y); });
+      bindTip(g2.append('g').selectAll('rect').data(rows).join('rect').attr('class', 'hit').attr('x', r => xb(r.y)).attr('width', xb.step()).attr('y', 0).attr('height', ih2), r => `<b>${r.y}</b>` + trow(cols[2], L('Diretivas diferentes', 'Different directives'), fmt(r.nd)));
+      note(el, ['decreto-lei/', 'lei/', 'git log (sumário)'], fmt(sum(rows, r => r.dl + r.l)) + L(' decretos-leis e leis desde 1986', ' decree-laws and laws since 1986'),
+        L('um ato cita uma diretiva quando o seu sumário contém "Diretiva" ou "Directiva"; as diretivas são identificadas pelo número (2006/123/CE, (UE) 2019/1937). Os sumários longos podem omitir diretivas que o texto transpõe.',
+          'an act cites a directive when its summary contains "Diretiva" or "Directiva"; directives are identified by their number (2006/123/CE, (UE) 2019/1937). Long summaries may leave out directives the text transposes.'));
+      table(el, [t('year'), L('Decretos-leis', 'Decree-laws'), L('Com diretiva', 'Citing a directive'), L('Leis', 'Laws'), L('Com diretiva', 'Citing a directive'), L('Diretivas', 'Directives')], rows.map(r => [yr(r.y), r.dl, r.dld, r.l, r.ld, r.nd]));
+    }
+  };
+});
+
+part('p3', 'III. A Assembleia da República', 'III. The Assembleia da República',
+  'Os dados abertos do parlamento, desde 1976: as iniciativas legislativas e as suas fases, as propostas de alteração ao Orçamento do Estado e as perguntas dos deputados ao Governo.',
+  'The parliament\'s open data, since 1976: legislative initiatives and their steps, amendments proposed to the State Budget, and MPs\' written questions to the Government.');
+
+chart('c11', el => {
+  const c = D.c11, PART = ['III', 'XIII', 'XIV'], full = c.filter(r => !PART.includes(r.leg) && r.leg !== 'XVII');
+  const T = k => [sum(full, r => r[k][0]), sum(full, r => r[k][1])], g0 = T('gov'), m0 = T('mps');
+  return {
+    title: L(`Propostas do Governo e projetos dos deputados: ${pct(g0[1], g0[0])} das propostas tornaram-se lei, ${pct(m0[1], m0[0])} dos projetos`, `Government bills and MPs' bills: ${pct(g0[1], g0[0])} of the Government's bills became law, ${pct(m0[1], m0[0])} of MPs' bills`),
+    toc: L('Propostas e projetos de lei', 'Government and MPs\' bills'),
+    dek: L(`Por legislatura: quantas propostas de lei apresentou o Governo e quantos projetos de lei os deputados (coluna clara) e quantos chegaram a lei publicada no Diário da República (coluna cheia), com a percentagem em cima. Nas legislaturas completas, ${fmt(g0[1])} de ${fmt(g0[0])} propostas e ${fmt(m0[1])} de ${fmt(m0[0])} projetos.`,
+      `By legislature: how many bills the Government filed (propostas de lei) and how many MPs filed (projetos de lei) (light column), and how many became a law published in the Diário da República (solid column), with the percentage on top. In the complete legislatures, ${fmt(g0[1])} of ${fmt(g0[0])} Government bills and ${fmt(m0[1])} of ${fmt(m0[0])} MPs' bills.`),
+    draw(el) {
+      const ink = css('--s1');
+      legend(el, [{ c: ink + '38', l: L('Apresentados', 'Filed') }, { c: ink, l: L('Tornaram-se lei', 'Became law') }]);
+      const ymax = d3.max(c, r => Math.max(r.gov[0], r.mps[0]));
+      [['gov', L('Propostas de lei (Governo)', 'Government bills (propostas de lei)')], ['mps', L('Projetos de lei (deputados)', 'MPs\' bills (projetos de lei)')]].forEach(([k, nm], pi) => {
+        const tt = T(k); h4(el, `${nm} · ${L(`${fmt(tt[1])} de ${fmt(tt[0])} nas legislaturas completas (${pct(tt[1], tt[0])})`, `${fmt(tt[1])} of ${fmt(tt[0])} in the complete legislatures (${pct(tt[1], tt[0])})`)}`, pi ? 14 : 4);
+        const w = W(el), nw = narrow(w), h = nw ? 180 : 210, m = { t: 18, r: 4, b: 34, l: 38 };
+        const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b;
+        const x = d3.scaleBand().domain(c.map(r => r.leg)).range([0, iw]).padding(.2), y = d3.scaleLinear().domain([0, k === 'gov' ? d3.max(c, r => r.gov[0]) : ymax]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 3);
+        c.forEach(r => {
+          const [n, law] = r[k], x0 = x(r.leg), bw = x.bandwidth(), op = PART.includes(r.leg) || r.leg === 'XVII' ? .5 : 1;
+          g.append('path').attr('d', colPath(x0, ih, bw, y(n))).attr('fill', ink).attr('fill-opacity', .22 * op);
+          g.append('path').attr('d', colPath(x0, ih, bw, y(law))).attr('fill', ink).attr('fill-opacity', op);
+          if (!nw || bw > 16) g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(n) - 5).attr('text-anchor', 'middle').text(nw ? dec(100 * law / n, 0) : pct(law, n));
+          if (!nw || c.indexOf(r) % 2 === 0) g.append('text').attr('class', 'lbl strong').attr('x', x0 + bw / 2).attr('y', ih + 14).attr('text-anchor', 'middle').text(r.leg);
+          if (!nw) g.append('text').attr('class', 'lbl mut').attr('x', x0 + bw / 2).attr('y', ih + 27).attr('text-anchor', 'middle').text(r.span[0].slice(0, 4));
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(r),
+            d => `<b>${d.leg} ${L('legislatura', 'legislature')} · ${legYears(d)}</b>` + trow(null, L('Apresentados', 'Filed'), fmt(d[k][0])) + trow(ink, L('Tornaram-se lei', 'Became law'), `${fmt(d[k][1])} · ${pct(d[k][1], d[k][0])}`) +
+              (PART.includes(d.leg) ? tq(L(`Os dados abertos têm ${fmt(d[k][0])} dos ${fmt(d[k][2])} números desta legislatura.`, `The open data hold ${fmt(d[k][0])} of the ${fmt(d[k][2])} numbers of this legislature.`)) : '') +
+              (d.leg === 'XVII' ? tq(L('Legislatura em curso.', 'Legislature under way.')) : ''));
+        });
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      });
+      note(el, ['parlamento/iniciativas/<legislatura>/proposta-de-lei/', 'parlamento/iniciativas/<legislatura>/projeto-de-lei/', '…/fases/'], fmt(sum(c, r => r.gov[0] + r.mps[0])) + L(' propostas e projetos de lei', ' bills'),
+        L(`uma iniciativa tornou-se lei quando tem a fase "Lei (Publicação DR)"; vários projetos sobre o mesmo tema podem dar uma só lei. As legislaturas III, XIII e XIV estão incompletas nos dados abertos (mais claras: o número de iniciativas fica abaixo do maior número atribuído) e a XVII está em curso. Por baixo de cada legislatura, o ano em que começou.`,
+          `an initiative became law when it has the step "Lei (Publicação DR)"; several bills on one subject can give a single law. Legislatures III, XIII and XIV are incomplete in the open data (lighter: the number of initiatives is below the highest number assigned) and XVII is under way. Under each legislature, the year it began.`));
+      table(el, [L('Legislatura', 'Legislature'), L('Anos', 'Years'), L('Propostas', 'Gov. bills'), L('Lei', 'Law'), L('Projetos', 'MPs\' bills'), L('Lei', 'Law')], c.map(r => [r.leg, legYears(r), r.gov[0], r.gov[1], r.mps[0], r.mps[1]]));
+    }
+  };
+});
+
+chart('c12', el => {
+  const c = D.c12.slice().sort((a, b) => b[1] - a[1]);
+  const top = c[0], best = c.reduce((a, b) => b[2] > a[2] ? b : a);
+  return {
+    title: L(`Projetos de lei por partido: o ${partyName(top[0], 1)} apresentou mais (${fmt(top[1])}); o ${partyName(best[0], 1)} teve mais convertidos em lei (${fmt(best[2])})`, `MPs' bills by party: the ${partyName(top[0], 1)} filed the most (${fmt(top[1])}); the ${partyName(best[0], 1)} saw the most become law (${fmt(best[2])})`),
+    toc: L('Os partidos', 'The parties'),
+    dek: L(`Cada barra é um partido: os projetos de lei que assinou desde 1976 (claro) e os que se tornaram lei (cheio), com a percentagem à direita. Um projeto assinado por vários partidos conta para cada um.`,
+      `Each bar is a party: the bills (projetos de lei) it signed since 1976 (light) and those that became law (solid), with the percentage on the right. A bill signed by several parties counts for each.`),
+    draw(el) {
+      const ink = css('--s1'), w = W(el), nw = narrow(w);
+      legend(el, [{ c: ink + '38', l: L('Apresentados', 'Filed') }, { c: ink, l: L('Tornaram-se lei', 'Became law') }]);
+      const lab = r => partyName(r[0], nw), rgt = r => `${fmt(r[2])} · ${pct(r[2], r[1])}`;
+      const lw = Math.ceil(textW(el, c.map(lab))) + 12, rw = Math.ceil(textW(el, c.map(rgt), 'lbl')) + 12, rowH = 26, m = { t: 4, r: rw, b: 20, l: lw };
+      const svg = svgIn(el, w, m.t + m.b + rowH * c.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, top[1]]).nice().range([0, iw]);
+      x.ticks(nw ? 3 : 6).forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', rowH * c.length).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * c.length + 14).attr('text-anchor', 'middle').text(fmt(v)); });
+      c.forEach((r, i) => {
+        const y0 = i * rowH + 5, bh = rowH - 10;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(lab(r));
+        g.append('path').attr('d', barPath(0, y0, x(r[1]), bh, 3)).attr('fill', ink).attr('fill-opacity', .22);
+        g.append('path').attr('d', barPath(0, y0, x(r[2]), bh, 3)).attr('fill', ink);
+        g.append('text').attr('class', 'lbl').attr('x', iw + 8).attr('y', y0 + bh / 2 + 4).text(rgt(r));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${esc(partyName(d[0]))}</b>` + trow(null, L('Projetos de lei', 'Bills'), fmt(d[1])) + trow(ink, L('Tornaram-se lei', 'Became law'), `${fmt(d[2])} · ${pct(d[2], d[1])}`) + trow(null, L('Legislaturas', 'Legislatures'), `${d[3][0]}–${d[3][d[3].length - 1]}`));
+      });
+      note(el, ['parlamento/iniciativas/<legislatura>/projeto-de-lei/ (Autoria:)'], fmt(sum(c, r => r[1])) + L(' assinaturas de projetos', ' bill signatures'),
+        L('a autoria é a dos dados abertos; PPD e PPD/PSD contam como PSD, CDS como CDS-PP. Só partidos com 40 ou mais projetos; as legislaturas incompletas (III, XIII, XIV) e a XVII, em curso, contam com o que os dados têm.',
+          'authorship is the open data\'s; PPD and PPD/PSD count as PSD, CDS as CDS-PP. Only parties with 40 or more bills; the incomplete legislatures (III, XIII, XIV) and XVII, under way, count with what the data hold.'));
+      table(el, [L('Partido', 'Party'), L('Projetos de lei', 'Bills'), L('Tornaram-se lei', 'Became law'), t('share')], c.map(r => [partyName(r[0]), r[1], r[2], pct(r[2], r[1])]));
+    }
+  };
+});
+
+chart('c13', el => {
+  const c = D.c13, rows = c.rows, keys = ['ok', 'no', 'wd', 'pend'];
+  const first = rows[0], last = rows[rows.length - 1], prev = rows[rows.length - 2];
+  const P = c.party.map(([p, n, ok, pend]) => ({ p, n, ok, pend, rate: (n - pend) ? ok / (n - pend) : 0 })).sort((a, b) => b.rate - a.rate);
+  const ps = P.find(q => q.p === 'PS'), ch = P.find(q => q.p === 'CH');
+  return {
+    title: L(`Propostas de alteração ao Orçamento: de ${fmt(sum(keys, k => first[k] || 0))} (OE ${first.y}) a ${fmt(sum(keys, k => last[k] || 0))} (OE ${last.y}); aprovadas ${pct(ps.ok, ps.n - ps.pend)} das do PS e ${pct(ch.ok, ch.n - ch.pend)} das do Chega`, `Amendments to the State Budget: from ${fmt(sum(keys, k => first[k] || 0))} (OE ${first.y}) to ${fmt(sum(keys, k => last[k] || 0))} (OE ${last.y}); ${pct(ps.ok, ps.n - ps.pend)} of the PS's passed and ${pct(ch.ok, ch.n - ch.pend)} of Chega's`),
+    toc: L('Alterações ao Orçamento', 'Budget amendments'),
+    dek: L(`Cada coluna é um Orçamento do Estado (OE) e as propostas de alteração que os deputados apresentaram, pelo resultado. O OE ${last.y} está a ser votado (quase tudo por decidir). Por baixo, por partido, a parte das propostas já decididas que foi aprovada.`,
+      `Each column is one State Budget (OE) and the amendments MPs proposed to it, by outcome. The OE ${last.y} is being voted on (almost everything still undecided). Below, by party, the share of its proposals already decided that passed.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[2], cols[7], css('--muted-mark'), cols[3]];
+      const names = [L('Aprovadas', 'Approved'), L('Rejeitadas', 'Rejected'), L('Retiradas, prejudicadas, não admitidas', 'Withdrawn, lapsed, not admitted'), L('Por votar', 'Not yet voted')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const w = W(el), nw = narrow(w);
+      stackedColumns(el, rows, keys, colors, names, { h: nw ? 240 : 280, pad: .25, bw: 28, xf: y => nw ? `’${String(y).slice(2)}` : String(y), tick: (r, i) => !nw || i % 3 === 0 || r.y === last.y,
+        topLabel: r => nw ? '' : fmt(sum(keys, k => r[k] || 0)) });
+      h4(el, L('Por partido: parte das propostas já decididas que foi aprovada', 'By party: share of the proposals already decided that passed'), 12);
+      const cards = el.append('div').attr('class', 'ptiles');
+      P.forEach(q => {
+        const d = cards.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').text(partyName(q.p, true));
+        d.append('div').attr('class', 'pv').html(`<b>${pct(q.ok, q.n - q.pend)}</b> ${L('aprovadas', 'approved')}`);
+        d.append('div').attr('class', 'ps').text(L(`${fmt(q.ok)} de ${fmt(q.n - q.pend)} decididas`, `${fmt(q.ok)} of ${fmt(q.n - q.pend)} decided`));
+        const bar = d.append('div').attr('class', 'pbar'); bar.append('i').style('flex', q.ok).style('background', colors[0]); bar.append('i').style('flex', q.n - q.pend - q.ok).style('background', css('--muted-mark'));
+      });
+      note(el, ['parlamento/orcamento-estado/<ano>-or/'], fmt(sum(rows, r => sum(keys, k => r[k] || 0))) + L(' propostas de alteração', ' proposed amendments'),
+        L(`o resultado e a autoria são os dos dados abertos (aprovada em comissão ou em plenário, também parcialmente ou por unanimidade). Uma proposta de vários partidos conta para cada um; no OE ${last.y} só contam as já votadas. Cartões: partidos com 200 ou mais propostas.`,
+          `outcome and authorship are the open data's (approved in committee or in plenary, also in part or unanimously). A proposal by several parties counts for each; for OE ${last.y} only those already voted on count. Cards: parties with 200 or more proposals.`));
+      table(el, [L('Orçamento', 'Budget'), ...names, t('total')], rows.map(r => [`OE ${r.y}`, ...keys.map(k => r[k] || 0), sum(keys, k => r[k] || 0)]));
+    }
+  };
+});
+
+chart('c14', el => {
+  const c = D.c14, rows = c.map(r => ({ ...r, k0: r.b[0], k1: r.b[1], k2: r.b[2], k3: r.b[3] }));
+  const done = rows.filter(r => r.leg !== 'XVII'), lo = done.reduce((a, b) => b.b[0] / b.n < a.b[0] / a.n ? b : a), hi = done.reduce((a, b) => b.b[0] / b.n > a.b[0] / a.n ? b : a);
+  const worst = done.reduce((a, b) => b.b[3] / b.n > a.b[3] / a.n ? b : a);
+  return {
+    title: L(`Perguntas ao Governo: entre ${pct(lo.b[0], lo.n)} (legislatura ${lo.leg}) e ${pct(hi.b[0], hi.n)} (${hi.leg}) respondidas nos 30 dias do Regimento`, `Questions to the Government: between ${pct(lo.b[0], lo.n)} (legislature ${lo.leg}) and ${pct(hi.b[0], hi.n)} (${hi.leg}) answered within the 30 days the Rules set`),
+    toc: L('As perguntas ao Governo', 'Questions to the Government'),
+    dek: L(`Cada faixa é uma legislatura e as perguntas escritas dos deputados ao Governo, pelo tempo até à primeira resposta. O Regimento da Assembleia (artigo 229.º, n.º 3) diz que a resposta não deve exceder 30 dias. Na legislatura ${worst.leg}, ${pct(worst.b[3], worst.n)} das perguntas ficaram sem resposta. À direita, a mediana dos dias até responder.`,
+      `Each band is one legislature and MPs' written questions to the Government, by the time to the first answer. The Assembly's Rules of Procedure (article 229(3)) say the answer should not exceed 30 days. In legislature ${worst.leg}, ${pct(worst.b[3], worst.n)} of questions went unanswered. On the right, the median days to an answer.`),
+    draw(el) {
+      const ramp = seqRamp(), colors = [ramp(.95), ramp(.6), ramp(.3), css('--muted-mark')];
+      const names = [L('até 30 dias', 'within 30 days'), L('31–90 dias', '31–90 days'), L('mais de 90 dias', 'over 90 days'), L('sem resposta', 'no answer')];
+      legend(el, names.map((l, i) => ({ c: colors[i], l })));
+      bands(el, rows, ['k0', 'k1', 'k2', 'k3'], colors, names, { rowH: 36, partial: r => r.leg === 'XVII',
+        label: (r, nw) => nw ? r.leg : `${r.leg} · ${legYears(r)}`, right: r => L(`${fmt(r.med)} dias`, `${fmt(r.med)} days`),
+        tipExtra: r => trow(null, L('Perguntas', 'Questions'), fmt(r.n)) + trow(null, L('Mediana até à resposta', 'Median to the answer'), L(`${fmt(r.med)} dias`, `${fmt(r.med)} days`)) + (r.leg === 'XVII' ? tq(L('Legislatura em curso: as perguntas recentes ainda podem ter resposta.', 'Legislature under way: recent questions may still be answered.')) : '') });
+      note(el, ['parlamento/perguntas-requerimentos/<legislatura>/', 'regimento-assembleia-republica/2020/1'], fmt(sum(rows, r => r.n)) + L(' perguntas', ' questions'),
+        L(`a resposta é ligada à pergunta pelo caminho do registo; conta a primeira. Os dados abertos têm perguntas desde a legislatura X (2005); os requerimentos (${fmt(sum(rows, r => r.req))}) ficam de fora. A XVII está em curso (mais clara).`,
+          `an answer is linked to its question by the record's path; the first counts. The open data hold questions from legislature X (2005); requests (requerimentos, ${fmt(sum(rows, r => r.req))}) are left out. XVII is under way (lighter).`));
+      table(el, [L('Legislatura', 'Legislature'), L('Perguntas', 'Questions'), ...names, L('Mediana (dias)', 'Median (days)')], rows.map(r => [`${r.leg} (${legYears(r)})`, r.n, ...r.b, r.med]));
+    }
+  };
+});
+
+part('p4', 'IV. A Constituição e os códigos', 'IV. The Constitution and the codes',
+  'A Constituição de 1976 e 29 códigos com todas as versões que o Diário da República consolida, um ficheiro por artigo e um commit por dia de entrada em vigor.',
+  'The 1976 Constitution and 29 codes with every version the Diário da República consolidates, one file per article and one commit per day of entry into force.');
+
+chart('c15', el => {
+  const c = D.c15, R = c.revs, PK = ['pre', 'pf', 'p1', 'p2', 'p3', 'p4', 'dft'];
+  const PN = { pre: ['Preâmbulo', 'Preamble'], pf: ['Princípios fundamentais', 'Fundamental principles'], p1: ['Parte I · Direitos e deveres fundamentais', 'Part I · Fundamental rights and duties'],
+    p2: ['Parte II · Organização económica', 'Part II · Economic organisation'], p3: ['Parte III · Organização do poder político', 'Part III · Organisation of political power'],
+    p4: ['Parte IV · Garantia e revisão', 'Part IV · Guarantee and revision'], dft: ['Disposições finais e transitórias', 'Final and transitional provisions'] };
+  const words = r => sum(PK, k => r.size[k] || 0), chg = r => sum(Object.values(r.add)) + sum(Object.values(r.rem));
+  const big = R.slice(1).reduce((a, b) => chg(b) > chg(a) ? b : a), yrOf = r => r.day.slice(0, 4);
+  return {
+    title: L(`A Constituição: de ${fmt(words(R[0]))} palavras em 1976 a ${fmt(words(R[R.length - 1]))} desde 2005; a revisão de ${yrOf(big)} mudou ${fmt(chg(big))}`, `The Constitution: from ${fmt(words(R[0]))} words in 1976 to ${fmt(words(R[R.length - 1]))} since 2005; the ${yrOf(big)} revision changed ${fmt(chg(big))}`),
+    toc: L('As sete revisões da Constituição', 'The seven revisions of the Constitution'),
+    dek: L(`Cada coluna é o texto dos artigos da Constituição depois de uma revisão, em palavras, por parte. Em baixo, as palavras que cada revisão acrescentou ou suprimiu: as de ${andList(R.slice(1).filter(r => chg(r) > 4000).map(yrOf))} reescreveram milhares; as de ${andList(R.slice(1).filter(r => chg(r) < 500).map(yrOf))} tocaram em poucos artigos.`,
+      `Each column is the text of the Constitution's articles after a revision, in words, by part. Below, the words each revision added or removed: those of ${andList(R.slice(1).filter(r => chg(r) > 4000).map(yrOf))} rewrote thousands; those of ${andList(R.slice(1).filter(r => chg(r) < 500).map(yrOf))} touched few articles.`),
+    draw(el) {
+      const cols = S8(), colors = [css('--muted-mark'), cols[4], cols[0], cols[3], cols[6], cols[2], cols[1]];
+      legend(el, PK.map((k, i) => ({ c: colors[i], l: L(...PN[k]) })));
+      const rows = R.map(r => ({ y: yrOf(r), ...Object.fromEntries(PK.map(k => [k, r.size[k] || 0])), r }));
+      const w = W(el), nw = narrow(w);
+      stackedColumns(el, rows, PK, colors, PK.map(k => L(...PN[k])), { h: nw ? 240 : 280, pad: .35, bw: nw ? 28 : 56, every: 1, topLabel: r => nw ? '' : fmt(words(r.r)), ml: 48 });
+      h4(el, L('Palavras acrescentadas (para cima) e suprimidas (para baixo) em cada revisão', 'Words added (up) and removed (down) by each revision'), 12);
+      const rv = R.slice(1), h = nw ? 180 : 200, m = { t: 24, r: 8, b: 22, l: 48 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(rv.map(yrOf)).range([0, iw]).padding(.35);
+      const mx = d3.max(rv, r => Math.max(sum(Object.values(r.add)), sum(Object.values(r.rem)))), y = d3.scaleLinear().domain([-mx, mx]).nice().range([ih, 0]);
+      const ax = g.append('g').attr('class', 'axis grid'); y.ticks(4).forEach(v => { ax.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(v)).attr('y2', y(v)); ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '.32em').attr('text-anchor', 'end').text(fmt(Math.abs(v))); });
+      const bw = Math.min(nw ? 28 : 56, x.bandwidth());
+      rv.forEach(r => {
+        const x0 = x(yrOf(r)) + (x.bandwidth() - bw) / 2, a = sum(Object.values(r.add)), d = sum(Object.values(r.rem));
+        g.append('path').attr('d', colPath(x0, y(0), bw, y(a), 3)).attr('fill', cols[2]);
+        g.append('path').attr('d', colPathDown(x0, y(0), bw, y(-d), 3)).attr('fill', cols[7]);
+        g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(a) - 4).attr('text-anchor', 'middle').text('+' + fmt(a));
+        g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(-d) + 12).attr('text-anchor', 'middle').text('−' + fmt(d));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - 6).attr('width', bw + 12).attr('y', 0).attr('height', ih).datum(r),
+          q => `<b>${q.act}</b>` + trow(null, L('Em vigor', 'In force'), dateTxt(q.day)) + trow(cols[2], L('Palavras acrescentadas', 'Words added'), fmt(sum(Object.values(q.add)))) + trow(cols[7], L('Palavras suprimidas', 'Words removed'), fmt(sum(Object.values(q.rem)))) +
+            trow(null, L('Ficheiros alterados', 'Files changed'), fmt(q.files.M + q.files.A + q.files.D)) + PK.map(k => (q.add[k] || q.rem[k]) ? trow(null, L(...PN[k]), `+${fmt(q.add[k] || 0)} / −${fmt(q.rem[k] || 0)}`) : '').join(''));
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', y(0)).attr('y2', y(0));
+      rv.forEach(r => g.append('text').attr('class', 'lbl strong').attr('x', x(yrOf(r)) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(yrOf(r)));
+      note(el, ['constitution/constituicao/', 'constituicao/ (até 10/11/2026)', 'git log --raw'], fmt(R.length) + L(' versões', ' versions'),
+        L('palavras dos artigos e do preâmbulo, sem os números dos artigos nem os títulos das divisões; as diferenças são calculadas sobre o texto inteiro, por parágrafo e por palavra, para que um artigo que só mudou de número não conte. O texto de 1976 é o que o Diário da República consolida (termina no artigo 295.º). A revisão de 1982 inclui uma alteração do mesmo dia que o DR não atribui e uma disposição em vigor a 1 de outubro de 1983.',
+          'words of the articles and the preamble, without article numbers or division headings; differences are computed on the whole text, by paragraph and by word, so that an article that only changed number does not count. The 1976 text is the one the Diário da República consolidates (it ends at article 295). The 1982 revision includes a same-day change the DR does not attribute and a provision in force from 1 October 1983.'));
+      table(el, [L('Versão', 'Version'), L('Em vigor', 'In force'), ...PK.map(k => L(...PN[k])), t('total'), L('Acrescentadas', 'Added'), L('Suprimidas', 'Removed')],
+        R.map((r, i) => [r.act, dateShort(r.day), ...PK.map(k => r.size[k] || 0), words(r), i ? sum(Object.values(r.add)) : '–', i ? sum(Object.values(r.rem)) : '–']));
+    }
+  };
+});
+
+chart('c16', el => {
+  const c = D.c16, codes = Object.keys(c.codes).filter(k => k !== 'constituicao' && CODEN[k]).sort((a, b) => c.acts[b] - c.acts[a]);
+  const cc = codes[0], cp = codes[1];
+  return {
+    title: L(`Os códigos: o ${codeName(cc)} foi alterado por ${fmt(c.acts[cc])} atos desde 1967; o ${codeName(cp)}, por ${fmt(c.acts[cp])} desde ${c.first[cp].slice(0, 4)}`, `The codes: the ${codeName(cc)} was amended by ${fmt(c.acts[cc])} acts since 1967; the ${codeName(cp)} by ${fmt(c.acts[cp])} since ${c.first[cp].slice(0, 4)}`),
+    toc: L('Os códigos', 'The codes'),
+    dek: L(`Cada linha é um código e cada célula um ano: quantos atos o alteraram, segundo a cronologia de alterações do Diário da República. À direita, o total. Cada código começa no primeiro dia do seu texto consolidado.`,
+      `Each row is a code and each cell a year: how many acts amended it, according to the Diário da República's amendment timeline. On the right, the total. Each code starts on the first day of its consolidated text.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), ramp = seqRamp(), step = nw ? 5 : 1, Y0 = 1967;
+      const bins = d3.range(Y0 - (Y0 % step), YL + 1, step);
+      const val = (k, b) => sum(d3.range(b, b + step), yy => c.codes[k][yy] || 0);
+      const mx = d3.max(codes, k => d3.max(bins, b => val(k, b)));
+      const cl = v => v ? ramp(0.18 + 0.82 * Math.sqrt(v / mx)) : null;
+      legend(el, [1, Math.round(mx / 3), mx].map(v => ({ c: cl(v), l: L(`${fmt(v)} ${plw(v, 'ato', 'atos')}${step > 1 ? ' em 5 anos' : ' num ano'}`, `${fmt(v)} ${plw(v, 'act', 'acts')}${step > 1 ? ' in 5 years' : ' in a year'}`) })));
+      const lab = k => codeName(k), up = nw, rh = up ? 30 : 20;
+      const lw = up ? 0 : Math.ceil(textW(el, codes.map(lab))) + 12, rw = 36, m = { t: 4, l: lw, r: rw, b: 22 };
+      const svg = svgIn(el, w, m.t + m.b + rh * codes.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleBand().domain(bins).range([0, iw]).padding(0), cw = x.bandwidth();
+      codes.forEach((k, i) => {
+        const y0 = i * rh + (up ? 13 : 0), ch = rh - (up ? 15 : 3), f0 = +c.first[k].slice(0, 4);
+        if (up) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', y0 - 2).text(lab(k));
+        else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y0 + ch / 2 + 4).attr('text-anchor', 'end').text(lab(k));
+        g.append('rect').attr('x', x(bins.find(b => b + step > f0))).attr('width', iw - x(bins.find(b => b + step > f0))).attr('y', y0).attr('height', ch).attr('rx', 2).attr('fill', css('--surface-2'));
+        bins.forEach(b => { const v = val(k, b); if (v) g.append('rect').attr('x', x(b) + .5).attr('width', Math.max(1, cw - 1)).attr('y', y0).attr('height', ch).attr('rx', 1.5).attr('fill', cl(v)); });
+        g.append('text').attr('class', 'lbl').attr('x', iw + 6).attr('y', y0 + ch / 2 + 4).text(fmt(c.acts[k]));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', up ? 0 : -m.l).attr('width', up ? iw + rw : w).attr('y', i * rh).attr('height', rh).datum(k),
+          kk => { const ys = Object.entries(c.codes[kk]).sort((a, b) => b[1] - a[1]).slice(0, 4); return `<b>${esc(codeName(kk))}</b>` + trow(null, L('Texto consolidado desde', 'Consolidated text since'), dateTxt(c.first[kk])) + trow(null, L('Atos que o alteraram', 'Acts that amended it'), fmt(c.acts[kk])) + ys.map(([yy, v]) => trow(null, yy, fmt(v))).join(''); });
+      });
+      bins.forEach(b => { if (b % (nw ? 10 : 10) === 0) g.append('text').attr('class', 'lbl').attr('x', x(b) + (nw ? 0 : cw / 2)).attr('y', rh * codes.length + (up ? 13 : 0) + 14).attr('text-anchor', nw ? 'start' : 'middle').text(b); });
+      note(el, ['code/<código>/', 'codigo-civil/, codigo-do-trabalho/ (até 10/11/2026)', 'git log --raw (autor = ato)'], fmt(codes.length) + L(' códigos', ' codes'),
+        L('um ato alterou o código quando é o autor de pelo menos uma nova versão de um artigo; não contam as declarações de retificação nem as alterações que o DR não atribui. A história do Código Civil começa na cronologia do DR em 1975 (alterações anteriores aparecem na primeira versão seguinte). Os cinco códigos fiscais publicados pela Autoridade Tributária só têm o texto atual e ficam de fora.',
+          'an act amended a code when it is the author of at least one new version of an article; declarations of rectification and changes the DR does not attribute do not count. The Civil Code\'s timeline in the DR starts in 1975 (earlier changes appear in the next version). The five tax codes published by the Tax Authority have only their current text and are left out.'));
+      table(el, [L('Código', 'Code'), L('Desde', 'Since'), L('Atos', 'Acts')], codes.map(k => [codeName(k), dateShort(c.first[k]), c.acts[k]]));
+    }
+  };
+});
+
+chart('c17', el => {
+  const c = D.c17, B = c.books, b4 = B.find(b => b.b === 'IV');
+  const BN = { I: ['Livro I · Parte geral', 'Book I · General part'], II: ['Livro II · Obrigações', 'Book II · Obligations'], III: ['Livro III · Coisas', 'Book III · Property'], IV: ['Livro IV · Família', 'Book IV · Family'], V: ['Livro V · Sucessões', 'Book V · Succession'] };
+  const keys = ['orig', 'd1970', 'd1980', 'd1990', 'd2000', 'd2010', 'd2020'];
+  return {
+    title: L(`O Código Civil: ${pct(c.orig, c.n)} dos artigos mantêm a redação original de 1966; no livro da família, só ${pct(b4.orig, b4.n)}`, `The Civil Code: ${pct(c.orig, c.n)} of its articles keep their original 1966 wording; in the book on the family, only ${pct(b4.orig, b4.n)}`),
+    toc: L('O Código Civil', 'The Civil Code'),
+    dek: L(`Os ${fmt(c.n)} artigos em vigor do Código Civil, aprovado pelo Decreto-Lei n.º 47344 e em vigor desde 1 de junho de 1967, por livro e pela década da sua última alteração. O livro IV, do direito da família, foi reescrito na década de 1970 (${fmt(b4.d1970)} artigos com a última redação dessa década) e voltou a mudar desde 2000.`,
+      `The ${fmt(c.n)} articles in force of the Civil Code, approved by Decreto-Lei n.º 47344 and in force since 1 June 1967, by book and by the decade of their last change. Book IV, on family law, was rewritten in the 1970s (${fmt(b4.d1970)} articles with their last wording from that decade) and has changed again since 2000.`),
+    draw(el) {
+      const ramp = seqRamp(), colors = [css('--muted-mark'), ...[.25, .4, .55, .7, .85, 1].map(ramp)];
+      const names = [L('nunca alterado', 'never changed'), ...['1970', '1980', '1990', '2000', '2010', '2020'].map(d => L(`última alteração nos anos ${d.slice(2)}`, `last changed in the ${d}s`))];
+      legend(el, [{ c: colors[0], l: names[0] }, ...['1970', '1980', '1990', '2000', '2010', '2020'].map((d, i) => ({ c: colors[i + 1], l: L(`${d}s`.replace(/s$/, '–' + String(+d + 9).slice(2)), `${d}s`) }))]);
+      bands(el, B, keys, colors, names, { rowH: 38, label: (r, nw) => nw ? L(`Livro ${r.b}`, `Book ${r.b}`) : L(...BN[r.b]), right: r => L(`${pct(r.orig, r.n)} original`, `${pct(r.orig, r.n)} original`),
+        tipExtra: r => trow(null, L('Artigos em vigor', 'Articles in force'), fmt(r.n)) + trow(null, L('Artigos', 'Articles'), `${r.from}.º–${r.to}.º`) + trow(null, L('Revogados', 'Repealed'), fmt(r.gone)) + trow(null, L('Mais alterado', 'Most changed'), L(`artigo ${r.most[0][0]}.º (${r.most[0][1]} vezes)`, `article ${r.most[0][0]} (${r.most[0][1]} times)`)) });
+      note(el, ['code/codigo-civil/', 'codigo-civil/ (até 10/11/2026)', 'git log --raw'], fmt(c.n) + L(' artigos em vigor', ' articles in force'),
+        L(`um artigo foi alterado quando o seu ficheiro tem uma versão posterior a 1 de junho de 1967. A cronologia do Diário da República começa em 1975: alterações de 1967 a 1975 aparecem na primeira versão seguinte. O artigo mais alterado é o ${c.top[0][0]}.º (${c.top[0][1]} alterações). Os livros seguem a numeração do próprio código (1.º–396.º, 397.º–1250.º, 1251.º–1575.º, 1576.º–2023.º, 2024.º–2334.º).`,
+          `an article was changed when its file has a version after 1 June 1967. The Diário da República's timeline begins in 1975: changes from 1967 to 1975 appear in the next version. The most changed article is article ${c.top[0][0]} (${c.top[0][1]} changes). The books follow the code's own numbering (1–396, 397–1250, 1251–1575, 1576–2023, 2024–2334).`));
+      table(el, [L('Livro', 'Book'), L('Em vigor', 'In force'), ...names, L('Revogados', 'Repealed')], B.map(r => [L(...BN[r.b]), r.n, ...keys.map(k => r[k]), r.gone]));
+    }
+  };
+});
+
+part('p5', 'V. Os tribunais', 'V. The courts',
+  'A fiscalização da constitucionalidade publicada na 1.ª série, os acórdãos do Tribunal Constitucional desde 1983 e as decisões da arbitragem tributária do CAAD.',
+  'Constitutional review published in the 1.ª série, the Constitutional Court\'s rulings since 1983 and the tax-arbitration decisions of the CAAD.');
+
+chart('c18', el => {
+  const c = D.c18, rows = c.rows.map(r => ({ y: r.y, yes: (r.cr_yes || 0) + (r.tc_yes || 0), no: (r.cr_no || 0) + (r.tc_no || 0), pre: (r.cr_pre || 0) + (r.tc_pre || 0),
+    preno: (r.cr_preno || 0) + (r.tc_preno || 0), other: (r.cr_other || 0) + (r.tc_other || 0) + (r.cr_omis || 0) + (r.tc_omis || 0) }));
+  const keys = ['yes', 'no', 'pre', 'preno', 'other'];
+  const tc = rows.filter(r => r.y >= 1983), cr = rows.filter(r => r.y < 1983), tcy = sum(tc, r => r.yes), cry = sum(cr, r => r.yes), tcp = sum(tc, r => r.pre);
+  const B3 = c.budget, B123 = B3.filter(e => e[2].some(q => q >= 2012 && q <= 2014) && +e[0].slice(0, 4) === e[2][0]);
+  return {
+    title: L(`Inconstitucional com força obrigatória geral: ${fmt(tcy)} declarações do Tribunal Constitucional desde 1983, ${fmt(cry)} do Conselho da Revolução antes`, `Unconstitutional with general binding force: ${fmt(tcy)} declarations by the Constitutional Court since 1983, ${fmt(cry)} by the Council of the Revolution before`),
+    toc: L('A fiscalização da constitucionalidade', 'Constitutional review'),
+    dek: L(`Por ano, as decisões sobre a constitucionalidade publicadas na 1.ª série, pelo que decidem: até 1982, resoluções do Conselho da Revolução; desde 1983, acórdãos do Tribunal Constitucional. Na fiscalização preventiva o Tribunal pronunciou-se pela inconstitucionalidade ${fmt(tcp)} vezes. Os pontos assinalam os ${fmt(B3.length)} acórdãos que declararam inconstitucionais normas de leis do Orçamento do Estado; os n.os ${andList(B123.map(e => e[1].replace(/^Acórdão do Tribunal Constitucional n\.º /, '')))} incidiram sobre o orçamento do próprio ano.`,
+      `By year, the rulings on constitutionality published in the 1.ª série, by what they decide: until 1982, resolutions of the Council of the Revolution; since 1983, rulings of the Constitutional Court. In preventive review the Court found unconstitutionality ${fmt(tcp)} times. The dots mark the ${fmt(B3.length)} rulings that declared provisions of State Budget laws unconstitutional; nos. ${andList(B123.map(e => e[1].replace(/^Acórdão do Tribunal Constitucional n\.º /, '')))} concerned the budget of their own year.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[7], cols[7] + '50', cols[1], cols[1] + '50', css('--muted-mark')];
+      const names = [L('declara a inconstitucionalidade ou ilegalidade', 'declares unconstitutionality or illegality'), L('não declara', 'does not declare'), L('preventiva: pronuncia-se pela inconstitucionalidade', 'preventive: finds unconstitutionality'),
+        L('preventiva: não se pronuncia pela inconstitucionalidade', 'preventive: does not find unconstitutionality'), L('outras (referendos, omissão, sem conhecimento…)', 'other (referendums, omission, not heard…)')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const w = W(el), nw = narrow(w);
+      const o = stackedColumns(el, rows, keys, colors, names, { h: nw ? 260 : 300, pad: .2, bw: 14, mt: 26, partial: r => r.y === YL, tick: r => r.y % (nw ? 10 : 5) === 0 });
+      const { g, x, y, ih } = o, x83 = x(1983) - x.step() * x.paddingInner() / 2;
+      g.append('line').attr('x1', x83).attr('x2', x83).attr('y1', -20).attr('y2', ih).attr('stroke', css('--text-3')).attr('stroke-dasharray', '3 3');
+      halo(g, x83 - 6, -10, nw ? L('C. Revolução', 'Council') : L('Conselho da Revolução', 'Council of the Revolution'), 'end', 'lbl');
+      halo(g, x83 + 6, -10, L('Tribunal Constitucional', 'Constitutional Court'), 'start', 'lbl');
+      const nb = {};
+      B3.forEach(e => { const yy = +e[0].slice(0, 4), r = rows.find(q => q.y === yy), tot = sum(keys, k => r[k]), cx = x(yy) + x.bandwidth() / 2, k = nb[yy] = (nb[yy] || 0) + 1;
+        bindTip(g.append('circle').attr('cx', cx).attr('cy', y(tot) - 6 - (k - 1) * 8).attr('r', 3).attr('fill', cols[7]).datum(e),
+          q => `<b>${esc(q[1])}</b>` + trow(null, L('Publicado', 'Published'), dateTxt(q[0])) + trow(cols[7], L('Orçamento do Estado para', 'State Budget for'), q[2].join(', '))); });
+      if (B123.length) { const yy = +B123[0][0].slice(0, 4), r = rows.find(q => q.y === yy), y1 = d3.min(B123, e => { const rr = rows.find(q => q.y === +e[0].slice(0, 4)); return y(sum(keys, k => rr[k])); });
+        halo(g, d3.mean(B123, e => x(+e[0].slice(0, 4)) + x.bandwidth() / 2), y1 - 18, nw ? L('OE 2012–14', 'Budgets 2012–14') : L('Orçamentos de 2012, 2013, 2014', 'Budgets of 2012, 2013, 2014'), 'middle', 'lbl strong', cols[7]); }
+      note(el, ['resolucao/ (1976–1982)', 'acordao/', 'acordao-tribunal-constitucional/', 'git log (sumário)'], fmt(c.ex.length) + L(' decisões', ' rulings'),
+        L('o resultado lê-se no sumário: "pronuncia-se pela inconstitucionalidade" (preventiva), "não se pronuncia", "declara a inconstitucionalidade/ilegalidade" (com força obrigatória geral) e "não declara"; uma decisão que declara uma norma e não outra conta como declaração. Acórdãos do Tribunal Constitucional: os que têm o seu nome e os "Acórdão n.º" de 1983 a 2008 com esses termos.',
+          'the outcome is read from the summary: "pronuncia-se pela inconstitucionalidade" (preventive), "não se pronuncia", "declara a inconstitucionalidade/ilegalidade" (with general binding force) and "não declara"; a ruling that declares one provision and not another counts as a declaration. Constitutional Court rulings: those bearing its name and the "Acórdão n.º" of 1983 to 2008 with those terms.'));
+      table(el, [L('Data', 'Date'), L('Decisão', 'Ruling'), L('Resultado', 'Outcome'), L('Sumário', 'Summary')], c.ex.map(e => [e[0], e[1], names[['yes', 'no', 'pre', 'preno', 'other', 'omis'].indexOf(e[3])] || names[4], e[4]]));
+    }
+  };
+});
+
+chart('c19', el => {
+  const c = D.c19, keys = ['rec', 'recl', 'suc', 'pre', 'ele', 'par', 'oth'];
+  const KN = { rec: ['Recursos (fiscalização concreta)', 'Appeals (concrete review)'], recl: ['Reclamações', 'Complaints'], suc: ['Fiscalização sucessiva abstrata', 'Abstract successive review'],
+    pre: ['Fiscalização preventiva', 'Preventive review'], ele: ['Eleições e referendos', 'Elections and referendums'], par: ['Partidos e financiamento', 'Parties and their finances'], oth: ['Outros', 'Other'] };
+  const rows = c.rows.filter(r => r.y >= 1983), T = k => sum(rows, r => r[k] || 0), N = sum(keys, T), S = T('sum');
+  const mx = rows.reduce((a, b) => sum(keys, k => b[k] || 0) > sum(keys, k => a[k] || 0) ? b : a);
+  return {
+    title: L(`O Tribunal Constitucional: ${fmt(N)} acórdãos desde 1983, ${pct(T('rec'), N)} em recursos de casos concretos`, `The Constitutional Court: ${fmt(N)} rulings since 1983, ${pct(T('rec'), N)} on appeals in concrete cases`),
+    toc: L('O Tribunal Constitucional', 'The Constitutional Court'),
+    dek: L(`Todos os acórdãos do Tribunal Constitucional no repositório, por espécie de processo. A fiscalização abstrata, sucessiva e preventiva, dá ${fmt(T('suc') + T('pre'))} acórdãos (${pct(T('suc') + T('pre'), N, 1)}). O ano com mais acórdãos foi ${mx.y} (${fmt(sum(keys, k => mx[k] || 0))}). Desde 1998 há também ${fmt(S)} decisões sumárias.`,
+      `Every Constitutional Court ruling in the repository, by kind of proceedings. Abstract review, successive and preventive, accounts for ${fmt(T('suc') + T('pre'))} rulings (${pct(T('suc') + T('pre'), N, 1)}). The year with the most rulings was ${mx.y} (${fmt(sum(keys, k => mx[k] || 0))}). Since 1998 there are also ${fmt(S)} summary decisions.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], cols[6], cols[7], cols[1], cols[3], cols[2], css('--muted-mark')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...KN[k]) })));
+      const all = Object.fromEntries(keys.map(k => [k, T(k)]));
+      bands(el, [{ ...all, lab: L('Todos', 'All') }], keys, colors, keys.map(k => L(...KN[k])), { rowH: 40, minIn: 40, label: () => L(`${fmt(N)} acórdãos`, `${fmt(N)} rulings`), right: () => '' });
+      const w = W(el), nw = narrow(w);
+      stackedColumns(el, rows, keys, colors, keys.map(k => L(...KN[k])), { h: nw ? 240 : 280, pad: .2, bw: 16, partial: r => r.y === YL, tick: r => r.y % (nw ? 10 : 5) === 0 });
+      note(el, ['jurisprudencia/tc/<ano>/<mês>/acordao-<n>-<ano>/record.json (kind)', 'jurisprudencia/tc-decisoes-sumarias/'], fmt(N) + L(' acórdãos', ' rulings') + ` · ${fmt(S)} ${L('decisões sumárias', 'summary decisions')}`,
+        L(`a espécie é a do registo de cada acórdão no sítio do Tribunal ("Recurso", "Reclamação", "Sucessivo", "Preventivo", "Eleitoral", "Referendo", "Partido Político", "Financiamento PPCE" e outras). ${YL} vai até novembro (mais claro).`,
+          `the kind is the one in each ruling's record on the Court's website ("Recurso", "Reclamação", "Sucessivo", "Preventivo", "Eleitoral", "Referendo", "Partido Político", "Financiamento PPCE" and others). ${YL} runs to November (lighter).`));
+      table(el, [t('year'), ...keys.map(k => L(...KN[k])), t('total'), L('Decisões sumárias', 'Summary decisions')], rows.map(r => [yr(r.y), ...keys.map(k => r[k] || 0), sum(keys, k => r[k] || 0), r.sum || 0]));
+    }
+  };
+});
+
+chart('c20', el => {
+  const c = D.c20, keys = ['irc', 'irs', 'iva', 'is', 'imi', 'imt', 'veh', 'csr', 'cont', 'other'];
+  const KN = { irc: ['IRC · rendimento das empresas', 'IRC · corporate income tax'], irs: ['IRS · rendimento das pessoas', 'IRS · personal income tax'], iva: ['IVA', 'VAT (IVA)'], is: ['Imposto do Selo', 'Stamp duty'],
+    imi: ['IMI e adicional', 'Property tax (IMI, AIMI)'], imt: ['IMT', 'Property transfer tax (IMT)'], veh: ['IUC e ISV · veículos', 'Vehicle taxes (IUC, ISV)'], csr: ['Contribuição de Serviço Rodoviário', 'Road service levy (CSR)'],
+    cont: ['Outras contribuições e impostos especiais', 'Other levies and excise duties'], other: ['Questões gerais e de processo', 'General and procedural issues'] };
+  const rows = c.rows.filter(r => r.y >= 2012), N = sum(c.rows, r => sum(keys, k => r[k] || 0)), T = k => sum(c.rows, r => r[k] || 0);
+  const csrY = rows.reduce((a, b) => (b.csr || 0) > (a.csr || 0) ? b : a), isY = rows.reduce((a, b) => (b.is || 0) > (a.is || 0) ? b : a);
+  return {
+    title: L(`Arbitragem tributária: ${fmt(N)} decisões desde 2011; o IRC à frente (${fmt(T('irc'))}) e ${fmt(csrY.csr)} sobre a Contribuição de Serviço Rodoviário só em ${csrY.y}`, `Tax arbitration: ${fmt(N)} decisions since 2011; corporate income tax first (${fmt(T('irc'))}) and ${fmt(csrY.csr)} on the road service levy in ${csrY.y} alone`),
+    toc: L('A arbitragem tributária', 'Tax arbitration'),
+    dek: L(`As decisões arbitrais tributárias do CAAD por imposto, ano a ano (na mesma escala). Há ondas: o Imposto do Selo chegou a ${fmt(isY.is)} decisões em ${isY.y}; a Contribuição de Serviço Rodoviário quase não aparecia até ${csrY.y - 1}.`,
+      `The CAAD's tax-arbitration decisions by tax, year by year (on one scale). There are waves: stamp duty reached ${fmt(isY.is)} decisions in ${isY.y}; the road service levy barely appeared before ${csrY.y - 1}.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], cols[6], cols[2], cols[3], cols[4], cols[5], cols[1], cols[7], css('--text-3'), css('--muted-mark')];
+      const mx = d3.max(rows, r => d3.max(keys, k => r[k] || 0)), box = el.append('div').attr('class', 'multi');
+      const panes = keys.map(k => { const p = box.append('div'); p.append('h4').text(L(...KN[k])); p.append('p').text(L(`${fmt(T(k))} decisões · ${pct(T(k), N)}`, `${fmt(T(k))} decisions · ${pct(T(k), N)}`)); return p; });
+      keys.forEach((k, i) => {
+        const p = panes[i];
+        const ww = Wp(p), hh = 110, mm = { t: 6, b: 18, l: 26, r: 2 }, sv = svgIn(p, ww, hh), gg = sv.append('g').attr('transform', `translate(${mm.l},${mm.t})`);
+        const iw = ww - mm.l - mm.r, ih = hh - mm.t - mm.b, x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(.18), y = d3.scaleLinear().domain([0, mx]).nice().range([ih, 0]);
+        yAxis(gg, y, iw, 2);
+        rows.forEach(r => { const v = r[k] || 0; if (v) gg.append('path').attr('d', colPath(x(r.y), ih, x.bandwidth(), y(v), 1.5)).attr('fill', colors[i]).attr('opacity', r.y === YL ? .5 : 1); });
+        gg.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        [rows[0].y, YL].forEach((yy, j) => gg.append('text').attr('class', 'lbl mut').attr('x', x(yy) + (j ? x.bandwidth() : 0)).attr('y', ih + 14).attr('text-anchor', j ? 'end' : 'start').text(yy));
+        bindTip(gg.append('g').selectAll('rect').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+          r => `<b>${L(...KN[k])} · ${r.y}${r.y === YL ? ' (' + t('partial') + ')' : ''}</b>` + trow(colors[i], L('Decisões', 'Decisions'), fmt(r[k] || 0)) + trow(null, L('Todas as decisões do ano', 'All decisions that year'), fmt(sum(keys, q => r[q] || 0))));
+      });
+      note(el, ['jurisprudencia/caad-tributario/<ano>/<mês>/', 'git log (descritores)'], fmt(N) + L(' decisões', ' decisions'),
+        L(`o imposto é o primeiro que os descritores da decisão nomeiam (IRC, CIRC, derrama, tributação autónoma… para o IRC; IRS, residente não habitual, mais-valias… para o IRS; e assim por diante, em prep.py); o resto conta como questões gerais e de processo. ${YL} vai até novembro (mais claro); 2011 tem ${fmt(sum(keys, k => (c.rows.find(r => r.y === 2011) || {})[k] || 0))} decisões e não se mostra.`,
+          `the tax is the first one the decision's descriptors name (IRC, CIRC, derrama, autonomous taxation… for IRC; IRS, non-habitual resident, capital gains… for IRS; and so on, in prep.py); the rest counts as general and procedural issues. ${YL} runs to November (lighter); 2011 has ${fmt(sum(keys, k => (c.rows.find(r => r.y === 2011) || {})[k] || 0))} decisions and is not shown.`));
+      table(el, [t('year'), ...keys.map(k => L(...KN[k])), t('total')], c.rows.map(r => [yr(r.y), ...keys.map(k => r[k] || 0), sum(keys, k => r[k] || 0)]));
+    }
+  };
+});
+
+// reading order (chart numbers follow it)
+const ORDER = ['p1', 'c01', 'c02', 'c03', 'c04', 'c10', 'p2', 'c05', 'c06', 'c07', 'c08', 'c09', 'p3', 'c11', 'c12', 'c13', 'c14', 'p4', 'c15', 'c16', 'c17', 'p5', 'c18', 'c19', 'c20'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html(''), ar = P.ar, dg = P.dgsi;
+  const rows = [
+    [L('Atos da 1.ª série', 'Acts of the 1.ª série'), '<tipo>/<ano>/<número>/ · act/ · git log', fmt(P.acts1), L(`Diário do Governo e Diário da República, ${P.acts1_from.slice(0, 4)}–${P.built.slice(0, 4)}: nome, dia de publicação, sumário; texto para a maioria desde 1960`, `Diário do Governo and Diário da República, ${P.acts1_from.slice(0, 4)}–${P.built.slice(0, 4)}: name, day of publication, summary; text for most since 1960`),
+      L('registos sem texto para muitos atos anteriores a 1960 (o DR só tem PDF digitalizado); o dia de entrada em vigor só é lido para uma parte', 'records without text for many acts before 1960 (the DR has only a scanned PDF); the day of entry into force is read for only some')],
+    [L('Registos da 2.ª série', 'Records of the 2.ª série'), 'serie-2/', fmt(P.s2), L('regulamentos, portarias, despachos normativos, avisos e editais', 'regulations, portarias, normative despachos, notices and edicts'), L('só metadados para os tipos que podem identificar pessoas', 'metadata only for kinds that may identify persons')],
+    [L('Constituição e códigos', 'Constitution and codes'), 'constitution/ · code/', `1 + ${fmt(P.codes - 1)}`, L('cada versão de cada artigo desde o início do texto consolidado', 'every version of every article since the start of the consolidated text'), L('a história do Código Civil começa em 1975 na cronologia do DR', 'the Civil Code\'s timeline in the DR starts in 1975')],
+    [L('Assembleia da República', 'Assembleia da República'), 'parlamento/', fmt(sum(Object.values(ar))), L(`iniciativas (${fmt(ar.iniciativa)}) e fases, propostas de alteração ao OE (${fmt(ar['proposta-alteracao-oe'])}), perguntas e respostas, intervenções, petições`, `initiatives (${fmt(ar.iniciativa)}) and steps, budget amendments (${fmt(ar['proposta-alteracao-oe'])}), questions and answers, speeches, petitions`),
+      L('dados abertos do parlamento; iniciativas incompletas nas legislaturas III, XIII e XIV', 'the parliament\'s open data; initiatives incomplete for legislatures III, XIII and XIV')],
+    [L('Tribunal Constitucional', 'Constitutional Court'), 'jurisprudencia/tc/ · tc-decisoes-sumarias/', fmt(P.tc), L('acórdãos desde 1983 e decisões sumárias desde 1998, com a espécie de processo', 'rulings since 1983 and summary decisions since 1998, with the kind of proceedings'), L('o resultado não está no registo', 'the outcome is not in the record')],
+    [L('Tribunais superiores (DGSI)', 'Higher courts (DGSI)'), 'jurisprudencia/jstj · jsta · jtr… ', fmt(sum(Object.values(dg))), L('acórdãos do STJ, STA, Relações e TCA, como a DGSI os publica', 'rulings of the STJ, STA, courts of appeal and TCA, as the DGSI publishes them'), L('uma seleção do publicador; não usados nos gráficos', 'the publisher\'s selection; not used in the charts')],
+    [L('Arbitragem tributária (CAAD)', 'Tax arbitration (CAAD)'), 'jurisprudencia/caad-tributario/', fmt(P.caad), '2011–' + P.built.slice(0, 4), L('o imposto lê-se nos descritores', 'the tax is read from the descriptors')],
+    [L('Madeira (JORAM)', 'Madeira (JORAM)'), 'joram/', fmt(P.joram_acts), L('atos da I série desde 2001 e registos dos números', 'acts of the I série since 2001 and issue records'), L('os Açores não estão no repositório', 'the Azores are not in the repository')],
+    [L('Histórico git', 'Git history'), 'git log', fmt(P.commits), L('um commit por versão, datado do dia em que entrou em vigor (In-force:)', 'one commit per version, dated the day it took effect (In-force:)'), L('commits anteriores a 1970 têm a data de 1970; o dia real está em In-force', 'commits before 1970 carry a 1970 date; the real day is in In-force')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(phx(v))}</code>` : esc(v));
+}
+// a label that runs past the edge of its chart's card would be cut: report it (the charts size their columns to their labels)
+function checkLeftLabels(fig) {
+  const fr = fig.node().getBoundingClientRect();
+  fig.selectAll('svg text').each(function () {
+    const r = this.getBoundingClientRect();
+    if (r.width && (r.left < fr.left - 0.5 || r.right > fr.right + 0.5)) console.warn('label outside its chart', fig.attr('id'), this.textContent);
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG === 'pt' ? 'pt-PT' : 'en';
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  const tv = [[PF.acts1, L('atos da 1.ª série, desde 1910', 'acts of the 1.ª série, since 1910')], [PF.s2, L('registos da 2.ª série', 'records of the 2.ª série')],
+    [PF.ini, L('iniciativas legislativas na Assembleia, desde 1976', 'legislative initiatives in the Assembly, since 1976')], [PF.q, L('perguntas de deputados ao Governo', 'MPs\' questions to the Government')],
+    [PF.tc, L('decisões do Tribunal Constitucional', 'Constitutional Court decisions')], [PF.commits, L('commits no histórico git', 'commits in the git history')]];
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html(d => `<b>${fmt(d[0])}</b><span>${esc(d[1])}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.pt, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dpt, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.pt, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    checkLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.toc || spec.title.split(/:\s/)[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', dateTxt(PF.built) + (PF.head ? ', ' + PF.head.slice(0, 10) : '')));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('pt-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('pt-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+// labels are measured as they are drawn: draw again when the web fonts have loaded, so the measures are the fonts' own
+let ft;
+const redraw = () => { clearTimeout(ft); ft = setTimeout(() => { const y = scrollY; render(); scrollTo(0, y); }, 120); };
+const T0 = Date.now();
+if (document.fonts) { if (document.fonts.status !== 'loaded') document.fonts.ready.then(redraw); document.fonts.addEventListener('loadingdone', () => { if (Date.now() - T0 < 15000) redraw(); }); }
+</script>
+</body>
+</html>

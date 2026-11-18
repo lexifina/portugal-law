@@ -83,7 +83,13 @@ No AI model wrote or changed legal text, and none is called when the history is 
 
 ## Visualisations
 
-- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+[visualisations/](visualisations/): Portuguese law in 20 charts, drawn from this repository.
+
+Including:
+
+- the official gazette year by year, laws and decree-laws, the overseas empire in the summaries
+- the spelling reform, rectifications and the dates of the State Budget
+- the Assembleia da República, the revisions of the Constitution and the Constitutional Court
 
 ## More
 

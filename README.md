@@ -85,7 +85,13 @@ Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); se div
 
 ## Visualizações
 
-- [visualisations/](visualisations/): gráficos feitos a partir deste repositório. Ainda não feitos.
+[visualisations/](visualisations/): O direito português em 20 gráficos, desenhados a partir deste repositório.
+
+Incluindo:
+
+- o jornal oficial ano a ano, as leis e os decretos-leis, o Ultramar nos sumários
+- a ortografia, as retificações e as datas do Orçamento do Estado
+- a Assembleia da República, as revisões da Constituição e o Tribunal Constitucional
 
 ## Mais informação
 
