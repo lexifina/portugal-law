@@ -60,7 +60,7 @@ Each change is credited to the act the Diário da República's amendment timelin
 - `tools/check_repo.py` reads the Constitution and the two codes back from git on every day a version took effect and compares them with the Diário da República's consolidated text for that day, file by file and word for word against its raw text: 111 days, 196,180 files and 16,587,703 words, 0 mismatches.
 - A second build from the same data gave the same hash for every one of the 148 law commits and 249 tags; `data/versoes.json` lists every text read, with its sha256.
 - `tools/test_repo.py` checks that blame names an act, that the text changes across an amendment and that `git log --follow` works. The results are in [`REPRODUCE.md`](REPRODUCE.md), which describes the build of the first three acts only.
-- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Portuguese law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

@@ -60,7 +60,7 @@ Cada alteração é atribuída ao ato que a cronologia de alterações do Diári
 - `tools/check_repo.py` lê a Constituição e os dois códigos a partir do git em cada dia em que uma versão entrou em vigor e compara-os com o texto consolidado do Diário da República para esse dia, ficheiro a ficheiro e palavra a palavra com o texto em bruto: 111 dias, 196 180 ficheiros e 16 587 703 palavras, 0 diferenças.
 - Uma segunda construção a partir dos mesmos dados deu o mesmo hash para cada um dos 148 commits de lei e das 249 tags; `data/versoes.json` lista cada texto lido, com o seu sha256.
 - `tools/test_repo.py` verifica que o blame indica um ato, que o texto muda com uma alteração e que `git log --follow` funciona. Os resultados estão em [`REPRODUCE.md`](REPRODUCE.md), que descreve apenas a construção dos três primeiros atos.
-- [vulnerabilities/](vulnerabilities/): possíveis erros de redação neste direito, encontrados pelos detetores do global-law e verificados à mão. Ainda não executado.
+- [vulnerabilities/](vulnerabilities/): possíveis erros de redação no direito português, encontrados pelos detetores do global-law e verificados à mão.
 
 ## O que não mostra
 
