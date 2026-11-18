@@ -11,7 +11,7 @@ O direito de Portugal como histórico git: um ficheiro por artigo, um commit por
 
 Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), um único histórico git para o direito de todos os países: este é o direito nacional de Portugal, que o global-law lê em `portugal/national/acts/`.
 
-**O que contém agora:** a Constituição, com as suas sete revisões ([`constituicao/`](constituicao/)); 34 códigos ([`codigos/`](codigos/)); o Diário da República, 1.ª série, desde 1976 e o Diário do Governo desde 1910, por tipo de ato ([`legislacao/`](legislacao/)), com 18 650 das 23 350 leis e decretos-leis em vigor; atos regulamentares da 2.ª série ([`serie-2/`](serie-2/)); mais de 330 000 decisões dos tribunais ([`jurisprudencia/`](jurisprudencia/)); e os registos da Assembleia da República ([`parlamento/`](parlamento/)). Os README das pastas e [`data/`](data/) dão o detalhe.
+**O que contém agora:** a Constituição, com as suas sete revisões ([`constituicao/`](constituicao/)); 34 códigos ([`codigos/`](codigos/)); o Diário da República, 1.ª série, desde 1976 e o Diário do Governo desde 1910, por tipo de ato ([`legislacao/`](legislacao/)), com 18 650 das 23 350 leis e decretos-leis em vigor; atos regulamentares da 2.ª série ([`serie-2/`](serie-2/)); mais de 330 000 decisões dos tribunais ([`jurisprudencia/`](jurisprudencia/)); os registos da Assembleia da República ([`parlamento/`](parlamento/)); as decisões da ANACOM e os avisos do Banco de Portugal ([`reguladores/`](reguladores/)); e o jornal oficial da Madeira, o JORAM, desde 1977 ([`regioes/joram/`](regioes/joram/)). Cada registo indica a página de onde foi lido, e [`data/`](data/) dá o detalhe.
 
 Cada ato está em `legislacao/<tipo>/<ano>/<número>/` (`legislacao/lei/2014/35/` é a Lei Geral do Trabalho em Funções Públicas, Lei n.º 35/2014, com o seu anexo em `anexo/`; um número com letra é uma pasta como `legislacao/decreto-lei/1981/110-a/`), com um ficheiro por artigo; a Constituição está em [`constituicao/`](constituicao/), e o Código Civil e o Código do Trabalho (aprovado pela Lei n.º 7/2009) em `codigos/codigo-civil/` e `codigos/codigo-do-trabalho/`. Até 10 de novembro de 2026, cada pasta tinha o nome do identificador do ato (`codigo-do-trabalho/`), e até 17 de novembro de 2026 as pastas de cada tipo estavam na raiz (`lei/`, `code/`): `git log --follow` e `git blame` acompanham as mudanças, [`data/paths.json`](data/paths.json) faz corresponder cada identificador à sua pasta e os dois últimos comandos abaixo usam as pastas antigas.
 
@@ -64,7 +64,7 @@ Cada alteração é atribuída ao ato que a cronologia de alterações do Diári
 
 ## O que não mostra
 
-- **Outros tipos de ato.** Os atos da 2.ª série que podem identificar pessoas (nomeações, avisos de pessoal, a maioria dos despachos e avisos) ficam de fora, e as suas portarias, acórdãos, pareceres e resoluções são registos de metadados sem texto; não há atos regionais dos Açores e da Madeira nem direito da UE.
+- **Outros tipos de ato.** Os atos da 2.ª série que podem identificar pessoas (nomeações, avisos de pessoal, a maioria dos despachos e avisos) ficam de fora, e as suas portarias, acórdãos, pareceres e resoluções são registos de metadados sem texto; não há atos regionais dos Açores nem direito da UE.
 - **As versões anteriores da maioria dos outros atos.** 1698 dos 2098 têm apenas o texto atual. Para os outros 400, o histórico começa na primeira alteração datada, porque o Diário da República não indica dia de entrada em vigor para o texto original; o `git blame` simples indica neles o editor, enquanto as ferramentas do global-law leem as correções.
 - **A entrada em vigor que o Diário da República não modela.** Alguns artigos do Código do Trabalho ficaram dependentes de legislação posterior (Lei n.º 7/2009, artigo 14.º), e os artigos 1841.º a 1850.º do Código Civil entraram em vigor em 1 de janeiro de 1968; ambos são mostrados desde o primeiro dia do ato.
 - **O Código Civil de 1967 a 1975.** A cronologia de alterações começa em 1975, pelo que as alterações anteriores aparecem na sua primeira versão posterior, atribuídas ao editor. O primeiro texto da Constituição, tal como consolidado, termina no artigo 295.º e não tem assinaturas até 1982.
@@ -74,10 +74,18 @@ Cada alteração é atribuída ao ato que a cronologia de alterações do Diári
 | Fonte | Tipo | Versões anteriores | Notas |
 | --- | --- | --- | --- |
 | [Diário da República](https://diariodarepublica.pt) (INCM), Legislação Consolidada | Jornal oficial: legislação consolidada | sim, cada versão de cada disposição com o dia em que entrou em vigor | O texto em vigor em cada dia e a cronologia de alterações que indica cada ato modificativo, lidos através dos pedidos que as suas próprias páginas fazem; os textos consolidados não têm valor legal, só o Diário da República tal como publicado faz fé |
+| [Diário da República](https://diariodarepublica.pt) (INCM), atos tal como publicados | Jornal oficial: 1.ª e 2.ª série, Diário do Governo | não | `legislacao/`, `serie-2/`, os avisos do Banco de Portugal e os acórdãos e assentos que publicou; muitos são registos de metadados com ligação ao PDF oficial |
+| [Bases Jurídico-Documentais](http://www.dgsi.pt) (IGFEJ, Ministério da Justiça) | Jurisprudência: Supremo Tribunal de Justiça, Supremo Tribunal Administrativo, Relações, tribunais centrais administrativos, Tribunal dos Conflitos, Julgados de Paz | não | Textos tal como publicados, anonimizados pelo editor |
+| [Tribunal Constitucional](https://www.tribunalconstitucional.pt) | Jurisprudência: acórdãos e decisões sumárias | não | Textos tal como publicados, anonimizados pelo editor; não autênticos |
+| [Tribunal de Contas](https://tcjure.tcontas.pt) | Jurisprudência | não | Sumários tal como publicados |
+| [CAAD](https://caad.org.pt) | Decisões de arbitragem tributária | não | Tal como publicadas, anonimizadas pelo editor |
+| [Assembleia da República](https://www.parlamento.pt) | Dados abertos, Diário da Assembleia da República, Debates Parlamentares | não | O texto dos debates é o OCR do editor; os nomes dos peticionários ficam de fora |
+| [ANACOM](https://www.anacom.pt) | Decisões do regulador | não | Tal como publicadas |
+| [JORAM](https://joram.madeira.gov.pt) | Jornal oficial da Madeira | não | Lido dos PDF oficiais |
 
 ## Licença
 
-Ver [`LICENSE`](LICENSE). O texto é o do Diário da República, publicado pela INCM no âmbito do serviço público de acesso universal e gratuito ao mesmo (Decreto-Lei n.º 83/2016), e os textos oficiais, como as leis, não são protegidos por direito de autor (Código do Direito de Autor e dos Direitos Conexos, artigo 8.º, n.º 1); o histórico, as mensagens dos commits, as tabelas e as ferramentas estão em CC0 1.0.
+Ver [`LICENSE`](LICENSE). O trabalho próprio da Lexifina (o histórico, as mensagens dos commits, as tabelas, as ferramentas e a documentação) está em CC0 1.0. Os textos e registos jurídicos são dos seus editores, indicados acima e no LICENSE com os termos de cada um, e continuam sujeitos a esses termos. Pelo Código do Direito de Autor e dos Direitos Conexos (artigo 8.º, n.º 1), as compilações de textos de leis, regulamentos e decisões do Estado não são protegidas. Nenhum dos textos aqui tem valor legal: só faz fé o ato tal como publicado, ou a decisão tal como proferida pelo tribunal.
 
 Nenhum modelo de IA escreveu ou alterou texto legal, e nenhum é chamado quando o histórico é construído ou verificado; os scripts foram escritos por um modelo de IA (ver [`REPRODUCE.md`](REPRODUCE.md)).
 

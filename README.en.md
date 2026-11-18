@@ -11,7 +11,7 @@ The law of Portugal as a git history: one file per article, one commit per versi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Portugal's national law, which global-law reads at `portugal/national/acts/`.
 
-**What is in it now:** the Constitution with its seven revisions ([`constituicao/`](constituicao/)); 34 codes ([`codigos/`](codigos/)); the Diário da República 1.ª série from 1976 and the Diário do Governo from 1910, by kind of act ([`legislacao/`](legislacao/)), with 18,650 of the 23,350 Leis and Decretos-Leis in force; regulatory acts of the 2.ª série ([`serie-2/`](serie-2/)); more than 330,000 court decisions ([`jurisprudencia/`](jurisprudencia/)); and the Assembleia da República's records ([`parlamento/`](parlamento/)). The folder READMEs and [`data/`](data/) give the detail.
+**What is in it now:** the Constitution with its seven revisions ([`constituicao/`](constituicao/)); 34 codes ([`codigos/`](codigos/)); the Diário da República 1.ª série from 1976 and the Diário do Governo from 1910, by kind of act ([`legislacao/`](legislacao/)), with 18,650 of the 23,350 Leis and Decretos-Leis in force; regulatory acts of the 2.ª série ([`serie-2/`](serie-2/)); more than 330,000 court decisions ([`jurisprudencia/`](jurisprudencia/)); the Assembleia da República's records ([`parlamento/`](parlamento/)); ANACOM's decisions and the Banco de Portugal's avisos ([`reguladores/`](reguladores/)); and Madeira's official journal, the JORAM, from 1977 ([`regioes/joram/`](regioes/joram/)). Each record names the page it was read from, and [`data/`](data/) gives the detail.
 
 Each act is in `legislacao/<kind>/<year>/<number>/` (`legislacao/lei/2014/35/` is the Lei Geral do Trabalho em Funções Públicas, Lei n.º 35/2014, with its annex in `anexo/`; a number with a letter is a folder like `legislacao/decreto-lei/1981/110-a/`), one file per article; the Constitution is in [`constituicao/`](constituicao/), and the Civil Code and the Labour Code (Código do Trabalho, approved by Lei n.º 7/2009) in `codigos/codigo-civil/` and `codigos/codigo-do-trabalho/`. Until 10 November 2026 each folder was named by the act's id (`codigo-do-trabalho/`), and until 17 November 2026 the kind folders were at the top (`lei/`, `code/`): `git log --follow` and `git blame` follow the moves, [`data/paths.json`](data/paths.json) maps each id to its folder, and the last two commands below name the old folders.
 
@@ -64,7 +64,7 @@ Each change is credited to the act the Diário da República's amendment timelin
 
 ## What it does not show
 
-- **Other kinds of act.** 2.ª série acts that can name persons (appointments, staff notices, most despachos and avisos) are left out, and its portarias, acórdãos, pareceres and resoluções are metadata records without text; the regional acts of the Azores and Madeira and EU law are not included.
+- **Other kinds of act.** 2.ª série acts that can name persons (appointments, staff notices, most despachos and avisos) are left out, and its portarias, acórdãos, pareceres and resoluções are metadata records without text; the regional acts of the Azores and EU law are not included.
 - **Earlier versions of most other acts.** 1,698 of the 2,098 have only their current text. For the other 400, history starts at the first dated change, as the Diário da República gives no in-force day for the original text; plain `git blame` on them names the publisher, while global-law's tools read the corrections.
 - **Commencement the Diário da República does not model.** Some articles of the Labour Code were deferred to later legislation (Lei n.º 7/2009, artigo 14.º), and the Civil Code's artigos 1841.º to 1850.º took effect on 1 January 1968; both are shown from the act's first day.
 - **The Civil Code from 1967 to 1975.** The amendment timeline starts in 1975, so earlier changes appear in its first later version, credited to the publisher. The Constitution's first text, as consolidated, ends at artigo 295.º and has no signatures until 1982.
@@ -74,10 +74,18 @@ Each change is credited to the act the Diário da República's amendment timelin
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Diário da República](https://diariodarepublica.pt) (INCM), Legislação Consolidada | Official journal: consolidated legislation | yes, every provision version with the day it took effect | The text in force on each day and the amendment timeline naming each amending act, read through the calls its own pages make; the consolidated texts have no legal value, only the Diário da República as published is authoritative |
+| [Diário da República](https://diariodarepublica.pt) (INCM), acts as published | Official journal: 1.ª and 2.ª série, Diário do Governo | no | `legislacao/`, `serie-2/`, the Banco de Portugal's avisos and the acórdãos and assentos it published; many are metadata records with a link to the official PDF |
+| [Bases Jurídico-Documentais](http://www.dgsi.pt) (IGFEJ, Ministério da Justiça) | Case law: Supremo Tribunal de Justiça, Supremo Tribunal Administrativo, the Relações, the central administrative courts, Tribunal dos Conflitos, Julgados de Paz | no | Texts as published, anonymised by the publisher |
+| [Tribunal Constitucional](https://www.tribunalconstitucional.pt) | Case law: acórdãos and decisões sumárias | no | Texts as published, anonymised by the publisher; not authentic |
+| [Tribunal de Contas](https://tcjure.tcontas.pt) | Case law | no | Summaries as published |
+| [CAAD](https://caad.org.pt) | Tax arbitration decisions | no | As published, anonymised by the publisher |
+| [Assembleia da República](https://www.parlamento.pt) | Open data, Diário da Assembleia da República, Debates Parlamentares | no | The debates' text is the publisher's OCR; petitioners' names are left out |
+| [ANACOM](https://www.anacom.pt) | Regulator's decisions | no | As published |
+| [JORAM](https://joram.madeira.gov.pt) | Madeira's official journal | no | Read from the official PDFs |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The text is the Diário da República's, published by INCM under the public service of universal and free access to it (Decreto-Lei n.º 83/2016), and official texts such as laws are not protected by copyright (Código do Direito de Autor e dos Direitos Conexos, artigo 8.º, n.º 1); the history, commit messages, tables and tools are CC0 1.0.
+See [`LICENSE`](LICENSE). Lexifina's own work (the history, commit messages, tables, tools and documentation) is CC0 1.0. The legal texts and records are their publishers', listed above and in the LICENSE with each one's terms, and stay under those terms. Under the Portuguese Copyright Code (Código do Direito de Autor e dos Direitos Conexos, artigo 8.º, n.º 1), compilations of the texts of laws, regulations and decisions of the State are not protected. None of the texts here has legal value: only the act as published, or the decision as given by its court, is authentic.
 
 No AI model wrote or changed legal text, and none is called when the history is built or checked; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 

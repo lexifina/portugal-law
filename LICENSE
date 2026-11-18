@@ -1,37 +1,85 @@
-Source of the legal text
+Licence and sources
 
-The text of the acts in this repository is the consolidated text (Legislação Consolidada) of the Diário da República,
-the official journal of the Portuguese Republic, published at https://diariodarepublica.pt by the Imprensa
-Nacional-Casa da Moeda, S.A. (INCM). Source: Diário da República, INCM, https://diariodarepublica.pt.
+1. Lexifina's own work
 
-The DR's legal notice (Avisos Legais, https://diariodarepublica.pt/dr/geral/avisos-legais, read on 2026-10-28) says:
-
-    O serviço público de acesso universal e gratuito do Diário da República é regulado pelo Decreto-Lei n.º 83/2016,
-    de 16 de dezembro, e pelo Despacho Normativo n.º 16/2022, de 30 de dezembro, que estabelecem que este serviço é
-    assegurado pela Imprensa Nacional-Casa da Moeda, S. A. (INCM), nos termos previstos no Decreto-Lei n.º 235/2015,
-    de 14 de outubro.
-    [...]
-    O acesso universal e gratuito compreende a possibilidade de impressão, arquivo, pesquisa e livre acesso ao
-    conteúdo dos atos publicados nas 1.ª e 2.ª séries do Diário da República.
-    [...]
-    A produção do texto consolidado dos atos publicados, ainda que sem valor legal, de modo a facilitar a consulta e
-    a sistematização do ordenamento jurídico;
-
-("The public service of universal and free access to the Diário da República is governed by Decreto-Lei n.º 83/2016
-[...] Universal and free access includes the possibility of printing, archiving, searching and free access to the
-content of the acts published in the 1st and 2nd series of the Diário da República. [...] The production of the
-consolidated text of published acts, though without legal value, to make the legal order easier to consult and
-systematise.")
-
-The same notice forbids only attempts to alter or upload information, or any action that could harm the system. It
-states no other condition on reuse. Under the Portuguese Copyright Code (Código do Direito de Autor e dos Direitos
-Conexos, artigo 8.º, n.º 1, read with artigo 3.º, n.º 1, alínea c)), compiled official texts such as laws do not
-benefit from copyright protection. The site's footer reads "INCM, SA - todos os direitos reservados". Whether the
-DR's consolidations as such may be republished in bulk is not settled here: this repository is private, and the
-consolidated texts have no legal value. Only the Diário da República as published is authoritative.
-
-Everything else in this repository (the history as commits, the commit messages, the tables and the tools) is
-dedicated to the public domain under CC0 1.0 Universal:
-https://creativecommons.org/publicdomain/zero/1.0/legalcode
+The history as commits, the commit messages, the tables, the tools and the documentation are dedicated to the
+public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 To the extent possible under law, Lexifina has waived all copyright and related or neighbouring rights to this work.
+
+This dedication covers only Lexifina's own work. It does not cover the texts and records listed in section 2, which
+are reproduced from their publishers and stay under whatever terms their publishers give them.
+
+2. Texts and records from their publishers
+
+Under the Portuguese Copyright Code (Código do Direito de Autor e dos Direitos Conexos, artigo 8.º, n.º 1, read with
+artigo 3.º, n.º 1, alínea c)), systematic or annotated compilations of the texts of conventions, laws, regulations and
+administrative or judicial decisions of the State, and their official translations, are not protected. None of the
+texts here has legal value: only the act as published in the official journal, or the decision as given by its court,
+is authentic. Each record names the page it was read from (`source`, or `fonte` in parlamento/) and the sha256 of
+what was read.
+
+2.1 Diário da República (INCM)
+    legislacao/, codigos/, constituicao/, serie-2/, reguladores/aviso-banco-portugal/, and the acórdãos and assentos
+    published in the Diário da República in jurisprudencia/ (acordao*, assento, 2001 to 2004).
+
+    Source: Diário da República, Imprensa Nacional-Casa da Moeda, S.A. (INCM), https://diariodarepublica.pt. The current
+    and earlier texts of consolidated acts are INCM's consolidated text (Legislação Consolidada), reproduced without
+    INCM's notes. The DR's legal notice (Avisos Legais, https://diariodarepublica.pt/dr/geral/avisos-legais, read on
+    2026-10-28) says:
+
+        O serviço público de acesso universal e gratuito do Diário da República é regulado pelo Decreto-Lei n.º 83/2016,
+        de 16 de dezembro, e pelo Despacho Normativo n.º 16/2022, de 30 de dezembro, que estabelecem que este serviço é
+        assegurado pela Imprensa Nacional-Casa da Moeda, S. A. (INCM), nos termos previstos no Decreto-Lei n.º 235/2015,
+        de 14 de outubro.
+        [...]
+        O acesso universal e gratuito compreende a possibilidade de impressão, arquivo, pesquisa e livre acesso ao
+        conteúdo dos atos publicados nas 1.ª e 2.ª séries do Diário da República.
+        [...]
+        A produção do texto consolidado dos atos publicados, ainda que sem valor legal, de modo a facilitar a consulta e
+        a sistematização do ordenamento jurídico;
+
+    ("The public service of universal and free access to the Diário da República is governed by Decreto-Lei n.º 83/2016
+    [...] Universal and free access includes the possibility of printing, archiving, searching and free access to the
+    content of the acts published in the 1st and 2nd series of the Diário da República. [...] The production of the
+    consolidated text of published acts, though without legal value, to make the legal order easier to consult and
+    systematise.")
+
+    The same notice forbids only attempts to alter or upload information, or any action that could harm the system,
+    and states no other condition on reuse. The consolidated text is produced as part of that public service. Lei n.º
+    26/2016, as amended by Lei n.º 68/2021 (which transposes Directive (EU) 2019/1024 on open data and the reuse of
+    public sector information), bars the public bodies it covers from using the database maker's right to prevent the
+    reuse of their documents.
+
+2.2 Courts
+    jurisprudencia/jstj, jsta, jtca, jtcn, jtrl, jtrp, jtrc, jtre, jtrg, jcon, cajp
+        Source: Bases Jurídico-Documentais, Instituto de Gestão Financeira e Equipamentos da Justiça (IGFEJ),
+        Ministério da Justiça, http://www.dgsi.pt. Texts as published, anonymised by the publisher.
+    jurisprudencia/tc, tc-decisoes-sumarias
+        Source: Tribunal Constitucional, https://www.tribunalconstitucional.pt. Texts as published, anonymised by the
+        publisher. The Court's site policy (https://tribunalconstitucional.pt/PesquisaAcordao/SitePolicy, read on
+        2026-11-18) asks that the source be named and that the case law be stated not to be authentic; both are
+        stated here and on each record.
+    jurisprudencia/tribunal-contas
+        Source: Tribunal de Contas, https://tcjure.tcontas.pt. Summaries as published.
+    jurisprudencia/caad-tributario
+        Source: CAAD - Centro de Arbitragem Administrativa, https://caad.org.pt. Tax arbitration decisions as CAAD
+        publishes them under Decreto-Lei n.º 10/2011, artigo 16.º, anonymised by the publisher.
+
+2.3 Assembleia da República
+    parlamento/
+        Source: Assembleia da República, open data (https://www.parlamento.pt, Dados Abertos),
+        the Diário da Assembleia da República and the Debates Parlamentares (https://debates.parlamento.pt), whose
+        text is the publisher's own OCR. Petitioners' names are left out (personal data of private persons).
+
+2.4 Regulators and regions
+    reguladores/anacom
+        Source: ANACOM - Autoridade Nacional de Comunicações, https://www.anacom.pt. Decisions as published.
+    regioes/joram
+        Source: Jornal Oficial da Região Autónoma da Madeira (JORAM), https://joram.madeira.gov.pt. Texts read from
+        the official PDFs.
+
+3. Questions
+
+A publisher who wants something here changed or removed can open an issue at
+https://github.com/lexifina/portugal-law/issues.
