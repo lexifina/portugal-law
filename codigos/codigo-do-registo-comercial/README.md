@@ -132,7 +132,6 @@ In force since 1987-01-01; 48 days with versions in the Diário da República (t
 | Artigo 93.º | [artigo-093.md](artigo-093.md) | 2 | 2007-01-01 |
 | Artigo 93.º-A | [artigo-093-a.md](artigo-093-a.md) | 1 | 2002-01-01 |
 | Artigo 93.º-B | [artigo-093-b.md](artigo-093-b.md) | 1 | 2002-01-01 |
-| Artigo 93.º-C | [artigo-093-c.md](artigo-093-c.md) | 3 | 2009-04-20 |
 | Artigo 93.º-D | [artigo-093-d.md](artigo-093-d.md) | 1 | 2002-01-01 |
 | Artigo 94.º | [artigo-094.md](artigo-094.md) | 1 | 2008-07-21 |
 | Artigo 94.º-A | [artigo-094-a.md](artigo-094-a.md) | 1 | 2008-07-21 |

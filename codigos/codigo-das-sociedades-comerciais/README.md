@@ -231,7 +231,7 @@ In force since 1986-11-01; 50 days with versions in the Diário da República (t
 | Artigo 168.º | [artigo-168.md](artigo-168.md) | 0 |  |
 | Artigo 169.º | [artigo-169.md](artigo-169.md) | 2 | 2006-06-30 |
 | Artigo 170.º | [artigo-170.md](artigo-170.md) | 0 |  |
-| Artigo 171.º | [artigo-171.md](artigo-171.md) | 4 | 2006-07-13 |
+| Artigo 171.º | [artigo-171.md](artigo-171.md) | 4 | 2006-06-30 |
 | Artigo 172.º | [artigo-172.md](artigo-172.md) | 0 |  |
 | Artigo 173.º | [artigo-173.md](artigo-173.md) | 0 |  |
 | Artigo 174.º | [artigo-174.md](artigo-174.md) | 1 | 2006-06-30 |
